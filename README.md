@@ -21,15 +21,29 @@ Just tell the AI what you want in one sentence:
 1. **Smart Search** — Searches through 6000+ prompts organized by use case
 2. **Visual Preview** — Every recommendation comes with sample images
 3. **Ready to Use** — Get the exact English prompt for Nano Banana Pro model
+4. **Content Remix** — Provide your article/video/podcast content, pick a style, get a customized prompt tailored to your content
 
 ### Example Conversations
 
+**Direct Search:**
 ```
 "Find me a cartoon-style avatar prompt"
 "I need prompts for travel blog covers"
 "Help me create an infographic for data comparison"
 "Looking for product photography prompts with white background"
 ```
+
+**Content Illustration (Remix Mode):**
+```
+"Here's my article about startup lessons learned, help me create a cover image"
+"I need an illustration for this podcast episode about AI and creativity: [paste content]"
+"Generate a thumbnail for my video script: [paste script]"
+```
+
+When you provide content, the skill will:
+1. Recommend matching style templates with previews
+2. Ask clarifying questions (e.g., gender, age, mood) to personalize
+3. Generate a customized prompt based on your content + selected style
 
 ## Data Source
 
@@ -159,6 +173,7 @@ Following [Claude Code skill best practices](https://github.com/anthropics/skill
 - **Progressive Disclosure** — Only `featured.json` fully loaded; others searched via Grep
 - **Signal Mapping** — Keyword-to-category routing for efficient search
 - **Token Optimization** — Never loads full category files into context
+- **Content-Aware Remix** — Extracts themes from user content and personalizes prompts with clarifying questions
 
 ## Related Links
 

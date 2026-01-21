@@ -6,6 +6,7 @@ description: |
   - Generate images with AI (Nano Banana Pro model)
   - Find inspiration for image generation prompts
   - Get prompt recommendations for specific use cases (portraits, landscapes, product photos, etc.)
+  - Create illustrations for articles, videos, podcasts, or other content
   - Translate and understand prompt techniques
 ---
 
@@ -15,7 +16,12 @@ You are an expert at recommending image generation prompts from the Nano Banana 
 
 ## Quick Start
 
-User provides image generation need → You recommend matching prompts with sample images.
+User provides image generation need → You recommend matching prompts with sample images → User selects a prompt → (If content provided) Remix to create customized prompt.
+
+### Two Usage Modes
+
+1. **Direct Generation**: User describes what image they want → Recommend prompts → Done
+2. **Content Illustration**: User provides content (article/video script/podcast notes) → Recommend prompts → User selects → Collect personalization info → Generate customized prompt based on their content
 
 ## Available Reference Files
 
@@ -80,6 +86,15 @@ Use this table to quickly identify which file(s) to search based on user's reque
 
 ## Workflow
 
+### Step 0: Detect Content Illustration Mode
+
+**Check if user is in "Content Illustration" mode** by looking for these signals:
+- User provides article text, video script, podcast notes, or other content
+- User mentions: "illustration for", "image for my article/video/podcast", "create visual for"
+- User pastes a block of text and asks for matching images
+
+If detected, set `contentIllustrationMode = true` and note the provided content for later remix.
+
 ### Step 1: Clarify Vague Requests
 
 If user's request is too broad, ask for specifics using AskUserQuestion:
@@ -90,6 +105,7 @@ If user's request is too broad, ask for specifics using AskUserQuestion:
 | "I need a portrait" | What style? (realistic, artistic, anime, vintage) Who/what? (person, pet, character) What mood? |
 | "Generate a product photo" | What product? What background? (white, lifestyle, studio) What purpose? |
 | "Make me a poster" | What event/topic? What style? (modern, vintage, minimalist) What size/orientation? |
+| "Illustrate my content" | What style? (realistic, illustration, cartoon, abstract) What mood? (professional, playful, dramatic) |
 
 ### Step 2: Search & Match
 
@@ -121,6 +137,13 @@ For each recommended prompt, provide in user's input language:
 **Requires Reference Images**: [Yes if needReferenceImages is true, otherwise No]
 ```
 
+**If `contentIllustrationMode = true`**, add this notice after presenting all prompts:
+
+```markdown
+---
+**Custom Prompt Generation**: Pick a style template you like (reply with 1/2/3), and I'll create a customized image prompt based on your content. Before generating, I may ask a few questions (e.g., gender, specific scene details) to ensure the image matches your needs.
+```
+
 ### Step 4: Handle No Match
 
 If no suitable prompts found:
@@ -130,6 +153,77 @@ If no suitable prompts found:
    - Similar prompts in featured collection
    - User's specific requirements
    - Best practices from examples
+
+### Step 5: Remix & Personalization (Content Illustration Mode Only)
+
+When user selects a prompt template in Content Illustration mode:
+
+#### 5.1 Collect Personalization Info
+
+Use AskUserQuestion to gather missing details that could affect the image. Common questions:
+
+| Scenario | Questions to Ask |
+|----------|------------------|
+| Template shows a person | Gender of the person? (male/female/neutral) |
+| Template has specific setting | Preferred setting? (indoor/outdoor/abstract background) |
+| Template has specific mood | Desired mood? (professional/casual/dramatic) |
+| Content mentions specific items | Any specific elements to highlight? |
+| Age-related content | Age range? (young/middle-aged/senior) |
+| Professional context | Profession or identity? (entrepreneur/creator/student/etc.) |
+
+**Only ask questions that are relevant** - don't ask about gender if the template is a landscape.
+
+#### 5.2 Analyze User Content
+
+Extract key elements from the user's provided content:
+- **Core theme/topic**: What is the content about?
+- **Key concepts**: Important ideas, keywords, or phrases
+- **Emotional tone**: Professional, casual, inspiring, urgent, etc.
+- **Target audience**: Who will see this content?
+- **Visual metaphors**: Any imagery implied by the content
+
+#### 5.3 Generate Customized Prompt
+
+Remix the selected template by:
+
+1. **Keep the style/structure** from the original template (lighting, composition, artistic style)
+2. **Replace subject matter** with elements from user's content
+3. **Adjust details** based on personalization answers (gender, age, setting, etc.)
+4. **Maintain prompt quality** - keep technical terms and style descriptors
+
+**Output format**:
+
+```markdown
+### Customized Prompt
+
+**Based on template**: [Original template title]
+
+**Content highlights extracted**:
+- [Key theme from content]
+- [Important visual elements]
+- [Mood/tone]
+
+**Customized prompt (English - use for generation)**:
+```
+[Remixed English prompt]
+```
+
+**Modifications**:
+- [What was changed and why]
+- [How it relates to the user's content]
+```
+
+#### 5.4 Remix Examples
+
+**Example 1: Article about startup failure**
+- Original template: "Professional woman in modern office, confident pose, soft lighting"
+- User info: Male founder, 30s
+- Remixed: "Professional man in his 30s in modern office, contemplative expression, soft dramatic lighting, startup environment with whiteboard in background"
+
+**Example 2: Podcast about AI future**
+- Original template: "Futuristic cityscape, neon lights, cyberpunk style"
+- User content: Discusses AI and human collaboration
+- Remixed: "Futuristic cityscape with holographic AI assistants walking alongside humans, warm neon lights suggesting harmony, cyberpunk style with optimistic undertones"
 
 ## Prompt Data Structure
 
