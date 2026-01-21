@@ -119,7 +119,7 @@ For each recommended prompt, provide in user's input language:
 
 **Description**: [Brief description translated to user's language]
 
-**Prompt (English - use this for generation)**:
+**Prompt**:
 ```
 [Original English prompt from content field]
 ```
