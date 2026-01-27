@@ -12,6 +12,86 @@
     "needReferenceImages": true
   },
   {
+    "content": "Act as an expert photo editor. Step 1: Mark up the uploaded image with handwritten yellow marker notes and sketches, identifying flaws and suggesting improvements. Step 2: Based strictly on those notes, edit the image to resolve the critiques and produce a superior final result.",
+    "title": "Expert Photo Editor Prompt for Selfie Improvement",
+    "description": "A two-step system prompt instructing the AI to act as an expert photo editor. First, it must mark up an uploaded image with handwritten notes identifying flaws and suggesting improvements. Second, it must strictly follow those critiques to edit the image and produce a superior final result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495431442_sr5qpw_G_nt67XWIAARX5P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Nano-scale cityscape inside a banana peel, buildings textured like bubbling cheese foam on concrete mixed with velvet fur and shattered glass, streets flowing with liquid mercury rivers, tiny inhabitants as pixelated wool figures, overhead view with god rays piercing through peel cracks, chaotic and vibrant, high-fidelity rendering, aspect ratio 9:16 for vertical scroll.",
+    "title": "Nano-Scale Cityscape Inside a Banana Peel Prompt",
+    "description": "A highly imaginative prompt for generating a surreal, chaotic, and vibrant nano-scale cityscape contained within a banana peel, featuring unusual textures like bubbling cheese foam and velvet fur, with liquid mercury rivers and pixelated wool figures as inhabitants.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495404071_czi269_G_mpzMOWMCszcXZ.jpg",
+      "https://cms-assets.youmind.com/media/1769495405106_eozyt1_G_mpzRNWMAgdwEq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A {argument name=\"age era\" default=\"[AGE / ERA]\"} {argument name=\"container object\" default=\"[CONTAINER / OBJECT]\"} associated with [CULTURE / CONTEXT], partially opened to reveal its contents transforming into a living landscape.\nThe material inside unfolds as a miniature world: [MATERIAL 1] becomes [GEOGRAPHIC FEATURE], [MATERIAL 2] forms [TERRAIN / STRUCTURE], [FINE DETAILS] flow like [NATURAL ELEMENTS].\nTiny [FIGURES / ENTITIES] inhabit the scene, moving through the terrain as part of a [JOURNEY / SYSTEM / ACTIVITY]. [CREATURES / VEHICLES] carry [SYMBOLIC LOADS] across [LANDMARKS].\nA [SHELTER / HUB / ARCHITECTURE] constructed from [UNEXPECTED MATERIAL] serves as a gathering point. The interior surface of the object becomes a [SKY / MAP / COSMIC PATTERN] used for guidance or meaning.\nThe entire scene is unified by [ATMOSPHERIC ELEMENT] and [TEXTURAL DETAIL], evoking [ABSTRACT THEME / EMOTION].\nCinematic macro perspective, handcrafted realism, surreal scale contrast, warm directional lighting, tactile materials, poetic world-building.",
+    "title": "World in an Object Cinematic 3D Scene Template",
+    "description": "A structured, fill-in-the-blank prompt template designed to generate a cinematic 3D image where a small object opens up to reveal an entire miniature world or landscape spilling out, emphasizing surreal scale contrast and poetic world-building.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495334751_qz8ft9_G_mR5inWcAA9FcU.jpg",
+      "https://cms-assets.youmind.com/media/1769495334827_al5j7b_G_mSf4_WoAAZWF9.jpg",
+      "https://cms-assets.youmind.com/media/1769495335075_1h06kz_G_mRqt6XkAAzXX_.jpg",
+      "https://cms-assets.youmind.com/media/1769495336826_t319tc_G_mSshtXQAA_063.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A vintage typewriter on a writer's desk, with the {argument name=\"subject\" default=\"[SUBJECT]\"} materializing from the words being typed, rising from the page as narrative becomes reality. Letters at the base are still flat ink, sentences curl upward becoming ribbons of text that weave into three-dimensional form, [KEY FEATURES] fully realized at the apex while origin remains visible as pure language. The [SUBJECT] is literally made of story, words still legible in skin and surface. Fresh typing continues below, feeding the manifestation. Crumpled drafts, coffee rings, deadline notes surround the machine. The ribbon bleeds into being. The writer's hands hover at keys, unsure if they control this anymore. Late night desk lamp casting harsh pool of light, noir shadows, amber and cream tones, 8K, the fiction that writes itself.",
+    "title": "Typewriter Art Manifestation Scene",
+    "description": "A creative prompt for generating an image in the style of typewriter art, where the subject materializes from the words being typed on a vintage machine. It emphasizes the subject being literally made of legible text, set in a noir-shadowed, late-night writer's desk environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495346945_ge342l_G_mDCO4bIAA1bL1.jpg",
+      "https://cms-assets.youmind.com/media/1769495347094_pclnwa_G_mDCbdWwAA5Gjk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please turn the attached image into a monochrome line drawing.",
+    "title": "Character Image Transformation Prompt",
+    "description": "A simple prompt instructing the AI to transform an attached image of a person into a monochrome line drawing. The user notes that this specific transformation might require the Nano Banana Pro model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495419425_ta1d4t_G_lgybDXsAA2sC1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please turn the attached image into a monochrome line drawing.",
+    "title": "Image to Monochrome Line Art Conversion",
+    "description": "A straightforward prompt used to convert an uploaded image into a monochrome line drawing. The user demonstrates the AI's ability to execute this request, noting that the AI sometimes adds unexpected details like a belt or extra buttons, which then require a follow-up correction prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495420189_z6oy2c_G_lUp_3acAAaiZK.jpg",
+      "https://cms-assets.youmind.com/media/1769495420294_ygy5xr_G_lUO8ja4AAFmNh.jpg",
+      "https://cms-assets.youmind.com/media/1769495420303_z7sxjp_G_lUpCfawAAv3Iz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"A massive banana split open like a high-tech gadget, outer peel made of shimmering nano-circuitry etched with glowing blue veins, inner fruit textured like fluffy pink cotton candy mixed with jagged crystal shards, floating in a cosmic void with starry nebulae in the background, dramatic volumetric lighting casting electric sparks, hyper-detailed, surreal, 4K resolution, ar: \"",
+    "title": "Surreal Nano-Circuitry Banana Split",
+    "description": "A prompt for generating a surreal, hyper-detailed image of a massive banana split open like a high-tech gadget. The prompt specifies materials like nano-circuitry, glowing veins, cotton candy, and crystal shards, set in a cosmic void with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495386489_2dr2uq_G_kFvQaWYAAPXMv.jpg",
+      "https://cms-assets.youmind.com/media/1769495386470_itilo4_G_kFvQcWUAAFDyX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Today's theme is {argument name=\"theme\" default=\"Can you gargle?\"}",
+    "title": "Daily Nano-kun Comic Strip Generation",
+    "description": "A Japanese user shares a four-panel comic strip created using the Nano Banana Pro tool, featuring the character Nano-kun and the theme of gargling. The prompt is implied to be the theme or a short instruction for the comic generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495429524_pfx2cz_G9jjDsobsAANCmC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Make the previous image into a single subject like the next image",
     "title": "Image Transformation Instruction",
     "description": "A user instructs nano banana to transform a previous image into a new one where the subject is a single object.",

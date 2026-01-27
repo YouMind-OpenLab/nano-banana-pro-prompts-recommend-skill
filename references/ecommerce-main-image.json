@@ -1,11 +1,69 @@
 [
   {
-    "content": "Front-facing strict product hero shot, centered and upright, photographed at eye level with a soft studio key light coming from 45° left, gentle falloff and subtle specular highlights defining the edges of the packaging; a vertical black-to-white gradient backdrop creates a controlled, premium atmosphere while maintaining high legibility of the label; charred black branches frame the composition in the foreground and midground with restrained, organic asymmetry, adding texture without distracting from the product; clean soft contact shadow anchors the product to the surface, crisp glass/material realism, cinematic contrast, shallow depth of field with background kept smooth and noise-free.",
-    "title": "GPT-Designed Product Hero Shot Prompt",
-    "description": "A detailed prompt, reportedly designed using a GPT model, for generating a strict, front-facing product hero shot. It specifies studio lighting (soft key light from 45° left), a vertical black-to-white gradient backdrop, and the use of charred black branches for organic framing, emphasizing crisp material realism and cinematic contrast.",
+    "content": "Hypebeast showroom still shot",
+    "title": "Hypebeast Showroom Still Shot Prompt",
+    "description": "A short, smart prompt designed to generate a still shot image with a Hypebeast showroom aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1769408688414_auzpr7_G_i3Q_sbwAAKMhS.jpg",
-      "https://cms-assets.youmind.com/media/1769408688583_zl8j68_G_i3Q_obUAAz3na.jpg"
+      "https://cms-assets.youmind.com/media/1769495433286_ixvbzc_G_nIYzgXYAEvtSl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"A 3D diorama scene featuring a transparent bubble wrap fashion elegant phone, representing a phone call concept, empty with nothing displayed on the screen. The phone is crafted entirely from clear, glossy bubble wrap material, with highly detailed inflated bubble textures forming the body, screen, and buttons. Set within a miniature diorama environment, realistic depth and scale, miniature-world aesthetic, high-fashion editorial style, soft diffused studio lighting, neutral clean diorama background, ultra-clean aesthetic, photorealistic 3D rendering, sharp focus.\",\n  \"style\": {\n    \"scene\": \"3D diorama\",\n    \"lighting\": \"soft diffused studio lighting\",\n    \"background\": \"neutral minimal diorama setting\",\n    \"mood\": \"modern, minimalist, elegant\",\n    \"quality\": \"ultra-detailed, photorealistic\",\n    \"material\": \"transparent bubble wrap\"\n  }\n}",
+    "title": "3D Diorama of Transparent Bubble Wrap Phone",
+    "description": "A prompt for generating a photorealistic 3D diorama scene. The central object is a transparent, elegant phone crafted entirely from highly detailed, glossy bubble wrap, set within a miniature, minimalist studio environment with soft diffused lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495357007_rqwq6g_G_m0uS2bAAAqFFC.jpg",
+      "https://cms-assets.youmind.com/media/1769495357290_dty1t6_G_m0uVUbAAEUo5N.jpg",
+      "https://cms-assets.youmind.com/media/1769495357005_5u7ryl_G_m0uP-WkAAd9dZ.jpg",
+      "https://cms-assets.youmind.com/media/1769495358163_868dyc_G_m0uP5aoAEqn3Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Elegant rose-gold lipstick standing upright on a reflective marble surface, surrounded by flying rose petals and soft powder dust. Warm studio lighting with dramatic shadows, luxury vanity background with blurred mirrors and golden accents, cinematic mood, macro product photography, ultra-sharp details, glossy textures, premium cosmetic brand style.\n\n3×3photo grid with different angles and poses. Same character, consistent look, clean lighting, real photoshoot vibe 2k.",
+    "title": "Macro product photography of rose-gold lipstick",
+    "description": "A prompt for generating macro product photography of an elegant rose-gold lipstick. It specifies the setting (reflective marble surface, luxury vanity background), surrounding elements (flying rose petals, powder dust), and lighting (warm studio lighting, dramatic shadows) to achieve a premium cosmetic brand style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495319633_ngukfg_G_ma_HxbsAAv8Vh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"A studio shot of a transparent bubble wrap fashion elegant {argument name=\"fashion item\" default=\"[ITEM]\"}, empty with nothing inside. The material is clear, glossy, and highly detailed, capturing the texture of inflated bubbles. Minimalist composition, high-fashion editorial style, soft diffused studio lighting, neutral background, ultra-clean aesthetic, photorealistic rendering, sharp focus.\",\n  \"style\": {\n    \"lighting\": \"soft diffused studio lighting\",\n    \"background\": \"neutral seamless backdrop\",\n    \"mood\": \"modern, minimalist, elegant\",\n    \"quality\": \"ultra-detailed, photorealistic\",\n    \"material\": \"transparent bubble wrap\"\n  }\n}",
+    "title": "Minimalist studio shot of transparent bubble wrap fashion item",
+    "description": "A prompt for generating a minimalist, high-fashion editorial studio shot of a transparent bubble wrap item. It focuses on material texture, glossy details, soft diffused lighting, and a clean, ultra-clean aesthetic against a neutral background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495312047_eaxyhl_G_lpHBmbYAAll97.jpg",
+      "https://cms-assets.youmind.com/media/1769495312125_ti6386_G_lpHCOWwAAcYSv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "High-quality realistic commercial shot of a cocoa plantation in landscape orientation, cocoa tree as background, one cocoa pod partially split open on the branch in the center, fresh cocoa beans clearly visible inside with fibrous natural texture, slight irregular opening, surrounding pods and leaves softly out of focus, rich earthy brown and green tones, warm natural daylight with soft directional highlights, shallow depth of field, premium agricultural realism, no text, no people, no branding. \n\nMotion: The cocoa pod beans rapidly fly out and transform into {argument name=\"motion effect\" default=\"roasted cocoa vortex\"}",
+    "title": "Realistic Cocoa Plantation Commercial Shot with Motion",
+    "description": "A detailed prompt for generating a high-quality, realistic commercial image of a cocoa plantation, focusing on the texture and appearance of a partially split cocoa pod. It also includes a motion component for video generation, where the beans transform into a roasted cocoa vortex.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495321023_z5v14d_G_lQI_UXwAAJGl6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "[{argument name=\"product name\" default=\"Product\"}], top-down flat lay center position, surrounded by [{argument name=\"ingredient description\" default=\"ingredients\"}], fresh slices and whole pieces, glossy wet appearance, water splashes frozen around the product, dew drops attached to the label and surface, warm beige seamless background, soft directional sunlight, clear realistic shadows, high-end skincare advertisement, ultra-realistic macro product photography, 100mm lens effect, f/8 sharp focus, clean composition, no extra text, 8k, 1:1",
+    "title": "High-End Skincare Product Macro Photography Ad",
+    "description": "A detailed prompt designed to create a high-end skincare product advertisement using ultra-realistic macro product photography. It specifies the composition (flat lay, center focus), surrounding elements (fresh ingredients, frozen water splashes), lighting (warm directional sunlight), and camera settings (100mm lens, f/8 sharp focus) for a clean, premium aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495419124_z3ly2p_G_krEgZbcAADmJh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Front-facing strict product hero shot, centered and upright, photographed at eye level with a soft studio key light coming from 45° left, gentle falloff and subtle specular highlights defining the edges of the packaging; a vertical black-to-white gradient backdrop creates a controlled, premium atmosphere while maintaining high legibility of the label; charred black branches frame the composition in the foreground and midground with restrained, organic asymmetry, adding texture without distracting from the product; clean soft contact shadow anchors the product to the surface, crisp glass/material realism, cinematic contrast, shallow depth of field with background kept smooth and noise-free.",
+    "title": "Product hero shot with charred black branches framing",
+    "description": "A prompt designed for generating a professional, front-facing product hero shot. It specifies studio lighting (soft key light at 45°), a vertical black-to-white gradient backdrop, and the unique addition of charred black branches for organic framing and texture, aiming for cinematic contrast and high material realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495314601_ihwhtu_G_i3Q_obUAAz3na.jpg",
+      "https://cms-assets.youmind.com/media/1769495314772_8b6utp_G_i3Q_sbwAAKMhS.jpg"
     ],
     "needReferenceImages": false
   },

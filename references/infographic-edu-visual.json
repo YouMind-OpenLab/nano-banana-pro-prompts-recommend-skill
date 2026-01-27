@@ -51,6 +51,35 @@
     "needReferenceImages": false
   },
   {
+    "content": "Epic 3D scene: a massive broadsheet newspaper mid-unfold, its headlines erupting into the events they describe. Front page stories become dioramas pushing off the page. {argument name=\"headline event\" default=\"[HEADLINE EVENT]\"} manifests in miniature chaos. Photographs animate and expand into three dimensions. Column text rises as city blocks of information. Editorial section becomes a battlefield of arguing figures. Classifieds transform into tiny desperate lives. Different sections occupy different worlds: sports as stadium, business as trading floor, obituaries as memorial garden. Yesterday's news composites beneath as fading ghost layer. Ink smells almost visible as atmosphere. Newsstand visible at the edge, morning light, coffee steam, 8K, photorealistic.",
+    "title": "Newspaper Mid-Unfold Diorama Prompt",
+    "description": "A creative prompt for generating an epic 3D scene where a massive broadsheet newspaper is mid-unfold, and its headlines physically erupt into miniature dioramas of the events they describe. It specifies that column text rises as city blocks and the ink smell is almost visible, aiming for an 8K photorealistic result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495369914_qf8860_G_mCBDEakAAAadz.jpg",
+      "https://cms-assets.youmind.com/media/1769495370020_cifp0u_G_mCBJeacAErywn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Layered Diorama: Evolution of Religious Architecture\nLayers: Front ({argument name=\"era 1\" default=\"5000 BC Architecture\"}), middle 1 ({argument name=\"era 2\" default=\"1200s Architecture\"}), middle 2 ({argument name=\"era 3\" default=\"1800s architecture\"}) rear (2025 Architecture).\nDetails: Polished stone base with era-coded tabs (with appropriate materials and elements for each era). Details include stained glass windows, flying buttresses, and other era relevant elements. All years should be visible",
+    "title": "Layered Diorama of Religious Architecture Evolution",
+    "description": "A concise prompt for generating a layered diorama illustrating the evolution of religious architecture across different historical eras, specifying the arrangement of architectural styles from 5000 BC to 2025 AD, complete with era-coded tabs and relevant details like stained glass.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495326507_cajw2n_G_Y0mtFXMAA93eu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Input Variable:   {argument name=\"topic\" default=\"[INSERT TOPIC]\"} (e.g., The History of Bread, The Making of Whiskey, The Story of Silk, The Evolution of Paper)\n\n  System Instruction:  \nGenerate a hyper-realistic, isometric 3D diorama displayed on an unrolled antique map. Use the following logic to procedurally generate the scene:\n\n  1.  Deconstruction:  \n      Analyze the Input:   Break the topic into   3 Phases of Production   (From Nature to Consumption).\n      The Material Path:   Identify the raw unit of the topic (e.g., Coffee Beans, Wheat Grains, Silk Cocoons, Wood Chips). This material will form the physical \"Road\" connecting the scenes.\n\n  2. Container (The Chart):  \n      The Object:   A large, textured   Parchment Scroll   with curled edges, unrolled on a rich Mahogany wooden table.\n      The Layout:   An   \"S-Curve\" Path   winds through the center of the scroll, connecting three distinct raised platforms.\n      The Timeline:   Delicate black ink timeline markers (dates like 1600, 1850, 1920) run alongside the path.\n\n  3.  Vignettes (The Production Line):  \n  CRITICAL:   Do not generate Sci-Fi. Stick to   Historic and Modern Classic   aesthetics.\n\n Top Left - The Source):  \n         Concept:  The Agricultural or Raw Origin.\n         Visuals:  Rows of crops, a mine, or a forest growing directly out of a wooden block base.\n         Figures:  Tiny farmers or laborers in period-appropriate rustic clothing harvesting the raw material.\n\n Top Right - The Industry):  \n         Concept:  The Processing and Refinement (Industrial Revolution Era).\n         Visuals:  A factory or mill with   Copper Stills, Brass Gears, Smokestacks, or Water Wheels  .\n         Figures:  Workers operating machinery, steam rising from vents.\n\n Bottom Left - The Experience):  \n         Concept:  The Final Consumption (The \"Golden Age\").\n         Visuals:  A warm, inviting interior. A Victorian Pub, a Parisian Cafe, a Tailor Shop, or a Library.\n         Figures:  Patrons enjoying the finished product in a social setting.\n\n  4. The \"Hero\" Object (Bottom Right):  \n    Instead of a fourth building, the path ends at a   Life-Sized \"Hero\" Object   sitting on the paper.\n         (e.g., A perfect porcelain Cup of Coffee, A Loaf of Sourdough, A Crystal Whiskey Tumbler). \n\n  5. Visual Syntax:  \n      The Path:   The road connecting the buildings is NOT dirt or asphalt. It is a   River of the Raw Material   (e.g., A road paved with Coffee Beans or Wheat grains).\n      Typography:   An elegant Serif Header at the bottom: \"The Evolution of [Input]\".\n      Lighting:   Warm, indoor \"Library\" lighting. Soft shadows, rich wood tones, no harsh neons.\n\n  Output:   ONE image, 1:1 Aspect Ratio, Isometric Diorama, \"Anno 1800\" Strategy Game Aesthetic, High Texture,",
+    "title": "Isometric 3D Diorama of Product Evolution Prompt",
+    "description": "A complex, multi-step system instruction prompt designed to generate a hyper-realistic, isometric 3D diorama illustrating the evolution of a product (like bread or whiskey) across three phases (Source, Industry, Experience). The diorama is displayed on an unrolled antique map, with the path connecting the scenes made of the raw material itself, simulating an 'Anno 1800' strategy game aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495366589_tjkws0_G_TpjlhWEAAlXba.jpg",
+      "https://cms-assets.youmind.com/media/1769495366686_r133oa_G_TqP_hXgAANc5_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Slide generation using Nano Banana",
     "title": "Nano Banana Slide Generation Discussion",
     "description": "This tweet discusses using Nano Banana for generating slides, highlighting Manus's strength in combining powerful research with slide creation. It notes that the text in the slides is editable, making it potentially more convenient than using Gemini or NotebookLM.",

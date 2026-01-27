@@ -1,10 +1,53 @@
 [
   {
-    "content": "First-person perspective, standing in a brightly lit supermarket aisle. A realistic human hand is holding a bottle of Fanta soda, close to the camera.\nThe bright orange drink in its iconic branded bottle is surrounded by a multi-layered holographic Augmented Reality interface, which displays nutritional data including calories, sugar content, caffeine content, freshness, shelf life, and refreshing recipes and cocktails recommended based on Fanta.\nThe user interface elements smoothly move and rearrange based on the viewer's line of sight, as if dynamically responding to the user's focus of attention.\nOn the edge of the left field of view, a vertical translucent shopping list is visible, listing checked items, with Fanta highlighted as the currently selected item.\nUltra-realistic mixed reality, clean futuristic augmented reality design, glass-textured user interface panels, soft ambient light, realistic light and shadow effects, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
-    "title": "First-Person AR Fanta Soda Experience",
-    "description": "A detailed, complex prompt for generating a hyper-realistic, first-person perspective image of holding a Fanta soda bottle in a supermarket aisle, overlaid with a futuristic, holographic Augmented Reality interface displaying nutritional and recipe data.",
+    "content": "Ultra-wide panoramic header visual.\nBalanced composition with one abstract focal element,\nsoft gradient background fading horizontally,\nstrong visual calm, no clutter,\nlighting consistent edge to edge,\ndesigned to remain clear at all screen sizes,\nlike a premium brand homepage header.",
+    "title": "Ultra-Wide Panoramic Header Visual",
+    "description": "A prompt designed specifically for generating a clean, balanced, ultra-wide panoramic visual suitable for a premium brand's website header or banner. It emphasizes simplicity, soft gradients, consistent lighting, and a lack of clutter.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1769408664361_w4l478_G_jnn3VWUAAsV3F.jpg"
+      "https://cms-assets.youmind.com/media/1769495386500_k37bs8_G_dJ4BsXsAEvqem.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_prompt\": {\n    \"main_description\": \"Professional studio headshot of a confident, well-groomed man in his early 30s.\",\n    \"subject_details\": {\n      \"appearance\": \"Neat short hairstyle, sharp facial features, subtle stubble or clean-shaven\",\n      \"expression\": \"Natural, friendly smile, confident\",\n      \"apparel\": \"Dark blazer over a plain black or navy t-shirt\"\n    },\n    \"environment\": {\n      \"setting\": \"Modern office background\",\n      \"elements\": \"Softly blurred desk, monitor, and indoor plants\",\n      \"depth\": \"Shallow depth of field\"\n    },\n    \"lighting_and_atmosphere\": {\n      \"lighting_setup\": \"Soft diffused studio lighting, gentle key light, balanced fill\",\n      \"color_grading\": \"Clean color grading, realistic skin tones\",\n      \"mood\": \"Minimalist, polished, executive\"\n    },\n    \"technical_specs\": {\n      \"style\": \"LinkedIn-quality professional photography, ultra-realistic\",\n      \"focus\": \"Sharp focus, crisp details\",\n      \"resolution\": \"High resolution\"\n    }\n  }\n}",
+    "title": "Professional Studio Headshot Prompt",
+    "description": "A detailed image generation prompt for creating an ultra-realistic, LinkedIn-quality professional studio headshot of a confident man in a modern, polished executive style. It specifies subject details, environment, lighting, and technical specifications like shallow depth of field and high resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495359664_h7y1w3_G_mCkH9a0AASUSk.jpg",
+      "https://cms-assets.youmind.com/media/1769495359904_n7cx9p_G_mCkMqWoAA--6p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Depict {argument name=\"subject\" default=\"[SUBJECT]\"} in a minimal isometric perspective, using simplified 3D forms, soft pastel colors, and gentle lighting. Subtle holographic fitness data floats nearby in a soft, minimal park setting. The environment feels futuristic but friendly, highly organized, uncluttered, and visually calming, like a mindful tech-assisted lifestyle moment. Use smooth surfaces, soft gradients, and a clean background with no text or logos.",
+    "title": "Minimal Isometric 3D Perspective",
+    "description": "A prompt for generating a minimal 3D isometric scene. It specifies simplified forms, soft pastel colors, gentle lighting, and a futuristic, uncluttered environment featuring subtle holographic fitness data.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495348414_l96jab_G_lzOGjbgAEAQUI.jpg",
+      "https://cms-assets.youmind.com/media/1769495348421_h7vejy_G_lzOHIXUAAR_0I.jpg",
+      "https://cms-assets.youmind.com/media/1769495348529_rsr0no_G_lzOGra4AAwrk4.jpg",
+      "https://cms-assets.youmind.com/media/1769495350254_mx9nhg_G_lzOQuXgAAGE3v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "First-person perspective inside a brightly lit supermarket aisle. Realistic human hands bring a bottle of Fanta soda close to the camera. The vibrant orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface, displaying nutritional data including calories, sugar content, caffeine levels, freshness indicator, expiration date, and recommended serving methods and cocktail recipes.\n\nThe user interface elements smoothly move and reorganize based on the viewer's gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical translucent shopping list is visible, where Fanta is highlighted as the currently active option among the checked items.\n\nHyper-realistic mixed reality, clean futuristic AR design, glass-textured UI panels, soft ambient light, realistic light and shadow, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+    "title": "Hyper-Realistic Mixed Reality Fanta Bottle Interface",
+    "description": "A detailed prompt for generating a hyper-realistic mixed reality scene from a first-person perspective, focusing on a Fanta bottle surrounded by a multi-layered holographic AR interface displaying nutritional data and cocktail recipes. The UI elements dynamically respond to the viewer's gaze, and a translucent shopping list is visible in the peripheral vision.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495422779_x7st7n_G_kWPilX0AAr4zg.jpg",
+      "https://cms-assets.youmind.com/media/1769495422635_ly3qva_G_kWPtJb0AAmF5p.jpg",
+      "https://cms-assets.youmind.com/media/1769495423247_v559lx_G_kWP3kaoAAHPE8.jpg",
+      "https://cms-assets.youmind.com/media/1769495424692_k5f2s8_G_kWQDXaYAEJg-C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "First-person perspective, standing in a brightly lit supermarket aisle. A realistic human hand is holding a bottle of {argument name=\"drink brand\" default=\"Fanta soda\"}, close to the camera.\nThis brightly colored orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface, which displays nutritional data including calories, sugar content, caffeine content, freshness, shelf life, and refreshing recipes and cocktails recommended based on {argument name=\"drink brand\" default=\"Fanta\"}.\nThe user interface elements smoothly move and rearrange according to the viewer's line of sight, dynamically responding to the user's focus of attention.\nOn the edge of the left field of view, a vertical, semi-transparent shopping list is visible, listing checked items, with {argument name=\"drink brand\" default=\"Fanta\"} highlighted as the currently selected item.\nHyper-realistic mixed reality, minimalist futuristic augmented reality design, glass-textured user interface panels, soft ambient light, realistic light and shadow effects, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+    "title": "Hyper-Realistic Mixed Reality Fanta Ad Concept",
+    "description": "A detailed prompt for generating a hyper-realistic, first-person perspective image of a hand holding a bottle of Fanta in a brightly lit supermarket aisle. The image features a complex, futuristic holographic augmented reality interface displaying nutritional data, recipes, and a dynamic shopping list, showcasing next-generation retail technology.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495418605_0ra2os_G_jnn3VWUAAsV3F.jpg"
     ],
     "needReferenceImages": false
   },

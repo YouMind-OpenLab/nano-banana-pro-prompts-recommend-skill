@@ -1,5 +1,25 @@
 [
   {
+    "content": "Cinematic 3D composition centered on a {argument name=\"object\" default=\"[OBJECT]\"}, frozen at the instant it releases something far bigger than itself.\n\nFrom within it, an entire {argument name=\"world style\" default=\"[WORLD STYLE / THEME]\"} reality unfolds, spilling outward into sweeping environments, towering forms, and dynamic motion that suggests this world was hidden there all along.\n\nThe object doesn’t just contain the world — it becomes part of it, with its shapes transforming into terrain, architecture, and symbolic landmarks.\n\nSmall figures, machines, or creatures navigate the scene, adding life, scale, and narrative.\nThe moment balances between dream and physics, where visual logic holds even as reality stretches.\n\nThe scene is charged with [ATMOSPHERE: glow, fog, particles, smoke, energy], amplifying the sense of rupture and emergence.\n\nA subtle hint of the real world remains visible around the edges, anchoring the spectacle in realism.\n\nHyper-detailed textures, dramatic lighting, cinematic depth, ultra-realistic, 8K, concept art finish.",
+    "title": "Cinematic 3D World Emergence from Object",
+    "description": "A template prompt for generating a cinematic 3D composition where a small object releases an entire world or reality far bigger than itself, with the object's shapes transforming into the terrain and architecture of the emerging world.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495339444_klkal0_G_mCYwLaIAA1M0i.jpg",
+      "https://cms-assets.youmind.com/media/1769495339388_lsj4it_G_mCYzxXIAAk3P7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high-quality 3D cartoon-style character of a cheerful young girl with expressive oversized eyes and soft facial features, rendered in a Pixar/Disney-inspired aesthetic. She has long, wavy blonde hair with detailed strands, wearing round oversized glasses and a cozy yellow-and-white outfit. The character is dressed in a yellow hoodie layered with a textured jacket, white cargo pants, and chunky sneakers Accessories include a beanie hat and playful glasses matching the warm color palette.The pose is energetic and expressive-either mid-jump with arms raised in excitement or standing confidently with crossed arms and a surprised, curious expression. Clean monochrome {argument name=\"background color\" default=\"yellow\"} background, soft studio lighting, smooth clay-like textures, ultra-detailed clothing fabric, vibrant colors, joyful mood, cinematic depth of field, 4K resolution, modern stylized 3D illustration.",
+    "title": "Pixar-style 3D character of a cheerful girl in yellow",
+    "description": "A prompt for generating a high-quality, Pixar/Disney-inspired 3D cartoon character of a cheerful young girl. It details her appearance, attire (yellow and white outfit, chunky sneakers), pose (energetic/surprised), and technical specifications like clay-like textures and cinematic depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495308080_8af91s_G_lAzVxbUAE98vE.jpg",
+      "https://cms-assets.youmind.com/media/1769495308199_fm1izb_G_lAzlxbQAArPbB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "LEGO mountain flood rescue scene, torrential rain causing river overflow in a LEGO mountain village, rescue boats and ropes used by LEGO firefighters, houses perched on slopes surrounded by muddy floodwater, misty mountains in background, dramatic cinematic lighting, intense LEGO disaster realism --ar 3:4",
     "title": "LEGO Mountain Flood Rescue Scene Prompt",
     "description": "A prompt for generating a dramatic, cinematic image of a LEGO mountain village disaster scene. The scene involves torrential rain, river overflow, LEGO firefighters using rescue boats and ropes, houses on slopes, and misty mountains in the background, emphasizing intense realism and dramatic lighting.",
