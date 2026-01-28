@@ -1,5 +1,45 @@
 [
   {
+    "content": "Atmospheric product interface visual for a modern SaaS platform.\nClean hierarchy, balanced contrast,\nsoft shadows, neutral color palette,\nfocus on clarity and calm,\ndesigned like a best-in-class SaaS experience.",
+    "title": "Atmospheric Product Interface Visual Prompt for SaaS UI",
+    "description": "A prompt designed to generate a luxurious and calm visual representation of a modern SaaS product interface, emphasizing clarity, hierarchy, and a neutral color palette for a premium user experience.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581933231_911rp4_G_JDloYXQAAXf5_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Use the attached reference images as the handwriting style guide (especially the second image with handwriting samples). Create a single line of Japanese handwritten text on clean white paper. Written with a fine gel pen / fineliner (0.3–0.4mm look), thin and light strokes, mostly monoline (no brush or marker look). Match a stylish, airy, feminine handwriting feel: soft curves, light touch, and a slightly right-leaning slant.Add clear personality through noticeable character size variation (some characters 10–25% larger/smaller), irregular spacing, and a gentle upward baseline from left to right. Add elongated entry and exit strokes (long, tapered starts/tails) on a few characters—especially the first character, any elongated/extended marks in the text, and the final character—while keeping everything readable.Write exactly this text: \"{argument name=\"text to write\" default=\"The true chocolate tasted like an adult's.\"}\" No extra text, no borders, no logos, no underline, no decorative swoosh lines. High resolution, sharp thin ink lines, minimal paper texture.\nNegative:\nbrush pen, calligraphy, shodo, marker, thick strokes, bold ink, heavy pressure, paintbrush, blocky lettering, uniform character size, perfect spacing, perfectly straight baseline, printed font, typeset, outline font, extra words, watermark, frame, stamps, underline, swoosh line, doodles\nExtra:\nKeep strokes thin; create expressiveness mainly with size/spacing/baseline and tapered stroke ends, not thickness.Increase character size contrast and spacing irregularity, but keep legibility.",
+    "title": "Nano Banana Pro Handwriting Generation Prompt",
+    "description": "A detailed prompt for Nano Banana Pro designed to generate a single line of Japanese handwritten text in a specific feminine, stylish, and airy aesthetic. It specifies the writing instrument (fine gel pen), stroke characteristics (thin, light, monoline), and introduces intentional irregularities in character size, spacing, and baseline slant to mimic natural handwriting. The prompt explicitly requires reference images for style guidance and includes a negative prompt to avoid brush/calligraphy styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582030644_le72bb_G_o0py4akAABSoj.jpg",
+      "https://cms-assets.youmind.com/media/1769582030656_wvjglo_G_o0mDZWIAA2HvF.jpg",
+      "https://cms-assets.youmind.com/media/1769582030705_89hdgg_G_o0ohSbwAAWEAS.jpg",
+      "https://cms-assets.youmind.com/media/1769582031246_vbt6rr_G_o0rPjbgAA-mzz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A realistic first-person perspective (POV) shot of a person's hands holding a bunch of fresh, red strawberries in a blurred supermarket aisle. The image features a futuristic Augmented Reality (AR) interface overlay. \n\nGlowing holographic graphics surround the strawberries displaying nutritional information like 'Calories {argument name=\"calories\" default=\"50kcal\"}', 'Vitamin C', 'Folate', and 'Fiber'. On the right, a digital gauge shows 'Freshness {argument name=\"freshness\" default=\"95%\"}' and recipe suggestions like 'Strawberry Smoothie'. On the left, a holographic shopping list checks off items like Milk and Bread. \n\nHigh-tech, smart shopping concept, photorealistic lighting, 8k resolution.",
+    "title": "First-Person AR Shopping Interface Overlay",
+    "description": "This prompt generates a realistic first-person perspective (POV) image of holding strawberries, overlaid with a futuristic Augmented Reality (AR) interface displaying nutritional facts, freshness gauge, and a holographic shopping list, emphasizing high-tech, photorealistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581916201_rquqiz_G_rb0ZAa4AEQvdG.jpg",
+      "https://cms-assets.youmind.com/media/1769581916394_d0gkth_G_rb0JZbEAAJcPU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I want you to create promotional images for the App Store for my app called {argument name=\"app name\" default=\"viral day\"} that transforms long videos into short videos. Be creative, something like this: create variations showing a long video turning into cuts. Be creative, in the style of {argument name=\"style reference\" default=\"mr beast\"}.",
+    "title": "App Store Promotional Image Generation Prompt (Mr. Beast Style)",
+    "description": "A text prompt for the Nano Banana Pro model requesting the creation of promotional images for an App Store listing. The app, named 'Viral Day', converts long videos into short clips. The user asks for creative variations that show a long video being transformed into cuts, specifically requesting an aesthetic similar to Mr. Beast's content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582043551_oda540_G_q8-WWXkAA2HoI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Ultra-wide panoramic header visual.\nBalanced composition with one abstract focal element,\nsoft gradient background fading horizontally,\nstrong visual calm, no clutter,\nlighting consistent edge to edge,\ndesigned to remain clear at all screen sizes,\nlike a premium brand homepage header.",
     "title": "Ultra-Wide Panoramic Header Visual",
     "description": "A prompt designed specifically for generating a clean, balanced, ultra-wide panoramic visual suitable for a premium brand's website header or banner. It emphasizes simplicity, soft gradients, consistent lighting, and a lack of clutter.",

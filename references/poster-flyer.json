@@ -18,6 +18,61 @@
     "needReferenceImages": false
   },
   {
+    "content": "Technical outerwear campaign poster\n\nThis prompt creates a collab between {argument name=\"your brand\" default=\"[YOUR BRAND]\"} and a relevant performance fashion label \n\n(it automatically picks you a good fit)",
+    "title": "Technical Outerwear Campaign Poster Generation Prompt",
+    "description": "A smart prompt designed to generate a technical outerwear campaign poster by automatically selecting a relevant performance fashion label for collaboration with a specified brand.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581985792_ohysax_G_skcsaWUAALVM3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hyper-realistic cinematic portrait of a woman portrayed as a celestial archivist suspended in zero gravity. Her expression is calm, intelligent, observant. Long dark hair floats gently around her head. She wears layered translucent robes infused with faint star-map patterns and subtle gold circuitry threads. Small holographic glyphs orbit her hands like living data. Soft cosmic lighting, deep blues and muted golds, volumetric glow, clean celestial atmosphere. Shot on 50mm lens, ultra-detailed, photorealistic, cinematic dept.",
+    "title": "Hyper-Realistic Celestial Archivist Portrait",
+    "description": "A prompt for generating a hyper-realistic cinematic portrait of a woman imagined as a celestial archivist suspended in zero gravity, featuring translucent robes, holographic glyphs, and soft cosmic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581921127_t2farp_G_rtJK3W8AAG08x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A dramatic cinematic portrait of a rugged young man with light stubble, wearing a dark padded jacket, standing in a smoky atmosphere filled with glowing ember sparks floating through the air. He looks slightly upward with a serious, introspective expression. Low-key lighting with strong contrast: warm orange firelight illuminating one side of his face and cool blue-gray shadows on the other. Shallow depth of field, soft haze, volumetric lighting, floating particles, cinematic color grading, ultra-realistic skin texture, sharp facial details, dark background, movie-poster aesthetic, high realism, 8K resolution.",
+    "title": "Dramatic Cinematic Portrait of a Rugged Young Man",
+    "description": "A prompt for generating a highly dramatic and cinematic portrait of a rugged young man, emphasizing strong contrast, low-key lighting, and a movie-poster aesthetic with ultra-realistic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581917938_g4ooto_G_q_iCOW0AEviqD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "hyper-realistic photo, 8k, low-angle wide lens, looking up at massive concrete graffiti wall, derelict train yard, urban {argument name=\"city\" default=\"Surabaya Indonesia\"}, real location gritty Southeast Asian industrial zone, harsh direct tropical sunlight, strong shadows, ultra-detailed textures, peeling paint, cracked concrete, dust and rust\n\ngiant photorealistic street art mural covering entire wall, subject painted as mural using uploaded face reference, upper body and head breaking from 2D graffiti into 3D reality, seamless 2D-to-3D transition, rebellious smirk, intense eye contact, cinematic realism\n\npainted section wearing colorful spray-paint stained hoodie and cap, dripping paint, vibrant layered tags, bold Indonesian street art style, chaotic color splashes, detailed aerosol strokes\n\nyoung man using my identity, realistic 3D human, standing in front of the wall, facing viewer, confident stance, casual urban outfit, finger pointing toward exact mural location, interaction between real person and painted self, scale contrast emphasizing massive wall\n\nforeground rusted train tracks, discarded spray cans, concrete debris, weeds between rails, depth and perspective emphasis, sharp focus, high dynamic range, ultra high quality, cinematic composition, award-winning photography, zeiss optics, RAW photo look.",
+    "title": "2D-to-3D Graffiti Mural Transition in Urban Surabaya",
+    "description": "A hyper-realistic prompt for generating an image of a massive concrete graffiti wall in a derelict train yard in Surabaya, Indonesia. The core concept is a seamless 2D-to-3D transition where a street art mural, based on an uploaded face reference, breaks into a realistic 3D human figure standing in front of the wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581926672_q7hzfd_G_qowSnb0AA5nb0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic cinematic medium close-up portrait of the reference person, slightly turned to the side while looking toward the camera. Wearing a black turtleneck and dark jacket, modern and minimalist fashion style. Deep blue background with a smooth gradient, combined with contrasting magenta and blue lighting. Strong blue light coming from one side and magenta light from the opposite side, both colors reflecting clearly on the face and skin, creating a dramatic color contrast. High-end editorial lighting, sharp focus, realistic skin texture, cinematic mood, shallow depth of field.",
+    "title": "Dramatic Cinematic Portrait with Contrasting Lighting",
+    "description": "A prompt for generating an ultra-realistic cinematic portrait using highly dramatic, contrasting colored lighting. It specifies a subject in minimalist fashion (black turtleneck) against a deep blue gradient background, illuminated by strong blue and magenta lights reflecting on the skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581931143_1x0k11_G_pgvb_bAAIkxDN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A hyper-realistic, cinematic 9:16 portrait of a modern military squad lineup. In the middle stands, wearing tactical combat gear with a vest, headset, gloves, and a futuristic assault rifle. On the left: a rugged soldier with a beard and boonie hat, wearing heavy tactical armor. On the right: a mysterious masked operative with a skull-patterned mask and combat uniform. The three stand side by side as an elite special forces unit, set in a gritty warzone environment with sparks, smoke, and cinematic lighting. Ultra-detailed, realistic textures, game-poster style, 8K",
+    "title": "Hyper-Realistic Military Squad Portrait",
+    "description": "A prompt designed to generate a hyper-realistic, cinematic portrait of an elite three-person military squad in tactical gear. The scene is set in a gritty warzone with smoke and sparks, aiming for a game-poster aesthetic with high detail and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581999647_q51u2t_G_pOOQBXYAEDDfg.jpg",
+      "https://cms-assets.youmind.com/media/1769581999645_jyxbd1_G_pOOOtbMAAXS3o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Epic 3D scene: a massive broadsheet newspaper mid-unfold, its headlines erupting into the events they describe. Front page stories become dioramas pushing off the page. {argument name=\"headline event\" default=\"[HEADLINE EVENT]\"} manifests in miniature chaos. Photographs animate and expand into three dimensions. Column text rises as city blocks of information. Editorial section becomes a battlefield of arguing figures. Classifieds transform into tiny desperate lives. Different sections occupy different worlds: sports as stadium, business as trading floor, obituaries as memorial garden. Yesterday's news composites beneath as fading ghost layer. Ink smells almost visible as atmosphere. Newsstand visible at the edge, morning light, coffee steam, 8K, photorealistic.",
     "title": "Newspaper Mid-Unfold Diorama Prompt",
     "description": "A creative prompt for generating an epic 3D scene where a massive broadsheet newspaper is mid-unfold, and its headlines physically erupt into miniature dioramas of the events they describe. It specifies that column text rises as city blocks and the ink smell is almost visible, aiming for an 8K photorealistic result.",

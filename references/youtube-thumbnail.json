@@ -1,5 +1,54 @@
 [
   {
+    "content": "Prompt Image 1:- A wide-angle selfie photograph in Antarctica showing a man sitting on the snow, surrounded by a large colony of Emperor penguins. The man has short dark hair, a full beard, and is wearing red-lensed metal-frame sunglasses, a dark blue unbuttoned denim jacket over a white crew-neck t-shirt, dark blue cargo pants, and a brown canvas backpack. He is leaning slightly back, holding an orange smartphone in his right hand to take the selfie, with his left hand near the backpack strap. Around him, dozens of adult Emperor penguins are standing and walking on the snow, some close to the camera and others stretching into the distance. The background features massive towering glaciers and ice mountains with white cliffs and blue ice formations, deep snow with visible footprints, and a clear bright blue sky. Bright natural daylight creates crisp shadows, with sharp focus on the man, penguins, and the vast icy landscape, captured from a slightly low perspective that emphasizes scale and isolation.\n\nPrompt Image 2:- A highly detailed, cinematic wide-angle photograph in Antarctica: a handsome young man with short dark neatly styled hair, a full trimmed beard, and a confident expression is kneeling on one knee in the deep snow, gently shaking hands / holding flipper with a large adult Emperor penguin standing upright in front of him. The man is wearing red-tinted metal-frame aviator sunglasses, a dark blue unbuttoned denim jacket over a white crew-neck t-shirt, dark blue cargo pants, brown canvas backpack with straps over both shoulders, white Nike sneakers, and a wristwatch. He is looking at the penguin with a slight smile, his right hand clasping the penguin's flipper. The Emperor penguin is life-size, black head with yellow-orange neck patches, looking directly at the man. Surrounding them is a vast icy Antarctic landscape with massive towering glaciers, snow-covered mountains, blue ice formations, and distant icebergs under a clear bright blue sky. Crisp natural daylight, sharp shadows, high detail on textures of snow, denim fabric, penguin feathers, and facial features. Slightly low camera angle to emphasize scale and adventure, photorealistic style, sharp focus throughout, vibrant yet natural colors & heartwarming composition.",
+    "title": "Antarctica Penguin Adventure (2 Variations)",
+    "description": "A prompt offering two variations for generating photorealistic, cinematic images set in Antarctica. The first is a wide-angle selfie with a man surrounded by Emperor penguins and glaciers. The second is a detailed scene of a man kneeling to shake hands/flipper with a penguin, emphasizing scale and adventure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581925943_74wmf1_G_qyp4pboAAwicp.jpg",
+      "https://cms-assets.youmind.com/media/1769581925854_icglsq_G_qyp8PbAAQv2Qz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a thumbnail image using the text \"{argument name=\"text\" default=\"Update Complete!\"}\"",
+    "title": "Creating a Thumbnail Image with Text Overlay",
+    "description": "A simple prompt used with Nano Banana Pro's 'Image Editing' feature to create a thumbnail image based on a selected source image, adding a specific text overlay.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582025923_6kdsxn_G_p9ghNXQAA6CtB.jpg",
+      "https://cms-assets.youmind.com/media/1769582025935_f50or4_G_p9a6-W0AAXSZS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_type\": \"Urban Night Portrait\",\n  \"prompt\": \"High-impact cinematic depiction that matches the reference image with 100% facial accuracy. Featuring a young woman with long, wavy brown hair and a gentle smile. She is dressed in an oversized orange graphic t-shirt, a distressed denim mini-skirt, and clean white sneakers, complemented by a small brown crossbody bag. The subject is leaning casually against a metal pole on a wet urban street at night. The environment emphasizes a relaxed, modern city atmosphere with dramatic street lighting, neon accents, and strong reflections on the wet asphalt. Captured using a high-quality portrait lens with shallow depth of field, cinematic framing, and blurred city lights creating soft bokeh in the background. Ultra-detailed textures, realistic skin tones, professional cinematic color grading, sharp focus, HDR, ultra-high resolution 4K, masterpiece quality.\",\n  \"style_tags\": [\n    \"cinematic\",\n    \"night photography\",\n    \"urban portrait\",\n    \"shallow depth of field\",\n    \"bokeh\",\n    \"street style\",\n    \"HDR\",\n    \"professional\",\n    \"wet street reflections\"\n  ],\n  \"negative_prompt\": [\n    \"low quality\",\n    \"blurry\",\n    \"flat lighting\",\n    \"distorted face\",\n    \"bad anatomy\",\n    \"extra limbs\",\n    \"oversharpening\",\n    \"text\",\n    \"watermark\",\n    \"logo\",\n    \"daylight\"\n  ]\n}",
+    "title": "Urban Night Portrait with 100% Facial Accuracy",
+    "description": "A detailed JSON prompt for generating a high-impact cinematic urban night portrait. It explicitly requires 100% facial accuracy matching a reference image, focusing on street style, strong reflections on wet asphalt, and cinematic color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581924904_rm0lir_G_p4t5LbAAAaaXm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"main\": \"young female musician bass guitarist performing live on an outdoor stage\",\n      \"appearance\": \"long dark wavy layered hair blowing slightly in wind, fair skin, intense focused facial expression, natural makeup, silver hoop earrings\",\n      \"pose\": \"standing confidently holding a bass guitar, fingers plucking strings, looking slightly off-camera to the left\"\n    },\n    \"attire\": {\n      \"top\": \"sleeveless dark grey acid-wash graphic crop top with vintage band aesthetic\",\n      \"bottoms\": \"loose fit wide-leg blue denim carpenter jeans with large pockets\",\n      \"accessories\": \"black leather belt with double row silver grommets, wide black guitar strap\"\n    },\n    \"instrument\": {\n      \"type\": \"modern electric bass guitar\",\n      \"details\": \"deep blue burst finish with visible wood grain texture (quilted maple top), black hardware, long guitar neck, intricate fretboard details\"\n    },\n    \"environment\": {\n      \"setting\": \"daytime outdoor concert stage, open air festival vibe\",\n      \"background_elements\": \"blurred stage truss structures, black bass amplifier stack with metal grille, microphone stand on the left, overcast bright sky\"\n    },\n    \"technical_style\": {\n      \"quality\": \"ultra realistic, 8k uhd, hdr, masterwork, sharp focus, high fidelity textures\",\n      \"lighting\": \"natural diffuse daylight, soft shadows, cinematic lighting\",\n      \"camera\": \"telephoto lens, depth of field, bokeh background, portrait photography\"\n    }\n  },\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"orientation\": \"vertical long\",\n    \"resolution\": \"highest possible\"\n  }\n}",
+    "title": "Ultra-Realistic Portrait of Female Bass Guitarist Performing Live",
+    "description": "A detailed prompt for generating an ultra-realistic, vertical portrait of a young female musician playing a bass guitar live on an outdoor stage. It specifies the subject's appearance, attire (acid-wash crop top, wide-leg jeans), instrument details, and technical parameters for high-fidelity, cinematic photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581944393_q7esyz_G_pycIlXsAAMWR4.jpg",
+      "https://cms-assets.youmind.com/media/1769581944442_e9lb8e_G_pyb9HWUAAfiAs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A realistic, high-quality photo of a happy young man flying horizontally in the sky above a sea of fluffy white clouds. He has his arms outstretched like wings and legs slightly bent. He is wearing a sage green hoodie, beige cargo pants, black sneakers, a black baseball cap, and sunglasses. The sky is clear blue with bright sunlight, creating a sense of freedom and joy. Cinematic lighting, 8k resolution, wide-angle shot.",
+    "title": "High-Quality Photo of Man Flying Above Clouds",
+    "description": "A prompt for generating a realistic, high-quality, wide-angle photo of a young man flying horizontally above a sea of white clouds, emphasizing a sense of freedom and joy through cinematic lighting and clear blue sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581934001_pf3n4t_G_onnzibAAAGfsY.jpg",
+      "https://cms-assets.youmind.com/media/1769581934069_4fwzz1_G_onn6VacAAo4tg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Today's theme is Let's Gargle (English Version)",
     "title": "Four-Panel Comic Prompt: Gargle (English Version)",
     "description": "This is a prompt used to generate a four-panel comic strip using Nano Banana Pro, centered around the theme of 'Gargle' (English version).",

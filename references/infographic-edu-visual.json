@@ -51,6 +51,76 @@
     "needReferenceImages": false
   },
   {
+    "content": "Atmospheric product interface visual for a modern SaaS platform.\nClean hierarchy, balanced contrast,\nsoft shadows, neutral color palette,\nfocus on clarity and calm,\ndesigned like a best-in-class SaaS experience.",
+    "title": "Atmospheric Product Interface Visual Prompt for SaaS UI",
+    "description": "A prompt designed to generate a luxurious and calm visual representation of a modern SaaS product interface, emphasizing clarity, hierarchy, and a neutral color palette for a premium user experience.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581933231_911rp4_G_JDloYXQAAXf5_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A realistic first-person perspective (POV) shot of a person's hands holding a bunch of fresh, red strawberries in a blurred supermarket aisle. The image features a futuristic Augmented Reality (AR) interface overlay. \n\nGlowing holographic graphics surround the strawberries displaying nutritional information like 'Calories {argument name=\"calories\" default=\"50kcal\"}', 'Vitamin C', 'Folate', and 'Fiber'. On the right, a digital gauge shows 'Freshness {argument name=\"freshness\" default=\"95%\"}' and recipe suggestions like 'Strawberry Smoothie'. On the left, a holographic shopping list checks off items like Milk and Bread. \n\nHigh-tech, smart shopping concept, photorealistic lighting, 8k resolution.",
+    "title": "First-Person AR Shopping Interface Overlay",
+    "description": "This prompt generates a realistic first-person perspective (POV) image of holding strawberries, overlaid with a futuristic Augmented Reality (AR) interface displaying nutritional facts, freshness gauge, and a holographic shopping list, emphasizing high-tech, photorealistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581916201_rquqiz_G_rb0ZAa4AEQvdG.jpg",
+      "https://cms-assets.youmind.com/media/1769581916394_d0gkth_G_rb0JZbEAAJcPU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure, movement)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Technical Infographic for E-commerce Product Description",
+    "description": "A highly detailed, multi-part prompt designed to generate a technical infographic for an e-commerce product, combining a realistic photograph of the object with hand-sketched, architectural-style annotations, measurements, and schematic diagrams on a pure white background. The example object is a Tudor North Flag watch.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582022891_iq0y5e_G_q2ckMaUAAo35h.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"description\": \"Create a highly detailed, photorealistic miniature diorama style isometric map of {argument name=\"city location\" default=\"CITY/LOCATION\"} placed on a vintage textured paper map.\",\n  \"perspective\": {\n    \"type\": \"isometric\",\n    \"angle\": \"45 degree top down\",\n    \"look\": \"macro photography with tilt-shift miniature effect\"\n  },\n  \"geography\": {\n    \"shape\": \"follows real geographic shape of {argument name=\"city location\" default=\"CITY/LOCATION\"}\",\n    \"landmarks\": {\n      \"oversized\": true,\n      \"dominant\": true,\n      \"primary_focus\": \"monuments\",\n      \"secondary_elements\": \"smaller and simplified\"\n    },\n    \"architecture\": \"ultra detailed miniature\",\n    \"roads\": \"selective\",\n    \"greenery\": true,\n    \"water_bodies\": true,\n    \"terrain\": true,\n    \"materials\": [\"stone\", \"wood\", \"concrete\", \"glass\", \"foliage\"]\n  },\n  \"lighting\": {\n    \"type\": \"soft cinematic daylight\",\n    \"effects\": [\"natural shadows\", \"warm highlights\", \"subtle atmospheric depth\"]\n  },\n  \"water\": {\n    \"rivers\": true,\n    \"coastlines\": true,\n    \"depth_gradients\": \"smooth\",\n    \"reflections\": \"gentle\"\n  },\n  \"map_base\": {\n    \"type\": \"old world cartographic paper\",\n    \"features\": [\"visible grid lines\", \"paper grain\", \"printed place names\"]\n  },\n  \"focus\": {\n    \"sharp_on_landmarks\": true,\n    \"edge_falloff\": \"gentle\"\n  },\n  \"quality\": {\n    \"museum_quality\": true,\n    \"handcrafted_diorama_realism\": true,\n    \"ultra_high_resolution\": true\n  },\n  \"background\": {\n    \"color\": \"clean pure white\",\n    \"restrictions\": [\"no floating text\", \"no logos\", \"no watermarks\", \"no futuristic or cartoon elements\"]\n  },\n  \"aspect_ratio\": \"4:5\"\n}",
+    "title": "Photorealistic Diorama Isometric Map Prompt",
+    "description": "A structured prompt for generating a highly detailed, photorealistic miniature diorama-style isometric map of a city. It specifies a 45-degree top-down angle with a tilt-shift effect, emphasizing oversized landmarks, detailed miniature architecture, and placement on a vintage textured paper map base.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581950900_ps2zx2_G_qU9b_bAAMHznl.jpg",
+      "https://cms-assets.youmind.com/media/1769581951018_k36f2a_G_qU9adbkAAOdbv.jpg",
+      "https://cms-assets.youmind.com/media/1769581950886_5d7gfk_G_qU9YnaMAAyOD6.jpg",
+      "https://cms-assets.youmind.com/media/1769581951742_00z5k5_G_qU9dybAAM26D-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Motion Prompt: The pasta Cup start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nIMAGE 1 - Ultra-realistic food photography of a prepared creamy white sauce penne pasta served in a minimal ceramic bowl. Perfectly cooked penne coated evenly in rich, glossy cream sauce, topped with freshly grated parmesan cheese and finely chopped green herbs. Clean white studio background, soft diffused lighting, gentle shadows under the bowl, natural highlights on the sauce, realistic texture and thickness. Centered composition, shallow depth of field, premium restaurant-style presentation, high-detail food styling, 8K quality, sharp focus, no text, no labels, no hands, no props, no watermark.\n\nIMAGE 2 - Exploded view of a creamy pasta bowl, presented as a clean commercial breakdown.\nExactly five ingredients, evenly spaced in vertical order.\nIngredient order (top → bottom):\nGrated parmesan cheese — 20 g\nFresh herbs garnish — 5 g\nCreamy white sauce — 80 g\nCooked penne pasta — 150 g\nServing bowl base — 200 g (bottom)\nMinimal infographic annotations, instructional food design.",
+    "title": "Motion and Image Prompt for Ultra-Realistic Food Photography of Pasta",
+    "description": "A dual prompt for generating a motion sequence and a still image of ultra-realistic food photography. The motion prompt describes a smooth, precise spin of a pasta cup with ingredients separating while maintaining alignment. The image prompt specifies a detailed, high-quality shot of creamy white sauce penne pasta, focusing on texture, lighting, and a clean, commercial presentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581932812_1vydnm_G_qHyuKWYAATSxB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Illustrate this article\n```\n({argument name=\"article text\" default=\"Paste the article text you want to illustrate\"})\n```\n\nThis is how to illustrate it\n```\nA dense and expansive Japanese logic tree diagram drawn on a clean white page. The image is packed with structured information: neat hierarchical boxes, lists of bullet points, and precise connecting lines drawn with a fine-point pen.\n\nThere is no messiness; the \"chaos\" comes from the sheer overwhelming volume of organized data and Japanese text. It looks like a complex master plan or algorithm design. Important nodes are boxed in red. The handwriting is small, neat, and rapid.\n\nStyle: Technical diagram, neat handwriting, information visualization, minimalist background.\nQuality: High definition, distinct Japanese text.",
+    "title": "Prompt for Generating Logical Tree Diagrams with Nano Banana Pro",
+    "description": "A user developed a specific prompt for Nano Banana Pro (using Gemini Pro mode) to generate logical tree diagrams or flowcharts based on a provided article text, emphasizing a technical, structured, and visually dense style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582032371_3rvbv1_G_p0puvXgAAy5CT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure, movement)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Technical Infographic Overlay on a Photorealistic Object",
+    "description": "A prompt template for generating an infographic image that combines a photorealistic render of an object with technical annotation overlays. It specifies black ink-style line drawings, key component labels, measurements, and schematic diagrams on a pure white background, creating an educational, engineering-manual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581997562_huiwn9_G_o1kafacAArL5a.jpg",
+      "https://cms-assets.youmind.com/media/1769581997715_4g4xf7_G_o1kapbAAAswAP.jpg",
+      "https://cms-assets.youmind.com/media/1769581997832_40e2rb_G_o1kahbAAEyRZS.jpg",
+      "https://cms-assets.youmind.com/media/1769581998757_519v3u_G_o1kafbAAIY32u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Epic 3D scene: a massive broadsheet newspaper mid-unfold, its headlines erupting into the events they describe. Front page stories become dioramas pushing off the page. {argument name=\"headline event\" default=\"[HEADLINE EVENT]\"} manifests in miniature chaos. Photographs animate and expand into three dimensions. Column text rises as city blocks of information. Editorial section becomes a battlefield of arguing figures. Classifieds transform into tiny desperate lives. Different sections occupy different worlds: sports as stadium, business as trading floor, obituaries as memorial garden. Yesterday's news composites beneath as fading ghost layer. Ink smells almost visible as atmosphere. Newsstand visible at the edge, morning light, coffee steam, 8K, photorealistic.",
     "title": "Newspaper Mid-Unfold Diorama Prompt",
     "description": "A creative prompt for generating an epic 3D scene where a massive broadsheet newspaper is mid-unfold, and its headlines physically erupt into miniature dioramas of the events they describe. It specifies that column text rises as city blocks and the ink smell is almost visible, aiming for an 8K photorealistic result.",

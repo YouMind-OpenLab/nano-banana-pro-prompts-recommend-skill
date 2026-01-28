@@ -12,6 +12,83 @@
     "needReferenceImages": true
   },
   {
+    "content": "can let it explode, static",
+    "title": "Prompt for Exploding or Static Food Photography",
+    "description": "A user suggests uploading a food photo to Gemini Nano Banana Pro and using this prompt to make the food 'explode' or remain static, indicating an effect-based image generation prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582033433_2q9lrz_G_tPKcsbAAM-Fig.jpg",
+      "https://cms-assets.youmind.com/media/1769582033473_ootmc2_G_tPKcqbAAIPWOg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Copy the following system prompt into ChatGPT / Claude / Gemini \n\n2⃣ Type ONE word: \"love\", \"hunger\", \"dream\" \n\n3⃣ Receive 3 prompts with 3 distinct interpretations \n\n4⃣Copy and paste into Nano Banana 🍌",
+    "title": "System Prompt for Generating Image Prompts",
+    "description": "A meta-prompt instructing a large language model (ChatGPT, Claude, or Gemini) to act as a prompt generator. The user provides a single word (like 'love', 'hunger', or 'dream'), and the LLM is expected to return three distinct image prompts based on that word, which can then be used in Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582041819_19ifuj_G_sq4irWQAAUI_B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A {argument name=\"flower name\" default=\"Flower name\"} photographed in a minimalist fine art style, centered in the composition. Green stem. Completely black, matte background with no visible texture. Dramatic studio lighting. Ultra-realistic macro photography. Camera angle: eye-level, not top-down.",
+    "title": "Minimalist Fine Art Flower Macro",
+    "description": "A simple prompt for generating an ultra-realistic macro photograph of a flower in a minimalist fine art style, centered against a completely black, matte background with dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581968686_95d9yk_G_rRPl4bQAAGYZ7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A horizontal split-screen cinematic shot of {argument name=\"scene location\" default=\"Lalchowk, kashmir india\"}, seamlessly blending two different eras: {argument name=\"era A\" default=\"1920s\"} on the left and {argument name=\"era B\" default=\"present day\"} on the right (default: about 100 years ago vs. present day).\n\nOn the left side ({Era_A}): show era-appropriate architecture, interior or environment design, materials, vehicles, and props that clearly belong to that historical period. People wear authentic clothing from {Era_A}, including hairstyles, accessories, and typical items in their hands (such as books, umbrellas, instruments, letters, newspapers, etc.). The overall mood feels nostalgic and historically accurate.\n\nOn the right side ({Era_B}): show the same {Scene} in the modern era, with updated architecture or renovated structures, contemporary materials (glass, steel, LED screens, modern furniture), modern vehicles or equipment, and current technology (smartphones, laptops, cameras, etc.). People wear contemporary fashion that matches today’s style in this setting.\n\nIn the center: the two eras merge and overlap organically, without a hard dividing line. Elements from {Era_A} and {Era_B} visually interact: people from different times look at each other, walk through each other’s space, or seem surprised by the other era’s technology and objects. Architecture and environment smoothly morph from old to new (for example, stone gates turning into modern campus gates, classical concert hall décor fading into a futuristic stage, old street shops transforming into neon-lit storefronts).\n\nMake sure the scene is not just a simple left/right comparison but a dynamic time-travel interaction where buildings, clothing, props, and human gestures clearly emphasize the contrast and fusion between the two eras. Photorealistic, 8k resolution, cinematic lighting, wide angle, highly detailed textures, rich sense of time-travel storytelling.",
+    "title": "Split-Screen Time-Travel Cinematic Shot",
+    "description": "A detailed prompt for generating a cinematic split-screen image that seamlessly merges two different eras—a historical period and the present day—in the same location, emphasizing dynamic interaction and smooth transition between the two time periods.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581957863_zhh8vo_G_rUNZHawAArRxz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{ \n  \"shot\": { \n    \"composition\": \"Low-angle wide shot, 35mm lens, slight barrel distortion, surreal perspective\", \n    \"camera_motion\": \"static\", \n    \"frame_rate\": \"24fps\", \n    \"film_grain\": \"Kodak Vision3 250D film with soft diffusion and bloom\" \n  }, \n  \"}, \n  \"subject\": { \n    \"description\": \"Tanned woman with long sunlit hair, wearing black bikini, small black cat-eye sunglasses, large gold and zebra-pattern bangles, gold hoop earrings\", \n    \"wardrobe\": \"minimal triangle black bikini, black flip-flops, layered gold and patterned bangles\", \n    \"pose\": \"squatting beside car, elbow on knee, hand resting on chin, legs tucked, other hand loosely holding sandal\", \n    \"expression\": \"relaxed, detached, casually glamorous\" \n    \"pose\": \"standing upright with relaxed posture, hands in pockets, facing camera with eyes unfocused\" \n  }, \n  \"scene\": { \n    \"location\": \"stylized surreal environment with floating orange chains and a cloudy sky gradient from {argument name=\"sky color 1\" default=\"crimson\"} to {argument name=\"sky color 2\" default=\"deep blue\"}\", \n    \"time_of_day\": \"timeless — atmospheric studio-sky hybrid\" \n  }, \n  \"visual_details\": { \n    \"action\": \"subject stands still while chains surround him in layered depth; some chains in foreground blur, others in sharp midground focus\", \n    \"props\": \"large floating or suspended orange chains\" \n  }, \n  \"cinematography\": { \n    \"lighting\": \"stylized directional lighting with soft contrast and dreamy haze\", \n    \"tone\": \"surreal, poetic, introspective\" \n  }, \n  \"audio\": { \n    \"ambient\": \"light wind, subtle metal chain creaks, ambient reverb tones\" \n  }, \n  \"color_palette\": \"hot orange, sky blue, soft crimson pinks, navy and shadow blacks\", \n  \"dialogue\": { \n    \"character\": \"\", \n    \"line\": \"Even when still, the world wraps around me.\", \n    \"subtitles\": false \n  } \n}",
+    "title": "Surreal Cinematic Scene with Floating Chains",
+    "description": "A cinematic prompt for generating a surreal, stylized scene featuring a tanned woman in a black bikini squatting beside a car, surrounded by large, floating orange chains against a gradient sky. The prompt specifies film grain, low-angle wide shot, and a poetic, introspective tone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581973092_hxjlek_G_rGoB5a0AAcjw_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A vintage leather armchair in a dimly lit library, upholstery woven from interlocking chains of frost-covered chainmail and silky spiderweb threads embedded with tiny emerald shards, wooden frame textured like weathered barnacles fused with molten candle wax drips, bookshelves in background with pages of crinkled aluminum foil, soft golden lamplight casting intricate shadows on every fiber and crack, hyper-realistic, photorealistic detail, no artifacts, 4K, aspect ratio 16:9.",
+    "title": "Surreal Library Armchair Generation",
+    "description": "A prompt for generating a hyper-realistic, 4K image of a vintage leather armchair in a dimly lit library, but with surreal, intricate textures: chainmail and spiderweb upholstery, barnacle-fused wood, and aluminum foil pages on the bookshelves, emphasizing detailed shadows and photorealism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582003084_wqh3wq_G_qjC0ZXAAAjVZT.jpg",
+      "https://cms-assets.youmind.com/media/1769582003078_gxt7os_G_qjC0WWIAApcpD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Use the pose and composition of Reference Image 1, and the two characters and background colors of Reference Image 2, to merge them into a new image. The main subject adopts the pose and composition of Image 1, and the characters and background colors match Image 2.",
+    "title": "Image Fusion Prompt Using Multiple References",
+    "description": "A prompt instructing Nano Banana Pro to fuse elements from two reference images: adopting the pose and composition from the first image, while using the two characters and background colors from the second image to create a new, merged image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582035194_dlkbq6_G_p3B3ZakAAdcC5.jpg",
+      "https://cms-assets.youmind.com/media/1769582035210_ni257y_G_p1nGoa8AAoiSK.jpg",
+      "https://cms-assets.youmind.com/media/1769582035323_n3pnr1_G_p3HQIbAAAi2xz.jpg",
+      "https://cms-assets.youmind.com/media/1769582036208_qcfwtr_G_p3PXWacAAX0_t.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "8k\nUltra-Realistic Promotional",
+    "title": "Ultra-Realistic Promotional Image Prompt",
+    "description": "A concise prompt specifying the desired style and resolution for a promotional image using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582041707_ycrm2q_G_op3ShawAAi51B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Act as an expert photo editor. Step 1: Mark up the uploaded image with handwritten yellow marker notes and sketches, identifying flaws and suggesting improvements. Step 2: Based strictly on those notes, edit the image to resolve the critiques and produce a superior final result.",
     "title": "Expert Photo Editor Prompt for Selfie Improvement",
     "description": "A two-step system prompt instructing the AI to act as an expert photo editor. First, it must mark up an uploaded image with handwritten notes identifying flaws and suggesting improvements. Second, it must strictly follow those critiques to edit the image and produce a superior final result.",

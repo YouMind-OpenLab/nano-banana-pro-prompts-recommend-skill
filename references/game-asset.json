@@ -1,5 +1,92 @@
 [
   {
+    "content": "POV Raw Fisheye Pokemon Wildlife",
+    "title": "Short Prompt for POV Fisheye Pokemon Wildlife",
+    "description": "A very short, stylistic prompt combining POV, Raw, Fisheye lens effects with the subject matter of Pokemon Wildlife.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581993219_nm4qdx_G_ruPDjWMAkXJQc.jpg",
+      "https://cms-assets.youmind.com/media/1769581994111_jrocw4_G_ruPD1WYAA8_5F.jpg",
+      "https://cms-assets.youmind.com/media/1769581993202_wi0vs1_G_ruPDvWMAM0o12.jpg",
+      "https://cms-assets.youmind.com/media/1769581994461_kkgakh_G_ruPDnWMAswXXn.jpg",
+      "https://cms-assets.youmind.com/media/1769581995106_qpssuh_G_dfBkBW8AAYllS.jpg",
+      "https://cms-assets.youmind.com/media/1769581995245_mwyhoq_G_dfCV3W8AEdTjw.jpg",
+      "https://cms-assets.youmind.com/media/1769581995661_gmdy5e_G_dfDa6WUAAZFPV.jpg",
+      "https://cms-assets.youmind.com/media/1769581996059_o1h10t_G_dfEMJXYAAnbhM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-clean high-end 3D render of {argument name=\"object\" default=\"OBJECT\"}, designed with clearly segmented parts in bold, vibrant, high-contrast colors, each component using a different saturated pop color (electric blue, neon pink, bright yellow, mint green, cyan, purple, glossy white accents), smooth matte and semi-gloss plastic materials with subtle rubberized elements, rounded edges, playful industrial toy-like proportions, premium collectible-toy aesthetic, the object floating in mid-air with slightly separated components to emphasize individual parts, no motion blur, perfectly balanced composition, studio lighting with soft diffused key light and controlled rim light to enhance color separation, minimal clean shadows, smooth gradient background transitioning from deep blue to purple, ultra-polished Apple-level cleanliness, no textures, no scratches, no dirt, no realism noise, no muted tones, no desaturation, no monochrome dominance, perfect global illumination, ray-traced reflections, soft contact shadows, shallow depth while remaining razor sharp, cinematic framing, centered composition, minimalistic, modern, playful yet premium, rendered in ultra-high resolution with Octane or Redshift-style quality, Behance-feature-level output, no text, no logos, no branding, no extra elements, no people, no environment clutter, no watermark, no typography, aspect ratio 4:5.",
+    "title": "High-End 3D Render of Segmented Object",
+    "description": "A detailed prompt for creating an ultra-clean, high-end 3D render of an object with clearly segmented parts, utilizing bold, high-contrast colors and a playful, premium collectible-toy aesthetic, rendered with Octane or Redshift-style quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581955007_zl5wlp_G_rkX9cbAAAZOcL.jpg",
+      "https://cms-assets.youmind.com/media/1769581955005_buotbv_G_rkX_sbAAMUkj2.jpg",
+      "https://cms-assets.youmind.com/media/1769581955032_yyxgxr_G_rkX8zbAAQ9IXc.jpg",
+      "https://cms-assets.youmind.com/media/1769581955846_8bjqun_G_rkX9cbAAE5GPk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra realistic cinematic scene of my floating and falling in mid air above the clouds, dynamic upside down pose with legs bent and arms slightly raised, wearing black hoodie black pants black cap sunglasses and {argument name=\"shoe color\" default=\"red\"} sports shoes, dramatic sense of motion, two futuristic stealth fighter jets flying very close above and below the character with motion blur and heat trails, high altitude sky with soft clouds far below, daylight cinematic lighting, sharp focus on character, wide angle shot, epic scale, realistic physics, dramatic composition, 4k quality, no text, no logo, no watermark",
+    "title": "Ultra-Realistic Cinematic Scene of Floating in Mid-Air",
+    "description": "An ultra-realistic cinematic prompt for generating a dynamic scene of a character floating upside down above the clouds. The prompt emphasizes motion blur, realistic physics, epic scale, and the presence of two futuristic stealth fighter jets flying close to the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581983014_rvpnjj_G_rMyEpXYAAERjC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Illustrate a minimal character of {argument name=\"character type\" default=\"[CHARACTER TYPE]\"} with simplified facial features (dots and lines only). Use flat colors, soft curves, and no textures. Neutral pose, centered, on a plain background. Cute, calm, and visually clean.",
+    "title": "Minimal Character Illustration Template",
+    "description": "A simple template prompt for generating minimal character illustrations with simplified features, flat colors, and soft curves, suitable for clean, visually calm designs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581924144_ur0pd1_G_q96GuawAAnIn8.jpg",
+      "https://cms-assets.youmind.com/media/1769581924126_6no03t_G_q96H7bAAMXx28.jpg",
+      "https://cms-assets.youmind.com/media/1769581924147_8e3i5s_G_q96H4asAA44mg.jpg",
+      "https://cms-assets.youmind.com/media/1769581924741_pekez2_G_q96GuaYAEboRW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Massive ancient abandoned alien mining machine in the shape of a worm --ar 16:9 --raw --sref 213005887 --sw 100 --stylize 300 --v 6.1",
+    "title": "Massive Ancient Abandoned Alien Mining Machine Prompt",
+    "description": "A simple, high-concept prompt for generating an image of a massive, ancient, abandoned alien mining machine shaped like a worm, using specific Midjourney parameters for style and reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581948588_efib76_G_qxWq6XsAEZMuc.jpg",
+      "https://cms-assets.youmind.com/media/1769581948751_nyr1mq_G_geNm2WkAANmR4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A hyper-realistic, cinematic 9:16 portrait of a modern military squad lineup. In the middle stands, wearing tactical combat gear with a vest, headset, gloves, and a futuristic assault rifle. On the left: a rugged soldier with a beard and boonie hat, wearing heavy tactical armor. On the right: a mysterious masked operative with a skull-patterned mask and combat uniform. The three stand side by side as an elite special forces unit, set in a gritty warzone environment with sparks, smoke, and cinematic lighting. Ultra-detailed, realistic textures, game-poster style, 8K",
+    "title": "Hyper-Realistic Military Squad Portrait",
+    "description": "A prompt designed to generate a hyper-realistic, cinematic portrait of an elite three-person military squad in tactical gear. The scene is set in a gritty warzone with smoke and sparks, aiming for a game-poster aesthetic with high detail and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581999647_q51u2t_G_pOOQBXYAEDDfg.jpg",
+      "https://cms-assets.youmind.com/media/1769581999645_jyxbd1_G_pOOOtbMAAXS3o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A cute 3D chibi-style cartoon sticker set, featuring the same character in multiple emotions and poses(using an uploaded face as a reference). Big expressive glossy eyes, soft rounded face, slightly oversized head, small body proportions.  Wearing a {argument name=\"jacket color\" default=\"red\"} leather jacket over a white top. Each pose shows different expressions: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging. Pixar/Disney-inspired 3D render, smooth plastic-like texture, soft lighting, pastel beige background. Sticker-style white outline around each character, clean and minimal aesthetic, high detail, ultra cute, emoji-like expressions, high resolution, studio quality.",
+    "title": "3D Chibi Cartoon Sticker Set Generation Prompt",
+    "description": "A prompt for generating a set of 3D chibi-style cartoon stickers based on a reference face. It specifies the aesthetic (Pixar/Disney-inspired, glossy eyes, rounded face), character details (red leather jacket), multiple emotional poses, and technical requirements (smooth plastic texture, white outline, high resolution).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582037114_06q4zj_G_pErRwWsAAMppI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A realistic RPG status screen appears in the background.",
+    "title": "RPG Status Screen Overlay",
+    "description": "A Japanese prompt for generating an image where a realistic RPG status screen appears behind the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582020426_iz4zgl_G-IMHbJaAAAvezG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Cinematic 3D composition centered on a {argument name=\"object\" default=\"[OBJECT]\"}, frozen at the instant it releases something far bigger than itself.\n\nFrom within it, an entire {argument name=\"world style\" default=\"[WORLD STYLE / THEME]\"} reality unfolds, spilling outward into sweeping environments, towering forms, and dynamic motion that suggests this world was hidden there all along.\n\nThe object doesn’t just contain the world — it becomes part of it, with its shapes transforming into terrain, architecture, and symbolic landmarks.\n\nSmall figures, machines, or creatures navigate the scene, adding life, scale, and narrative.\nThe moment balances between dream and physics, where visual logic holds even as reality stretches.\n\nThe scene is charged with [ATMOSPHERE: glow, fog, particles, smoke, energy], amplifying the sense of rupture and emergence.\n\nA subtle hint of the real world remains visible around the edges, anchoring the spectacle in realism.\n\nHyper-detailed textures, dramatic lighting, cinematic depth, ultra-realistic, 8K, concept art finish.",
     "title": "Cinematic 3D World Emergence from Object",
     "description": "A template prompt for generating a cinematic 3D composition where a small object releases an entire world or reality far bigger than itself, with the object's shapes transforming into the terrain and architecture of the emerging world.",
