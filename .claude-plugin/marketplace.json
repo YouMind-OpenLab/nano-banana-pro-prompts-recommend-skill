@@ -5,8 +5,8 @@
     "email": "jaredliu.ai@gmail.com"
   },
   "metadata": {
-    "description": "Recommend from 6000+ Nano Banana Pro image generation prompts based on user needs",
-    "version": "1.0.0"
+    "description": "Recommend from 10,000+ Nano Banana Pro image generation prompts based on user needs",
+    "version": "1.5.5"
   },
   "plugins": [
     {

@@ -1,13 +1,13 @@
-# AI Image Prompt Recommender — 10,000+ Nano Banana Pro Prompts
+# AI Image Prompt Recommender — 11,000+ Nano Banana Pro Prompts
 
-[![Prompts](https://img.shields.io/badge/Prompts-10000%2B-brightgreen)](https://youmind.com/nano-banana-pro-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-11000%2B-brightgreen)](https://youmind.com/nano-banana-pro-prompts)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://clawhub.com/skill/nano-banana-pro-prompts-recommend)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-orange)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 [![Daily Updates](https://img.shields.io/badge/Updates-Twice%20Daily-purple)]()
 [![Multi-language](https://img.shields.io/badge/Language-Multi--lingual-yellow)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-> **Stop spending hours hunting for the right AI image prompt.** Tell your AI assistant what you need in one sentence — it searches 10,000+ curated Nano Banana Pro prompts and returns the top 3 matches with sample images, ready to use.
+> **Stop spending hours hunting for the right AI image prompt.** Tell your AI assistant what you need in one sentence — it searches 11,000+ curated Nano Banana Pro prompts and returns the top 3 matches with sample images, ready to use.
 >
 > 🖼️ [Browse the Prompt Gallery →](https://youmind.com/nano-banana-pro-prompts)
 
@@ -15,13 +15,13 @@
 
 ## What Is This?
 
-An **AI agent skill** that gives Claude, OpenClaw, Cursor, and other AI assistants the ability to intelligently search a curated library of **10,000+ Nano Banana Pro (Gemini image model) prompts**, recommend the best matches for your use case, and even customize prompts based on your content.
+An **AI agent skill** that gives Claude, OpenClaw, Cursor, and other AI assistants the ability to intelligently search a curated library of **11,000+ Nano Banana Pro (Gemini image model) prompts**, recommend the best matches for your use case, and even customize prompts based on your content.
 
 **Nano Banana Pro** is Google's Gemini image generation model — one of the most capable AI image generators available today. High-quality prompts are the key to great results.
 
 ## Why Use This Skill?
 
-- ✅ **10,000+ prompts, organized by use case** — not a random dump, but professionally categorized
+- ✅ **11,000+ prompts, organized by use case** — not a random dump, but professionally categorized
 - ✅ **Every prompt includes sample images** — see the result before you copy
 - ✅ **Smart semantic search** — describe what you need, the AI finds the match
 - ✅ **Content remix mode** — paste your article or video script, get a custom prompt
@@ -106,17 +106,17 @@ The skill will:
 
 | Category | Count | Use Cases |
 |----------|-------|-----------|
-| Social Media Post | 10,000+ | Instagram, Twitter/X, Facebook, viral content |
-| Product Marketing | 3600+ | Ads, campaigns, promotional materials |
-| Profile / Avatar | 1000+ | Headshots, profile pictures, character portraits |
-| Others / Mixed | 900+ | Uncategorized creative prompts |
-| Poster / Flyer | 470+ | Events, announcements, banners |
-| Infographic | 450+ | Data visualization, educational content |
-| E-commerce | 370+ | Product photos, listings, white background |
-| Game Asset | 370+ | Sprites, characters, items |
-| Comic / Storyboard | 280+ | Manga, panels, sequential art |
-| YouTube Thumbnail | 170+ | Click-worthy video covers |
-| App / Web Design | 160+ | UI mockups, interface designs |
+| Social Media Post | 6,800+ | Instagram, Twitter/X, Facebook, viral content |
+| Product Marketing | 4,000+ | Ads, campaigns, promotional materials |
+| Profile / Avatar | 1,100+ | Headshots, profile pictures, character portraits |
+| Others / Mixed | 950+ | Uncategorized creative prompts |
+| Poster / Flyer | 520+ | Events, announcements, banners |
+| Infographic | 480+ | Data visualization, educational content |
+| E-commerce | 430+ | Product photos, listings, white background |
+| Game Asset | 410+ | Sprites, characters, items |
+| Comic / Storyboard | 300+ | Manga, panels, sequential art |
+| YouTube Thumbnail | 180+ | Click-worthy video covers |
+| App / Web Design | 170+ | UI mockups, interface designs |
 
 ---
 
@@ -134,7 +134,7 @@ Returns top 3 prompts with images + translated descriptions
 [Optional] User picks one → Skill remixes it to match their content
 ```
 
-**Token-efficient by design**: The skill never loads full category files. It uses grep-style search to extract only matching prompts, keeping token usage minimal even with 10,000+ prompts in the library.
+**Token-efficient by design**: The skill never loads full category files. It uses grep-style search to extract only matching prompts, keeping token usage minimal even with 11,000+ prompts in the library.
 
 ---
 
@@ -150,7 +150,7 @@ Prompts are curated from viral posts by top AI artists on Twitter/X, automatical
 ## Frequently Asked Questions
 
 **Q: What is Nano Banana Pro?**
-Nano Banana Pro is Google's Gemini image generation model (model ID: `gemini-3-pro-image-preview`). It produces high-quality, photorealistic and artistic images from text prompts. [Try it on YouMind →](https://youmind.com/nano-banana-pro-prompts)
+Nano Banana Pro is Google's Gemini image generation model (model ID: `gemini-3.1-flash-image-preview`). It produces high-quality, photorealistic and artistic images from text prompts. [Try it on YouMind →](https://youmind.com/nano-banana-pro-prompts)
 
 **Q: Do I need a YouMind account to use this skill?**
 No. The skill is completely free and works with any AI assistant that supports custom skills (OpenClaw, Claude Code, Cursor, Codex, Gemini CLI). You only need a YouMind account if you want to generate images directly on youmind.com.

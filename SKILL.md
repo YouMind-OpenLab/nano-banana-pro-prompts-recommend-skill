@@ -72,6 +72,13 @@ node scripts/setup.js --check
 This fetches the latest `references/*.json` files from:
 https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/tree/main/references
 
+## Model Note
+
+- Default target model: `gemini-3.1-flash-image-preview`
+- This skill recommends prompts only. It does not call the Gemini API directly.
+- If your local image workflow uses a different Gemini image model, keep the recommended prompt text in English unless your downstream tool requires another format.
+- If model naming changes in the future, update `README.md` and `.claude-plugin/marketplace.json` together to keep docs aligned.
+
 ## Available Reference Files
 
 The `references/` directory contains categorized prompt data (auto-generated daily by GitHub Actions).
