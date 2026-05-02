@@ -21,6 +21,127 @@
     "needReferenceImages": true
   },
   {
+    "id": 17497,
+    "content": "A photographic medium-wide shot of the same {argument name=\"subject\" default=\"young man with dark curly hair and a fit build\"}, standing beside the {argument name=\"vehicle\" default=\"white vintage rally car\"} with its racing decals. He is wearing the identical {argument name=\"outfit\" default=\"oversized beige and black color-blocked windbreaker jacket\"}, loose black pants, and white Nike sneakers. He is leaning casually against the driver's side door, both hands in his pockets, looking directly into the camera lens with a confident, relaxed expression. The background is a vast, open street under a soft, dramatic cloudy sky. Natural daylight with soft, cinematic shadows.",
+    "title": "Casual Portrait with Vintage Rally Car",
+    "description": "A relaxed photographic prompt for a male subject leaning against a vintage rally car, emphasizing lighting and wardrobe detail consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705640066_9s1kjc_HHRSHKdWoAAqhFW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17488,
+    "content": "A highly realistic, photorealistic close-up macro photography of a used, physically weathered {argument name=\"bank name\" default=\"JP Morgan Chase\"} bank check resting on a scratched wooden desk. The check is completely filled out with a blue ballpoint pen. The handwriting is distinctly human, messy, slightly slanted, and uniquely stylized with inconsistent ink pressure and minor skips, completely avoiding any uniform or computerized script-font appearance. The date written is '{argument name=\"date\" default=\"May 1, 2026\"}'. The signature on the bottom right clearly reads '{argument name=\"signature\" default=\"iqrasaifiii\"}' in a fast, authentic, slightly erratic cursive scrawl. The paper of the check shows significant physical wear and tear: noticeable horizontal and vertical folding creases, bent and frayed corners, faint dirt smudges, and subtle, faded coffee spots. A cheap black ballpoint pen lies slightly out of focus in the background. Shot on DSLR, 50mm lens, natural daylight casting soft, realistic shadows, 8k resolution.",
+    "title": "Photorealistic Bank Check Macro",
+    "description": "A hyper-realistic macro photography prompt for a weathered, used JP Morgan Chase bank check with authentic human handwriting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705635773_3m09um_HHPk2sRaEAEjJxv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17508,
+    "content": "Hyper-realistic vertical 4:5 photograph. Cast iron Bund promenade in Shanghai at night, full shot. Behind the heroine, across the Huangpu River — the illuminated Pudong skyline: Oriental Pearl Tower lit with red and white stripes, its blue and red spheres glowing, Shanghai Tower, Jin Mao Tower, World Financial Center with colorful LED lighting; reflections of the city lights shimmering in the black water in the foreground.\nThe heroine leans her lower back against a black metal railing, body angled 3/4 toward the camera, calm and confident gaze directed at the lens.\nIn the center of the composition at her waist — a {argument name=\"accessory\" default=\"massive silver belt buckle with double B Balenciaga emblem\"} catching a bright reflection from the city lights.\nClothing: {argument name=\"jacket\" default=\"brown biker-style leather bomber jacket with zipper\"}, left open, sleeves rolled up; {argument name=\"top\" default=\"white ribbed thermal t-shirt with deep neckline\"}; high-waisted dark indigo straight jeans; Balenciaga belt with silver BB buckle; black leather heeled boots; silver chain necklace, IWC Pilot watch, signet ring.\nLighting: ultramarine blue dominant night sky + red/white neon glows from Pearl Tower and LED building facades behind her. Mixed lighting: cool blue fill light from the front + warm red rim light from behind.\nShot on Sony A7R V camera with 1.55x anamorphic squeeze lens, oval bokeh, horizontal blue light streaks from LED sources. Cinematic color grade. No plasticity, no CGI, no AI artifacts.",
+    "title": "Shanghai Bund Night Photography",
+    "description": "Captures a cinematic night scene at the Shanghai Bund with detailed descriptions of the skyline and fashion details like Balenciaga accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705645986_fg1205_HHPYvLhaAAA2LaM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17481,
+    "content": "This aesthetic identity board features a central full-body portrait of a {argument name=\"subject\" default=\"woman in a tailored sage green power suit\"} and satin camisole, characterized by a \"clean girl\" aesthetic with glowing skin and minimalist silver jewelry. The composition is a curated 9:16 lifestyle collage that balances {argument name=\"color palette\" default=\"soft mint, lavender, and neutral tones\"}. Surrounding the central figure are high-quality, close-up vignettes: premium skincare bottles in pastel packaging, an iced matcha latte on a white marble surface, textured linen fabrics, and a plush lavender throw blanket. Elegant serif typography overlays the image with phrases like \"{argument name=\"text\" default=\"Effortless Elegance\"}\" and \"Clean Beauty Rituals,\" all set against a clean, airy background with soft, natural lighting that emphasizes a luxurious, minimalist brand identity.",
+    "title": "Clean Girl Aesthetic Identity Board",
+    "description": "A detailed layout prompt for a minimalist lifestyle mood board focusing on the 'clean girl' aesthetic and luxury branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705632807_frkp70_HHPTIShW4AA1ry7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17496,
+    "content": "{\n  \"generation_request\": {\n    \"task_type\": \"single_viral_lifestyle_fashion_photo\",\n    \"style\": \"retro_tokyo_soft_girl_luxury_editorial\",\n    \"aspect_ratio\": \"4:5\",\n    \"resolution\": \"8K\",\n    \"subject\": {\n      \"description\": \"adult beautiful woman, playful feminine confidence, flirty but polished\",\n      \"hair\": \"soft messy updo with ribbon and loose curtain bangs\",\n      \"makeup\": \"glossy rose lips, peach blush, lifted lashes, fresh luminous skin\",\n      \"pose\": \"seated near retro cafe window, playful straw sip, eyes looking directly into camera, relaxed shoulder line\"\n    },\n    \"location\": {\n      \"place\": \"{argument name=\"location\" default=\"Asakusa retro kissaten cafe near old Tokyo streets\"}\",\n      \"environment\": \"warm wood interior, window view of traditional street, nostalgic Tokyo atmosphere, soft daylight\"\n    },\n    \"fashion\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"ivory satin square-neck mini dress with red piping, fitted waist, soft cropped cardigan slipping off one shoulder\"}\",\n      \"motifs\": \"tiny koi or goldfish embroidery near hem, minimal and refined\",\n      \"accessories\": \"gold hoop earrings, red ribbon hair detail, cream mini shoulder bag, red Mary Jane heels\"\n    },\n    \"props\": {\n      \"main_prop\": \"{argument name=\"drink\" default=\"retro melon soda float with straw\"}\",\n      \"extra_prop\": \"small box of ningyo-yaki sweets on the table\"\n    },\n    \"color_palette\": {\n      \"colors\": [\"warm ivory\", \"lipstick red\", \"caramel wood\", \"soft black\"],\n      \"psychology\": \"nostalgia, flirtation, sweetness, youthful luxury\"\n    },\n    \"camera\": {\n      \"camera_body\": \"Fujifilm GFX100 II look\",\n      \"lens\": \"50mm f/1.4 lifestyle portrait lens\",\n      \"settings\": \"f/1.8, 1/250s, ISO 400\",\n      \"angle\": \"intimate seated cafe portrait, slightly above eye level\"\n    },\n    \"lighting\": {\n      \"style\": \"soft window daylight with creamy highlights\",\n      \"key_light\": \"natural side window light\",\n      \"fill\": \"gentle white bounce under face\",\n      \"grade\": \"warm retro film color, realistic skin, soft contrast\"\n    },\n    \"quality\": \"viral Instagram travel beauty editorial, crisp eyes, realistic food props, no text\"\n  }\n}",
+    "title": "Retro Tokyo Girl Lifestyle Photography",
+    "description": "A detailed JSON generation request for a nostalgic Tokyo-style lifestyle photo, featuring a retro cafe setting and high-end fashion elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705639510_5mqndb_HHO4T1vXsAAjd2b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17492,
+    "content": "use reference image for face, do not alter the face details, A confident beautiful {argument name=\"ethnicity\" default=\"South Asian woman\"} sitting relaxed in a {argument name=\"setting\" default=\"vintage hotel armchair\"}, leaning back casually with a wide charismatic smile, holding a retro corded telephone receiver to her ear/neck while {argument name=\"action\" default=\"fanning stacks of Indian rupee notes\"} in one hand, playful wealthy expression, looking directly at camera, elbows raised naturally, expressive relaxed posture, wearing a stylish elegant traditional-modern fusion outfit featuring a designer blouse with intricate embroidery and flowing drape/saree or modern tailored co-ord set, layered gold chains, statement earrings, bangles and luxury jewelry, warm tungsten lamp beside her, vintage patterned wallpaper, retro curtains and wooden hotel furniture in background, nostalgic luxury motel suite aesthetic, cinematic flash photography, rich warm tones, editorial fashion photoshoot, ultra realistic, shallow depth of field, premium lifestyle aesthetic, highly detailed skin and fabric textures, symmetrical composition, professional photography, 35mm flash portrait style",
+    "title": "Vintage Luxury Motel Portrait",
+    "description": "A cinematic flash photography prompt for a wealthy South Asian woman in a nostalgic hotel setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705638014_j6ptjv_HHOxYe0aEAEVGpj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17514,
+    "content": "{\n  \"image_generation_parameters\": {\n    \"version\": \"8.0_High_Fidelity\",\n    \"resolution\": \"8K UHD\",\n    \"aspect_ratio\": \"4:5\",\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject identity\" default=\"Young Indian woman\"}\",\n      \"features\": [\"Adorable face\", \"Highly detailed skin texture\", \"Cheerful expression\"],\n      \"action\": \"{argument name=\"action\" default=\"Stunt-style rock climbing on a steep cliffside\"}\",\n      \"attire\": {\n        \"style\": \"Modern Fusion Indian\",\n        \"primary_garment\": \"Embroidered emerald green silk lehenga-sari\",\n        \"details\": [\"Gold zari border\", \"Floral patterns\", \"Midriff-baring choli\"],\n        \"accessories\": [\"Fresh jasmine hair garland (Gajra)\", \"Traditional Jhumka earrings\", \"Outdoor hiking sandals\"]\n      }\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Munnar, Kerala, India (Highlands)\"}\",\n      \"landscape_elements\": [\n        \"Lush green tea plantations\",\n        \"Layered misty mountains\",\n        \"Twin cascading waterfalls in background\",\n        \"Granite rock face in foreground\"\n      ],\n      \"flora\": {\n        \"foreground\": \"Vibrant pink rhododendrons and yellow wildflowers\",\n        \"quality\": \"Macro-level detail, sharp focus\"\n      }\n    },\n    \"technical_specs\": {\n      \"lighting\": \"Soft natural daylight, diffused through mountain mist\",\n      \"camera_angle\": \"Low-angle shot to emphasize height and 'stuntman' vibe\",\n      \"lens\": \"35mm f/1.8 (Deep depth of field with sharp background clarity)\",\n      \"render_style\": [\"Photorealistic\", \"Hyper-detailed\", \"Cinematic color grading\"],\n      \"negative_prompt\": \"Blurry, low resolution, distorted limbs, messy hair, urban background\"\n    }\n  }\n}",
+    "title": "Indian Woman Stunt-Style Rock Climbing",
+    "description": "A complex hyper-detailed prompt for generating an Indian woman in a lehenga-sari performing rock climbing in Munnar, Kerala.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705649146_c2ibvn_HHOgk6IaEAAhwD-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17500,
+    "content": "Set against a deep {argument name=\"background\" default=\"black background of near-absolute void\"}, the composition features a striking portrait where the face is partially revealed through controlled cinematic lighting rather than being completely hidden. A soft, directional key light gently illuminates the front contours of the face, while sharp, elegant edge lighting glows in brilliant white along the jawline, cheekbones, and nose bridge, creating a refined silhouette.\nThe figure wears {argument name=\"accessory\" default=\"brown round sunglasses with sleek silver-rimmed frames\"} that subtly catch and reflect light, adding warmth and visual focus. The lenses should have a faint reflective glow, not overpowering but clearly visible.\nMaintain a strong contrast between light and shadow, but ensure that subtle facial structure—like the nose shape, lips outline, and slight skin texture—remains visible in low light. Avoid crushing blacks; preserve shadow detail with a soft fill light at very low intensity.\nLighting style: cinematic, high contrast, soft rim light + low-intensity fill light, studio-controlled shadows, no overexposure.\nMood: mysterious, minimal, premium editorial, with a balance between anonymity and recognizability.\nCaptured in a {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio, centered composition, ultra-clean background, no noise, no grain overload, sharp details on lit edges, smooth falloff into shadow.",
+    "title": "Minimalist Noir Sunglasses Portrait",
+    "description": "A cinematic, high-contrast portrait prompt focusing on mystery and premium editorial style. It uses selective lighting to reveal facial contours and reflections on silver-rimmed sunglasses against an absolute black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705641494_x40f57_HHOfhXjagAAUU03.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17486,
+    "content": "A surreal, high-fashion studio portrait of a {argument name=\"subject\" default=\"young man\"} (use the provided face reference), captured mid-air in a dynamic jump against a {argument name=\"background\" default=\"solid deep mustard background\"}. He wears a {argument name=\"outfit\" default=\"sleek black Nike hoodie, relaxed-fit blue denim jeans, vibrant yellow socks, and modern green sneakers\"}. Over-ear matte black headphones rest on his head, paired with minimal tinted oval sunglasses. He is blowing a soft pink bubblegum bubble while a takeaway coffee cup slips from his hand, liquid suspended mid-air with cinematic motion splashes. A fluffy white cat with tiny yellow glasses sits calmly on his shoulder, unfazed by the chaos. Lighting is soft yet directional, creating a premium athletic editorial feel with subtle shadows and glow. Composition is crisp, sharp focus on face and fabric textures, high-speed photography freeze-frame effect. Clean, bold color contrast with a modern, slightly surreal aesthetic, ultra-detailed, 4K quality, magazine-cover style.",
+    "title": "Surreal Jumping Fashion Portrait",
+    "description": "A surreal, high-fashion studio portrait prompt of a young man jumping mid-air with suspended coffee and a cat on his shoulder.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705635370_mocf68_HHOHzr7bkAAMwlg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17511,
+    "content": "A vibrant, high-end studio promotional image featuring the same stylish young Japanese woman repeated across three side-by-side panels in a horizontal triptych layout. She must clearly appear as the same person in all three panels (consistent face, hair, skin tone, identity), with strong face consistency.\nEach panel shows her fully from head to mid-thigh (no cropping), centered and clearly visible.\nThe character is a fashionable, modern Japanese girl with a trendy, stylish appearance, natural glowing skin, well-groomed hair, and a confident personality.\nEach panel presents a different stylish pose, angle, and expression:\n\nLeft panel: wearing a {argument name=\"outfit 1\" default=\"chic mustard yellow polka-dot dress with sunglasses\"}, playful and confident pose, slightly tilted body, hand in hair, looking off-camera with attitude.\n\nCenter panel: wearing a {argument name=\"outfit 2\" default=\"colorful patterned headscarf, fitted red top, and elegant beige high-waisted pants\"}, facing forward with a confident, calm smile, strong eye contact, fashion model posture.\n\nRight panel: wearing a {argument name=\"outfit 3\" default=\"modern green sweater with light-toned pants\"}, relaxed yet stylish pose, slight side angle, soft natural smile, hands casually positioned.\nBackground: three bold gradient panels (orange, purple, blue), each featuring soft abstract curved shapes and subtle cloud textures, giving a premium modern advertising aesthetic.\n\nLighting: bright, soft, evenly diffused studio lighting, vibrant color grading, high contrast, ultra-sharp details, realistic skin tones.\n\nStyle: luxury fashion campaign, modern commercial photography, editorial magazine quality, highly detailed, cinematic polish.\nStrict requirements: same Japanese girl in all panels, stylish fashion-focused appearance, different poses and angles in each panel, no text, no logos, no typography, no stickers, no branding elements, no cropping of characters, full composition visible, perfectly balanced horizontal layout.",
+    "title": "Fashion Campaign Triptych Layout",
+    "description": "A high-end promotional layout showing the same character in three different stylish poses and outfits across horizontal panels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705647169_sxiwcd_HHNJRojbQAASycg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17517,
+    "content": "{\n    \"subject\": {\n        \"identity\": \"{argument name=\"subject identity\" default=\"Young Indian woman\"}\",\n        \"features\": [\"Long flowing dark hair\", \"smiling\", \"fair complexion\"],\n        \"attire\": {\n            \"type\": \"Modern Indian Lehenga Choli\",\n            \"color\": \"{argument name=\"outfit color\" default=\"Coral/Peach with gold embroidery\"}\",\n            \"accessories\": [\"Traditional gold earrings\", \"bangles\", \"matching mojari flats\"]\n        }\n    },\n    \"environment\": {\n        \"location\": \"{argument name=\"location\" default=\"Tropical beach\"}\",\n        \"background\": [\"Clear turquoise ocean\", \"white sand\", \"blue sky\"],\n        \"foreground_elements\": [\n            \"Lush banana tree with bunches of yellow and green bananas\",\n            \"Tropical flowers and driftwood\",\n            \"Palm trees\"\n        ]\n    },\n    \"action\": {\n        \"pose\": \"Standing gracefully\",\n        \"activity\": \"Drinking a creamy banana milkshake from a glass with a straw\"\n    },\n    \"technical_specs\": {\n        \"style\": \"Realistic photography\",\n        \"resolution\": \"8k\",\n        \"lighting\": \"Natural bright sunlight\",\n        \"focus\": \"Sharp focus on subject\",\n        \"quality\": [\"HD\", \"high fidelity\", \"intricate details\"]\n    }\n}",
+    "title": "Indian Woman Drinking Banana Milkshake",
+    "description": "A detailed realistic photography prompt for generating an image of a young Indian woman in traditional attire enjoying a milkshake on a tropical beach.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705651880_dm5h7m_HHMuECaaQAAg3Sk.jpg",
+      "https://cms-assets.youmind.com/media/1777705651886_2aq3q3_HHMuEGUbAAA6LJR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17506,
+    "content": "Create a high-fashion editorial portrait of a young womenn from the reference image. A confident women sits in a {argument name=\"furniture\" default=\"modern designer chair\"}, wearing a {argument name=\"clothing\" default=\"sharp, tailored black suit with a crisp black shirt\"}, no tie, polished black dress shoes. His posture is relaxed yet authoritative, conveying quiet power and self-assurance. The setting is a {argument name=\"setting\" default=\"contemporary studio with concrete-gray walls\"} and soft professional softbox lighting subtly visible at the edges of the frame. Behind him hangs a large expressive abstract painting of his own face, rendered in neutral beige, black, and charcoal tones, featuring bold brush strokes and subtle paint drips. Cinematic studio lighting, clean composition, luxury fashion campaign aesthetic, fine-art realism, sharp details, elegant and masculine mood, shallow depth of field, editorial photography style, 1:1 aspect ratio.",
+    "title": "High Fashion Suit Editorial Portrait",
+    "description": "Generates a sophisticated fashion editorial image featuring a subject in a tailored suit against a concrete studio backdrop with abstract art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705644673_1h16a1_HHMd6v9bgAAi3Y4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17255,
     "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"style\": \"Photorealistic contemporary fashion lifestyle photography with on-camera flash aesthetic\",\n    \"aspect_ratio\": \"9:16\",\n    \"subject\": {\n      \"identity\": \"{argument name=\"character name\" default=\"Dafne Keen\"}\",\n      \"appearance\": {\n        \"hair\": \"Long, straight hair, slightly off-center part, falling over the left shoulder\",\n        \"makeup\": \"Subtle makeup with pink lips and defined eyebrows\",\n        \"expression\": \"Soft, confident expression with a slight smile\",\n        \"skin\": \"Smooth, hydrated, slightly glossy skin texture\",\n        \"details\": [\n          \"Small gold hoop earrings\",\n          \"Delicate thin necklace\",\n          \"Thin black bracelet on right wrist\",\n          \"Well-groomed hands with light pink manicure\"\n\"      ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"dress\" default=\"Short, sleeveless white dress, form-fitting with a draped cowl neckline\"}\",\n      \"footwear\": \"Open-toe high-heeled sandals with thin straps and subtle rhinestone details in rose gold or metallic tones\"\n    },\n    \"pose\": {\n      \"position\": \"Seated gracefully on a white staircase step\",\n      \"body\": \"Body slightly angled diagonally, knees bent with feet resting on lower steps\",\n      \"hands\": \"Both hands resting gently on knees or lower thighs, right hand placed over the left\",\n      \"head\": \"Facing directly toward the camera\",\n      \"posture\": \"Relaxed and elegant\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"setting\" default=\"Modern white staircase at night\"}\",\n      \"background\": \"Adjacent white wall with встроенные square-shaped wall lights emitting a warm amber glow\",\n      \"elements\": \"Dark metal handrail running diagonally along the wall\"\n    },\n    \"props\": [\n      \"White quilted leather handbag with chain strap interwoven with metal and leather, placed on the step beside her\"\n    ],\n    \"lighting\": {\n      \"primary\": \"Strong direct frontal lighting (camera flash), creating a well-lit subject with sharp, defined shadows behind\",\n      \"ambient\": \"Warm amber lighting from wall fixtures for contrast\"\n    },\n    \"mood\": \"Glamorous, elegant, confident, and stylish nighttime atmosphere\",\n    \"technical\": {\n      \"framing\": \"Medium shot (American shot), slightly above eye level\",\n      \"orientation\": \"Portrait\",\n      \"quality\": \"Ultra-detailed, sharp focus, realistic skin texture, professional lighting, 8K resolution\"\n    }\n  }\n}",
     "title": "Dafne Keen Fashion Lifestyle Photography",

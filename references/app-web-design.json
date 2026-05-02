@@ -1,5 +1,25 @@
 [
   {
+    "id": 17488,
+    "content": "A highly realistic, photorealistic close-up macro photography of a used, physically weathered {argument name=\"bank name\" default=\"JP Morgan Chase\"} bank check resting on a scratched wooden desk. The check is completely filled out with a blue ballpoint pen. The handwriting is distinctly human, messy, slightly slanted, and uniquely stylized with inconsistent ink pressure and minor skips, completely avoiding any uniform or computerized script-font appearance. The date written is '{argument name=\"date\" default=\"May 1, 2026\"}'. The signature on the bottom right clearly reads '{argument name=\"signature\" default=\"iqrasaifiii\"}' in a fast, authentic, slightly erratic cursive scrawl. The paper of the check shows significant physical wear and tear: noticeable horizontal and vertical folding creases, bent and frayed corners, faint dirt smudges, and subtle, faded coffee spots. A cheap black ballpoint pen lies slightly out of focus in the background. Shot on DSLR, 50mm lens, natural daylight casting soft, realistic shadows, 8k resolution.",
+    "title": "Photorealistic Bank Check Macro",
+    "description": "A hyper-realistic macro photography prompt for a weathered, used JP Morgan Chase bank check with authentic human handwriting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705635773_3m09um_HHPk2sRaEAEjJxv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17481,
+    "content": "This aesthetic identity board features a central full-body portrait of a {argument name=\"subject\" default=\"woman in a tailored sage green power suit\"} and satin camisole, characterized by a \"clean girl\" aesthetic with glowing skin and minimalist silver jewelry. The composition is a curated 9:16 lifestyle collage that balances {argument name=\"color palette\" default=\"soft mint, lavender, and neutral tones\"}. Surrounding the central figure are high-quality, close-up vignettes: premium skincare bottles in pastel packaging, an iced matcha latte on a white marble surface, textured linen fabrics, and a plush lavender throw blanket. Elegant serif typography overlays the image with phrases like \"{argument name=\"text\" default=\"Effortless Elegance\"}\" and \"Clean Beauty Rituals,\" all set against a clean, airy background with soft, natural lighting that emphasizes a luxurious, minimalist brand identity.",
+    "title": "Clean Girl Aesthetic Identity Board",
+    "description": "A detailed layout prompt for a minimalist lifestyle mood board focusing on the 'clean girl' aesthetic and luxury branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705632807_frkp70_HHPTIShW4AA1ry7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17262,
     "content": "highly detailed 3d game start screen of a {argument name=\"game type\" default=\"fitness game\"}, on the left side the the {argument name=\"character\" default=\"woman sits on a fitness bench with some fitness weights on the ground and a towl over the bench\"}, on the right side are {argument name=\"UI elements\" default=\"5 skill buttons that let the player select some special powers\"}, on a white background",
     "title": "Fitness Game Start Screen UI Render",

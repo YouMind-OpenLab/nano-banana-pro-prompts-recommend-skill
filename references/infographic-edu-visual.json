@@ -56,6 +56,31 @@
     "needReferenceImages": false
   },
   {
+    "id": 17512,
+    "content": "Ancient Egyptian profile portrait of the person in the reference image, side-facing pose (strict profile view), inspired by {argument name=\"style source\" default=\"traditional tomb paintings\"}, {argument name=\"features\" default=\"almond-shaped eye, elongated eyeliner, sharp nose and chin\"}, wearing a {argument name=\"headwear\" default=\"nemes headdress\"} and ornate gold jewelry, flat perspective, stylized proportions, warm sandstone and gold color palette, hieroglyphic background, smooth matte texture, soft even lighting, highly detailed, clean lines, 4k, museum-quality artwork",
+    "title": "Ancient Egyptian Profile Portrait",
+    "description": "Transforms a reference photo into a stylized Ancient Egyptian tomb painting style portrait with traditional headdress and jewelry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705647333_4rn0so_HHPShtLaMAABunr.jpg",
+      "https://cms-assets.youmind.com/media/1777705647325_ntjuod_HHPSiAJaEAAP2wj.jpg",
+      "https://cms-assets.youmind.com/media/1777705647311_bnaltr_HHPSiOwaEAAt4xf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17504,
+    "content": "clean {argument name=\"style\" default=\"whiteboard animation style\"} illustration of the person from the reference image, drawn as a simple {argument name=\"medium\" default=\"black marker sketch\"} on a pure white background. Use bold hand-drawn outlines, minimal shading, and a slightly exaggerated cartoon-like style while still preserving the person’s recognizable facial features, hairstyle, and expression. Add subtle motion lines and sketch imperfections to mimic real hand-drawn animation. The character should appear as if being drawn on a whiteboard, with a casual, engaging, and educational vibe. Keep the composition minimal, high contrast, and visually clear, with no complex background elements",
+    "title": "Clean Whiteboard Animation Illustration",
+    "description": "A prompt for creating whiteboard-style marker sketches on a pure white background. It aims for bold hand-drawn outlines and a cartoon-like style while maintaining recognizable facial features and adding sketch imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705642948_3ues41_HHO3JSYaoAAPvDf.jpg",
+      "https://cms-assets.youmind.com/media/1777705642988_rdf58c_HHO3Je2bEAAX5W5.jpg",
+      "https://cms-assets.youmind.com/media/1777705642957_h2624r_HHO3JpFawAA1cLY.jpg",
+      "https://cms-assets.youmind.com/media/1777705643686_4ympe6_HHO3JycbgAAcuTK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16998,
     "content": "A black and white line drawing of a {argument name=\"flower type\" default=\"stylized flower\"} with {argument name=\"pattern style\" default=\"intricate patterns\"} fills the frame. The flower's center is an oval shape with smaller circles inside, surrounded by eight large petals. Each petal is decorated with parallel lines and some have a leaf-like shape. The background is a complex arrangement of geometric and organic patterns, including semicircles, zigzags, swirls, and a grid of dots. The overall composition is symmetrical, with the flower as the central focus, and the surrounding patterns radiating outwards.",
     "title": "Flower Mandala Coloring Page",

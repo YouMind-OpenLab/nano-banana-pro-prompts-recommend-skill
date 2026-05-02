@@ -1,5 +1,73 @@
 [
   {
+    "id": 17516,
+    "content": "{\n    \"subject\": {\n        \"description\": \"{argument name=\"subject description\" default=\"A powerful warrior woman\"}\",\n        \"features\": {\n            \"hair\": \"long, dark, windswept\",\n            \"expression\": \"intense, determined, serious\",\n            \"pose\": \"standing, heroic stance, looking directly at camera\",\n            \"armor\": {\n                \"type\": \"fantasy-classical hybrid\",\n                \"materials\": [\"highly polished gold filigree\", \"blackened metal\"],\n                \"elements\": [\"cuirass with lion motif\", \"pauldrons\", \"gauntlets\", \"greaves\"],\n                \"adornment\": \"elaborate engravings and patterns\"\n            },\n            \"clothing\": {\n                \"cape\": \"{argument name=\"cape style\" default=\"flowing, crimson red\"}, attached at shoulders\"\n            },\n            \"weapons\": {\n                \"main\": {\n                    \"type\": \"{argument name=\"weapon type\" default=\"longsword with ornate golden hilt\"}\",\n                    \"position\": \"held low in right hand\"\n                }\n            }\n        }\n    },\n    \"scene_dynamics\": {\n        \"event\": \"mid-battle devastation / dynamic action scene\",\n        \"foreground\": {\n            \"elements\": [\"prone bodies\", \"fallen weapons\", \"upturned dirt\"]\n        },\n        \"background\": {\n            \"atmosphere\": \"chaotic, dusty battlefield\",\n            \"action\": [\n                \"a male warrior on the left falling backward, losing a shield and sword\",\n                \"a male warrior on the right flailing and falling, arms up\",\n                \"mid-air objects\"\n            ]\n        },\n        \"flying_objects\": {\n            \"items\": [\"multiple swords spinning\", \"shrapnel\", \"dirt clumps\", \"armor fragments\"],\n            \"effect\": \"dynamic frozen motion\"\n        }\n    },\n    \"environment\": {\n        \"ground\": \"dry, tilled earth and debris\",\n        \"sky\": \"clear, golden hour sunset, hazy from dust\",\n        \"depth\": \"deep field, indicating a large army battle in the far background\"\n    },\n    \"composition\": {\n        \"main_subject_position\": \"dead center, full body, dominating the frame\",\n        \"framing\": \"lower camera angle looking up to enhance power\",\n        \"balance\": \"symmetrical center with dynamic chaos radiating outward\",\n        \"focus\": \"sharp focus on the central woman and her armor; background elements in motion blur\"\n    },\n    \"lighting\": {\n        \"source\": \"backlit by a setting sun (golden hour)\",\n        \"quality\": \"warm, soft, directional\",\n        \"effects\": [\"strong rim lighting on hair and cape\", \"golden reflections on armor\", \"dust particles illuminated in the air\"]\n    },\n    \"style\": {\n        \"type\": \"high-quality cinematic still frame\",\n        \"aesthetic\": \"dark fantasy, realism\",\n        \"color_palette\": [\"deep reds\", \"rich golds\", \"blackened steel\", \"warm earth tones\"],\n        \"texture\": \"highly detailed textures on leather, metal, and fabric\"\n    }\n}",
+    "title": "Fantasy Warrior Woman Cinematic Battle",
+    "description": "A highly detailed cinematic prompt for a fantasy warrior woman in a golden hour battlefield scene, featuring intricate armor and dynamic motion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705649539_e9havo_HHR3Vs_bsAAIC7A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17512,
+    "content": "Ancient Egyptian profile portrait of the person in the reference image, side-facing pose (strict profile view), inspired by {argument name=\"style source\" default=\"traditional tomb paintings\"}, {argument name=\"features\" default=\"almond-shaped eye, elongated eyeliner, sharp nose and chin\"}, wearing a {argument name=\"headwear\" default=\"nemes headdress\"} and ornate gold jewelry, flat perspective, stylized proportions, warm sandstone and gold color palette, hieroglyphic background, smooth matte texture, soft even lighting, highly detailed, clean lines, 4k, museum-quality artwork",
+    "title": "Ancient Egyptian Profile Portrait",
+    "description": "Transforms a reference photo into a stylized Ancient Egyptian tomb painting style portrait with traditional headdress and jewelry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705647333_4rn0so_HHPShtLaMAABunr.jpg",
+      "https://cms-assets.youmind.com/media/1777705647325_ntjuod_HHPSiAJaEAAP2wj.jpg",
+      "https://cms-assets.youmind.com/media/1777705647311_bnaltr_HHPSiOwaEAAt4xf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17498,
+    "content": "realistic, cinematic portrait of the {argument name=\"subject\" default=\"person from the reference image\"} dressed in a traditional {argument name=\"attire\" default=\"Phoenician sailor tunic\"}. Preserve the person’s exact facial features, expression, and identity. Outfit them in an ancient Phoenician maritime look: a simple linen tunic with natural dyes (off-white, deep red, or indigo), a rope belt, subtle embroidery patterns, and weathered textures. Add period-accurate details like leather sandals, a headband or cloth wrap, and light sea-worn accessories. Set the scene near an {argument name=\"setting\" default=\"ancient Mediterranean harbor\"} with wooden ships, ropes, and soft golden sunlight. Use high detail, natural lighting, historical accuracy, and a cinematic, realistic style.",
+    "title": "Phoenician Sailor Portrait",
+    "description": "A historically accurate portrait prompt for transforming a reference subject into an ancient Phoenician sailor, complete with period-specific attire and harbor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705639724_ucojx2_HHPE3sKbQAIbImi.jpg",
+      "https://cms-assets.youmind.com/media/1777705639753_oahyiw_HHPE37MbsAAl4Dk.jpg",
+      "https://cms-assets.youmind.com/media/1777705639768_9xnj5v_HHPE4H6bsAABbCH.jpg",
+      "https://cms-assets.youmind.com/media/1777705640346_87a4r3_HHPE4VLbMAE5OCs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17504,
+    "content": "clean {argument name=\"style\" default=\"whiteboard animation style\"} illustration of the person from the reference image, drawn as a simple {argument name=\"medium\" default=\"black marker sketch\"} on a pure white background. Use bold hand-drawn outlines, minimal shading, and a slightly exaggerated cartoon-like style while still preserving the person’s recognizable facial features, hairstyle, and expression. Add subtle motion lines and sketch imperfections to mimic real hand-drawn animation. The character should appear as if being drawn on a whiteboard, with a casual, engaging, and educational vibe. Keep the composition minimal, high contrast, and visually clear, with no complex background elements",
+    "title": "Clean Whiteboard Animation Illustration",
+    "description": "A prompt for creating whiteboard-style marker sketches on a pure white background. It aims for bold hand-drawn outlines and a cartoon-like style while maintaining recognizable facial features and adding sketch imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705642948_3ues41_HHO3JSYaoAAPvDf.jpg",
+      "https://cms-assets.youmind.com/media/1777705642988_rdf58c_HHO3Je2bEAAX5W5.jpg",
+      "https://cms-assets.youmind.com/media/1777705642957_h2624r_HHO3JpFawAA1cLY.jpg",
+      "https://cms-assets.youmind.com/media/1777705643686_4ympe6_HHO3JycbgAAcuTK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17483,
+    "content": "Edit the provided image and reimagine the entire scene as a {argument name=\"style\" default=\"crayon-style drawing\"}. Simplify the details and make it look like it was drawn by a 10-year-old child. Do not use the original image’s colors. Give it the feeling of being drawn on a sheet of white paper, with a very cute, playful, and innocent look. Add charming childlike elements such as {argument name=\"elements\" default=\"flowers, candy, stars, clouds\"}, and other sweet decorative details to enhance the whimsical feel. Keep the overall result adorable, colorful, and full of childlike innocence.",
+    "title": "Crayon Style Profile Transformation",
+    "description": "A whimsical image-to-image prompt that transforms a profile screenshot into a charming, childlike crayon drawing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705632810_e3d586_HHOHIuZbsAEQDka.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17493,
+    "content": "A high-detail pen and ink portrait of a {argument name=\"subject\" default=\"young woman with freckles\"}. The style uses heavy cross-hatching and fine line work to create depth and shadow. Incorporate {argument name=\"hair style\" default=\"messy, wind-swept hair\"} with loose strands crossing the face. Background features soft, smudged charcoal washes and ink splatters. Black ink on a {argument name=\"paper texture\" default=\"cream-colored textured paper or parchment\"}. Sharp, intense gaze, monochromatic.",
+    "title": "Cross-Hatched Ink Portrait",
+    "description": "A classic artistic prompt for a high-detail pen and ink portrait, utilizing cross-hatching and charcoal washes for a traditional monochromatic look on parchment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705638354_9yoo4k_HHN3vt_XwAA79qF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17235,
     "content": "Do not change facial features. Photorealistic first-person view inside a {argument name=\"location\" default=\"bright subway car\"}. In hand is a {argument name=\"drawing tool\" default=\"spiral sketchbook with a pencil\"}. On the sketchbook page is a {argument name=\"sketch style\" default=\"black-and-white portrait sketch\"} of the exact same person, where the only colored element is their clothing. Sitting opposite is this same person looking at a phone. Outside the window is a green landscape. On both sides, other passengers are partially visible, unblurred. Soft natural daylight, shallow depth of field, cinematic atmosphere. Hyperrealistic skin, detailed facial textures, natural expression. 8K photorealism quality. Aspect ratio 9:16.",
     "title": "Subway artist sketching perspective",

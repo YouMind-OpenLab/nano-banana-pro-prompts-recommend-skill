@@ -10,6 +10,124 @@
     "needReferenceImages": false
   },
   {
+    "id": 17489,
+    "content": "Create Image: Maintain the exact facial identity from the provided source image with absolute precision and zero alteration.\n[COMPOSITION]: Centered slightly side profile medium shot, peace sign pose.\n[LIGHTING]: Natural daylight, clean white balance, soft over exposed highlights.\n[ENVIRONMENT]: Bright outdoor sky, minimal clouds, sharp focus.\n[SUBJECT]:  The subject has a long length straight black hair, with large pink bow tied at the center of the head, {argument name=\"outfit\" default=\"striped pink pajamas\"}, rosy cheeks. Wispy eye lashes, thin winged eye liner, brushed up brows, champagne eye shadow, tranparent gloss lips. Lips pucker in a playfull manner, Hugging a {argument name=\"prop\" default=\"medium-sized stylized duck\"} with the same black hair, pink striped pajamas, ribbon as the subject.\n[AESTHETIC]: High-end smartphone shot, digital clarity, modern aesthetic. 4k rendered, high quality sharp facial details -ar 3:4",
+    "title": "Duck Mascot Pajama Portrait",
+    "description": "A whimsical prompt for a smartphone-style portrait of a subject in pajamas hugging a matching duck mascot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705636846_cdkbax_HHRVFnWb0AE8RJh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17482,
+    "content": "Surreal hyper-realistic portrait of a {argument name=\"subject\" default=\"handsome man with curly brown hair and green eyes\"}, face and upper body deconstructing into floating {argument name=\"elements\" default=\"3D chrome and bronze metallic cubes\"}. Reflections of cosmic nebula on cube surfaces, dust particles in warm nebular space, {argument name=\"lighting\" default=\"cinematic side lighting with golden highlights\"}, fine art photography style.",
+    "title": "Deconstructed Metallic Cube Portrait",
+    "description": "A surreal prompt creating a portrait of a man whose body deconstructs into floating 3D metallic cubes within a cosmic nebula setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705632779_vzzmm9_HHPWeNfaAAAlQ6a.jpg",
+      "https://cms-assets.youmind.com/media/1777705632790_lrjle6_HHPWeNKbwAENWZE.jpg",
+      "https://cms-assets.youmind.com/media/1777705632225_i8f95j_HHPWeNsaYAANxzk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17507,
+    "content": "Use the uploaded reference image as the exact facial identity, pose, and lighting reference. Create an ultra-realistic outdoor café-style portrait that precisely matches the same pose, body proportions, camera angle, hairstyle, facial expression, skin texture, and natural lighting conditions from the provided image. Match the pose exactly: seated at an outdoor café table, torso slightly leaned forward in a relaxed feminine posture, shoulders soft, head gently tilted to one side, hands resting naturally together on the lap with fingers loosely interlaced. Keep the same framing (mid-body portrait), eye-level perspective, and candid lifestyle composition.\n\nThe subject is a beautiful young woman with a slim feminine figure, same natural proportions as the reference image, realistic anatomy, soft shoulders, elegant neckline, and relaxed posture. Hair styled exactly like the reference: long hair with subtle highlights, smooth and naturally straight with soft volume, parted slightly off-center, falling evenly over both shoulders with realistic strands and gentle shine. Maintain the same natural flow and texture without over-styling.\n\nFacial expression must match exactly with precise micro-details: eyes softly open with a warm, relaxed gaze directed toward the camera, eyelids naturally lowered for a calm expression, eyebrows softly shaped with a gentle lift, cheeks subtly raised creating a soft natural smile, nose softly highlighted by daylight, lips closed with a slight upward curve (subtle smile), natural fullness without sharp edges, jaw relaxed, chin slightly angled. Expression should feel friendly, feminine, calm, and effortlessly natural—not posed or exaggerated.\n\nSkin must appear ultra-realistic and naturally lit: visible pores, subtle texture, natural tonal variation, slight warmth on cheeks and nose, realistic highlights on cheekbones, forehead, shoulders, and arms, soft natural glow from daylight. Avoid plastic or over-smoothed skin—maintain authentic human detail with slight imperfections and natural variation.\n\nShe is wearing a {argument name=\"dress color\" default=\"orange\"} fitted dress with short puff sleeves and a gathered bust detail, soft structured fabric with realistic folds and stitching, gently shaping the torso. Accessories include a {argument name=\"jewelry\" default=\"delicate gold necklace, bracelet\"}, and a {argument name=\"bag type\" default=\"woven handbag\"} placed beside her. Maintain exact clothing fit, proportions, and realistic fabric behavior.\n\nBackground should match the real café environment: wooden wall panels, window reflections with subtle outdoor scenery, flower pots with pink blossoms behind the subject, woven café chairs, and a marble table in the foreground. Keep the environment detailed but natural, with slight depth blur while preserving realism.\n\nLighting must strictly follow natural real-world conditions from the reference image: soft diffused daylight, likely shaded outdoor light or indirect sunlight, evenly",
+    "title": "Ultra-Realistic Outdoor Cafe Portrait",
+    "description": "A highly detailed prompt for creating lifelike lifestyle portraits with precise control over facial expression, lighting, and skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705644800_0r4atw_HHO3-deakAAqfEe.jpg",
+      "https://cms-assets.youmind.com/media/1777705644731_7o4z3r_HHO3_QuakAANXOh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17501,
+    "content": "A young woman with long, voluminous, wavy red hair featuring small braids and loose curls cascading over her shoulders, fair skin with visible freckles, and a neutral facial expression with her gaze directed downward. She is wearing a light-colored, semi sleeveless dress with a delicate leaf or petal pattern in soft orange and beige tones, featuring thin spaghetti straps with tied bows on the shoulders. A small cartoon character tattoo of one of the Powerpuff Girls (Blossom) is visible on her upper left arm. She is leaning forward slightly while holding a long dark pole or railing with both hands, one arm extended gracefully. The background consists of a modern interior with geometric dark and light wall panels, illuminated by warm, soft lighting that creates a cinematic atmosphere. A young woman with long, flowing wavy red hair, fair skin, and closed eyes with a relaxed facial expression, seated on wooden steps. She is wearing the same light-colored, semi sleeveless dress with a delicate leaf or petal pattern in soft orange and beige tones, featuring thin spaghetti straps. Her body is turned slightly to the side, with one arm resting on her leg and the other hand placed near her knee, legs crossed at the ankles with bare feet visible. Small tattoos are noticeable on her forearm and ankle area. The setting is an indoor space with dark wooden steps and a modern architectural background featuring horizontal lines and glass elements, lit by warm, dramatic side lighting that highlights her form and creates a serene, artistic mood.",
+    "title": "Ethereal Redhead Portrait in Petal Dress",
+    "description": "A detailed prompt for generating a serene, cinematic portrait of a young woman with voluminous red hair and a delicate petal-pattern dress. Includes specific details like a Powerpuff Girls tattoo and warm geometric background lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705640767_kqnk0v_HHOkekUbsAAdUy2.jpg",
+      "https://cms-assets.youmind.com/media/1777705640774_37axyv_HHOkf0CagAATcIj.jpg",
+      "https://cms-assets.youmind.com/media/1777705640747_qtps5y_HHOkg2ia8AAVB5U.jpg",
+      "https://cms-assets.youmind.com/media/1777705641745_fej98c_HHOkiSpaAAAxpwh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17500,
+    "content": "Set against a deep {argument name=\"background\" default=\"black background of near-absolute void\"}, the composition features a striking portrait where the face is partially revealed through controlled cinematic lighting rather than being completely hidden. A soft, directional key light gently illuminates the front contours of the face, while sharp, elegant edge lighting glows in brilliant white along the jawline, cheekbones, and nose bridge, creating a refined silhouette.\nThe figure wears {argument name=\"accessory\" default=\"brown round sunglasses with sleek silver-rimmed frames\"} that subtly catch and reflect light, adding warmth and visual focus. The lenses should have a faint reflective glow, not overpowering but clearly visible.\nMaintain a strong contrast between light and shadow, but ensure that subtle facial structure—like the nose shape, lips outline, and slight skin texture—remains visible in low light. Avoid crushing blacks; preserve shadow detail with a soft fill light at very low intensity.\nLighting style: cinematic, high contrast, soft rim light + low-intensity fill light, studio-controlled shadows, no overexposure.\nMood: mysterious, minimal, premium editorial, with a balance between anonymity and recognizability.\nCaptured in a {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio, centered composition, ultra-clean background, no noise, no grain overload, sharp details on lit edges, smooth falloff into shadow.",
+    "title": "Minimalist Noir Sunglasses Portrait",
+    "description": "A cinematic, high-contrast portrait prompt focusing on mystery and premium editorial style. It uses selective lighting to reveal facial contours and reflections on silver-rimmed sunglasses against an absolute black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705641494_x40f57_HHOfhXjagAAUU03.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17502,
+    "content": "Create a high-fidelity photographic transformation. Maintain the exact facial features from the provided source image with absolute precision and zero alteration.\n[COMPOSITION]: Close-up portrait with a sharp diagonal head tilt, subject lying back against a {argument name=\"background\" default=\"deep teal wicker texture\"}, head filling the frame, holding a small {argument name=\"prop\" default=\"vibrant orange flower\"} between the lips while looking softly into the lens with subtle squint.\n[LIGHTING]: Natural daylight, clean white balance, soft highlights reflecting on the skin.\n[ENVIRONMENT]: Modern outdoor patio setting, deep teal wicker furniture, sharp focus across the entire depth of the frame, no background blur.\n[SUBJECT]: Fair complexion, flawless glass skin, dark brown hair windswept messy, grey contact lenses, wispy eyelashes, thin wing eye liner, brushed-up brows, soft blush pink lip gloss, gold snake chain necklace, large silver wavy hoop earrings, and a white wireless earbud. \nClothing:\n{argument name=\"outfit\" default=\"Red-orange cropped top\"}\n[AESTHETIC]: Shot on a high-end smartphone, digital clarity, high-resolution detail, modern aesthetic, vivid color contrast. 4k rendered, high quality HD, sharp face details --ar 3:4",
+    "title": "Precision Photo Transformation Portrait",
+    "description": "A photographic transformation prompt designed to maintain exact facial features from a source image. The scene features a subject with glass skin, messy dark hair, and a small orange flower between their lips against a teal wicker background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705642734_so9vel_HHN--d9aIAAnId8.jpg",
+      "https://cms-assets.youmind.com/media/1777705642552_5m4crs_HHN--8wa8AAjOiw.jpg",
+      "https://cms-assets.youmind.com/media/1777705642539_if9kh9_HHN-_XvaQAAd7d2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17493,
+    "content": "A high-detail pen and ink portrait of a {argument name=\"subject\" default=\"young woman with freckles\"}. The style uses heavy cross-hatching and fine line work to create depth and shadow. Incorporate {argument name=\"hair style\" default=\"messy, wind-swept hair\"} with loose strands crossing the face. Background features soft, smudged charcoal washes and ink splatters. Black ink on a {argument name=\"paper texture\" default=\"cream-colored textured paper or parchment\"}. Sharp, intense gaze, monochromatic.",
+    "title": "Cross-Hatched Ink Portrait",
+    "description": "A classic artistic prompt for a high-detail pen and ink portrait, utilizing cross-hatching and charcoal washes for a traditional monochromatic look on parchment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705638354_9yoo4k_HHN3vt_XwAA79qF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17266,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\"subject description\" default=\"Young woman with a soft, direct gaze\"}\",\n    \"pose\": \"Sitting cross-legged on a bed, leaning forward slightly, right hand resting near the collarbone\",\n    \"expression\": \"Neutral, calm, and serene\"\n  },\n  \"physical_characteristics\": {\n    \"hair\": \"Long, wavy, dirty blonde hair draped over the right shoulder\",\n    \"facial_features\": {\n      \"eyes\": \"{argument name=\"eye color\" default=\"Hazel or light green\"} with winged black eyeliner\",\n      \"skin\": \"Fair complexion with prominent freckles across the nose and cheeks\",\n      \"lips\": \"Full, glossy pink\",\n      \"eyebrows\": \"Groomed, natural arch\"\n    }\n  },\n  \"attire\": {\n    \"outfit_type\": \"Two-piece pajama set\",\n    \"color_pattern\": \"{argument name=\"outfit style\" default=\"Soft pink with a small white floral print\"}\",\n    \"top_details\": \"Cropped camisole, thin spaghetti straps, ruffled lettuce-edge hem\",\n    \"bottom_details\": \"Matching high-waisted shorts with ruffled lettuce-edge hem\",\n    \"accessories\": [\n      \"Delicate thin gold chain necklace\",\n      \"White crew socks\"\n    ]\n  },\n  \"environment\": {\n    \"location\": \"Indoor bedroom\",\n    \"background_elements\": [\n      \"Dark grey tufted upholstered headboard\",\n      \"Cream/off-white bed linens and stacked pillows\"\n    ],\n    \"lighting\": \"Soft, diffused indoor lighting creating gentle shadows\",\n    \"color_palette\": [\n      \"Pastel pink\",\n      \"Cream\",\n      \"Slate grey\",\n      \"Natural skin tones\"\n    ]\n  },\n  \"image_composition\": {\n    \"shot_type\": \"Medium shot\",\n    \"orientation\": \"Vertical/Portrait\",\n    \"focus\": \"Sharp focus on the subject with a shallow depth of field in the background\"\n  }\n}",
+    "title": "Woman in Pink Floral Pajamas",
+    "description": "A portrait prompt for a young woman in a floral pajama set, emphasizing soft lighting, freckles, and a cozy bedroom atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705650818_p9z41e_HHNzbhaa4AAGWCu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17484,
+    "content": "{\n  \"subject\": {\n    \"description\": \"Young woman with a soft, direct gaze\",\n    \"pose\": \"Sitting cross-legged on a bed, leaning forward slightly, right hand resting near the collarbone\",\n    \"expression\": \"Neutral, calm, and serene\"\n  },\n  \"physical_characteristics\": {\n    \"hair\": \"Long, wavy, dirty blonde hair draped over the right shoulder\",\n    \"facial_features\": {\n      \"eyes\": \"Hazel or light green with winged black eyeliner\",\n      \"skin\": \"Fair complexion with prominent freckles across the nose and cheeks\",\n      \"lips\": \"Full, glossy pink\",\n      \"eyebrows\": \"Groomed, natural arch\"\n    }\n  },\n  \"attire\": {\n    \"outfit_type\": \"{argument name=\"outfit type\" default=\"Two-piece pajama set\"}\",\n    \"color_pattern\": \"{argument name=\"color and pattern\" default=\"Soft pink with a small white floral print\"}\",\n    \"top_details\": \"Cropped camisole, thin spaghetti straps, ruffled lettuce-edge hem\",\n    \"bottom_details\": \"Matching high-waisted shorts with ruffled lettuce-edge hem\",\n    \"accessories\": [\n      \"Delicate thin gold chain necklace\",\n      \"White crew socks\"\n    ]\n  },\n  \"environment\": {\n    \"location\": \"Indoor bedroom\",\n    \"background_elements\": [\n      \"{argument name=\"bed background\" default=\"Dark grey tufted upholstered headboard\"}\",\n      \"Cream/off-white bed linens and stacked pillows\"\n    ],\n    \"lighting\": \"Soft, diffused indoor lighting creating gentle shadows\",\n    \"color_palette\": [\n      \"Pastel pink\",\n      \"Cream\",\n      \"Slate grey\",\n      \"Natural skin tones\"\n    ]\n  },\n  \"image_composition\": {\n    \"shot_type\": \"Medium shot\",\n    \"orientation\": \"Vertical/Portrait\",\n    \"focus\": \"Sharp focus on the subject with a shallow depth of field in the background\"\n  }\n}",
+    "title": "Floral Pajama Bedroom Portrait",
+    "description": "A detailed prompt for a serene indoor bedroom portrait of a woman in a floral pajama set with soft, diffused lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705634333_swl0aq_HHNyzpua8AAyv_W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17510,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image...\n\nMain subject / quality details:\nA {argument name=\"subject\" default=\"feminine young woman\"} posed in a {argument name=\"setting\" default=\"floral studio environment\"}, wearing a {argument name=\"clothing\" default=\"flowing draped dress with floral embellishments\"} along the fabric.\n\nExpression or mood:\nDreamy, slightly distant gaze, lips softly parted, ethereal mood.\n\nCamera settings:\nshot on an old CCD digital camera...\n\nMakeup style:\nDouyin/Korean glass-skin makeup, pink lip gloss, aegyosal, soft blush, grey contact lenses, wispy eye lashes, brushed up brows\n\nHair:\nLong wavy hair cascading over shoulders, inward upward curl ends\n\nOutfit:\nPastel draped dress with 3D floral appliqués, aesthetic outfit\n\nBackground:\nDense floral arrangement with soft depth layering, flowers framing subject\n\nComposition:\nBody leaning diagonally forward, hips angled, flowers creating layered leading lines, subject off-center",
+    "title": "Ethereal Floral Studio Portrait",
+    "description": "Creates a dreamlike studio portrait with heavy floral arrangements and a specific focus on Douyin/Korean style makeup and CCD camera aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705646647_7nhpjh_HHNGVQIaAAAZ0Qb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17490,
+    "content": "Create image: A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, grey contact lenses, pink lip gloss, aegyosal, soft blush, wispy eyelashes, brushed-up brows\n\nExpression / Pose:\nLying on grass, soft dreamy gaze, one arm above head, relaxed natural pose\n\nCamera:\nold CCD digicam, flash, visible grain, low contrast, balance exposure\n\nMakeup:\nSoft glass-skin glow, pink gloss lips, blush across cheeks, aegyosal highlight\n\nHair:\n{argument name=\"hair style\" default=\"Dark brown hair styled in loose pigtails with inward curl ends with yellow color polkadot scrunchies\"}\n\nOutfit:\n{argument name=\"dress\" default=\"Bright Mustard satin polka dress with ruffled trim\"}, soft feminine aesthetic\n\nBackground:\n{argument name=\"setting\" default=\"Green grass field with natural texture, and wild flowers sunlight highlights creating depth\"}\n\nComposition:\nTop-down angle, body diagonal across frame, arm guiding eye toward face\n\nNegative prompt:\nplastic skin, stiff pose, over-blur, distorted limbs",
+    "title": "CCD Digicam Grass Portrait",
+    "description": "A nostalgic prompt mimicking an old digital camera aesthetic for a top-down shot of a person lying in a grass field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705637085_wtpg3u_HHMxiHHbAAAfFMR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17222,
     "content": "​A vertical charcoal and graphite portrait of a {argument name=\"subject\" default=\"handsome young man\"} with {argument name=\"hair style\" default=\"wavy, tousled hair\"}, sitting on a {argument name=\"object\" default=\"wooden stool\"} and playing an acoustic guitar. He has a warm, gentle smile and is looking down at the strings with a focused yet relaxed expression. The style is traditional fine art with visible charcoal strokes, soft blending, and high-contrast shading. The background is a cozy, dimly lit room with blurred bookshelves and a window, creating a soft, atmospheric 'bokeh' effect in charcoal. Rich textures on his sweater and the polished wood of the guitar, rendered on textured cream-colored paper.",
     "title": "Charcoal Portrait of Guitarist",

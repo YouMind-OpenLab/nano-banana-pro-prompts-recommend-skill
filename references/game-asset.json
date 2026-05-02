@@ -1,5 +1,38 @@
 [
   {
+    "id": 17516,
+    "content": "{\n    \"subject\": {\n        \"description\": \"{argument name=\"subject description\" default=\"A powerful warrior woman\"}\",\n        \"features\": {\n            \"hair\": \"long, dark, windswept\",\n            \"expression\": \"intense, determined, serious\",\n            \"pose\": \"standing, heroic stance, looking directly at camera\",\n            \"armor\": {\n                \"type\": \"fantasy-classical hybrid\",\n                \"materials\": [\"highly polished gold filigree\", \"blackened metal\"],\n                \"elements\": [\"cuirass with lion motif\", \"pauldrons\", \"gauntlets\", \"greaves\"],\n                \"adornment\": \"elaborate engravings and patterns\"\n            },\n            \"clothing\": {\n                \"cape\": \"{argument name=\"cape style\" default=\"flowing, crimson red\"}, attached at shoulders\"\n            },\n            \"weapons\": {\n                \"main\": {\n                    \"type\": \"{argument name=\"weapon type\" default=\"longsword with ornate golden hilt\"}\",\n                    \"position\": \"held low in right hand\"\n                }\n            }\n        }\n    },\n    \"scene_dynamics\": {\n        \"event\": \"mid-battle devastation / dynamic action scene\",\n        \"foreground\": {\n            \"elements\": [\"prone bodies\", \"fallen weapons\", \"upturned dirt\"]\n        },\n        \"background\": {\n            \"atmosphere\": \"chaotic, dusty battlefield\",\n            \"action\": [\n                \"a male warrior on the left falling backward, losing a shield and sword\",\n                \"a male warrior on the right flailing and falling, arms up\",\n                \"mid-air objects\"\n            ]\n        },\n        \"flying_objects\": {\n            \"items\": [\"multiple swords spinning\", \"shrapnel\", \"dirt clumps\", \"armor fragments\"],\n            \"effect\": \"dynamic frozen motion\"\n        }\n    },\n    \"environment\": {\n        \"ground\": \"dry, tilled earth and debris\",\n        \"sky\": \"clear, golden hour sunset, hazy from dust\",\n        \"depth\": \"deep field, indicating a large army battle in the far background\"\n    },\n    \"composition\": {\n        \"main_subject_position\": \"dead center, full body, dominating the frame\",\n        \"framing\": \"lower camera angle looking up to enhance power\",\n        \"balance\": \"symmetrical center with dynamic chaos radiating outward\",\n        \"focus\": \"sharp focus on the central woman and her armor; background elements in motion blur\"\n    },\n    \"lighting\": {\n        \"source\": \"backlit by a setting sun (golden hour)\",\n        \"quality\": \"warm, soft, directional\",\n        \"effects\": [\"strong rim lighting on hair and cape\", \"golden reflections on armor\", \"dust particles illuminated in the air\"]\n    },\n    \"style\": {\n        \"type\": \"high-quality cinematic still frame\",\n        \"aesthetic\": \"dark fantasy, realism\",\n        \"color_palette\": [\"deep reds\", \"rich golds\", \"blackened steel\", \"warm earth tones\"],\n        \"texture\": \"highly detailed textures on leather, metal, and fabric\"\n    }\n}",
+    "title": "Fantasy Warrior Woman Cinematic Battle",
+    "description": "A highly detailed cinematic prompt for a fantasy warrior woman in a golden hour battlefield scene, featuring intricate armor and dynamic motion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705649539_e9havo_HHR3Vs_bsAAIC7A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17498,
+    "content": "realistic, cinematic portrait of the {argument name=\"subject\" default=\"person from the reference image\"} dressed in a traditional {argument name=\"attire\" default=\"Phoenician sailor tunic\"}. Preserve the person’s exact facial features, expression, and identity. Outfit them in an ancient Phoenician maritime look: a simple linen tunic with natural dyes (off-white, deep red, or indigo), a rope belt, subtle embroidery patterns, and weathered textures. Add period-accurate details like leather sandals, a headband or cloth wrap, and light sea-worn accessories. Set the scene near an {argument name=\"setting\" default=\"ancient Mediterranean harbor\"} with wooden ships, ropes, and soft golden sunlight. Use high detail, natural lighting, historical accuracy, and a cinematic, realistic style.",
+    "title": "Phoenician Sailor Portrait",
+    "description": "A historically accurate portrait prompt for transforming a reference subject into an ancient Phoenician sailor, complete with period-specific attire and harbor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705639724_ucojx2_HHPE3sKbQAIbImi.jpg",
+      "https://cms-assets.youmind.com/media/1777705639753_oahyiw_HHPE37MbsAAl4Dk.jpg",
+      "https://cms-assets.youmind.com/media/1777705639768_9xnj5v_HHPE4H6bsAABbCH.jpg",
+      "https://cms-assets.youmind.com/media/1777705640346_87a4r3_HHPE4VLbMAE5OCs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17503,
+    "content": "A hyper-realistic, 8k cinematic composite image blending a {argument name=\"real subject\" default=\"real young man wearing urban streetwear\"} with a {argument name=\"anime subject\" default=\"2D anime character Yuji Itadori from Jujutsu Kaisen\"}. On the left stands the real man wearing: a red baseball cap, a dark black utility jacket, extremely baggy black cargo pants with a silver keychain on the belt loop, and white sneakers with red accents. He is striking a dynamic pose with his left hand in pocket and his right hand brought up near his chin. Ensure the man's face remains 100% visible, clear, and recognizable; do not cover or obscure his face. On the right stands Yuji Itadori, wearing his dark black utility jacket, extremely baggy black cargo pants Jujutsu High uniform with and white sneakers with red accents. Yuji is mirroring the vibe with his right hand near his chin and left hand in pocket. Yuji is perfectly integrated into the real-world scene with realistic cast shadows on the ground. The background is an {argument name=\"location\" default=\"industrial, modern outdoor corridor\"} with flat grey walls, grey tiled flooring, a red fire equipment cabinet, and green utility signs.\n\nShot with a 35mm lens, sharp focus, chiaroscuro lighting, 100% my face same",
+    "title": "Real-Life and Anime Character Composite",
+    "description": "A hyper-realistic cinematic composite prompt blending a real person in streetwear with the anime character Yuji Itadori. The scene is set in an industrial outdoor corridor with specific focus on shadow integration and facial recognition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705643587_70n494_HHOZbsxaIAARO-l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17220,
     "content": "use the {argument name=\"character\" default=\"female character\"} for a {argument name=\"style\" default=\"3d video game\"} in a {argument name=\"location\" default=\"workout studio\"} where she is doing aerobics dance moves with ui elements",
     "title": "3D Video Game Character Workout",

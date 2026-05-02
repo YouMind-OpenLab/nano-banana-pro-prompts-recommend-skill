@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 17494,
+    "content": "A romantic and peaceful silhouette of a {argument name=\"subject\" default=\"couple sitting closely together\"} on a wooden bench, nestled under a large beach umbrella. They are positioned on a sandy shore, looking out toward a calm ocean as the sun dips toward the horizon. The sky is a stunning gradient of warm oranges, soft pinks, and deep purples, with the {argument name=\"lighting\" default=\"golden light of the setting sun\"} reflecting brilliantly off the gentle waves. In the distance, the faint outline of a coastline with rugged cliffs and distant lights adds a sense of place to the serene atmosphere. The overall mood is intimate and tranquil.",
+    "title": "Romantic Sunset Beach Silhouette",
+    "description": "A tranquil prompt for a romantic scene of a couple on a beach bench during a vivid sunset, emphasizing atmosphere and light gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705638759_bkv8gw_HHPth1DWYAAi2l5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17511,
+    "content": "A vibrant, high-end studio promotional image featuring the same stylish young Japanese woman repeated across three side-by-side panels in a horizontal triptych layout. She must clearly appear as the same person in all three panels (consistent face, hair, skin tone, identity), with strong face consistency.\nEach panel shows her fully from head to mid-thigh (no cropping), centered and clearly visible.\nThe character is a fashionable, modern Japanese girl with a trendy, stylish appearance, natural glowing skin, well-groomed hair, and a confident personality.\nEach panel presents a different stylish pose, angle, and expression:\n\nLeft panel: wearing a {argument name=\"outfit 1\" default=\"chic mustard yellow polka-dot dress with sunglasses\"}, playful and confident pose, slightly tilted body, hand in hair, looking off-camera with attitude.\n\nCenter panel: wearing a {argument name=\"outfit 2\" default=\"colorful patterned headscarf, fitted red top, and elegant beige high-waisted pants\"}, facing forward with a confident, calm smile, strong eye contact, fashion model posture.\n\nRight panel: wearing a {argument name=\"outfit 3\" default=\"modern green sweater with light-toned pants\"}, relaxed yet stylish pose, slight side angle, soft natural smile, hands casually positioned.\nBackground: three bold gradient panels (orange, purple, blue), each featuring soft abstract curved shapes and subtle cloud textures, giving a premium modern advertising aesthetic.\n\nLighting: bright, soft, evenly diffused studio lighting, vibrant color grading, high contrast, ultra-sharp details, realistic skin tones.\n\nStyle: luxury fashion campaign, modern commercial photography, editorial magazine quality, highly detailed, cinematic polish.\nStrict requirements: same Japanese girl in all panels, stylish fashion-focused appearance, different poses and angles in each panel, no text, no logos, no typography, no stickers, no branding elements, no cropping of characters, full composition visible, perfectly balanced horizontal layout.",
+    "title": "Fashion Campaign Triptych Layout",
+    "description": "A high-end promotional layout showing the same character in three different stylish poses and outfits across horizontal panels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705647169_sxiwcd_HHNJRojbQAASycg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17506,
+    "content": "Create a high-fashion editorial portrait of a young womenn from the reference image. A confident women sits in a {argument name=\"furniture\" default=\"modern designer chair\"}, wearing a {argument name=\"clothing\" default=\"sharp, tailored black suit with a crisp black shirt\"}, no tie, polished black dress shoes. His posture is relaxed yet authoritative, conveying quiet power and self-assurance. The setting is a {argument name=\"setting\" default=\"contemporary studio with concrete-gray walls\"} and soft professional softbox lighting subtly visible at the edges of the frame. Behind him hangs a large expressive abstract painting of his own face, rendered in neutral beige, black, and charcoal tones, featuring bold brush strokes and subtle paint drips. Cinematic studio lighting, clean composition, luxury fashion campaign aesthetic, fine-art realism, sharp details, elegant and masculine mood, shallow depth of field, editorial photography style, 1:1 aspect ratio.",
+    "title": "High Fashion Suit Editorial Portrait",
+    "description": "Generates a sophisticated fashion editorial image featuring a subject in a tailored suit against a concrete studio backdrop with abstract art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705644673_1h16a1_HHMd6v9bgAAi3Y4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17513,
+    "content": "Ultra-realistic 8K photorealistic cinematic editorial image, 4:5. A young woman sitting on top of a red step ladder outdoors under a vivid blue sky with scattered white clouds. Full-body framing, subject clearly visible including legs and shoes. Pose: seated on ladder, body upright. Orientation: facing LEFT. Head tilt: slightly tilted upward. Gaze: upward. Expression: calm, relaxed, eyes closed or softly shut.\nHairstyle MUST match the model reference: long, dark, flowing hair with soft waves, neatly styled with natural volume and clean parting.\nOutfit MUST match the model reference: {argument name=\"top\" default=\"beige knit sweater with horizontal stripe details\"}, {argument name=\"pants\" default=\"fitted brown pants\"}, casual sneakers.\nLighting MUST match: bright natural sunlight, strong directional light casting natural shadows. Background: open sky with clouds, no additional elements.\nReplace the model’s face completely with the provided user face, preserving exact facial identity, proportions, beauty features, makeup, and expression from the user image. Blend seamlessly with lighting and angle. Do not retain any of the original model’s facial features.\nCamera angle: slightly low angle looking up. Maintain original composition and framing exactly. No creative changes.",
+    "title": "Sunlit Ladder Lifestyle Shot",
+    "description": "A high-resolution lifestyle prompt for a subject on a step ladder outdoors, focused on face replacement and matching specific model features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777705647946_qt9drw_HHMTESrbYAApCoU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17249,
     "content": "An elegant, high-end advertisement for \"{argument name=\"brand name\" default=\"AM Cosmetics\"}\" showcases a colossal, {argument name=\"lipstick color\" default=\"rose-pink\"} lipstick as the centerpiece of a palatial, silver-toned ballroom. The lipstick tube is encrusted with brilliant, shimmering diamonds on its base and sits atop a plush, circular velvet ottoman. A woman in a sparkling, floor-length silver evening gown leans gracefully against the oversized cosmetic, holding a standard-sized version of the same lipstick.\n​The background exudes regal opulence, featuring towering marble arches, draped {argument name=\"curtain color\" default=\"lilac\"} silk curtains, and massive crystal chandeliers that bathe the room in a soft, ethereal light. In the distance, several figures in formal attire and suits of armor stand as silent guardians of the hall, adding to the theme of royal sophistication. The text at the top reads \"AM COSMETICS Est. 2024,\" while the bottom features the elegant script: \"Elevate your beauty. The Diamond Collection.\" The overall atmosphere is one of surreal luxury and timeless glamour.",
     "title": "Surreal Cosmetic Ballroom Advertisement",
