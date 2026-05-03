@@ -21,6 +21,98 @@
     "needReferenceImages": true
   },
   {
+    "id": 17784,
+    "content": "Ultra-realistic fashion editorial portrait photography, a {argument name=\"hair color\" default=\"platinum blonde\"} short-haired {argument name=\"person\" default=\"young woman\"} in a dynamic pose, half-kneeling against a slanted surface, using a Dutch angle composition to create avant-garde visual tension. Platinum-white shoulder-length short hair with slightly flipped ends, dark almond eyes, fair and delicate skin, and a cold, detached expression with a high-end feel. Wearing a {argument name=\"top\" default=\"white ribbed off-the-shoulder long-sleeved cropped top\"} with a sheer fabric and knitted texture, paired with high-waisted bright red tight mini shorts, opaque white over-the-knee stockings, and red patent leather stiletto heels with clear mirror reflections on the surface. Soft diffused studio lighting comes from the upper right, forming delicate gradient shadows on the waist and jawline, with exquisite highlight reflections visible on the patent leather shoes. Minimalist gray-beige studio background, clean and pure without clutter. The overall color scheme consists of white, red, and gray, forming a high-contrast minimalist and harmonious palette. Medium format camera texture, shallow depth of field blur, high-resolution skin texture and fabric details, and an overall avant-garde, sophisticated, and high-fashion editorial vibe.",
+    "title": "Yohji Yamamoto Style Editorial Portrait",
+    "description": "A detailed high-fashion editorial portrait prompt creating a minimalist avant-garde look with a red and white theme, inspired by Yohji Yamamoto.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792446890_jp2l0q_HHWS3gnaQAAw9Oe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17763,
+    "content": "An editorial magazine cover for '{argument name=\"magazine title\" default=\"Imaginary AURA\"}', featuring a confident {argument name=\"ethnicity\" default=\"South Asian\"} woman as the central figure. She has flowing, wavy dark hair and is wearing a rich emerald-green velvet blazer over a matching silk turtleneck.\n​Her look is completed with striking chunky gold hoop earrings and a heavy, layered gold chain link necklace. She has a strong, powerful expression, directly engaging the viewer with her warm, makeup-enhanced brown eyes.\n​The background features a warm, sandy desert landscape at twilight. A vertical headline in a stylish gold font reads, 'VISIONARIES: THE CREATIVE CANVAS,' on the left. The bottom right features the text, 'DESERT BLOSSOM: Finding New Forms,' with the sub-headline 'A Journey Through Textures and Light.'\n​This captivating cover captures the essence of artistic exploration and the beauty found within diverse cultural contexts.",
+    "title": "Editorial Magazine Cover Design",
+    "description": "An editorial magazine cover for 'Imaginary AURA' featuring a South Asian woman in luxury attire set against a desert twilight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792431264_l4ant6_HHUfm9OXIAEgmkZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17762,
+    "content": "This high-energy advertisement features a dynamic composition centered on a powerful female athlete in mid-leap, celebrating with a triumphant fist pump. She is dressed in neon green and dark forest green athletic wear that mirrors the branding of the \"{argument name=\"brand name\" default=\"Powey\"}\" energy drink. A large, tilted energy drink can dominates the midground, erupting with a dramatic splash of {argument name=\"liquid color\" default=\"golden\"} liquid, while crackling yellow lightning bolts surge around the subject to symbolize explosive energy. The background is a deep gradient green with the word \"power\" repeated in bold, oversized lime-green typography. The overall aesthetic is cinematic and high-contrast, utilizing a professional studio setup with a reflective dark floor and glowing neon accents. At the bottom, a smaller, upright can sits next to the bold sans-serif tagline \"FUEL YOUR UNSTOPPABLE,\" grounding the vibrant, action-oriented scene.",
+    "title": "High-Energy Energy Drink Advertisement",
+    "description": "A dynamic commercial-style image featuring a female athlete and an erupting energy drink can with lightning effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792430510_g2w290_HHTmQ0pWIAAHh_S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17756,
+    "content": "High-resolution product photography for a luxurious skincare collection by \"{argument name=\"brand name\" default=\"AM COSMETICS\"}.\" The \"{argument name=\"collection name\" default=\"Amethyst Collection\"}\" set, including a pump bottle, a dropper bottle, and a jar in {argument name=\"material\" default=\"purple-tinted glass\"} with rose gold accents, is presented on a natural amethyst geode platform. This platform rests on a moss-covered island in a calm mountain lake at twilight. Natural plants and small leaves adorn the island. One side of the frame features an elegantly styled woman with retro Hollywood wave hair, wearing a flowing, floor-length silk gown in antique pink, gently gesturing towards the products. The background is a serene vista of misty blue mountains and a peach-pink sunset sky. Elegant serif text at the top reads \"Elevate Your Ritual\" and \"EXPERIENCE AMETHYST.\" Clean, diffused studio-quality lighting.",
+    "title": "Luxury Skincare Product Photography",
+    "description": "High-end product photography for skincare on an amethyst geode platform, featuring a retro-styled woman in an antique pink gown.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792427588_o4pa36_HHTN0ydXUAAe4oR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17752,
+    "content": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, 8k, masterpiece, highly detailed textures”,\n    “camera”: “A medium-close-up photograph captured at eye level. High-resolution camera with a prime lens. Natural depth of field with a soft background blur. Film grain.”,\n    “lighting”: “Natural, direct sunlight with strong contrast and shadows (dappled light on the sand). Subject is well-lit from the front, with a backlit background.”,\n    “style”: “High-fashion beach editorial, cinematic lifestyle photography, high-resolution digital photography.”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “{argument name=\"location\" default=\"A secluded tropical beach with white sand with a little written 'Keor' on it and dense vegetation.\"}”,\n    “details”: “Fine white sand with scattered dry palm fronds and other botanical debris. The ground is a mix of sun and shadow.”,\n    “background”: “Dense, dark-green tropical foliage, including blurred palm trees and bushes, providing a natural backdrop.”,\n    “atmosphere”: “Serene, confident, earthy, and natural.”\n  },\n  “subject”: {\n    “gender”: “{argument name=\"gender\" default=\"female\"}”,\n    “age”: “young adult”,\n    “hair”: {\n      “color”: “light blonde”,\n      “style”: “Center-parted, loose, wavy, sun-bleached hair falling naturally around her shoulders.”\n    },\n    “expression”: “A direct, calm, and confident gaze directly at the camera lens. A neutral to subtle smile.”,\n    “pose”: “Kneeling barefoot in the sand, facing the camera directly. Her hands are placed flat on her thighs, fingers slightly spread.”,\n    “outfit”: {\n      “description”: “{argument name=\"swimsuit\" default=\"A stylish and intricate one-piece orange monokini. Features a halter neck top with stylish cutouts. The bottom has a high-leg cut with connecting straps at the hips.\"}”,\n      “fabric”: “Smooth, pink lycra/spandex blend fabric with visible stitching and texture.”\n    },\n    “accessories”: “Stack of pearl and bead bracelets on her right wrist. Two simple bracelets (one black, one gold) on her left wrist. Two rings on her left ring finger. A subtle navel ring piercing. Light makeup and pink manicured fingernails.”\n  },\n  “composition”: “A centered, eye-level medium-close-up composition. The subject is framed by the sand and tropical background. Sharp focus on the subject’s face, upper body, and detailed accessories.”,\n  “additional_details”: [\n    “Hyper-realistic skin detail: visible pores, subtle freckles, natural skin imperfections, and a light tan.”,\n    “Visible fabric weave of the lycra, clean stitching, and texture of the sand on her knees.”,\n    “Reflections on the gold bracelets and the detail of the navel piercing.”,",
+    "title": "Tropical Beach High-Fashion Editorial",
+    "description": "A structured JSON-style prompt for a high-fashion editorial shoot on a secluded tropical beach, featuring detailed lighting and subject specifications.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792425434_z0d0kc_HHSvHqpX0AA38lp.jpg",
+      "https://cms-assets.youmind.com/media/1777792425449_r1faph_HHSvHq5WEAA4EYT.jpg",
+      "https://cms-assets.youmind.com/media/1777792425485_gewxca_HHSvHqiWcAA3WFk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17755,
+    "content": "This is a high-end fashion magazine cover for \"{argument name=\"magazine name\" default=\"GLAXY\"}\" featuring a young woman in a striking, {argument name=\"gown color\" default=\"deep pink\"} haute couture gown. The dress is crafted from a rich, heavy satin with a structured corset bodice and a high halter neck, accented by dramatic, oversized fabric roses on the shoulders that create a bold, sculptural silhouette. The model is captured in a confident, editorial pose with her hands on her hips, her {argument name=\"hair style\" default=\"long wavy brown hair\"} cascading over her shoulders.\n​The composition utilizes soft, professional studio lighting that emphasizes the lustrous texture of the pink fabric against a minimalist, neutral cream background. Elegant serif typography in black and soft silver frames the model, featuring headlines like \"GRACE & POWER: Modern Femininity Redefined\" and \"The Ultimate Lifestyle Issue.\" The overall aesthetic is one of cinematic luxury and sophisticated fashion photography, characteristic of a premium editorial publication.",
+    "title": "High-End Haute Couture Magazine Cover",
+    "description": "A luxury fashion prompt creating a magazine cover for 'GALAXY' featuring a woman in a sculptural pink gown with fabric roses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792427406_qdk5go_HHSlhcXWwAAYBUp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17753,
+    "content": "Ultra-realistic commercial poster, minimalist studio setup with a smooth pastel background ({argument name=\"background color\" default=\"soft lavender or mint green\"}). Replace the model with the uploaded person’s face and features, keeping natural skin tone and realistic lighting. The subject stands confidently, slightly leaning against an {argument name=\"product\" default=\"oversized luxury chocolate bar\"} (or premium dessert like a layered cake or ice cream sandwich), holding a smaller version of the same product in hand with a subtle smile and relaxed pose. Outfit: {argument name=\"outfit style\" default=\"clean aesthetic streetwear\"} in coordinated tones matching the background, soft fabric textures, modern fit.\n\nThe product is hyper-detailed, glossy, and mouth-watering, with visible textures like melted chocolate, creamy layers, or crunchy toppings. Composition is balanced, with the product dominating the frame and the subject adding lifestyle appeal. Add large bold typography in the background with the brand name (customizable), partially behind the subject for depth. Include a short tagline at the bottom like “Pure indulgence, every bite.”\n\nLighting: soft studio lighting with gentle shadows and slight reflections on the floor for a premium ad feel. Depth of field slightly shallow for cinematic focus. 4K resolution, sharp focus, commercial food photography style, vibrant yet clean color grading, editorial advertising quality.",
+    "title": "Minimalist Luxury Dessert Ad",
+    "description": "A commercial photography prompt for a luxury dessert advertisement featuring a subject and premium food details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792425825_kguj4p_HHSVFzXbkAAcP8j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17747,
+    "content": "Full-body professional fashion editorial shot of a lean, handsome young man with a sharp jawline, light stubble, and a thin mustache. He is wearing an {argument name=\"clothing\" default=\"oversized white streetwear t-shirt\"}, {argument name=\"pants\" default=\"black cargo pants\"}, a silver pendant necklace, and a black tactical wristwatch. He is posing with hands in pockets, looking slightly away. The background is a high-contrast graphic design poster style with large vertical distressed typography reading '{argument name=\"poster text\" default=\"URBAN and OWN THE GAME\"}'. The aesthetic is 'Urban Noir'",
+    "title": "Urban Noir Fashion Editorial",
+    "description": "A professional fashion editorial prompt featuring a male model in urban streetwear with a high-contrast 'Urban Noir' graphic design background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792422424_9cbnn2_HHSOw13XYAA3Mmi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17781,
+    "content": "Hyper-realistic 8K fashion portrait of a {argument name=\"subject\" default=\"young woman\"}, using the uploaded face as reference, in a bright minimalist studio. She wears a {argument name=\"outfit\" default=\"cream oversized hoodie and beige chinos\"}, smiling softly at the camera against a matte white wall. On the right wall, a {argument name=\"background detail\" default=\"thin black single-line face illustration\"} with the small word “A” underneath. Soft diffused lighting, light-grey floor, detailed fabric, natural skin and hair, premium editorial look, sharp focus, --ar 2:3.",
+    "title": "Minimalist Studio Fashion Portrait",
+    "description": "A high-fashion portrait prompt for a model in a minimalist studio wearing an oversized hoodie and chinos, using a face reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792444955_nqdfq5_HHRwORbWQAAbdnE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17497,
     "content": "A photographic medium-wide shot of the same {argument name=\"subject\" default=\"young man with dark curly hair and a fit build\"}, standing beside the {argument name=\"vehicle\" default=\"white vintage rally car\"} with its racing decals. He is wearing the identical {argument name=\"outfit\" default=\"oversized beige and black color-blocked windbreaker jacket\"}, loose black pants, and white Nike sneakers. He is leaning casually against the driver's side door, both hands in his pockets, looking directly into the camera lens with a confident, relaxed expression. The background is a vast, open street under a soft, dramatic cloudy sky. Natural daylight with soft, cinematic shadows.",
     "title": "Casual Portrait with Vintage Rally Car",

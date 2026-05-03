@@ -20,6 +20,66 @@
     "needReferenceImages": false
   },
   {
+    "id": 17763,
+    "content": "An editorial magazine cover for '{argument name=\"magazine title\" default=\"Imaginary AURA\"}', featuring a confident {argument name=\"ethnicity\" default=\"South Asian\"} woman as the central figure. She has flowing, wavy dark hair and is wearing a rich emerald-green velvet blazer over a matching silk turtleneck.\n​Her look is completed with striking chunky gold hoop earrings and a heavy, layered gold chain link necklace. She has a strong, powerful expression, directly engaging the viewer with her warm, makeup-enhanced brown eyes.\n​The background features a warm, sandy desert landscape at twilight. A vertical headline in a stylish gold font reads, 'VISIONARIES: THE CREATIVE CANVAS,' on the left. The bottom right features the text, 'DESERT BLOSSOM: Finding New Forms,' with the sub-headline 'A Journey Through Textures and Light.'\n​This captivating cover captures the essence of artistic exploration and the beauty found within diverse cultural contexts.",
+    "title": "Editorial Magazine Cover Design",
+    "description": "An editorial magazine cover for 'Imaginary AURA' featuring a South Asian woman in luxury attire set against a desert twilight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792431264_l4ant6_HHUfm9OXIAEgmkZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17762,
+    "content": "This high-energy advertisement features a dynamic composition centered on a powerful female athlete in mid-leap, celebrating with a triumphant fist pump. She is dressed in neon green and dark forest green athletic wear that mirrors the branding of the \"{argument name=\"brand name\" default=\"Powey\"}\" energy drink. A large, tilted energy drink can dominates the midground, erupting with a dramatic splash of {argument name=\"liquid color\" default=\"golden\"} liquid, while crackling yellow lightning bolts surge around the subject to symbolize explosive energy. The background is a deep gradient green with the word \"power\" repeated in bold, oversized lime-green typography. The overall aesthetic is cinematic and high-contrast, utilizing a professional studio setup with a reflective dark floor and glowing neon accents. At the bottom, a smaller, upright can sits next to the bold sans-serif tagline \"FUEL YOUR UNSTOPPABLE,\" grounding the vibrant, action-oriented scene.",
+    "title": "High-Energy Energy Drink Advertisement",
+    "description": "A dynamic commercial-style image featuring a female athlete and an erupting energy drink can with lightning effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792430510_g2w290_HHTmQ0pWIAAHh_S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17755,
+    "content": "This is a high-end fashion magazine cover for \"{argument name=\"magazine name\" default=\"GLAXY\"}\" featuring a young woman in a striking, {argument name=\"gown color\" default=\"deep pink\"} haute couture gown. The dress is crafted from a rich, heavy satin with a structured corset bodice and a high halter neck, accented by dramatic, oversized fabric roses on the shoulders that create a bold, sculptural silhouette. The model is captured in a confident, editorial pose with her hands on her hips, her {argument name=\"hair style\" default=\"long wavy brown hair\"} cascading over her shoulders.\n​The composition utilizes soft, professional studio lighting that emphasizes the lustrous texture of the pink fabric against a minimalist, neutral cream background. Elegant serif typography in black and soft silver frames the model, featuring headlines like \"GRACE & POWER: Modern Femininity Redefined\" and \"The Ultimate Lifestyle Issue.\" The overall aesthetic is one of cinematic luxury and sophisticated fashion photography, characteristic of a premium editorial publication.",
+    "title": "High-End Haute Couture Magazine Cover",
+    "description": "A luxury fashion prompt creating a magazine cover for 'GALAXY' featuring a woman in a sculptural pink gown with fabric roses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792427406_qdk5go_HHSlhcXWwAAYBUp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17753,
+    "content": "Ultra-realistic commercial poster, minimalist studio setup with a smooth pastel background ({argument name=\"background color\" default=\"soft lavender or mint green\"}). Replace the model with the uploaded person’s face and features, keeping natural skin tone and realistic lighting. The subject stands confidently, slightly leaning against an {argument name=\"product\" default=\"oversized luxury chocolate bar\"} (or premium dessert like a layered cake or ice cream sandwich), holding a smaller version of the same product in hand with a subtle smile and relaxed pose. Outfit: {argument name=\"outfit style\" default=\"clean aesthetic streetwear\"} in coordinated tones matching the background, soft fabric textures, modern fit.\n\nThe product is hyper-detailed, glossy, and mouth-watering, with visible textures like melted chocolate, creamy layers, or crunchy toppings. Composition is balanced, with the product dominating the frame and the subject adding lifestyle appeal. Add large bold typography in the background with the brand name (customizable), partially behind the subject for depth. Include a short tagline at the bottom like “Pure indulgence, every bite.”\n\nLighting: soft studio lighting with gentle shadows and slight reflections on the floor for a premium ad feel. Depth of field slightly shallow for cinematic focus. 4K resolution, sharp focus, commercial food photography style, vibrant yet clean color grading, editorial advertising quality.",
+    "title": "Minimalist Luxury Dessert Ad",
+    "description": "A commercial photography prompt for a luxury dessert advertisement featuring a subject and premium food details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792425825_kguj4p_HHSVFzXbkAAcP8j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17747,
+    "content": "Full-body professional fashion editorial shot of a lean, handsome young man with a sharp jawline, light stubble, and a thin mustache. He is wearing an {argument name=\"clothing\" default=\"oversized white streetwear t-shirt\"}, {argument name=\"pants\" default=\"black cargo pants\"}, a silver pendant necklace, and a black tactical wristwatch. He is posing with hands in pockets, looking slightly away. The background is a high-contrast graphic design poster style with large vertical distressed typography reading '{argument name=\"poster text\" default=\"URBAN and OWN THE GAME\"}'. The aesthetic is 'Urban Noir'",
+    "title": "Urban Noir Fashion Editorial",
+    "description": "A professional fashion editorial prompt featuring a male model in urban streetwear with a high-contrast 'Urban Noir' graphic design background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792422424_9cbnn2_HHSOw13XYAA3Mmi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17783,
+    "content": "Cinematic editorial poster. The person from the reference photo, same face, same hairstyle, same appearance. {argument name=\"outfit\" default=\"Oversized black zip-up hoodie with gothic white lettering on sleeves, black baggy wide-leg pants\"}. Pose: sitting relaxed in worn red stadium seat, legs spread wide, one arm draped over backrest, other hand resting on knee. Chin slightly down, cold direct stare into camera. Low angle shot, camera at knee level shooting upward. Background: {argument name=\"setting\" default=\"abandoned concrete stadium interior\"}, rows of worn faded red plastic seats, thick white atmospheric smoke drifting low. Heavily dented rusted {argument name=\"vehicle\" default=\"white Nissan Skyline R33\"} suspended mid- air on thick industrial chains, red taillights glowing through smoke. Plain dark bare concrete wall, no graffiti no text on wall. Lighting: cinematic low-key, deep shadows, red practical glow from taillights, cool desaturated palette",
+    "title": "Abandoned Stadium Fashion Poster",
+    "description": "A cinematic editorial poster prompt set in an abandoned stadium with a suspended Nissan Skyline R33 and atmospheric smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792446661_eneh9o_HHR21PXbgAAxGgP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17494,
     "content": "A romantic and peaceful silhouette of a {argument name=\"subject\" default=\"couple sitting closely together\"} on a wooden bench, nestled under a large beach umbrella. They are positioned on a sandy shore, looking out toward a calm ocean as the sun dips toward the horizon. The sky is a stunning gradient of warm oranges, soft pinks, and deep purples, with the {argument name=\"lighting\" default=\"golden light of the setting sun\"} reflecting brilliantly off the gentle waves. In the distance, the faint outline of a coastline with rugged cliffs and distant lights adds a sense of place to the serene atmosphere. The overall mood is intimate and tranquil.",
     "title": "Romantic Sunset Beach Silhouette",

@@ -1,11 +1,57 @@
 [
   {
-    "id": 17516,
-    "content": "{\n    \"subject\": {\n        \"description\": \"{argument name=\"subject description\" default=\"A powerful warrior woman\"}\",\n        \"features\": {\n            \"hair\": \"long, dark, windswept\",\n            \"expression\": \"intense, determined, serious\",\n            \"pose\": \"standing, heroic stance, looking directly at camera\",\n            \"armor\": {\n                \"type\": \"fantasy-classical hybrid\",\n                \"materials\": [\"highly polished gold filigree\", \"blackened metal\"],\n                \"elements\": [\"cuirass with lion motif\", \"pauldrons\", \"gauntlets\", \"greaves\"],\n                \"adornment\": \"elaborate engravings and patterns\"\n            },\n            \"clothing\": {\n                \"cape\": \"{argument name=\"cape style\" default=\"flowing, crimson red\"}, attached at shoulders\"\n            },\n            \"weapons\": {\n                \"main\": {\n                    \"type\": \"{argument name=\"weapon type\" default=\"longsword with ornate golden hilt\"}\",\n                    \"position\": \"held low in right hand\"\n                }\n            }\n        }\n    },\n    \"scene_dynamics\": {\n        \"event\": \"mid-battle devastation / dynamic action scene\",\n        \"foreground\": {\n            \"elements\": [\"prone bodies\", \"fallen weapons\", \"upturned dirt\"]\n        },\n        \"background\": {\n            \"atmosphere\": \"chaotic, dusty battlefield\",\n            \"action\": [\n                \"a male warrior on the left falling backward, losing a shield and sword\",\n                \"a male warrior on the right flailing and falling, arms up\",\n                \"mid-air objects\"\n            ]\n        },\n        \"flying_objects\": {\n            \"items\": [\"multiple swords spinning\", \"shrapnel\", \"dirt clumps\", \"armor fragments\"],\n            \"effect\": \"dynamic frozen motion\"\n        }\n    },\n    \"environment\": {\n        \"ground\": \"dry, tilled earth and debris\",\n        \"sky\": \"clear, golden hour sunset, hazy from dust\",\n        \"depth\": \"deep field, indicating a large army battle in the far background\"\n    },\n    \"composition\": {\n        \"main_subject_position\": \"dead center, full body, dominating the frame\",\n        \"framing\": \"lower camera angle looking up to enhance power\",\n        \"balance\": \"symmetrical center with dynamic chaos radiating outward\",\n        \"focus\": \"sharp focus on the central woman and her armor; background elements in motion blur\"\n    },\n    \"lighting\": {\n        \"source\": \"backlit by a setting sun (golden hour)\",\n        \"quality\": \"warm, soft, directional\",\n        \"effects\": [\"strong rim lighting on hair and cape\", \"golden reflections on armor\", \"dust particles illuminated in the air\"]\n    },\n    \"style\": {\n        \"type\": \"high-quality cinematic still frame\",\n        \"aesthetic\": \"dark fantasy, realism\",\n        \"color_palette\": [\"deep reds\", \"rich golds\", \"blackened steel\", \"warm earth tones\"],\n        \"texture\": \"highly detailed textures on leather, metal, and fabric\"\n    }\n}",
-    "title": "Fantasy Warrior Woman Cinematic Battle",
-    "description": "A highly detailed cinematic prompt for a fantasy warrior woman in a golden hour battlefield scene, featuring intricate armor and dynamic motion.",
+    "id": 17775,
+    "content": "Stylized digital illustration of a young woman with a warm, confident smile, executed in a pen-and-ink cross-hatching style. She has short, wavy {argument name=\"hair color\" default=\"purple\"} hair with prominent blonde face-framing streaks, parted down the middle. Her facial features are rendered with fine stippling and line work, highlighting her expressive eyes, light freckles, and a friendly grin. She wears a {argument name=\"shirt color\" default=\"dark purple\"} textured t-shirt, a delicate necklace, hoop earrings, and thin rings on her fingers, with one hand resting gently under her chin. The background is a solid, dense black cross-hatched texture that makes the subject pop, giving the piece a classic graphic novel or hand-drawn editorial aesthetic.",
+    "title": "Pen-and-Ink Cross-Hatching Illustration",
+    "description": "A stylized graphic novel aesthetic prompt featuring cross-hatching and stippling line work.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777705649539_e9havo_HHR3Vs_bsAAIC7A.jpg"
+      "https://cms-assets.youmind.com/media/1777792441621_k64dc1_HHVNKElW4AAt2Es.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17743,
+    "content": "{argument name=\"art style\" default=\"clean vector animation style\"} illustration of the {argument name=\"subject\" default=\"person in the provided image\"}, featuring simplified geometric shapes, smooth lines, and flat colors. Maintain accurate facial features, hairstyle, and expression while stylizing them in a modern 2D animated look. Use bold outlines, minimal shading, and a {argument name=\"palette\" default=\"vibrant but balanced color palette\"}. Ensure a polished, high-contrast, professional vector design with a subtle gradient or flat background",
+    "title": "Vector Animation Style Character Illustration",
+    "description": "A prompt for transforming a reference person into a clean, modern 2D vector animation style character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792418408_fssf5t_HHUcFFzaEAEBN-3.jpg",
+      "https://cms-assets.youmind.com/media/1777792418454_fqsvtd_HHUcFS6bQAAIhIL.jpg",
+      "https://cms-assets.youmind.com/media/1777792418285_vi3e78_HHUcFeXaIAAH0Mf.jpg",
+      "https://cms-assets.youmind.com/media/1777792419474_o3zhi8_HHUcFq9bwAA9FU-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17746,
+    "content": "cinematic portrait of the person in the provided image reimagined as a {argument name=\"character inspiration\" default=\"Daredevil-inspired character\"}, without a mask, holding a red vigilante mask in one hand. Preserve accurate facial features, hairstyle, and expression. Style the scene with a {argument name=\"atmosphere\" default=\"dark, gritty urban atmosphere\"}, {argument name=\"lighting\" default=\"dramatic lighting, and subtle red highlights\"}. Include a sleek, form-fitting suit inspired by Daredevil’s design (no logos), realistic textures, and high detail. Ensure a powerful, intense mood with sharp focus and a blurred city background",
+    "title": "Gritty Urban Superhero Portrait",
+    "description": "Transforms a person into an urban vigilante character with dark atmosphere and dramatic lighting inspired by the Daredevil aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792420837_hoqho3_HHUAp7NakAAWNoc.jpg",
+      "https://cms-assets.youmind.com/media/1777792420781_h9ejif_HHUAqLObAAAjxHO.jpg",
+      "https://cms-assets.youmind.com/media/1777792420682_s6qxm1_HHUAqX_bUAAooxp.jpg",
+      "https://cms-assets.youmind.com/media/1777792421763_6j4n5b_HHUAqlbbsAA9oWL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17761,
+    "content": "A photorealistic, eye-level medium shot taken from inside a modern glass cable car. The {argument name=\"subject\" default=\"man\"} is sitting on a slatted wooden bench, wearing a black long-sleeve crewneck sweater and light beige trousers. He has his arms affectionately wrapped around two highly detailed 3D animated characters from Zootopia: {argument name=\"first character\" default=\"Judy Hopps\"}, wearing her blue police tactical uniform, is seated on his right, and {argument name=\"second character\" default=\"Nick Wilde\"}, wearing his green button-down shirt and striped tie, is seated on his left. Through the large panoramic windows behind them, there is a bright, majestic snow-covered alpine mountain landscape. In the mid-ground outside, a red and white passenger train is crossing an arched stone viaduct bridge. Bright natural daylight illuminates the interior, casting soft shadows and seamlessly blending the 3D cartoon characters into the photorealistic, live-action environment.\nRatio 4:5",
+    "title": "Man with Zootopia Characters in Alpine Cable Car",
+    "description": "A detailed photorealistic scene featuring a man sitting between Judy Hopps and Nick Wilde inside a modern glass cable car with a snowy mountain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792430224_mddq34_HHR_DATakAAD3nL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17516,
+    "content": "{\n    \"subject\": {\n        \"description\": \"{argument name=\"subject description\" default=\"A powerful warrior woman\"}\",\n        \"features\": {\n            \"hair\": \"long, dark, windswept\",\n            \"expression\": \"intense, determined, serious\",\n            \"pose\": \"standing, heroic stance, looking directly at camera\",\n            \"armor\": {\n                \"type\": \"fantasy-classical hybrid\",\n                \"materials\": [\"highly polished gold filigree\", \"blackened metal\"],\n                \"elements\": [\"cuirass with lion motif\", \"pauldrons\", \"gauntlets\", \"greaves\"],\n                \"adornment\": \"elaborate engravings and patterns\"\n            },\n            \"clothing\": {\n                \"cape\": \"{argument name=\"cape color\" default=\"flowing, crimson red\"}, attached at shoulders\"\n            },\n            \"weapons\": {\n                \"main\": {\n                    \"type\": \"longsword with ornate golden hilt\",\n                    \"position\": \"held low in right hand\"\n                }\n            }\n        }\n    },\n    \"scene_dynamics\": {\n        \"event\": \"mid-battle devastation / dynamic action scene\",\n        \"foreground\": {\n            \"elements\": [\"prone bodies\", \"fallen weapons\", \"upturned dirt\"]\n        },\n        \"background\": {\n            \"atmosphere\": \"chaotic, dusty battlefield\",\n            \"action\": [\n                \"a male warrior on the left falling backward, losing a shield and sword\",\n                \"a male warrior on the right flailing and falling, arms up\",\n                \"mid-air objects\"\n            ]\n        },\n        \"flying_objects\": {\n            \"items\": [\"multiple swords spinning\", \"shrapnel\", \"dirt clumps\", \"armor fragments\"],\n            \"effect\": \"dynamic frozen motion\"\n        }\n    },\n    \"environment\": {\n        \"ground\": \"dry, tilled earth and debris\",\n        \"sky\": \"clear, golden hour sunset, hazy from dust\",\n        \"depth\": \"deep field, indicating a large army battle in the far background\"\n    },\n    \"composition\": {\n        \"main_subject_position\": \"dead center, full body, dominating the frame\",\n        \"framing\": \"lower camera angle looking up to enhance power\",\n        \"balance\": \"symmetrical center with dynamic chaos radiating outward\",\n        \"focus\": \"sharp focus on the central woman and her armor; background elements in motion blur\"\n    },\n    \"lighting\": {\n        \"source\": \"backlit by a setting sun (golden hour)\",\n        \"quality\": \"warm, soft, directional\",\n        \"effects\": [\"strong rim lighting on hair and cape\", \"golden reflections on armor\", \"dust particles illuminated in the air\"]\n    },\n    \"style\": {\n        \"type\": \"high-quality cinematic still frame\",\n        \"aesthetic\": \"dark fantasy, realism\",\n        \"color_palette\": [\"deep reds\", \"rich golds\", \"blackened steel\", \"warm earth tones\"],\n        \"texture\": \"highly detailed textures on leather, metal, and fabric\"\n    }\n}",
+    "title": "Heroic Fantasy Warrior Portrait",
+    "description": "A complex, structured prompt for a powerful warrior woman in a dynamic battle scene with highly detailed gold and black armor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792438864_li8v7g_HHR3Vs_bsAAIC7A.jpg"
     ],
     "needReferenceImages": false
   },

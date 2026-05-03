@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 17741,
+    "content": "Design a square (1:1) aesthetic personal color analysis board in a {argument name=\"board style\" default=\"soft beige, minimalist style\"}.\n\nPlace a close-up portrait of a {argument name=\"subject\" default=\"young woman\"} at the center, featuring natural makeup and soft daylight lighting.\n\nAdd the title “Personal Color Analysis” above or beside the portrait.\n\nInclude a section labeled “Color Profile: {argument name=\"color profile\" default=\"Soft Autumn (warm, muted, soft)\"}”.\n\nDisplay clean color swatches featuring warm neutrals, earthy tones, muted greens, soft blues, and terracotta shades.\n\nAdd a “Best Colors” grid along with an “Avoid Colors” grid highlighting overly bright or cool tones.\n\nAt the bottom, include 4–5 small images of the same woman styled in outfits that match the recommended palette.\n\nUse a refined combination of elegant serif and minimal sans-serif fonts, soft shadows, and a clean editorial layout.\n\nThe background should be warm beige with a subtle texture.\n\nEnsure the design feels spacious, polished, and Instagram-ready.",
+    "title": "Minimalist Personal Color Analysis Board",
+    "description": "A clean and aesthetic prompt for designing a professional personal color analysis board with color swatches and style recommendations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792418587_b0s512_HHTpbd7aAAAwyIc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17512,
     "content": "Ancient Egyptian profile portrait of the person in the reference image, side-facing pose (strict profile view), inspired by {argument name=\"style source\" default=\"traditional tomb paintings\"}, {argument name=\"features\" default=\"almond-shaped eye, elongated eyeliner, sharp nose and chin\"}, wearing a {argument name=\"headwear\" default=\"nemes headdress\"} and ornate gold jewelry, flat perspective, stylized proportions, warm sandstone and gold color palette, hieroglyphic background, smooth matte texture, soft even lighting, highly detailed, clean lines, 4k, museum-quality artwork",
     "title": "Ancient Egyptian Profile Portrait",

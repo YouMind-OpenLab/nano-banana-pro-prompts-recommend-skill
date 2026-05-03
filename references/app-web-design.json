@@ -1,5 +1,25 @@
 [
   {
+    "id": 17741,
+    "content": "Design a square (1:1) aesthetic personal color analysis board in a {argument name=\"board style\" default=\"soft beige, minimalist style\"}.\n\nPlace a close-up portrait of a {argument name=\"subject\" default=\"young woman\"} at the center, featuring natural makeup and soft daylight lighting.\n\nAdd the title “Personal Color Analysis” above or beside the portrait.\n\nInclude a section labeled “Color Profile: {argument name=\"color profile\" default=\"Soft Autumn (warm, muted, soft)\"}”.\n\nDisplay clean color swatches featuring warm neutrals, earthy tones, muted greens, soft blues, and terracotta shades.\n\nAdd a “Best Colors” grid along with an “Avoid Colors” grid highlighting overly bright or cool tones.\n\nAt the bottom, include 4–5 small images of the same woman styled in outfits that match the recommended palette.\n\nUse a refined combination of elegant serif and minimal sans-serif fonts, soft shadows, and a clean editorial layout.\n\nThe background should be warm beige with a subtle texture.\n\nEnsure the design feels spacious, polished, and Instagram-ready.",
+    "title": "Minimalist Personal Color Analysis Board",
+    "description": "A clean and aesthetic prompt for designing a professional personal color analysis board with color swatches and style recommendations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792418587_b0s512_HHTpbd7aAAAwyIc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17773,
+    "content": "A collection of {argument name=\"object\" default=\"whimsical, hand-drawn teacups and mugs\"} are scattered across a textured, {argument name=\"background color\" default=\"light beige\"} background. Each cup features a unique design, with many adorned with floral motifs, berries, hearts, or abstract patterns. The color palette is soft and cheerful, with pastels and earthy tones dominating. Some cups are filled with dark liquid, suggesting tea or coffee, while others are empty. The overall style is charming and illustrative, evoking a sense of cozy comfort and artistic flair.",
+    "title": "Whimsical Hand-Drawn Teacups",
+    "description": "A charming and illustrative prompt for a collection of unique, floral-patterned teacups and mugs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792440476_ztqpuu_HHBJtnrbAAAbpBN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17488,
     "content": "A highly realistic, photorealistic close-up macro photography of a used, physically weathered {argument name=\"bank name\" default=\"JP Morgan Chase\"} bank check resting on a scratched wooden desk. The check is completely filled out with a blue ballpoint pen. The handwriting is distinctly human, messy, slightly slanted, and uniquely stylized with inconsistent ink pressure and minor skips, completely avoiding any uniform or computerized script-font appearance. The date written is '{argument name=\"date\" default=\"May 1, 2026\"}'. The signature on the bottom right clearly reads '{argument name=\"signature\" default=\"iqrasaifiii\"}' in a fast, authentic, slightly erratic cursive scrawl. The paper of the check shows significant physical wear and tear: noticeable horizontal and vertical folding creases, bent and frayed corners, faint dirt smudges, and subtle, faded coffee spots. A cheap black ballpoint pen lies slightly out of focus in the background. Shot on DSLR, 50mm lens, natural daylight casting soft, realistic shadows, 8k resolution.",
     "title": "Photorealistic Bank Check Macro",

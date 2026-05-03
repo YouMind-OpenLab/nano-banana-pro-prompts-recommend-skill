@@ -10,6 +10,92 @@
     "needReferenceImages": false
   },
   {
+    "id": 17775,
+    "content": "Stylized digital illustration of a young woman with a warm, confident smile, executed in a pen-and-ink cross-hatching style. She has short, wavy {argument name=\"hair color\" default=\"purple\"} hair with prominent blonde face-framing streaks, parted down the middle. Her facial features are rendered with fine stippling and line work, highlighting her expressive eyes, light freckles, and a friendly grin. She wears a {argument name=\"shirt color\" default=\"dark purple\"} textured t-shirt, a delicate necklace, hoop earrings, and thin rings on her fingers, with one hand resting gently under her chin. The background is a solid, dense black cross-hatched texture that makes the subject pop, giving the piece a classic graphic novel or hand-drawn editorial aesthetic.",
+    "title": "Pen-and-Ink Cross-Hatching Illustration",
+    "description": "A stylized graphic novel aesthetic prompt featuring cross-hatching and stippling line work.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792441621_k64dc1_HHVNKElW4AAt2Es.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17743,
+    "content": "{argument name=\"art style\" default=\"clean vector animation style\"} illustration of the {argument name=\"subject\" default=\"person in the provided image\"}, featuring simplified geometric shapes, smooth lines, and flat colors. Maintain accurate facial features, hairstyle, and expression while stylizing them in a modern 2D animated look. Use bold outlines, minimal shading, and a {argument name=\"palette\" default=\"vibrant but balanced color palette\"}. Ensure a polished, high-contrast, professional vector design with a subtle gradient or flat background",
+    "title": "Vector Animation Style Character Illustration",
+    "description": "A prompt for transforming a reference person into a clean, modern 2D vector animation style character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792418408_fssf5t_HHUcFFzaEAEBN-3.jpg",
+      "https://cms-assets.youmind.com/media/1777792418454_fqsvtd_HHUcFS6bQAAIhIL.jpg",
+      "https://cms-assets.youmind.com/media/1777792418285_vi3e78_HHUcFeXaIAAH0Mf.jpg",
+      "https://cms-assets.youmind.com/media/1777792419474_o3zhi8_HHUcFq9bwAA9FU-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17759,
+    "content": "mosaic portrait style image of the person in the provided image, using {argument name=\"mosaic medium\" default=\"small colored tiles or fragments\"} to form the full face. Preserve the person’s facial features, expression, and proportions while reconstructing them through intricate mosaic patterns. Use a rich, balanced color palette with subtle shading created through tile density and variation. Ensure high detail, artistic texture, and a visually striking, cohesive composition with a clean background",
+    "title": "Mosaic Portrait Style Image",
+    "description": "A creative prompt to reconstruct a person's face using intricate mosaic patterns and colored tiles while preserving features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792428833_pimqls_HHUOY-naAAA0oXa.jpg",
+      "https://cms-assets.youmind.com/media/1777792428837_9xryo7_HHUOZSMaIAA43Jp.jpg",
+      "https://cms-assets.youmind.com/media/1777792428865_ntcisc_HHUOZg-bsAIjCfY.jpg",
+      "https://cms-assets.youmind.com/media/1777792429418_3r5sk1_HHUOZvjagAEfSVR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17778,
+    "content": "A high-quality vector art portrait of a young person with {argument name=\"hair\" default=\"curly dark hair\"}, a mustache, and round black glasses. The subject is rendered in a grayscale comic-book style with bold line art. Their {argument name=\"clothing\" default=\"black t-shirt\"} and parts of the composition are accented with vibrant, abstract paint splashes in red, bright blue, and orange. In the background, a large glowing white full moon with realistic crater textures acts as a circular halo frame. Clean white background, minimalist flat design, sharp edges, pop art influence, 8k resolution, highly detailed digital illustration.",
+    "title": "Vector Pop Art Portrait",
+    "description": "A grayscale comic-style vector portrait with vibrant abstract paint splashes and a moon halo background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792443466_ap9l4v_HHTLUiJacAABP5m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17750,
+    "content": "Create image: A hyper-photorealistic shot of the same {argument name=\"male subject\" default=\"male subject\"} in the attached image, preserved face and identity, medium build physique, realistic proportions, dewy yet flawless skin with visible pores, natural skin texture, slight sweat on forehead and neck, healthy skin sheen, clean but not overly polished.\n\nExpression / Pose:\ngym mirror selfie, holding a high-end smartphone in one hand and a dumbbell in the other, slight arm flex but natural not exaggerated, subtle flirting smile “pa-pogi” expression, soft confident gaze into the phone screen, slight squint, relaxed posture, not stiff, candid and natural.\n\nCamera:\nshot from a high-end smartphone, sharp digital clarity, natural lighting inside gym, neutral white balance, no color grading, clean exposure, realistic highlights on skin, crisp detail, no artificial tones.\n\nMakeup:\nnone, natural bare face, dewy skin with visible pores, light sweat glow, no retouch.\n\nHair:\nshort black hair, neatly styled but slightly tousled, natural movement, slightly damp from workout.\n\nOutfit:\n{argument name=\"gym outfit\" default=\"simple gym outfit\"}, fitted shorts (above knee), sleeveless training top or slightly loose muscle tee, training shoes, optional smartwatch or bracelet, clean minimal styling.\n\nBackground:\n{argument name=\"gym interior\" default=\"gym interior with mirrors, dumbbell racks, benches, rubber flooring, neutral lighting\"}, a few gym-goers blurred naturally in background, realistic gym environment.\n\nComposition:\nmirror selfie framing, medium shot (waist to head), slightly angled camera, subject off-center, dumbbell and phone creating balance, mirror edges and gym equipment forming leading lines, natural depth.\n\nNegative prompt:\nAI-looking face, plastic skin, over-smoothed skin, exaggerated muscles, bodybuilder proportions, shirtless flexing, studio lighting, heavy filters, color grading, distorted reflection, distorted hands, blurry face, stiff pose, center-facing ID-photo style.",
+    "title": "Hyper-Realistic Gym Mirror Selfie",
+    "description": "A detailed photography prompt for generating a realistic gym mirror selfie with natural lighting and skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792424047_rpfr82_HHSyBf-bcAAqDxH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17776,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image, realistic skin texture, rosy dewy glow, Douyin glass-skin, pink lip gloss, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner.\n\nExpression / Pose: relaxed pout, eyes slightly squinting in sunlight, candid mid-movement pose.\n\nCamera: CCD digicam, harsh flash mixed with daylight, grain, washed tones.\n\nMakeup: glossy natural glow, soft blush.\n\nHair: long hair inward curled ends, windswept across face.\n\nOutfit: {argument name=\"clothing\" default=\"pastel crop top\"}, minimal jewelry.\n\nBackground: rooftop setting with sky and railings.\n\nComposition: tight crop, high angle selfie, dramatic tilt, head near frame edge, more headroom.\n\nNegative prompt: artificial look, stiff pose, blur.",
+    "title": "High-Angle Digicam Selfie",
+    "description": "A high-angle selfie prompt with 2000s digicam vibes and Douyin glass-skin makeup focus.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792442304_ut5zya_HHR7e1_aYAAXIGY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17769,
+    "content": "Create image: A hyper-photorealistic shot of the same subject in the attached image, ultra-real {argument name=\"skin texture\" default=\"skin texture\"}, rosy dewy complexion, Douyin {argument name=\"glow style\" default=\"glass-skin glow\"}, pink lip gloss, aegyosal, baby pink blush, grey contacts, wispy lashes, brushed brows, thin wing liner.\n\nExpression / Pose: confident relaxed gaze, lips slightly parted, subtle intensity, one hand lifting sunglasses, casual lean.\n\nCamera: old {argument name=\"camera type\" default=\"CCD digicam\"}, direct flash, grain, overexposed highlights, flattened shadows.\n\nMakeup: warm-toned eyeshadow, glossy lips, sculpted glow.\n\nHair: hair tied in a loose bun with inward curled strands, slightly windswept.\n\nOutfit: cream ribbed top, layered gold necklaces, red-tinted oval sunglasses.\n\nBackground: car interior with strong golden sunlight casting shadows.\n\nComposition: close-up, dramatic light contrast, angled framing, shadow lines across face.\n\nNegative prompt: artificial skin, stiff pose, over-edited look, blur, bad anatomy.",
+    "title": "Digicam Style Glass-Skin Portrait",
+    "description": "A hyper-photorealistic shot with a Douyin glass-skin glow, captured in the style of an old CCD digicam with direct flash.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792434537_x1zgr2_HHRs7RoaIAAiFdN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17774,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, preserved identity, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin finish, pink lip gloss, subtle aegyosal, soft baby pink blush across cheeks and nose, grey contact lenses, wispy eyelashes, brushed-up brows, thin wing eyeliner.\n\nExpression / Pose: candid outdoor selfie, lips softly pursed while sipping from a {argument name=\"drink type\" default=\"drink pouch\"}, relaxed confident mood, subtle squint under sunlight, head slightly tilted, hand raised naturally holding the drink, not stiff.\n\nCamera: shot on an old CCD digital camera, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel, candid imperfect composition.\n\nMakeup: Douyin/Korean glass-skin, luminous base, glossy pink lips, soft blush, aegyosal highlight, defined lashes, natural contour.\n\nHair: long dark brown hair, modern layered cut with inward upward curl ends, slightly windswept strands.\n\nOutfit: {argument name=\"top\" default=\"fitted white graphic tank top\"}, chunky hoop earrings, mini black sunglasses, pastel baseball cap, colorful rings and nails.\n\nBackground: sunny street setting with palm trees, clear blue sky, urban signage, strong daylight creating sharp shadows and leading lines.\n\nComposition: close-up selfie framing, slightly low angle, off-center subject, dynamic hand foreground, strong perspective lines from background elements.\n\nNegative prompt: cartoonish, AI-looking skin, over-smoothed face, distorted anatomy, blurry face, heavy bokeh, stiff pose, center-facing ID photo, unnatural lighting, exaggerated features.",
+    "title": "Retro Digicam Korean Selfie",
+    "description": "A detailed prompt for an early 2000s digicam-style outdoor selfie with Korean glass-skin aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777792441559_cvnaye_HHRoWc5bkAAyAkz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17489,
     "content": "Create Image: Maintain the exact facial identity from the provided source image with absolute precision and zero alteration.\n[COMPOSITION]: Centered slightly side profile medium shot, peace sign pose.\n[LIGHTING]: Natural daylight, clean white balance, soft over exposed highlights.\n[ENVIRONMENT]: Bright outdoor sky, minimal clouds, sharp focus.\n[SUBJECT]:  The subject has a long length straight black hair, with large pink bow tied at the center of the head, {argument name=\"outfit\" default=\"striped pink pajamas\"}, rosy cheeks. Wispy eye lashes, thin winged eye liner, brushed up brows, champagne eye shadow, tranparent gloss lips. Lips pucker in a playfull manner, Hugging a {argument name=\"prop\" default=\"medium-sized stylized duck\"} with the same black hair, pink striped pajamas, ribbon as the subject.\n[AESTHETIC]: High-end smartphone shot, digital clarity, modern aesthetic. 4k rendered, high quality sharp facial details -ar 3:4",
     "title": "Duck Mascot Pajama Portrait",
