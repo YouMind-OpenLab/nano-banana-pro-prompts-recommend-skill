@@ -1,5 +1,18 @@
 [
   {
+    "id": 18022,
+    "content": "{argument name=\"architecture\" default=\"Azuchi-Momoyama style castle tower\"} {argument name=\"drawing type\" default=\"floor plan, blueprint, and area notation\"}",
+    "title": "Azuchi-Momoyama Castle Floor Plan",
+    "description": "Generates architectural floor plans and blueprints of an Azuchi-Momoyama period castle tower with area measurements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879975641_x5xfcp_HHXvlvZbIAAx2Vv.jpg",
+      "https://cms-assets.youmind.com/media/1777879975639_k8ece2_HHXvpEfaIAA4JZQ.jpg",
+      "https://cms-assets.youmind.com/media/1777879975563_wq2x21_HHXvrl0bYAAGKe3.jpg",
+      "https://cms-assets.youmind.com/media/1777879976311_eoeuls_HHXvuSRaMAArqpn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17741,
     "content": "Design a square (1:1) aesthetic personal color analysis board in a {argument name=\"board style\" default=\"soft beige, minimalist style\"}.\n\nPlace a close-up portrait of a {argument name=\"subject\" default=\"young woman\"} at the center, featuring natural makeup and soft daylight lighting.\n\nAdd the title “Personal Color Analysis” above or beside the portrait.\n\nInclude a section labeled “Color Profile: {argument name=\"color profile\" default=\"Soft Autumn (warm, muted, soft)\"}”.\n\nDisplay clean color swatches featuring warm neutrals, earthy tones, muted greens, soft blues, and terracotta shades.\n\nAdd a “Best Colors” grid along with an “Avoid Colors” grid highlighting overly bright or cool tones.\n\nAt the bottom, include 4–5 small images of the same woman styled in outfits that match the recommended palette.\n\nUse a refined combination of elegant serif and minimal sans-serif fonts, soft shadows, and a clean editorial layout.\n\nThe background should be warm beige with a subtle texture.\n\nEnsure the design feels spacious, polished, and Instagram-ready.",
     "title": "Minimalist Personal Color Analysis Board",

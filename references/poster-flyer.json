@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 18008,
+    "content": "A vibrant, 3D illustration features a stack of four cartoon characters against a {argument name=\"background color\" default=\"warm, gradient orange\"} background. The characters are predominantly {argument name=\"character colors\" default=\"purple and blue\"}, with large, expressive eyes and wide smiles. At the top is a large, purple creature with big, floppy ears and a white face, resembling a rabbit or a monkey. It has orange eyes and pink cheeks. Below it is a smaller, blue-faced creature with orange eyes and a wide, toothy grin, also with purple arms and body. It has a light blue heart shape on its chest. The third level features two characters side-by-side. On the left is a purple cat-like creature with blue eyes and a pink collar. On the right is a white, bald character with orange eyes and orange accents on its arms and body, adorned with small orange hearts. At the bottom, partially visible, is a purple dog-like creature with a playful expression. The entire composition is surrounded by numerous small, colorful heart shapes in shades of purple, pink, orange, and blue, adding to the cheerful and whimsical atmosphere. The characters are perched on a {argument name=\"base type\" default=\"textured, purple base that resembles a mound of soft clay or frosting\"}.",
+    "title": "3D Whimsical Character Stack",
+    "description": "A vibrant 3D illustration prompt for a stack of adorable, expressive cartoon characters on a warm gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879968353_lftfx0_HHYzim9aQAAalDT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18015,
+    "content": "This image features a highly stylized silhouette profile of a young man with {argument name=\"hair style\" default=\"tousled, dark hair\"} and round glasses, set against a {argument name=\"background color\" default=\"vibrant, saturated red\"} background. The aesthetic leans heavily into a modern pop-art and street-art fusion, characterized by explosive, dynamic paint splatters in {argument name=\"splatter colors\" default=\"electric purple and bright yellow\"} that appear to trail off the subject’s head and shoulders, suggesting movement or a creative \"burst\" of thought.\n​The lighting is dramatic and high-contrast, utilizing a chiaroscuro effect where the subject's face is largely cast in deep shadow, while sharp red highlights define the bridge of his nose, lips, and neck. The overall composition is sleek and graphic, reminiscent of a contemporary digital illustration or a stylized comic book cover, evoking a sense of moody introspection combined with an energetic, artistic flair.",
+    "title": "Pop Art Silhouette Splatter",
+    "description": "A stylized silhouette profile of a man with paint splatters in a pop-art and street-art fusion style against a vibrant red background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879971587_kn3vpu_HHaPNEqWYAAvBOB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17763,
     "content": "An editorial magazine cover for '{argument name=\"magazine title\" default=\"Imaginary AURA\"}', featuring a confident {argument name=\"ethnicity\" default=\"South Asian\"} woman as the central figure. She has flowing, wavy dark hair and is wearing a rich emerald-green velvet blazer over a matching silk turtleneck.\n​Her look is completed with striking chunky gold hoop earrings and a heavy, layered gold chain link necklace. She has a strong, powerful expression, directly engaging the viewer with her warm, makeup-enhanced brown eyes.\n​The background features a warm, sandy desert landscape at twilight. A vertical headline in a stylish gold font reads, 'VISIONARIES: THE CREATIVE CANVAS,' on the left. The bottom right features the text, 'DESERT BLOSSOM: Finding New Forms,' with the sub-headline 'A Journey Through Textures and Light.'\n​This captivating cover captures the essence of artistic exploration and the beauty found within diverse cultural contexts.",
     "title": "Editorial Magazine Cover Design",

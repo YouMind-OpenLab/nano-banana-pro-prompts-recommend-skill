@@ -10,6 +10,112 @@
     "needReferenceImages": false
   },
   {
+    "id": 18015,
+    "content": "This image features a highly stylized silhouette profile of a young man with {argument name=\"hair style\" default=\"tousled, dark hair\"} and round glasses, set against a {argument name=\"background color\" default=\"vibrant, saturated red\"} background. The aesthetic leans heavily into a modern pop-art and street-art fusion, characterized by explosive, dynamic paint splatters in {argument name=\"splatter colors\" default=\"electric purple and bright yellow\"} that appear to trail off the subject’s head and shoulders, suggesting movement or a creative \"burst\" of thought.\n​The lighting is dramatic and high-contrast, utilizing a chiaroscuro effect where the subject's face is largely cast in deep shadow, while sharp red highlights define the bridge of his nose, lips, and neck. The overall composition is sleek and graphic, reminiscent of a contemporary digital illustration or a stylized comic book cover, evoking a sense of moody introspection combined with an energetic, artistic flair.",
+    "title": "Pop Art Silhouette Splatter",
+    "description": "A stylized silhouette profile of a man with paint splatters in a pop-art and street-art fusion style against a vibrant red background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879971587_kn3vpu_HHaPNEqWYAAvBOB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18011,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"title\": \"Cinematic Portrait in a Minimalist Laundry Space\",\n  \"style\": {\n    \"genre\": \"cinematic photography\",\n    \"aesthetic\": \"Japanese negative film\",\n    \"mood\": [\n      \"quiet domesticity\",\n      \"poetic\",\n      \"everyday realism\",\n      \"intimate\",\n      \"bright and airy\"\n    ],\n    \"texture\": [\n      \"subtle grain\",\n      \"gentle bloom in highlights\"\n    ],\n    \"keywords\": [\n      \"cinematic\",\n      \"delicate\",\n      \"nostalgic\",\n      \"artistic\",\n      \"realistic\",\n      \"clean aesthetic\",\n      \"soft light\"\n    ]\n  },\n  \"scene\": {\n    \"location\": \"{argument name=\"location\" default=\"minimalist laundry area with hanging clothes\"}\",\n    \"atmosphere\": [\n      \"soft wind moving the fabrics\",\n      \"calm environment\",\n      \"natural spontaneity\",\n      \"fresh and serene feeling\"\n    ],\n    \"lighting\": {\n      \"main\": \"bright high-key diffused lighting\",\n      \"secondary\": \"sunlight filtering through the fabrics\",\n      \"portrait\": \"flat and even facial lighting\",\n      \"shadows\": \"no harsh shadows, only soft shadows\",\n      \"overall_effect\": \"white, clean, luminous environment with delicate glow in illuminated areas\",\n      \"contrast\": \"low contrast\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"{argument name=\"subject\" default=\"A Japanese woman\"}\",\n    \"wardrobe\": {\n      \"garment\": \"{argument name=\"clothing\" default=\"white textured linen romper\"}\",\n      \"details\": [\n        \"thin strap shoulder ties\",\n        \"short legs\",\n        \"slightly frayed hems\",\n        \"deep side cut design revealing the side profile\",\n        \"open back\"\n      ]\n    },\n    \"pose\": {\n      \"position\": \"sideways, partially hidden behind hanging clothes\",\n      \"action\": \"arms raised while adjusting clothes on the line\",\n      \"posture\": \"relaxed\",\n      \"gaze\": \"looking directly at the viewer\"\n    },\n    \"face\": {\n      \"visibility\": \"partially obscured\",\n      \"detail\": \"facial contour visible\",\n      \"lighting\": \"soft, even, beauty portrait style\"\n    },\n    \"body\": {\n      \"silhouette\": \"silhouette softened by the fabric\"\n    }\n  },\n  \"composition\": {\n    \"framing\": \"imperfect and natural framing, from the knees up\",\n    \"focus\": [\n      \"silhouette\",\n      \"moving fabrics\",\n      \"softness of light\"\n    ],\n    \"aspect_ratio\": \"9:16\",\n    \"camera_feel\": \"spontaneous, observational capture\"\n  },\n  \"rendering\": {\n    \"priority\": [\n      \"photorealism\",\n      \"soft natural light\",\n      \"delicate textures\",\n      \"serene atmosphere\",\n      \"minimalist editorial aesthetic\"\n    ]\n  }\n}",
+    "title": "Cinematic Japanese Film Style Portrait",
+    "description": "A detailed structured prompt for achieving a Japanese negative film aesthetic in a domestic laundry setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879969554_woco24_HHZ8bsBW8AACHTn.jpg",
+      "https://cms-assets.youmind.com/media/1777879969714_hz0gkr_HHZ8bwuXkAAopGL.jpg",
+      "https://cms-assets.youmind.com/media/1777879969642_uf03hy_HHZ8b0-XoAAzHZX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18017,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image, preserving exact facial identity, bone structure, proportions, and natural asymmetry with high fidelity.  Main subject / quality details: young {argument name=\"subject\" default=\"East Asian male\"}, toned arms visible, natural skin texture with visible pores, rosy complexion and dewy skin, soft highlight on collarbone and shoulders  Expression or mood: laid-back expression, slightly parted lips, eyes looking off-camera with relaxed confidence  Camera settings: shot on an {argument name=\"camera\" default=\"old CCD digital camera\"}, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel, candid and imperfect composition, crisp flash-lit subject, nostalgic compact-camera look, realistic unpolished image quality  Hair: {argument name=\"hair style\" default=\"modern messy hairstyle with inward upward curl\"}, slightly tousled from resting position  Outfit: white sleeveless tank top, relaxed-fit dark trousers, minimal jewelry  Background: soft fabric bedding with subtle wrinkles, neutral-toned indoor setting with natural window light  Composition: top-down diagonal angle, body stretched across frame, asymmetrical placement, leading lines from fabric folds  Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, center-facing ID-photo style",
+    "title": "2000s Digicam Flash Portrait",
+    "description": "A prompt for a hyper-photorealistic portrait using an early-2000s digicam aesthetic with harsh on-camera flash and digital noise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879973870_3x4ksl_HHZFTLvboAAwm7K.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18012,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"description\": \"{argument name=\"subject description\" default=\"Young woman with long, voluminous, wavy brown hair.\"}\",\n      \"features\": \"Light to medium skin tone, dark eyes.\",\n      \"expression\": \"Warm, radiant smile showing teeth, natural makeup.\",\n      \"accessories\": \"Long, square-shaped manicured nails with a light polish, rings on fingers.\"\n    },\n    \"clothing\": {\n      \"top\": \"{argument name=\"top\" default=\"Black, long-sleeved, form-fitting cropped top.\"}\",\n      \"bottoms\": \"{argument name=\"bottoms\" default=\"Light peach/pink velour or velvet short-shorts with a subtle rhinestone or studded design on the side.\"}\"\n    },\n    \"pose_and_action\": {\n      \"action\": \"Taking a mirror selfie.\",\n      \"pose\": \"Sitting sideways on a white countertop, twisting slightly to look back over her shoulder into the mirror.\",\n      \"props\": \"Holding a white smartphone in her right hand. The phone has a clear or light blue bumper case with a distinct white MagSafe circle ring on the back.\"\n    },\n    \"environment\": {\n      \"setting\": \"Indoor, likely a bathroom or vanity area.\",\n      \"background_elements\": [\n        \"White paneled interior door with silver hardware behind her.\",\n        \"Neutral off-white or beige walls.\",\n        \"Grey patterned fabric laundry basket to the right.\",\n        \"Light blue floor bin and a smaller blue trash can visible in the background room through the doorway.\"\n      ]\n    },\n    \"camera_and_quality\": {\n      \"perspective\": \"Mirror selfie perspective, capturing the subject's reflection.\",\n      \"lighting\": \"Warm, soft indoor lighting, casting gentle shadows.\",\n      \"technical_specifications\": [\n        \"4k resolution\",\n        \"HD photo\",\n        \"Ultra-realistic\",\n        \"Highly detailed\",\n        \"Sharp focus\",\n        \"Photorealistic\",\n        \"Cinematic lighting\",\n        \"High quality digital photography\"\n      ]\n    }\n  }\n}",
+    "title": "Voluminous Hair Mirror Selfie",
+    "description": "A detailed prompt for generating a realistic mirror selfie of a young woman with wavy brown hair and a radiant smile, set in a domestic interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879969585_u2caxm_HHYrONVbAAAD5wh.jpg",
+      "https://cms-assets.youmind.com/media/1777879969650_b7jzhf_HHYrOSvaMAAL1o8.jpg",
+      "https://cms-assets.youmind.com/media/1777879969877_6rym7e_HHYrOSjboAAjBB0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18016,
+    "content": "[Insert your appearance parameters: {argument name=\"age\" default=\"25 years old\"}, {argument name=\"hair\" default=\"long wavy dark hair\"}, {argument name=\"body build\" default=\"athletic yet feminine figure\"}, no beard]\n\nHyper-realistic vertical photograph 4:5. Tropical beach with a turquoise lagoon stretching to the horizon. In the center of the frame — a single coconut palm with a horizontally curved trunk extending over the water, forming a natural bridge. A young woman is lying relaxed along the trunk in a graceful pose, head resting on one hand, fingers gently touching the surface of the water.\n\nClothing: olive-green sleeveless tank top, dark gray tailored Bermuda shorts, khaki-beige bucket hat pushed back on her head, delicate silver chain with a small cross pendant, elegant steel Patek Philippe Aquanaut watch with blue dial. Bare feet, with a discarded suede clog nearby.\n\nLighting: golden hour, warm sunset light, backlit, soft golden highlights on the palm bark and water, emerald-aquamarine accents.\n\nCamera: Leica M11, 50mm f/1.4 lens, 8K sharpness, natural skin and bark texture, natural depth of field. No plasticity, CGI, or AI artifacts.",
+    "title": "Tropical Beach Palm Bridge",
+    "description": "A hyper-realistic photograph of a woman reclining on a horizontally curved palm trunk over a turquoise lagoon at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879972929_25zfiz_HHYkmmVa8AA1Qrg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18018,
+    "content": "{\n  \"prompts\": [\n    {\n      \"id\": 1,\n      \"title\": \"store_boy\",\n      \"prompt\": \"A stylish young man taking a mirror selfie inside a modern clothing store, wearing a casual chic outfit ({argument name=\"outfit 1\" default=\"oversized tee or shirt, light jacket, relaxed jeans, sneakers, crossbody bag\"}), holding a tote bag. Around him are multiple cute chibi-style mini versions of himself with big eyes and playful expressions (jumping, sitting, winking, drinking coffee). Soft warm lighting, minimal aesthetic store interior, doodle-style white sparkles and hearts, clean composition, high detail, pastel tones, kawaii illustration blended with realistic photography\"\n    },\n    {\n      \"id\": 2,\n      \"title\": \"home_boy\",\n      \"prompt\": \"A young man taking a mirror selfie in a minimal modern home, wearing an {argument name=\"outfit 2\" default=\"all-black casual outfit\"} with a crossbody bag and sunglasses on his head. Surrounding him are adorable chibi mini versions of himself in different playful poses (jumping, sitting, peace sign, drinking bubble tea), with big glossy eyes and soft cartoon style. Background includes a {argument name=\"background elements\" default=\"potted plant, wooden table, neutral decor, and framed art\"}. Soft natural lighting, cozy aesthetic, white doodle sparkles and hearts, blend of realism and cute 3D cartoon style, high detail\"\n    }\n  ]\n}",
+    "title": "Kawaii Chibi Mirror Selfie",
+    "description": "A creative prompt set that blends realistic mirror selfies with cute 3D chibi-style mini versions of the subject in various poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879973899_3kxxw1_HHYIjjpbUAA9iW6.jpg",
+      "https://cms-assets.youmind.com/media/1777879973965_3p7wnu_HHYIjlta8AAaeJz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17991,
+    "content": "Use the uploaded reference image as the {argument name=\"facial identity\" default=\"facial identity base\"}. Preserve exact facial structure, skin tone, hairstyle (slightly wavy, styled with loose strands falling on the forehead), trimmed beard, and sharp jawline. Maintain a realistic, masculine appearance with natural skin texture and no over-smoothing. A cinematic, ultra-realistic portrait of the same {argument name=\"subject\" default=\"young man\"} standing in a {argument name=\"environment\" default=\"crowded urban street\"} during golden hour. Shot in a side-profile (3/4 angle), mid-close framing. His expression is calm, introspective, slightly distant—eyes softly focused ahead as if lost in thought. Lighting & Atmosphere: Strong golden-hour sunlight from behind creates a dramatic rim light halo around his hair and shoulders. Individual hair strands glow with warm highlights. Subtle wind moves his hair naturally. Add cinematic lens flares, soft light leaks, and atmospheric haze. Wardrobe: Replace formal attire with a casual modern outfit: fitted dark t-shirt or lightweight jacket, visible backpack strap over one shoulder, fabric subtly catching warm sunlight. Environment: Busy urban street scene with motion-blurred pedestrians in the background. The crowd is out of focus, creating separation and depth. Background filled with warm tones—amber, orange, gold—with darker silhouettes for contrast. Camera & Technicals: Shot on 85mm lens, f/1.8 aperture, shallow depth of field, creamy cinematic bokeh, subject sharply in focus, background heavily blurred. Color & Grade: Kodak Portra-style color grading, warm highlights, soft shadows, high dynamic range, subtle film grain for realism. Mood: Cinematic, emotional, introspective, slightly nostalgic, urban solitude. Style Tags: ultra-realistic, cinematic lighting, volumetric light, backlit portrait, golden hour, lens flare, shallow depth of field, 8k, photorealistic, film still",
+    "title": "Cinematic Urban Portrait",
+    "description": "An ultra-realistic cinematic portrait of a young man in an urban street during golden hour, emphasizing facial consistency and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879960627_d9a1aj_HHX5MQRagAAjrDv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18019,
+    "content": "A candid portrait of a young woman sitting outdoors at a modern café, wearing a {argument name=\"clothing 1\" default=\"black cap and casual black outfit\"}, holding a plastic cup of {argument name=\"drink\" default=\"iced green matcha latte\"} with a straw. She has long straight reddish-brown hair, natural makeup, and light freckles. Her expression is slightly pouty and thoughtful as she looks off into the distance. The background features contemporary apartment buildings, metal chairs, and soft daylight under large white patio umbrellas. Shot in natural lighting, shallow depth of field, realistic lifestyle photography, high detail, soft tones.\n\nA stylish young woman sitting in the driver’s seat of a {argument name=\"car\" default=\"luxury convertible car with a red leather interior\"}, parked in front of an elegant modern building. She wears a black sheer blouse and slim black sunglasses, with wavy brown hair and minimal makeup. She turns back over her shoulder, giving a confident, composed look toward the camera. The setting has clean architectural lines and muted colors, enhancing a high-fashion, editorial vibe. Shot in soft daylight, cinematic composition, ultra-realistic, sharp focus, luxury aesthetic.",
+    "title": "Lifestyle and Luxury Fashion Portraits",
+    "description": "A dual prompt set featuring a casual café portrait with matcha and a high-fashion luxury convertible shoot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879974202_cetvex_HHX32b_aQAA-5-1.jpg",
+      "https://cms-assets.youmind.com/media/1777879974089_xinn0b_HHX32b-aIAE6I6p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18001,
+    "content": "A {argument name=\"subject\" default=\"young man with medium-length wavy silver hair\"}, sharp jawline, light stubble, intense hazel eyes, wearing a futuristic hoodie, sitting in a {argument name=\"environment\" default=\"neon-lit cyberpunk room\"} full of holographic screens, glowing {argument name=\"colors\" default=\"blue and pink lights\"} reflecting on his face, dark moody atmosphere, ultra-detailed, cinematic lighting, 4K, cyberpunk aesthetic",
+    "title": "Cyberpunk Neon Hacker",
+    "description": "A moody cyberpunk portrait of a young man with silver hair in a neon-lit hacker room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879964762_ppwhyb_HHXr3tgagAEx1So.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18020,
+    "content": "Preserve exactly:\nFacial structure & bone anatomy\nJawline, cheekbones, chin\nEye shape, spacing, gaze\nNose, lips, brow shape\nSkin tone & natural texture\nHairline, hairstyle, density\n❌ No beautification\n\n❌ No stylization\n\n❌ No face reshaping\n\n❌ No identity drift\nScene & Composition\nShot from outside a {argument name=\"setting\" default=\"glass café at night\"}.\n\nThe main subject is centered inside the café, standing still and facing the camera.\nIn the foreground, a dark shadowy person walks past, rendered with strong horizontal motion blur, partially blocking the frame and creating depth.\n\nOnly a narrow clear area reveals the subject sharply.\nSubject\nYoung adult.\n\nExpression: {argument name=\"expression\" default=\"natural, calm, slightly sad (not forced)\"}.\n\nRight hand holding a disposable coffee cup at chest height, left hand relaxed.\nOutfit\n{argument name=\"clothing\" default=\"Oversized dark sweatshirt\"}\n\nLong white T-shirt underneath\n\nLoose beige trousers\n\nWhite sneakers\nEnvironment\nA warm night café with plants: hanging vines, tall grass-like plants, wooden tables, soft fairy lights, gentle reflections on the glass.\n\nOutside remains dark with soft city bokeh.\nLighting & Mood\nLow-key cinematic lighting.\n\nMost of the scene is dark, with a soft warm glow around the subject only.\n\nSubtle contrast, film-style color grading, realistic shadows.\nCamera Style\nEye-level, full-body framing, shallow depth of field.\n\nForeground motion blur, subject in sharp focus.\n\nNatural film grain, 4K realism.",
+    "title": "Cinematic Night Café Subject",
+    "description": "A moody, low-key cinematic lighting prompt featuring a subject inside a warm night café with foreground motion blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879975269_grw6dd_HHXodHHa8AEqRHJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17775,
     "content": "Stylized digital illustration of a young woman with a warm, confident smile, executed in a pen-and-ink cross-hatching style. She has short, wavy {argument name=\"hair color\" default=\"purple\"} hair with prominent blonde face-framing streaks, parted down the middle. Her facial features are rendered with fine stippling and line work, highlighting her expressive eyes, light freckles, and a friendly grin. She wears a {argument name=\"shirt color\" default=\"dark purple\"} textured t-shirt, a delicate necklace, hoop earrings, and thin rings on her fingers, with one hand resting gently under her chin. The background is a solid, dense black cross-hatched texture that makes the subject pop, giving the piece a classic graphic novel or hand-drawn editorial aesthetic.",
     "title": "Pen-and-Ink Cross-Hatching Illustration",

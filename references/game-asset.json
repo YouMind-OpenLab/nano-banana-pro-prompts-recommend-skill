@@ -1,5 +1,25 @@
 [
   {
+    "id": 18008,
+    "content": "A vibrant, 3D illustration features a stack of four cartoon characters against a {argument name=\"background color\" default=\"warm, gradient orange\"} background. The characters are predominantly {argument name=\"character colors\" default=\"purple and blue\"}, with large, expressive eyes and wide smiles. At the top is a large, purple creature with big, floppy ears and a white face, resembling a rabbit or a monkey. It has orange eyes and pink cheeks. Below it is a smaller, blue-faced creature with orange eyes and a wide, toothy grin, also with purple arms and body. It has a light blue heart shape on its chest. The third level features two characters side-by-side. On the left is a purple cat-like creature with blue eyes and a pink collar. On the right is a white, bald character with orange eyes and orange accents on its arms and body, adorned with small orange hearts. At the bottom, partially visible, is a purple dog-like creature with a playful expression. The entire composition is surrounded by numerous small, colorful heart shapes in shades of purple, pink, orange, and blue, adding to the cheerful and whimsical atmosphere. The characters are perched on a {argument name=\"base type\" default=\"textured, purple base that resembles a mound of soft clay or frosting\"}.",
+    "title": "3D Whimsical Character Stack",
+    "description": "A vibrant 3D illustration prompt for a stack of adorable, expressive cartoon characters on a warm gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879968353_lftfx0_HHYzim9aQAAalDT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18001,
+    "content": "A {argument name=\"subject\" default=\"young man with medium-length wavy silver hair\"}, sharp jawline, light stubble, intense hazel eyes, wearing a futuristic hoodie, sitting in a {argument name=\"environment\" default=\"neon-lit cyberpunk room\"} full of holographic screens, glowing {argument name=\"colors\" default=\"blue and pink lights\"} reflecting on his face, dark moody atmosphere, ultra-detailed, cinematic lighting, 4K, cyberpunk aesthetic",
+    "title": "Cyberpunk Neon Hacker",
+    "description": "A moody cyberpunk portrait of a young man with silver hair in a neon-lit hacker room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879964762_ppwhyb_HHXr3tgagAEx1So.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17745,
     "content": "[{argument name=\"subject\" default=\"subject\"}] hyper-realistic {argument name=\"materials\" default=\"intricate steampunk sculpture of that subject, masterfully crafted with polished brass, copper pipes, exposed gears\"}, levers, valves, pressure gauges and Victorian mechanical details, rich metallic textures with patina and subtle wear, {argument name=\"lighting\" default=\"dramatic studio lighting\"} with strong specular highlights and deep shadows emphasizing every mechanical element, displayed on a dark wooden base, ultra detailed, photorealistic, masterpiece",
     "title": "Intricate Steampunk Mechanical Sculpture",

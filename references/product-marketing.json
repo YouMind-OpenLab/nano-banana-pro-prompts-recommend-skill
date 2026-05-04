@@ -21,6 +21,78 @@
     "needReferenceImages": true
   },
   {
+    "id": 18013,
+    "content": "A surreal, high-end studio advertisement featuring an oversized crispy fried chicken bucket inspired by KFC, placed on a clean reflective surface. The bucket is filled with golden, crunchy fried chicken pieces with rich texture and visible seasoning flakes. Background is a smooth pastel red gradient with soft diffused lighting and subtle reflections.\n\nA {argument name=\"subject\" default=\"young man\"} (use my face) stands confidently beside the giant chicken bucket, leaning casually against it. He wears a {argument name=\"outfit\" default=\"clean white athleisure outfit\"}, minimal and stylish, creating contrast with the warm tones of the chicken. He holds a single crispy drumstick in his hand, eyes closed with a satisfied expression, enjoying the aroma.\n\nComposition is centered, ultra-sharp, cinematic lighting, premium commercial photography style, shallow depth of field, hyper-realistic textures, 8K quality.\n\nLarge bold typography in the background: “KFC STYLE” (or replace with your brand name if needed).\nTagline at bottom: “{argument name=\"tagline\" default=\"Crispy joy, every bite.\"}”",
+    "title": "Surreal Fried Chicken Commercial",
+    "description": "A high-end studio advertisement prompt featuring an oversized fried chicken bucket and a subject in athleisure wear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879971596_91ff2j_HHZ6OyGa8AAJqbv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17985,
+    "content": "Ultra-realistic {argument name=\"food type\" default=\"food with juicy / melting / dynamic details\"}, dark background, dramatic lighting, macro shot, shot on Nikon D850, 100mm macro lens, f/2.8, ultra detailed textures, food advertisement style",
+    "title": "Macro Food Advertisement Photography",
+    "description": "An ultra-realistic macro food photography prompt designed for professional advertisements with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879957843_pxdmnr_HHYxvvhaUAALWcF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18009,
+    "content": "A surreal, ultra-premium studio product scene featuring a {argument name=\"product\" default=\"pair of oversized deep burgundy leather luxury handbags\"} placed diagonally on a polished reflective surface. The bags are crafted with smooth Italian leather, gold-plated hardware, embossed monogram patterns, and subtle stitching details, giving a high-fashion couture aesthetic.\n\nThe background is a {argument name=\"background\" default=\"rich gradient of dark plum fading into warm champagne gold\"}, with soft cinematic lighting creating a luxurious glow and refined shadows.\n\nThree miniature women interact with the oversized handbags, enhancing the surreal scale contrast. All women wear elevated fashion looks (tailored black blazers, silk tops, fitted trousers) with statement sunglasses, styled in tones of burgundy, gold, and black to complement the product.\n\nOne woman stands on the left adjusting a sleek golden chain attached to the handbag, grounded and composed. Another woman is suspended mid-air holding onto the chain strap, leaning playfully against the bag’s curved surface. The third woman stands confidently on the right atop the base of the bag, posing with elegance and authority.\n\nThe chain strap flows across the composition in a soft curve, guiding the viewer’s eye and adding motion.\n\nComposition is cinematic and balanced, with generous negative space in the upper frame. Focus is razor sharp on the handbag textures, with a shallow depth of field softly blurring the background.\n\nStyle: ultra-realistic, luxury editorial campaign, surreal scale, high-fashion product photography\nCamera: {argument name=\"camera\" default=\"85mm lens\"}, eye-level angle, shallow depth of field\nLighting: soft diffused studio lighting with warm highlights, subtle reflections on leather and metal\nAspect ratio: 9:13 vertical",
+    "title": "Surreal Luxury Handbag Editorial",
+    "description": "A surreal, high-fashion product photography prompt featuring oversized luxury handbags and miniature fashion models in a premium studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879969189_p4pd6v_HHYqAqQaAAApWfF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18005,
+    "content": "Creative surreal photography featuring a sporty person (based on the uploaded subject photo) wearing a {argument name=\"outfit color\" default=\"black athletic outfit\"} (sportswear such as tank top, shorts/leggings, and optional cap), sitting on a concrete riverside walkway. The subject’s identity (face, body, hairstyle) must closely match the uploaded photo, adapted naturally into a sporty look.\n\nThe subject is leaning against a giant oversized version of the exact shoe from the uploaded shoe image, scaled dramatically larger than the subject. The shoe must accurately preserve all original details, including colors, textures, branding, and materials.\n\nShot using forced perspective, making the shoe in the foreground appear massive and dominant. \n\nIn the background, a white fence, river, and modern city skyline are visible under a bright blue sky with light clouds.\n\nOn the left side, a digital overlay UI displaying running statistics in English, including a bold number like “{argument name=\"statistic\" default=\"10.04\"}”, along with distance, pace, time, and other fitness metrics in a clean, modern layout.\n\nLighting: bright daylight, natural sunlight highlighting textures of the mesh shoe and athletic outfit.\n\nMood: energetic, modern, sporty lifestyle advertisement.\nColor tone: vibrant and clean, maintaining realistic colors from both subject and shoe.\n\nDetail: ultra-realistic, high detail, sharp focus, 8K resolution, professional photography.",
+    "title": "Surreal Giant Shoe Sports Advertisement",
+    "description": "A creative forced-perspective prompt for a sporty advertisement featuring a giant version of a running shoe and fitness statistics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879966972_zxaaj4_HHYNnh8boAAOQIh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17988,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": \"{argument name=\"expression\" default=\"Confident soft gaze with slightly parted lips and composed facial expression\"}\",\n        \"hair\": \"Use uploaded reference image, keep identity exact, long hair styled in a high sleek ponytail tied with a large bright red bow\",\n        \"accessories\": [\n          \"Bold red bow hair accessory\"\n        ],\n        \"details\": [\n          \"Defined eyebrows and clean makeup\",\n          \"Matte skin finish with subtle highlight on cheekbones\",\n          \"Natural skin texture preserved\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine physique\",\n        \"features\": [\n          \"Defined waist\",\n          \"Long legs\",\n          \"Elegant posture\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"dress\": {\n        \"type\": \"Structured mini dress\",\n        \"color\": \"{argument name=\"dress colors\" default=\"Primary royal blue top with bright yellow skirt and white trim\"}\",\n        \"design\": [\n          \"Off-shoulder puff sleeves in glossy blue material\",\n          \"Fitted bodice\",\n          \"Flared skirt with yellow panel and white hem detail\",\n          \"High-fashion costume-inspired silhouette\",\n          \"Slight reflective finish on fabric\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Standing with body slightly turned away\",\n      \"body_position\": \"Torso twisted backward toward camera emphasizing back and shoulder line\",\n      \"hands\": \"Arms relaxed downward with slight bend\",\n      \"head_direction\": \"Turned over shoulder toward camera\",\n      \"gaze\": \"Direct confident eye contact\",\n      \"details\": [\n        \"Back slightly arched\",\n        \"Shoulders angled for dynamic silhouette\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Coastal outdoor modern setting\"}\",\n      \"background\": [\n        \"Small modern structure painted in bold horizontal blue-and-white stripes\",\n        \"Flat roof with clean geometric architecture\",\n        \"Large glass doors and beige entrance detail\",\n        \"Dry grassy terrain with sand patches and stone edging\",\n        \"Tall slender palm trees bending slightly in coastal breeze\",\n        \"Calm blue ocean with distant landforms\",\n        \"Vivid blue sky with large soft white clouds\",\n        \"Minimal white concrete benches and low platforms\"\n      ],\n      \"atmosphere\": \"Bright sunny coastal day with crisp shadows and vibrant colors\"\n    },\n    \"lighting\": {\n      \"type\": \"Natural sunlight\",\n      \"style\": \"Strong direct daylight\",\n      \"effect\": \"Crisp shadows, high contrast, vibrant color rendering with clear highlights\"\n    },\n    \"mood\": [\n      \"Confident\",\n      \"Vibrant\",\n      \"Fashion-forward\",\n      \"Sunny\",\n      \"Editorial\"\n    ],\n    \"technical\": {\n      \"framing\": \"Mid to full-body shot\",\n      \"camera_angle\": \"Slightly low angle\"\n    }\n  }\n}",
+    "title": "Coastal High Fashion Editorial",
+    "description": "A structured, high-fashion editorial prompt for a subject in a bold royal blue and yellow costume-inspired dress set against a modern coastal background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879959054_0nybl5_HHXukRubEAAN0fa.jpg",
+      "https://cms-assets.youmind.com/media/1777879959032_ugeieo_HHXuk2MagAA3X73.jpg",
+      "https://cms-assets.youmind.com/media/1777879959061_zgbunl_HHXulaMaQAAoi8J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18004,
+    "content": "A beautiful young South Asian woman with long, wavy dark brown hair, fair skin, and a radiant smile, wearing a stylish white pleated blouse with ruffled collar and sleeves, sitting at a modern glass table. She is holding a glass of red wine in her right hand, looking confidently to the side. \n\nIn the foreground on the table is a {argument name=\"product name\" default=\"Nestlé Fruita Vitals Gold Range \"Red Grapes\" juice\"} bottle with golden cap and grape imagery. \n\nBackground features a bright, luxurious modern interior with a large geometric glass dome ceiling and natural daylight streaming in. \n\nTop left corner has the Nestlé Fruita Vitals Gold Range logo. Large bold maroon text in the upper right says \"{argument name=\"slogan\" default=\"A SIP MEANS THE WORLD!\"}\". \n\nProfessional commercial photography style, vibrant colors, sharp details, bright and airy atmosphere, advertising campaign aesthetic.",
+    "title": "Commercial Beverage Advertisement Scene",
+    "description": "A professional advertising campaign prompt featuring a South Asian woman in a luxury modern interior promoting a juice product.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879966242_g5xqj0_HHXWICUbAAEBQIt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18002,
+    "content": "Create elegant woman walking outdoors in a {argument name=\"clothing\" default=\"sparkling top and light trousers\"}, confident stride. Style: fashion editorial photography, ultra-realistic, cinematic outdoor look. Camera: 50mm lens, full-body shot, natural depth. Action: walking forward with flowing shrug, strong gaze. Outfit: sequined top, sheer long shrug, light trousers, subtle accessories. Lighting: natural sunlight with soft highlights and background bokeh. Location: {argument name=\"location\" default=\"garden pathway with brick wall and greenery\"}.",
+    "title": "Elegant Garden Fashion Editorial",
+    "description": "A high-fashion editorial prompt for a cinematic shot of a woman in a sparkling outfit walking through a sunlit garden pathway.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879965557_qjg1i2_HHXOBriaQAEH8hH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17784,
     "content": "Ultra-realistic fashion editorial portrait photography, a {argument name=\"hair color\" default=\"platinum blonde\"} short-haired {argument name=\"person\" default=\"young woman\"} in a dynamic pose, half-kneeling against a slanted surface, using a Dutch angle composition to create avant-garde visual tension. Platinum-white shoulder-length short hair with slightly flipped ends, dark almond eyes, fair and delicate skin, and a cold, detached expression with a high-end feel. Wearing a {argument name=\"top\" default=\"white ribbed off-the-shoulder long-sleeved cropped top\"} with a sheer fabric and knitted texture, paired with high-waisted bright red tight mini shorts, opaque white over-the-knee stockings, and red patent leather stiletto heels with clear mirror reflections on the surface. Soft diffused studio lighting comes from the upper right, forming delicate gradient shadows on the waist and jawline, with exquisite highlight reflections visible on the patent leather shoes. Minimalist gray-beige studio background, clean and pure without clutter. The overall color scheme consists of white, red, and gray, forming a high-contrast minimalist and harmonious palette. Medium format camera texture, shallow depth of field blur, high-resolution skin texture and fabric details, and an overall avant-garde, sophisticated, and high-fashion editorial vibe.",
     "title": "Yohji Yamamoto Style Editorial Portrait",

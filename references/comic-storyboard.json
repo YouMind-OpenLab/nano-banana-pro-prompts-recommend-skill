@@ -1,5 +1,15 @@
 [
   {
+    "id": 17992,
+    "content": "A wide side-angle shot captures a young woman seated in her office workspace. The camera sits at a slight diagonal, providing a three-quarter view of both her body and the contemporary desk setup, enhancing depth while introducing a slightly unpolished, candid feel typical of early digital photography.\nOutfit: {argument name=\"clothing\" default=\"white dress shirt with rolled sleeves, slightly loosened patterned tie, slim black trousers or pencil skirt, white socks, beige sneakers\"} — all actively burning. Her long hair is slightly messy from the heat.\nScene: fire spreads across the floor, walls, and glass partitions. The desk, CRT monitor, keyboard, coffee mug, and mouse reflect the flames.\nLighting: {argument name=\"lighting style\" default=\"harsh on-camera flash (Y2K digital look)\"} creates sharp highlights and flattens parts of the scene. Fire is overexposed in places with clipped highlights. Conflicting color temperatures: cool flash vs warm firelight.\nDigital look: visible noise in shadows, slight color banding, over-sharpened edges, compressed dynamics. High depth of field, everything in focus, flash-frozen moment.\nMood: absurd, darkly humorous realism. Calm young woman working while everything burns, making direct eye contact.\nColor palette: dark gray, desaturated neutrals interrupted by aggressive oranges and yellows from fire.",
+    "title": "Absurdist Office Workspace Fire",
+    "description": "A darkly humorous prompt depicting a woman calmly working at her desk while her entire office and clothing are on fire, utilizing a Y2K digital flash look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777879960582_zdpqir_HHZ-_SxaMAAGJ95.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17775,
     "content": "Stylized digital illustration of a young woman with a warm, confident smile, executed in a pen-and-ink cross-hatching style. She has short, wavy {argument name=\"hair color\" default=\"purple\"} hair with prominent blonde face-framing streaks, parted down the middle. Her facial features are rendered with fine stippling and line work, highlighting her expressive eyes, light freckles, and a friendly grin. She wears a {argument name=\"shirt color\" default=\"dark purple\"} textured t-shirt, a delicate necklace, hoop earrings, and thin rings on her fingers, with one hand resting gently under her chin. The background is a solid, dense black cross-hatched texture that makes the subject pop, giving the piece a classic graphic novel or hand-drawn editorial aesthetic.",
     "title": "Pen-and-Ink Cross-Hatching Illustration",
