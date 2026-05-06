@@ -20,14 +20,89 @@
     "needReferenceImages": false
   },
   {
-    "id": 18008,
-    "content": "A vibrant, 3D illustration features a stack of four cartoon characters against a {argument name=\"background color\" default=\"warm, gradient orange\"} background. The characters are predominantly {argument name=\"character colors\" default=\"purple and blue\"}, with large, expressive eyes and wide smiles. At the top is a large, purple creature with big, floppy ears and a white face, resembling a rabbit or a monkey. It has orange eyes and pink cheeks. Below it is a smaller, blue-faced creature with orange eyes and a wide, toothy grin, also with purple arms and body. It has a light blue heart shape on its chest. The third level features two characters side-by-side. On the left is a purple cat-like creature with blue eyes and a pink collar. On the right is a white, bald character with orange eyes and orange accents on its arms and body, adorned with small orange hearts. At the bottom, partially visible, is a purple dog-like creature with a playful expression. The entire composition is surrounded by numerous small, colorful heart shapes in shades of purple, pink, orange, and blue, adding to the cheerful and whimsical atmosphere. The characters are perched on a {argument name=\"base type\" default=\"textured, purple base that resembles a mound of soft clay or frosting\"}.",
-    "title": "3D Whimsical Character Stack",
-    "description": "A vibrant 3D illustration prompt for a stack of adorable, expressive cartoon characters on a warm gradient background.",
+    "id": 18250,
+    "content": "Create a high-detail mixed-media editorial poster of a person ( Keep the face of the person 100% accurate from the reference image ) in a left-facing side profile. It should look like a real printed poster, not digital—use paper grain, ink texture, halftone, and slight scan imperfections.\n\nPortrait in matte black tones with realistic skin detail, not flat. Short twisted locs on top, faded sides, trimmed beard. Add white hand-drawn outlines on some hair strands.\n\nInclude a hoop earring with a cross pendant and a thin chain with a cross. Expression calm and serious.\n\nAdd white hand-drawn dots, lines, and abstract symbols across the face, neck, and shoulders, like chalk or marker on a printed photo.\n\nBackground: {argument name=\"background color\" default=\"vivid yellow\"} with black graffiti-style doodles (crowns, eyes, stars, abstract shapes). Add subtle olive/gold accents.\n\nTop text: {argument name=\"text\" default=\"smack\"} in bold black sans-serif.\n\nComposition: vertical poster, head and shoulders, slightly left-centered, facing left.\n\nColors: yellow, black, white, small olive accents.\n\nStyle: raw, street-art, zine-like, real printed poster feel. No glossy or 3D look. Avoid smooth digital finish or AI artifacts.\n\nAspect ratio 4:5",
+    "title": "Raw Mixed-Media Street Art Poster",
+    "description": "A high-detail mixed-media editorial poster prompt with a street-art zine aesthetic, incorporating paper grain, ink textures, and graffiti-style doodles.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777879968353_lftfx0_HHYzim9aQAAalDT.jpg"
+      "https://cms-assets.youmind.com/media/1777965765048_c3tdl0_HHgkL66XYAA1x9U.jpg",
+      "https://cms-assets.youmind.com/media/1777965765506_n597hm_HHgkL20WQAAYoGx.jpg",
+      "https://cms-assets.youmind.com/media/1777965765067_w8uiis_HHgkL1yXQAAKoKV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18292,
+    "content": "Create a high-detail {argument name=\"art style\" default=\"contemporary mixed-media portrait illustration\"} of a person attached in the uploaded reference image (\nDo not change facial features of the person from the uploaded photo. Keep face of person 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic) in side-facing three-quarter profile, styled as a premium editorial art print / collage poster. Make it look like a real handcrafted screenprint–collage artwork scanned from paper — authentic print texture, halftone dots, paper grain, cut-paper layering, imperfect registration, and analog feel only. No AI-digital look.\n\nThe face is high-contrast black-and-off-white halftone/stipple (like old newspaper/photo-transfer), slender and elegant, calm serious expression, direct gaze, short dark hair with one soft curl over the forehead. A bold {argument name=\"eye band color\" default=\"hot-pink/magenta\"} horizontal eye band crosses both eyes (semi-opaque, eyes still visible beneath). Hair is a solid black cutout shape.\n\nLayered collage fragments cut diagonally across the portrait: sky-blue cloud texture over forehead/cheek/jaw, lime-yellow geometric maze pattern on cheek/jaw, bold black-and-white diagonal stripes on the back silhouette, dark navy network scribble near the neck, beige torn-paper fragment, and lower neck/shoulder areas with overlapping warm orange, coral, peach, turquoise, and magenta textile patterns (zigzags, chevrons, diagonal stripes, mottled textures).\n\nVertical portrait composition, head dominant and slightly right of center, clean negative space, plain warm off-white paper background with subtle grain. Tiny artist-signature scribble in lower-right corner only.\n\nHighly tactile, matte, scanned print aesthetic with visible paper tooth, ink absorption, and minor imperfections. Color palette: black, off-white/cream, hot pink/magenta, sky blue/cyan, lime yellow-green, dark navy, beige, orange/coral/peach, purple-magenta accents.\n\nEditorial screenprint/risograph collage style — bold, graphic, refined, and physically real. Avoid photorealism, glossy gradients, 3D shading, smooth vectors, watercolor, text, or extra elements.\nAspect ratio {argument name=\"aspect ratio\" default=\"4:5\"}",
+    "title": "Mixed-media collage portrait illustration",
+    "description": "A sophisticated prompt for generating high-detail contemporary mixed-media portraits that look like handcrafted screenprint-collage artwork, designed to maintain the facial likeness of a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965789799_9j9ag4_HHfg7KSXEAAszAP.jpg",
+      "https://cms-assets.youmind.com/media/1777965789831_wsaovf_HHfg7KIXoAACMuX.jpg",
+      "https://cms-assets.youmind.com/media/1777965789778_d3z2w0_HHfg7NsXgAAZ9Ka.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18268,
+    "content": "A dramatic double-exposure portrait of a {argument name=\"subjects\" default=\"man and a woman\"} facing opposite directions, their profiles back-to-back. The man appears rugged with short hair and a beard, looking left with a serious expression; the woman has soft features, tied-back hair, and looks right with a calm yet intense gaze. Their faces seamlessly merge in the center through an explosive blend of abstract paint and energy. {argument name=\"warm colors\" default=\"Vivid splashes of fiery reds, oranges, and yellows\"} burst from the center, transitioning into {argument name=\"cool colors\" default=\"cool blues and teals\"}, creating a striking contrast between warmth and cold. The paint appears fluid and dynamic, like liquid fire and water colliding, with glowing particles and embers scattered throughout. The lighting is cinematic, with high contrast and detailed skin textures.",
+    "title": "Dynamic Double-Exposure Artistic Portrait",
+    "description": "A dramatic double-exposure prompt merging male and female profiles with explosive abstract paint and energy effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965774576_9h8l5j_HHezn7UaIAAlp79.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 18291,
+    "content": "{ \"type\": \"image_prompt\", \"title\": \"Kaelen: The Verdant Whisper\", \"subject\": { \"character\": \"{argument name=\"character name\" default=\"Kaelen\"}\", \"source\": \"Original Character Concept\", \"focus\": \"legendary heroic propaganda poster\" }, \"composition\": { \"structure\": { \"top_section\": { \"description\": \"Large-scale symbolic portrait of Kaelen wearing a {argument name=\"accessory\" default=\"leather steampunk mask and mechanical goggles\"}\", \"purpose\": \"dominant emotional focal point\" }, \"middle_section\": { \"description\": \"Narrative collage featuring a glowing spirit tree, rebel silhouettes, and mechanical wildlife\", \"purpose\": \"world-building and lore fragments\" }, \"bottom_section\": { \"description\": \"Full-body grounding shot of Kaelen standing on a mossy peak with a druidic staff\", \"purpose\": \"central grounding and heroic posture\" } }, \"layout\": { \"style\": \"hierarchical editorial collage\", \"balance\": \"center-weighted vertical flow\", \"format\": \"9:16 vertical poster\" } }, \"visual_style\": { \"techniques\": [ \"double exposure\", \"ink wash diffusion\", \"layered visual storytelling\" ], \"elements\": { \"background_layers\": [ \"clean white negative space\", \"misty valley textures\", \"ink-splatter edges\" ], \"aesthetic\": { \"tone\": \"{argument name=\"aesthetic tone\" default=\"Poetic Nature-Punk\"}\", \"color_style\": \"Vibrant forest greens, deep earth tones, and electric blue energy pops\", \"quality\": \"8k, ultra-refined, cinematic editorial\" } } }, \"design_principles\": [ \"high negative space usage\", \"sharp focus on facial textures\", \"strong vertical continuity\", \"luxury magazine aesthetic\" ] }",
+    "title": "Heroic Nature-Punk Collage Poster",
+    "description": "A complex editorial collage prompt for a heroic character poster with nature-punk and steampunk aesthetic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965788345_0b8p99_HHdvXQ7W4AAzpvL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18282,
+    "content": "A medium straight-on shot of a {argument name=\"subject\" default=\"young woman DJing\"} in a {argument name=\"environment\" default=\"minimalist desert\"}, surrounded by {argument name=\"creatures\" default=\"7 snakes\"} slithering around her equipment on a sandy table. She wears sculptural sand-toned technical desert clothing with wrapped layers and utility straps.\nOutfit: sculptural desert tech-wear in sand tones, multi-layered, wrapped neckline, draped sleeves, utility straps and buckles, thick opaque fabric. The outfit has a feminine yet strong silhouette with cinched waist details and flowing draped elements.\nPose: relaxed yet focused, looking down at the mixer, both hands on the controls, headphones on.\nSnakes: seven snakes coiled and slithering around the DJ gear and table, adding a surreal, hypnotic element.\nSetting: minimalist barren desert, flat pale sand, no vegetation, soft beige sky, distant horizon.\nLighting: bright on-camera flash, hard shadows with clean pops and subtle specular highlights, even exposure, no vignette.\nCamera: point-and-shoot digital camera look, straight-on angle, deep focus, clean and unmanipulated.\nMood: surreal, hypnotic, editorial, grounded.\nColor Palette: sand, taupe, stone, muted browns, off-white neutrals.\nHEX VALUES:\n#e9e2d8, #d7cec0, #c6b9a7, #a79a86, #8f8473, #7a7061, #645c4f, #616f4ef, #bdb2a1, #9c927e, #71695a, #5b5346, #d2c9b9, #a49882\nImage Labels (for reference):\nheadphones on\nfocused, looking down\nsculptural desert outfit\nminimalist desert background\nhands on the mixer\nprofessional DJ setup\n7 snakes around equipment\nbright flash hard shadows\nfull outfit in frame\nstraight-on angle",
+    "title": "Surreal Desert DJ with Snakes",
+    "description": "A surreal, editorial-style prompt featuring a woman DJing in a minimalist desert surrounded by seven slithering snakes, captured with a point-and-shoot camera look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965783585_b29ntk_HHcPmlgasAAi_q5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18275,
+    "content": "Hyperrealistic 4K HDR fashion editorial photo of a young man with black-framed glasses, wearing a {argument name=\"hoodie\" default=\"dark forest green oversized hoodie\"}, a dark beanie hat, wide-leg baggy pants, and classic canvas sneakers — standing next to an {argument name=\"companion\" default=\"anthropomorphic cartoon duck character\"} dressed in a {argument name=\"jacket\" default=\"gold bomber jacket\"}, black joggers, gold chain medallion, and yellow high-top sneakers. Both striking a bold, arrogant, confident street-style pose. Urban environment with vibrant graffiti-covered concrete walls, spray-painted tags and throw-ups, neon orange and yellow dripping lettering, Japanese kanji murals splashed across the background. Boombox sitting on the ground beside them. Saturated punchy colors — electric yellow, deep forest green, neon orange, bold red accents. Graffiti text tags: \"RAP\", \"MUSIC\", \"ART INFINITY\", \"OVA10\", \"EXIT\", \"HRN\". Street fashion photography aesthetic mixed with urban illustration. Cinematic dramatic lighting, deep shadows, rim light. Ultra-sharp 4K HDR details, photorealistic textures, high contrast, fashion magazine quality shot.",
+    "title": "Cyberpunk Streetwear Editorial",
+    "description": "A vibrant fashion editorial prompt mixing hyper-realistic human photography with urban illustration and graffiti elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965779659_jozwp4_HHcOHGUbgAAcrpN.jpg",
+      "https://cms-assets.youmind.com/media/1777965779674_fmm3hi_HHcOHT8a4AAFlwQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18265,
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"appearance\": \"Young woman 'Sadie Sink' with fair skin and noticeable freckles across her chest, arms, and face.\",\n      \"hair\": \"Vivid red hair styled in an intricate, high braided updo, with a few loose, wavy tendrils framing her face and small decorative hair pins.\"\n    },\n    \"apparel\": {\n      \"clothing\": \"A glittering, heavily sequined two-piece outfit consisting of a teal, green, and gold crop top with a sweetheart neckline and thick straps, paired with a matching draped, wrapped skirt in gold and teal sequins.\",\n      \"accessories\": \"A delicate, multi-layered thin gold belly chain around the waist, and several thin gold bangles on both wrists.\"\n    },\n    \"pose_and_expression\": {\n      \"pose\": \"Both arms are raised with hands resting gently on the sides of her hair updo.\",\n      \"expression\": \"Playful and cheeky, looking directly at the camera with her tongue sticking out slightly.\"\n    },\n    \"environment\": {\n      \"setting\": \"Cozy, bohemian-style bedroom.\",\n      \"background_elements\": \"A bed with dark grey or black sheets, warm beige walls, and two distinct macrame wall hangings (one dark blue-grey, one cream-colored).\"\n    },\n    \"technical_details\": {\n      \"lighting\": \"Warm, soft, ambient indoor lighting with a slight glow.\",\n      \"style\": \"Photorealistic, highly detailed, vibrant colors, fashion portrait photography.\"\n    },\n    \"compiled_full_prompt\": \"A photorealistic portrait of a young woman with fair freckled skin and vivid red hair styled in an intricate braided updo with loose tendrils. She is wearing a sparkling, sequined two-piece outfit featuring a teal and gold crop top and a matching draped skirt, accessorized with a delicate gold belly chain and gold wrist bangles. She is posing playfully with her hands on her head and tongue slightly out. The background is a cozy, warm-lit bedroom featuring a bed with dark bedding and bohemian macrame wall hangings. Soft, warm ambient lighting, highly detailed, 8k.\"\n  }\n}",
+    "title": "Bohemian Sequin Fashion Portrait",
+    "description": "A comprehensive prompt describing a playful fashion portrait in a bohemian bedroom setting with detailed sequined attire and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965773408_5pvidf_HHcI-B5a0AAfnxn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18270,
+    "content": "Edit this photo without changing face, turning it an artistic portrait. The male boy should be elegantly seated on the floor, wearing a {argument name=\"top color\" default=\"royal purple\"} top, {argument name=\"pants style\" default=\"soft loose white jeans\"}, and {argument name=\"footwear\" default=\"chunky gray and white sneakers\"}. Her facial expression is cute smile while looking upwards. The background should be an artistic monochrome (black and white) composition featuring a soft close-up side profile of the same face. Keep Face and body 100% match with reference image uploaded it’s very important.Watermark: At the bottom, in a lower left corner, in small, bold, italicized brown text, write “Dpixel” and add a shooting star.watermark spelling correction is very important.",
+    "title": "Artistic Royal Purple Portrait",
+    "description": "A sophisticated artistic portrait prompt that transforms a reference photo into a high-fashion shot featuring royal purple and monochrome background elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965777273_rls9au_HHb27nlasAAx6Nx.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 18015,

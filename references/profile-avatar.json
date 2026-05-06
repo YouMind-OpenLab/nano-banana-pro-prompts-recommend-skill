@@ -10,6 +10,174 @@
     "needReferenceImages": false
   },
   {
+    "id": 18284,
+    "content": "use the {argument name=\"reference\" default=\"uploaded image\"} as a strict reference for the woman's face, body, and overall identity. preserve her exact facial features, proportions, figure, natural skin tone, used reference image hair color, and overall presence with no alterations. she must look like the same woman from the reference image.\n\nultra realistic, photorealistic, raw iphone photo, candid {argument name=\"setting\" default=\"y2k rooftop party moment\"}. the woman is standing on a city rooftop at night, warm string lights around her, blurred skyline in the background, slight wind in the air, intimate glamorous atmosphere. she is photographed by a friend on an iphone from a slight low angle. her body is turned slightly to the side, one leg bent, one hand holding a tiny metallic bag, the other lifting a coupe glass. her mood is confident, mysterious, playful, and elegant. she is wearing a {argument name=\"outfit\" default=\"y2k red chainmail mini dress\"} with a soft draped neckline, low waist feel, delicate sparkle, and minimal silhouette, silver earrings, glossy lips, sleek hair with a side part, polished natural makeup. realistic iphone low-light photo, subtle flash, visible skin texture, slight motion blur, natural smartphone sharpness, imperfect composition, soft city bokeh, nostalgic early-2000s rooftop glamour.",
+    "title": "Y2K Rooftop Party Candid Photo",
+    "description": "A prompt designed for a candid, low-light iPhone-style photo of a woman at a Y2K-themed rooftop party, emphasizing realistic skin textures and a nostalgic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965784469_dp17vd_HHfFCPrbAAARzcr.jpg",
+      "https://cms-assets.youmind.com/media/1777965784529_a7cmyi_HHfFC9ubMAAUgtO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18293,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": \"{argument name=\\\"facial expression\\\" default=\\\"Cute playful expression with a gentle smile, slightly biting one side of the bottom lip, eyes soft and engaged\\\"}\",\n        \"hair\": \"Use uploaded reference image, keep identity exact, long wavy flowing naturally over shoulders\",\n        \"accessories\": [\n          \"Minimal rings on fingers\",\n          \"Subtle natural nails\"\n        ],\n        \"details\": [\n          \"Natural skin texture with soft indoor lighting glow\",\n          \"Light cheek warmth and natural highlights\",\n          \"No heavy retouching, realistic finish\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\",\n        \"features\": [\n          \"Defined waist\",\n          \"Natural curves\",\n          \"Relaxed posture\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"top\": \"{argument name=\\\"top clothing\\\" default=\\\"Fitted pink long-sleeve crop top\\\"}\",\n        \"bottom\": \"{argument name=\\\"bottom clothing\\\" default=\\\"Soft peach lounge shorts with relaxed fit\\\"}\",\n        \"fit\": \"Comfortable, casual home outfit with natural drape\"\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Seated on bathroom counter\",\n      \"body_position\": \"Side-facing body with slight twist toward mirror\",\n      \"hands\": \"One hand holding phone close to face in selfie position, other hand resting on thigh\",\n      \"head_direction\": \"Slightly turned toward mirror\",\n      \"gaze\": \"Looking at phone screen\",\n      \"details\": [\n        \"Mirror selfie perspective\",\n        \"Camera (phone) held close to face creating intimate framing\",\n        \"Natural seated posture with relaxed shoulders\",\n        \"Subtle forward lean enhancing closeness to camera\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Modern bathroom interior\",\n      \"background\": [\n        \"Large mirror reflecting subject\",\n        \"White door and neutral walls\",\n        \"Bathroom counter and sink\",\n        \"Soft indoor ambient lighting\"\n      ],\n      \"atmosphere\": \"Clean, casual home setting\"\n    },\n    \"lighting\": {\n      \"type\": \"Soft indoor lighting\",\n      \"style\": \"Natural even lighting\",\n      \"effect\": \"Gentle shadows, warm tones, realistic contrast\"\n    },\n    \"mood\": [\n      \"Cute\",\n      \"Playful\",\n      \"Casual\",\n      \"Candid\",\n      \"Relaxed\"\n    ],\n    \"technical\": {\n      \"framing\": \"Medium shot via mirror reflection\",\n      \"camera_angle\": \"Mirror selfie angle\",\n      \"focal_length\": \"28-35mm smartphone perspective\",\n      \"style\": \"Photorealistic casual photography\",\n      \"quality\": [\n        \"Sharp focus\",\n        \"Natural colors\",\n        \"Balanced contrast\",\n        \"Realistic textures\"\n      ]\n    }\n  }\n}",
+    "title": "Realistic Mirror Selfie in Pink Crop Top",
+    "description": "A detailed structured prompt for generating a photorealistic mirror selfie of a woman wearing a pink crop top and peach lounge shorts in a modern bathroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965789999_84ez44_HHevVUTboAAcEQs.jpg",
+      "https://cms-assets.youmind.com/media/1777965789652_b047mq_HHevWcMbYAEk4kS.jpg",
+      "https://cms-assets.youmind.com/media/1777965789681_4f3pd1_HHevXZsaMAA_dF5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18260,
+    "content": "{\n  \"subject\": \"{argument name=\"subject description\" default=\"Man in mustard turtleneck and white trousers\"}\",\n  \"pose\": \"Seated on stool, hand to chin, leaning forward\",\n  \"background\": \"{argument name=\"background style\" default=\"Textured dark blue and grey studio canvas\"}\",\n  \"lighting\": {\n    \"type\": \"{argument name=\"lighting type\" default=\"Rembrandt\"}\",\n    \"key_light\": \"Soft diffused side light\",\n    \"rim_light\": \"Subtle\"\n  },\n  \"camera_settings\": {\n    \"focal_length\": \"85mm\",\n    \"aperture\": \"f/1.8\",\n    \"quality\": \"8k, cinematic, photorealistic\"\n  }\n}",
+    "title": "Classic Studio Male Portrait",
+    "description": "A cinematic male portrait prompt featuring Rembrandt lighting and specific camera settings for a professional studio look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965770395_a53961_HHel-EFXwAAxJan.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18248,
+    "content": "A hyper-photorealistic studio portrait of the same female subject under colored gel lighting.\n\nScene:\nDark background with {argument name=\"neon colors\" default=\"red and blue\"} neon lighting hitting opposite sides of her face, soft shadows and glow transitions.\n\nCamera settings:\nCCD digicam base with visible grain, slight color inconsistency enhanced by neon lights, direct flash subtly filling shadows. Portra 400 tones layered: warm skin balance maintained despite colored lighting, soft highlight roll-off.\n\nMakeup:\nRosy complexion, dewy pores visible, feathery brows, thin wing liner, wispy lashes, grey contacts reflecting colored light, pink gloss lips.\n\nHair:\n{argument name=\"hair style\" default=\"Long layered hair with inward upward curls\"}, softly moving, slightly windswept, catching colored light on edges.\n\nNegative prompt:\nno cyberpunk overgrading, no oversaturated neon, no plastic skin",
+    "title": "Neon Gel Lighting Studio Portrait",
+    "description": "A hyper-photorealistic studio portrait prompt featuring dramatic red and blue neon gel lighting on a subject with CCD digicam grain and Portra 400 tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965764048_8azo3y_HHeQ5lhakAEWsBb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18254,
+    "content": "A hyper-realistic charcoal and graphite portrait of a handsome man with {argument name=\"hair style\" default=\"thick, dark curly hair\"}. He is leaning his head against his hand in a pensive, intense pose. Use {argument name=\"lighting\" default=\"deep chiaroscuro lighting\"} to create dramatic highlights on his face and forearm, with the background dissolving into {argument name=\"background style\" default=\"heavy, textured black charcoal strokes\"}. Every detail is meticulously rendered: the individual curls of his hair, the subtle stubble on his jaw, and the reflective moisture in his eyes. The style should feel like a traditional fine-art sketch on textured paper, featuring visible cross-hatching and blended smudges for depth. Monochrome, high contrast, moody, and cinematic.",
+    "title": "Hyper-Realistic Charcoal Pensive Portrait",
+    "description": "A fine-art style prompt for a hyper-realistic charcoal and graphite portrait of a pensive man with dramatic chiaroscuro lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965767626_ojpdpg_HHeHJe1XoAAkyOW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18286,
+    "content": "{\n  \"generation_details\": {\n    \"model_id\": \"gemini-3-flash-image-nano-banana-2\",\n    \"input_reference_image\": \"1000005827.jpg\",\n    \"task\": \"image_edit_and_composition\",\n    \"prompt\": \"{argument name=\"instruction\" default=\"Remove the city background and replace with a lush green grass nature field with a dirt path and sun-dappled trees. Change the woman's cream dress to a matching black Anarkali style dress with the same gold embroidery patterns.\"} Add {argument name=\"extra detail\" default=\"three small black and white goat kids interacting with her\"}; she is smiling and looking down at them affectionately. High definition face, 8k resolution, cinematic lighting.\",\n    \"parameters\": {\n      \"aspect_ratio\": \"4:5\",\n      \"resolution\": \"3072x4096\",\n      \"guidance_scale\": 7.5,\n      \"output_format\": \"webp\",\n      \"maintain_subject_identity\": true\n    },\n    \"style_tags\": [\n      \"Photorealistic\",\n      \"Nature Photography\",\n      \"Soft Bokeh\",\n      \"Vibrant Colors\"\n    ]\n  }\n}",
+    "title": "Nature Field Portrait Image Edit",
+    "description": "A detailed prompt for modifying an image to replace the background with a nature field and changing the subject's outfit to an Anarkali dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965785626_ithk7h_HHeCWw5bAAA0vdl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18281,
+    "content": "A high-angle selfie of a {argument name=\"subject\" default=\"young woman wearing a black hijab\"}, posing casually inside a {argument name=\"setting\" default=\"modern office environment\"}. She is wearing round sunglasses with thin frames. Her facial expression shows a playful duck face (pout lips), giving a cute, slightly flirty and soft vibe.\nOutfit: a {argument name=\"outfit\" default=\"black jacket with a vintage logo patch on the front and a brown corduroy collar\"}, paired with a finely pleated black skirt. She is holding a green matcha latte in a transparent plastic cup with a straw in her right hand.\nBackground: a realistic office setting such as a workspace or break area, featuring desks, office chairs, computers/laptops, and small items like files or stationery. The floor may be tiled or carpeted. Through the window, there’s a slightly wet, post-rain atmosphere outside, creating a fresh mood. Modern glass elements or office partitions are visible.\nComposition: the image feels spontaneous, like a real phone selfie. The framing is slightly imperfect and natural, giving a candid, unposed look.\nLighting: a mix of soft natural light from the window and indoor white office lighting, balanced and not too harsh.\nFocus: sharp focus on the face and outfit, with a shallow depth of field (slightly blurred background).\nStyle: ultra-realistic, candid selfie, iPhone camera look, natural lighting, high-detail skin texture, aesthetic daily life, slightly grainy, real-life vibe, 4K.",
+    "title": "Modern Office Hijab Selfie",
+    "description": "A realistic prompt for a high-angle phone selfie of a young woman in a hijab, capturing a casual and playful moment within a modern office setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965782469_x7hgiv_HHd4qSTaYAAvkbT.jpg",
+      "https://cms-assets.youmind.com/media/1777965782542_xak21q_HHd4qQub0AABmd9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18274,
+    "content": "{ \"type\": \"image_prompt\", \"version\": \"1.0\", \"description\": { \"subject\": { \"identity\": \"Use uploaded reference image, keep identity exact\", \"appearance\": { \"expression\": \"Confident composed expression with slightly pursed lips and direct gaze\", \"hair\": \"Use uploaded reference image, keep identity exact, hair with , smooth with slight natural volume\", \"accessories\": [ \"Thin silver necklace\", \"Drop earrings with light blue stones\", \"Minimal rings\", \"Slim bracelet\" ], \"details\": [ \"Defined brows and sharp eye makeup\", \"Glossy lips with natural tone\", \"Subtle skin highlights on cheekbones and shoulders\", \"Realistic skin texture without over-retouching\" ] }, \"body\": { \"type\": \"Slim feminine figure\", \"features\": [ \"Defined collarbones\", \"Slim arms\", \"Natural proportions\" ] } }, \"clothing\": { \"dress\": { \"type\": \"Elegant fitted evening dress\", \"color\": \"Light pink\", \"design\": [ \"Thin spaghetti straps\", \"Lace trim detail along neckline with a little sign 'Keor' embroidered on border\", \"Slight sweetheart shape\", \"Smooth satin-like fabric with subtle sheen\" ], \"fit\": \"Body-hugging upper silhouette\" } }, \"pose\": { \"stance\": \"Standing on balcony taking selfie\", \"body_position\": \"Upper body angled slightly toward camera\", \"hands\": \"One arm extended holding selfie camera perspective, other hand gently placed near chin\", \"head_direction\": \"Slight tilt\", \"gaze\": \"Looking directly into camera\" }, \"environment\": { \"location\": \"Outdoor balcony in rome\", \"time\": \"Blue hour / early evening\", \"background\": [ \"Coliseum in backdrop\", \"City rooftops and parked cars below\", \"Soft gradient sky transitioning from blue to dusk tones\", \"Balcony railing\" ], \"atmosphere\": \"Calm evening with soft ambient light\" }, \"lighting\": { \"type\": \"Mixed natural and phone flash lighting\", \"style\": \"Flash-lit subject with soft ambient background\", \"effect\": \"Bright sharp illumination on face and upper body, slightly cooler tones in background, realistic contrast\" }, \"mood\": [ \"Modern\", \"Confident\", \"Evening lifestyle\", \"Minimal luxury\" ], \"technical\": { \"framing\": \"Close-up selfie framing\", \"camera_angle\": \"Slight high arm-length angle\", \"focal_length\": \"28mm equivalent\", \"style\": \"Photorealistic smartphone photography\", \"quality\": [ \"Sharp facial detail\", \"Natural color balance\", \"Slight background softness\", \"Realistic lighting contrast\", \"No over-saturation\" ] } } }",
+    "title": "Rome Balcony Selfie Lifestyle",
+    "description": "A detailed technical prompt for a photorealistic smartphone selfie taken on a balcony in Rome during blue hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965779262_1bu5ut_HHdz8RGbsAAP9nE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18264,
+    "content": "Studio portrait of a {argument name=\"subject\" default=\"woman with long wavy hair\"}, {argument name=\"lighting\" default=\"soft lighting\"}, elegant styling, high-resolution, using reference face",
+    "title": "Elegant Studio Portrait Prompt",
+    "description": "A simple but effective prompt for an elegant studio portrait using face reference for consistent identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965773364_x8fxeo_HHdsbxPWEAAi25L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18266,
+    "content": "Create an image features a close-up portrait of a young woman with dark hair and a nose ring, wearing a {argument name=\"clothing\" default=\"teal and gold patterned headscarf\"}. She has a gentle expression and is holding a {argument name=\"companion\" default=\"fluffy, grey cat\"} close to her face. The cat appears somewhat unimpressed or sleepy, with its amber eyes narrowed toward the camera. The photo has a nostalgic, film-like quality characterized by warm skin tones and a soft, slightly grainy texture. The background is simple and dark, which allows the focus to remain entirely on the bond between the woman and her feline companion. The overall composition feels intimate and candid, capturing a quiet, domestic moment. Without flower in hair please.",
+    "title": "Intimate Feline Companion Portrait",
+    "description": "A warm and nostalgic portrait prompt capturing a candid domestic moment between a woman and her fluffy cat with a film-like texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965774517_twd0a6_HHcdXDIaIAAE556.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18251,
+    "content": "A hyper-photorealistic portrait of the same female subject, preserving exact face, skin tone, and proportions.\n\nScene:\nSubject standing near a window with striped shadow patterns crossing her face, neck, and chest, wearing a {argument name=\"outfit\" default=\"chiffon lace white button-up sleeveless\"}, wind moving hair across her lips, dreamy editorial mood.\n\nCamera settings:\nEarly-2000s CCD digital camera with direct flash softened by daylight, visible grain, slight color inconsistency, bright highlights on nose and lips, imperfect handheld framing. Portra 400 color rendering: warm creamy skin, pastel whites, muted saturation, gentle highlight roll-off layered over flash harshness, neutral-to-warm white balance.\n\nMakeup:\nRosy complexion, dewy with visible pores, brushed-up feathery brows, thin wing eyeliner, wispy eyelashes, grey contact lenses, pink lip gloss.\n\nHair:\n{argument name=\"hair style\" default=\"Modern long layered style with inward upward curled ends\"}, messy windswept motion, loose strands crossing the face, airy volume.\n\nNegative prompt:\nno overly clean studio photo, no plastic texture, no face blur, no heavy film filter.",
+    "title": "Striped Window Shadow Editorial",
+    "description": "An editorial portrait prompt capturing a subject near a window with striped shadow patterns, utilizing an early-2000s CCD digital camera aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965765518_uhz4wr_HHcNc5UaoAAazmM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18267,
+    "content": "Create image: A hyper-photorealistic close-up beauty portrait of the same female subject, preserving exact facial identity.\n\nScene:\nSubject lying sideways with one hand framing her forehead and the other near her cheek, eyes looking upward, intimate soft editorial crop, visible fingers and natural hand anatomy.\n\nCamera settings:\nShot on an early-2000s CCD digital camera, direct on-camera flash, harsh flash falloff, bright hotspot on face and upper chest, slightly overexposed highlights, visible digital grain, imperfect snapshot framing. Color rendering inspired by Kodak Portra 400: warm creamy skin tones, pastel softness, muted saturation, gentle highlight roll-off layered over flash harshness. Neutral-to-warm white balance.\n\nMakeup:\nRosy complexion, dewy with visible pores, brushed-up feathery brows, thin wing eyeliner, wispy eyelashes, grey contact lenses, pink lip gloss.\n\nHair:\nModern messy windswept layered hair, inward upward curled ends, soft flyaways around the eyes, cheek, and lips.\n\nComposition:\nExtreme close-up, eyes and lips critically sharp, natural skin texture preserved, shallow softness around the edges.\n\nNegative prompt:\nno distorted fingers, no extra fingers, no plastic skin, no face change, no waxy makeup.",
+    "title": "Editorial CCD Close-up Beauty Portrait",
+    "description": "A close-up beauty portrait prompt mimicking early-2000s digital cameras and Portra 400 film tones with harsh flash and realistic skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965774521_rfczyg_HHcJzOybEAAwFHk.jpg",
+      "https://cms-assets.youmind.com/media/1777965774302_b9kiy6_HHcJzzfaQAA6qFk.jpg",
+      "https://cms-assets.youmind.com/media/1777965774321_vymlmr_HHcJ0XqaQAAjPe4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18261,
+    "content": "Create image: A hyper-photorealistic close-up portrait of the same female subject, preserving exact facial identity, skin tone, and proportions.\n\nScene:\nSubject leaning close against a {argument name=\"background\" default=\"plain dark grey wall\"}, messy hair blowing across her face, one shoulder slightly forward, intense soft gaze into camera, {argument name=\"atmosphere\" default=\"moody editorial bedroom atmosphere\"}.\n\nCamera settings:\nStrong CCD digicam aesthetic: direct flash, harsh shadow behind subject, bright facial highlights, visible grain, slight color inconsistency. Portra 400 skin rendering layered: warm balanced tones, creamy highlights, muted saturation. Shot on an {argument name=\"camera type\" default=\"early-2000s CCD digital camera\"}, direct on-camera flash, harsh flash falloff, bright hotspot on face and collarbone, slightly overexposed highlights, visible digital grain, imperfect snapshot framing. Color rendering inspired by Kodak Portra 400: warm creamy skin tones, pastel softness, muted saturation, gentle highlight roll-off layered over flash harshness. Neutral-to-warm white balance.\n\nMakeup:\nRosy complexion, dewy skin with visible pores, brushed-up feathery brows, thin wing eyeliner, wispy eyelashes, grey contact lenses, pink lip gloss.\n\nHair:\nModern layered hairstyle with inward upward curled ends, messy windswept movement, face-framing strands crossing the eyes and cheeks, airy volume at the crown.\n\nNegative prompt:\nno plastic skin, no over-smoothing, no face change, no HDR, no teal-orange grading, no overly perfect studio lighting.",
+    "title": "Moody Editorial CCD Digicam Portrait",
+    "description": "Achieves a vintage early-2000s digital camera aesthetic with direct flash, grain, and moody editorial bedroom vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965770905_h6zuey_HHcC4_AbAAARTVr.jpg",
+      "https://cms-assets.youmind.com/media/1777965770908_6jmi1i_HHcC5cfakAAb8st.jpg",
+      "https://cms-assets.youmind.com/media/1777965770989_n0iggc_HHcC54GasAAJI2N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18279,
+    "content": "32K ultra realistic DSLR 9:16 use uploaded face no change. Person sitting cross-legged on {argument name=\"setting\" default=\"autumn leaves\"}, calm direct look. Outfit: {argument name=\"outfit\" default=\"sweatshirt + cargo pants + sneakers\"} ” logo. Pose: one arm on knee, one hand on ground, relaxed. Background: {argument name=\"background\" default=\"park with big tree\"}, yellow-green leaves, soft bokeh. Natural sunlight, dappled shadows, cinematic, ultra detailed, HDR. PromptPixelRI signature. Negative: blur distortion face change.",
+    "title": "Autumn Park Relaxed Portrait",
+    "description": "A high-resolution DSLR prompt for a person sitting on autumn leaves in a park with soft bokeh background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965782118_q1a6v3_HHb9z2YWAAAbJIP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18278,
+    "content": "Hyper-realistic dark Red portrait cinematic image actions. (uploaded photo 100% face match) of a very stunning {argument name=\"subject\" default=\"19 years old age girl\"} (followed by given picture face) Soft moody cinematic lighting highlights her facial features naturally. She leans casually pose, wearing {argument name=\"top\" default=\"oversized red shirt\"}, and she wear {argument name=\"bottom\" default=\"wash lose jeans\"} she wear white sleepers. hair simple hair cover her eyebrows, well-fitted complement the serene, The background backlight Keep my face air",
+    "title": "Moody Red Cinematic Portrait",
+    "description": "A dark red-toned cinematic portrait prompt for a young woman leaning casually in a relaxed pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965780936_77hld9_HHb8xogWQAAnooV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18270,
+    "content": "Edit this photo without changing face, turning it an artistic portrait. The male boy should be elegantly seated on the floor, wearing a {argument name=\"top color\" default=\"royal purple\"} top, {argument name=\"pants style\" default=\"soft loose white jeans\"}, and {argument name=\"footwear\" default=\"chunky gray and white sneakers\"}. Her facial expression is cute smile while looking upwards. The background should be an artistic monochrome (black and white) composition featuring a soft close-up side profile of the same face. Keep Face and body 100% match with reference image uploaded it’s very important.Watermark: At the bottom, in a lower left corner, in small, bold, italicized brown text, write “Dpixel” and add a shooting star.watermark spelling correction is very important.",
+    "title": "Artistic Royal Purple Portrait",
+    "description": "A sophisticated artistic portrait prompt that transforms a reference photo into a high-fashion shot featuring royal purple and monochrome background elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965777273_rls9au_HHb27nlasAAx6Nx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18015,
     "content": "This image features a highly stylized silhouette profile of a young man with {argument name=\"hair style\" default=\"tousled, dark hair\"} and round glasses, set against a {argument name=\"background color\" default=\"vibrant, saturated red\"} background. The aesthetic leans heavily into a modern pop-art and street-art fusion, characterized by explosive, dynamic paint splatters in {argument name=\"splatter colors\" default=\"electric purple and bright yellow\"} that appear to trail off the subject’s head and shoulders, suggesting movement or a creative \"burst\" of thought.\n​The lighting is dramatic and high-contrast, utilizing a chiaroscuro effect where the subject's face is largely cast in deep shadow, while sharp red highlights define the bridge of his nose, lips, and neck. The overall composition is sleek and graphic, reminiscent of a contemporary digital illustration or a stylized comic book cover, evoking a sense of moody introspection combined with an energetic, artistic flair.",
     "title": "Pop Art Silhouette Splatter",

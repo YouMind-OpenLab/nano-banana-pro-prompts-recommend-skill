@@ -1,11 +1,31 @@
 [
   {
-    "id": 18008,
-    "content": "A vibrant, 3D illustration features a stack of four cartoon characters against a {argument name=\"background color\" default=\"warm, gradient orange\"} background. The characters are predominantly {argument name=\"character colors\" default=\"purple and blue\"}, with large, expressive eyes and wide smiles. At the top is a large, purple creature with big, floppy ears and a white face, resembling a rabbit or a monkey. It has orange eyes and pink cheeks. Below it is a smaller, blue-faced creature with orange eyes and a wide, toothy grin, also with purple arms and body. It has a light blue heart shape on its chest. The third level features two characters side-by-side. On the left is a purple cat-like creature with blue eyes and a pink collar. On the right is a white, bald character with orange eyes and orange accents on its arms and body, adorned with small orange hearts. At the bottom, partially visible, is a purple dog-like creature with a playful expression. The entire composition is surrounded by numerous small, colorful heart shapes in shades of purple, pink, orange, and blue, adding to the cheerful and whimsical atmosphere. The characters are perched on a {argument name=\"base type\" default=\"textured, purple base that resembles a mound of soft clay or frosting\"}.",
-    "title": "3D Whimsical Character Stack",
-    "description": "A vibrant 3D illustration prompt for a stack of adorable, expressive cartoon characters on a warm gradient background.",
+    "id": 18262,
+    "content": "Convert the image into a Perler bead pattern, preserving the pixel-style outlines and color distribution. Label each color area with its corresponding color code below the pattern. 1:1 image",
+    "title": "Perler Bead Pattern Creator",
+    "description": "A utility prompt for converting photographs into Perler bead patterns, including color mapping and pixel-style outlines.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777879968353_lftfx0_HHYzim9aQAAalDT.jpg"
+      "https://cms-assets.youmind.com/media/1777965771085_hnz2ly_HHgAMcVXgAEStzf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18283,
+    "content": "A hyper-realistic cinematic transformation scene of a {argument name=\"subject\" default=\"young person\"} (use my uploaded face), standing in a {argument name=\"lighting\" default=\"dark, moody environment with subtle green and amber lighting\"}. The body is mid-transformation into a powerful {argument name=\"creature\" default=\"humanoid reptile creature\"}. The face still clearly resembles the original human, but with emerging reptilian features, glowing slit pupils, textured scales spreading across the skin, and sharp defined jawlines.\n\nThe transformation is dynamic, one side of the body still human wearing modern casual clothing (dark jacket, fitted tee), while the other side evolves into a muscular reptilian form with glossy, detailed scales, clawed fingers, and faint bioluminescent veins. Skin cracking effect with glowing energy beneath, as if evolution is happening in real-time.\n\nAdd cinematic smoke, floating dust particles, and subtle sparks in the air. Background should be minimal, dark studio or abandoned sci-fi lab, slightly blurred for depth. Lighting should highlight texture contrast between human skin and reptile scales.\n\nUltra-detailed, 8K, sharp focus on face, dramatic shadows, high contrast, volumetric lighting, photorealistic, Unreal Engine style render, cinematic composition, shallow depth of field.",
+    "title": "Cinematic Reptilian Transformation Scene",
+    "description": "A detailed cinematic prompt for a human mid-transformation into a reptilian creature, featuring bioluminescent veins and dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965784294_v53du1_HHeQjsAbkAAAfEM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18291,
+    "content": "{ \"type\": \"image_prompt\", \"title\": \"Kaelen: The Verdant Whisper\", \"subject\": { \"character\": \"{argument name=\"character name\" default=\"Kaelen\"}\", \"source\": \"Original Character Concept\", \"focus\": \"legendary heroic propaganda poster\" }, \"composition\": { \"structure\": { \"top_section\": { \"description\": \"Large-scale symbolic portrait of Kaelen wearing a {argument name=\"accessory\" default=\"leather steampunk mask and mechanical goggles\"}\", \"purpose\": \"dominant emotional focal point\" }, \"middle_section\": { \"description\": \"Narrative collage featuring a glowing spirit tree, rebel silhouettes, and mechanical wildlife\", \"purpose\": \"world-building and lore fragments\" }, \"bottom_section\": { \"description\": \"Full-body grounding shot of Kaelen standing on a mossy peak with a druidic staff\", \"purpose\": \"central grounding and heroic posture\" } }, \"layout\": { \"style\": \"hierarchical editorial collage\", \"balance\": \"center-weighted vertical flow\", \"format\": \"9:16 vertical poster\" } }, \"visual_style\": { \"techniques\": [ \"double exposure\", \"ink wash diffusion\", \"layered visual storytelling\" ], \"elements\": { \"background_layers\": [ \"clean white negative space\", \"misty valley textures\", \"ink-splatter edges\" ], \"aesthetic\": { \"tone\": \"{argument name=\"aesthetic tone\" default=\"Poetic Nature-Punk\"}\", \"color_style\": \"Vibrant forest greens, deep earth tones, and electric blue energy pops\", \"quality\": \"8k, ultra-refined, cinematic editorial\" } } }, \"design_principles\": [ \"high negative space usage\", \"sharp focus on facial textures\", \"strong vertical continuity\", \"luxury magazine aesthetic\" ] }",
+    "title": "Heroic Nature-Punk Collage Poster",
+    "description": "A complex editorial collage prompt for a heroic character poster with nature-punk and steampunk aesthetic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965788345_0b8p99_HHdvXQ7W4AAzpvL.jpg"
     ],
     "needReferenceImages": false
   },

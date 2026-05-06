@@ -1,5 +1,15 @@
 [
   {
+    "id": 18252,
+    "content": "A professional cosmetic brand infographic in a soft aesthetic style. The color palette features {argument name=\"colors\" default=\"muted rose, cream, and champagne gold\"}. At the top center, a high-fashion portrait of a woman with glowing skin and soft makeup, wearing a {argument name=\"outfit\" default=\"cream turtleneck\"}. Below her, a clean grid of isolated makeup products: a glass foundation bottle with a liquid swatch, a sleek black mascara wand, and a rose-gold blush compact. The background is a clean, minimal gradient. Professional studio lighting, soft shadows, high-end commercial photography style, 8k resolution.",
+    "title": "Luxury Cosmetic Brand Infographic",
+    "description": "A high-end commercial infographic prompt for a cosmetic brand, featuring a soft aesthetic with rose and champagne gold tones and a product grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965765747_i09qen_HHc8vbVXwAAkHtr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17756,
     "content": "High-resolution product photography for a luxurious skincare collection by \"{argument name=\"brand name\" default=\"AM COSMETICS\"}.\" The \"{argument name=\"collection name\" default=\"Amethyst Collection\"}\" set, including a pump bottle, a dropper bottle, and a jar in {argument name=\"material\" default=\"purple-tinted glass\"} with rose gold accents, is presented on a natural amethyst geode platform. This platform rests on a moss-covered island in a calm mountain lake at twilight. Natural plants and small leaves adorn the island. One side of the frame features an elegantly styled woman with retro Hollywood wave hair, wearing a flowing, floor-length silk gown in antique pink, gently gesturing towards the products. The background is a serene vista of misty blue mountains and a peach-pink sunset sky. Elegant serif text at the top reads \"Elevate Your Ritual\" and \"EXPERIENCE AMETHYST.\" Clean, diffused studio-quality lighting.",
     "title": "Luxury Skincare Product Photography",

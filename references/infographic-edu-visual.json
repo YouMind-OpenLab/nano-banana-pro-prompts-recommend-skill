@@ -56,12 +56,32 @@
     "needReferenceImages": false
   },
   {
-    "id": 18007,
-    "content": "A vibrant, {argument name=\"theme\" default=\"fitness-themed\"} digital collage featuring a central photo of a smiling woman jogging along a park path, surrounded by a series of expressive \"chibi-style\" stickers. The woman and her animated counterparts are dressed in matching {argument name=\"outfit color\" default=\"black and pink\"} athletic gear. Each sticker depicts a stage of a workout journey—from the energy of a \"Morning Run!\" and the determination of a deep stretch, to the exhaustion of being \"Almost There\" and the final triumph of crossing a finish line. The composition is decorated with playful pink hearts, sparkles, and motivational text like \"Just Do It!\" and \"Crushing Goals!\", creating a cheerful and inspiring fitness narrative.",
-    "title": "Fitness Journey Digital Sticker Collage",
-    "description": "A cheerful and inspiring prompt for creating a fitness-themed digital collage with chibi-style stickers and motivational text.",
+    "id": 18273,
+    "content": "A realistic, candid photograph of a {argument name=\"subject\" default=\"petite Asian woman\"} with a detailed, lifelike face and hairstyle (referencing the provided image for specific features), captured during a soft afternoon. She is wearing the specific clothing from the reference image. She is happily and intently hugging a {argument name=\"prop\" default=\"gigantic wooden pencil\"} adorned with cute, kawaii cartoon patterns with both hands, using it to draw on a massive sketchbook spread before her on a cozy room floor. The scene is full of warmth, with a soft, diffused sunlight filtering in. The floor is covered in pastel-colored (light pink, light blue) oversized toys, stationery, and a cute colored pencil box. A small, fluffy cat plush sits nearby. The room background features warm-toned wooden bookshelves filled with charming books and collectibles, all glowing with soft afternoon light. A minimal white doodle outline loosely traces the woman's figure. Cute, minimal white handwritten text on the side reads \"{argument name=\"text\" default=\"Happy Monday\"}\", and pink handwritten text reads \"Hello\". Small, simple white doodle elements like stars, flowers, cats, and bunnies are scattered around. Four distinct, miniature 3D chibi-style figures, exact miniature replicas of the woman in the same clothing but in playful, mischievous poses, are placed around her on the shelves, books, and among the giant stationery. The entire image has a soft, dreamy, and warm glow, with pastel tones in the surroundings contrasting with natural wood and cream background colors. Shot on a Canon EOS R5 with a 35mm f/1.4 lens, natural grain, cinematic lighting. Aspect Ratio: 4:5 Style: Realistic Photo, Candid, Warm, Dreamy Lighting: Soft Afternoon Sunlight, Diffused",
+    "title": "Dreamy Studio Creative Illustration",
+    "description": "A whimsical and warm prompt featuring a woman hugging a giant pencil in a room filled with cute stationery and chibi replicas.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777879967641_v476la_HHdPudaWYAAtDfG.jpg"
+      "https://cms-assets.youmind.com/media/1777965778540_fhvj7y_HHd-GQsbYAAgwMB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18007,
+    "content": "A vibrant, {argument name=\"theme\" default=\"fitness-themed\"} digital collage featuring a central photo of a {argument name=\"subject action\" default=\"smiling woman jogging along a park path\"}, surrounded by a series of expressive \"chibi-style\" stickers. The woman and her animated counterparts are dressed in matching {argument name=\"outfit colors\" default=\"black and pink\"} athletic gear. Each sticker depicts a stage of a workout journey—from the energy of a \"Morning Run!\" and the determination of a deep stretch, to the exhaustion of being \"Almost There\" and the final triumph of crossing a line. The composition is decorated with playful pink hearts, sparkles, and motivational text like \"Just Do It!\" and \"Crushing Goals!\", creating a cheerful and inspiring narrative.",
+    "title": "Fitness Journey Digital Collage",
+    "description": "A vibrant digital collage prompt featuring a fitness narrative with a central jogger and cute chibi stickers representing workout stages.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965768377_li2s3t_HHdPudaWYAAtDfG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18252,
+    "content": "A professional cosmetic brand infographic in a soft aesthetic style. The color palette features {argument name=\"colors\" default=\"muted rose, cream, and champagne gold\"}. At the top center, a high-fashion portrait of a woman with glowing skin and soft makeup, wearing a {argument name=\"outfit\" default=\"cream turtleneck\"}. Below her, a clean grid of isolated makeup products: a glass foundation bottle with a liquid swatch, a sleek black mascara wand, and a rose-gold blush compact. The background is a clean, minimal gradient. Professional studio lighting, soft shadows, high-end commercial photography style, 8k resolution.",
+    "title": "Luxury Cosmetic Brand Infographic",
+    "description": "A high-end commercial infographic prompt for a cosmetic brand, featuring a soft aesthetic with rose and champagne gold tones and a product grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965765747_i09qen_HHc8vbVXwAAkHtr.jpg"
     ],
     "needReferenceImages": false
   },

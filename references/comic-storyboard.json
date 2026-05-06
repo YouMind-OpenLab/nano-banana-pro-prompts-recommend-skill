@@ -1,5 +1,35 @@
 [
   {
+    "id": 18247,
+    "content": "A 1950s American diner scene, centered on a cheerful waitress in vintage uniform. She has softly curled dark hair styled in classic mid-century fashion, warm expressive eyes, and a natural smile with subtle freckles across her cheeks. She wears a {argument name=\"dress color\" default=\"light blue\"} short-sleeve dress with white trim, a fitted bodice, and a crisp white apron tied at the waist, complete with a name tag reading “{argument name=\"name\" default=\"Betty\"}.” A small white diner cap rests neatly on her head.",
+    "title": "1950s American Diner Waitress",
+    "description": "A nostalgic 1950s American diner scene featuring a cheerful waitress in a vintage blue uniform and white apron.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965763597_3gwk8i_HHgexe8b0AAvNON.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18283,
+    "content": "A hyper-realistic cinematic transformation scene of a {argument name=\"subject\" default=\"young person\"} (use my uploaded face), standing in a {argument name=\"lighting\" default=\"dark, moody environment with subtle green and amber lighting\"}. The body is mid-transformation into a powerful {argument name=\"creature\" default=\"humanoid reptile creature\"}. The face still clearly resembles the original human, but with emerging reptilian features, glowing slit pupils, textured scales spreading across the skin, and sharp defined jawlines.\n\nThe transformation is dynamic, one side of the body still human wearing modern casual clothing (dark jacket, fitted tee), while the other side evolves into a muscular reptilian form with glossy, detailed scales, clawed fingers, and faint bioluminescent veins. Skin cracking effect with glowing energy beneath, as if evolution is happening in real-time.\n\nAdd cinematic smoke, floating dust particles, and subtle sparks in the air. Background should be minimal, dark studio or abandoned sci-fi lab, slightly blurred for depth. Lighting should highlight texture contrast between human skin and reptile scales.\n\nUltra-detailed, 8K, sharp focus on face, dramatic shadows, high contrast, volumetric lighting, photorealistic, Unreal Engine style render, cinematic composition, shallow depth of field.",
+    "title": "Cinematic Reptilian Transformation Scene",
+    "description": "A detailed cinematic prompt for a human mid-transformation into a reptilian creature, featuring bioluminescent veins and dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965784294_v53du1_HHeQjsAbkAAAfEM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18008,
+    "content": "A vibrant, 3D illustration features a stack of four cartoon characters against a {argument name=\"background\" default=\"warm, gradient orange background\"}. The characters are predominantly {argument name=\"colors\" default=\"purple and blue\"}, with large, expressive eyes and wide smiles. At the top is a large, purple creature with big, floppy ears and a white face, resembling a rabbit or a monkey. It has orange eyes and pink cheeks. Below it is a smaller, blue-faced creature with orange eyes and a wide, toothy grin, also with purple arms and body. It has a light blue heart shape on its chest. The third level features two characters side-by-side. On the left is a purple cat-like creature with blue eyes and a pink collar. On the right is a white, bald character with orange eyes and orange accents on its arms and body, adorned with small orange hearts. At the bottom, partially visible, is a purple dog-like creature with a playful expression. The entire composition is surrounded by {argument name=\"decoration\" default=\"numerous small, colorful heart shapes in shades of purple, pink, orange, and blue\"}, adding to the cheerful and whimsical atmosphere. The characters are perched on a textured, purple base that resembles a mound of soft clay or frosting.",
+    "title": "Vibrant 3D Cartoon Characters Stack",
+    "description": "A whimsical 3D illustration prompt featuring a stack of colorful, expressive cartoon creatures against a warm gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965766884_pffi3f_HHYzim9aQAAalDT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17992,
     "content": "A wide side-angle shot captures a young woman seated in her office workspace. The camera sits at a slight diagonal, providing a three-quarter view of both her body and the contemporary desk setup, enhancing depth while introducing a slightly unpolished, candid feel typical of early digital photography.\nOutfit: {argument name=\"clothing\" default=\"white dress shirt with rolled sleeves, slightly loosened patterned tie, slim black trousers or pencil skirt, white socks, beige sneakers\"} — all actively burning. Her long hair is slightly messy from the heat.\nScene: fire spreads across the floor, walls, and glass partitions. The desk, CRT monitor, keyboard, coffee mug, and mouse reflect the flames.\nLighting: {argument name=\"lighting style\" default=\"harsh on-camera flash (Y2K digital look)\"} creates sharp highlights and flattens parts of the scene. Fire is overexposed in places with clipped highlights. Conflicting color temperatures: cool flash vs warm firelight.\nDigital look: visible noise in shadows, slight color banding, over-sharpened edges, compressed dynamics. High depth of field, everything in focus, flash-frozen moment.\nMood: absurd, darkly humorous realism. Calm young woman working while everything burns, making direct eye contact.\nColor palette: dark gray, desaturated neutrals interrupted by aggressive oranges and yellows from fire.",
     "title": "Absurdist Office Workspace Fire",

@@ -21,6 +21,83 @@
     "needReferenceImages": true
   },
   {
+    "id": 18253,
+    "content": "cmd>> initiate 5-axis cnc router simulation\n\ntarget_material: high-density mdf and pale balsa wood blocks, glued in visible horizontal strata (layers).\nmilling_subject: [variable_location]\n[variable_location]: \"{argument name=\"location\" default=\"city mecca\"}\"\n\ntoolpath_instructions:\n1. roughing_pass: carve the master block into an impossible, continuous mobius-strip geometry.\n2. finishing_pass: micro-carve the surface to perfectly replicate the urban layout of [variable_location]. \n3. ai_detailing: the router must intricately carve the buildings, monuments, houses and other elements of the [variable_location[, seamlessly bending them along the twisted wooden loop. \n\nsurface_finish: \ndo not paint. leave the laser-burn marks in the deep crevices. leave the wood dust in the tiny carved streets. insert microscopic silver metal pins to represent cars on the looping avenues.\n\nrender_output:\na photorealistic close-up of this finished physical sculpture resting on a craftsman's workbench. overhead shop lighting.",
+    "title": "CNC Router Wood Sculpture Simulation",
+    "description": "A creative prompt simulating a 5-axis CNC router carving a city map onto a wooden Mobius-strip geometry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965766728_mdj887_HHMoUUVXEAA8j3o.jpg",
+      "https://cms-assets.youmind.com/media/1777965766777_r0xuy6_HHMoUUSW0AApSYV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18250,
+    "content": "Create a high-detail mixed-media editorial poster of a person ( Keep the face of the person 100% accurate from the reference image ) in a left-facing side profile. It should look like a real printed poster, not digital—use paper grain, ink texture, halftone, and slight scan imperfections.\n\nPortrait in matte black tones with realistic skin detail, not flat. Short twisted locs on top, faded sides, trimmed beard. Add white hand-drawn outlines on some hair strands.\n\nInclude a hoop earring with a cross pendant and a thin chain with a cross. Expression calm and serious.\n\nAdd white hand-drawn dots, lines, and abstract symbols across the face, neck, and shoulders, like chalk or marker on a printed photo.\n\nBackground: {argument name=\"background color\" default=\"vivid yellow\"} with black graffiti-style doodles (crowns, eyes, stars, abstract shapes). Add subtle olive/gold accents.\n\nTop text: {argument name=\"text\" default=\"smack\"} in bold black sans-serif.\n\nComposition: vertical poster, head and shoulders, slightly left-centered, facing left.\n\nColors: yellow, black, white, small olive accents.\n\nStyle: raw, street-art, zine-like, real printed poster feel. No glossy or 3D look. Avoid smooth digital finish or AI artifacts.\n\nAspect ratio 4:5",
+    "title": "Raw Mixed-Media Street Art Poster",
+    "description": "A high-detail mixed-media editorial poster prompt with a street-art zine aesthetic, incorporating paper grain, ink textures, and graffiti-style doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965765048_c3tdl0_HHgkL66XYAA1x9U.jpg",
+      "https://cms-assets.youmind.com/media/1777965765506_n597hm_HHgkL20WQAAYoGx.jpg",
+      "https://cms-assets.youmind.com/media/1777965765067_w8uiis_HHgkL1yXQAAKoKV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18295,
+    "content": "Generate a photo of the finished {argument name=\"craft type\" default=\"Perler bead creation\"} based on {argument name=\"reference image\" default=\"Figure 1\"}",
+    "title": "Pixel Art to Perler Bead Photo",
+    "description": "Converts pixel art reference images into realistic photos of finished Perler bead creations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965791863_lcs9ek_HHgQS-BawAAqBhm.jpg",
+      "https://cms-assets.youmind.com/media/1777965791633_vzy4kc_HHgQTyobcAAWu66.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18252,
+    "content": "A professional cosmetic brand infographic in a soft aesthetic style. The color palette features {argument name=\"colors\" default=\"muted rose, cream, and champagne gold\"}. At the top center, a high-fashion portrait of a woman with glowing skin and soft makeup, wearing a {argument name=\"outfit\" default=\"cream turtleneck\"}. Below her, a clean grid of isolated makeup products: a glass foundation bottle with a liquid swatch, a sleek black mascara wand, and a rose-gold blush compact. The background is a clean, minimal gradient. Professional studio lighting, soft shadows, high-end commercial photography style, 8k resolution.",
+    "title": "Luxury Cosmetic Brand Infographic",
+    "description": "A high-end commercial infographic prompt for a cosmetic brand, featuring a soft aesthetic with rose and champagne gold tones and a product grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965765747_i09qen_HHc8vbVXwAAkHtr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18269,
+    "content": "A cinematic, ultra-detailed scene set in a vast Arabian desert at night under a deep indigo sky filled with stars and a glowing crescent moon. A beautiful Middle Eastern woman stands gracefully on soft golden dunes, wearing a {argument name=\"attire\" default=\"traditional vintage Arabian dress inspired by old Bedouin culture, flowing black and gold abaya with intricate embroidery\"}, delicate veil partially covering her face, adorned with antique gold jewelry and subtle gemstones. She holds an elegant, {argument name=\"bottle design\" default=\"luxurious juice bottle designed like a classic oud perfume flacon\"}, made of dark amber glass with ornate gold carvings, a decorative cap, and intricate Arabic patterns glowing subtly under soft moonlight. The bottle looks premium, rare, and culturally rich. She gently drinks from the bottle, her expression calm and regal, the fabric of her dress flowing softly with the desert breeze. Lanterns placed around cast warm golden light, contrasting with the cool moonlight, creating a dramatic high-end advertisement aesthetic. Ultra-realistic, 8K resolution, sharp focus, soft depth of field, cinematic lighting, luxury product photography style, rich textures, high contrast, elegant composition, no modern elements, timeless Arabian atmosphere.",
+    "title": "Arabian Desert Luxury Product Shot",
+    "description": "A high-end cinematic advertisement prompt featuring a Middle Eastern woman in traditional attire holding a luxury juice bottle in a desert setting at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965777101_2nvcjx_HHcs_BraMAE3DQT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18275,
+    "content": "Hyperrealistic 4K HDR fashion editorial photo of a young man with black-framed glasses, wearing a {argument name=\"hoodie\" default=\"dark forest green oversized hoodie\"}, a dark beanie hat, wide-leg baggy pants, and classic canvas sneakers — standing next to an {argument name=\"companion\" default=\"anthropomorphic cartoon duck character\"} dressed in a {argument name=\"jacket\" default=\"gold bomber jacket\"}, black joggers, gold chain medallion, and yellow high-top sneakers. Both striking a bold, arrogant, confident street-style pose. Urban environment with vibrant graffiti-covered concrete walls, spray-painted tags and throw-ups, neon orange and yellow dripping lettering, Japanese kanji murals splashed across the background. Boombox sitting on the ground beside them. Saturated punchy colors — electric yellow, deep forest green, neon orange, bold red accents. Graffiti text tags: \"RAP\", \"MUSIC\", \"ART INFINITY\", \"OVA10\", \"EXIT\", \"HRN\". Street fashion photography aesthetic mixed with urban illustration. Cinematic dramatic lighting, deep shadows, rim light. Ultra-sharp 4K HDR details, photorealistic textures, high contrast, fashion magazine quality shot.",
+    "title": "Cyberpunk Streetwear Editorial",
+    "description": "A vibrant fashion editorial prompt mixing hyper-realistic human photography with urban illustration and graffiti elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965779659_jozwp4_HHcOHGUbgAAcrpN.jpg",
+      "https://cms-assets.youmind.com/media/1777965779674_fmm3hi_HHcOHT8a4AAFlwQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18267,
+    "content": "Create image: A hyper-photorealistic close-up beauty portrait of the same female subject, preserving exact facial identity.\n\nScene:\nSubject lying sideways with one hand framing her forehead and the other near her cheek, eyes looking upward, intimate soft editorial crop, visible fingers and natural hand anatomy.\n\nCamera settings:\nShot on an early-2000s CCD digital camera, direct on-camera flash, harsh flash falloff, bright hotspot on face and upper chest, slightly overexposed highlights, visible digital grain, imperfect snapshot framing. Color rendering inspired by Kodak Portra 400: warm creamy skin tones, pastel softness, muted saturation, gentle highlight roll-off layered over flash harshness. Neutral-to-warm white balance.\n\nMakeup:\nRosy complexion, dewy with visible pores, brushed-up feathery brows, thin wing eyeliner, wispy eyelashes, grey contact lenses, pink lip gloss.\n\nHair:\nModern messy windswept layered hair, inward upward curled ends, soft flyaways around the eyes, cheek, and lips.\n\nComposition:\nExtreme close-up, eyes and lips critically sharp, natural skin texture preserved, shallow softness around the edges.\n\nNegative prompt:\nno distorted fingers, no extra fingers, no plastic skin, no face change, no waxy makeup.",
+    "title": "Editorial CCD Close-up Beauty Portrait",
+    "description": "A close-up beauty portrait prompt mimicking early-2000s digital cameras and Portra 400 film tones with harsh flash and realistic skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965774521_rfczyg_HHcJzOybEAAwFHk.jpg",
+      "https://cms-assets.youmind.com/media/1777965774302_b9kiy6_HHcJzzfaQAA6qFk.jpg",
+      "https://cms-assets.youmind.com/media/1777965774321_vymlmr_HHcJ0XqaQAAjPe4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18013,
     "content": "A surreal, high-end studio advertisement featuring an oversized crispy fried chicken bucket inspired by KFC, placed on a clean reflective surface. The bucket is filled with golden, crunchy fried chicken pieces with rich texture and visible seasoning flakes. Background is a smooth pastel red gradient with soft diffused lighting and subtle reflections.\n\nA {argument name=\"subject\" default=\"young man\"} (use my face) stands confidently beside the giant chicken bucket, leaning casually against it. He wears a {argument name=\"outfit\" default=\"clean white athleisure outfit\"}, minimal and stylish, creating contrast with the warm tones of the chicken. He holds a single crispy drumstick in his hand, eyes closed with a satisfied expression, enjoying the aroma.\n\nComposition is centered, ultra-sharp, cinematic lighting, premium commercial photography style, shallow depth of field, hyper-realistic textures, 8K quality.\n\nLarge bold typography in the background: “KFC STYLE” (or replace with your brand name if needed).\nTagline at bottom: “{argument name=\"tagline\" default=\"Crispy joy, every bite.\"}”",
     "title": "Surreal Fried Chicken Commercial",

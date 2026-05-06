@@ -13,6 +13,39 @@
     "needReferenceImages": true
   },
   {
+    "id": 18296,
+    "content": "{argument name=\"art style\" default=\"Ink Wash mixed with traditional watercolor painting\"} showcasing extreme close up of {argument name=\"subject\" default=\"woman face\"} adorned with glittery sparks, she is engulfed with shadows and ancient jewelry decorating her face, her intricate razor sharp features reveal determined and confident woman face. the sky around is a gradient of {argument name=\"color palette\" default=\"blue, green and earthy tones\"}, with intricate vibrant orange random outlines giving an impression of depth and mist.",
+    "title": "Ink wash and watercolor woman portrait",
+    "description": "This prompt creates a highly detailed, artistic close-up of a woman's face using a blend of ink wash and watercolor styles. It features intricate details like glittery sparks and ancient jewelry against a misty, multi-toned background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965791965_0hde78_HHd2y_uWoAAFC2K.jpg",
+      "https://cms-assets.youmind.com/media/1777965791565_xha0i6_HHd2y_uXMAAscJd.jpg",
+      "https://cms-assets.youmind.com/media/1777965791458_x0eklf_HHd2y_wWoAA3mV0.jpg",
+      "https://cms-assets.youmind.com/media/1777965793903_jw2h1w_HHd2y_zXsAAoMWt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18276,
+    "content": "candid iPhone 15 Pro photo of a person sitting inside a {argument name=\"store\" default=\"Nike store\"} in a Brazilian mall trying on new sneakers, wearing {argument name=\"clothing style\" default=\"sporty casual clothing\"} matching the brand style, shoe wall in the background slightly out of focus, {argument name=\"camera angle\" default=\"low angle close shot focused on the feet\"}, natural store lighting with reflections on the floor, slight blur from hand movement, unfiltered realistic tones and subtle noise, authentic shopping moment",
+    "title": "Candid Sneaker Shopping Moment",
+    "description": "A realistic iPhone-style photo prompt capturing someone trying on sneakers in a retail environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965780945_j0uwnc_HHdoXfAbkAAsmJT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18288,
+    "content": "This image features a meticulous {argument name=\"art style\" default=\"pencil sketch\"} of a {argument name=\"subject\" default=\"single, expressive eye\"}, pinned to a surface with metal tacks. The artwork showcases a mastery of hatching and cross-hatching techniques, with fine, rhythmic lines defining the density of the eyebrows and the individual curve of the eyelashes. At the center, the iris is intricately detailed, capturing a complex pattern of light and shadow that radiates from the pupil. A {argument name=\"detail\" default=\"single, heavy teardrop\"} clings to the lower lash line, its transparency and weight rendered with delicate shading to suggest a moment of quiet, profound sorrow. The aged, off-white paper texture and the subtle graphite sheen give the piece a raw, traditional feel, emphasizing a sense of introspective melancholy.",
+    "title": "Sorrowful Eye Pencil Sketch",
+    "description": "A detailed artistic prompt for a traditional pencil sketch of an expressive eye with fine hatching and a single teardrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777965786630_2q0eci_HHbvbZ-WEAAFvpB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16968,
     "content": "Analyze the uploaded image and preserve the subject’s identity, facial features, pose, and composition. Reimagine the scene in {argument name=\"style\" default=\"traditional Korean Minhwa style\"} with flat perspective, bold outlines, symbolic elements, and vibrant natural colors. Incorporate {argument name=\"motifs\" default=\"classic Minhwa motifs such as stylized clouds, flora, animals, or decorative patterns\"} harmoniously around the subject. Use a hand-painted, textured brushstroke aesthetic with a slightly whimsical and folk-art feel. Maintain cultural authenticity while blending the subject naturally into the artwork. High detail, balanced composition, artistic, painterly finish",
     "title": "Traditional Korean Minhwa Style Transformation",
