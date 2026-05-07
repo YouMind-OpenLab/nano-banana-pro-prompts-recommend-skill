@@ -1,5 +1,15 @@
 [
   {
+    "id": 18497,
+    "content": "A professional young woman with {argument name=\"eye color\" default=\"striking emerald green eyes\"}, {argument name=\"hair\" default=\"long wavy dark brown hair\"}, neat military-style makeup. She is wearing a {argument name=\"outfit\" default=\"well-fitted olive-green and brown military flight jumpsuit\"} with the zipper pulled up to chest level, tactical belt around the waist. She has a professional military radio with shoulder antenna and headset around her neck, aviator sunglasses resting on top of her head. Confident and strong pose, three-quarter view, one hand on her hip, the other hand holding the radio. Dark aircraft hangar interior with neon green and red accent lighting, a stealth fighter jet visible in the background, dramatic cinematic lighting, wet reflective floor, highly detailed, realistic skin texture, detailed fabric and leather, masterpiece, 8k, digital illustration, highly detailed --ar 9:16",
+    "title": "Military Flight Jumpsuit Portrait",
+    "description": "A cinematic military-themed portrait featuring a professional woman in a flight jumpsuit inside a dark hangar with stealth fighter background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139352787_75vl2w_HHoTW13XUAc1dAz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18262,
     "content": "Convert the image into a Perler bead pattern, preserving the pixel-style outlines and color distribution. Label each color area with its corresponding color code below the pattern. 1:1 image",
     "title": "Perler Bead Pattern Creator",

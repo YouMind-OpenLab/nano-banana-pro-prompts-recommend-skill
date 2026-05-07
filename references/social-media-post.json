@@ -41,6 +41,337 @@
     "needReferenceImages": false
   },
   {
+    "id": 18524,
+    "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"person\": \"A young woman with long, wavy dark hair\",\n      \"action\": \"Walking through a lush green valley, herding a flock of goats\",\n      \"attire\": {\n        \"style\": \"Traditional Kashmiri Pheran\",\n        \"color\": \"{argument name=\"attire color\" default=\"Deep blue\"} with intricate red and gold embroidery\",\n        \"footwear\": \"Brown leather trekking boots\"\n      },\n      \"prop\": \"Holding a rustic wooden shepherd's staff\"\n    },\n    \"surreal_element\": {\n      \"item\": \"Tesla Model 3\",\n      \"scale\": \"Miniature/Goat-sized\",\n      \"interaction\": \"Positioned within the goat herd, being sniffed by a white goat\",\n      \"color\": \"{argument name=\"car color\" default=\"Glossy cherry red\"}\"\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Kashmir highlands\"}\",\n      \"background\": \"Towering snow-capped Himalayan peaks\",\n      \"midground\": \"Sloping green meadows with pine trees\",\n      \"lighting\": \"Soft golden hour sunlight, natural outdoor shadows\"\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k UHD\",\n      \"style\": \"Photorealistic cinematic\",\n      \"focus\": \"Sharp foreground focus with soft bokeh on distant mountains\",\n      \"composition\": \"Full body shot, wide angle\"\n    }\n  }\n}",
+    "title": "Surreal Kashmiri Shepherd with Tesla",
+    "description": "A creative and surreal prompt depicting a young woman herding goats in the Kashmiri highlands, featuring a miniature cherry red Tesla as a unique element in the scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139369988_kqjpue_HHswIbBawAAvn6M.jpg",
+      "https://cms-assets.youmind.com/media/1778139369954_w1oqzi_HHswK5Ya8AAXBwF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18522,
+    "content": "{argument name=\"subject\" default=\"Hyakunin Isshu poem 7\"} in {argument name=\"style\" default=\"Manyoshu style, handle automatically\"}",
+    "title": "Manyoshu Style Poetry Art",
+    "description": "A prompt to generate an illustration based on the 7th poem of the Hyakunin Isshu in the style of the Manyoshu.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139368879_ybnma0_HHrFNwbbMAArfnI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18515,
+    "content": "Create an illustration for Hyakunin Isshu {argument name=\"poem number\" default=\"number 7\"} in a {argument name=\"style\" default=\"fantasy series\"}!",
+    "title": "Fantasy Illustration of Classical Japanese Poem",
+    "description": "A creative prompt used to generate a fantasy-style illustration based on the 7th poem of the Hyakunin Isshu, featuring Abe no Nakamaro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139363727_95tnca_HHrEnp3bEAAz9oU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18518,
+    "content": "{argument name=\"song title\" default=\"Puff, the Magic Dragon (Peter, Paul and Mary)\"}",
+    "title": "Music-to-Image Generation Prompt",
+    "description": "A prompt that uses the classic folk song 'Puff, the Magic Dragon' to generate visual imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139364832_ijh8zu_HHpVi53agAEkO-P.jpg",
+      "https://cms-assets.youmind.com/media/1778139365172_6rriny_HHpVn_UaQAA_hEK.jpg",
+      "https://cms-assets.youmind.com/media/1778139364901_ximrjb_HHpVsgWbsAA8-p4.jpg",
+      "https://cms-assets.youmind.com/media/1778139366560_inn1zo_HHpVvD7a0AAf-0n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18483,
+    "content": "A striking digital art portrait of a {argument name=\"subject\" default=\"smiling woman\"} seamlessly integrated into a fluid, ethereal background. Her face is partially veiled by swirling tendrils of {argument name=\"ink colors\" default=\"crimson, white, and black ink\"} that mimic the movement of smoke or liquid under water. The composition features a bold {argument name=\"background\" default=\"monochromatic red backdrop\"}, creating a high-contrast, surreal aesthetic that blends human features with abstract, organic forms.",
+    "title": "Surreal Ink Fluid Portrait",
+    "description": "Digital art depicting a woman's face integrated with ethereal fluid ink movements in a high-contrast monochromatic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139345351_ylizwd_HHqp9libEAEJL_Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18496,
+    "content": "{\n  \"prompt\": \"Ultra-realistic photorealistic 8K portrait in vertical 9:16 aspect ratio. A beautiful young adult megan fox with {argument name=\"hair\" default=\"brown hair styled in short soft curls with bangs framing her face\"}. She has natural makeup with soft glossy pink lips, subtle rosy blush on cheeks, and highlighted eyelashes. She wears small silver rings on her fingers, a beaded bracelet on her left wrist, a red ribbon bow, and star-shaped hair clips on the left side of her head.\\n\\nShe is wearing a vibrant orange stylized anime-inspired outfit: a fitted white cropped top with a collar underneath a {argument name=\"jacket\" default=\"cropped green bomber jacket with black and white stripes on the sleeves\"}, a matching pink and white checkered tie, a {argument name=\"skirt\" default=\"short pleated green and white checkered mini skirt\"}, and a dark red belt with a double buckle. The word 'Keor' is delicately embroidered in small elegant black lettering on the lower front of the green bomber jacket.\\n\\nPose: Kneeling on the floor, leaning slightly forward toward the camera. Her right hand is raised with the index finger gently touching her lower lip, while her left hand rests softly on her thigh. She is looking directly at the camera with a playful, energetic and cute expression.\\n\\nSetting: Clean vibrant pink studio background with seamless backdrop. High-key studio lighting, soft, bright and uniform with minimal shadows, creating a vibrant and flattering look on skin and clothing. Medium shot from mid-thigh up, eye-level angle, sharp focus on the subject, highly detailed textures, photorealistic cosplay portrait photography, best quality.\", \n  \"style\": \"ultra-realistic photorealistic cosplay portrait, vibrant anime-inspired fashion photography, clean studio aesthetic\",\n  \"aspect_ratio\": \"9:16\",\n  \"resolution\": \"8k\",\n  \"lighting\": \"high-key studio lighting, soft bright and uniform illumination with minimal shadows, vibrant and flattering on skin and clothing\", \n  \"camera_angle\": \"medium shot from mid-thigh up, eye-level perspective, sharp focus on subject\",\n  \"subject\": {\n    \"description\": \"beautiful Megan Fox\",\n    \"hair\": \"short soft black curls with bangs framing the face\",\n    \"expression\": \"playful, energetic and cute, looking directly at camera\",\n    \"makeup\": \"natural with glossy pink lips, subtle rosy blush, and highlighted eyelashes\",\n    \"accessories\": \"red ribbon bow, star-shaped hair clips on left side, silver rings on fingers, beaded bracelet on left wrist\",\n    \"outfit\": {\n      \"top\": \"fitted white cropped top with collar underneath a cropped green bomber jacket with black and white stripes on sleeves, 'Keor' embroidered on the lower front\",\n      \"neckwear\": \"pink and white checkered tie\",\n      \"bottom\": \"short pleated green and white checkered mini skirt with dark red double-buckle belt\"\n    },\n    \"pose\": \"kneeling on the floor, leaning slightly forward, right index finger gently touching lower lip, left hand resting on thigh\"",
+    "title": "Anime-Inspired Cosplay Studio Portrait",
+    "description": "Vibrant, high-key studio portrait featuring a playful anime-inspired outfit with highly detailed textures and a clean pink backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139350601_3dv1pb_HHqkKMqWoAQTipu.jpg",
+      "https://cms-assets.youmind.com/media/1778139350657_5cy28j_HHqkKXOWIAAjRJc.jpg",
+      "https://cms-assets.youmind.com/media/1778139350691_n3w4wd_HHqkKhaXsAI9XqR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18481,
+    "content": "A striking digital art portrait of a smiling woman seamlessly integrated into a fluid, ethereal background. Her face is partially veiled by swirling tendrils of {argument name=\"colors\" default=\"crimson, white, and black ink\"} that mimic the movement of smoke or liquid under water. The composition features a bold {argument name=\"background\" default=\"monochromatic red backdrop\"}, creating a high-contrast, surreal aesthetic that blends human features with abstract, organic forms.",
+    "title": "Surreal Ink Fluid Portrait Art",
+    "description": "A striking digital art prompt featuring a woman's portrait integrated into fluid crimson and black ink tendrils against a red background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139344101_cdjvaf_HHp1ik7XQAcU64B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18490,
+    "content": "Low quality amateur iPhone shot: In this vertical reverie of nine by sixteen, the scene unfolds as a vibrant tableau of urban night and culinary warmth, centered upon a presence of transcendent allure. The subject, a woman in the dewy freshness of her early twenties, embodies the porcelain fairness of East Asian lineage, her skin radiating an ethereal perfection that seems to catch and hold the ambient light of the restaurant. She possesses a {argument name=\"body type\" default=\"skinny curvaceous and full build\"}, her lithe yet generous silhouette gracefully accented by a {argument name=\"top\" default=\"ribbed, mini scoop-neck tank top of soft beige\"} that perfectly traces the natural poise of her physique above a dark, tailored waist. Her beauty reaches a sublime aesthetic grace, akin to a supermodel's mesmerizing elegance, marked by flawless symmetry in her features: high arched cheekbones that frame captivating, profound dark eyes gazing softly toward the unseen space to her right, and full, inviting lips painted in a delicate rose tint, slightly parted in a moment of quiet anticipation. Cascading streams of long platinum blondie hair frame her luminous face, while a delicate gold pendant rests gracefully upon her collarbone and subtle gold hoops gleam at her ears. In her right hand, slender fingers expertly pinch dark wooden chopsticks, suspending a glistening, caramelized morsel of cooked meat in mid-air. Before her, a sensory feast commands the foreground: a circular metal grill dominates the dark table, its iron grate bearing marbled cuts of raw and cooking beef as a bright, golden flame leaps eagerly upward on the right side, kissing the savory air. To the left, a black skillet-like plate overflows with a bounty of darkly glazed, roasted cuts, while a rectangular white dish presents a trio of dipping sauces—pooling in rich, still hues of ochre, deep soy, and sweet crimson. The remnants of the feast—a smeared plate, a small metallic bowl, and a crumpled white napkin—add a murmur of tactile reality to the immediate setting. Behind this flawless focal point, the atmosphere deepens into the warm, bustling shadows of a vibrant barbecue establishment. A brass-toned exhaust hood hangs suspended from the ceiling above the grill, softly illuminated by a nearby pendant light, while a dark menu board adorned with vibrant food photography and traditional characters anchors the space over her right shoulder. Through the glass window to the far right, the city breathes in vivid streaks of neon red characters and a little one with the written '{argument name=\"text detail\" default=\"Keor\"}' somewhere, bleeding electric, metropolitan hues into the night and framing this elegant portrait in the eternal, pixel-bound fidelity of a deeply human and perfectly composed moment.",
+    "title": "Urban BBQ Dinner Portrait",
+    "description": "A long, descriptive narrative prompt for a photorealistic iPhone-style shot of a woman dining at an urban barbecue restaurant.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139348794_1ivid9_HHptF5OWsAEvysr.jpg",
+      "https://cms-assets.youmind.com/media/1778139348862_o1gugj_HHptGCnWoAYJWIu.jpg",
+      "https://cms-assets.youmind.com/media/1778139348892_bwsw39_HHptGKiWAAsCHD3.jpg",
+      "https://cms-assets.youmind.com/media/1778139349607_7pvxgi_HHptGTXXMAAjSi8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18485,
+    "content": "A medium shot captures a {argument name=\"subject\" default=\"young Asian woman\"} in a stylized outfit, standing against a textured, weathered wall. She wears a form-fitted, {argument name=\"outfit\" default=\"light denim corset\"} with dark accents and oversized metallic grommets, paired with a short, matching denim skirt. Her ensemble includes dramatic, oversized hoop earrings and a chunky necklace. Her arms are draped in a {argument name=\"jacket\" default=\"brown faux fur jacket\"} with voluminous sleeves. She carries a small, cream-colored handbag with decorative holes and a dangling key charm. Her stockings are lace-trimmed, complementing her knee-high, black heeled boots. The setting features an urban, distressed wall with visible cracks and wires. The image employs natural daylight, creating a warm, muted color palette that enhances the bohemian, fashion-forward mood and commemorates an offbeat, eclectic style. HEX VALUES: [\"#d2cbb3\", \"#dcd6be\", \"#c8bfa5\", \"#978a76\", \"#b9af96\", \"#a99c86\", \"#433b35\", \"#8d7760\", \"#0e0d10\", \"#79614d\", \"#282423\", \"#654e3d\", \"#717169\", \"#575751\", \"#e5e2d1\"]",
+    "title": "Eclectic Urban Fashion Portrait",
+    "description": "A medium shot of a woman in a denim corset and faux fur jacket against an urban distressed wall, featuring a warm bohemian palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139346469_q9ks70_HHpof34bAAA1oU_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18486,
+    "content": "{\"image_prompt\": {\"subject\": {\"description\": \"Young woman with messy, wavy red hair, pale skin with light freckles, natural bare-faced look, bare shoulders.\", \"pose\": \"Sitting cross-legged on a textured gray sofa, tightly hugging a large, white, chevron-patterned textured pillow to her chest.\", \"expression\": \"Subtle, slightly melancholic or contemplative gaze looking directly at the camera.\"}, \"environment\": {\"setting\": \"Cozy indoor living room.\", \"background_elements\": \"Window on the left with a small potted green plant on a wooden sill. A softly blurred bookshelf with books and dark blue accent pillows on the couch.\"}, \"lighting\": {\"type\": \"Soft, diffused natural window light.\", \"direction\": \"Side lighting coming from the left window.\", \"mood\": \"Intimate, moody, and natural.\"}, \"technical_specifications\": {\"camera\": \"Shot on 85mm lens, f/1.8 aperture.\", \"focus\": \"Shallow depth of field with sharp focus on the subject's eyes and the texture of the white pillow.\", \"aesthetic\": \"High-fashion editorial candid, photorealistic, highly detailed fabric and skin textures, cinematic color grading, 8k resolution.\"}, \"combined_prompt\": \"Photorealistic editorial portrait of a young woman with messy wavy red hair and lightly freckled pale skin, natural look, bare shoulders. She is sitting cross-legged on a gray textured sofa, embracing a thick white chevron-patterned pillow. Cozy living room environment with soft, natural window daylight from the left, a potted plant on the windowsill, and a softly blurred bookshelf in the background. Shot on 85mm lens, f/1.8, shallow depth of field, highly detailed fabric and skin textures, moody and intimate cinematic lighting, 8k resolution.\"}}",
+    "title": "Cozy Indoor Sofa Portrait",
+    "description": "A moody photorealistic portrait of a woman embracing a textured pillow in a cozy living room setting with natural window light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139346728_1ubn4r_HHplWX5bwAAzMdE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18489,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject name\" default=\"[NAME]\"}\",\n      \"appearance\": {\n        \"hair\": \"Long hair, parted slightly off-center, falling down her back and over her right shoulder\",\n        \"expression\": \"Focused and neutral\",\n        \"gaze\": \"Looking downward\",\n        \"makeup\": \"Subtle natural makeup\"\n      },\n      \"body\": \"Slim, athletic, fit physique with a healthy trained appearance\"\n    },\n    \"clothing\": {\n      \"top\": \"Light green ribbed fitted tank top with V-neckline\",\n      \"bottom\": \"High-waisted yellow athletic shorts\",\n      \"socks\": \"Thick yellow ankle socks\",\n      \"shoes\": \"Chunky yellow athletic sneakers with light gray and beige details\",\n      \"accessories\": \"Modern white smartwatch with thick white band on left wrist\"\n    },\n    \"pose\": {\n      \"stance\": \"Front-facing with slight side angle\",\n      \"action\": \"Bent-over single-arm {argument name=\"exercise\" default=\"dumbbell row\"} position\",\n      \"support\": \"Left knee and left hand resting on a black flat gym bench\",\n      \"right_arm\": \"Extended downward holding a heavy dumbbell\",\n      \"upper_body\": \"Leaning forward from the hips\",\n      \"head\": \"Slightly angled downward\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"gym setting\" default=\"Modern gym interior\"}\",\n      \"background\": \"Dark blurred aesthetic with out-of-focus gym equipment, weight racks, and training machines in the distance\"\n    },\n    \"props\": [\n      \"Black flat gym bench\",\n      \"Black round dumbbell labeled 'GiuliaGYM 12.5' in white text\",\n      \"White smartwatch on left wrist\"\n    ],\n    \"lighting\": {\n      \"style\": \"High-key lighting\",\n      \"quality\": \"Bright and airy\",\n      \"face\": \"Flat beauty lighting with even illumination\",\n      \"shadows\": \"Extremely soft shadows\",\n      \"contrast\": \"Low contrast\"\n    },\n    \"mood\": \"Focused, determined, active, energetic, and dedicated to physical training\",\n    \"technical\": {\n      \"camera\": \"Medium shot\",\n      \"depth_of_field\": \"Shallow depth of field with beautifully blurred bokeh background\",\n      \"style\": \"Modern fitness lifestyle photorealistic photography\",\n      \"quality\": \"Highly detailed, sharp focus on subject, 8k resolution\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "title": "Gym Fitness Training Session",
+    "description": "A highly detailed structured prompt for a photorealistic fitness lifestyle shot featuring an athletic woman performing a dumbbell row in a modern gym.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139347999_3i4c6d_HHpjK1UXYAEungi.jpg",
+      "https://cms-assets.youmind.com/media/1778139348031_q1vici_HHpjK4PWMAEvkOW.jpg",
+      "https://cms-assets.youmind.com/media/1778139348025_f0t6xx_HHpjK7iXEAgd25F.jpg",
+      "https://cms-assets.youmind.com/media/1778139349102_fd6zmo_HHpjLB9WEAEz98P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18502,
+    "content": "Cinematic kitchen scene in a {argument name=\"location\" default=\"typical Brazilian home\"}, viewed from an impossible non-human camera angle placed inside an oven, the camera positioned on the rack very close to the front opening using a wide-angle perspective, emphasizing short distance and strong depth compression, the oven door open downward as a person leans in very close to the interior, their face clearly visible near the opening while placing a {argument name=\"dish\" default=\"tray of lasagna\"} inside, hands and baking dish entering very close to the lens creating strong foreshortening, simple kitchen environment in the background with tiled walls, realistic appliances and natural lighting, warm internal oven light illuminating metallic textures and heating elements, subtle heat distortion in the air, curved oven walls framing the scene like a tight tunnel, immersive composition with realistic proximity and physical interaction",
+    "title": "Interior Oven View Cooking Scene",
+    "description": "A creative wide-angle perspective prompt from inside an oven, capturing the warm lighting and intimate details of a home kitchen setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139355809_pxr85m_HHpP1VcbAAA4BLL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18501,
+    "content": "Ultra-photorealistic Met Gala editorial image of an adult high-fashion woman wearing an original couture gown inspired by the {argument name=\"inspiration\" default=\"fusion of nature and robotics\"}, not a copy of any real celebrity outfit.\n\nThe gown should feel like a living alliance between machine and forest. The silhouette is regal, feminine, and biomechanically elegant, with a sculpted bodice, elongated torso, and dramatic organic train. Use metallic embroidered framework that resembles vines, roots, and branches, combined with silk organza petals, translucent leaf-shaped panels, moss-soft textures, and delicate chrome botanical structures. The design should include mechanical floral articulation at the shoulders and hips, subtle glowing bioluminescent details, and layered fabrics that move like petals and tendrils.\n\nTextural realism is essential: polished metal should contrast with soft petal surfaces, dew-like crystal droplets, realistic leaf veining, sheer fabrics, couture stitching, 3D embroidery, and finely crafted hand-applied botanical embellishments. The look must be luxurious, not costume-like.\n\nAccessories: a floral-mechanical crown, vine-like ear pieces, crystalline dew jewelry, arm cuffs inspired by roots and branches, elegant metallic heels. \nHair: softly wet botanical waves or a refined updo intertwined with metallic floral details. \nMakeup: luminous skin, soft green-gold highlight, earthy rose blush, subtle smoky eyes in {argument name=\"colors\" default=\"moss green\"} and bronze tones, softly glossed lips. \nExpression: mysterious, calm, powerful, almost sacred.\n\nColor palette: moss green, celadon, oxidized silver, champagne gold, ivory, muted forest brown, dew crystal. \nColor psychology: renewal, harmony, intelligence, life force, mystery, balance between softness and strength.\n\nArt inspiration language: inspired by botanical illustration, Art Nouveau flora, biomechanical growth patterns, enchanted gardens, and the beauty of living ecosystems fused with precision engineering.\n\nScene: {argument name=\"background\" default=\"Met Gala staircase\"}, lush floral backdrop, paparazzi and photographers, cinematic luxury fashion lighting, ultra-real textures, Vogue editorial realism, 8K detail.\n\nNegative prompt: fantasy costume, cheap floral dress, cartoon, copied outfit, fake flowers, bad anatomy, extra fingers, blurry image, low detail, text, logo, watermark",
+    "title": "Met Gala Biomechanical Forest Gown",
+    "description": "An editorial-style fashion prompt for a high-fashion Met Gala gown that blends biomechanical robotics with organic forest elements like vines and moss.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139355054_newlxp_HHpMd2qXMAQQxZ0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18504,
+    "content": "{\n  \"generation_request\": {\n    \"task_type\": \"single_quiet_luxury_beauty_fashion_photo\",\n    \"style\": \"japanese_garden_soft_luxury_editorial\",\n    \"aspect_ratio\": \"4:5\",\n    \"resolution\": \"8K\",\n    \"subject\": {\n      \"description\": \"adult refined woman, calm sensual beauty, elegant quiet-luxury mood\",\n      \"hair\": \"low polished knot with pearl hair pin and soft side strands\",\n      \"makeup\": \"natural glowing skin, muted rose lips, soft brown liner, gentle blush, realistic pores\",\n      \"pose\": \"seated tea pose, one hand holding matcha cup, eyes softly lowered, elegant neck and shoulder line\"\n    },\n    \"location\": {\n      \"place\": \"{argument name=\"location\" default=\"Tokyo Japanese garden\"} teahouse atmosphere\",\n      \"environment\": \"pond view, traditional teahouse, greenery, soft daylight, peaceful refined travel mood\"\n    },\n    \"fashion\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"ivory silk midi dress\"} with pale sage undertone, plum silk sash, delicate sheer shawl over shoulders\",\n      \"motifs\": \"subtle chrysanthemum or seigaiha wave woven detail on sash\",\n      \"accessories\": \"pearl earrings, fine gold necklace, pearl hair pin, ivory satin mules\"\n    },\n    \"props\": {\n      \"main_prop\": \"{argument name=\"drink\" default=\"matcha tea bowl\"} held elegantly\",\n      \"extra_prop\": \"small wagashi sweet on ceramic plate\"\n    },\n    \"color_palette\": {\n      \"colors\": [\"warm ivory\", \"matcha sage\", \"deep plum\", \"soft stone beige\"],\n      \"psychology\": \"serenity, tactile luxury, calm sensuality, refined Japanese garden elegance\"\n    },\n    \"camera\": {\n      \"camera_body\": \"Fujifilm GFX100 II look\",\n      \"lens\": \"80mm f/1.7 beauty portrait lens\",\n      \"settings\": \"f/1.7, 1/250s, ISO 320\",\n      \"angle\": \"intimate seated portrait with shallow depth of field\"\n    },\n    \"lighting\": {\n      \"style\": \"soft window and garden daylight\",\n      \"key_light\": \"diffused natural side light\",\n      \"fill\": \"gentle white bounce under chin and hands\",\n      \"grade\": \"creamy highlights, muted greens, natural skin texture\"\n    },\n    \"quality\": \"ultra-realistic, elegant, calm, premium beauty-fashion travel image, no text\",\n    \"negative_prompt\": \"messy tea props, bad hands, extra fingers, distorted cup, cheap outfit, low quality, blurry face, plastic skin, random logos, watermark, cartoon, painting, harsh flash, oversaturated green, explicit nudity\"\n  }\n}",
+    "title": "Japanese Garden Luxury Portrait",
+    "description": "A detailed prompt for a high-end editorial travel photo featuring a woman in a Tokyo teahouse, capturing refined beauty and serene atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139356268_f4aqnp_HHpHPiXWgAMHlRu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18516,
+    "content": "{argument name=\"model\" default=\"Viking Nishimura-san\"} transformed into a {argument name=\"style\" default=\"Caucasoid milky-white mass monster\"}",
+    "title": "Surreal Monster Character Transformation",
+    "description": "A surreal prompt transforming a known figure into a 'milky-white mass monster' character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139365900_liztke_HHpCG5BagAAleM9.jpg",
+      "https://cms-assets.youmind.com/media/1778139365356_ilbm02_HHpCG6OaUAAmVXG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18478,
+    "content": "A realistic outdoor low-angle smartphone selfie. The subject is a {argument name=\"subject\" default=\"young adult Korean woman\"} standing beneath a clear blue sky filled with large white clouds. The camera is positioned below her waist and angled upward, creating a strong wide-angle perspective. She looks down at the lens with a calm, detached, and relaxed expression, her lips slightly parted in a natural way, without an intentional smile. She has striking, refined beauty that effortlessly draws attention. Her hair is long and {argument name=\"hair color\" default=\"light blonde\"}, with thick bangs covering her forehead. A few loose strands are blown by the wind, catching subtle highlights in the sunlight. She has large double eyelids, a well-defined nose bridge, and slightly glossy lips. She is wearing a {argument name=\"outfit\" default=\"light gray ribbed knit long-sleeve top\"}, with one hand lifting the hem upward. The fabric forms realistic diagonal folds and layered bunching across the chest. The visual focus is on the close-up view of her abdomen, waistline, and the skin below the ribcage, while the lower edge of the chest is partially obscured by the clothing and camera angle. Her skin has a light warm tone, with peach-pink and golden highlights under strong natural sunlight. Visible details include realistic pores, a slight sheen of sweat, subtle navel detail, and soft natural skin texture, giving the impression of sun-warmed skin with a faintly moist surface. The edge of the clothing and the white earphone cable cast thin, hard-edged shadows across her abdomen. White wired earphones hang down from her ears, forming a large curved line in the foreground, with part of the cable passing across the abdominal area. Small silver earrings are also visible. The background contains only a bright blue sky, white clouds, thin cloud streaks, and a few distant dark specks, creating the feeling of a casual snapshot taken outdoors on a summer afternoon. The photography style is raw smartphone photography, a low-angle sky selfie, in a vertical 3:4 composition, shot with a smartphone wide-angle lens and a relatively deep depth of field, keeping the subject, hand, cable, and sky all mostly in clear focus.",
+    "title": "Realistic Outdoor Low Angle Sky Selfie",
+    "description": "A prompt for generating a raw smartphone-style selfie of a young woman from a low angle against a clear blue sky, emphasizing natural textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139341842_2isq92_HHo2ehTacAAG9du.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18506,
+    "content": "A realistic outdoor low-angle smartphone selfie. The subject is a {argument name=\"ethnicity\" default=\"young adult Korean woman\"} standing beneath a clear blue sky filled with large white clouds. The camera is positioned below her waist and angled upward, creating a strong wide-angle perspective. She looks down at the lens with a calm, detached, and relaxed expression, her lips slightly parted in a natural way, without an intentional smile. She has striking, refined beauty that effortlessly draws attention. Her hair is long and {argument name=\"hair color\" default=\"light blonde\"}, with thick bangs covering her forehead. A few loose strands are blown by the wind, catching subtle highlights in the sunlight. She has large double eyelids, a well-defined nose bridge, and slightly glossy lips. She is wearing a {argument name=\"top\" default=\"light gray ribbed knit long-sleeve top\"}, with one hand lifting the hem upward. The fabric forms realistic diagonal folds and layered bunching across the chest. The visual focus is on the close-up view of her abdomen, waistline, and the skin below the ribcage, while the lower edge of the chest is partially obscured by the clothing and camera angle. Her skin has a light warm tone, with peach-pink and golden highlights under strong natural sunlight. Visible details include realistic pores, a slight sheen of sweat, subtle navel detail, and soft natural skin texture, giving the impression of sun-warmed skin with a faintly moist surface. The edge of the clothing and the white earphone cable cast thin, hard-edged shadows across her abdomen. White wired earphones hang down from her ears, forming a large curved line in the foreground, with part of the cable passing across the abdominal area. Small silver earrings are also visible. The background contains only a bright blue sky, white clouds, thin cloud streaks, and a few distant dark specks, creating the feeling of a casual snapshot taken outdoors on a summer afternoon. The photography style is raw smartphone photography, a low-angle sky selfie, in a vertical 3:4 composition, shot with a smartphone wide-angle lens and a relatively deep depth of field, keeping the subject, hand, cable, and sky all mostly in clear focus.",
+    "title": "Low-Angle Wide-Sky Smartphone Selfie",
+    "description": "A raw smartphone photography prompt for a low-angle selfie with a wide-angle lens, focusing on skin texture and a bright summer sky background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139357765_2lsxax_HHo0j_ma8AExA3H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18494,
+    "content": "{\n  \"image_prompt\": {\n    \"subject_description\": {\n      \"gender\": \"Female\",\n      \"hair\": \"{argument name=\"hair\" default=\"Blonde, styled in a sleek high topknot bun\"}\",\n      \"facial_features\": \"Light eyes, soft natural makeup with peach lips, slightly parted lips with a confident, alluring gaze directed at the camera\",\n      \"hands\": \"One hand softly tracing along her jawline, the other resting on the yoga wheel\",\n      \"jewelry\": \"Small gold hoop earrings\"\n    },\n    \"clothing_and_footwear\": {\n      \"outfit_style\": \"Two-piece ribbed activewear set showing the midriff\",\n      \"color\": \"{argument name=\"color\" default=\"Glossy deep wine red\"}\",\n      \"top\": \"Cropped tank top with thin spaghetti straps\",\n      \"bottoms\": \"Fitted, high-cut short shorts\",\n      \"socks\": \"White crew socks featuring a black Nike swoosh logo\",\n      \"shoes\": \"Classic chunky white sneakers with laces\"\n    },\n    \"pose_and_composition\": {\n      \"stance\": \"Kneeling with hips pushed slightly back and torso twisted toward the camera to accentuate body curves\",\n      \"arm_position\": \"One arm draped over the yoga wheel while the other hand touches her face\",\n      \"camera_angle\": \"Low-to-mid angle shot to emphasize depth and form, creating a more intimate and striking perspective\"\n    },\n    \"props_and_environment\": {\n      \"prop\": \"{argument name=\"prop\" default=\"A circular yoga wheel fully colored in glossy deep wine red\"}\",\n      \"background\": \"Minimalist seamless glossy deep wine red studio backdrop, perfectly matching the outfit and prop color with no variation\",\n      \"floor\": \"Smooth reflective surface in the exact same glossy deep wine red tone, producing subtle reflections and defined shadows\"\n    },\n    \"image_quality_and_style\": {\n      \"format\": \"RAW photo, uncompressed straight-out-of-camera (SOOC) aesthetic\",\n      \"resolution\": \"4K HD, 8k resolution, ultra-high megapixels\",\n      \"style\": \"Photorealistic studio photography, high-end fitness fashion editorial with a sensual tone\",\n      \"lighting\": \"Soft directional studio lighting with gentle highlights on the body contours to enhance shape and depth\",\n      \"textures\": \"Hyper-realistic rendering, visible skin pores and fine hairs, highly detailed ribbed fabric on the clothing, crisp shoe leather, distinct sock knit\",\n      \"camera_settings\": \"Shot on Medium Format camera (e.g., Hasselblad H6D or Fujifilm GFX 100S), sharp 35mm lens, f/16 aperture, ISO 100, extremely deep depth of field\",\n      \"modifiers\": \"Zero background blur, no bokeh, edge-to-edge sharpness, everything in perfect focus, ultra-detailed, clean aesthetic, high fidelity, unedited raw photography\"\n    }\n  }\n}",
+    "title": "Ribbed Activewear Studio Photography",
+    "description": "A high-end fitness fashion editorial prompt featuring a monochromatic wine red theme, including a yoga wheel prop and reflective studio floor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139351654_8a4l72_HHoO39ab0AEgX_g.jpg",
+      "https://cms-assets.youmind.com/media/1778139351643_s5ccd2_HHoO396aUAAG2Wc.jpg",
+      "https://cms-assets.youmind.com/media/1778139351845_7cnu5y_HHoO3_WbAAAztQf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18492,
+    "content": "{\n  \"prompt\": {\n    \"subject\": {\n      \"type\": \"{argument name=\"shot type\" default=\"young woman selfie portrait\"}\",\n      \"face_reference\": \"use uploaded reference image face exactly\",\n      \"pose\": \"holding camera slightly above eye level for a casual selfie\",\n      \"expression\": {\n        \"mood\": \"cute, shy, playful\",\n        \"eyes\": \"one eye slightly squinted like a soft wink\",\n        \"smile\": \"small closed-mouth smile\",\n        \"facial_expression\": \"sweet innocent expression with relaxed face\"\n      }\n    },\n    \"appearance\": {\n      \"hair\": {\n        \"color\": \"reference image \",\n        \"style\": \"{argument name=\"hair style\" default=\"short wavy twin ponytails\"}\",\n        \"details\": \"loose face-framing strands\"\n      },\n      \"skin\": {\n        \"tone\": \"fair soft skin tone\",\n        \"texture\": \"smooth natural skin with light freckles\",\n        \"finish\": \"clean dewy finish\"\n      },\n      \"makeup\": {\n        \"style\": \"minimal natural makeup\",\n        \"lips\": \"soft pink lips\",\n        \"eyes\": \"very subtle mascara and pastel eyeshadow\"\n      }\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"{argument name=\"outfit\" default=\"pastel rainbow striped tank top\"}\",\n        \"style\": \"cute soft-girl aesthetic\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"bright pastel bedroom\",\n      \"background\": {\n        \"wall\": \"pink and white vertical striped wallpaper\",\n        \"decor\": \"soft white curtains, cozy bed, framed poster in background\",\n        \"style\": \"cute cozy feminine room aesthetic\"\n      }\n    },\n    \"camera\": {\n      \"angle\": \"selfie perspective\",\n      \"framing\": \"medium close-up portrait\",\n      \"lens\": \"smartphone front camera look\",\n      \"focus\": \"sharp focus on face\",\n      \"depth_of_field\": \"slight natural blur in background\"\n    },\n    \"lighting\": {\n      \"style\": \"soft natural daylight\",\n      \"source\": \"window light from the side\",\n      \"shadows\": \"very soft shadows\",\n      \"highlights\": \"gentle highlights on skin and hair\",\n      \"temperature\": \"neutral warm tones\"\n    },\n    \"color_grading\": {\n      \"style\": \"soft pastel Instagram aesthetic\",\n      \"contrast\": \"low contrast\",\n      \"saturation\": \"slightly enhanced pastel colors\",\n      \"skin_smoothing\": \"light beauty filter\",\n      \"overall_feel\": \"clean airy dreamy vibe\"\n    },\n    \"quality\": {\n      \"style\": \"photorealistic\",\n      \"detail\": \"high detail\",\n      \"texture\": \"smooth polished social media look\"\n    }\n  },\n  \"negative_prompt\": [\n    \"low quality\",\n    \"blurry image\",\n    \"distorted face\",\n    \"extra fingers\",\n    \"deformed anatomy\",\n    \"harsh lighting\",\n    \"heavy makeup\",\n    \"oversaturated colors\",\n    \"bad proportions\",\n    \"grainy texture\",\n    \"duplicate face\",\n    \"unrealistic skin\"\n  ],\n  \"settings\": {\n    \"aspect_ratio\": \"4:5\",\n    \"steps\": 30,\n    \"cfg_scale\": 7,\n    \"sampler\": \"DPM++ 2M Karras\"\n  }\n}",
+    "title": "Soft Girl Selfie Portrait",
+    "description": "A cute, shy selfie portrait prompt with a pastel soft-girl aesthetic and rainbow striped tank top.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139350180_nc64sa_HHoIIntaAAAbx2w.jpg",
+      "https://cms-assets.youmind.com/media/1778139350017_duwvpx_HHoIJjkbEAADL5Q.jpg",
+      "https://cms-assets.youmind.com/media/1778139349995_juugzj_HHoIKioacAAeBpr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18495,
+    "content": "Create image: A hyper-photorealistic candid grocery store photo of the same subject in the attached image.\n\nScene:\nInside a {argument name=\"location\" default=\"grocery store beverage aisle\"}, the woman is reaching for a drink placed on the very top refrigerator shelf. She cannot quite reach it, so she is slightly tiptoeing, stretching her arm upward with effort. The moment feels candid, awkward, and realistic, like the camera caught her mid-reach.\n\nCamera angle / lens perspective logic:\nShot from a high-level angle, as if the camera is placed near the top edge of the refrigerator shelf looking downward at the woman. Use a wide smartphone lens perspective, around 24–28mm equivalent. The hand closest to the camera appears noticeably larger due to perspective distortion, while her face and body appear smaller below.\n\nSubject-to-camera distance:\nHer reaching hand is very close to the camera, around 20–30 cm away. Her face is about 1.2 meters below the camera. The drinks on the top shelf are partially visible near the camera edge.\n\nForeground obstruction ratio:\nThe drinks she is reaching for occupy 18% of the upper foreground frame. Her enlarged reaching hand occupies 22% of the center-upper frame. A refrigerator shelf edge cuts across 8% of the top frame.\n\nEye-line angle:\nHer eyes look upward toward the drink, about 35 degrees above her natural eye line. She is not looking at the camera. Her brows are slightly raised, lips slightly parted from effort.\n\nMotion vector path:\nHer arm stretches diagonally upward from lower-right to upper-left. Fingers extend toward the drink cap. Her body weight shifts onto the balls of her feet, knees slightly straightened, shoulder lifted.\n\nFrame occupancy:\nHer enlarged hand is the dominant foreground element. Her face occupies around 14% of the frame height. Her full upper body occupies around 45% of the frame height. Keep the top-shelf drinks visibly close to the lens.\n\nPose:\nOne arm fully extended upward, fingers almost touching the bottle. Other arm slightly bent near her side for balance. She is standing on tiptoe, heels slightly lifted, torso stretched long, chin tilted upward.\n\nOutfit:\n{argument name=\"outfit\" default=\"Casual grocery outfit: fitted white baby tee, loose light-wash straight-leg jeans, simple sneakers, thin bracelet on reaching wrist, small shoulder bag hanging from one shoulder\"}.\n\nHair:\nLoose natural hair falling backward slightly because her head is tilted up, a few strands near her cheek and neck, realistic flyaways.\n\nMakeup:\nNatural everyday makeup, dewy skin, soft blush, realistic pores, slight under-eye texture, natural brows, muted pink lips.\n\nBackground:\nBright grocery store beverage refrigerator aisle with rows of bottled drinks, soda cans, juice bottles, price tags, cool white refrigerator lighting, metal shelf rails, glass door reflections, slightly cluttered real-store arrangement.\n\nCamera / realism:\nShot on {argument name=\"camera\" default=\"iPhone 15 Pro 0.5x or 1x wide lens\"}, crisp smartphone detail, cool refrigerator lighting, normal white balance, slight wide-a",
+    "title": "Candid Grocery Store Aisle Selfie",
+    "description": "A hyper-photorealistic candid photo prompt of a subject reaching for a top-shelf drink in a grocery store, using a wide smartphone lens perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139351562_ocm1s6_HHnyyqiaUAAqPgW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18488,
+    "content": "Ultra-realistic full body photo of a {argument name=\"subject\" default=\"stylish young woman sitting sideways on a skateboard\"} in a {argument name=\"setting\" default=\"calm urban street\"}, natural human proportions, full body in frame, feet visible, no cropping, wearing {argument name=\"outfit\" default=\"high-waisted light blue denim jeans, oversized neutral t-shirt, clean white sneakers\"}, minimal baseball cap, relaxed street style, one knee bent and the other slightly extended, one hand resting on skateboard, other touching hair, candid pose, soft relaxed expression looking slightly down, loose slightly messy hair, dewy skin, glossy lips, natural glow, pastel wall background, minimal street, soft shadows, golden hour lighting, warm tones, cinematic bokeh, shallow depth of field, iPhone-style candid shot, soft grain, ultra-detailed, 8K, 85mm lens, f/1.8",
+    "title": "Stylish Street Style Portrait",
+    "description": "An ultra-realistic full-body photo of a woman on a skateboard, capturing a relaxed urban street vibe during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139347671_kdd63f_HHnoTpdaIAArOIt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18477,
+    "content": "Ultra-realistic cinematic 8K portrait of a beautiful young woman dancing gracefully in the rain, wearing a {argument name=\"dress type\" default=\"flowing white dress\"} that softly clings to her silhouette as it gets wet, delicate fabric moving with motion. She holds a transparent umbrella above her, slightly tilted as raindrops fall and splash around, creating a dreamy, romantic atmosphere. Her long {argument name=\"hair color\" default=\"brown hair\"} is slightly damp, flowing naturally with soft movement, strands lightly sticking to her face and shoulders. She has radiant, glowing skin with elegant makeup, featuring bold {argument name=\"lip color\" default=\"berry-toned lips\"}, soft blush, and subtly defined eyes that enhance her beauty. Her expression is joyful and free, eyes half-closed or looking upward, fully immersed in the rain. Soft street lights or ambient lighting reflect on the wet ground, creating cinematic reflections and bokeh in the background. Water droplets frozen mid-air, high detail, depth of field, slow-motion feel, emotional, aesthetic, romantic rain vibe, fashion editorial style, natural pose, ultra-detailed textures, volumetric lighting.",
+    "title": "Graceful Dancing in the Rain Portrait",
+    "description": "An ultra-realistic cinematic portrait of a young woman in a white dress dancing gracefully in the rain, capturing soft lighting and romantic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139342308_2c0zmm_HHnExaRaUAAh5_w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18512,
+    "content": "The two images feature multiple exposures of the same young woman and young man, capturing various emotions and angles in a single photograph. The images depict them in multiple poses and facial expressions with a {argument name=\"location\" default=\"city background\"} and a slightly aged, antique aesthetic. It is rendered in a {argument name=\"aesthetic\" default=\"black and white with sepia-tinted\"} and features small text in the corner, with slightly different details for each, but maintaining a consistent theme and style.",
+    "title": "Multiple Exposure Sepia Portrait",
+    "description": "A prompt for a multi-exposure portrait with a nostalgic antique aesthetic, capturing different emotions in a black and white sepia-tinted style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139361355_z6c3fj_HHm4oVAWkAQCKdS.jpg",
+      "https://cms-assets.youmind.com/media/1778139361623_nnh5lu_HHm4oU_WwAAMH68.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18487,
+    "content": "Ultra realistic photo of a young woman in the uploaded image at a gas station at night, holding the camera with one hand (arm visible in frame), slightly high angle selfie perspective, relaxed confident expression looking directly at the camera, natural unposed moment,\nwearing a {argument name=\"outfit\" default=\"black hoodie\"}, and small sunglasses, casual streetwear style, natural look,\nstanding in front of a {argument name=\"car\" default=\"black Porsche sports car with a rear wing\"}, wet surface with visible raindrops and reflections on the car body, glossy realistic reflections,\nrainy gas station environment at night ({argument name=\"station\" default=\"Gulf station\"}), wet asphalt reflecting neon lights, city buildings in the background, cinematic urban night atmosphere,\nharsh iPhone lighting mixed with gas station canopy lights and street lights, strong reflections, slight highlight clipping, uneven exposure,\npuddles on the ground reflecting lights, subtle motion blur from distant cars,\nwide-angle smartphone lens (0.5x feel), slight distortion, exaggerated perspective,\ncandid composition, imperfect framing, slight tilt, snapshot aesthetic,\nvisible noise, grain, compression artifacts, light bloom, lens flare,\nphotorealistic, raw, unedited, extremely detailed, 8K\n🚫 Negative Prompt\nsmooth skin, plastic skin, beauty filter, airbrushed, CGI, 3D render, cartoon, anime, HDR clean, overprocessed, oversharpen, studio lighting, perfect lighting, fake reflections, unrealistic symmetry, waxy skin. 3:4 aspect ratio\nOptional Boost\ndirty lens, water droplets on lens, fingerprint smudge, slight blur, imperfect focus, noise shadows, blown highlights.",
+    "title": "Urban Night Gas Station Portrait",
+    "description": "A cinematic night scene of a young woman taking a selfie at a gas station next to a Porsche, featuring realistic rain, neon reflections, and smartphone photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139347550_1rg3ot_HHm1-fabAAAGj8j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18510,
+    "content": "High-quality cute portrait photo of a {argument name=\"subject\" default=\"young girl\"} sitting in a cozy café, captured in a bright soft-flash lighting style. Main subject (girl): • Cute youthful face, fair flawless skin • Soft glam natural makeup with pink blush • One eye winking playfully, small smile • Two neat black braided pigtails • Wearing an oversized {argument name=\"hat\" default=\"blue plush mouse hat\"} with huge round ears, pink ear lining, and a tiny pink nose • Holding both sides of the hat with her hands lifted up Outfit:• {argument name=\"outfit\" default=\"pastel striped knit zip-up cardigan\"} • Colors: baby blue, soft yellow, pale pink, white stripes • Light blue collar visible under the cardigan • Cozy, soft texture, slightly oversized sleeves Pose: • Sitting front-facing • Playful expression, slight head tilt • Both hands pulling the long sides of the mouse hat outward Café background: • Minimalist bright café interior • Glass display case with pastries • Menu board on the wall (blurred) • Plants adding cozy vibes• Warm ambient lighting with clean white tones • Slight depth-of-field blur Table elements: • Blue tray in front of her • Small slice of layered pastel cake (pink + white + blue) with strawberry on top • Glass of drink with whipped topping and a cherry inside • Fork and spoon next to the plate Lighting & Camera: • Soft flash photography with bright highlights • Slight overexposed glow on skin for cute aesthetic • 3:4 vertical composition • Clean, crisp texture with pastel tones dominant• No harsh shadows • Kawaii café snapshot vibe Aesthetic: Cute pastel, cozy café girl, playful expression, soft flash, colorful and happy atmosphere.",
+    "title": "Kawaii Café Pigtails Portrait",
+    "description": "A playful and cute portrait prompt in a soft-flash photography style, featuring a girl in a mouse hat at a cozy pastel café.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139359727_dmhz3u_HHmdl5xbEAA4eAH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18499,
+    "content": "Create a freeform fashion-editorial collage of me in {argument name=\"number of looks\" default=\"8 distinct full-body casual wear\"}, arranged organically on a {argument name=\"background\" default=\"clean cream studio backdrop\"}. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts. All figures are full-body, at the same scale & camera distance, arranged in a balanced two-row composition. -ar 4:5",
+    "title": "Fashion Editorial Casual Collage",
+    "description": "A freeform fashion-editorial collage prompt featuring multiple full-body casual looks arranged organically on a studio backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139353942_di9j69_HHmVZvLbkAAyZK1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18520,
+    "content": "{argument name=\"theme\" default=\"Aquarius meteor shower\"}\n\n{argument name=\"series\" default=\"Saint Seiya\"}\n{argument name=\"style\" default=\"Aquarius Camus style\"}",
+    "title": "Aquarius Camus Style Meteor Shower",
+    "description": "A prompt for generating a meteor shower illustration in the style of Camus from Saint Seiya.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139368613_6vleru_HHmTRsQbQAArUUw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18521,
+    "content": "{argument name=\"theme\" default=\"Aquarius meteor shower\"}\n\n{argument name=\"keyword\" default=\"Aquarius\"}\n\n{argument name=\"shout\" default=\"Of Aquarius!\"}",
+    "title": "Aquarius Meteor Shower Illustration",
+    "description": "A creative prompt for an Aquarius-themed meteor shower illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139368703_vrp7qj_HHmSpU2bgAAfTc8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18507,
+    "content": "A hyper-realistic portrait photo of a young woman with {argument name=\"subject\" default=\"red hair\"}, fair skin, and freckles, resembling Sadie Sink, wearing a {argument name=\"saree color\" default=\"deep maroon\"} silk saree with a thick gold zari border. She is adorned with traditional Indian gold jewelry including a nose ring, jhumka earrings, and layered antique necklaces. A vibrant garland of {argument name=\"flowers\" default=\"orange marigolds\"} and white jasmine flowers is draped over her right shoulder. She has a playful expression, gently biting her lower lip and glancing to the side. The background is an out-of-focus traditional Indian architectural archway. Warm golden hour lighting, cinematic, shallow depth of field, 8k resolution, photorealistic.",
+    "title": "Traditional Indian Saree Portrait",
+    "description": "A hyper-realistic photography prompt for a woman in traditional Indian attire, featuring silk textures, gold jewelry, and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139357687_tv5bhc_HHmP_NgbkAAO0Ve.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18513,
+    "content": "A beautiful Indian woman with {argument name=\"hair\" default=\"long black hair\"} and expressive eyes, holding peacock feathers near her face, wearing a {argument name=\"saree\" default=\"rich red and gold silk saree\"} with bridal jewelry, bold makeup with red lips, soft dreamy upward gaze, surrounded by peacock feather backdrop, low-light cinematic portrait, Rembrandt lighting, rim light, 85mm lens, shallow depth of field, ultra-detailed, 8K, realistic, {argument name=\"colors\" default=\"emerald green\"}, gold and red tones, luxurious mood .",
+    "title": "Indian Bridal Peacock Feather Portrait",
+    "description": "A luxurious cinematic portrait prompt of an Indian woman with bridal jewelry, framed by peacock feathers and Rembrandt lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139361383_pt9rkg_HHmFaGRaoAEl99s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18484,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": \"Neutral confident expression matching uploaded reference image with calm focused gaze\",\n        \"hair\": \"Use uploaded reference image, keep identity exact, natural medium-length hair with soft texture and slight volume\",\n        \"accessories\": [],\n        \"details\": [\n          \"Natural skin texture with visible sunlight highlights\",\n          \"Subtle sheen from outdoor lighting\",\n          \"No heavy retouching, realistic finish\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\",\n        \"features\": [\n          \"Defined waist\",\n          \"Natural curves\",\n          \"Smooth skin tone\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"type\": \"{argument name=\"outfit type\" default=\"Fitted one-piece swimsuit\"}\",\n        \"color\": \"{argument name=\"color scheme\" default=\"pink to purple gradient\"} (soft blended transition with vibrant natural tones)\",\n        \"design\": [\n          \"Minimal clean design\",\n          \"Sleeveless straps\",\n          \"High-cut leg openings\",\n          \"Smooth stretch fabric\"\n        ],\n        \"fit\": \"Body-hugging silhouette\"\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Lying on {argument name=\"surface\" default=\"large natural rock\"}\",\n      \"body_position\": \"Torso supported by straight arms placed on rock, hips lowered, one leg extended back and the other slightly bent\",\n      \"hands\": \"Both hands placed firmly on rock surface supporting upper body\",\n      \"head_direction\": \"Facing forward toward camera\",\n      \"gaze\": \"Direct eye contact with camera\",\n      \"details\": [\n        \"Exact pose matching reference image\",\n        \"Arms extended creating lifted upper body\",\n        \"Back slightly arched\",\n        \"Legs elongated along rock surface\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Outdoor garden setting\",\n      \"background\": [\n        \"Green grass lawn\",\n        \"Dense tall hedge wall\",\n        \"Single tall palm tree\",\n        \"Clear bright blue sky\",\n        \"Wooden border landscaping\"\n      ],\n      \"atmosphere\": \"Bright sunny day with clean natural outdoor environment\"\n    },\n    \"lighting\": {\n      \"type\": \"Strong natural sunlight\",\n      \"style\": \"High contrast daylight\",\n      \"effect\": \"Crisp shadows, bright highlights, realistic skin tones\"\n    },\n    \"mood\": [\n      \"Natural\",\n      \"Confident\",\n      \"Relaxed\",\n      \"Outdoor lifestyle\",\n      \"Sunny\"\n    ],\n    \"technical\": {\n      \"framing\": \"Full body shot\",\n      \"camera_angle\": \"Slightly low front angle\",\n      \"focal_length\": \"50mm\",\n      \"style\": \"Photorealistic outdoor fashion photography\",\n      \"quality\": [\n        \"Sharp focus\",\n        \"Natural color accuracy\",\n        \"Balanced contrast\",\n        \"Realistic textures\"\n      ]\n    }\n  }\n}",
+    "title": "Outdoor Swimsuit Fashion Shoot on Rock",
+    "description": "A comprehensive photorealistic fashion photography prompt for a woman in a gradient swimsuit posing on a natural rock in a bright garden setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139345130_xq32ti_HHkzb2ZawAAXGI3.jpg",
+      "https://cms-assets.youmind.com/media/1778139345580_njr2m8_HHkzckPaQAEAUeC.jpg",
+      "https://cms-assets.youmind.com/media/1778139345173_tpwgo4_HHkzdLSaMAAL_vG.jpg",
+      "https://cms-assets.youmind.com/media/1778139346166_cqhi19_HHkzdvNa4AAgm2t.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18257,
     "content": "{\n  \"character_profile\": {\n    \"gender\": \"female\",\n    \"ethnicity\": \"{argument name=\"ethnicity\" default=\"South Asian/Mediterranean mix\"}\",\n    \"hair\": \"{argument name=\"hair style\" default=\"long, wavy, dark brown\"}\",\n    \"features\": \"fair skin, prominent jawline, friendly smile\",\n    \"consistency_reference\": \"link_to_original_beach_photo\"\n  },\n  \"global_style\": {\n    \"format\": \"{argument name=\"collage format\" default=\"4-panel collage\"}\",\n    \"background_color\": \"neutral light gray\",\n    \"border\": \"thick white frames around each panel\",\n    \"lighting\": \"soft, natural daylight\",\n    \"aesthetic\": \"realistic photography, high resolution\"\n  }\n}",
     "title": "Character Consistency Profile Collage",

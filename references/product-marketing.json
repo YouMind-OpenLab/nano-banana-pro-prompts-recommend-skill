@@ -21,6 +21,111 @@
     "needReferenceImages": true
   },
   {
+    "id": 18476,
+    "content": "dramatic low-angle wide-lens shot of an person attached in the uploaded reference image seated in a casual diner booth, holding a slim {argument name=\"product\" default=\"soda can\"} close to the camera as the clear hero, {argument name=\"style\" default=\"Egyptian style label\"} fully visible, playful rebellious attitude, one hand raised in a bold \"rock on\" gesture, straw in mouth, {argument name=\"clothing\" default=\"oversized jacket and cap\"}, warm direct light, tiled wall and wood panel backdrop, tray with fries and a half-eaten wrap on the table, gritty fast-food editorial energy, exaggerated perspective distortion, realistic skin texture and crisp can detail, candid street campaign feel, cheeky, raw, stylish, polished, and instantly scroll-stopping.\nAspect ratio 5:4",
+    "title": "Diner Booth Editorial Soda Can Portrait",
+    "description": "A dramatic, gritty editorial-style prompt for a person in a diner, utilizing a reference image to maintain subject identity while creating a stylized scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139342273_bio2ca_HHq54hmXYAA827t.jpg",
+      "https://cms-assets.youmind.com/media/1778139342339_8u1yhq_HHq54cXWEAEsMWW.jpg",
+      "https://cms-assets.youmind.com/media/1778139342304_5g17y0_HHq54c9XsAw8O0W.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18509,
+    "content": "Do this for {argument name=\"product\" default=\"B2 plane\"}: inputs ::= product ::= [any product / device / tool / appliance / machine] functions ::= [ai infer 3 to 7 core functional systems of product] subsystem_count ::= [ai infer] material_logic ::= [ai infer likely materials and mechanical parts] era_bias ::= [{argument name=\"style\" default=\"industrial / retro-futurist / modern / luxury engineering\"}] sketch_style ::= [{argument name=\"sketch type\" default=\"patent sketch / engineering notebook / blueprint engraving / industrial concept sheet\"}] hero_style ::= [studio product photo / cinematic workshop render / luxury catalog shot] layout ::= +----------------------------------------------------------------------------------+ | top panel :: invention / research board | | | | [orthographic sketch] [section cutaway] [component studies] [functional diagram]| | [gauge / chart / equation / small notes] [exploded parts] [form variants] | | | | goal: show how product might have been invented, refined, tested, and iterated. | | | |----------------------------------------------------------------------------------| | bottom panel :: polished final product | | | | [hero shot of fully realized product] | | [beautiful materials] [precise machining] [studio/warm workshop lighting] | | | +----------------------------------------------------------------------------------+ instruction ::= generate a two-panel invention inspiration board for product. the top half must look like a dense r&d archive showing ai-inferred mechanisms, studies, performance ideas, component experiments, and form exploration. the bottom half must show the final refined product as a premium finished object. make the whole image feel like \"from concept science to product realization.\" no hard-coded product details unless provided by the user.",
+    "title": "Product Design Innovation Board",
+    "description": "A sophisticated design prompt for generating a two-panel board that showcases both R&D sketches and a polished final product render.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139359864_f9adc0_HHOQR7PW8AAUbtd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18485,
+    "content": "A medium shot captures a {argument name=\"subject\" default=\"young Asian woman\"} in a stylized outfit, standing against a textured, weathered wall. She wears a form-fitted, {argument name=\"outfit\" default=\"light denim corset\"} with dark accents and oversized metallic grommets, paired with a short, matching denim skirt. Her ensemble includes dramatic, oversized hoop earrings and a chunky necklace. Her arms are draped in a {argument name=\"jacket\" default=\"brown faux fur jacket\"} with voluminous sleeves. She carries a small, cream-colored handbag with decorative holes and a dangling key charm. Her stockings are lace-trimmed, complementing her knee-high, black heeled boots. The setting features an urban, distressed wall with visible cracks and wires. The image employs natural daylight, creating a warm, muted color palette that enhances the bohemian, fashion-forward mood and commemorates an offbeat, eclectic style. HEX VALUES: [\"#d2cbb3\", \"#dcd6be\", \"#c8bfa5\", \"#978a76\", \"#b9af96\", \"#a99c86\", \"#433b35\", \"#8d7760\", \"#0e0d10\", \"#79614d\", \"#282423\", \"#654e3d\", \"#717169\", \"#575751\", \"#e5e2d1\"]",
+    "title": "Eclectic Urban Fashion Portrait",
+    "description": "A medium shot of a woman in a denim corset and faux fur jacket against an urban distressed wall, featuring a warm bohemian palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139346469_q9ks70_HHpof34bAAA1oU_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18480,
+    "content": "Generate a golden-hour streetwear Facebook ad. A {argument name=\"model type\" default=\"curly-haired male model\"} stands at a crosswalk, leaning against a traffic light pole in an urban neighborhood with brick buildings and graffiti. He wears an oversized {argument name=\"shirt color\" default=\"black\"} street-tee with a large {argument name=\"graphic\" default=\"blue eagle graphic\"}, loose black pants, and black sneakers. Full-body shot, slightly low angle, soft warm shadows. Add center text. '{argument name=\"main text\" default=\"STREET-TEE\"}' (brush font) and below it Now 'REIMAGINED' (bold). Add a thin horizontal line of repeated 'Shop Now >' text across the chest area. Scene should match high-fashion streetwear campaign aesthetics",
+    "title": "Golden Hour Streetwear Facebook Ad",
+    "description": "A commercial-style prompt for a streetwear Facebook ad featuring an urban male model at sunset with specific font and text overlay instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139343716_dcsjcy_HHpR95UaIAEfsjM.jpg",
+      "https://cms-assets.youmind.com/media/1778139343738_cjxbh8_HHpR-dDbgAApAa_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18501,
+    "content": "Ultra-photorealistic Met Gala editorial image of an adult high-fashion woman wearing an original couture gown inspired by the {argument name=\"inspiration\" default=\"fusion of nature and robotics\"}, not a copy of any real celebrity outfit.\n\nThe gown should feel like a living alliance between machine and forest. The silhouette is regal, feminine, and biomechanically elegant, with a sculpted bodice, elongated torso, and dramatic organic train. Use metallic embroidered framework that resembles vines, roots, and branches, combined with silk organza petals, translucent leaf-shaped panels, moss-soft textures, and delicate chrome botanical structures. The design should include mechanical floral articulation at the shoulders and hips, subtle glowing bioluminescent details, and layered fabrics that move like petals and tendrils.\n\nTextural realism is essential: polished metal should contrast with soft petal surfaces, dew-like crystal droplets, realistic leaf veining, sheer fabrics, couture stitching, 3D embroidery, and finely crafted hand-applied botanical embellishments. The look must be luxurious, not costume-like.\n\nAccessories: a floral-mechanical crown, vine-like ear pieces, crystalline dew jewelry, arm cuffs inspired by roots and branches, elegant metallic heels. \nHair: softly wet botanical waves or a refined updo intertwined with metallic floral details. \nMakeup: luminous skin, soft green-gold highlight, earthy rose blush, subtle smoky eyes in {argument name=\"colors\" default=\"moss green\"} and bronze tones, softly glossed lips. \nExpression: mysterious, calm, powerful, almost sacred.\n\nColor palette: moss green, celadon, oxidized silver, champagne gold, ivory, muted forest brown, dew crystal. \nColor psychology: renewal, harmony, intelligence, life force, mystery, balance between softness and strength.\n\nArt inspiration language: inspired by botanical illustration, Art Nouveau flora, biomechanical growth patterns, enchanted gardens, and the beauty of living ecosystems fused with precision engineering.\n\nScene: {argument name=\"background\" default=\"Met Gala staircase\"}, lush floral backdrop, paparazzi and photographers, cinematic luxury fashion lighting, ultra-real textures, Vogue editorial realism, 8K detail.\n\nNegative prompt: fantasy costume, cheap floral dress, cartoon, copied outfit, fake flowers, bad anatomy, extra fingers, blurry image, low detail, text, logo, watermark",
+    "title": "Met Gala Biomechanical Forest Gown",
+    "description": "An editorial-style fashion prompt for a high-fashion Met Gala gown that blends biomechanical robotics with organic forest elements like vines and moss.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139355054_newlxp_HHpMd2qXMAQQxZ0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18517,
+    "content": "A professional advertisement for \"{argument name=\"brand\" default=\"AM Cosmetics\"}\" featuring the {argument name=\"palette\" default=\"Eye Journey Palette\"} from The Midnight Gala Collection. The central focus is a woman with long, wavy brown hair showcasing a vibrant, multi-colored eyeshadow look with shades of emerald green, deep blue, and shimmering gold. Surrounding her are open makeup palettes displaying 18 pigmented shades, scattered eyeshadow powder, and gold-handled brushes. The aesthetic is luxurious, set against a {argument name=\"background\" default=\"white marble background\"} with elegant gold accents and text detailing the palette’s matte, shimmer, metallic, and glitter finishes.",
+    "title": "Luxury Makeup Palette Advertisement",
+    "description": "A professional advertisement prompt for a makeup collection, featuring vibrant eyeshadow looks and elegant white marble backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139364592_0rg0yw_HHpAndzXEAYw-_5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18494,
+    "content": "{\n  \"image_prompt\": {\n    \"subject_description\": {\n      \"gender\": \"Female\",\n      \"hair\": \"{argument name=\"hair\" default=\"Blonde, styled in a sleek high topknot bun\"}\",\n      \"facial_features\": \"Light eyes, soft natural makeup with peach lips, slightly parted lips with a confident, alluring gaze directed at the camera\",\n      \"hands\": \"One hand softly tracing along her jawline, the other resting on the yoga wheel\",\n      \"jewelry\": \"Small gold hoop earrings\"\n    },\n    \"clothing_and_footwear\": {\n      \"outfit_style\": \"Two-piece ribbed activewear set showing the midriff\",\n      \"color\": \"{argument name=\"color\" default=\"Glossy deep wine red\"}\",\n      \"top\": \"Cropped tank top with thin spaghetti straps\",\n      \"bottoms\": \"Fitted, high-cut short shorts\",\n      \"socks\": \"White crew socks featuring a black Nike swoosh logo\",\n      \"shoes\": \"Classic chunky white sneakers with laces\"\n    },\n    \"pose_and_composition\": {\n      \"stance\": \"Kneeling with hips pushed slightly back and torso twisted toward the camera to accentuate body curves\",\n      \"arm_position\": \"One arm draped over the yoga wheel while the other hand touches her face\",\n      \"camera_angle\": \"Low-to-mid angle shot to emphasize depth and form, creating a more intimate and striking perspective\"\n    },\n    \"props_and_environment\": {\n      \"prop\": \"{argument name=\"prop\" default=\"A circular yoga wheel fully colored in glossy deep wine red\"}\",\n      \"background\": \"Minimalist seamless glossy deep wine red studio backdrop, perfectly matching the outfit and prop color with no variation\",\n      \"floor\": \"Smooth reflective surface in the exact same glossy deep wine red tone, producing subtle reflections and defined shadows\"\n    },\n    \"image_quality_and_style\": {\n      \"format\": \"RAW photo, uncompressed straight-out-of-camera (SOOC) aesthetic\",\n      \"resolution\": \"4K HD, 8k resolution, ultra-high megapixels\",\n      \"style\": \"Photorealistic studio photography, high-end fitness fashion editorial with a sensual tone\",\n      \"lighting\": \"Soft directional studio lighting with gentle highlights on the body contours to enhance shape and depth\",\n      \"textures\": \"Hyper-realistic rendering, visible skin pores and fine hairs, highly detailed ribbed fabric on the clothing, crisp shoe leather, distinct sock knit\",\n      \"camera_settings\": \"Shot on Medium Format camera (e.g., Hasselblad H6D or Fujifilm GFX 100S), sharp 35mm lens, f/16 aperture, ISO 100, extremely deep depth of field\",\n      \"modifiers\": \"Zero background blur, no bokeh, edge-to-edge sharpness, everything in perfect focus, ultra-detailed, clean aesthetic, high fidelity, unedited raw photography\"\n    }\n  }\n}",
+    "title": "Ribbed Activewear Studio Photography",
+    "description": "A high-end fitness fashion editorial prompt featuring a monochromatic wine red theme, including a yoga wheel prop and reflective studio floor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139351654_8a4l72_HHoO39ab0AEgX_g.jpg",
+      "https://cms-assets.youmind.com/media/1778139351643_s5ccd2_HHoO396aUAAG2Wc.jpg",
+      "https://cms-assets.youmind.com/media/1778139351845_7cnu5y_HHoO3_WbAAAztQf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18491,
+    "content": "A high-octane promotional poster for a \"{argument name=\"restaurant theme\" default=\"Spicy Food\"}\" restaurant featuring a cast-iron skillet overflowing with {argument name=\"dishes\" default=\"fiery grilled shrimp and char-broiled chicken skewers\"}. The dish is garnished with vibrant red and green chili peppers, grilled corn, and fresh lime, all set against a backdrop of dramatic rising flames and steam. The aesthetic is bold and rustic, using a {argument name=\"setting\" default=\"dark wooden table setting\"} and intense orange and yellow typography that includes slogans like \"Explode Your Palate\" and \"Taste the Fire.\"",
+    "title": "Spicy Food Restaurant Poster",
+    "description": "A high-octane promotional poster prompt for a restaurant featuring fiery grilled shrimp and chicken with dramatic steam and flames.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139349241_dz35xw_HHoAadNWkAU-Pwq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18511,
+    "content": "Create a premium futuristic footwear campaign inspired by high end sneaker advertisements. Use the uploaded male model’s face and appearance as the main character in all frames. Feature stylish {argument name=\"shoes\" default=\"Puma Nitro sneakers\"} in {argument name=\"colors\" default=\"deep crimson and black\"} with glowing translucent nitro soles. {argument name=\"lighting\" default=\"pink and magenta lighting\"}, floating fabric waves, liquid energy splashes, glossy reflections, luxury fashion atmosphere, ultra realistic.\n\nScene 1, close up floating Puma Nitro shoe surrounded by metallic liquid ribbons and flowing silk fabric.\nScene 2, macro detail shot of the glowing Nitro sole with soft neon reflections and premium textures.\nScene 3, the male model walking confidently in a minimal beige luxury outfit wearing Puma Nitro sneakers, soft sunset gradient background.\nScene 4, dynamic action jump pose with motion streaks and glowing shoe trails, futuristic energy aesthetic.\nScene 5, clean hero product shot of Puma Nitro sneaker on reflective surface with studio lighting.\nScene 6, silhouette fashion pose with dramatic neon aura behind the model, luxury sportswear campaign look.\n\nColor palette, blush pink, wine red, soft beige, metallic rose highlights.\nStyle, cinematic, hyper realistic, premium sports brand campaign, 8K, editorial photography, shallow depth of field, luxury sneaker commercial aesthetic.”",
+    "title": "Futuristic Footwear Advertising Campaign",
+    "description": "A multi-scene campaign prompt for luxury futuristic sneakers, including close-ups, macro details, and dynamic lifestyle shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139361579_3yak9b_HHn7m_TbsAA4yhn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18500,
+    "content": "A front-facing product photo of a {argument name=\"product\" default=\"white cosmetic tube\"} slightly tilted, placed in a {argument name=\"background\" default=\"refreshing blue space\"}, surrounded by a dynamic splash of water hitting and wrapping around the tube, background softly blurred with {argument name=\"foliage\" default=\"green leaves\"} visible, sharp cinematic lighting with strong contrast highlighting textures and reflections, hyperrealistic material rendering, shot with a Canon EOS R5, 85mm f/1.8 lens, vivid natural color grading, vertical 3:4 ratio, ultra-real aesthetic --ar 3:4 --raw",
+    "title": "Cinematic Cosmetic Product Photography",
+    "description": "A high-end product photography prompt for cosmetics, featuring dynamic water splashes and crisp cinematic lighting against a natural background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139354213_wsnffj_HHn1xIJaQAAnKkI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18253,
     "content": "cmd>> initiate 5-axis cnc router simulation\n\ntarget_material: high-density mdf and pale balsa wood blocks, glued in visible horizontal strata (layers).\nmilling_subject: [variable_location]\n[variable_location]: \"{argument name=\"location\" default=\"city mecca\"}\"\n\ntoolpath_instructions:\n1. roughing_pass: carve the master block into an impossible, continuous mobius-strip geometry.\n2. finishing_pass: micro-carve the surface to perfectly replicate the urban layout of [variable_location]. \n3. ai_detailing: the router must intricately carve the buildings, monuments, houses and other elements of the [variable_location[, seamlessly bending them along the twisted wooden loop. \n\nsurface_finish: \ndo not paint. leave the laser-burn marks in the deep crevices. leave the wood dust in the tiny carved streets. insert microscopic silver metal pins to represent cars on the looping avenues.\n\nrender_output:\na photorealistic close-up of this finished physical sculpture resting on a craftsman's workbench. overhead shop lighting.",
     "title": "CNC Router Wood Sculpture Simulation",

@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 18505,
+    "content": "A high-end editorial portrait of a young man, using the provided image as a facial reference, now wearing {argument name=\"sunglasses\" default=\"matte black oval sunglasses\"} and a {argument name=\"shirt\" default=\"red and white checkered flannel shirt\"}. The face is artistically deconstructed into a grid of overlapping square photo fragments, creating a subtle 3D layered effect with slight offsets. Scattered around the head are realistic sticky notes in cream and muted crimson, featuring handwritten script that reads '{argument name=\"text\" default=\"young energy\"},' 'quiet power,' and 'young soul.' The background is a clean, off-white studio wall. The lighting is soft and directional, creating sharp details on the facial hair and fabric texture. Centered composition, premium lifestyle magazine aesthetic, 8k resolution, hyper-realistic textures.",
+    "title": "Deconstructed Grid Editorial Portrait",
+    "description": "An artistic editorial portrait prompt that deconstructs a face into a fragmented 3D grid with sticky notes for a creative magazine aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139357286_7lte83_HHpnaNLbAAA0du9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18491,
+    "content": "A high-octane promotional poster for a \"{argument name=\"restaurant theme\" default=\"Spicy Food\"}\" restaurant featuring a cast-iron skillet overflowing with {argument name=\"dishes\" default=\"fiery grilled shrimp and char-broiled chicken skewers\"}. The dish is garnished with vibrant red and green chili peppers, grilled corn, and fresh lime, all set against a backdrop of dramatic rising flames and steam. The aesthetic is bold and rustic, using a {argument name=\"setting\" default=\"dark wooden table setting\"} and intense orange and yellow typography that includes slogans like \"Explode Your Palate\" and \"Taste the Fire.\"",
+    "title": "Spicy Food Restaurant Poster",
+    "description": "A high-octane promotional poster prompt for a restaurant featuring fiery grilled shrimp and chicken with dramatic steam and flames.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139349241_dz35xw_HHoAadNWkAU-Pwq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18511,
+    "content": "Create a premium futuristic footwear campaign inspired by high end sneaker advertisements. Use the uploaded male model’s face and appearance as the main character in all frames. Feature stylish {argument name=\"shoes\" default=\"Puma Nitro sneakers\"} in {argument name=\"colors\" default=\"deep crimson and black\"} with glowing translucent nitro soles. {argument name=\"lighting\" default=\"pink and magenta lighting\"}, floating fabric waves, liquid energy splashes, glossy reflections, luxury fashion atmosphere, ultra realistic.\n\nScene 1, close up floating Puma Nitro shoe surrounded by metallic liquid ribbons and flowing silk fabric.\nScene 2, macro detail shot of the glowing Nitro sole with soft neon reflections and premium textures.\nScene 3, the male model walking confidently in a minimal beige luxury outfit wearing Puma Nitro sneakers, soft sunset gradient background.\nScene 4, dynamic action jump pose with motion streaks and glowing shoe trails, futuristic energy aesthetic.\nScene 5, clean hero product shot of Puma Nitro sneaker on reflective surface with studio lighting.\nScene 6, silhouette fashion pose with dramatic neon aura behind the model, luxury sportswear campaign look.\n\nColor palette, blush pink, wine red, soft beige, metallic rose highlights.\nStyle, cinematic, hyper realistic, premium sports brand campaign, 8K, editorial photography, shallow depth of field, luxury sneaker commercial aesthetic.”",
+    "title": "Futuristic Footwear Advertising Campaign",
+    "description": "A multi-scene campaign prompt for luxury futuristic sneakers, including close-ups, macro details, and dynamic lifestyle shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139361579_3yak9b_HHn7m_TbsAA4yhn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18477,
+    "content": "Ultra-realistic cinematic 8K portrait of a beautiful young woman dancing gracefully in the rain, wearing a {argument name=\"dress type\" default=\"flowing white dress\"} that softly clings to her silhouette as it gets wet, delicate fabric moving with motion. She holds a transparent umbrella above her, slightly tilted as raindrops fall and splash around, creating a dreamy, romantic atmosphere. Her long {argument name=\"hair color\" default=\"brown hair\"} is slightly damp, flowing naturally with soft movement, strands lightly sticking to her face and shoulders. She has radiant, glowing skin with elegant makeup, featuring bold {argument name=\"lip color\" default=\"berry-toned lips\"}, soft blush, and subtly defined eyes that enhance her beauty. Her expression is joyful and free, eyes half-closed or looking upward, fully immersed in the rain. Soft street lights or ambient lighting reflect on the wet ground, creating cinematic reflections and bokeh in the background. Water droplets frozen mid-air, high detail, depth of field, slow-motion feel, emotional, aesthetic, romantic rain vibe, fashion editorial style, natural pose, ultra-detailed textures, volumetric lighting.",
+    "title": "Graceful Dancing in the Rain Portrait",
+    "description": "An ultra-realistic cinematic portrait of a young woman in a white dress dancing gracefully in the rain, capturing soft lighting and romantic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139342308_2c0zmm_HHnExaRaUAAh5_w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18250,
     "content": "Create a high-detail mixed-media editorial poster of a person ( Keep the face of the person 100% accurate from the reference image ) in a left-facing side profile. It should look like a real printed poster, not digital—use paper grain, ink texture, halftone, and slight scan imperfections.\n\nPortrait in matte black tones with realistic skin detail, not flat. Short twisted locs on top, faded sides, trimmed beard. Add white hand-drawn outlines on some hair strands.\n\nInclude a hoop earring with a cross pendant and a thin chain with a cross. Expression calm and serious.\n\nAdd white hand-drawn dots, lines, and abstract symbols across the face, neck, and shoulders, like chalk or marker on a printed photo.\n\nBackground: {argument name=\"background color\" default=\"vivid yellow\"} with black graffiti-style doodles (crowns, eyes, stars, abstract shapes). Add subtle olive/gold accents.\n\nTop text: {argument name=\"text\" default=\"smack\"} in bold black sans-serif.\n\nComposition: vertical poster, head and shoulders, slightly left-centered, facing left.\n\nColors: yellow, black, white, small olive accents.\n\nStyle: raw, street-art, zine-like, real printed poster feel. No glossy or 3D look. Avoid smooth digital finish or AI artifacts.\n\nAspect ratio 4:5",
     "title": "Raw Mixed-Media Street Art Poster",

@@ -1,5 +1,56 @@
 [
   {
+    "id": 18524,
+    "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"person\": \"A young woman with long, wavy dark hair\",\n      \"action\": \"Walking through a lush green valley, herding a flock of goats\",\n      \"attire\": {\n        \"style\": \"Traditional Kashmiri Pheran\",\n        \"color\": \"{argument name=\"attire color\" default=\"Deep blue\"} with intricate red and gold embroidery\",\n        \"footwear\": \"Brown leather trekking boots\"\n      },\n      \"prop\": \"Holding a rustic wooden shepherd's staff\"\n    },\n    \"surreal_element\": {\n      \"item\": \"Tesla Model 3\",\n      \"scale\": \"Miniature/Goat-sized\",\n      \"interaction\": \"Positioned within the goat herd, being sniffed by a white goat\",\n      \"color\": \"{argument name=\"car color\" default=\"Glossy cherry red\"}\"\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Kashmir highlands\"}\",\n      \"background\": \"Towering snow-capped Himalayan peaks\",\n      \"midground\": \"Sloping green meadows with pine trees\",\n      \"lighting\": \"Soft golden hour sunlight, natural outdoor shadows\"\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k UHD\",\n      \"style\": \"Photorealistic cinematic\",\n      \"focus\": \"Sharp foreground focus with soft bokeh on distant mountains\",\n      \"composition\": \"Full body shot, wide angle\"\n    }\n  }\n}",
+    "title": "Surreal Kashmiri Shepherd with Tesla",
+    "description": "A creative and surreal prompt depicting a young woman herding goats in the Kashmiri highlands, featuring a miniature cherry red Tesla as a unique element in the scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139369988_kqjpue_HHswIbBawAAvn6M.jpg",
+      "https://cms-assets.youmind.com/media/1778139369954_w1oqzi_HHswK5Ya8AAXBwF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18508,
+    "content": "2x2 grid, do this for {argument name=\"scene\" default=\"4 famous manga scenes\"}: [scene_material_translation_engine]\n\nvector_g (scene geometry) = [variable_scene]\nmatrix_m (material world) = \"{argument name=\"materials\" default=\"walnut, maple, ebony-stained wood, veneer layers, carved wood, sawdust\"}\"\n\nvariables:\n[variable_scene] = \"[insert any scene here]\"\n\nequation:\nvector_g ⊗ matrix_m = render_target\n\n[scene_decomposition_rules]\nthe ai must infer all major and minor components of [variable_scene] and re-create them entirely using woodcraft and marquetry logic.\n\n[mapping_constraints]\n- replace 100% of the original materials with wood-based materials only.\n- no real metal, glass, fabric, stone, rubber, plastic, or water may remain.\n- every object must appear carved, laminated, veneered, inlaid, polished, or dusted with sawdust.\n- grain direction and wood type should help define structure and detail.\n\n[composition]\nmacro artisan-object photography.\nthe scene is displayed as a miniature handcrafted wood diorama on a dark lacquered base.\n\n[visual_execution]\nrender the render_target.\nlighting: {argument name=\"lighting\" default=\"warm premium workshop lighting\"}.\ntexture: visible wood grain, layered veneer edges, polished surfaces, fine carved detail, sawdust residue.\nthe scene must read instantly, while clearly existing as wooden craftsmanship.",
+    "title": "Manga Scene Woodcraft Diorama",
+    "description": "A structured design prompt to transform manga scenes into handcrafted woodcraft dioramas using marquetry logic and artisan wood textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139358569_v9xuqd_HHgZgpoXQAAXdHq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18479,
+    "content": "Create an Anime comic picture describing the state of AI on {argument name=\"date\" default=\"May 6, 2026\"}",
+    "title": "Future AI Anime Comic Infographic",
+    "description": "A simple prompt for generating an anime-style infographic or comic panel depicting the state of AI in the near future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139343958_h1dq1e_HHok4_LaUAAK0yp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18497,
+    "content": "A professional young woman with {argument name=\"eye color\" default=\"striking emerald green eyes\"}, {argument name=\"hair\" default=\"long wavy dark brown hair\"}, neat military-style makeup. She is wearing a {argument name=\"outfit\" default=\"well-fitted olive-green and brown military flight jumpsuit\"} with the zipper pulled up to chest level, tactical belt around the waist. She has a professional military radio with shoulder antenna and headset around her neck, aviator sunglasses resting on top of her head. Confident and strong pose, three-quarter view, one hand on her hip, the other hand holding the radio. Dark aircraft hangar interior with neon green and red accent lighting, a stealth fighter jet visible in the background, dramatic cinematic lighting, wet reflective floor, highly detailed, realistic skin texture, detailed fabric and leather, masterpiece, 8k, digital illustration, highly detailed --ar 9:16",
+    "title": "Military Flight Jumpsuit Portrait",
+    "description": "A cinematic military-themed portrait featuring a professional woman in a flight jumpsuit inside a dark hangar with stealth fighter background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139352787_75vl2w_HHoTW13XUAc1dAz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18519,
+    "content": "{argument name=\"title\" default=\"Temple Returns to Dust\"}\n\n{argument name=\"event\" default=\"1892 Oomoto-kyo, Nao Deguchi\"}\n\n{argument name=\"explosion scene\" default=\"1935 Government blowing up the Oomoto-kyo temple with dynamite!\"}",
+    "title": "Historical Temple Demolition Scene",
+    "description": "A prompt describing a historical event involving the demolition of a temple with explosives.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139367664_4241dl_HHmRQW9acAA372G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18247,
     "content": "A 1950s American diner scene, centered on a cheerful waitress in vintage uniform. She has softly curled dark hair styled in classic mid-century fashion, warm expressive eyes, and a natural smile with subtle freckles across her cheeks. She wears a {argument name=\"dress color\" default=\"light blue\"} short-sleeve dress with white trim, a fitted bodice, and a crisp white apron tied at the waist, complete with a name tag reading “{argument name=\"name\" default=\"Betty\"}.” A small white diner cap rests neatly on her head.",
     "title": "1950s American Diner Waitress",

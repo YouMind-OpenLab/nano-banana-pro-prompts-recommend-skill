@@ -1,5 +1,25 @@
 [
   {
+    "id": 18517,
+    "content": "A professional advertisement for \"{argument name=\"brand\" default=\"AM Cosmetics\"}\" featuring the {argument name=\"palette\" default=\"Eye Journey Palette\"} from The Midnight Gala Collection. The central focus is a woman with long, wavy brown hair showcasing a vibrant, multi-colored eyeshadow look with shades of emerald green, deep blue, and shimmering gold. Surrounding her are open makeup palettes displaying 18 pigmented shades, scattered eyeshadow powder, and gold-handled brushes. The aesthetic is luxurious, set against a {argument name=\"background\" default=\"white marble background\"} with elegant gold accents and text detailing the palette’s matte, shimmer, metallic, and glitter finishes.",
+    "title": "Luxury Makeup Palette Advertisement",
+    "description": "A professional advertisement prompt for a makeup collection, featuring vibrant eyeshadow looks and elegant white marble backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139364592_0rg0yw_HHpAndzXEAYw-_5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18500,
+    "content": "A front-facing product photo of a {argument name=\"product\" default=\"white cosmetic tube\"} slightly tilted, placed in a {argument name=\"background\" default=\"refreshing blue space\"}, surrounded by a dynamic splash of water hitting and wrapping around the tube, background softly blurred with {argument name=\"foliage\" default=\"green leaves\"} visible, sharp cinematic lighting with strong contrast highlighting textures and reflections, hyperrealistic material rendering, shot with a Canon EOS R5, 85mm f/1.8 lens, vivid natural color grading, vertical 3:4 ratio, ultra-real aesthetic --ar 3:4 --raw",
+    "title": "Cinematic Cosmetic Product Photography",
+    "description": "A high-end product photography prompt for cosmetics, featuring dynamic water splashes and crisp cinematic lighting against a natural background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778139354213_wsnffj_HHn1xIJaQAAnKkI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18252,
     "content": "A professional cosmetic brand infographic in a soft aesthetic style. The color palette features {argument name=\"colors\" default=\"muted rose, cream, and champagne gold\"}. At the top center, a high-fashion portrait of a woman with glowing skin and soft makeup, wearing a {argument name=\"outfit\" default=\"cream turtleneck\"}. Below her, a clean grid of isolated makeup products: a glass foundation bottle with a liquid swatch, a sleek black mascara wand, and a rose-gold blush compact. The background is a clean, minimal gradient. Professional studio lighting, soft shadows, high-end commercial photography style, 8k resolution.",
     "title": "Luxury Cosmetic Brand Infographic",
