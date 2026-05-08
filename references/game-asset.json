@@ -1,5 +1,46 @@
 [
   {
+    "id": 18753,
+    "content": "do this for {argument name=\"subject\" default=\"Mecca\"} : G = (V, E) where:\n\nV = {\n  v₁: Torus(radius=R, layers=8, material={argument name=\"material\" default=\"wood\"}),\n  v₂: City(landmarks={l₁...lₙ}, scale=1:100),\n  v₃: Workshop(tools, bench, lighting),\n  v₄: Camera(macro, f/2.8, 45°)\n}\n\nE = {\n  (v₁, v₂, \"surface_embedding\"),\n  (v₁, v₃, \"located_in\"),\n  (v₁, v₄, \"viewed_by\"),\n  (v₂.landmarks, v₁.layers, \"distributed_across\")\n}\n\nConstraints:\n  ∀l ∈ landmarks: position(l) ∈ torus_surface\n  ∀layer ∈ layers: wood_grain(layer) ≠ wood_grain(layer+1)\n  \nGenerate(G) → Image",
+    "title": "Abstract Geometric City Visualization",
+    "description": "A unique graph-based prompt structure for visualizing complex scenes. This example uses mathematical nodes and edges to define layers, materials, and camera settings for a stylized representation of a city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223947796_fiujdy_HHhn4uFXQAAnD25.jpg",
+      "https://cms-assets.youmind.com/media/1778223948770_3iqcox_HHhn4uEWAAkKJfH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18738,
+    "content": "A mechanical {argument name=\"subject\" default=\"core\"} with a hollow, skeletal structure, showcasing intricate internal machinery, gear systems, and precision components. Glowing {argument name=\"first color\" default=\"orange\"} and {argument name=\"second color\" default=\"sky blue\"} light emits from within the core, illuminating the metallic framework. Set against a smooth gray background, highly detailed, cinematic lighting, high realism, octane render, symmetrical composition.",
+    "title": "Mechanical Core Architecture",
+    "description": "A technical prompt for generating a mechanical subject with hollow skeletal structures and glowing internal machinery, rendered with octane for high realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223941994_b1fsgu_HHuL80RaIAA_agO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18754,
+    "content": "A mysterious {argument name=\"subject\" default=\"futuristic monk\"} sitting alone in deep meditation inside an enormous digital temple hidden beyond the internet, dark cinematic atmosphere, billions of {argument name=\"particles\" default=\"glowing social media particles\"}, holographic posts, reels, analytics charts, comments and engagement symbols flowing around him like a galaxy of information, giant floating neural network structures in the background, {argument name=\"lighting\" default=\"glowing purple and electric blue ambient lighting\"}, volumetric fog, reflective black stone floor, calm but powerful presence, hood covering most of the face, only subtle glowing eyes visible beneath shadows, futuristic wisdom aesthetic, cyber spiritualism, ultra realistic fabric textures, cinematic composition, unreal engine 5 render, octane render quality, impossible detail, deep contrast lighting, highly atmospheric, premium AI startup branding style, symmetrical composition, soft particle glow, majestic scale, tiny floating holographic UI elements around the monk’s hands, emotional and intelligent mood, trending on behance, artstation masterpiece, 8k ultra detailed.",
+    "title": "Cyber Spiritualism Digital Monk",
+    "description": "A cinematic and atmospheric prompt for a futuristic monk meditating in a digital temple. It features holographic social media elements, volumetric fog, and Unreal Engine 5 render quality for a premium cyber-spiritual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223949135_hj1rul_HHtEtU_asAA8YYa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18739,
+    "content": "Create a highly detailed, whimsical scene featuring a charming 3D chibi doll inspired by the woman in the reference image. The chibi character has expressive oversized eyes, soft rounded facial features, {argument name=\"skin tone\" default=\"warm brown\"} skin tone, and a playful, slightly mischievous personality. She wears miniature {argument name=\"attire\" default=\"traditional Indian attire\"} inspired by the reference—gold embroidered outfit, delicate jewelry, including a tiny maang tikka, earrings, and a small bindi.The chibi doll is sitting delicately atop a realistic human finger, maintaining perfect balance. She is casually sipping an {argument name=\"drink\" default=\"iced latte\"} through a straw, while holding a transparent cup of milk tea in her other hand. Both drinks show visible ice cubes, soft reflections, and subtle condensation droplets for realism. The hand is ultra-realistic with smooth natural skin texture, soft lighting, and sharply detailed glossy nail art.The fingers are slightly curved, positioned naturally as if presenting the tiny character. Environment: A modern office desk setting with realistic elements—keyboard, mouse, and computer monitor. The background features a shallow depth of field with blurred coworkers and office details, creating a natural cinematic bokeh effect. Lighting & Style: Soft, balanced, slightly warm lighting that enhances both realism and charm. Gentle shadows, realistic reflections, and cinematic depth of field Art Style: Hyper-realistic + stylized 3D chibi fusion, अत्यंत detailed, high resolution (8K), cinematic composition, vibrant yet natural colors, soft shadows, global illumination, ultra-sharp focus on subject.",
+    "title": "Chibi Doll 3D Miniature Scene",
+    "description": "A whimsical prompt for a 3D chibi doll inspired by a reference image, sitting on a realistic human finger in a modern office desk environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223942632_onwdfu_HHs5n1MW8AMPpKF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18497,
     "content": "A professional young woman with {argument name=\"eye color\" default=\"striking emerald green eyes\"}, {argument name=\"hair\" default=\"long wavy dark brown hair\"}, neat military-style makeup. She is wearing a {argument name=\"outfit\" default=\"well-fitted olive-green and brown military flight jumpsuit\"} with the zipper pulled up to chest level, tactical belt around the waist. She has a professional military radio with shoulder antenna and headset around her neck, aviator sunglasses resting on top of her head. Confident and strong pose, three-quarter view, one hand on her hip, the other hand holding the radio. Dark aircraft hangar interior with neon green and red accent lighting, a stealth fighter jet visible in the background, dramatic cinematic lighting, wet reflective floor, highly detailed, realistic skin texture, detailed fabric and leather, masterpiece, 8k, digital illustration, highly detailed --ar 9:16",
     "title": "Military Flight Jumpsuit Portrait",

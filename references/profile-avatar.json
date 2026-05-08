@@ -10,6 +10,77 @@
     "needReferenceImages": false
   },
   {
+    "id": 18736,
+    "content": "{\n  \"prompt\": \"Photorealistic selfie portrait of an adult blonde woman sitting inside a luxury SUV during golden hour, wearing a woven straw cowboy hat and a red-and-white gingham summer dress, long platinum blonde braids over both shoulders, soft natural freckles, glossy lips, subtle glam makeup, layered gold necklaces with a bow pendant, warm sunlight illuminating her face and skin, relaxed confident expression, tan leather car interior, western-inspired summer aesthetic, ultra-detailed skin texture, realistic lighting, shallow depth of field, cinematic color grading, influencer-style photography, natural warm tones, high-resolution, 4k detail.\",\n  \"negative_prompt\": \"low quality, blurry, distorted anatomy, extra limbs, bad hands, unrealistic skin texture, overexposed lighting, duplicate features, watermark, text, logo, underage appearance, exaggerated proportions, cartoon, CGI, oversaturated colors\",\n  \"style\": \"photorealistic\",\n  \"aspect_ratio\": \"2:3\",\n  \"quality\": \"high\",\n  \"lighting\": \"golden hour natural sunlight\",\n  \"camera\": {\n    \"angle\": \"slightly elevated handheld selfie perspective\",\n    \"lens\": \"50mm portrait lens\",\n    \"depth_of_field\": \"shallow\"\n  }\n}",
+    "title": "Golden Hour SUV Selfie",
+    "description": "A photorealistic influencer-style selfie of a woman in a luxury SUV during golden hour, wearing western-inspired summer fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223940751_tx9fdf_HHvV2MOaEAAI6T4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18743,
+    "content": "Photorealistic selfie portrait of an adult blonde woman sitting inside a luxury SUV during golden hour, wearing a woven straw cowboy hat and a {argument name=\"dress\" default=\"red-and-white gingham summer dress\"}, {argument name=\"hair style\" default=\"long platinum blonde braids\"} over both shoulders, soft natural freckles, glossy lips, subtle glam makeup, layered gold necklaces with a bow pendant, warm sunlight illuminating her face and skin, relaxed confident expression, {argument name=\"interior\" default=\"tan leather car interior\"}, western-inspired summer aesthetic, ultra-detailed skin texture, realistic lighting, shallow depth of field, cinematic color grading, influencer-style photography, natural warm tones, high-resolution, 4k detail.",
+    "title": "Golden Hour SUV Selfie",
+    "description": "A detailed prompt for creating a photorealistic selfie of a woman in a luxury car, capturing a western-inspired summer aesthetic during the golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223943813_am85a6_HHuYMb5bsAAAbnd.jpg",
+      "https://cms-assets.youmind.com/media/1778223943844_9563q4_HHuYMb3aEAARqzT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18710,
+    "content": "An eye-level, vertical, medium close-up shot captures a young woman with a lean, athletic build and a soft, almond-shaped face, posing with a playful yet pensive expression. Her body is angled slightly, with one shoulder raised toward her chin and her hands gently framing her face. She has {argument name=\"hair style\" default=\"voluminous, light brown curly hair styled into two large, textured space buns\"} at the top of her head, with delicate, wispy curls framing her forehead and temples. Her skin is clear with a natural, dewy finish, complemented by subtle makeup and a soft pout. She wears {argument name=\"clothing\" default=\"a vibrant, oversized flannel shirt featuring a bold orange, green, and black plaid pattern\"}, with a prominent red button visible on the sleeve. The background is a minimalist, softly lit indoor setting with neutral-toned walls and the draped edge of a grey curtain on the left, creating a clean and modern aesthetic. The lighting is soft and diffused, coming from the front to eliminate harsh shadows and highlight the intricate texture of her curls. The image is captured with a shallow depth of field, rendering the background in a smooth, creamy blur while maintaining razor-sharp focus on her facial features and the individual strands of her hair. The composition is a vertical 4:5 aspect ratio, filmed with a 50mm lens at f/2.8, ISO 200, and a 1/125 shutter speed to achieve a high-resolution, professional portrait look. Keep face identity 100% same as uploaded pic it’s very important. Watermark: At the bottom, in a lower left corner, in small, bold, italicized brown text, write \"{argument name=\"watermark\" default=\"Dpixel\"}\" and add a shooting star.watermark spelling correction is very necessary .",
+    "title": "Playful Space Buns Portrait",
+    "description": "A detailed portrait prompt for a young woman with curly space buns and an oversized flannel shirt, designed for a professional high-resolution look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223929982_bkxlk3_HHuMdSPXAAc80Yy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18739,
+    "content": "Create a highly detailed, whimsical scene featuring a charming 3D chibi doll inspired by the woman in the reference image. The chibi character has expressive oversized eyes, soft rounded facial features, {argument name=\"skin tone\" default=\"warm brown\"} skin tone, and a playful, slightly mischievous personality. She wears miniature {argument name=\"attire\" default=\"traditional Indian attire\"} inspired by the reference—gold embroidered outfit, delicate jewelry, including a tiny maang tikka, earrings, and a small bindi.The chibi doll is sitting delicately atop a realistic human finger, maintaining perfect balance. She is casually sipping an {argument name=\"drink\" default=\"iced latte\"} through a straw, while holding a transparent cup of milk tea in her other hand. Both drinks show visible ice cubes, soft reflections, and subtle condensation droplets for realism. The hand is ultra-realistic with smooth natural skin texture, soft lighting, and sharply detailed glossy nail art.The fingers are slightly curved, positioned naturally as if presenting the tiny character. Environment: A modern office desk setting with realistic elements—keyboard, mouse, and computer monitor. The background features a shallow depth of field with blurred coworkers and office details, creating a natural cinematic bokeh effect. Lighting & Style: Soft, balanced, slightly warm lighting that enhances both realism and charm. Gentle shadows, realistic reflections, and cinematic depth of field Art Style: Hyper-realistic + stylized 3D chibi fusion, अत्यंत detailed, high resolution (8K), cinematic composition, vibrant yet natural colors, soft shadows, global illumination, ultra-sharp focus on subject.",
+    "title": "Chibi Doll 3D Miniature Scene",
+    "description": "A whimsical prompt for a 3D chibi doll inspired by a reference image, sitting on a realistic human finger in a modern office desk environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223942632_onwdfu_HHs5n1MW8AMPpKF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18741,
+    "content": "A stylish, rugged portrait of a man with a relaxed yet sophisticated urban look. He features messy {argument name=\"hair\" default=\"dark hair with natural highlights\"} and a well-maintained, thick beard. He is wearing distinctive vintage-style sunglasses with translucent {argument name=\"sunglasses color\" default=\"amber\"} frames and dark, circular lenses that feature a unique metal flip-up bridge mechanism. He is dressed for cool weather in a chunky, {argument name=\"cardigan color\" default=\"blue\"} ribbed-knit cardigan with a thick lapel, worn over a simple white t-shirt. In the foreground, his hand is partially visible, holding a white disposable coffee cup with a matching white lid. The lighting is bright and natural, casting soft shadows that emphasize the texture of his knitwear and facial hair. The background is a soft-focus blue vintage vehicle with horizontal grille lines, creating a cool-toned, cinematic backdrop that makes the warm tones of his sunglasses and skin pop.",
+    "title": "Rugged Sophisticated Urban Male Portrait",
+    "description": "A stylish portrait prompt of a man with a beard and vintage sunglasses, set against a cinematic soft-focus vintage vehicle backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223943349_uqb3dn_HHsj5K0bIAAEBmR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18757,
+    "content": "A vertical charcoal sketch of a {argument name=\"subject\" default=\"handsome young man with wavy, dark hair\"} and a warm, slight smile. He is wearing a {argument name=\"clothing\" default=\"textured, dark sweater\"}, and the portrait features soft, realistic shading with visible charcoal strokes that add depth and character. The background subtly suggests an artist’s studio, with blurred easels and sketches, creating a timeless, hand-drawn aesthetic on a light, slightly aged paper texture.",
+    "title": "Hand-Drawn Charcoal Sketch Portrait",
+    "description": "A refined prompt for creating a vertical charcoal sketch portrait with a timeless hand-drawn aesthetic. It emphasizes visible charcoal strokes, realistic shading, and a blurred studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223950142_tr0b2s_HHr6gwBX0AIjWy_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18723,
+    "content": "Create a hyper-realistic 8K cinematic black-and-white portrait of {argument name=\"subject\" default=\"the uploaded person\"} in a dramatic chiaroscuro style. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera,not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow. His expression is contemplative. His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a {argument name=\"accessory\" default=\"luxury black chronograph watch\"} with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a sharp black suit jacket over a white dress shirt with the top buttons open, showing refined fabric texture and natural folds. The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard(if present) bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy. Aspect ratio 4:5.",
+    "title": "Dramatic Chiaroscuro Cinematic Portrait",
+    "description": "A high-contrast cinematic black-and-white portrait prompt using dramatic chiaroscuro lighting, focusing on a contemplative subject in a sharp suit with luxury accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223935898_xold8d_HHr5CnPakAAB1hh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18482,
     "content": "Detailed close-up studio portrait of a {argument name=\"subject\" default=\"young woman\"} with voluminous medium-length {argument name=\"hair style\" default=\"curly brown hair\"} and round black-rimmed glasses, natural makeup, defined eyebrows, light pink lipstick, pearl drop earrings, delicate pearl necklace, cozy {argument name=\"sweater\" default=\"yellow cable-knit sweater\"}, light-wash denim jeans, relaxed casual pose, lying on a light-colored surface, left hand touching chin, looking directly at camera, minimalist warm beige studio background, blurred yellow Converse shoe in background, soft focus, natural lighting, Canon EOS R5, RF 85mm f/1.4 lens, shallow depth of field, ultra-realistic, cinematic portrait photography, cozy aesthetic.",
     "title": "Cozy Studio Portrait Photography",

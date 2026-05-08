@@ -56,6 +56,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 18747,
+    "content": "This combination infographic, based on images of the {argument name=\"subjects\" default=\"human heart and brain\"}, provides a comparative and complementary look at the body’s most vital organs. Following a consistent and clean illustrative style with detailed callouts and key summary cards, it presents a comprehensive \"Human Anatomy: Heart and Brain\" profile. The central section features a detailed internal cross-section of the heart on the left and a detailed, regionalized map of the brain (Frontal, Parietal, Temporal, and Occipital lobes) on the right. Below the heart, the \"Cardiac Cycle\" and \"Blood Flow Path\" diagrams are presented. To the left, a vertical sequence detailing the brain’s \"Frontal Lobe,\" \"Temporal Lobe,\" and \"Cerebellum\" (with descriptions of functions like memory, motor control, and reasoning) matches the structure of the cardiac information. Above the brain diagram, a revised \"Key Regions & Functions\" list replaces the chambers and valves, and below it, a revised \"Top 5 Brain Functions\" list includesCognition & Thinking, Sensory Processing, and Emotion Regulation. Both columns share common \"Optimization Tips,\" \"Risks & Warnings\" (tailored to each organ's respective risks, such as cardiovascular disease vs. neurodegenerative disease), and \"Quick Summary Cards,\" highlighting the heart as the body's pump and the brain as its control center, emphasizing their integrated nature and critical roles. The entire layout is structured to facilitate a direct side-by-side analysis, making it an exhaustive and cohesive educational tool.",
+    "title": "Human Anatomy Educational Infographic",
+    "description": "A comprehensive infographic prompt for comparing the human heart and brain, featuring anatomical diagrams and summary cards in a clean illustrative style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223945690_ai08gx_HHtIzJoXwAU-3RC.jpg",
+      "https://cms-assets.youmind.com/media/1778223945684_p2wfho_HHtIzMRWoAgigYw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18746,
+    "content": "This image is a professional promotional infographic for the {argument name=\"product\" default=\"ASH Collection Stylist Bag\"}, featuring a clean, editorial layout with a warm, earth-toned aesthetic. It showcases a central model holding a {argument name=\"bag color\" default=\"cognac-colored\"} leather handbag, surrounded by detailed sections including \"Bag Features,\" a \"Bag Guide\" with technical dimensions, and a \"Colour Collection\" displaying the bag in {argument name=\"shades count\" default=\"six\"} shades: Black, Cognac Tan, Emerald Green, Navy Blue, Burgundy, and Cream White. The bottom of the graphic includes a \"Style Guide\" with lifestyle photography illustrating how to pair each color with specific outfits for occasions ranging from business meetings to evening parties.",
+    "title": "Luxury Handbag Promotional Infographic",
+    "description": "A clean, editorial infographic prompt for a leather handbag collection, including feature sections, color guides, and style pairing lifestyle photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223944981_t7zdgp_HHsYqEtXsAA4IVm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18509,
     "content": "Do this for {argument name=\"product\" default=\"B2 plane\"}: inputs ::= product ::= [any product / device / tool / appliance / machine] functions ::= [ai infer 3 to 7 core functional systems of product] subsystem_count ::= [ai infer] material_logic ::= [ai infer likely materials and mechanical parts] era_bias ::= [{argument name=\"style\" default=\"industrial / retro-futurist / modern / luxury engineering\"}] sketch_style ::= [{argument name=\"sketch type\" default=\"patent sketch / engineering notebook / blueprint engraving / industrial concept sheet\"}] hero_style ::= [studio product photo / cinematic workshop render / luxury catalog shot] layout ::= +----------------------------------------------------------------------------------+ | top panel :: invention / research board | | | | [orthographic sketch] [section cutaway] [component studies] [functional diagram]| | [gauge / chart / equation / small notes] [exploded parts] [form variants] | | | | goal: show how product might have been invented, refined, tested, and iterated. | | | |----------------------------------------------------------------------------------| | bottom panel :: polished final product | | | | [hero shot of fully realized product] | | [beautiful materials] [precise machining] [studio/warm workshop lighting] | | | +----------------------------------------------------------------------------------+ instruction ::= generate a two-panel invention inspiration board for product. the top half must look like a dense r&d archive showing ai-inferred mechanisms, studies, performance ideas, component experiments, and form exploration. the bottom half must show the final refined product as a premium finished object. make the whole image feel like \"from concept science to product realization.\" no hard-coded product details unless provided by the user.",
     "title": "Product Design Innovation Board",

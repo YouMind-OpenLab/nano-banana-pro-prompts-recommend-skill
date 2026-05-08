@@ -1,5 +1,37 @@
 [
   {
+    "id": 18717,
+    "content": "A photorealistic macro photograph of a {argument name=\"subject\" default=\"miniature woman the size of a mouse\"} walking gracefully through an enormous field of {argument name=\"setting\" default=\"tall, lush green grass blades\"} that tower over her like a dense jungle, she walks beside a ladybug that is the same size as her, ground-level perspective showing her tiny scale against the giant grass and scattered wildflowers, hyper-detailed realistic textures on every blade of grass and flower petal. The woman has the classic 1950s nostalgic pin-up look with voluminous blonde bouffant hairstyle in an elegant updo, fair skin with a luminous dewy glow, rosy cheeks, striking blue eyes looking upward, glossy red lipstick, and delicate dangling earrings. She wears a 1950s nostalgic outfit: a vibrant yellow polka-dot fitted bodice with white ruffled off-shoulder straps and a full flared teal skirt with shiny metallic silver trim and buttons, accentuating her figure in perfect period style. Precise lighting style; bright natural daylight under a clear blue sky with strong directional sunlight creating crisp specular highlights and glossy reflections on her skin, hair, shoulders, and clothing, giving her a shiny luminous almost wet-look glow; soft diffused fill light that gently models her face and body without harsh shadows; high contrast, vibrant saturated colors, and cinematic depth of field with beautiful creamy bokeh from out-of-focus grass blades, sunlight filtering through the grass, and distant flowers. Extremely realistic, photorealistic rendering, no cartoonish or stylized elements, intricate details, sharp focus on the woman, natural outdoor field environment, masterpiece quality.",
+    "title": "Macro Photorealistic Miniature Woman",
+    "description": "A macro photography prompt for generating a miniature woman in a field of giant grass, styled with a 1950s nostalgic look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223932896_jb5uos_HHuLaZ3XAAEOxEJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18756,
+    "content": "A full-body, high-impact anime illustration featuring three powerful warriors on a shattered rock platform, combining the intense, detailed style of Dragon Ball Z/Super with the kinetic energy and modern tech-aesthetic of My Hero Academia. Centered is a {argument name=\"center character\" default=\"Super Saiyan Blue warrior\"} with spiky blue hair and glowing red eyes, in a shredded blue gi, enveloped by an intricate, glowing magical blue sigil and electric lightning. To his left, stands the explosive hero {argument name=\"left character\" default=\"Katsuki Bakugo\"} in his orange, black, and green hero suit, holding his classic crouching pose, surrounded by explosive orange effects and splash-art graphics. To his right stands an Ascended Warrior with massive silver hair, a purple gi, and red belt, contained within a large, vibrant green alchemical circle and toxic green aura. The scene is a maelstrom of cosmic and explosive energy, floating debris, and particle effects, set against a dark, power-charged sky.",
+    "title": "Anime Crossover Warriors Illustration",
+    "description": "A high-impact anime illustration prompt that blends the detailed style of Dragon Ball Z with the modern energy of My Hero Academia. It features three powerful warriors surrounded by cosmic energy and explosive particle effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223949701_najylt_HHtZb_0XcAE6ywa.jpg",
+      "https://cms-assets.youmind.com/media/1778223949641_u3jrk0_HHtZccVWkAUSqOy.jpg",
+      "https://cms-assets.youmind.com/media/1778223949654_8xxisd_HHtZcigXUAU2TeK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18714,
+    "content": "use {argument name=\"style reference\" default=\"@mood\"} as a style reference only to create a scene of {argument name=\"character type\" default=\"two different cowboys\"} sitting at a {argument name=\"setting\" default=\"bonefire in the american landscape\"}, sony a7iii movie scene",
+    "title": "Cinematic Cowboy Style Reference Prompt",
+    "description": "A cinematic prompt designed for Nano Banana Pro that uses an image as a style reference to create a scene of two distinct cowboys at a bonfire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223931751_om9imu_HHtKWB4bkAE1dvZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18524,
     "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"person\": \"A young woman with long, wavy dark hair\",\n      \"action\": \"Walking through a lush green valley, herding a flock of goats\",\n      \"attire\": {\n        \"style\": \"Traditional Kashmiri Pheran\",\n        \"color\": \"{argument name=\"attire color\" default=\"Deep blue\"} with intricate red and gold embroidery\",\n        \"footwear\": \"Brown leather trekking boots\"\n      },\n      \"prop\": \"Holding a rustic wooden shepherd's staff\"\n    },\n    \"surreal_element\": {\n      \"item\": \"Tesla Model 3\",\n      \"scale\": \"Miniature/Goat-sized\",\n      \"interaction\": \"Positioned within the goat herd, being sniffed by a white goat\",\n      \"color\": \"{argument name=\"car color\" default=\"Glossy cherry red\"}\"\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Kashmir highlands\"}\",\n      \"background\": \"Towering snow-capped Himalayan peaks\",\n      \"midground\": \"Sloping green meadows with pine trees\",\n      \"lighting\": \"Soft golden hour sunlight, natural outdoor shadows\"\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k UHD\",\n      \"style\": \"Photorealistic cinematic\",\n      \"focus\": \"Sharp foreground focus with soft bokeh on distant mountains\",\n      \"composition\": \"Full body shot, wide angle\"\n    }\n  }\n}",
     "title": "Surreal Kashmiri Shepherd with Tesla",

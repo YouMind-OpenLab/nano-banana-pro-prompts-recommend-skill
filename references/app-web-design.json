@@ -1,5 +1,16 @@
 [
   {
+    "id": 18753,
+    "content": "do this for {argument name=\"subject\" default=\"Mecca\"} : G = (V, E) where:\n\nV = {\n  v₁: Torus(radius=R, layers=8, material={argument name=\"material\" default=\"wood\"}),\n  v₂: City(landmarks={l₁...lₙ}, scale=1:100),\n  v₃: Workshop(tools, bench, lighting),\n  v₄: Camera(macro, f/2.8, 45°)\n}\n\nE = {\n  (v₁, v₂, \"surface_embedding\"),\n  (v₁, v₃, \"located_in\"),\n  (v₁, v₄, \"viewed_by\"),\n  (v₂.landmarks, v₁.layers, \"distributed_across\")\n}\n\nConstraints:\n  ∀l ∈ landmarks: position(l) ∈ torus_surface\n  ∀layer ∈ layers: wood_grain(layer) ≠ wood_grain(layer+1)\n  \nGenerate(G) → Image",
+    "title": "Abstract Geometric City Visualization",
+    "description": "A unique graph-based prompt structure for visualizing complex scenes. This example uses mathematical nodes and edges to define layers, materials, and camera settings for a stylized representation of a city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223947796_fiujdy_HHhn4uFXQAAnD25.jpg",
+      "https://cms-assets.youmind.com/media/1778223948770_3iqcox_HHhn4uEWAAkKJfH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18022,
     "content": "{argument name=\"architecture\" default=\"Azuchi-Momoyama style castle tower\"} {argument name=\"drawing type\" default=\"floor plan, blueprint, and area notation\"}",
     "title": "Azuchi-Momoyama Castle Floor Plan",

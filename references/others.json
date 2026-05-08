@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 18760,
+    "content": "A vertical double exposure artwork rendered as a detailed pencil sketch on textured paper. The primary subject is a close-up, serene portrait of a {argument name=\"subject\" default=\"young woman with her eyes closed and hair in a messy bun\"}. Within her silhouette, a second profile of her face looks toward the horizon. The composition is layered with a landscape featuring a {argument name=\"landscape scene\" default=\"woman standing by a calm lake at sunset\"}, fluffy clouds, and a flock of birds. The style uses fine cross-hatching, soft shading, and delicate graphite strokes to create depth and a hand-drawn feel.",
+    "title": "Double Exposure Pencil Sketch Portrait",
+    "description": "A detailed pencil sketch prompt using a double exposure technique. It combines a serene female portrait with a sunset lake landscape, utilizing fine cross-hatching and delicate graphite strokes for a hand-drawn feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223951084_fzb1oy_HHuGkWIWMAADc_j.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18296,
     "content": "{argument name=\"art style\" default=\"Ink Wash mixed with traditional watercolor painting\"} showcasing extreme close up of {argument name=\"subject\" default=\"woman face\"} adorned with glittery sparks, she is engulfed with shadows and ancient jewelry decorating her face, her intricate razor sharp features reveal determined and confident woman face. the sky around is a gradient of {argument name=\"color palette\" default=\"blue, green and earthy tones\"}, with intricate vibrant orange random outlines giving an impression of depth and mist.",
     "title": "Ink wash and watercolor woman portrait",

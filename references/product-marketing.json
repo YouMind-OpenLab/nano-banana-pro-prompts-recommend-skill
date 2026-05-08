@@ -21,6 +21,283 @@
     "needReferenceImages": true
   },
   {
+    "id": 18759,
+    "content": "A breathtaking museum-quality fashion editorial close-up portrait of a woman resembling {argument name=\"subject\" default=\"Sydney Sweeney\"}, defined by translucent cool-toned skin and silken blonde hair. She stands with confident poise against a weathered ancient European stone and brick {argument name=\"location\" default=\"Coliseum in Rome\"}, where the text '{argument name=\"engraved text\" default=\"Love\"}' is subtly engraved into the masonry, set along a sun-dappled cobblestone path. She wears a meticulously tailored black deep-V wool-blend blazer dress, cinched elegantly at the waist with dramatic draping, paired with sheer black lace-topped stockings and delicate black stiletto sandals. Her features are calm and compelling, with almond-shaped golden eyes and softly parted lips. Cinematic natural daylight from the upper left sculpts her silhouette against the historic backdrop. Powerful monochromatic minimalist composition with ample negative space. High-resolution raw fashion photography with impeccable focus, photorealistic, 8k.",
+    "title": "Roman Coliseum Fashion Editorial Portrait",
+    "description": "A high-resolution fashion editorial prompt set against the Rome Coliseum. It features a woman in a tailored black blazer dress, using natural daylight and historic masonry to create a museum-quality composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223950659_qpobkl_HHvseWWbQAAfB0h.jpg",
+      "https://cms-assets.youmind.com/media/1778223950675_l5vj48_HHvseWebkAAjOKR.jpg",
+      "https://cms-assets.youmind.com/media/1778223950663_uzmih5_HHvseWZa4AAzrtS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18731,
+    "content": "A breathtaking, museum-quality fashion editorial close-up portrait of a {argument name=\"subject type\" default=\"beautiful muse, defined by translucent, cool-toned skin and silken blonde hair\"}. She stands with confident poise against a weathered ancient European stone and brick {argument name=\"location\" default=\"Coliseum in rome\"}, where the text 'Keor' is subtly engraved in the masonry, set upon a sun-dappled cobblestone path. She wears a {argument name=\"outfit\" default=\"meticulously tailored black deep-V wool-blend blazer dress\"}, cinched at the waist with a dramatic drape, paired with sheer black lace-topped stockings and delicate stiletto sandals. Her features are calm and compelling, with almond-shaped gold-toned eyes and a hint of a parted lip. The cinematic natural daylight from the upper left beautifully sculpts her form against the historic backdrop. A powerful, monochromatic minimalist composition with ample negative space. A high-resolution raw photo with impeccable focus.",
+    "title": "Coliseum Fashion Editorial Museum Quality Portrait",
+    "description": "A museum-quality fashion editorial portrait of a muse in a black blazer dress at the Roman Coliseum, featuring sun-dappled cobblestones and natural daylight sculpting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223938622_wba29u_HHvn1U2WgAMmYUE.jpg",
+      "https://cms-assets.youmind.com/media/1778223938638_5pp6t3_HHvn1fmWgAQQMaA.jpg",
+      "https://cms-assets.youmind.com/media/1778223938639_ok1qfn_HHvn1jzXkAMpZe8.jpg",
+      "https://cms-assets.youmind.com/media/1778223939300_bd4j5s_HHvn1tNWgAMf3jR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18740,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"venice_dark_romance_editorial\",\n      \"style\": \"cinematic_low_light\",\n      \"version\": \"v3.0_ITALY_VENICE_FULL\"\n    },\n\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Venice canal with water reflections, gondola nearby, subtle haze, no crowd.\"\n    },\n\n    \"subject\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"deep black satin dress with thin straps and open back\"}\",\n      \"hair\": \"sleek wet look or tight bun\",\n      \"makeup\": \"soft glam with subtle highlight and sculpted skin\",\n      \"expression\": \"mysterious, confident, controlled\",\n      \"body\": \"perfect anatomy, realistic joints\"\n    },\n\n    \"scene\": {\n      \"lighting\": \"low cinematic light with reflections, soft haze, controlled highlights, no blown areas\",\n      \"mood\": \"dark romantic luxury\"\n    },\n\n    \"pose_language\": {\n      \"pose\": \"standing near canal, slight body rotation\",\n      \"posture\": \"elegant, composed\"\n    },\n\n    \"camera\": {\n      \"lens\": \"85mm\",\n      \"angle\": \"slightly low\",\n      \"depth_of_field\": \"shallow cinematic\"\n    },\n\n    \"quality_control\": {\n      \"skin\": \"realistic texture with pores, no beauty filter\",\n      \"hands\": \"correct structure\",\n      \"fabric\": \"natural light reflection and weight\"\n    },\n\n    \"negative_prompt\": [\n      \"tourists\",\"bright daylight\",\"cheap outfit\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"\n    ]\n  }\n}",
+    "title": "Venice Dark Romance Fashion Editorial",
+    "description": "An image-to-image prompt for a cinematic low-light fashion shoot in Venice, featuring a deep black satin dress and mysterious atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223942418_8lzutj_HHvgmTKXQAEr9zQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18722,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject name\" default=\"Millie Bobby Brown\"}\",\n      \"appearance\": {\n        \"hair\": \"Hair styled in a messy bun with a few loose strands framing the face\",\n        \"expression\": \"Calm and neutral\",\n        \"gaze\": \"Looking directly at the camera\",\n        \"makeup\": \"Natural-looking makeup with subtle lip color\",\n        \"skin\": \"Smooth skin texture\"\n      },\n      \"details\": \"Barefoot\"\n    },\n    \"clothing\": {\n      \"type\": \"Short satin dress\",\n      \"color\": \"Dark navy blue\",\n      \"finish\": \"Soft sheen\",\n      \"straps\": \"Thin spaghetti straps\",\n      \"length\": \"Mid-thigh\",\n      \"fit\": \"Loose and fluid drape\"\n    },\n    \"pose\": {\n      \"body_position\": \"Three-quarter profile facing left\",\n      \"head_position\": \"Turned over the shoulder toward the camera\",\n      \"legs\": {\n        \"support_leg\": \"One leg straight, supporting the body on the floor\",\n        \"raised_leg\": \"Other leg bent and resting on a white cube pedestal\"\n      },\n      \"hips\": \"Slightly pushed back creating a curved and natural silhouette\",\n      \"arms\": {\n        \"front_arm\": \"Resting softly near the thigh/raised leg\",\n        \"back_arm\": \"Bent behind the body near the waist\"\n      },\n      \"posture\": \"Relaxed shoulders, slightly arched back, delicate and sophisticated stance\"\n    },\n    \"setting\": {\n      \"location\": \"Minimalist indoor studio\",\n      \"background\": \"Light gray seamless backdrop\",\n      \"floor\": \"Matching gray floor\"\n    },\n    \"props\": [\n      \"White cube pedestal\"\n    ],\n    \"lighting\": {\n      \"style\": \"Dramatic side lighting\",\n      \"effect\": \"Subtle blue anamorphic lens flare\"\n    },\n    \"mood\": [\n      \"Serene\",\n      \"Intimate\",\n      \"Posed\",\n      \"Minimalist\",\n      \"Soft\"\n    ],\n    \"technical\": {\n      \"camera\": \"Medium shot\",\n      \"lens\": \"135mm\",\n      \"aperture\": \"f/1.8\",\n      \"distance\": \"4 meters\",\n      \"depth_of_field\": \"Background fully blurred with buttery bokeh\",\n      \"style\": \"Photorealistic studio portrait photography\",\n      \"quality\": \"Highly detailed, sharp focus on subject, smooth background gradient, 8k resolution\"\n    }\n  },\n  \"aspect_ratio\": \"9:16\"\n}",
+    "title": "Navy Blue Satin Dress Studio Portrait",
+    "description": "A sophisticated studio portrait prompt focusing on a subject in a loose navy blue satin dress with thin straps, featuring dramatic side lighting and a minimalist gray backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223934816_lcc9bk_HHuoetPXUAEjIPX.jpg",
+      "https://cms-assets.youmind.com/media/1778223934818_yh5uxy_HHuoexfWMAY0uie.jpg",
+      "https://cms-assets.youmind.com/media/1778223934856_sxbbw3_HHuoe0xXsAY36ji.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18744,
+    "content": "A high-fashion cinematic portrait of a beautiful woman with a vintage 1960s-inspired aesthetic. She has {argument name=\"hair style\" default=\"voluminous, dark mahogany wavy hair styled in a classic beehive\"} with a thick white headband and a rounded fringe. She is wearing stylish dark tortoise-shell cat-eye sunglasses tilted down, revealing sharp winged red eyeliner and intense green eyes. Her makeup is flawless with {argument name=\"lipstick\" default=\"matte mauve lipstick\"}, paired with {argument name=\"nails\" default=\"long almond-shaped nails painted deep glossy red\"}. She is wearing a simple white off-the-shoulder top against a neutral grey studio background. High-end photography, 85mm lens, f/1.8, sharp focus on facial details, elegant and sophisticated mood.",
+    "title": "1960s Vintage Cinematic Portrait",
+    "description": "A high-fashion prompt for a cinematic portrait with a 1960s aesthetic, featuring a beehive hairstyle, cat-eye sunglasses, and sharp winged eyeliner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223944485_1dtu8x_HHuWsCqacAAoyiJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18738,
+    "content": "A mechanical {argument name=\"subject\" default=\"core\"} with a hollow, skeletal structure, showcasing intricate internal machinery, gear systems, and precision components. Glowing {argument name=\"first color\" default=\"orange\"} and {argument name=\"second color\" default=\"sky blue\"} light emits from within the core, illuminating the metallic framework. Set against a smooth gray background, highly detailed, cinematic lighting, high realism, octane render, symmetrical composition.",
+    "title": "Mechanical Core Architecture",
+    "description": "A technical prompt for generating a mechanical subject with hollow skeletal structures and glowing internal machinery, rendered with octane for high realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223941994_b1fsgu_HHuL80RaIAA_agO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18718,
+    "content": "Close-up portrait of a beautiful woman with {argument name=\"hair color\" default=\"dark hair\"}, wearing a {argument name=\"clothing item\" default=\"shimmering gold metallic silk jacket\"}. She has vibrant orange eyeshadow and glossy red lips. High-contrast cinematic lighting with dramatic shadows cast across her face. 85mm lens, f/1.8, high-fidelity, Vogue editorial photography style, hyper-realistic skin textures, soft bokeh background, warm color palette, 8k resolution.\nKey Aesthetic Elements Detected:\nLighting: The \"chiaroscuro\" effect (high contrast between light and dark) creates that sharp shadow line across the eyes, which is a hallmark of dramatic studio photography.\nMateriality: The jacket uses terms like \"metallic,\" \"lamé,\" or \"liquid gold\" to achieve that specific high-specular reflection.\nMakeup Palette: The prompt specifically targets \"sunset tones\"—bronze, orange, and deep reds—to contrast with the dark background.\nComposition: A \"tight crop\" or \"headshot\" framing using a long focal length (like 85mm) to minimize facial distortion and soften the background.",
+    "title": "Vogue Editorial Fashion Portrait",
+    "description": "A high-contrast cinematic portrait prompt for a fashion editorial aesthetic, featuring a metallic gold jacket and vibrant makeup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223933060_91vn2m_HHuHN3ZbgAAv9Xe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18734,
+    "content": "Use the uploaded face reference image as the primary identity of the model. Maintain exact facial structure, skin tone, beard texture, hairstyle, eye color, and realistic likeness with ultra-high consistency.\n\nCreate a luxury fashion magazine cover for “LYNTILLA”, promoting premium Lyntilla Phones in a high-end editorial style.\n\nScene & Composition\n•Vertical magazine cover composition\n•Elegant studio environment with soft beige, champagne gold, matte black, and metallic silver tones\n•Minimal luxury aesthetic with cinematic fashion lighting\n•Model positioned confidently in the foreground holding the phone near face level\n•Strong editorial pose with luxury fashion styling\n•Clean negative space for typography and feature callouts\n\nPhone Design\n•Premium smartphone with flat metallic edges and rounded corners\n•Similar proportions to a modern compact flagship device\n•Matte titanium or satin metallic finish\n•Triple rear cameras placed in a perfectly straight vertical line downward\n•Thin bezels and ultra-premium industrial design\n•Sleek engraved “LYNTILLA” branding\n•Realistic reflections and luxury product photography detailing\n\nPhone Features Displayed Around the Cover\n\nPlace elegant premium feature callouts along the left and right sides of the magazine cover in refined editorial typography:\n\nLeft side:\n•“200MP Ultra Vision Camera”\n•“TitanCore A1 Chip”\n•“6.1” Super Retina Display”\n•“AI Cinematic Capture”\n\nRight side:\n•“48-Hour Battery Life”\n•“Satellite Connectivity”\n•“5G HyperSpeed”\n•“Luxury Titanium Finish”\n\nBottom text:\n•“Engineered for the Future”\n•“Fashion Meets Innovation”\n\nStyling\n•Futuristic luxury fashion outfit\n•Metallic fabrics, structured silhouette, couture-inspired styling\n•Expensive jewelry and editorial makeup\n•Wind-blown hair for cinematic energy\n•Confident luxury expression\n\nMagazine Layout\n\nLarge elegant serif masthead:\n\nLYNTILLA\n\nSubheadings styled like a premium fashion-tech editorial:\n•“The Future of Luxury Phones”\n•“Designed To Define”\n•“Where Fashion Meets Technology”\n\nLighting & Camera\n•Soft cinematic studio lighting\n•Glossy luxury highlights\n•Ultra-realistic skin texture\n•85mm editorial photography look\n•Shallow depth of field\n•Hyper-detailed 8K realism\n•Premium fashion campaign aesthetic\n\nQuality\n\nUltra-realistic, luxury editorial photography, fashion magazine cover, highly detailed, cinematic, photorealistic, premium branding, sophisticated composition, sharp focus, realistic hands, realistic phone proportions, Vogue-style luxury layout, cutting-edge fashion-tech aesthetic.",
+    "title": "Luxury Fashion Tech Magazine Cover",
+    "description": "An editorial prompt for a high-end luxury fashion magazine cover featuring a smartphone, with detailed instructions for typography, lighting, and product design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223940183_dnkdvn_HHuBVGYakAAFoqY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18730,
+    "content": "Use the reference image as the exact subject identity. Create a scene of the person emerging out of a giant tilted smartphone showing their social media profile. Replace username, profile photo, and posts with the subject’s face and {argument name=\"name\" default=\"[name]\"}. Dynamic pose stepping through shattered screen glass toward camera, flying shards, strong depth perspective, warm indoor bokeh background, realistic lighting, ultra-detailed skin/clothes, viral Instagram ad aesthetic, photoreal 3D realism.",
+    "title": "Shattered Screen Social Media Ad",
+    "description": "A dynamic prompt for creating a viral Instagram-style advertisement where a person emerges from a shattered smartphone screen displaying their profile.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223938781_cm9yal_HHt9aT_akAEjgk-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18733,
+    "content": "{\n  “meta”: {\n    “quality”: “ultra-photorealistic, raw style, 8k, masterpiece, highly detailed textures, sharp focus”,\n    “camera”: “A vertical medium shot captured at eye level. Shot with a professional 50mm lens for a clean, natural look. Sharp focus on the subject with a very subtle, soft-focus background.”,\n    “lighting”: “Soft, bright natural daylight. The lighting is even and airy, creating a high-key aesthetic with minimal shadows and a fresh, clean glow on the skin.”,\n    “style”: “Influencer-style lifestyle photography, ‘clean girl’ aesthetic, minimalist fashion editorial.”,\n    “aspect_ratio”: “9:16”\n  },\n  “scene”: {\n    “location”: “A bright, minimalist indoor setting.”,\n    “details”: “A plain, white or off-white wall corner. The environment is uncluttered and monochromatic, emphasizing the subject’s silhouette and the textures of her outfit.”,\n“background”: “Clean, solid white walls with soft, natural light fall-off.”,\n    “atmosphere”: “Pure, elegant, and serene.”\n  },\n  “subject”: {\n    “gender”: “female”,\n    “age”: “young adult”,\n    “ethnicity”: “caucasian”,\n    “hair”: {\n      “color”: \"{argument name=\"hair color\" default=\"long, straight chestnut brown\"}\",\n      “style”: “Sleek and flowing naturally down her back and over one shoulder.”\n    },\n    “expression”: “A soft, captivating gaze looking back over her shoulder directly into the camera lens. Natural, minimalist makeup with glowing skin and a neutral lip tone.”,\n    “pose”: “Standing and leaning gracefully against a white wall. She is positioned sideways, twisting her upper body to look at the viewer, creating an elegant curve.”,\n    \"outfit\": {\n      \"description\": \"An ultra-form-fitting white micro-mini tube dress with a seamless, strapless design. Paired with matching white thigh-high stockings that feature a wide, textured lacy band at the top.\",\n\"fabric\": \"Highly detailed textures: smooth, (smooth) stretch fabric of the dress and the intricate, delicate lace pattern on the stocking bands.\"\n    },\n    \"accessories\": \"Minimalist approach, no heavy jewelry to maintain the clean aesthetic.\",\n    \"body_details\": \"Hyper-realistic skin texture with visible pores and natural skin tones. Slender, toned physique emphasized by the form-fitting outfit. No tattoos visible.\"\n  },\n  \"composition\": \"Centered vertical composition. The contrast between the white outfit and the white background is handled with subtle shadow depth to define the subject’s shape.\",\n\"additional_details\": [\n    \"Sharp definition of the individual strands of brown hair.\",\n    \"Intricate rendering of the lace texture on the white stockings.\",\n    \"Realistic fabric tension lines on the form-fitting dress.\",\n    \"Clean, high-key color grading with soft highlights and bright, airy tones.\",\n    \"Professional finish with a focus on (smooth) surfaces and sharp details.\"\n  ]\n}",
+    "title": "Minimalist White Dress Editorial",
+    "description": "A clean girl aesthetic prompt for a high-fashion portrait against a minimalist white background, focusing on texture and silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223939807_nrj8bu_HHt8botXYAMS19n.jpg",
+      "https://cms-assets.youmind.com/media/1778223939789_6ysby6_HHt8budWoAM7k55.jpg",
+      "https://cms-assets.youmind.com/media/1778223939782_j0jcrf_HHt8b4LWQAQ012n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18750,
+    "content": "{\n    \"scene\": \"A vibrant {argument name=\"salad type\" default=\"Mediterranean salad\"} presented in a wide, shallow bowl featuring ripe cherry tomatoes, crisp cucumber slices, creamy feta cubes, glossy black olives, and freshly chopped herbs like parsley and oregano, captured mid-toss with several ingredients suspended in mid-air to emphasize motion and freshness\",\n    \n    \"setting\": \"A clean, minimal {argument name=\"table material\" default=\"light oak wooden table\"} styled in a natural, slightly rustic way. A glass bottle of extra virgin olive oil sits to one side with visible golden liquid inside, and a fresh whole lemon placed nearby with subtle texture details. The background remains softly blurred to keep focus on the salad\",\n    \n    \"lighting\": \"Bright natural window light coming from one side, creating soft yet defined directional shadows. The light enhances the freshness of ingredients, highlights moisture on vegetables, and gives a clean, airy, high-end food photography feel with balanced contrast\",\n    \n    \"composition\": \"Medium close-up shot at eye level with a dynamic composition. The bowl is slightly off-center to create visual interest. Motion is emphasized with airborne salad elements frozen mid-toss. Depth of field is shallow to isolate subject while maintaining context of props\",\n    \n    \"camera\": \"Shot on Sony A7R V with a 50mm prime lens, emphasizing natural perspective, fine texture rendering, and shallow depth of field for a professional commercial food photography look\",\n    \n    \"style\": \"Ultra-photorealistic, high-end commercial editorial food photography style with extreme attention to ingredient texture, natural imperfections, and realistic moisture details. Designed for premium food brand advertising\",\n    \n    \"mood\": \"Fresh, energetic, vibrant, and appetizing with a clean gourmet aesthetic that evokes health, simplicity, and premium quality\",\n    \n    \"quality\": \"Ultra high resolution, razor-sharp focus on key ingredients, cinematic clarity, professional studio-grade post-processing, natural color grading\"\n  }",
+    "title": "Mediterranean Salad Food Photography",
+    "description": "High-end commercial food photography prompt for a Mediterranean salad captured mid-toss. It focuses on ingredient textures, dynamic motion, and professional studio lighting for an appetizing, gourmet aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223946904_n650dz_HHt6uejaQAAvcmk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18742,
+    "content": "{\n      \"description\": \"A striking portrait of a young man with a confident demeanor, featuring the same face as the {argument name=\"face reference\" default=\"uploaded reference image\"}.\",\n      \"features\": \"Voluminous hair adding texture and depth, calm yet determined expression.\",\n      \"attire\": \"Black leather jacket with an open collar, providing a rugged and stylish edge.\",\n      \"artistic_overlay\": \"A bold red geometric frame and rectangular overlay obscuring one eye for a modern, artistic flair.\"\n    },\n    \"graphic_elements\": {\n      \"typography_left\": {\n        \"text\": \"{argument name=\"subject name\" default=\"zoraiz\"}\",\n        \"style\": \"Repeated vertically in large, bold black letters with a slight transparency effect.\",\n        \"accents\": [\n          \"Prominent red Nike logo near the top.\",\n          \"A vertical red line punctuating the design.\",\n          \"A bold red 'Z' integrated into the vertical line (replacing the previous 'S').\"\n        ]\n      },\n      \"typography_bottom\": {\n        \"tagline\": \"{argument name=\"tagline\" default=\"WORK SMART NOT HARD\"}\",\n        \"tagline_style\": \"Bold red capital letters, with 'smart' in a smaller, elegant cursive script beneath it.\",\n        \"signature\": \"graphics\",\n        \"signature_style\": \"Matching elegant cursive script.\",\n        \"hashtag\": \"#zoraiz\",\n        \"hashtag_style\": \"Bold red in the bottom left corner.\"\n      }\n    },\n    \"style_and_composition\": {\n      \"color_palette\": \"High-contrast black-and-white (grayscale) with vivid red accents.\",\n      \"background\": \"Smooth, textured grey canvas acting as a neutral backdrop.\",\n      \"lighting\": \"Soft yet dramatic, highlighting textures of hair and leather.\",\n      \"technical_specs\": {\n        \"quality\": \"8k ultra-realistic, hyper-detailed, photorealistic.\",\n        \"camera_simulation\": \"Hasselblad X2D 100C, high-resolution DSLR quality.\",\n        \"lens_effect\": \"Shallow depth of field, sharply focused on the subject.\",\n        \"aspect_ratio\": \"4:5\"\n      }\n    }",
+    "title": "Artistic Male Fashion Portrait",
+    "description": "A sophisticated prompt for an artistic portrait of a young man, featuring a high-contrast black-and-white style with vivid red geometric overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223943504_au14yq_HHt5BLZa4AAgeB3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18758,
+    "content": "An aesthetic promotional advertisement for the {argument name=\"camera model\" default=\"CAMI C-500 Mirrorless camera\"}, featuring a smiling woman capturing a photo on a charming, cobblestone European street. She is dressed in a stylish {argument name=\"clothing\" default=\"olive green blazer\"} and a brown leather backpack, embodying a \"travel photographer\" vibe. The poster includes the brand logo \"CAMi\" at the top with the slogan \"{argument name=\"slogan\" default=\"CAPTURE. SHARE. ADVENTURE.\"}\" and lists key technical specs at the bottom: 24.2 MP Sensor, 4K Video, and Fast AF, all anchored by the bold tagline, \"YOUR BEST SHOTS, EVERYWHERE.\"",
+    "title": "Travel Photographer Camera Advertisement",
+    "description": "An aesthetic promotional poster for a mirrorless camera. It features a lifestyle travel scene on a European street, complete with branding logos, slogans, and technical specifications for a professional commercial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223950801_1tzhj4_HHtuGnAXwAIeG8U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18715,
+    "content": "A high fashion magazine studio editorial shot set against a {argument name=\"background\" default=\"dark, solid seamless backdrop in deep charcoal to near black tones\"}, designed to create maximum contrast and dramatic visual impact. The environment is minimal and controlled, removing all distractions so the subject and motion remain the sole focus of the composition.\n\nLighting is built around a hard direct strobe flash setup, producing intense highlights and deeply defined, razor sharp shadows. The flash freezes every element in motion with extreme clarity, capturing texture, depth, and impact in a single suspended moment. The lighting style is crisp and sculptural, emphasizing edges, contours, and airborne particles with precision.\n\nThe camera uses a {argument name=\"lens\" default=\"SUPER ultra-wide 12mm lens\"}, placed very close to the subject to exaggerate perspective and create a powerful sense of distortion and immediacy. A low angle viewpoint enhances drama, making the model appear larger than life and amplifying the feeling of instability and motion.\n\nThe model is captured mid stumble, moving forward with uncontrolled yet elegant momentum. One arm is thrown outward instinctively to regain balance, while the body leans into the motion, creating tension and dynamic asymmetry. Facial expression reflects urgency and focus, consistent with high fashion editorial intensity.\n\nIn the hand, a {argument name=\"product\" default=\"compact powder and blush palette\"} is slipping loose, captured at the exact moment of release. The product is breaking apart in motion, contributing to the narrative of controlled chaos. A dramatic powder cloud explodes outward in mid air, forming a soft, textured plume that contrasts with the hard lighting and sharp shadows.\n\nMakeup brushes scatter through the frame, each frozen individually in space, adding rhythm and directional flow to the composition. Fine powder particles float and disperse, catching strobe highlights like suspended dust in air.\n\nThe overall aesthetic is clean, high contrast, and meticulously retouched, maintaining luxury fashion magazine standards while emphasizing kinetic energy, unpredictability, and visual impact in a single frozen editorial moment.",
+    "title": "High Fashion Editorial Motion Shot",
+    "description": "An incredibly detailed high-fashion editorial prompt that captures a model in mid-motion with exploding makeup products in a dark studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223931857_dbj0l0_HHtKr2gbkAAUD44.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18754,
+    "content": "A mysterious {argument name=\"subject\" default=\"futuristic monk\"} sitting alone in deep meditation inside an enormous digital temple hidden beyond the internet, dark cinematic atmosphere, billions of {argument name=\"particles\" default=\"glowing social media particles\"}, holographic posts, reels, analytics charts, comments and engagement symbols flowing around him like a galaxy of information, giant floating neural network structures in the background, {argument name=\"lighting\" default=\"glowing purple and electric blue ambient lighting\"}, volumetric fog, reflective black stone floor, calm but powerful presence, hood covering most of the face, only subtle glowing eyes visible beneath shadows, futuristic wisdom aesthetic, cyber spiritualism, ultra realistic fabric textures, cinematic composition, unreal engine 5 render, octane render quality, impossible detail, deep contrast lighting, highly atmospheric, premium AI startup branding style, symmetrical composition, soft particle glow, majestic scale, tiny floating holographic UI elements around the monk’s hands, emotional and intelligent mood, trending on behance, artstation masterpiece, 8k ultra detailed.",
+    "title": "Cyber Spiritualism Digital Monk",
+    "description": "A cinematic and atmospheric prompt for a futuristic monk meditating in a digital temple. It features holographic social media elements, volumetric fog, and Unreal Engine 5 render quality for a premium cyber-spiritual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223949135_hj1rul_HHtEtU_asAA8YYa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18749,
+    "content": "A confident young adult male with a groomed short beard and subtly highlighted wavy brown hair stands dead center, facing the camera directly with level shoulders and a structured, poised posture. His eyes are obscured by dark square sunglasses that sit flush above a neutral, unsmiling expression, projecting a calm, sophisticated authenticity. He wears a {argument name=\"shirt\" default=\"crisp, bright white unbuttoned shirt\"} framed sharply by a {argument name=\"coat\" default=\"heavy, long black tailored overcoat\"}. Both hands are hidden completely inside the left and right coat pockets in a casual, organic gesture, subtly pulling the dark fabric back to reveal the brilliant white shirt underneath. He is grounded on a {argument name=\"ground\" default=\"textured driveway of scattered grey and pale blue-grey crushed gravel\"}, flanked symmetrically in the midground by two pristine, visually balanced vehicles. To his left sits the dominant front profile of a glossy black luxury SUV featuring black alloy wheels and a specular glowing reflection housed within its headlight casing, while to his right rests the sleek rear quarter panel of a silver SUV, punctuated by a deep red tail light. Beyond this layered midground, the slightly out-of-focus background reveals a matte white exterior wall with horizontal black architectural banding. Set into this stucco wall is a slightly weathered window protected by black iron security bars, accompanied on the right by a tall, weathered grey metal lamp post crowned with a classic lantern. The scene is bathed in soft, diffused natural daylight streaming from above and slightly in front, casting soft, gradual gray shadows under the man's chin, along the inner edges of his open coat, and heavily beneath the vehicles. Specular highlights glint across the curved car bodies, the headlight housings, and delicately upon the tip of the subject's nose and the crests of his textured hair, reinforcing a desaturated, neutral color palette with striking contrast. Captured as a contemporary menswear editorial photograph using an 85mm lens at f/2.8 for tack-sharp focus on the subject and medium depth of field, the image features a desaturated color grade, slightly cooled shadows, and expertly enhanced contrast to make the white shirt pop vividly against the dark coat, all naturally framed in a 4:5 aspect ratio.",
+    "title": "Menswear Editorial Street Style",
+    "description": "A crisp menswear editorial photograph prompt featuring a man in a black overcoat and white shirt standing between two SUVs on a gravel driveway.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223945744_pme4n9_HHs5zo6XEAEalB3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18716,
+    "content": "Create a hyper-realistic tropical island shaped perfectly like the {argument name=\"logo\" default=\"uploaded brand logo\"}, where the entire logo shape is formed ONLY with dense green tropical trees, keeping every curve and edge sharp, clean, and geometrically accurate. Use a 70% bird-eye view (mostly top-down with a slight cinematic tilt) to clearly reveal the full tree-formed logo with natural depth. Surround the tree-formed logo with a smooth white-sand boundary so the silhouette remains crisp and readable from above. Any inner hollow shapes inside the logo must be filled with sparkling turquoise water for high contrast, ensuring the logo is perfectly visible.\nBelow the island, form the brand text ‘ {argument name=\"brand name\" default=\"[BRAND NAME]\"} ’ naturally using lush green trees shaped into letters  clear, smooth, well-spaced, and readable from the aerial view. For realism and world-building: multiple tiny speedboats and yachts around the island, strong white water wake trails behind the boats, kayaks or canoes near the shore, 2–3 seagulls flying for scale, underwater coral reefs + darker ocean patches, wave foam patterns touching the sand naturally, golden-hour sunlight with long shadows across trees, soft aerial haze near the horizon, shallow-to-deep turquoise ocean gradients with caustic reflections.\nEverything must look ultra-premium, vibrant, natural, and National Geographic–style photorealistic. No text overlays, no artificial objects the entire logo and brand name must feel naturally formed from green trees and sand.",
+    "title": "Tropical Island Logo Transformation",
+    "description": "A prompt for turning a brand logo into a photorealistic tropical island using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223932487_eos0ne_HHs4bpLaYAEyxFc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18741,
+    "content": "A stylish, rugged portrait of a man with a relaxed yet sophisticated urban look. He features messy {argument name=\"hair\" default=\"dark hair with natural highlights\"} and a well-maintained, thick beard. He is wearing distinctive vintage-style sunglasses with translucent {argument name=\"sunglasses color\" default=\"amber\"} frames and dark, circular lenses that feature a unique metal flip-up bridge mechanism. He is dressed for cool weather in a chunky, {argument name=\"cardigan color\" default=\"blue\"} ribbed-knit cardigan with a thick lapel, worn over a simple white t-shirt. In the foreground, his hand is partially visible, holding a white disposable coffee cup with a matching white lid. The lighting is bright and natural, casting soft shadows that emphasize the texture of his knitwear and facial hair. The background is a soft-focus blue vintage vehicle with horizontal grille lines, creating a cool-toned, cinematic backdrop that makes the warm tones of his sunglasses and skin pop.",
+    "title": "Rugged Sophisticated Urban Male Portrait",
+    "description": "A stylish portrait prompt of a man with a beard and vintage sunglasses, set against a cinematic soft-focus vintage vehicle backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223943349_uqb3dn_HHsj5K0bIAAEBmR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18746,
+    "content": "This image is a professional promotional infographic for the {argument name=\"product\" default=\"ASH Collection Stylist Bag\"}, featuring a clean, editorial layout with a warm, earth-toned aesthetic. It showcases a central model holding a {argument name=\"bag color\" default=\"cognac-colored\"} leather handbag, surrounded by detailed sections including \"Bag Features,\" a \"Bag Guide\" with technical dimensions, and a \"Colour Collection\" displaying the bag in {argument name=\"shades count\" default=\"six\"} shades: Black, Cognac Tan, Emerald Green, Navy Blue, Burgundy, and Cream White. The bottom of the graphic includes a \"Style Guide\" with lifestyle photography illustrating how to pair each color with specific outfits for occasions ranging from business meetings to evening parties.",
+    "title": "Luxury Handbag Promotional Infographic",
+    "description": "A clean, editorial infographic prompt for a leather handbag collection, including feature sections, color guides, and style pairing lifestyle photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223944981_t7zdgp_HHsYqEtXsAA4IVm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18729,
+    "content": "Close candid {argument name=\"camera\" default=\"iPhone 14 Pro\"} photograph capturing a realistic, intimate moment inside a {argument name=\"store name\" default=\"Vivara jewelry store\"} located in a modern Brazilian shopping mall. The scene focuses on a person standing near a glass display counter, gently trying on a delicate {argument name=\"jewelry item\" default=\"gold ring\"} with careful attention and curiosity. The framing is close-up and personal, emphasizing the hands, the jewelry, and subtle emotional expression rather than a full body view, creating a sense of authenticity and natural storytelling. The subject is dressed in a refined yet minimal outfit suitable for a luxury retail environment, such as a soft neutral blouse or tailored shirt paired with simple, elegant accessories that do not distract from the jewelry. The overall appearance is polished but understated, aligning with the sophisticated ambiance of a high end jewelry store. The hands are the focal point of the composition, softly illuminated as they hold and adjust the gold ring, highlighting texture, shine, and craftsmanship. The background features softly blurred glass display cases filled with other fine jewelry pieces, creating a luxurious and premium retail atmosphere. Warm ambient lighting from the store gently reflects off polished surfaces, producing a golden glow that enhances the richness of the scene. The lighting is balanced and natural, mimicking real indoor mall illumination rather than studio lighting, contributing to an authentic candid feel. Shot in shallow depth of field using an iPhone 14 Pro camera, the focus remains sharp on the hands and ring while the background melts into smooth bokeh, adding depth and cinematic quality. Skin tones appear natural and accurate, with realistic texture and subtle imperfections preserved to maintain authenticity. The reflections on the gold ring are soft yet detailed, capturing fine highlights and metallic warmth. The overall composition conveys a quiet, personal moment of consideration and desire, as if the subject is deciding on a meaningful purchase. The image feels unposed, spontaneous, and emotionally grounded, blending lifestyle photography with luxury retail aesthetics.",
+    "title": "Luxury Jewelry Retail Candid Photography",
+    "description": "A candid iPhone-style photograph prompt capturing an intimate moment of a person trying on a gold ring in a luxury jewelry store, with warm ambient lighting and soft bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223938054_4wjcv6_HHsULH6bUAAplde.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18752,
+    "content": "Photorealistic full-body fashion editorial portrait of a confident woman seated on a glossy {argument name=\"floor color\" default=\"Orange\"} floor against a plain white wall, wearing a bright {argument name=\"outfit color\" default=\"Orange\"} tailored blazer and matching high-waist shorts over a structured white corset bustier, Orange stiletto heels, clear framed glasses and a simple pendant necklace; {argument name=\"hair style\" default=\"medium brown long wavy hair\"} loose around her shoulders, natural warm-medium skin tone, soft matte red lip, subtle eye makeup, looking off to the right with a composed, slightly aloof expression. Pose: one leg bent and raised, the other leg tucked, left hand resting on the floor for balance, right hand lightly on knee. Studio softbox lighting from upper-left creating gentle shadows and highlights on fabric textures and skin, controlled reflection on glossy floor, shallow depth of field (f/2.8) for subject isolation, high detail on hair, fabric weave, skin pores and jewelry, vibrant saturated reds, clean minimalist composition, editorial mood, realistic retouching, cinematic color grading, 2:3 vertical crop.",
+    "title": "Minimalist Fashion Editorial Studio Portrait",
+    "description": "A clean and vibrant fashion editorial prompt for a studio portrait. It features a woman in tailored attire against a minimalist white wall and glossy floor, using professional studio lighting to highlight textures and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223946735_7wpn55_HHsAihkaIAAXJ_-.jpg",
+      "https://cms-assets.youmind.com/media/1778223946685_odt24x_HHsAibnakAAQ92f.jpg",
+      "https://cms-assets.youmind.com/media/1778223948193_k5fo7a_HHsAidaaQAAkUTw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18723,
+    "content": "Create a hyper-realistic 8K cinematic black-and-white portrait of {argument name=\"subject\" default=\"the uploaded person\"} in a dramatic chiaroscuro style. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera,not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow. His expression is contemplative. His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a {argument name=\"accessory\" default=\"luxury black chronograph watch\"} with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a sharp black suit jacket over a white dress shirt with the top buttons open, showing refined fabric texture and natural folds. The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard(if present) bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy. Aspect ratio 4:5.",
+    "title": "Dramatic Chiaroscuro Cinematic Portrait",
+    "description": "A high-contrast cinematic black-and-white portrait prompt using dramatic chiaroscuro lighting, focusing on a contemplative subject in a sharp suit with luxury accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223935898_xold8d_HHr5CnPakAAB1hh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18751,
+    "content": "Create a hyper-realistic {argument name=\"logo type\" default=\"tropical island\"} shaped perfectly like the uploaded brand logo, where the entire logo shape is formed ONLY with dense green tropical trees, keeping every curve and edge sharp, clean, and geometrically accurate. Use a 70% bird-eye view (mostly top-down with a slight cinematic tilt) to clearly reveal the full tree-formed logo with natural depth. Surround the tree-formed logo with a smooth white-sand boundary so the silhouette remains crisp and readable from above. Any inner hollow shapes inside the logo must be filled with sparkling turquoise water for high contrast, ensuring the logo is perfectly visible.\nBelow the island, form the brand text ‘ {argument name=\"brand name\" default=\"BRAND NAME\"} ’ naturally using lush green trees shaped into letters — clear, smooth, well-spaced, and readable from the aerial view. For realism and world-building: multiple tiny speedboats and yachts around the island, strong white water wake trails behind the boats, kayaks or canoes near the shore, 2–3 seagulls flying for scale, underwater coral reefs + darker ocean patches, wave foam patterns touching the sand naturally, golden-hour sunlight with long shadows across trees, soft aerial haze near the horizon, shallow-to-deep turquoise ocean gradients with caustic reflections.\nEverything must look ultra-premium, vibrant, natural, and National Geographic–style photorealistic. No text overlays, no artificial objects — the entire logo and brand name must feel naturally formed from green trees and sand.",
+    "title": "Cinematic Tropical Island Brand Logo",
+    "description": "Transform any brand logo into a lush, hyper-realistic tropical island made of dense trees. This bird's-eye view prompt includes detailed environment elements like white sand, turquoise water, and speedboats for a premium National Geographic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223946671_09l5th_HHr4hlzbQAAH1Ky.jpg",
+      "https://cms-assets.youmind.com/media/1778223946675_f1j6uv_HHr4hqobQAEuOd8.jpg",
+      "https://cms-assets.youmind.com/media/1778223948167_nlmd9y_HHr4hynbkAAlNBR.jpg",
+      "https://cms-assets.youmind.com/media/1778223947383_azuzc9_HHr4h5WaAAAWuJE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18728,
+    "content": "Beautiful Indian woman in luxurious gold bridal jewelry and orange embroidered drape, sitting on ornate cushions in a royal palace courtyard decorated with marigold flowers and warm fairy lights, soft cinematic lighting, elegant festive mood. Confident Indian woman wearing layered gold body jewelry and orange traditional drape, posing outdoors during a wedding celebration with marigold decorations, natural sunlight, bold fashion editorial style. Indian woman in intricate gold jewelry and orange lehenga-inspired drape, sitting gracefully in a decorated heritage courtyard with floral arches and festive lights, symmetrical composition, regal atmosphere.. Smiling Indian woman in ornate gold body chains and orange embroidered drape, posing in a festive palace setting with marigold garlands and floral décor, warm lighting, glamorous traditional fashion portrait.",
+    "title": "Royal Indian Bridal Tradition Series",
+    "description": "A series of prompts depicting beautiful Indian women in luxurious gold jewelry and traditional orange attire, set within regal heritage courtyards with festive marigold decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223936872_75a09n_HHrtX7lbwAAMOot.jpg",
+      "https://cms-assets.youmind.com/media/1778223936864_6yqont_HHrtX7LbwAEt7wR.jpg",
+      "https://cms-assets.youmind.com/media/1778223936950_kom524_HHrtX4pawAEPssY.jpg",
+      "https://cms-assets.youmind.com/media/1778223937729_j93zyx_HHrtX4maMAElLp_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18745,
+    "content": "Create an image standing outdoors on what appears to be a staircase with ornate white railings. She is wearing a {argument name=\"outfit\" default=\"white long-sleeved tunic adorned with a vibrant black cherry print\"} and delicate tassel detailing along the front. Her outfit is paired with white trousers, and she carries a {argument name=\"handbag\" default=\"classic red leather handbag\"} over her shoulder that complements the cherry pattern. She has {argument name=\"hair style\" default=\"shoulder-length dark hair with bangs\"} and is looking slightly off-camera with a soft, natural expression.The background consists of a light-colored wall with decorative carvings and a metal gate, creating a bright and clean aesthetic. The overall lighting is soft, highlighting the fresh and summery feel of her stylish ensemble. Without flower in hair please. Light pink glowing skin and pink glowing lipstick",
+    "title": "Fresh Summer Tunic Portrait",
+    "description": "A bright and clean summer fashion prompt featuring a white cherry-print tunic and a red leather handbag against a decorative wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223944647_13qdj6_HHrqNXGXYAA3jqC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18713,
+    "content": "A high fashion studio action shot designed with a cinematic, hyper dynamic editorial approach that captures movement, tension, and frozen energy in a single frame. The scene is set against a dark, solid seamless background that absorbs light and enhances contrast, creating a dramatic void-like environment that isolates the subject and emphasizes form, motion, and lighting precision.\n\nThe lighting setup is a hard strobe configuration, engineered to produce crisp, sculptural highlights and deep, defined shadows with razor sharp edges. Every contour of the model, fabric, and airborne particles is sharply defined through high intensity flash timing combined with a high shutter speed freeze, ensuring that even the fastest motion appears suspended in time with absolute clarity.\n\nThe camera is positioned at a {argument name=\"focal length\" default=\"SUPER ultra wide 12mm\"} focal length, exaggerating perspective and adding immersive distortion that enhances speed and impact. A side tracking angle is used, following the model’s motion laterally to intensify the feeling of acceleration and directional force. This perspective makes the scene feel as if the viewer is moving alongside the subject in real time.\n\nThe model is captured mid action, {argument name=\"action\" default=\"lunging aggressively into a full sprint\"} with powerful athletic energy. The body posture conveys urgency and momentum, with forward drive clearly visible in the stride, shoulders angled into motion, and core engaged. Hair whips violently backward due to rapid acceleration, forming fluid arcs that contrast with the sharp frozen lighting style.\n\nIn the foreground and motion path, {argument name=\"liquid effect\" default=\"an iced coffee is captured mid spill, exploding into a long, elegant arc of liquid suspended in mid air\"}. Droplets are individually visible, frozen at different distances from the cup, creating a sense of chaotic precision. Crushed ice fragments scatter outward, each piece sharply defined and glinting under the strobe light, enhancing texture and realism.\n\nThe composition emphasizes controlled chaos, balancing fashion editorial aesthetics with raw kinetic energy. The wardrobe is sleek and high fashion, designed to complement motion without cluttering the visual narrative. Fabric reacts naturally to speed, creating flowing trails and subtle tension folds.\n\nOverall, the image blends luxury fashion photography with extreme motion capture techniques, resulting in a visually striking moment that feels both cinematic and impossible, as if time itself has been stopped at the peak of action.",
+    "title": "High Speed Action Editorial",
+    "description": "A hyper-dynamic fashion editorial prompt featuring a model in a sprint with an exploding iced coffee spill, shot at an ultra-wide angle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778223931123_rva0k5_HHrRdjjbYAEDmjH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18476,
     "content": "dramatic low-angle wide-lens shot of an person attached in the uploaded reference image seated in a casual diner booth, holding a slim {argument name=\"product\" default=\"soda can\"} close to the camera as the clear hero, {argument name=\"style\" default=\"Egyptian style label\"} fully visible, playful rebellious attitude, one hand raised in a bold \"rock on\" gesture, straw in mouth, {argument name=\"clothing\" default=\"oversized jacket and cap\"}, warm direct light, tiled wall and wood panel backdrop, tray with fries and a half-eaten wrap on the table, gritty fast-food editorial energy, exaggerated perspective distortion, realistic skin texture and crisp can detail, candid street campaign feel, cheeky, raw, stylish, polished, and instantly scroll-stopping.\nAspect ratio 5:4",
     "title": "Diner Booth Editorial Soda Can Portrait",
