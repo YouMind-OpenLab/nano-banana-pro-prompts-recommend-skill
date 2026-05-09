@@ -1,5 +1,58 @@
 [
   {
+    "id": 18988,
+    "content": "{\n  \"vibe_title_en\": \"The Silent Aquarium\",\n  \"master_prompt\": \"A hyper-realistic, surreal close-up portrait of The Protagonist submerged in a deep, viscous twilight-blue fluid. A massive, over-scaled Ryukin Goldfish with iridescent, metallic orange scales glides slowly past the subject's cheek, occupying the negative space. The subject maintains 'The Stoic Ghost' demeanor: a thousand-yard stare, absolutely emotionally detached, muscles relaxed, looking through the lens with haunting apathy. The hair is suspended in the water, creating a halo of floating strands. Lighting is cinematic and aquatic, with caustic light ripples projecting across the face. Shot on a Hasselblad H6D-100c with a 100mm Macro lens to capture the microscopic texture of wet skin pores and the slimy sheen of the fish scales. Color grading mimics Fujifilm Pro 400H—cool cyans, muted teals, and piercing orange highlights. High-budget practical effects style, no CGI gloss.\",\n  \"meta\": {\n    \"intent\": \"Editorial Surrealism\",\n    \"priorities\": \"Texture Fidelity, Emotional Detachment, Scale Contrast\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Aquatic Stoic\",\n    \"face\": \"Pale, wet skin texture, visible pores, water droplets\",\n    \"hair\": \"Floating, weightless, wet-look, suspended in fluid\",\n    \"expression\": \"The Stoic Ghost: Deadpan, detached, minimal muscle tension, hauntingly calm\",\n    \"pose\": \"Static, facing forward, slight head tilt away from the fish\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Victorian High-Collar Dress\",\n        \"material\": \"Sheer Lace and Silk\",\n        \"color\": \"Ghost White\",\n        \"fit\": \"Clinging (Wet)\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Submerged Botanical Tank\",\n    \"surfaces\": \"Water, Glass, Fish Scales\",\n    \"depth\": \"Shallow Depth of Field (f/2.8)\",\n    \"atmosphere\": \"Murky, Viscous, Particulate Matter (Marine Snow)\"\n  },\n  \"lighting\": {\n    \"key\": \"Caustic Projection (Water Ripples)\",\n    \"fill\": \"Soft Cool Cyan Bounce\",\n    \"rim\": \"Subtle Bioluminescent Glow\",\n    \"shadows\": \"Deep, Soft, Teal-Tinted\"\n  }\n}",
+    "title": "The Silent Aquarium Surreal Portrait",
+    "description": "A complex surreal portrait prompt for a subject submerged in fluid with a massive goldfish, focusing on texture and emotional detachment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310297947_aqfxma_HH0hk9cW0AI0Ibb.jpg",
+      "https://cms-assets.youmind.com/media/1778310296408_mqqp2m_HH0hk-RXEAQeWNQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18977,
+    "content": "A historical desert battlefield warrior prompt, featuring a woman in antique armor riding a donkey.",
+    "title": "Medieval Desert Battlefield Warrior",
+    "description": "A prompt for a woman in medieval armor riding a donkey in a desert battlefield, replacing a modern background with a historical setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310291544_d5b945_HHyd5bqbYAADvEv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18969,
+    "content": "A detailed character design sheet for a male mage titled \"The Arcanist's Ledger.\" The character has {argument name=\"hair\" default=\"short, tousled auburn hair\"}, pointed ears, and {argument name=\"horns\" default=\"crystalline blue horns\"}. He wears an ornate, floor-length {argument name=\"robe color\" default=\"navy blue\"} robe decorated with glowing celestial constellations and gold embroidery. The layout includes full front and back views, a side-profile headshot, and close-up technical drawings of his magical accessories: a crystal-tipped staff, a circular geometric pendant, and intricate ear cuffs. The aesthetic is a clean, vintage parchment style with structured annotations and calligraphic headings.",
+    "title": "The Arcanist's Ledger Character Sheet",
+    "description": "A detailed character design sheet for a male mage with auburn hair and crystalline horns, styled as a vintage parchment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310287440_yqhcm7_HHxc61LWAAQ7yW-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18972,
+    "content": "Use the provided face reference as the exact identity base, preserving all facial structure, proportions, and expression with high fidelity.\n\nGenerate a hyper realistic cinematic portrait of a {argument name=\"subject\" default=\"beautiful woman\"} with strong, defined facial features, sharp jawline, high cheekbones, and piercing intense eyes that convey determination and emotional depth. Her hair is tightly controlled with no loose strands, styled in a practical, combat ready manner such as a tight bun or secured braid to maintain a disciplined military appearance.\n\nShe is wearing a fitted {argument name=\"clothing\" default=\"black sleeveless tactical shirt\"} layered under a high quality, rugged military vest equipped with realistic straps, buckles, and subtle wear marks indicating prolonged field use. Ensure the outfit is clean in design but battle ready in function, with no excessive branding or stylization.\n\nHer arms are visible and completely free of tattoos, showing natural skin texture with realistic dirt smudges, sweat, minor scratches, and faint bruising that suggest recent combat exposure. Her physique appears athletic and functional rather than stylized, emphasizing strength and endurance.\n\nThe subject is crouched forward in a low tactical stance, with both forearms resting on her knees. Her hands are loosely clasped together in front of her, showing calm control rather than tension. Her posture communicates readiness, discipline, and survival instinct in a hostile environment.\n\nHer expression is fierce, focused, and emotionally hardened, with eyes locked directly into the camera lens, creating an intense psychological connection with the viewer. Subtle facial imperfections such as dust particles, minor cuts, and sweat sheen should be visible to enhance realism.\n\nThe environment is a {argument name=\"environment\" default=\"war torn urban battlefield\"}, featuring destroyed concrete buildings, collapsed structures, scattered debris, and partially burned vehicles in the background. Smoke drifts through the scene with faint embers glowing in the air, adding depth and movement.\n\nLighting should be cinematic and dramatic, using high contrast with soft directional key light illuminating her face while maintaining deep shadows for mood. The overall color grading should feel desaturated, gritty, and realistic, emphasizing survival and tension.\n\nRender in ultra photorealistic detail, shallow depth of field, 8K resolution, film still quality, with a strong focus on realism, emotional intensity, and atmospheric war photography aesthetics.",
+    "title": "Cinematic Military Woman Portrait",
+    "description": "A hyper-realistic cinematic portrait of a determined military woman in a war-torn environment, focusing on realistic textures and emotional depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310288704_1gmgno_HHw_c2kbAAApxBM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18973,
+    "content": "A vintage magical study portrait with 1990s aesthetics, featuring glowing objects and a woman in an elegant yellow dress.",
+    "title": "Magical Study Vintage Portrait",
+    "description": "A prompt for an elegant vintage-style portrait in a magical study filled with glowing orbs and antique objects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310289603_wjoz1a_HHw9VF9XIAQsAaT.jpg",
+      "https://cms-assets.youmind.com/media/1778310289676_196me4_HHw9VIVWAAUqeot.jpg",
+      "https://cms-assets.youmind.com/media/1778310289659_o3whhv_HHw9VLSW4AY07uF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18753,
     "content": "do this for {argument name=\"subject\" default=\"Mecca\"} : G = (V, E) where:\n\nV = {\n  v₁: Torus(radius=R, layers=8, material={argument name=\"material\" default=\"wood\"}),\n  v₂: City(landmarks={l₁...lₙ}, scale=1:100),\n  v₃: Workshop(tools, bench, lighting),\n  v₄: Camera(macro, f/2.8, 45°)\n}\n\nE = {\n  (v₁, v₂, \"surface_embedding\"),\n  (v₁, v₃, \"located_in\"),\n  (v₁, v₄, \"viewed_by\"),\n  (v₂.landmarks, v₁.layers, \"distributed_across\")\n}\n\nConstraints:\n  ∀l ∈ landmarks: position(l) ∈ torus_surface\n  ∀layer ∈ layers: wood_grain(layer) ≠ wood_grain(layer+1)\n  \nGenerate(G) → Image",
     "title": "Abstract Geometric City Visualization",

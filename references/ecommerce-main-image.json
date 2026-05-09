@@ -1,5 +1,16 @@
 [
   {
+    "id": 18968,
+    "content": "A structured prompt for a full-body studio portrait. The subject is a young woman with a red ponytail wearing a shiny black one-piece swimsuit. The background is solid white with high-key lighting and a soft floor shadow.",
+    "title": "Redhead Studio Swimsuit Portrait",
+    "description": "A studio portrait prompt for a redheaded woman in a black one-piece swimsuit with high-key lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310286960_v4mri8_HHw6v_OaUAAf7kw.jpg",
+      "https://cms-assets.youmind.com/media/1778310286946_jgaw5x_HHw6v_3bAAAH4EZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18750,
     "content": "{\n    \"scene\": \"A vibrant {argument name=\"salad type\" default=\"Mediterranean salad\"} presented in a wide, shallow bowl featuring ripe cherry tomatoes, crisp cucumber slices, creamy feta cubes, glossy black olives, and freshly chopped herbs like parsley and oregano, captured mid-toss with several ingredients suspended in mid-air to emphasize motion and freshness\",\n    \n    \"setting\": \"A clean, minimal {argument name=\"table material\" default=\"light oak wooden table\"} styled in a natural, slightly rustic way. A glass bottle of extra virgin olive oil sits to one side with visible golden liquid inside, and a fresh whole lemon placed nearby with subtle texture details. The background remains softly blurred to keep focus on the salad\",\n    \n    \"lighting\": \"Bright natural window light coming from one side, creating soft yet defined directional shadows. The light enhances the freshness of ingredients, highlights moisture on vegetables, and gives a clean, airy, high-end food photography feel with balanced contrast\",\n    \n    \"composition\": \"Medium close-up shot at eye level with a dynamic composition. The bowl is slightly off-center to create visual interest. Motion is emphasized with airborne salad elements frozen mid-toss. Depth of field is shallow to isolate subject while maintaining context of props\",\n    \n    \"camera\": \"Shot on Sony A7R V with a 50mm prime lens, emphasizing natural perspective, fine texture rendering, and shallow depth of field for a professional commercial food photography look\",\n    \n    \"style\": \"Ultra-photorealistic, high-end commercial editorial food photography style with extreme attention to ingredient texture, natural imperfections, and realistic moisture details. Designed for premium food brand advertising\",\n    \n    \"mood\": \"Fresh, energetic, vibrant, and appetizing with a clean gourmet aesthetic that evokes health, simplicity, and premium quality\",\n    \n    \"quality\": \"Ultra high resolution, razor-sharp focus on key ingredients, cinematic clarity, professional studio-grade post-processing, natural color grading\"\n  }",
     "title": "Mediterranean Salad Food Photography",

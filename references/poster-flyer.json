@@ -20,6 +20,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 19003,
+    "content": "An Arabic calligraphy piece spelling out \"{argument name=\"text\" default=\"Astaghfirullah\"}\" on a {argument name=\"background color\" default=\"black\"} background with {argument name=\"text style\" default=\"shimmering golden\"} lettering.",
+    "title": "Golden Arabic Calligraphy on Black",
+    "description": "A prompt for creating elegant Arabic calligraphy spelling 'Astaghfirullah' featuring shimmering gold textures against a minimalist dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310307223_4nx7t9_HHzzw1ZbkAAqL3b.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18994,
+    "content": "Ultra-photorealistic Met Gala fashion image of an adult woman wearing an {argument name=\"outfit\" default=\"original avant-garde couture gown inspired by modern art paintings and sculptural gallery installations\"}.\n\nThe gown should combine abstract brushstrokes, color-blocked painted panels, and three-dimensional sculptural forms. Use layered satin, mesh, organza, liquid silk, and textured textile surfaces with bold abstract painted areas, raised paint-like ridges, and sculptural hip and shoulder structures. The dress should feel modern, artistic, architectural, and highly editorial.\n\nInclude striking accessories: oversized sculptural earrings, a geometric art-inspired clutch bag, statement rings, a structured bracelet, and sharp high-fashion heels with abstract painted surfaces. Add a chic mini handbag that looks like a gallery object. Shoes should be elegant but experimental.\n\nHair: sleek glass hair or ultra-clean low bun, very polished and modern. \nMakeup: modern editorial look with clean glowing skin, softly sculpted brows, subtle graphic liner, neutral lips, fresh but luxurious finish. \nColor palette: {argument name=\"colors\" default=\"ivory, black, cobalt, saffron yellow, muted coral, slate grey\"}. \nColor psychology: creativity, intelligence, power, originality, energy, sophistication.\n\nScene: {argument name=\"scene\" default=\"red carpet gala atmosphere, photographers in the background, flash photography, modern luxury setting\"}, dramatic fashion realism, ultra-detailed textures, 8K.",
+    "title": "Met Gala Avant-Garde Couture Fashion",
+    "description": "An ultra-photorealistic prompt for a modern Met Gala scene featuring an avant-garde gown inspired by modern art and structural gallery installations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310301589_2w0vvs_HHyq4MwWAAIsATC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18978,
+    "content": "An avant-garde fashion portrait prompt with magazine-style UI overlays and technical details.",
+    "title": "Avant-Garde White Couture Portrait",
+    "description": "A high-fashion editorial portrait of a man in avant-garde white couture with technical UI overlays and magazine layout elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310292051_98ez2z_HHyTMHRaEAAWMwR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18984,
+    "content": "A high-end fashion advertisement for the {argument name=\"collection\" default=\"EMA Collection Autumn ‘24\"}, featuring a model in a sophisticated Parisian street setting. She wears a cream-colored textured blazer over a black silk top and dark trousers, carrying {argument name=\"bag\" default=\"The Aurelia Crossbody bag\"} in a warm tan Italian leather with gold hardware. The composition is elegant and airy, utilizing serif typography in gold and white to highlight product features like \"Exquisite Italian Leather\" and \"Effortless Elegance,\" creating a polished, luxury lifestyle aesthetic.",
+    "title": "Parisian Street Fashion Advertisement",
+    "description": "High-end fashion photography prompt set in a Parisian street, featuring luxury leather accessories and elegant serif typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310295468_q2vcut_HHyR7GlW4AkFWYz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18980,
+    "content": "A minimalist fashion editorial prompt featuring a suede jacket, jewelry, and modern typography layouts.",
+    "title": "Suede Jacket Fashion Editorial",
+    "description": "A high-end fashion editorial prompt for an East Asian woman in a suede jacket, featuring typography and minimalist aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310292969_ioy7wh_HHxPCLwagAA1jQs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18719,
     "content": "many colorful hands in a retro 1970s psychedelic illustration, intricately detailed, reaching in from all sides of the frame, each hand holding a {argument name=\"subject\" default=\"surreal eyeball\"}, bold swirling patterns and {argument name=\"background\" default=\"groovy shapes in the background\"}, vibrant saturated colors, flat {argument name=\"style\" default=\"vintage print style\"}, clean vector lines, high contrast, poster art composition",
     "title": "70s Psychedelic Hand Illustration",

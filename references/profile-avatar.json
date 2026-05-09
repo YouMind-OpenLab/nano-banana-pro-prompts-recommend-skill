@@ -10,6 +10,60 @@
     "needReferenceImages": false
   },
   {
+    "id": 18975,
+    "content": "{argument name=\"action\" default=\"Cute finger bite\"}, {argument name=\"celebrities\" default=\"Sabrina Carpenter, Madelaine Petsch, Olivia Rodrigo and Anne Hathaway\"}!!",
+    "title": "Celebrity Finger Bite Portrait",
+    "description": "A prompt generating portraits of famous celebrities like Sabrina Carpenter and Anne Hathaway performing a cute finger bite action.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310289154_e71ggg_HH0_sH8WIAItF6B.jpg",
+      "https://cms-assets.youmind.com/media/1778310289170_jisoyh_HH0_sLDWsAAh4qo.jpg",
+      "https://cms-assets.youmind.com/media/1778310289241_iok22u_HH0_sKTXEAASbGy.jpg",
+      "https://cms-assets.youmind.com/media/1778310290103_6iy6mh_HH0_sUeWgAcwNUw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19003,
+    "content": "An Arabic calligraphy piece spelling out \"{argument name=\"text\" default=\"Astaghfirullah\"}\" on a {argument name=\"background color\" default=\"black\"} background with {argument name=\"text style\" default=\"shimmering golden\"} lettering.",
+    "title": "Golden Arabic Calligraphy on Black",
+    "description": "A prompt for creating elegant Arabic calligraphy spelling 'Astaghfirullah' featuring shimmering gold textures against a minimalist dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310307223_4nx7t9_HHzzw1ZbkAAqL3b.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18982,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": [\n          \"Soft dreamy upward gaze with relaxed glossy lips\",\n          \"Playful expression with fingertip gently touching lower lip\",\n          \"Calm confident direct eye contact with subtle smile\",\n          \"Blowing a kiss toward camera with glossy puckered lips\"\n        ],\n        \"hair\": \"Use uploaded reference image, keep identity exact, hair softly spread around head with natural volume and smooth texture\",\n        \"accessories\": [\n          \"Black glossy manicure\",\n          \"Minimal makeup styling\"\n        ],\n        \"details\": [\n          \"Natural glowing skin texture\",\n          \"Soft glossy lips\",\n          \"Defined lashes and subtle eyeliner\",\n          \"No heavy retouching, realistic beauty editorial finish\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\",\n        \"features\": [\n          \"Soft facial structure\",\n          \"Elegant neck and shoulders\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"Minimal black spaghetti strap top\",\n        \"color\": \"black\",\n        \"design\": [\n          \"Thin straps\",\n          \"Simple clean beauty editorial styling\"\n        ],\n        \"fit\": \"Soft fitted silhouette\"\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Lying on soft white faux fur surface\",\n      \"body_position\": \"Head and shoulders reclined naturally while camera captures close-up beauty angles from above\",\n      \"hands\": [\n        \"One hand softly placed through hair\",\n        \"One fingertip touching lower lip\",\n        \"Relaxed natural hand placement near face\",\n        \"One hand extended forward blowing kiss toward camera\"\n      ],\n      \"head_direction\": [\n        \"Looking upward diagonally\",\n        \"Looking sideways thoughtfully\",\n        \"Facing directly toward camera\",\n        \"Facing camera while blowing kiss\"\n      ],\n      \"gaze\": [\n        \"Dreamy upward gaze\",\n        \"Soft side-eye glance\",\n        \"Direct confident eye contact\",\n        \"Playful flirty eye contact\"\n      ],\n      \"details\": [\n        \"Four separate beauty portrait frames arranged in clean collage layout\",\n        \"Soft editorial facial posing\",\n        \"Natural relaxed shoulders and neck\",\n        \"Luxury beauty campaign composition\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Minimal beauty editorial studio\",\n      \"background\": [\n        \"Soft white faux fur texture\",\n        \"Clean seamless beauty backdrop\",\n        \"Minimal luxury beauty aesthetic\"\n      ],\n      \"atmosphere\": \"Soft glamorous beauty editorial ambiance\"\n    },\n    \"lighting\": {\n      \"type\": \"Soft diffused beauty lighting\",\n      \"style\": \"High-end cosmetic campaign lighting\",\n      \"effect\": \"Smooth skin glow, glossy lip highlight\"\n    }\n  }\n}",
+    "title": "Four Moods Beauty Portrait Collage",
+    "description": "A multi-panel beauty editorial layout capturing four different emotional expressions for a consistent character based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310293460_j7q2ow_HHza06obIAArZtc.jpg",
+      "https://cms-assets.youmind.com/media/1778310293493_oncotn_HHza1jjakAAXrwj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18990,
+    "content": "A high-resolution, cinematic side-profile portrait of a {argument name=\"subject\" default=\"man\"} in the uploaded image with a rugged, sophisticated aesthetic. He has thick, voluminous, messy dark hair with visible texture. His beard is dense and well-groomed. He is wearing distinctive {argument name=\"eyewear\" default=\"vintage-inspired eyewear: translucent amber-colored acetate frames featuring a gold-metal flip-up mechanism with dark, circular sunglass lenses\"}. He is dressed in a {argument name=\"clothing\" default=\"heavy, navy blue ribbed-knit wool cardigan with a thick collar that frames his neck\"}.\nThe lighting is soft and directional, likely from a studio softbox, creating gentle highlights on the bridge of his nose, the curve of his ear, and the ridges of his hair, while casting soft shadows under his jawline. The background is a minimalist, out-of-focus muted grey wall with a subtle horizontal architectural line. The depth of field is shallow, keeping the profile and glasses in sharp focus while the foreground hand and background remain blurred. The overall mood is masculine, calm, and stylish.",
+    "title": "Rugged Side-Profile Portrait with Vintage Eyewear",
+    "description": "A cinematic prompt for a masculine portrait featuring messy hair, a well-groomed beard, and vintage flip-up sunglasses in a studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310300081_ei0hgu_HHw_g-7bEAAz6S4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18976,
+    "content": "A cinematic bridal portrait prompt set in a sunset garden, focusing on lace textures, elegant styling, and romantic atmosphere.",
+    "title": "Realistic Bridal Garden Portrait",
+    "description": "A highly detailed prompt for generating a cinematic bridal portrait in an outdoor garden at sunset, emphasizing lace textures and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310290920_zbceb3_HHwcaICbUAAdWCO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18736,
     "content": "{\n  \"prompt\": \"Photorealistic selfie portrait of an adult blonde woman sitting inside a luxury SUV during golden hour, wearing a woven straw cowboy hat and a red-and-white gingham summer dress, long platinum blonde braids over both shoulders, soft natural freckles, glossy lips, subtle glam makeup, layered gold necklaces with a bow pendant, warm sunlight illuminating her face and skin, relaxed confident expression, tan leather car interior, western-inspired summer aesthetic, ultra-detailed skin texture, realistic lighting, shallow depth of field, cinematic color grading, influencer-style photography, natural warm tones, high-resolution, 4k detail.\",\n  \"negative_prompt\": \"low quality, blurry, distorted anatomy, extra limbs, bad hands, unrealistic skin texture, overexposed lighting, duplicate features, watermark, text, logo, underage appearance, exaggerated proportions, cartoon, CGI, oversaturated colors\",\n  \"style\": \"photorealistic\",\n  \"aspect_ratio\": \"2:3\",\n  \"quality\": \"high\",\n  \"lighting\": \"golden hour natural sunlight\",\n  \"camera\": {\n    \"angle\": \"slightly elevated handheld selfie perspective\",\n    \"lens\": \"50mm portrait lens\",\n    \"depth_of_field\": \"shallow\"\n  }\n}",
     "title": "Golden Hour SUV Selfie",

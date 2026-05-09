@@ -21,6 +21,186 @@
     "needReferenceImages": true
   },
   {
+    "id": 18986,
+    "content": "A vibrant, celebratory photograph captures a young woman with a wide, joyful smile, holding a festive \"Happy Payout Day!\" card that contains paper currency. She is standing on a patterned tile pathway within a lush, outdoor cafe garden setting. Overarching the pathway are abundant pink and white flowering vines. The background is bustling with other patrons and warm, decorative string lights, giving the scene a lively, sun-drenched atmosphere. Bold, blue text at the top of the image prominently displays \"HAPPY PAYOUT\". The woman is wearing a colorful yellow, blue, and pink floral tunic.",
+    "title": "Celebratory Payout Day Photograph",
+    "description": "A vibrant and joyful celebration photograph prompt set in a lush outdoor cafe garden with festive details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310296857_qe9k4h_HH0pa5aW0AIHupj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18998,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"name\" default=\"Sydney Sweeney\"}\",\n      \"expression\": \"Highly intense and focused facial expression, looking firmly downward\",\n      \"hair\": \"Hair tied in a high ponytail\",\n      \"details\": \"Subtle natural-looking makeup, skin slightly glowing from sweat and sunlight\"\n    },\n    \"clothing\": {\n      \"top\": \"{argument name=\"outfit\" default=\"Sleeveless athletic tank top with a deep V-neck, bright white color\"}\",\n      \"bottom\": \"Short pink athletic shorts\",\n      \"footwear\": \"Barefoot, with fine sand sticking to the feet\"\n    },\n    \"pose\": {\n      \"action\": \"Dynamic beach soccer pose\",\n      \"legs\": \"Left leg extended forward, foot hovering a few centimeters above the ball, about to kick\",\n      \"body\": \"Body slightly leaning forward with strong athletic balance\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"setting\" default=\"Sandy beach during bright daytime\"}\",\n      \"background\": \"Strongly blurred soft horizon where the light blue ocean meets the bright slightly hazy sky\"\n    },\n    \"props\": [\n      \"Standard-size soccer ball on the sand, white with detailed light blue and black panels\"\n    ],\n    \"lighting\": {\n      \"type\": \"Soft diffused natural daylight\",\n      \"sun_position\": \"Sun positioned slightly behind and to the right of the camera\",\n      \"effect\": \"Subtle elegant rim light on the hair and right shoulder, no harsh shadows on the face\"\n    },\n    \"technical\": {\n      \"camera\": \"85mm full-frame lens, low angle\",\n      \"settings\": \"1/4000s, f/2.0-f/2.2, ISO 100\",\n      \"focus\": \"AF-C face and eye tracking (Eye AF + Subject Tracking)\",\n      \"composition\": \"Vertical framing, rule of thirds, medium full shot to include the extended leg without cutting the foot or the ball\",\n      \"rendering\": \"Creamy smooth background bokeh, high microcontrast, excellent subject separation\",\n      \"style\": \"High-end professional sports photography, photorealistic, National Geographic / Sports Illustrated style\",\n      \"quality\": \"Ultra-detailed, extreme sharpness, realistic skin and sand texture, natural HDR, 8K\"\n    },\n    \"aspect_ratio\": \"9:16\"\n  }\n}",
+    "title": "Dynamic Beach Soccer Sports Photography",
+    "description": "A high-end professional sports photography prompt for a subject playing beach soccer, focusing on intense expressions and sand textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310304209_tpqvwu_HH0cq4aWIAQs9EA.jpg",
+      "https://cms-assets.youmind.com/media/1778310304159_vxymlo_HH0cq8OWoAYTqHt.jpg",
+      "https://cms-assets.youmind.com/media/1778310304177_7iz81g_HH0cq_0XoAAP-z8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18989,
+    "content": "A close-up portrait of a gorgeous {argument name=\"subject\" default=\"young woman\"} with dewy, glowing skin and soft natural makeup, centered composition. She has dark, slightly messy hair styled in a loose, wet-look updo with strands falling across her face. Her eyes are striking, softly lit with warm tones. She wears {argument name=\"eyewear\" default=\"translucent red futuristic visor-style sunglasses\"} sitting low on her nose, revealing her eyes. Large glossy red {argument name=\"accessories\" default=\"heart-shaped earrings\"} hang from both ears. Her lips are slightly parted, glossy and full, holding a bright red, heart-shaped lollipop with a white stick. The candy has a shiny, wet texture with visible reflections. Lighting is strong, directional sunlight casting sharp shadows and highlights across her face and accessories, creating a high-fashion editorial look. Style is fashion photography, beauty editorial, hyper-detailed, shallow depth of field, 85mm lens, high resolution, cinematic lighting, sharp focus on face and candy.",
+    "title": "Heart Lollipop Editorial Portrait",
+    "description": "A high-fashion beauty editorial prompt featuring a model with heart-shaped accessories and a lollipop under sharp directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310298615_h99mqx_HHznx1OWAAQXKA_.jpg",
+      "https://cms-assets.youmind.com/media/1778310298688_u1co4n_HHznx1KWIAAtns_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18965,
+    "content": "A glamorous, high-fashion portrait of a woman with long, wavy brunette hair and bangs, smiling with her eyes closed and a finger playfully held to her lips. She is wearing a shimmering, long-sleeved {argument name=\"dress color\" default=\"lavender\"} mini dress covered in {argument name=\"dress texture\" default=\"sparkling sequins or rhinestones\"} that catch the light. The background is a {argument name=\"background\" default=\"solid, deep black\"}, creating a high-contrast look that emphasizes the texture of the dress and the warm, soft lighting on her face.",
+    "title": "Glamorous Shimmering Dress Portrait",
+    "description": "A high-fashion portrait of a brunette woman in a sparkling lavender mini dress against a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310285608_19bmh6_HHzkpvWXQAge_fX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18997,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"type\": \"{argument name=\"subject\" default=\"young woman\"}\",\n      \"ethnicity\": \"Latina or Caucasian\",\n      \"hair\": \"long, straight, dark brown\",\n      \"facial_features\": \"dark eyes, full lips, well-defined eyebrows, long eyelashes\",\n      \"expression\": \"confident, neutral gaze directed at the camera\",\n      \"makeup\": \"flawless, natural look with glossy lips\"\n    },\n    \"clothing\": {\n      \"hat\": \"charcoal gray distressed denim baseball cap, embroidered with the word 'NOAH' in clean white lettering, featuring two small silver metal rings attached to the left side of the brim\",\n      \"top\": \"{argument name=\"clothing\" default=\"oversized dark olive green short-sleeve crop top with the word 'NOAH' subtly embossed or printed across the center chest\"}\",\n      \"bottoms\": \"black high-waisted tight athletic shorts with the word 'NOAH' printed vertically in a stylized white font on the left thigh\",\n      \"footwear\": \"off-white chunky sneakers with cream laces\",\n      \"socks\": \"thick, dark gray slouchy leg warmers bunched around the ankles and calves\"\n    },\n    \"accessories\": {\n      \"jewelry\": \"thin silver bangle bracelet on the right wrist\",\n      \"watch\": \"black digital smartwatch with a black band on the left wrist\",\n      \"nails\": \"long, manicured with a pale polish or French tip\"\n    },\n    \"pose\": {\n      \"body_position\": \"standing, angled slightly to the left\",\n      \"right_arm\": \"bent upwards, hand resting gently across the chest near the collarbone\",\n      \"left_arm\": \"bent at the elbow, hand resting on the left hip\",\n      \"legs\": \"left leg standing straight, right leg bent with the knee and shin resting on a stool\"\n    },\n    \"environment\": {\n      \"background\": \"{argument name=\"background\" default=\"rustic interior wall made of reclaimed horizontal wooden planks in mixed shades of brown, gray, and reddish-brown\"}, completely sharp and in focus\",\n      \"props\": \"a black stool with a round padded leather seat and metal tubular legs\"\n    },\n    \"photography_style\": {\n      \"resolution\": \"8k resolution, ultra-HD\",\n      \"format_and_quality\": \"RAW photo, straight out of camera (SOOC), uncompressed, lossless quality, photorealistic, natural photographic grain, unprocessed aesthetic\",\n      \"lighting\": \"professional studio lighting, crisp and unedited exposure, soft box illumination with natural drop shadows on the wooden background\",\n      \"texture\": \"hyper-detailed fabric micro-textures, crystal clear wood grain visibility from foreground to the back wall, razor-sharp focus on facial features and distressed denim threads\",\n      \"camera_settings\": \"shot on full-frame DSLR, 35mm lens, f/11 aperture, infinite depth of field, hyperfocal distance, extremely sharp from foreground to background, absolutely no background blur, zero bokeh effect\"\n    }\n  }\n}",
+    "title": "Latina Model in Distressed Denim and Wood Background",
+    "description": "A high-resolution photography prompt for a young woman in branded athletic wear and slouchy leg warmers against a rustic wooden background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310303946_3101nn_HHzcfCxawAAu5QD.jpg",
+      "https://cms-assets.youmind.com/media/1778310303970_6acxwr_HHzcfd4b0AAy0-m.jpg",
+      "https://cms-assets.youmind.com/media/1778310303961_o5jf0l_HHzcf3makAA3wPk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18982,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": [\n          \"Soft dreamy upward gaze with relaxed glossy lips\",\n          \"Playful expression with fingertip gently touching lower lip\",\n          \"Calm confident direct eye contact with subtle smile\",\n          \"Blowing a kiss toward camera with glossy puckered lips\"\n        ],\n        \"hair\": \"Use uploaded reference image, keep identity exact, hair softly spread around head with natural volume and smooth texture\",\n        \"accessories\": [\n          \"Black glossy manicure\",\n          \"Minimal makeup styling\"\n        ],\n        \"details\": [\n          \"Natural glowing skin texture\",\n          \"Soft glossy lips\",\n          \"Defined lashes and subtle eyeliner\",\n          \"No heavy retouching, realistic beauty editorial finish\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\",\n        \"features\": [\n          \"Soft facial structure\",\n          \"Elegant neck and shoulders\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"Minimal black spaghetti strap top\",\n        \"color\": \"black\",\n        \"design\": [\n          \"Thin straps\",\n          \"Simple clean beauty editorial styling\"\n        ],\n        \"fit\": \"Soft fitted silhouette\"\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Lying on soft white faux fur surface\",\n      \"body_position\": \"Head and shoulders reclined naturally while camera captures close-up beauty angles from above\",\n      \"hands\": [\n        \"One hand softly placed through hair\",\n        \"One fingertip touching lower lip\",\n        \"Relaxed natural hand placement near face\",\n        \"One hand extended forward blowing kiss toward camera\"\n      ],\n      \"head_direction\": [\n        \"Looking upward diagonally\",\n        \"Looking sideways thoughtfully\",\n        \"Facing directly toward camera\",\n        \"Facing camera while blowing kiss\"\n      ],\n      \"gaze\": [\n        \"Dreamy upward gaze\",\n        \"Soft side-eye glance\",\n        \"Direct confident eye contact\",\n        \"Playful flirty eye contact\"\n      ],\n      \"details\": [\n        \"Four separate beauty portrait frames arranged in clean collage layout\",\n        \"Soft editorial facial posing\",\n        \"Natural relaxed shoulders and neck\",\n        \"Luxury beauty campaign composition\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Minimal beauty editorial studio\",\n      \"background\": [\n        \"Soft white faux fur texture\",\n        \"Clean seamless beauty backdrop\",\n        \"Minimal luxury beauty aesthetic\"\n      ],\n      \"atmosphere\": \"Soft glamorous beauty editorial ambiance\"\n    },\n    \"lighting\": {\n      \"type\": \"Soft diffused beauty lighting\",\n      \"style\": \"High-end cosmetic campaign lighting\",\n      \"effect\": \"Smooth skin glow, glossy lip highlight\"\n    }\n  }\n}",
+    "title": "Four Moods Beauty Portrait Collage",
+    "description": "A multi-panel beauty editorial layout capturing four different emotional expressions for a consistent character based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310293460_j7q2ow_HHza06obIAArZtc.jpg",
+      "https://cms-assets.youmind.com/media/1778310293493_oncotn_HHza1jjakAAXrwj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18996,
+    "content": "{\n  \"meta\": {\n    \"quality\": \"ultra-photorealistic, raw style, 8k, masterpiece, highly detailed textures\",\n    \"camera\": \"A vertical full-body photograph captured at eye level. High-resolution digital camera with a professional prime lens. Sharp focus on the subject with a softly blurred classic interior background. Natural film grain.\",\n    \"lighting\": \"Soft, diffused indoor ambient lighting that evenly illuminates the subject, creating gentle highlights on the skin and the subtle sheen of the fabrics.\",\n    \"style\": \"High-fashion editorial, modern glamour aesthetic, high-resolution digital photography.\",\n    \"aspect_ratio\": \"9:16\"\n  },\n  \"scene\": {\n    \"location\": \"{argument name=\"setting\" default=\"A sophisticated, classic European-style interior, specifically a Parisian-style room\"}.\",\n    \"details\": \"The background features ornate white boiserie (wood paneling) on the walls. To the left, a detailed white marble Haussmann-style fireplace mantel with intricate carvings and a mirror above it is visible. The floor is covered in polished hardwood parquet in a chevron pattern. Natural light enters from a large window.\",\n    \"background\": \"Clean, bright, and elegant architectural details in neutral white and light grey tones. The classic Parisian fireplace and paneling define the space.\",\n    \"atmosphere\": \"Bold, luxurious, and sophisticated, merging historical elegance with modern edge.\"\n  },\n  \"subject\": {\n    \"name\": \"{argument name=\"subject\" default=\"Anya Taylor-Joy\"}\",\n    \"gender\": \"female\",\n    \"age\": \"young adult\",\n    \"hair\": {\n      \"color\": \"dark espresso brown\",\n      \"style\": \"Long, voluminous, and naturally wavy hair with a textured, slightly tousled look, falling over her shoulders.\"\n    },\n    \"expression\": \"A calm, confident, and alluring gaze looking directly at the camera lens. Elegant makeup with defined eyes and natural, neutral lips.\",\n    \"pose\": \"Full-body crouching pose on the polished parquet floor. She is balanced on high heels with her legs bent and crossed. Her left hand is raised to her hair, touching her head. Her body is in profile to the right, but her face is turned to look directly at the camera.\",\n    \"outfit\": {\n      \"description\": \"{argument name=\"outfit\" default=\"A very short, form-fitting pink mini dress with a corset-style bodice and thin spaghetti straps\"}. 'Keor' elegantly embroidered on the hem border. Paired with ultra-sheer, highly transparent black pantyhose (5 denier look) that clearly shows the skin tone beneath. Black patent leather stiletto high heels.\",\n      \"fabric\": \"Highly detailed material textures: matte pink dress fabric, ultra-fine transparent mesh on the tights, and glossy patent leather on the heels.\"\n    },\n    \"accessories\": \"Elegant black opera-length gloves worn to the upper arms. On each wrist, over the gloves, she wears two chunky, polished gold cuff bracelets. A classic multi-strand pearl necklace is around her neck.\"\n  },\n  \"composition\": \"A centered, vertical full-body compositio",
+    "title": "Parisian Interior Fashion Editorial",
+    "description": "A comprehensive high-fashion editorial prompt set in a classic Parisian interior, featuring a mini dress and black opera gloves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310302746_3hlec7_HHy-3GyXsAEd2Iq.jpg",
+      "https://cms-assets.youmind.com/media/1778310302796_5pggxu_HHy-3RtWYAIYtGJ.jpg",
+      "https://cms-assets.youmind.com/media/1778310302841_8l05xh_HHy-3YLXQAU-EJV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18994,
+    "content": "Ultra-photorealistic Met Gala fashion image of an adult woman wearing an {argument name=\"outfit\" default=\"original avant-garde couture gown inspired by modern art paintings and sculptural gallery installations\"}.\n\nThe gown should combine abstract brushstrokes, color-blocked painted panels, and three-dimensional sculptural forms. Use layered satin, mesh, organza, liquid silk, and textured textile surfaces with bold abstract painted areas, raised paint-like ridges, and sculptural hip and shoulder structures. The dress should feel modern, artistic, architectural, and highly editorial.\n\nInclude striking accessories: oversized sculptural earrings, a geometric art-inspired clutch bag, statement rings, a structured bracelet, and sharp high-fashion heels with abstract painted surfaces. Add a chic mini handbag that looks like a gallery object. Shoes should be elegant but experimental.\n\nHair: sleek glass hair or ultra-clean low bun, very polished and modern. \nMakeup: modern editorial look with clean glowing skin, softly sculpted brows, subtle graphic liner, neutral lips, fresh but luxurious finish. \nColor palette: {argument name=\"colors\" default=\"ivory, black, cobalt, saffron yellow, muted coral, slate grey\"}. \nColor psychology: creativity, intelligence, power, originality, energy, sophistication.\n\nScene: {argument name=\"scene\" default=\"red carpet gala atmosphere, photographers in the background, flash photography, modern luxury setting\"}, dramatic fashion realism, ultra-detailed textures, 8K.",
+    "title": "Met Gala Avant-Garde Couture Fashion",
+    "description": "An ultra-photorealistic prompt for a modern Met Gala scene featuring an avant-garde gown inspired by modern art and structural gallery installations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310301589_2w0vvs_HHyq4MwWAAIsATC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18979,
+    "content": "A cinematic urban portrait of a woman in a wrap top and satin skirt, reclining in a sunlit room with 70mm film aesthetics.",
+    "title": "Cinematic Urban Sanctuary Portrait",
+    "description": "A serene portrait of a woman reclining in a sunlit urban room, featuring high-end cinematic aesthetics and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310292183_xc0nae_HHypbIoa8AAVMeg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18991,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"description\": \"Young woman, mid-20s\",\n      \"features\": \"{argument name=\"hair style\" default=\"Long, wavy vivid red hair\"}, fair skin with natural freckles, subtle natural makeup\",\n      \"expression\": \"Neutral, relaxed, confident, making direct eye contact with the camera\"\n    },\n    \"apparel_and_accessories\": {\n      \"clothing\": \"{argument name=\"outfit\" default=\"Form-fitting teal mini dress with structural neon yellow-green geometric piping across the bodice and skirt\"}\",\n      \"jewelry\": \"Delicate silver nameplate necklace, thin silver bracelets on both wrists, minimalist silver rings\"\n    },\n    \"pose\": {\n      \"action\": \"Lounging comfortably\",\n      \"details\": \"Reclining backward slightly on a sofa, right hand resting lightly on the chest near the collarbone, left arm draped casually along the back of the seat, legs extended forward towards the camera\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"location\" default=\"Aft deck of a luxury yacht\"}\",\n      \"foreground\": \"White quilted diamond-patterned leather boat seating, smooth white fiberglass hull, stainless steel railings\",\n      \"background\": \"Out of focus calm blue sea, rocky shoreline, white Mediterranean-style coastal buildings on a hillside\"\n    },\n    \"lighting\": {\n      \"type\": \"Natural outdoor sunlight, high-contrast, late afternoon golden hour\",\n      \"details\": \"Bright directional light casting distinct, crisp shadows on the white seating and the subject, highlighting the vibrant colors of the dress and hair\"\n    },\n    \"camera_settings\": {\n      \"style\": \"Photorealistic luxury lifestyle fashion editorial, candid realism\",\n      \"lens\": \"50mm portrait lens\",\n      \"aperture\": \"f/2.8 for shallow depth of field\",\n      \"resolution\": \"8k, hyper-detailed, sharp focus on the subject with smooth background bokeh\"\n    }\n  }\n}",
+    "title": "Luxury Yacht Lifestyle Fashion Editorial",
+    "description": "An structured fashion editorial prompt for a young woman on a luxury yacht, emphasizing teal apparel and natural golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310300281_bda407_HHyWKXDb0AAbRTc.jpg",
+      "https://cms-assets.youmind.com/media/1778310300305_34mllw_HHyWKY9aQAE4pxN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18978,
+    "content": "An avant-garde fashion portrait prompt with magazine-style UI overlays and technical details.",
+    "title": "Avant-Garde White Couture Portrait",
+    "description": "A high-fashion editorial portrait of a man in avant-garde white couture with technical UI overlays and magazine layout elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310292051_98ez2z_HHyTMHRaEAAWMwR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18984,
+    "content": "A high-end fashion advertisement for the {argument name=\"collection\" default=\"EMA Collection Autumn ‘24\"}, featuring a model in a sophisticated Parisian street setting. She wears a cream-colored textured blazer over a black silk top and dark trousers, carrying {argument name=\"bag\" default=\"The Aurelia Crossbody bag\"} in a warm tan Italian leather with gold hardware. The composition is elegant and airy, utilizing serif typography in gold and white to highlight product features like \"Exquisite Italian Leather\" and \"Effortless Elegance,\" creating a polished, luxury lifestyle aesthetic.",
+    "title": "Parisian Street Fashion Advertisement",
+    "description": "High-end fashion photography prompt set in a Parisian street, featuring luxury leather accessories and elegant serif typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310295468_q2vcut_HHyR7GlW4AkFWYz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19002,
+    "content": "An ultra-realistic cinematic fashion portrait of a beautiful young woman with {argument name=\"facial description\" default=\"[insert facial description or \"the woman from the attached photo\"]\"}, posing in a thoughtful, editorial stance with her hand near her chin. She is wearing a breathtaking fox-inspired couture gown in a palette of burnt orange, amber, copper, and cream, featuring intricate embroidery, layered chiffon, and delicate faux-fur textures. A small, majestic fox sits beside her, looking up at her affectionately. The scene is set in a sun-drenched autumnal forest during golden hour, with soft light rays (God rays) filtering through the trees. Luxury magazine aesthetic, 8k resolution, deep bokeh background, sharp winged eyeliner, glowy peach makeup, high-fashion photography style.",
+    "title": "Fox Inspired Couture Fashion Portrait",
+    "description": "An ultra-realistic cinematic portrait of a woman in fox-inspired couture, set in an autumnal forest with a real fox companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310305876_4w3qi9_HHyFSZbbIAA-H_Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18981,
+    "content": "A high-fashion portrait of a woman featuring striking {argument name=\"eyeshadow color\" default=\"deep blue\"} eyeshadow accented with delicate gold flakes and bold, matte burgundy lips. She wears a textured, metallic royal blue blazer that catches the light, contrasting against a dark, moody background. The composition is defined by dramatic chiaroscuro lighting, casting dappled, circular shadows across her face and neck to create a sophisticated and mysterious editorial aesthetic.",
+    "title": "Dramatic Chiaroscuro Fashion Portrait",
+    "description": "An editorial portrait prompt focusing on dramatic lighting, metallic textures, and bold makeup styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310294104_zih0qx_HHyENRsW4AAV58O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18980,
+    "content": "A minimalist fashion editorial prompt featuring a suede jacket, jewelry, and modern typography layouts.",
+    "title": "Suede Jacket Fashion Editorial",
+    "description": "A high-end fashion editorial prompt for an East Asian woman in a suede jacket, featuring typography and minimalist aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310292969_ioy7wh_HHxPCLwagAA1jQs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18968,
+    "content": "A structured prompt for a full-body studio portrait. The subject is a young woman with a red ponytail wearing a shiny black one-piece swimsuit. The background is solid white with high-key lighting and a soft floor shadow.",
+    "title": "Redhead Studio Swimsuit Portrait",
+    "description": "A studio portrait prompt for a redheaded woman in a black one-piece swimsuit with high-key lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310286960_v4mri8_HHw6v_OaUAAf7kw.jpg",
+      "https://cms-assets.youmind.com/media/1778310286946_jgaw5x_HHw6v_3bAAAH4EZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18976,
+    "content": "A cinematic bridal portrait prompt set in a sunset garden, focusing on lace textures, elegant styling, and romantic atmosphere.",
+    "title": "Realistic Bridal Garden Portrait",
+    "description": "A highly detailed prompt for generating a cinematic bridal portrait in an outdoor garden at sunset, emphasizing lace textures and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778310290920_zbceb3_HHwcaICbUAAdWCO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18759,
     "content": "A breathtaking museum-quality fashion editorial close-up portrait of a woman resembling {argument name=\"subject\" default=\"Sydney Sweeney\"}, defined by translucent cool-toned skin and silken blonde hair. She stands with confident poise against a weathered ancient European stone and brick {argument name=\"location\" default=\"Coliseum in Rome\"}, where the text '{argument name=\"engraved text\" default=\"Love\"}' is subtly engraved into the masonry, set along a sun-dappled cobblestone path. She wears a meticulously tailored black deep-V wool-blend blazer dress, cinched elegantly at the waist with dramatic draping, paired with sheer black lace-topped stockings and delicate black stiletto sandals. Her features are calm and compelling, with almond-shaped golden eyes and softly parted lips. Cinematic natural daylight from the upper left sculpts her silhouette against the historic backdrop. Powerful monochromatic minimalist composition with ample negative space. High-resolution raw fashion photography with impeccable focus, photorealistic, 8k.",
     "title": "Roman Coliseum Fashion Editorial Portrait",
