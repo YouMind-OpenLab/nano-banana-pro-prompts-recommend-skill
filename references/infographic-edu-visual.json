@@ -56,6 +56,60 @@
     "needReferenceImages": false
   },
   {
+    "id": 19182,
+    "content": "Side-by-side comparative AI-generated visual study showing two variations of the same {argument name=\"subject\" default=\"African woman\"} in {argument name=\"location\" default=\"Lagos café environment\"}. Both images simulate different generation styles: one highly polished commercial fashion realism, the other raw iPhone candid realism with imperfections. Subject wears {argument name=\"outfit\" default=\"elegant neutral dress\"}, gold jewelry, seated at outdoor restaurant table. Include iced drink, phone, sunglasses, and subtle background crowd blur. Lighting is bright afternoon sunlight with realistic exposure variation between both images. Skin detail must include pores, natural texture, slight blemishes, sweat shine. Composition intentionally tests realism perception for educational purposes in AI content creation. Designed to demonstrate prompt control differences, not character storytelling.",
+    "title": "Lagos Cafe Realism Study",
+    "description": "A comparative prompt designed to test realism between polished commercial aesthetics and raw candid iPhone photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397987735_jvebyx_HH4wKkeXoAcheZe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19168,
+    "content": "A comprehensive scientific educational infographic for {argument name=\"subject\" default=\"an Orchid Mantis\"}. The style is a vintage nature field guide with a cream-colored parchment background. The layout features a large, detailed central illustration of the creature with anatomical labels (e.g., 'Raptorial Legs', 'Petal-like Flanges'). Surrounding the center are various boxed sections including: a 'Quick Profile' with scientific name and habitat, a 'Classification' tree, a 'Knowledge Score' with star ratings, 'Life Cycle' diagrams showing egg to adult, and a 'Size Comparison' against a human hand. Include a 'Diet' section with small illustrations of prey, a 'Habitat' section with photos of rainforests, and a bottom 'Did You Know?' banner. The aesthetic is clean, professional, and highly detailed, resembling a high-end museum poster.",
+    "title": "Vintage Encyclopedia Infographic",
+    "description": "A comprehensive museum-style poster prompt for creating vintage educational infographics with anatomical labels and detailed illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397979412_1g6mrb_HH4O1OAaEAAp0IL.jpg",
+      "https://cms-assets.youmind.com/media/1778397978062_a2ileh_HH4O1MnaAAE25ZI.jpg",
+      "https://cms-assets.youmind.com/media/1778397979589_n5ctje_HH4O1SPaEAAhXsb.jpg",
+      "https://cms-assets.youmind.com/media/1778397980110_gzgixl_HH4O1XZbIAAY78W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19170,
+    "content": "An ultra-detailed, vertical infographic poster for a fictional {argument name=\"subject\" default=\"luxury cruise ship\"} named \"{argument name=\"ship name\" default=\"Titan of the Seas\"}.\" The central focus is a massive, multi-deck ship rendered in a sophisticated {argument name=\"color scheme\" default=\"deep red and gold\"} color scheme.",
+    "title": "Luxury Cruise Ship Infographic",
+    "description": "An ultra-detailed infographic poster prompt for a fictional luxury cruise ship, featuring a red and gold color scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397981045_iuvhy5_HH3XaaYXAAEL0Mf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19196,
+    "content": "These detailed {argument name=\"subject\" default=\"infographics\"} illustrate the complex sensory systems of the {argument name=\"target\" default=\"human eye and human ear\"}, highlighting their roles as the body's primary units for visual and auditory/vestibular processing. Both charts utilize a {argument name=\"layout\" default=\"structured, clinical layout\"} featuring anatomical diagrams, \"Quick Profiles,\" and \"Knowledge Scores\" to break down biological functions like photoreception and sound detection. By juxtaposing the eye's delicate internal structures, such as the retina and lens, with the ear's intricate ossicles and cochlea, the images emphasize the sophisticated mechanical and neural pathways required for humans to navigate and perceive their environment.",
+    "title": "Human Eye and Ear Sensory Infographic",
+    "description": "A structured clinical infographic prompt illustrating the complex biological structures and mechanical pathways of the human eye and ear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397994859_vkz6wn_HH2zOPuWQAAg5jW.jpg",
+      "https://cms-assets.youmind.com/media/1778397994901_t95ygv_HH2zOLsWcAInF-I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19197,
+    "content": "An ultra-detailed, {argument name=\"format\" default=\"vertical infographic poster\"} for a fictional luxury cruise ship named \"{argument name=\"ship name\" default=\"Titan of the Seas\"}.\" The central focus is a massive, multi-deck ship rendered in a sophisticated {argument name=\"color scheme\" default=\"deep red and gold\"} color scheme. The layout features various data visualization elements, including technical specification tables, deck plan cutaways, interior highlight photos, and performance gauges. The aesthetic is clean and editorial, utilizing a soft cream background with professional typography to create a high-luxury informational moodboard.",
+    "title": "Luxury Cruise Ship Editorial Infographic",
+    "description": "An editorial-style infographic poster for a fictional cruise ship, featuring technical specs and interior highlights in a deep red and gold scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397995841_ob166j_HH2fQ-KWIAMnfi9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18747,
     "content": "This combination infographic, based on images of the {argument name=\"subjects\" default=\"human heart and brain\"}, provides a comparative and complementary look at the body’s most vital organs. Following a consistent and clean illustrative style with detailed callouts and key summary cards, it presents a comprehensive \"Human Anatomy: Heart and Brain\" profile. The central section features a detailed internal cross-section of the heart on the left and a detailed, regionalized map of the brain (Frontal, Parietal, Temporal, and Occipital lobes) on the right. Below the heart, the \"Cardiac Cycle\" and \"Blood Flow Path\" diagrams are presented. To the left, a vertical sequence detailing the brain’s \"Frontal Lobe,\" \"Temporal Lobe,\" and \"Cerebellum\" (with descriptions of functions like memory, motor control, and reasoning) matches the structure of the cardiac information. Above the brain diagram, a revised \"Key Regions & Functions\" list replaces the chambers and valves, and below it, a revised \"Top 5 Brain Functions\" list includesCognition & Thinking, Sensory Processing, and Emotion Regulation. Both columns share common \"Optimization Tips,\" \"Risks & Warnings\" (tailored to each organ's respective risks, such as cardiovascular disease vs. neurodegenerative disease), and \"Quick Summary Cards,\" highlighting the heart as the body's pump and the brain as its control center, emphasizing their integrated nature and critical roles. The entire layout is structured to facilitate a direct side-by-side analysis, making it an exhaustive and cohesive educational tool.",
     "title": "Human Anatomy Educational Infographic",

@@ -20,6 +20,107 @@
     "needReferenceImages": false
   },
   {
+    "id": 19166,
+    "content": "A cinematic, double-exposure portrait of a {argument name=\"subject\" default=\"young woman in profile\"}, smoking a cigarette with a contemplative expression. Her silhouette serves as a frame for a {argument name=\"landscape\" default=\"lush, tropical landscape featuring cascading waterfalls, palm trees, and misty mountains\"} under a soft, golden sunset. The wisps of white smoke from her cigarette blend into the {argument name=\"sky background\" default=\"cloudy sky\"}, creating a seamless, surreal atmosphere that bridges urban melancholy with the serenity of nature.",
+    "title": "Double Exposure Tropical Landscape Portrait",
+    "description": "A creative double-exposure prompt blending a woman's silhouette with a lush tropical landscape at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397978937_kcomdz_HH5Ir0CXcAUiHa2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19192,
+    "content": "A hyperrealistic portrait of a dreamy young woman with {argument name=\"hair\" default=\"voluminous dark brunette hair\"} and {argument name=\"lips\" default=\"red lips\"}, wearing a floral sundress and oversized sunglasses pushed down her nose, looking wistfully to the side, set against a dusty rose vintage background. Surrounding her are {argument name=\"decoration\" default=\"white chalk doodles\"}: cherry blossoms, Cadillac cars, ocean waves, crescent moons, and film cameras. Elegant chalk script at top reads \"BORN TO DIE\". The OzairAI watermark subtly etched inside a doodle moon. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Vintage Born To Die Portrait with Chalk Doodles",
+    "description": "A dreamy portrait prompt featuring a brunette woman on a vintage background decorated with various chalk illustrations and script.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397992397_sidnlf_HH4uX5CaIAAA04q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19178,
+    "content": "Ultra-realistic 8K cinematic fashion poster of a stylish young woman, vertical composition, luxury editorial aesthetic. Face perfectly matching the reference image with 100% facial accuracy, no morphing or facial alteration. Dual-portrait composition with dramatic depth and premium fashion photography vibes. Background: a giant monochrome portrait of the same girl wearing elegant golden-tinted sunglasses, soft wavy hair flowing naturally, confident expression, oversized beige-gold open blazer layered over a black fitted top, looking slightly away from the camera. Warm {argument name=\"lighting tone\" default=\"golden sunset\"} lighting hitting one side of the face with cinematic highlights and shadows. Rich golden smoke and glowing particles in the background creating a luxury atmosphere. Foreground: full-body colorful version of the same girl walking confidently toward the viewer in the center frame, stylish fashion pose, wearing modern sunglasses, premium street-luxury outfit in black and gold tones, subtle jewelry, confident runway-style stride. Dramatic depth of field, ultra detailed skin texture, realistic fabric folds, glossy lighting reflections, cinematic contrast, fashion magazine cover style, sharp focus, volumetric lighting, orange-gold glow effects, premium Vogue-inspired composition, hyper-detailed, realistic shadows, 3:4 aspect ratio.",
+    "title": "Cinematic Fashion Poster Luxury Editorial",
+    "description": "A luxury fashion poster prompt with a dual-portrait composition and warm golden highlights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397985708_upm6lx_HH4j6LuasAAducf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19175,
+    "content": "highly detailed illustration of an {argument name=\"subject\" default=\"anthropomorphic frog playing pickleball\"} on an {argument name=\"setting\" default=\"outdoor court\"}, retro styled design with {argument name=\"style\" default=\"bold vintage color palette\"}, subtle halftone grain and distressed texture, dynamic action pose mid-swing, simplified graphic background, clean thick linework, screen-printed poster aesthetic",
+    "title": "Vintage Retro Pickleball Frog Illustration",
+    "description": "A retro-styled illustration of an anthropomorphic frog playing pickleball, featuring vintage colors and screen-printed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397983988_jfkqza_HH3oqgLWAAAK7Vy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19202,
+    "content": "Create a hyper-detailed black and white portrait artwork where the face is formed entirely from motivational and positive words in bold typography. The words should follow the contours, shadows, and highlights of the uploaded reference face, making the facial features 99.99% identical to the reference photo. Only show the face, clothing is not needed. Use a dark background so the face stands out, with words such as '{argument name=\"positive words\" default=\"GRATEFUL, STAY STRONG, THINK POSITIVE, HEALTHY, HARD WORK, RELAX\"}' and other positive English words clearly visible and integrated into the face structure. Artistic, powerful, inspirational, and realistic typographic portrait style.",
+    "title": "Motivational Word Portrait Art",
+    "description": "An artistic typography prompt that forms a human face using motivational and positive words based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397998842_po2w16_HH0h9_sW4AEKdDU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19181,
+    "content": "Create a premium 3:4 vertical cinematic AR poster of a stylish young man holding a smartphone. He looks modern, confident, and effortlessly cool, with sharp facial features, slightly messy hair, and a relaxed yet focused expression, as if curating his music vibe. His posture is natural - one hand holding the phone, the other slightly relaxed, conveying calm control and presence. Surround him with floating 3D music UI cards (inspired by Spotify / Apple Music), placed at different depths - some in the foreground partially blurred, some behind him, creating strong cinematic depth and motion. Each UI card must clearly display one track title (sharp, readable, correctly spelled): Midnight Riot, Electric Bones, Wild Echo, Neon Crash, Broken Anthem, Black Voltage, Storm Signal, Rebel Hearts. Design the UI in a glassmorphism style — translucent frosted glass panels with soft rounded corners, subtle reflections, glowing neon edges ({argument name=\"neon colors\" default=\"red, pink, electric blue tones\"}). Each card includes: Album artwork (dark, moody, cyberpunk aesthetic) Play/pause buttons Progress bars Animated equalizer bars Audio waveforms Lighting: studio-quality cinematic lighting with soft glow from the floating UI illuminating his face naturally. Add subtle rim light around his silhouette for depth. Maintain realistic skin tones with a premium editorial look. Background: {argument name=\"background\" default=\"dark, moody gradient\"} (charcoal, deep red, black tones) with soft haze and minimal noise, keeping it clean and high-end. Style & Quality: ultra-realistic, high-end fashion-tech aesthetic, cinematic composition, 8K resolution, sharp focus on the subject with depth-of-field blur on some UI elements. Slight motion blur on a few cards for realism. Overall vibe: futuristic, premium, music-driven identity - like a digital DJ or vibe curator controlling sound in a cinematic tech universe.",
+    "title": "Futuristic Music UI Poster",
+    "description": "A futuristic poster prompt featuring a young man surrounded by floating 3D music UI cards with glowing neon edges.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397987414_m7r3w2_HH0h2fJXYAYFK7-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19170,
+    "content": "An ultra-detailed, vertical infographic poster for a fictional {argument name=\"subject\" default=\"luxury cruise ship\"} named \"{argument name=\"ship name\" default=\"Titan of the Seas\"}.\" The central focus is a massive, multi-deck ship rendered in a sophisticated {argument name=\"color scheme\" default=\"deep red and gold\"} color scheme.",
+    "title": "Luxury Cruise Ship Infographic",
+    "description": "An ultra-detailed infographic poster prompt for a fictional luxury cruise ship, featuring a red and gold color scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397981045_iuvhy5_HH3XaaYXAAEL0Mf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19195,
+    "content": "Ultra-realistic cinematic coffee advertisement poster for {argument name=\"brand\" default=\"monster energy\"}, featuring a young man with messy curly hair in a dark red hoodie holding a monster energy drink paper cup toward the camera in forced perspective. Inside the coffee cup is a {argument name=\"inside cup\" default=\"miniature fantasy pubg battlefield ecosystem\"}. Coffee is overflowing naturally down the rim of the cup. Large bold cream typography in the background spelling “{argument name=\"text\" default=\"MONSTER\"}” with a deep Starbucks-green backdrop. Atmospheric fog, floating leaves, soft glow sparkles, moody forest ambiance, luxury branding aesthetic, hyper-detailed skin texture, realistic lighting, shallow depth of field, dramatic shadows, editorial magazine style, eco-friendly premium coffee campaign, photorealistic, high contrast, cinematic composition, 8k quality, volumetric lighting, modern commercial design, make 3:4 size image.",
+    "title": "Surreal Monster Energy Coffee Advertisement",
+    "description": "A creative commercial prompt for Monster Energy coffee, featuring a man holding a cup containing a miniature fantasy battlefield ecosystem.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397994111_2nqaqs_HH26ci6awAAS-RP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19197,
+    "content": "An ultra-detailed, {argument name=\"format\" default=\"vertical infographic poster\"} for a fictional luxury cruise ship named \"{argument name=\"ship name\" default=\"Titan of the Seas\"}.\" The central focus is a massive, multi-deck ship rendered in a sophisticated {argument name=\"color scheme\" default=\"deep red and gold\"} color scheme. The layout features various data visualization elements, including technical specification tables, deck plan cutaways, interior highlight photos, and performance gauges. The aesthetic is clean and editorial, utilizing a soft cream background with professional typography to create a high-luxury informational moodboard.",
+    "title": "Luxury Cruise Ship Editorial Infographic",
+    "description": "An editorial-style infographic poster for a fictional cruise ship, featuring technical specs and interior highlights in a deep red and gold scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397995841_ob166j_HH2fQ-KWIAMnfi9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19190,
+    "content": "A high-end, diptych-style promotional poster in a realistic, detailed anime style. The left panel, inspired by image_1.png, features {argument name=\"character 1\" default=\"Roronoa Zoro\"} in a three-quarter pose, looking direct. He wears a meticulously detailed {argument name=\"outfit\" default=\"deep green three-piece suit with intricate gold embroidery\"}. He holds a small cup and his three Katanas are in a traditional koshi-ate rig behind him. The left side has a cross-swords logo, text like 'THE PROMISE -OF THE GREEN DEMON-', his name in large font, and his full quote. The right panel, inspired by image_2.png, is a close-up profile of {argument name=\"character 2\" default=\"Vinsmoke Sanji\"}, with the same light, and his signature eyebrow swirl. He wears a black suit with similar gold embroidery and a '66' emblem tie tack. The right side has a fork-and-knife logo, text like 'THE VIGIL -OF THE IRON SOUL-', his name in large font, and his full quote. The panels have a clean, shared off-white background with a subtle marble texture and consistent footer text for 'Eiichiro Oda' and 'ONE PIECE EST. 1997'. The two panels are unified by a central, shared header over the two names: 'MATE & rival', rendered in a gold, calligraphy-style script.",
+    "title": "Anime Promotional Poster Diptych",
+    "description": "A detailed anime-style diptych prompt featuring characters in high-end suits with intricate embroidery, styled as a promotional poster with logo elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397991779_es1bvo_HH2POo-WoAAZgzM.jpg",
+      "https://cms-assets.youmind.com/media/1778397991808_t0nc0h_HH2PUM9XsAMstMC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19003,
     "content": "An Arabic calligraphy piece spelling out \"{argument name=\"text\" default=\"Astaghfirullah\"}\" on a {argument name=\"background color\" default=\"black\"} background with {argument name=\"text style\" default=\"shimmering golden\"} lettering.",
     "title": "Golden Arabic Calligraphy on Black",

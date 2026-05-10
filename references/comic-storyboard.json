@@ -1,5 +1,26 @@
 [
   {
+    "id": 19188,
+    "content": "Create a whimsical folk-art scene that combines the characters and settings of image into a unified, storybook-inspired illustration. The composition should feature both figures together in a {argument name=\"setting\" default=\"vibrant art studio filled with playful doodle aesthetics\"}, quirky {argument name=\"motifs\" default=\"cat and bird motifs\"}, and decorative floral patterns. Use a {argument name=\"palette\" default=\"bold, fresh palette of teal, magenta, and sunny yellow\"}, applying textured brush-like fills and soft, irregular outlines to give the piece an intentionally imperfect, handcrafted feel—as if sketched on white paper with paint pens and markers.",
+    "title": "Whimsical Folk-Art Illustration Scene",
+    "description": "A prompt for creating a handcrafted storybook illustration that combines characters into a vibrant studio filled with doodle aesthetics and floral patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397990471_hgtdfa_HH4ppvnXkAMQFQW.jpg",
+      "https://cms-assets.youmind.com/media/1778397990556_hxxasc_HH4pppHXAAAw1O9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19185,
+    "content": "Ultra-realistic cinematic village celebration scene of a beautiful young woman wearing a {argument name=\"attire\" default=\"vibrant orange Goku-inspired saree with blue and gold borders\"}, anime-inspired traditional Indian fashion, standing in the center of a {argument name=\"setting\" default=\"rural village\"} during “Goku Day” celebration, surrounded by smiling kids wearing matching orange Goku-themed outfits, festive atmosphere, {argument name=\"decor\" default=\"orange flags and banners\"}, “GOKU DAY” banner in background, rustic huts, dusty village road, warm golden sunlight, emotional and joyful expressions, highly detailed face, long wavy black hair, elegant pose, crowd celebration, Dragon Ball inspired artwork on saree, vibrant colors, cinematic depth of field, realistic skin texture, ultra HD, professional photography, dynamic composition, 8k resolution, masterpiece, sharp focus, volumetric lighting, high detail, photorealistic, DSLR quality",
+    "title": "Goku-Inspired Saree Village Celebration",
+    "description": "A detailed prompt for generating a cinematic scene of a woman in a Dragon Ball Z inspired traditional saree during a village festival.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397989272_6rxj68_HH4Kdlrb0AElMVz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18988,
     "content": "{\n  \"vibe_title_en\": \"The Silent Aquarium\",\n  \"master_prompt\": \"A hyper-realistic, surreal close-up portrait of The Protagonist submerged in a deep, viscous twilight-blue fluid. A massive, over-scaled Ryukin Goldfish with iridescent, metallic orange scales glides slowly past the subject's cheek, occupying the negative space. The subject maintains 'The Stoic Ghost' demeanor: a thousand-yard stare, absolutely emotionally detached, muscles relaxed, looking through the lens with haunting apathy. The hair is suspended in the water, creating a halo of floating strands. Lighting is cinematic and aquatic, with caustic light ripples projecting across the face. Shot on a Hasselblad H6D-100c with a 100mm Macro lens to capture the microscopic texture of wet skin pores and the slimy sheen of the fish scales. Color grading mimics Fujifilm Pro 400H—cool cyans, muted teals, and piercing orange highlights. High-budget practical effects style, no CGI gloss.\",\n  \"meta\": {\n    \"intent\": \"Editorial Surrealism\",\n    \"priorities\": \"Texture Fidelity, Emotional Detachment, Scale Contrast\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Aquatic Stoic\",\n    \"face\": \"Pale, wet skin texture, visible pores, water droplets\",\n    \"hair\": \"Floating, weightless, wet-look, suspended in fluid\",\n    \"expression\": \"The Stoic Ghost: Deadpan, detached, minimal muscle tension, hauntingly calm\",\n    \"pose\": \"Static, facing forward, slight head tilt away from the fish\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Victorian High-Collar Dress\",\n        \"material\": \"Sheer Lace and Silk\",\n        \"color\": \"Ghost White\",\n        \"fit\": \"Clinging (Wet)\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Submerged Botanical Tank\",\n    \"surfaces\": \"Water, Glass, Fish Scales\",\n    \"depth\": \"Shallow Depth of Field (f/2.8)\",\n    \"atmosphere\": \"Murky, Viscous, Particulate Matter (Marine Snow)\"\n  },\n  \"lighting\": {\n    \"key\": \"Caustic Projection (Water Ripples)\",\n    \"fill\": \"Soft Cool Cyan Bounce\",\n    \"rim\": \"Subtle Bioluminescent Glow\",\n    \"shadows\": \"Deep, Soft, Teal-Tinted\"\n  }\n}",
     "title": "The Silent Aquarium Surreal Portrait",

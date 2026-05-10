@@ -1,5 +1,15 @@
 [
   {
+    "id": 19181,
+    "content": "Create a premium 3:4 vertical cinematic AR poster of a stylish young man holding a smartphone. He looks modern, confident, and effortlessly cool, with sharp facial features, slightly messy hair, and a relaxed yet focused expression, as if curating his music vibe. His posture is natural - one hand holding the phone, the other slightly relaxed, conveying calm control and presence. Surround him with floating 3D music UI cards (inspired by Spotify / Apple Music), placed at different depths - some in the foreground partially blurred, some behind him, creating strong cinematic depth and motion. Each UI card must clearly display one track title (sharp, readable, correctly spelled): Midnight Riot, Electric Bones, Wild Echo, Neon Crash, Broken Anthem, Black Voltage, Storm Signal, Rebel Hearts. Design the UI in a glassmorphism style — translucent frosted glass panels with soft rounded corners, subtle reflections, glowing neon edges ({argument name=\"neon colors\" default=\"red, pink, electric blue tones\"}). Each card includes: Album artwork (dark, moody, cyberpunk aesthetic) Play/pause buttons Progress bars Animated equalizer bars Audio waveforms Lighting: studio-quality cinematic lighting with soft glow from the floating UI illuminating his face naturally. Add subtle rim light around his silhouette for depth. Maintain realistic skin tones with a premium editorial look. Background: {argument name=\"background\" default=\"dark, moody gradient\"} (charcoal, deep red, black tones) with soft haze and minimal noise, keeping it clean and high-end. Style & Quality: ultra-realistic, high-end fashion-tech aesthetic, cinematic composition, 8K resolution, sharp focus on the subject with depth-of-field blur on some UI elements. Slight motion blur on a few cards for realism. Overall vibe: futuristic, premium, music-driven identity - like a digital DJ or vibe curator controlling sound in a cinematic tech universe.",
+    "title": "Futuristic Music UI Poster",
+    "description": "A futuristic poster prompt featuring a young man surrounded by floating 3D music UI cards with glowing neon edges.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397987414_m7r3w2_HH0h2fJXYAYFK7-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18753,
     "content": "do this for {argument name=\"subject\" default=\"Mecca\"} : G = (V, E) where:\n\nV = {\n  v₁: Torus(radius=R, layers=8, material={argument name=\"material\" default=\"wood\"}),\n  v₂: City(landmarks={l₁...lₙ}, scale=1:100),\n  v₃: Workshop(tools, bench, lighting),\n  v₄: Camera(macro, f/2.8, 45°)\n}\n\nE = {\n  (v₁, v₂, \"surface_embedding\"),\n  (v₁, v₃, \"located_in\"),\n  (v₁, v₄, \"viewed_by\"),\n  (v₂.landmarks, v₁.layers, \"distributed_across\")\n}\n\nConstraints:\n  ∀l ∈ landmarks: position(l) ∈ torus_surface\n  ∀layer ∈ layers: wood_grain(layer) ≠ wood_grain(layer+1)\n  \nGenerate(G) → Image",
     "title": "Abstract Geometric City Visualization",

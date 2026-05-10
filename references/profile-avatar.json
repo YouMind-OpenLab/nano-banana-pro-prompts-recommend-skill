@@ -10,6 +10,79 @@
     "needReferenceImages": false
   },
   {
+    "id": 19186,
+    "content": "{\n  \"prompt_metadata\": {\n    \"version\": \"2026_aesthetic_v4\",\n    \"aspect_ratio\": \"9:16\",\n    \"style\": \"Hyper-realistic Social Media Photography\",\n    \"camera_settings\": \"Shot on iPhone 17 Pro, 24mm Wide Lens, vertical orientation, f/1.8\",\n    \"image_quality\": \"Raw photo, 8k resolution, authentic mobile sensor grain, professional color grading\"\n  },\n  \"composition_and_pose\": {\n    \"frame\": \"Vertical 9:16 full-height shot\",\n    \"scene_layout\": \"A single, clean reflection captured entirely within the cafe mirror\",\n    \"perspective\": \"The camera view is strictly the mirror reflection. No foreground elements (no hands or phone outside the mirror).\",\n    \"pose\": \"The subject is standing tall, centered, capturing the reflection. The Desert Titanium iPhone 17 Pro Max with its puffy biscuit case is held naturally within the reflection frame.\",\n    \"focal_point\": \"Sharp focus on the glass surface and the reflected details\"\n  },\n  \"subject_reflection\": {\n    \"ethnicity\": \"{argument name=\\\"subject\\\" default=\\\"Young, tall and skinny East Asian woman\\\"}\",\n    \"facial_features\": {\n      \"skin\": \"Dewy glass skin, hyper-detailed texture, visible pores\",\n      \"makeup\": \"High-end Douyin-style: shimmering inner corners, aegyo-sal, soft blurred gradient rosewood lips\",\n      \"expression\": \"Candid, dreamy soft gaze\"\n    },\n    \"hair\": {\n      \"style\": \"Extra-long voluminous loose waves, effortless flow\",\n      \"color\": \"Deep obsidian black with healthy silk-like sheen\",\n      \"accessory\": \"Statement 3D biscuit-shaped bear hair clip\"\n    },\n    \"outfit\": {\n      \"top\": \"{argument name=\\\"top\\\" default=\\\"Off-the-shoulder white crop top, ribbed organic cotton\\\"}\",\n      \"bottom\": \"Very low-waisted baggy vintage-wash denim jeans\",\n      \"details\": \"Visible silver navel piercing, minimalist silver rings, and long almond Douyin-art nails with 3D porcelain bows\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\\\"setting\\\" default=\\\"Upscale cute matcha cafe restroom\\\"}\",\n    \"interior\": \"Light beige walls, warm ambient cove lighting, soft diffused glow\",\n    \"texture\": \"Realistic micro-smudges on mirror surface, subtle lens flare from overhead lights\"\n  },\n  \"technical_realism\": {\n    \"vibe\": \"Authentic 'Life Lately' Instagram Story, 2026 quiet luxury, serene atmosphere\",\n    \"constraints\": \"Single photograph only. No split-screen. No duplication of the subject.\"\n  }\n}",
+    "title": "Aesthetic Cafe Mirror Selfie Portrait",
+    "description": "A specialized prompt for generating a vertical mirror selfie in a cafe, emphasizing Douyin-style makeup and high-end social media photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397989190_vzgs2e_HH6CX2WXIAMssA2.jpg",
+      "https://cms-assets.youmind.com/media/1778397989214_x7rvld_HH6CX2ZWsAk--Q6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19211,
+    "content": "{argument name=\"character name\" default=\"Yuka-tan\"} in the {argument name=\"location\" default=\"Yucatán\"} Yukata kimono",
+    "title": "Girl in Yucatan Yukata",
+    "description": "A creative image generation prompt depicting a character in a specialized cultural fusion outfit, combining Yucatán elements with a traditional Yukata.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778398005645_nbs891_HHTk1Bna4AAHNmk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19173,
+    "content": "Ultra-realistic 4K square portrait, 1:1 aspect ratio. A striking {argument name=\"subject\" default=\"young woman\"} standing naturally and looking directly into the camera, confident yet relaxed expression. Highly detailed realistic skin texture with visible pores, subtle natural imperfections, soft peach-fuzz, lifelike eyes with sharp reflections, defined eyelashes, naturally shaped brows, soft glossy lips. Elegant {argument name=\"hair color\" default=\"dark\"} flowing hair with individual strands visible, gently moving as if caught by a light breeze. Cinematic soft natural lighting with realistic shadows and depth, premium editorial fashion photography style. Shot with a high-end full-frame camera, {argument name=\"lens\" default=\"85mm\"} portrait lens, shallow depth of field, crisp focus on eyes, creamy realistic background bokeh. Neutral refined outfit with modern minimal styling. Photorealistic color grading, ultra-detailed facial anatomy, realistic proportions, luxury magazine quality, no plastic skin, no artificial CGI look, no distortion, no extra fingers, no exaggerated beauty filter.",
+    "title": "Ultra Realistic 4K Square Portrait",
+    "description": "A highly detailed prompt for generating a lifelike portrait with natural skin textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397983015_vu8pnr_HH3fqX0aEAA_vpm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19203,
+    "content": "A {argument name=\"subject\" default=\"young woman sitting outdoors on a misty mountain ridge\"}, portrait photography style, shot from a slight low angle. She has olive-toned skin, hazel-green eyes, natural makeup-free complexion with subtle freckles and soft lips. Her dark brown hair is loosely pulled up in a messy bun with windswept flyaway strands framing her face. She wears a {argument name=\"clothing\" default=\"black sherpa-lined hooded jacket over a dark zip-up hoodie\"}, small gold hoop earring visible on one ear. She gazes directly into the camera with a calm, confident, and slightly introspective expression — a gentle closed-mouth smile.\n\nBackground features {argument name=\"environment\" default=\"golden dry grass meadows, rolling misty mountain hills, and a soft blue sky with low-hanging clouds and atmospheric fog\"}. Natural golden hour side lighting illuminates her face from the left, creating warm skin tones against the cool misty backdrop. Shallow depth of field with a softly blurred bokeh background.\n\nPhotography style: candid outdoor portrait, editorial travel photography, natural light, golden hour, 85mm lens, f/1.8 aperture, high resolution DSLR.",
+    "title": "Misty Mountain Ridge Portrait",
+    "description": "A candid outdoor portrait prompt of a woman on a misty mountain ridge, featuring natural light and travel editorial vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397998788_gj8e20_HH26IOvacAALJ20.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19199,
+    "content": "A hyper-realistic close-up portrait of a young woman (use my face) with warm, soft indoor lighting. The composition is a half-body shot (chest to head), with a slightly low and tilted camera angle, creating a casual, selfie-like feel.\nThe main focus is on the face and hair.\nThe face features bright, glass-like skin with realistic texture (no over-smoothing). Brown eyes with a calm, slightly melancholic expression, looking directly at the camera. Lips are natural pink with a berry tint in the inner area, slightly parted with a soft, moist finish. Makeup is a natural “no-makeup” look.\nHair MUST be highly accurate: {argument name=\"hair style\" default=\"Short hair above the shoulders (short bob)\"}, with an uneven, choppy cut and soft layers. Natural dark brown color with subtle warm undertones. The texture looks soft and slightly messy, not overly neat.\nThe front has long bangs, parted asymmetrically, with some strands falling over parts of the eyes and cheeks. Fine strands are scattered around the face, creating an effortless and natural effect. The ends of the hair curve slightly inward and outward irregularly, giving light volume and an airy feel. The hair is not too voluminous but has natural movement, as if gently blown by a breeze.\nPose: head slightly tilted to the left, cheek resting on the left hand. The hand partially covers the cheek in a relaxed manner.\nOutfit: {argument name=\"outfit\" default=\"oversized long-sleeve t-shirt in dark gray\"} with a subtle washed/tie-dye texture.\nBackground: a {argument name=\"background\" default=\"minimal indoor setting\"} with open shelves containing a few bottles and small objects, in warm beige tones. Shallow depth of field (soft background blur/bokeh).\nLighting: soft ambient indoor light, no harsh shadows, natural warm tones.\nStyle: ultra-realistic, high detail, natural skin texture, candid aesthetic, lifestyle photography, 8K resolution, 9:16.",
+    "title": "Candid Bob Haircut Lifestyle Portrait",
+    "description": "A realistic lifestyle photography prompt for a close-up portrait of a woman with a choppy bob haircut, featuring soft indoor lighting and a casual selfie feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397996328_z54itp_HH20mqqX0AITgWN.jpg",
+      "https://cms-assets.youmind.com/media/1778397996243_umohqx_HH20mqgWgAUTn3U.jpg",
+      "https://cms-assets.youmind.com/media/1778397996264_sb569a_HH20mooWgAAW5PK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19193,
+    "content": "{\n  \"scene\": {\n    \"setting\": \"indoor bedroom\",\n    \"background\": \"{argument name=\"background\" default=\"minimal modern bedroom with soft neutral walls, white bedding and pillows, subtle decorative wall mirror with abstract shape, clean and cozy aesthetic\"}\",\n    \"lighting\": \"soft warm indoor lighting with gentle highlights on skin, slightly diffused light creating a cozy and intimate atmosphere, balanced exposure with soft shadows\"\n  },\n  \"subject\": {\n    \"type\": \"female\",\n    \"pose\": \"kneeling on a bed with legs folded under, torso slightly twisted to the side, one hand resting on hip and the other relaxed, leaning slightly forward\",\n    \"expression\": \"confident and slightly playful expression with parted lips, relaxed facial muscles and direct engaging gaze\",\n    \"face\": \"Use uploaded reference image, keep identity exact, natural facial proportions, realistic skin texture with visible pores and subtle imperfections, soft warm highlights\",\n    \"hair\": \"Use uploaded reference image, keep identity exact, long with natural shine, slightly tousled with strands falling across face\",\n    \"eyes\": \"Use uploaded reference image, keep identity exact, natural eye color with soft reflections\",\n    \"skin\": \"natural warm skin tone with realistic texture, subtle variations and soft glow from lighting\"\n  },\n  \"clothing\": {\n    \"outfit\": \"{argument name=\"outfit\" default=\"oversized white graphic t-shirt with black printed design\"}, paired with {argument name=\"bottoms\" default=\"thin semi-sheer black leggings\"} that fit closely to the legs with slight transparency and soft fabric stretch, natural folds and tension\",\n    \"accessories\": \"minimal jewelry including rings and bracelet\"\n  },\n  \"environment_details\": {\n    \"props\": \"bed with soft white sheets and pillows, decorative wall mirror\",\n    \"textures\": \"soft fabric bedding, cotton t-shirt texture, lightweight leggings material, realistic skin and hair detail\"\n  },\n  \"camera\": {\n    \"angle\": \"slightly low angled perspective\",\n    \"framing\": \"mid-body framing focusing on torso and upper legs\",\n    \"focus\": \"sharp focus on subject with softly blurred background\",\n    \"lens\": \"portrait lens with natural depth of field\"\n  },\n  \"style\": {\n    \"realism\": \"ultra realistic lifestyle photography\",\n    \"color_tone\": \"warm neutral tones with soft contrast\",\n    \"effects\": \"subtle diffusion, realistic lighting falloff, natural shadows\",\n    \"details\": \"high detail skin texture, natural imperfections preserved, no beautification\"\n  }\n}",
+    "title": "Cozy Indoor Bedroom Lifestyle Portrait",
+    "description": "A detailed scene description for an intimate, cozy indoor bedroom photo featuring a woman kneeling on a bed with soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397993219_5v8yjn_HH2yNFlaYAAo2lP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19201,
+    "content": "Use my reference image as the primary identity lock and preserve my real facial identity, face shape, skin tone, hairstyle direction, and overall masculine appearance. Do not reinterpret the identity into an East Asian look or any other unintended ethnicity. Keep the character natural, realistic, and faithful to the reference. Create a cinematic ultra-realistic portrait of a young man shown in side profile, looking slightly upward, gently exhaling smoke from his lips. His appearance should feel natural, masculine, stylish, and realistic, with expressive brown eyes, subtle skin texture, and refined facial details. Keep the hairstyle short, slightly wavy, and naturally styled, with soft movement but without exaggerated fashion-editorial styling. The smoke should artistically form the words \"{argument name=\"text\" default=\"ErtanLabs ❤️\"}\" in elegant flowing calligraphy, with soft glowing edges and subtle delicate ornamental details blended into the smoke. The smoke text must be clearly readable, graceful, and visually integrated into the scene. Outfit: {argument name=\"clothing\" default=\"a stylish modern satin shirt\"} with elegant premium texture, layered in a subtle and masculine way. The clothing should feel fashionable, luxurious, and refined, without looking feminine or overly stylized. Lighting: {argument name=\"lighting style\" default=\"warm cinematic lighting with reddish-pink tones\"}, soft highlights on the face, gentle moody shadows, and a dreamy but realistic atmosphere. Background: a smooth minimal gradient in warm peach, rose, and deep red tones, clean and aesthetic, with no distracting elements. Add small glowing particles and a few softly floating petals around the subject for a magical and artistic effect, while keeping the overall composition tasteful and premium. Style: ultra-realistic, highly detailed, 4K, aesthetic Instagram vibe, soft glow, shallow depth of field, professional photography look, cinematic portrait, visually stunning, clean composition.",
+    "title": "Cinematic Smoke Calligraphy Portrait",
+    "description": "A stylish masculine portrait prompt where exhale smoke forms custom calligraphy text, featuring warm reddish-pink cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778397998464_niwcj5_HH0hq5bWQAQYaCE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18975,
     "content": "{argument name=\"action\" default=\"Cute finger bite\"}, {argument name=\"celebrities\" default=\"Sabrina Carpenter, Madelaine Petsch, Olivia Rodrigo and Anne Hathaway\"}!!",
     "title": "Celebrity Finger Bite Portrait",

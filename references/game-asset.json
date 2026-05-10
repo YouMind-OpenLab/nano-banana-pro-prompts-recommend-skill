@@ -1,5 +1,25 @@
 [
   {
+    "id": 19208,
+    "content": "a {argument name=\"vehicle\" default=\"technical\"} with an {argument name=\"weapon\" default=\"MG\"}",
+    "title": "Technical Vehicle with Machine Gun",
+    "description": "A military-themed prompt generating a technical (improvised fighting vehicle) equipped with a mounted machine gun.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778398001804_4dnbeo_HHTnrlqbYAA41AK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19207,
+    "content": "the {argument name=\"setting\" default=\"inside of a mansion\"} that graphic looks like a {argument name=\"style\" default=\"PlayStation1's low-poly video game\"}",
+    "title": "PS1 Style Low-Poly Mansion Interior",
+    "description": "A retro-gaming prompt designed to create an environment that looks like a low-poly interior from a PlayStation 1 era video game.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778398001870_fta79t_HHTjLMWbMAAXbCE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18988,
     "content": "{\n  \"vibe_title_en\": \"The Silent Aquarium\",\n  \"master_prompt\": \"A hyper-realistic, surreal close-up portrait of The Protagonist submerged in a deep, viscous twilight-blue fluid. A massive, over-scaled Ryukin Goldfish with iridescent, metallic orange scales glides slowly past the subject's cheek, occupying the negative space. The subject maintains 'The Stoic Ghost' demeanor: a thousand-yard stare, absolutely emotionally detached, muscles relaxed, looking through the lens with haunting apathy. The hair is suspended in the water, creating a halo of floating strands. Lighting is cinematic and aquatic, with caustic light ripples projecting across the face. Shot on a Hasselblad H6D-100c with a 100mm Macro lens to capture the microscopic texture of wet skin pores and the slimy sheen of the fish scales. Color grading mimics Fujifilm Pro 400H—cool cyans, muted teals, and piercing orange highlights. High-budget practical effects style, no CGI gloss.\",\n  \"meta\": {\n    \"intent\": \"Editorial Surrealism\",\n    \"priorities\": \"Texture Fidelity, Emotional Detachment, Scale Contrast\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Aquatic Stoic\",\n    \"face\": \"Pale, wet skin texture, visible pores, water droplets\",\n    \"hair\": \"Floating, weightless, wet-look, suspended in fluid\",\n    \"expression\": \"The Stoic Ghost: Deadpan, detached, minimal muscle tension, hauntingly calm\",\n    \"pose\": \"Static, facing forward, slight head tilt away from the fish\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Victorian High-Collar Dress\",\n        \"material\": \"Sheer Lace and Silk\",\n        \"color\": \"Ghost White\",\n        \"fit\": \"Clinging (Wet)\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Submerged Botanical Tank\",\n    \"surfaces\": \"Water, Glass, Fish Scales\",\n    \"depth\": \"Shallow Depth of Field (f/2.8)\",\n    \"atmosphere\": \"Murky, Viscous, Particulate Matter (Marine Snow)\"\n  },\n  \"lighting\": {\n    \"key\": \"Caustic Projection (Water Ripples)\",\n    \"fill\": \"Soft Cool Cyan Bounce\",\n    \"rim\": \"Subtle Bioluminescent Glow\",\n    \"shadows\": \"Deep, Soft, Teal-Tinted\"\n  }\n}",
     "title": "The Silent Aquarium Surreal Portrait",
