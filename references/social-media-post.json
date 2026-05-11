@@ -41,6 +41,228 @@
     "needReferenceImages": false
   },
   {
+    "id": 19406,
+    "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"identity\": \"female\",\n      \"features\": [\"creamy face\", \"glowing skin\", \"long dark wavy hair\"],\n      \"expression\": \"serene\",\n      \"pose\": \"walking forward\",\n      \"attire\": {\n        \"style\": \"Traditional Desi / South Asian\",\n        \"piece\": \"{argument name=\"attire piece\" default=\"Anarkali suit with dupatta and churidar\"}\",\n        \"color_palette\": [\"{argument name=\"color 1\" default=\"olive green\"}\", \"{argument name=\"color 2\" default=\"deep maroon\"}\", \"gold embroidery\"],\n        \"footwear\": \"matching jutti/khussa\"\n      }\n    },\n    \"environment\": {\n      \"setting\": \"lush fruit garden\",\n      \"elements\": [\"fig trees\", \"pomegranate trees\", \"stone path\"],\n      \"fauna\": [\"small morning birds on branches\"],\n      \"lighting\": \"soft morning light\",\n      \"atmosphere\": \"misty\",\n      \"exclusions\": [\"direct sunlight\", \"urban background\", \"modern buildings\"]\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k\",\n      \"quality\": \"high-definition (HD)\",\n      \"style\": \"photorealistic\",\n      \"lens_effect\": \"soft bokeh background\",\n      \"aspect_ratio\": \"4:5\"\n    }\n  }\n}",
+    "title": "Traditional South Asian Anarkali suit portrait",
+    "description": "A photorealistic prompt for a serene female subject walking in a lush fruit garden wearing a traditional olive green and deep maroon Anarkali suit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486147352_8d1tk5_HH_2Z9sbgAAKx1Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19391,
+    "content": "A cinematic night portrait of a {argument name=\"subject\" default=\"stylish young man\"} holding a large printed social media profile page that is partially burning with intense flames, fire forming a glowing V-shape across the paper, realistic fire and smoke, warm orange flames lighting his face, soft shadows, dark background with subtle bokeh lights, the paper clearly showing a modern social media profile layout with username “{argument name=\"username\" default=\"ErtanLabs\"}” and bio text, handsome young man with messy textured hair, sharp jawline, confident calm expression, wearing a {argument name=\"outfit\" default=\"black turtleneck and beige overcoat\"}, ultra-realistic, high detail, dramatic lighting, shallow depth of field, editorial fashion photography, 4K, moody cinematic atmosphere, realistic skin texture, premium aesthetic.",
+    "title": "Cinematic Night Portrait with Burning Social Page",
+    "description": "A dramatic portrait of a man holding a burning social media profile page, featuring intense flames and editorial lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138973_28jik9_HH-HLSQWoAU7ZVQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19408,
+    "content": "Create a low-resolution vertical webcam photo in a 3x1 grid with a 3:4 aspect ratio using the character in the picture. The photo should fill the canvas without borders with photobooth vibe. The screen light is warm and dim, with a grainy/noisy style and a simple, cozy bedroom background. \nFirst grid: Exaggerated pout, finger near the lips, black off-shoulder top",
+    "title": "Webcam photobooth grid portrait",
+    "description": "A prompt for creating a low-resolution grainy vertical webcam photo grid with a cozy photobooth vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486147823_4jrhfw_HH-XdFKaUAANaMU.jpg",
+      "https://cms-assets.youmind.com/media/1778486147794_gn62rj_HH-XdFJbMAEBB4P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19386,
+    "content": "Ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"strong man\"} standing under a {argument name=\"effect\" default=\"stream of water pouring directly onto his head\"}, droplets splashing dramatically around him. His skin glistens with moisture, muscles defined and illuminated by {argument name=\"lighting\" default=\"powerful dual lighting — deep blue on the left and fiery red on the right\"}, creating a bold contrast. He wears a sleeveless black hoodie, a heavy silver chain with a large pendant, and a crossbody strap. His expression is intense and stoic, dreadlocks hanging wet across his face. Subtle mist and water droplets enhance the atmosphere, with sharp details and high contrast.",
+    "title": "Dramatic Dual-Light Splash Portrait",
+    "description": "An ultra-realistic cinematic portrait of a man under falling water, using strong blue and red lighting for high contrast and drama.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137494_q3fd5z_HH-HGV7XkAIvVwD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19394,
+    "content": "A cinematic, high-end portrait of a beautiful {argument name=\"subject\" default=\"22-year-old girl\"} with a slim, elegant build, wearing a {argument name=\"outfit top\" default=\"luxurious matte black oversized blazer\"} over a {argument name=\"inner top\" default=\"soft white top\"}. The subject is standing confidently facing the camera with a calm, dreamy expression. Her long silky hair is slightly windswept and illuminated by intense golden hour sunlight from behind, creating a glowing rim light effect. The background is a softly blurred urban street with warm golden bokeh circles. Shot on a Sony A7R V with an 85mm f/1.8 lens for shallow depth of field, hyper-realistic skin textures, soft natural makeup, and professional cinematic color grading. No hand visible in the frame, no sunglasses or eyewear.",
+    "title": "Golden Hour Urban Fashion Portrait",
+    "description": "A high-end cinematic portrait prompt featuring a windswept hairstyle and intense golden hour rim lighting in an urban setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486140329_da34br_HH91BEYXUAEeIls.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19417,
+    "content": "{argument name=\"location\" default=\"a Japanese suburb\"} in the the {argument name=\"year\" default=\"2000s\"} atmosphere that like an {argument name=\"style\" default=\"old footage\"}",
+    "title": "Retro 2000s Japanese Suburb",
+    "description": "A prompt for generating nostalgic scenery of a Japanese suburb from the early 2000s, designed to look like old video footage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486151866_x4kcyd_HHT8q3ea8AA4jLZ.jpg",
+      "https://cms-assets.youmind.com/media/1778486151861_c80c3p_HHT8q7JbQAABe83.jpg",
+      "https://cms-assets.youmind.com/media/1778486151887_19yvtt_HHT8q5hbQAA7UL7.jpg",
+      "https://cms-assets.youmind.com/media/1778486153077_eobw72_HHT8q7LakAA9WTI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19412,
+    "content": "a {argument name=\"location\" default=\"Japanese suburb\"} in the {argument name=\"era\" default=\"the 2000s\"} atmosphere that like an {argument name=\"style\" default=\"old footage\"}",
+    "title": "2000s Japanese Suburb Nostalgia",
+    "description": "A prompt designed to evoke the nostalgic atmosphere of early 2000s Japan, styled like vintage video footage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486149068_h5a2ci_HHT8dahawAAHKOu.jpg",
+      "https://cms-assets.youmind.com/media/1778486148908_ev3pcr_HHT8dalbMAAGmOq.jpg",
+      "https://cms-assets.youmind.com/media/1778486148943_llblxt_HHT8daiboAASgGw.jpg",
+      "https://cms-assets.youmind.com/media/1778486150077_r4abte_HHT8daiagAAhA-3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19395,
+    "content": "Creative a CD cover art that is printed on a CD. with {argument name=\"style\" default=\"striking, avant-garde editorial collage style\"} with creative colour theme. The diameter CD must be the same as the width and height of the image. It must have the \"compact disc\" logo included. The cover art should be featuring the {argument name=\"subject\" default=\"girl\"} as in <User Portrait>. Any part of the girl must not be appear at the centre of the CD. You can get creative on her outfit, mood, facial expression and pose, but her face and features should not be changed. 1:1 aspect ratio",
+    "title": "Avant-Garde Collage CD Cover",
+    "description": "A prompt for generating artistic CD cover art in a collage style, incorporating specific branding elements like the Compact Disc logo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486141302_b9qy4x_HH9DXEuacAAZQr-.jpg",
+      "https://cms-assets.youmind.com/media/1778486141315_xhry2d_HH9Db05akAA5LGd.jpg",
+      "https://cms-assets.youmind.com/media/1778486141313_1zed2i_HH9DbzYaoAACRNV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19413,
+    "content": "{argument name=\"subject\" default=\"donkeys\"} in the style of a {argument name=\"camera type\" default=\"surveillance cam\"} while a {argument name=\"time\" default=\"night time\"}",
+    "title": "Nighttime CCTV Donkey Footage",
+    "description": "A prompt that generates imagery of donkeys as seen through a nighttime surveillance camera.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486150673_y9wnhu_HHTwNjQbQAARnPK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19416,
+    "content": "the {argument name=\"food\" default=\"waffle ramen\"} in the {argument name=\"location\" default=\"sky\"}",
+    "title": "Waffle Ramen in the Sky",
+    "description": "A surreal and quirky prompt that generates an image of ramen served inside a waffle floating in the sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486152728_rtsqkr_HHTvpuYaMAA-3rB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19411,
+    "content": "{argument name=\"group one\" default=\"rappers\"} VS. {argument name=\"group two\" default=\"manatees\"}",
+    "title": "Rappers versus Manatees Prompt",
+    "description": "A humorous and unexpected prompt depicting a face-off between rappers and manatees.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486149833_h48a6j_HHTuy09bUAAGWh9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19410,
+    "content": "{argument name=\"first subject\" default=\"a sub base\"} VS. {argument name=\"second subject\" default=\"Jirai-kei fashion girl\"}",
+    "title": "Submarine Base and Jirai-kei Girl",
+    "description": "A surreal contrast prompt featuring a submarine base and a girl in Jirai-kei fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486149123_qispwx_HHTs6AlbcAAlxg_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19409,
+    "content": "the ultimate {argument name=\"location\" default=\"southern beach\"}",
+    "title": "Ultimate Southern Beach Scene",
+    "description": "A prompt for generating an idyllic and vibrant southern beach landscape using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486148758_3r2z32_HHTrBSJaMAA1EtS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19405,
+    "content": "Create an ultra realistic high resolution dual-frame fashion editorial image featuring the same woman presented in two complementary angles within a single composition, emphasizing pose variation, garment tension, and fabric behavior. The subject’s face, facial structure, skin tone, and body proportions must be strictly taken from the FIRST REFERENCE IMAGE with complete identity consistency and zero drift. COMPOSITION: The image is divided into two vertical sections:LEFT FRAME (Primary Full Body Shot): - full body view from head to knees - camera positioned at mid-torso height - slight three-quarter front angle - subject standing with weight shifted to one leg, creating a natural hip pop - legs close together with a subtle bend in one knee - torso upright but relaxed - one hand holding a phone in a mirror-style pose - other hand holding a small handbag RIGHT FRAME (Secondary Close-Up): - waist-up crop - side-back angle (approximately 60–75 degrees) shoulder rotated away from camera - back exposed - head turned back toward camera with direct eye contact OUTFIT DETAILS: The subject is wearing a {argument name=\"dress color\" default=\"red\"} {argument name=\"fabric\" default=\"velvet\"} halter mini dress. Top section: - deep plunging neckline - halter straps pulling upward creating visible vertical tension - bust area slightly compressed and lifted - subtle stretch lines radiating from neckline Waist: - tightly cinched - strong inward compression - slight fabric gathering along side seams Skirt: - short flared mini skirt- lightweight structured fabric - natural outward flare from waistline - radial folds forming from waistband - hemline slightly lifted due to posture - soft movement, not stiff Back (visible in right frame): - fully backless design - fabric pulled taut across lower back - subtle horizontal tension lines FOOTWEAR: - knee-high boots - matte finish - snug fit around calves - slight creasing at ankle due to stance HAIR: - long sleek high ponytail - falling straight down the back- smooth texture with clean edges LIGHTING: - soft indoor lighting - evenly distributed illumination - minimal harsh shadows - natural skin tone rendering CAMERA SETTINGS: - 50mm lens look - sharp focus on subject - clean neutral background The final image must feel like a polished fashion lookbook layout, with strong emphasis on dual-angle presentation, realistic fabric tension, and accurate garment structure.",
+    "title": "Dual-frame fashion editorial layout",
+    "description": "A sophisticated fashion editorial prompt for a dual-frame composition featuring two complementary angles of a subject in a red velvet halter mini dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486146053_5zhv3v_HH8nB-ragAANWqv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19398,
+    "content": "{\"image_generation_request\": {\"subject\": {\"person\": \"Young woman with long, wavy dark hair\", \"expression\": \"Smiling, adorable, creamy skin complexion\", \"action\": \"Standing on the glass roof of a car, taking a selfie with an iPhone\", \"clothing\": {\"top\": \"Casual patterned t-shirt (white with blue/red motifs)\", \"bottom\": \"Patterned bohemian-style harem pants\", \"footwear\": \"Barefoot\"}}, \"vehicle\": {\"model\": \"Tesla Model Y/3\", \"color\": \"Deep Crimson Red\", \"features\": [\"Panoramic glass roof\", \"Black wheels\", \"Modern aerodynamic design\"]}, \"environment\": {\"location\": \"Traditional rural village\", \"architecture\": \"Mud houses with thatched straw roofs\", \"details\": [\"Laundry hanging on a clothesline\", \"Charpai (traditional bed) in the background\", \"Dirt ground with farming tools (shovels, brooms)\", \"Lush green trees in the far distance\"], \"lighting\": \"Natural daylight, soft shadows\"}, \"camera_settings\": {\"perspective\": \"High angle, slightly close-up to subject\", \"framing\": \"Full body visible\", \"quality\": \"8k resolution, photorealistic, high detail\"}, \"composition\": {\"juxtaposition\": \"Contrast between high-tech luxury car and rustic village setting\"}}}",
+    "title": "High-Tech Car in Rustic Village",
+    "description": "A juxtaposition prompt featuring a modern luxury car in a traditional rural mud-house village, with a subject taking a selfie.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486143093_7n9pir_HH8l07FbwAAJS0z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19404,
+    "content": "Surreal cinematic photorealistic portrait of a young woman using the attached reference face with 100% facial accuracy, keeping all facial features unchanged, gently lowering her head with a calm mysterious expression while {argument name=\"action\" default=\"drinking molten lava from a massive volcanic crater\"} through a {argument name=\"straw\" default=\"thin glowing straw\"}, set in a {argument name=\"landscape\" default=\"dramatic volcanic landscape\"} with glowing lava rivers, black volcanic rocks, thick smoke, and giant atmospheric clouds, centered volcano crater with eye-level cinematic composition, strong focus on face, hands, and lava details, muted dark cinematic tones with glowing orange-red highlights, high contrast surreal mood, soft cinematic lighting with dramatic shadows, realistic lava glow reflecting on skin, volumetric smoke and haze, ultra photorealistic skin and fabric textures, fine-art surreal editorial photography style, masterpiece quality, vertical composition, 9:16 aspect ratio.",
+    "title": "Lava Drinking Volcano Portrait",
+    "description": "A surreal photorealistic portrait of a woman drinking molten lava through a straw in a dramatic volcanic landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486145995_6z4lxc_HH8jY-kaYAAfP0-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19392,
+    "content": "A hyper-realistic, high-resolution portrait of a beautiful young woman with {argument name=\"hair\" default=\"long, wavy chestnut brown hair\"} styled with a soft middle part and face-framing layers. She has captivating {argument name=\"eyes\" default=\"hazel eyes\"}, soft natural makeup, and a serene expression. She is wearing a {argument name=\"outfit\" default=\"denim corset top paired with a matching denim jacket\"} draped casually over her shoulders. Accessories include a delicate gold necklace with a cursive \"A\" pendant, a silver wristwatch, and minimalist gold bangles. The setting is a soft-focus urban street during the golden hour, creating a warm, cinematic bokeh background. Lighting is soft and directional, highlighting the textures of the denim and the shimmer of the jewelry. 8k resolution, photorealistic, shot on 85mm lens, f/1.8, highly detailed skin texture.",
+    "title": "Chestnut Hair Denim Portrait",
+    "description": "A hyper-realistic urban portrait prompt featuring a woman in a denim corset during the golden hour with cinematic bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486139921_y772hi_HH8KmeMXAAIWYL2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19390,
+    "content": "An aerial-view mosaic composed of thousands of miniature human figures, meticulously arranged to form the portrait of a {argument name=\"subject\" default=\"woman sitting cross-legged\"} on a {argument name=\"floor\" default=\"polished, sand-colored marble floor\"}. She is wearing a {argument name=\"clothing\" default=\"floral-patterned blouse and dark trousers\"}, with her hands resting in her lap, holding two even smaller identical miniature figures of herself. The image features a clean, minimalist background, removing the scattered crowds to focus entirely on the central, intricate human-formed figure and the recursive, surreal detail of her holding her own likeness.",
+    "title": "Recursive Human Figure Mosaic",
+    "description": "A surreal aerial-view mosaic made of thousands of human figures forming a portrait of a woman holding herself.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138970_y33w85_HH7fvLXWcAcev8_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19387,
+    "content": "A heartwarming family-themed illustration set in a {argument name=\"setting\" default=\"vibrant outdoor meadow\"}, rendered in a {argument name=\"style\" default=\"charming crayon-and-pencil sketch style\"}. The scene captures generations coming together, from a smiling grandmother in a blue beret and floral dress to a young girl with pink bows, and a happy family enjoying a sunny picnic with their {argument name=\"animal\" default=\"pet rabbit\"}. The artwork features soft, textured coloring, cheerful expressions, and a bright, smiling sun in a blue sky, creating a whimsical and nostalgic atmosphere full of warmth and connection.",
+    "title": "Crayon and Pencil Family Illustration",
+    "description": "A charming sketch-style illustration of a family picnic in a meadow, featuring soft textures and a nostalgic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137548_aw2165_HH7fvMkWMAQ0ZbE.jpg",
+      "https://cms-assets.youmind.com/media/1778486135949_c07q4h_HH7fvN_WMAAlTCb.jpg",
+      "https://cms-assets.youmind.com/media/1778486137473_9xnq2u_HH68IRxXwAMuoEF.jpg",
+      "https://cms-assets.youmind.com/media/1778486136676_81wzh6_HH7fvKzXkAQb8hs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19400,
+    "content": "{\n  \"prompt\": \"Photorealistic golden hour selfie of a young woman lying in a field of dry golden hay, long wavy {argument name=\"hair color\" default=\"copper-red\"} hair glowing in warm sunlight, soft freckles, glossy pink lips, subtle natural makeup, wearing a dark brown cowboy hat with a silver sheriff badge, {argument name=\"outfit\" default=\"red and white gingham tied crop top\"} with puff sleeves, low-rise western-inspired bottoms with faux fur trim and large vintage belt, visible belly piercing, relaxed smiling expression, holding a {argument name=\"phone\" default=\"bright pink smartphone\"} while taking a selfie, warm sunset lighting, cozy country aesthetic, cinematic western fashion vibe, ultra detailed skin texture, soft sun flares, shallow depth of field, realistic iPhone camera quality, warm earthy tones, playful modern cowgirl aesthetic, highly detailed straw background, editorial social media photography style\",\n  \"negative_prompt\": \"low quality, blurry, distorted anatomy, extra fingers, unrealistic face, bad hands, overexposed lighting, cartoon, anime, duplicate limbs, watermark, text, heavy filters, unnatural proportions, pixelated\",\n  \"style\": \"photorealistic\",\n  \"camera\": {\n    \"type\": \"iPhone camera\",\n    \"lens\": \"28mm\",\n    \"aperture\": \"f/1.8\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \"lighting\": {\n    \"type\": \"golden hour natural sunlight\",\n    \"tone\": \"warm cinematic\"\n  },\n  \"resolution\": \"4k\",\n  \"aspect_ratio\": \"2:3\"\n}",
+    "title": "Golden Hour Cowgirl Selfie",
+    "description": "A playful, modern cowgirl selfie in a field of golden straw during the golden hour, featuring detailed western fashion elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486144475_fygmo8_HH63OEuasAA1kBo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19397,
+    "content": "An {argument name=\"subject\" default=\"alligator\"} at a disco holding a disco ball in it's mouth, dressed in {argument name=\"clothing style\" default=\"retro 1970s clothing\"}.",
+    "title": "Retro Disco Alligator",
+    "description": "A quirky and fun prompt featuring an alligator in 1970s disco attire holding a disco ball, perfect for a glam rock aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486142806_e34hzc_HH3o5daXUAUe5_A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19186,
     "content": "{\n  \"prompt_metadata\": {\n    \"version\": \"2026_aesthetic_v4\",\n    \"aspect_ratio\": \"9:16\",\n    \"style\": \"Hyper-realistic Social Media Photography\",\n    \"camera_settings\": \"Shot on iPhone 17 Pro, 24mm Wide Lens, vertical orientation, f/1.8\",\n    \"image_quality\": \"Raw photo, 8k resolution, authentic mobile sensor grain, professional color grading\"\n  },\n  \"composition_and_pose\": {\n    \"frame\": \"Vertical 9:16 full-height shot\",\n    \"scene_layout\": \"A single, clean reflection captured entirely within the cafe mirror\",\n    \"perspective\": \"The camera view is strictly the mirror reflection. No foreground elements (no hands or phone outside the mirror).\",\n    \"pose\": \"The subject is standing tall, centered, capturing the reflection. The Desert Titanium iPhone 17 Pro Max with its puffy biscuit case is held naturally within the reflection frame.\",\n    \"focal_point\": \"Sharp focus on the glass surface and the reflected details\"\n  },\n  \"subject_reflection\": {\n    \"ethnicity\": \"{argument name=\\\"subject\\\" default=\\\"Young, tall and skinny East Asian woman\\\"}\",\n    \"facial_features\": {\n      \"skin\": \"Dewy glass skin, hyper-detailed texture, visible pores\",\n      \"makeup\": \"High-end Douyin-style: shimmering inner corners, aegyo-sal, soft blurred gradient rosewood lips\",\n      \"expression\": \"Candid, dreamy soft gaze\"\n    },\n    \"hair\": {\n      \"style\": \"Extra-long voluminous loose waves, effortless flow\",\n      \"color\": \"Deep obsidian black with healthy silk-like sheen\",\n      \"accessory\": \"Statement 3D biscuit-shaped bear hair clip\"\n    },\n    \"outfit\": {\n      \"top\": \"{argument name=\\\"top\\\" default=\\\"Off-the-shoulder white crop top, ribbed organic cotton\\\"}\",\n      \"bottom\": \"Very low-waisted baggy vintage-wash denim jeans\",\n      \"details\": \"Visible silver navel piercing, minimalist silver rings, and long almond Douyin-art nails with 3D porcelain bows\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\\\"setting\\\" default=\\\"Upscale cute matcha cafe restroom\\\"}\",\n    \"interior\": \"Light beige walls, warm ambient cove lighting, soft diffused glow\",\n    \"texture\": \"Realistic micro-smudges on mirror surface, subtle lens flare from overhead lights\"\n  },\n  \"technical_realism\": {\n    \"vibe\": \"Authentic 'Life Lately' Instagram Story, 2026 quiet luxury, serene atmosphere\",\n    \"constraints\": \"Single photograph only. No split-screen. No duplication of the subject.\"\n  }\n}",
     "title": "Aesthetic Cafe Mirror Selfie Portrait",

@@ -20,6 +20,79 @@
     "needReferenceImages": false
   },
   {
+    "id": 19388,
+    "content": "Create a multi-layered {argument name=\"medium\" default=\"charcoal and graphite sketch\"} on {argument name=\"paper\" default=\"textured cream paper\"}, featuring several artistic perspectives of a young woman. The central portrait shows her facing forward with a warm smile, wearing a {argument name=\"clothing\" default=\"beanie and a utility jacket\"}. Two larger, ethereal profile views frame the center, one looking left and one looking right with a serene expression. At the bottom, a full-body miniature version of the woman is depicted sitting and sketching in a notebook. The background blends into a loose, urban street scene with architectural lines and trees, utilizing expressive cross-hatching, smudged shadows, and raw pencil strokes.",
+    "title": "Multi-Layered Artist Journal Sketch",
+    "description": "An artistic multi-perspective charcoal and graphite sketch of a woman on cream paper, mimicking a dynamic artist's journal aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137477_ipcfdb_HH-bjGBXUAAUJcK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19386,
+    "content": "Ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"strong man\"} standing under a {argument name=\"effect\" default=\"stream of water pouring directly onto his head\"}, droplets splashing dramatically around him. His skin glistens with moisture, muscles defined and illuminated by {argument name=\"lighting\" default=\"powerful dual lighting — deep blue on the left and fiery red on the right\"}, creating a bold contrast. He wears a sleeveless black hoodie, a heavy silver chain with a large pendant, and a crossbody strap. His expression is intense and stoic, dreadlocks hanging wet across his face. Subtle mist and water droplets enhance the atmosphere, with sharp details and high contrast.",
+    "title": "Dramatic Dual-Light Splash Portrait",
+    "description": "An ultra-realistic cinematic portrait of a man under falling water, using strong blue and red lighting for high contrast and drama.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137494_q3fd5z_HH-HGV7XkAIvVwD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19403,
+    "content": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"BOLD\"}\" featuring {argument name=\"subject\" default=\"Aya Sharma\"}, a minimalist creative. She sits confidently on a wooden pallet bench in a modern studio, wearing a {argument name=\"jacket\" default=\"tan leather jacket\"}, black top, wide-leg trousers, and classic high-top sneakers. The composition uses a sophisticated earth-tone palette, bold serif typography, and textured wall art to convey a professional, \"Creative Profiles\" aesthetic centered on authenticity and sustainable branding.",
+    "title": "Fashion Magazine Creative Profile",
+    "description": "A high-fashion magazine cover titled 'BOLD' featuring a minimalist creative in a modern studio with earth-tone palettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486146006_l6rbk2_HH9j7WNXoAgWoI5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19414,
+    "content": "{argument name=\"subject\" default=\"the Australian beef\"} T-shirt with Error in the style of a {argument name=\"style\" default=\"fashion show\"}",
+    "title": "Australian Beef T-shirt Fashion Show",
+    "description": "Generates a unique fashion show scene featuring a T-shirt with an Australian beef design, combining commercial aesthetics with quirky graphic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486151007_086ols_HHTyNNobAAAnLc2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19395,
+    "content": "Creative a CD cover art that is printed on a CD. with {argument name=\"style\" default=\"striking, avant-garde editorial collage style\"} with creative colour theme. The diameter CD must be the same as the width and height of the image. It must have the \"compact disc\" logo included. The cover art should be featuring the {argument name=\"subject\" default=\"girl\"} as in <User Portrait>. Any part of the girl must not be appear at the centre of the CD. You can get creative on her outfit, mood, facial expression and pose, but her face and features should not be changed. 1:1 aspect ratio",
+    "title": "Avant-Garde Collage CD Cover",
+    "description": "A prompt for generating artistic CD cover art in a collage style, incorporating specific branding elements like the Compact Disc logo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486141302_b9qy4x_HH9DXEuacAAZQr-.jpg",
+      "https://cms-assets.youmind.com/media/1778486141315_xhry2d_HH9Db05akAA5LGd.jpg",
+      "https://cms-assets.youmind.com/media/1778486141313_1zed2i_HH9DbzYaoAACRNV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19390,
+    "content": "An aerial-view mosaic composed of thousands of miniature human figures, meticulously arranged to form the portrait of a {argument name=\"subject\" default=\"woman sitting cross-legged\"} on a {argument name=\"floor\" default=\"polished, sand-colored marble floor\"}. She is wearing a {argument name=\"clothing\" default=\"floral-patterned blouse and dark trousers\"}, with her hands resting in her lap, holding two even smaller identical miniature figures of herself. The image features a clean, minimalist background, removing the scattered crowds to focus entirely on the central, intricate human-formed figure and the recursive, surreal detail of her holding her own likeness.",
+    "title": "Recursive Human Figure Mosaic",
+    "description": "A surreal aerial-view mosaic made of thousands of human figures forming a portrait of a woman holding herself.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138970_y33w85_HH7fvLXWcAcev8_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19399,
+    "content": "A vintage, technical scientific diagram of [{argument name=\"subject\" default=\"A GIANT STRAWBERRY SHORTCAKE\"}], styled as a {argument name=\"style\" default=\"1920s laboratory blueprint\"}. The central dessert is highly detailed with scientific callouts using pseudo-intellectual terms like 'Aerated Dairy Matrix' or 'Granulated Sucrose Dusting.' The image features several data visualizations: a 'Moisture Absorbency Graph,' a 'Flavor Profile Hexagon,' and a 'Texture Hardness Scale' similar to the Mohs scale. The background is aged, tea-stained parchment with ornate Victorian borders, technical sketches of beakers and thermometers, and a 'Registered No. 1923' stamp at the bottom. Aesthetic: Retro-futurism, Da Vinci sketch meets old-school soda shop menu.",
+    "title": "Scientific Dessert Blueprint",
+    "description": "A retro-futuristic scientific diagram of a dessert, styled as a 1920s laboratory blueprint with technical data visualizations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486142905_dyesu0_HH7bLyCbMAAOvY6.jpg",
+      "https://cms-assets.youmind.com/media/1778486142957_kravz1_HH7bLyPbkAAnROo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19166,
     "content": "A cinematic, double-exposure portrait of a {argument name=\"subject\" default=\"young woman in profile\"}, smoking a cigarette with a contemplative expression. Her silhouette serves as a frame for a {argument name=\"landscape\" default=\"lush, tropical landscape featuring cascading waterfalls, palm trees, and misty mountains\"} under a soft, golden sunset. The wisps of white smoke from her cigarette blend into the {argument name=\"sky background\" default=\"cloudy sky\"}, creating a seamless, surreal atmosphere that bridges urban melancholy with the serenity of nature.",
     "title": "Double Exposure Tropical Landscape Portrait",

@@ -1,5 +1,36 @@
 [
   {
+    "id": 19415,
+    "content": "Please create a design for a puffy sticker featuring a deformed chibi character from the bust up. Combine a collection of the character's facial expressions (normal, smile, anger, sadness, fun, surprise) into a single image, with each expression cut into a separate sticker and arranged randomly. \n\nFont: Rounded, pop, and cute design. \nGradient: Favorite color \nText: Place only one \"{argument name=\"text\" default=\"favorite text\"}\"\nMotif: Separate \"{argument name=\"motif\" default=\"favorite motif\"}\" into individual stickers and arrange them randomly. \nBackground Color: \"{argument name=\"background color\" default=\"favorite color\"}\"\nSize: 9:16",
+    "title": "Chibi Character Puffy Sticker Sheet",
+    "description": "A detailed prompt for creating a cohesive sticker sheet featuring deformed characters with various facial expressions and customizable text elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486152170_7r0hcl_HIBZu-BbQAARVHN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19402,
+    "content": "A giant {argument name=\"dragon\" default=\"icy-blue celestial dragon\"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name=\"girl\" default=\"extremely tall 8-feet girl\"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name=\"outfit\" default=\"dark green-black oversized check shirt\"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.",
+    "title": "Celestial Dragon Sky Fantasy",
+    "description": "A hyper-realistic fantasy prompt featuring a giant icy-blue dragon flying in a bright blue sky above a girl standing on a dirt road.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg",
+      "https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19418,
+    "content": "{argument name=\"subject\" default=\"Cyclops\"} with an {argument name=\"accessory\" default=\"eye patch\"}",
+    "title": "Cyclops with Eye Patch",
+    "description": "A character design prompt for a cyclops wearing an eye patch, generating a unique and slightly surreal portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486155039_aft7pq_HHTqEksasAAeMmX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19208,
     "content": "a {argument name=\"vehicle\" default=\"technical\"} with an {argument name=\"weapon\" default=\"MG\"}",
     "title": "Technical Vehicle with Machine Gun",

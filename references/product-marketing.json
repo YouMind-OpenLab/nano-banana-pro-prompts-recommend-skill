@@ -21,6 +21,86 @@
     "needReferenceImages": true
   },
   {
+    "id": 19391,
+    "content": "A cinematic night portrait of a {argument name=\"subject\" default=\"stylish young man\"} holding a large printed social media profile page that is partially burning with intense flames, fire forming a glowing V-shape across the paper, realistic fire and smoke, warm orange flames lighting his face, soft shadows, dark background with subtle bokeh lights, the paper clearly showing a modern social media profile layout with username “{argument name=\"username\" default=\"ErtanLabs\"}” and bio text, handsome young man with messy textured hair, sharp jawline, confident calm expression, wearing a {argument name=\"outfit\" default=\"black turtleneck and beige overcoat\"}, ultra-realistic, high detail, dramatic lighting, shallow depth of field, editorial fashion photography, 4K, moody cinematic atmosphere, realistic skin texture, premium aesthetic.",
+    "title": "Cinematic Night Portrait with Burning Social Page",
+    "description": "A dramatic portrait of a man holding a burning social media profile page, featuring intense flames and editorial lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138973_28jik9_HH-HLSQWoAU7ZVQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19403,
+    "content": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"BOLD\"}\" featuring {argument name=\"subject\" default=\"Aya Sharma\"}, a minimalist creative. She sits confidently on a wooden pallet bench in a modern studio, wearing a {argument name=\"jacket\" default=\"tan leather jacket\"}, black top, wide-leg trousers, and classic high-top sneakers. The composition uses a sophisticated earth-tone palette, bold serif typography, and textured wall art to convey a professional, \"Creative Profiles\" aesthetic centered on authenticity and sustainable branding.",
+    "title": "Fashion Magazine Creative Profile",
+    "description": "A high-fashion magazine cover titled 'BOLD' featuring a minimalist creative in a modern studio with earth-tone palettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486146006_l6rbk2_HH9j7WNXoAgWoI5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19414,
+    "content": "{argument name=\"subject\" default=\"the Australian beef\"} T-shirt with Error in the style of a {argument name=\"style\" default=\"fashion show\"}",
+    "title": "Australian Beef T-shirt Fashion Show",
+    "description": "Generates a unique fashion show scene featuring a T-shirt with an Australian beef design, combining commercial aesthetics with quirky graphic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486151007_086ols_HHTyNNobAAAnLc2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19389,
+    "content": "do this for {argument name=\"animal count\" default=\"3 random animals\"} for a {argument name=\"product\" default=\"shoe\"} IMAGE = Σ(w_i × β_i) → target render   // Σ(w_i) = 1.0  BASIS_DECOMPOSITION FROM {product} + {bio_sources}:    β1 : INFER(product_category_aesthetic FROM product. design_language)        w = INFER(weight FROM product.visual_identity_strength)    β2 : INFER(biological_intelligence FROM bio_sources[].evolutionary_solutions)        w = INFER(weight FROM bio_sources[].advantage_significance)    β3 : INFER(engineering_translation FROM biomimicry_methodology)        w = INFER(weight FROM product.technical_complexity)    β4 : INFER(industrial_design_presentation FROM portfolio_aesthetic)        w = INFER(weight FROM audience.professional_level)    β5 : INFER(educational_diagram FROM design_process_documentation)        w = INFER(weight FROM instructional_clarity_need)  INTERSECTION_RULES:   β[bio] ∩ β[product]       = naive_prototype_v1  // literal translation   β[bio] ∩ β[engineering]   = refined_prototype_v2  // working solution   β[v2] ∩ β[product]        = final_components  // production parts   β[presentation] ∩ β[education] = grid_layout  // 4-column progression    FOR EACH bio_source:     col_1 = β[bio]     col_2 = β[bio] ∩ β[product] → ❌ failure     col_3 = β[bio] ∩ β[engineering] → ✓ success     col_4 = β[v2] ∩ β[product]  GLOBAL_CONSTRAINT:   layout    = 4_columns × N_rows (N = count bio_sources)   footer    = integrated_product (ALL col_4 components combined)   style     = β[presentation] — clean, white bg, professional  OUTPUT_CONSTRAINTS:   resolution : 8K landscape   render     : Octane | industrial_design_board   typography : sans_serif | hierarchical | callouts + annotations   lighting   : INFER(studio_rig FROM β[product])   negative_β : INFER(anti_patterns FROM β1..β5)  // TUNING KNOBS: // β[bio]++          → more nature photography, less product renders // β[engineering]++  → more technical diagrams, failure analysis detail // β[presentation]++ → more portfolio polish, less educational scaffolding // β[education]++    → more annotations, process transparency",
+    "title": "Bio-Inspired Industrial Shoe Design Board",
+    "description": "A highly technical and programmatic prompt for generating industrial design boards for shoes inspired by biological structures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138709_txnn4a_HHriMtKWwAE-cTb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19405,
+    "content": "Create an ultra realistic high resolution dual-frame fashion editorial image featuring the same woman presented in two complementary angles within a single composition, emphasizing pose variation, garment tension, and fabric behavior. The subject’s face, facial structure, skin tone, and body proportions must be strictly taken from the FIRST REFERENCE IMAGE with complete identity consistency and zero drift. COMPOSITION: The image is divided into two vertical sections:LEFT FRAME (Primary Full Body Shot): - full body view from head to knees - camera positioned at mid-torso height - slight three-quarter front angle - subject standing with weight shifted to one leg, creating a natural hip pop - legs close together with a subtle bend in one knee - torso upright but relaxed - one hand holding a phone in a mirror-style pose - other hand holding a small handbag RIGHT FRAME (Secondary Close-Up): - waist-up crop - side-back angle (approximately 60–75 degrees) shoulder rotated away from camera - back exposed - head turned back toward camera with direct eye contact OUTFIT DETAILS: The subject is wearing a {argument name=\"dress color\" default=\"red\"} {argument name=\"fabric\" default=\"velvet\"} halter mini dress. Top section: - deep plunging neckline - halter straps pulling upward creating visible vertical tension - bust area slightly compressed and lifted - subtle stretch lines radiating from neckline Waist: - tightly cinched - strong inward compression - slight fabric gathering along side seams Skirt: - short flared mini skirt- lightweight structured fabric - natural outward flare from waistline - radial folds forming from waistband - hemline slightly lifted due to posture - soft movement, not stiff Back (visible in right frame): - fully backless design - fabric pulled taut across lower back - subtle horizontal tension lines FOOTWEAR: - knee-high boots - matte finish - snug fit around calves - slight creasing at ankle due to stance HAIR: - long sleek high ponytail - falling straight down the back- smooth texture with clean edges LIGHTING: - soft indoor lighting - evenly distributed illumination - minimal harsh shadows - natural skin tone rendering CAMERA SETTINGS: - 50mm lens look - sharp focus on subject - clean neutral background The final image must feel like a polished fashion lookbook layout, with strong emphasis on dual-angle presentation, realistic fabric tension, and accurate garment structure.",
+    "title": "Dual-frame fashion editorial layout",
+    "description": "A sophisticated fashion editorial prompt for a dual-frame composition featuring two complementary angles of a subject in a red velvet halter mini dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486146053_5zhv3v_HH8nB-ragAANWqv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19407,
+    "content": "Majestic landscape fashion photoshoot in the mountains. Shot from an extremely low angle (worm’s-eye view). A stunning {argument name=\"subject\" default=\"brunette\"} in a {argument name=\"coat style\" default=\"snow-white cashmere coat\"} stands between the front legs of a {argument name=\"deer scale\" default=\"hyper-massive\"} red deer. The deer has a deep ruby-red coat, and its gigantic branching antlers look like they are made of black crystal, occupying half the frame and covering the overcast dramatic sky. The wind blows the girl’s hair. 8k, hyperrealism, incredible sense of scale and power, shot on a 24mm wide-angle lens.",
+    "title": "Majestic mountain deer photoshoot",
+    "description": "A low-angle fashion photoshoot prompt featuring a subject in a cashmere coat standing between the legs of a massive red deer with crystal antlers in a mountain landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486147630_z75yfo_HH8j_DQa8AAOmq5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19404,
+    "content": "Surreal cinematic photorealistic portrait of a young woman using the attached reference face with 100% facial accuracy, keeping all facial features unchanged, gently lowering her head with a calm mysterious expression while {argument name=\"action\" default=\"drinking molten lava from a massive volcanic crater\"} through a {argument name=\"straw\" default=\"thin glowing straw\"}, set in a {argument name=\"landscape\" default=\"dramatic volcanic landscape\"} with glowing lava rivers, black volcanic rocks, thick smoke, and giant atmospheric clouds, centered volcano crater with eye-level cinematic composition, strong focus on face, hands, and lava details, muted dark cinematic tones with glowing orange-red highlights, high contrast surreal mood, soft cinematic lighting with dramatic shadows, realistic lava glow reflecting on skin, volumetric smoke and haze, ultra photorealistic skin and fabric textures, fine-art surreal editorial photography style, masterpiece quality, vertical composition, 9:16 aspect ratio.",
+    "title": "Lava Drinking Volcano Portrait",
+    "description": "A surreal photorealistic portrait of a woman drinking molten lava through a straw in a dramatic volcanic landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486145995_6z4lxc_HH8jY-kaYAAfP0-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19396,
+    "content": "An intricate, highly detailed and clean 3D illustration and cross-section diagram of a massive horizontal-axis wind turbine, rendered on a crisp white background with a ground landscape and a distant power grid. The style is an illustrative technical schematic with clear lines and subtle textures. The overall title, positioned at the top-center in a professional sans-serif font, is \"{argument name=\"title\" default=\"Wind Turbine Components\"}\". The composition is dominated by the tall turbine, which is positioned slightly to the left, and its cutaway nacelle. The turbine stands on a detailed gray modular tower (Component 6), which rests on a ground plane of green rolling hills and foliage, alongside a detailed grey Transformer (Component 7). To the far right, two detailed steel lattice power pylons connect the transformer via high-voltage lines, labeled \"To Power Grid\". At the top of the tower sits the large nacelle, with a detailed internal cutaway revealing a visible multi-stage Gearbox (Component 4) with internal blue gears and a complex copper-coil Generator (Component 5), both cut to show their internal structure. The Generator housing is cut away to show the stator and rotor coils. Leading from the front is the Hub (Component 2), connecting three enormous, clean white aerodynamically-shaped Rotor Blades (Component 1) (labeled with bullet points: \"Capture the wind energy.\", \"Designed like airplane wings...\", \"When wind passes over them...\"). Inside the cutaway, the Hub leads to a detailed blue Main Shaft (Component 3, labeled with bullet points: \"Transfers mechanical energy from rotor to the gearbox.\", \"Uses Direct Drive in some modern turbines.\") that connects to the Gearbox. Multiple distinct, precise gray call-out lines with blue circular numbered bullet points (1 through 7) and corresponding text blocks are positioned around the diagram, connected to specific components. A large, blue-to-white gradient angled banner at the bottom-left features the bold, white text \"{argument name=\"banner text\" default=\"Power systems protection\"}\". The text for each component and its function is perfectly transcribed and legible as in image_1.png. The entire scene is sharply focused, like a technical patent illustration, with clean lighting.",
+    "title": "Wind Turbine Technical Schematic",
+    "description": "A detailed 3D technical illustration of a wind turbine, showing its cross-section and internal components in a professional schematic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486141781_1gh8iz_HH7wWN9bMAAKY3p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19210,
     "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"expression\": \"Joyful candid smile with bright happy eyes, natural laughing expression while looking back toward camera over shoulder, authentic carefree emotion\",\n        \"hair\": \"Use uploaded reference image, keep identity exact, long hair flowing dynamically in the wind with realistic movement and sunlit highlights\",\n        \"accessories\": [\n          \"Minimal natural makeup\",\n          \"Soft glossy lips\",\n          \"No heavy accessories\"\n        ],\n        \"details\": [\n          \"Natural skin texture with realistic imperfections\",\n          \"Warm sunlight glow on face and hair\",\n          \"Slight motion blur from movement\",\n          \"No heavy retouching\",\n          \"Authentic cinematic film aesthetic\"\n        ]\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\",\n        \"features\": [\n          \"Natural feminine silhouette\",\n          \"Relaxed body posture\",\n          \"Soft elegant movement\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"dress\": {\n        \"type\": \"{argument name=\"dress style\" default=\"Vintage floral summer dress\"}\",\n        \"color\": \"{argument name=\"color\" default=\"soft cream with delicate pastel floral print\"}\",\n        \"design\": [\n          \"Lightweight flowing fabric\",\n          \"Short puff sleeves\",\n          \"Fitted waist\",\n          \"Soft romantic cottagecore styling\",\n          \"Natural movement in fabric while running\"\n        ],\n        \"fit\": \"Soft feminine fit with flowing relaxed movement\"\n      },\n      \"footwear\": {\n        \"type\": \"Barefoot\",\n        \"details\": [\n          \"Natural bare feet running through garden path\",\n          \"Relaxed carefree summer aesthetic\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"stance\": \"Running playfully through a flower garden while looking back toward camera\",\n      \"body_position\": \"Body moving forward naturally with slight motion blur, shoulders turned back toward camera while dress and hair flow dynamically from movement\",\n      \"hands\": \"One hand slightly extended backward toward camera naturally while running\",\n      \"head_direction\": \"Head turned over shoulder toward camera\",\n      \"gaze\": \"Bright joyful eye contact toward viewer\",\n      \"details\": [\n        \"Authentic candid movement\",\n        \"Natural running posture\",\n        \"Carefree romantic energy\",\n        \"Dynamic cinematic composition\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Luxury countryside flower garden\"}\",\n      \"background\": [\n        \"Large blooming garden filled with colorful flowers\",\n        \"Elegant countryside estate house in distance\",\n        \"Green trees and warm summer atmosphere\",\n        \"Bright natural outdoor scenery\"\n      ],\n      \"atmosphere\": \"Romantic cinematic summer mood with nostalgic emotional energy\"\n    }\n  }\n}",
     "title": "Joyful Running in Countryside Garden",

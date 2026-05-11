@@ -10,6 +10,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 19408,
+    "content": "Create a low-resolution vertical webcam photo in a 3x1 grid with a 3:4 aspect ratio using the character in the picture. The photo should fill the canvas without borders with photobooth vibe. The screen light is warm and dim, with a grainy/noisy style and a simple, cozy bedroom background. \nFirst grid: Exaggerated pout, finger near the lips, black off-shoulder top",
+    "title": "Webcam photobooth grid portrait",
+    "description": "A prompt for creating a low-resolution grainy vertical webcam photo grid with a cozy photobooth vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486147823_4jrhfw_HH-XdFKaUAANaMU.jpg",
+      "https://cms-assets.youmind.com/media/1778486147794_gn62rj_HH-XdFJbMAEBB4P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19393,
+    "content": "Generate an exact {argument name=\"color style\" default=\"monochrome\"} {argument name=\"angle\" default=\"side-profile\"} portrait of the uploaded subject in this scene. The subject faces right, head slightly tilted, wearing {argument name=\"outfit\" default=\"round glasses and a dark coat over a collared shirt\"}. Lighting highlights the edges of hair, face, and glasses, creating a soft rim light effect while the rest fades smoothly into shadow. The background is pure dark, fading into black, adding depth and isolating the silhouette. Composition is tight, cropped from chest up, camera angle at side profile, emphasizing clean lines and elegant simplicity. Final result must lock pose, clothing, glasses, background, lighting, framing, and contrast exactly as reference-only swap subject's identity. Aspect ratio 4:5",
+    "title": "Monochrome Side-Profile Silhouette",
+    "description": "A reference-based prompt for generating a monochrome side-profile portrait with rim lighting and a pure dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486140272_u0tnaw_HH95ibabgAAEOmw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19394,
+    "content": "A cinematic, high-end portrait of a beautiful {argument name=\"subject\" default=\"22-year-old girl\"} with a slim, elegant build, wearing a {argument name=\"outfit top\" default=\"luxurious matte black oversized blazer\"} over a {argument name=\"inner top\" default=\"soft white top\"}. The subject is standing confidently facing the camera with a calm, dreamy expression. Her long silky hair is slightly windswept and illuminated by intense golden hour sunlight from behind, creating a glowing rim light effect. The background is a softly blurred urban street with warm golden bokeh circles. Shot on a Sony A7R V with an 85mm f/1.8 lens for shallow depth of field, hyper-realistic skin textures, soft natural makeup, and professional cinematic color grading. No hand visible in the frame, no sunglasses or eyewear.",
+    "title": "Golden Hour Urban Fashion Portrait",
+    "description": "A high-end cinematic portrait prompt featuring a windswept hairstyle and intense golden hour rim lighting in an urban setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486140329_da34br_HH91BEYXUAEeIls.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19392,
+    "content": "A hyper-realistic, high-resolution portrait of a beautiful young woman with {argument name=\"hair\" default=\"long, wavy chestnut brown hair\"} styled with a soft middle part and face-framing layers. She has captivating {argument name=\"eyes\" default=\"hazel eyes\"}, soft natural makeup, and a serene expression. She is wearing a {argument name=\"outfit\" default=\"denim corset top paired with a matching denim jacket\"} draped casually over her shoulders. Accessories include a delicate gold necklace with a cursive \"A\" pendant, a silver wristwatch, and minimalist gold bangles. The setting is a soft-focus urban street during the golden hour, creating a warm, cinematic bokeh background. Lighting is soft and directional, highlighting the textures of the denim and the shimmer of the jewelry. 8k resolution, photorealistic, shot on 85mm lens, f/1.8, highly detailed skin texture.",
+    "title": "Chestnut Hair Denim Portrait",
+    "description": "A hyper-realistic urban portrait prompt featuring a woman in a denim corset during the golden hour with cinematic bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486139921_y772hi_HH8KmeMXAAIWYL2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19186,
     "content": "{\n  \"prompt_metadata\": {\n    \"version\": \"2026_aesthetic_v4\",\n    \"aspect_ratio\": \"9:16\",\n    \"style\": \"Hyper-realistic Social Media Photography\",\n    \"camera_settings\": \"Shot on iPhone 17 Pro, 24mm Wide Lens, vertical orientation, f/1.8\",\n    \"image_quality\": \"Raw photo, 8k resolution, authentic mobile sensor grain, professional color grading\"\n  },\n  \"composition_and_pose\": {\n    \"frame\": \"Vertical 9:16 full-height shot\",\n    \"scene_layout\": \"A single, clean reflection captured entirely within the cafe mirror\",\n    \"perspective\": \"The camera view is strictly the mirror reflection. No foreground elements (no hands or phone outside the mirror).\",\n    \"pose\": \"The subject is standing tall, centered, capturing the reflection. The Desert Titanium iPhone 17 Pro Max with its puffy biscuit case is held naturally within the reflection frame.\",\n    \"focal_point\": \"Sharp focus on the glass surface and the reflected details\"\n  },\n  \"subject_reflection\": {\n    \"ethnicity\": \"{argument name=\\\"subject\\\" default=\\\"Young, tall and skinny East Asian woman\\\"}\",\n    \"facial_features\": {\n      \"skin\": \"Dewy glass skin, hyper-detailed texture, visible pores\",\n      \"makeup\": \"High-end Douyin-style: shimmering inner corners, aegyo-sal, soft blurred gradient rosewood lips\",\n      \"expression\": \"Candid, dreamy soft gaze\"\n    },\n    \"hair\": {\n      \"style\": \"Extra-long voluminous loose waves, effortless flow\",\n      \"color\": \"Deep obsidian black with healthy silk-like sheen\",\n      \"accessory\": \"Statement 3D biscuit-shaped bear hair clip\"\n    },\n    \"outfit\": {\n      \"top\": \"{argument name=\\\"top\\\" default=\\\"Off-the-shoulder white crop top, ribbed organic cotton\\\"}\",\n      \"bottom\": \"Very low-waisted baggy vintage-wash denim jeans\",\n      \"details\": \"Visible silver navel piercing, minimalist silver rings, and long almond Douyin-art nails with 3D porcelain bows\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\\\"setting\\\" default=\\\"Upscale cute matcha cafe restroom\\\"}\",\n    \"interior\": \"Light beige walls, warm ambient cove lighting, soft diffused glow\",\n    \"texture\": \"Realistic micro-smudges on mirror surface, subtle lens flare from overhead lights\"\n  },\n  \"technical_realism\": {\n    \"vibe\": \"Authentic 'Life Lately' Instagram Story, 2026 quiet luxury, serene atmosphere\",\n    \"constraints\": \"Single photograph only. No split-screen. No duplication of the subject.\"\n  }\n}",
     "title": "Aesthetic Cafe Mirror Selfie Portrait",

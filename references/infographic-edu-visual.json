@@ -56,6 +56,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 19389,
+    "content": "do this for {argument name=\"animal count\" default=\"3 random animals\"} for a {argument name=\"product\" default=\"shoe\"} IMAGE = Σ(w_i × β_i) → target render   // Σ(w_i) = 1.0  BASIS_DECOMPOSITION FROM {product} + {bio_sources}:    β1 : INFER(product_category_aesthetic FROM product. design_language)        w = INFER(weight FROM product.visual_identity_strength)    β2 : INFER(biological_intelligence FROM bio_sources[].evolutionary_solutions)        w = INFER(weight FROM bio_sources[].advantage_significance)    β3 : INFER(engineering_translation FROM biomimicry_methodology)        w = INFER(weight FROM product.technical_complexity)    β4 : INFER(industrial_design_presentation FROM portfolio_aesthetic)        w = INFER(weight FROM audience.professional_level)    β5 : INFER(educational_diagram FROM design_process_documentation)        w = INFER(weight FROM instructional_clarity_need)  INTERSECTION_RULES:   β[bio] ∩ β[product]       = naive_prototype_v1  // literal translation   β[bio] ∩ β[engineering]   = refined_prototype_v2  // working solution   β[v2] ∩ β[product]        = final_components  // production parts   β[presentation] ∩ β[education] = grid_layout  // 4-column progression    FOR EACH bio_source:     col_1 = β[bio]     col_2 = β[bio] ∩ β[product] → ❌ failure     col_3 = β[bio] ∩ β[engineering] → ✓ success     col_4 = β[v2] ∩ β[product]  GLOBAL_CONSTRAINT:   layout    = 4_columns × N_rows (N = count bio_sources)   footer    = integrated_product (ALL col_4 components combined)   style     = β[presentation] — clean, white bg, professional  OUTPUT_CONSTRAINTS:   resolution : 8K landscape   render     : Octane | industrial_design_board   typography : sans_serif | hierarchical | callouts + annotations   lighting   : INFER(studio_rig FROM β[product])   negative_β : INFER(anti_patterns FROM β1..β5)  // TUNING KNOBS: // β[bio]++          → more nature photography, less product renders // β[engineering]++  → more technical diagrams, failure analysis detail // β[presentation]++ → more portfolio polish, less educational scaffolding // β[education]++    → more annotations, process transparency",
+    "title": "Bio-Inspired Industrial Shoe Design Board",
+    "description": "A highly technical and programmatic prompt for generating industrial design boards for shoes inspired by biological structures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486138709_txnn4a_HHriMtKWwAE-cTb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19396,
+    "content": "An intricate, highly detailed and clean 3D illustration and cross-section diagram of a massive horizontal-axis wind turbine, rendered on a crisp white background with a ground landscape and a distant power grid. The style is an illustrative technical schematic with clear lines and subtle textures. The overall title, positioned at the top-center in a professional sans-serif font, is \"{argument name=\"title\" default=\"Wind Turbine Components\"}\". The composition is dominated by the tall turbine, which is positioned slightly to the left, and its cutaway nacelle. The turbine stands on a detailed gray modular tower (Component 6), which rests on a ground plane of green rolling hills and foliage, alongside a detailed grey Transformer (Component 7). To the far right, two detailed steel lattice power pylons connect the transformer via high-voltage lines, labeled \"To Power Grid\". At the top of the tower sits the large nacelle, with a detailed internal cutaway revealing a visible multi-stage Gearbox (Component 4) with internal blue gears and a complex copper-coil Generator (Component 5), both cut to show their internal structure. The Generator housing is cut away to show the stator and rotor coils. Leading from the front is the Hub (Component 2), connecting three enormous, clean white aerodynamically-shaped Rotor Blades (Component 1) (labeled with bullet points: \"Capture the wind energy.\", \"Designed like airplane wings...\", \"When wind passes over them...\"). Inside the cutaway, the Hub leads to a detailed blue Main Shaft (Component 3, labeled with bullet points: \"Transfers mechanical energy from rotor to the gearbox.\", \"Uses Direct Drive in some modern turbines.\") that connects to the Gearbox. Multiple distinct, precise gray call-out lines with blue circular numbered bullet points (1 through 7) and corresponding text blocks are positioned around the diagram, connected to specific components. A large, blue-to-white gradient angled banner at the bottom-left features the bold, white text \"{argument name=\"banner text\" default=\"Power systems protection\"}\". The text for each component and its function is perfectly transcribed and legible as in image_1.png. The entire scene is sharply focused, like a technical patent illustration, with clean lighting.",
+    "title": "Wind Turbine Technical Schematic",
+    "description": "A detailed 3D technical illustration of a wind turbine, showing its cross-section and internal components in a professional schematic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486141781_1gh8iz_HH7wWN9bMAAKY3p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19399,
+    "content": "A vintage, technical scientific diagram of [{argument name=\"subject\" default=\"A GIANT STRAWBERRY SHORTCAKE\"}], styled as a {argument name=\"style\" default=\"1920s laboratory blueprint\"}. The central dessert is highly detailed with scientific callouts using pseudo-intellectual terms like 'Aerated Dairy Matrix' or 'Granulated Sucrose Dusting.' The image features several data visualizations: a 'Moisture Absorbency Graph,' a 'Flavor Profile Hexagon,' and a 'Texture Hardness Scale' similar to the Mohs scale. The background is aged, tea-stained parchment with ornate Victorian borders, technical sketches of beakers and thermometers, and a 'Registered No. 1923' stamp at the bottom. Aesthetic: Retro-futurism, Da Vinci sketch meets old-school soda shop menu.",
+    "title": "Scientific Dessert Blueprint",
+    "description": "A retro-futuristic scientific diagram of a dessert, styled as a 1920s laboratory blueprint with technical data visualizations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486142905_dyesu0_HH7bLyCbMAAOvY6.jpg",
+      "https://cms-assets.youmind.com/media/1778486142957_kravz1_HH7bLyPbkAAnROo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19182,
     "content": "Side-by-side comparative AI-generated visual study showing two variations of the same {argument name=\"subject\" default=\"African woman\"} in {argument name=\"location\" default=\"Lagos café environment\"}. Both images simulate different generation styles: one highly polished commercial fashion realism, the other raw iPhone candid realism with imperfections. Subject wears {argument name=\"outfit\" default=\"elegant neutral dress\"}, gold jewelry, seated at outdoor restaurant table. Include iced drink, phone, sunglasses, and subtle background crowd blur. Lighting is bright afternoon sunlight with realistic exposure variation between both images. Skin detail must include pores, natural texture, slight blemishes, sweat shine. Composition intentionally tests realism perception for educational purposes in AI content creation. Designed to demonstrate prompt control differences, not character storytelling.",
     "title": "Lagos Cafe Realism Study",

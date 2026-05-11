@@ -1,5 +1,69 @@
 [
   {
+    "id": 19388,
+    "content": "Create a multi-layered {argument name=\"medium\" default=\"charcoal and graphite sketch\"} on {argument name=\"paper\" default=\"textured cream paper\"}, featuring several artistic perspectives of a young woman. The central portrait shows her facing forward with a warm smile, wearing a {argument name=\"clothing\" default=\"beanie and a utility jacket\"}. Two larger, ethereal profile views frame the center, one looking left and one looking right with a serene expression. At the bottom, a full-body miniature version of the woman is depicted sitting and sketching in a notebook. The background blends into a loose, urban street scene with architectural lines and trees, utilizing expressive cross-hatching, smudged shadows, and raw pencil strokes.",
+    "title": "Multi-Layered Artist Journal Sketch",
+    "description": "An artistic multi-perspective charcoal and graphite sketch of a woman on cream paper, mimicking a dynamic artist's journal aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137477_ipcfdb_HH-bjGBXUAAUJcK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19401,
+    "content": "A whimsical, folk-art-inspired illustration of a cozy cafe date featuring a young couple sharing a tray of treats. The scene is filled with vibrant floral patterns, hearts, and stars, creating a warm and romantic atmosphere. On a decorated wooden table sits a colorful tray holding two {argument name=\"drinks\" default=\"Starbucks iced coffees\"} topped with whipped cream, two {argument name=\"pastries\" default=\"intrically patterned croissants\"}, and a slice of {argument name=\"cake\" default=\"blueberry cheesecake\"}. The couple is dressed in bohemian-style clothing with embroidered details, and the background is a playful mix of abstract shapes and potted plants, all rendered in a charming, hand-drawn aesthetic.",
+    "title": "Folk Art Cafe Date Illustration",
+    "description": "A whimsical, folk-art-inspired illustration of a romantic cafe date featuring vibrant floral patterns, hearts, and Starbucks treats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486144605_muvm7c_HH-A1nAXEAACZHh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19402,
+    "content": "A giant {argument name=\"dragon\" default=\"icy-blue celestial dragon\"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name=\"girl\" default=\"extremely tall 8-feet girl\"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name=\"outfit\" default=\"dark green-black oversized check shirt\"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.",
+    "title": "Celestial Dragon Sky Fantasy",
+    "description": "A hyper-realistic fantasy prompt featuring a giant icy-blue dragon flying in a bright blue sky above a girl standing on a dirt road.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg",
+      "https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19410,
+    "content": "{argument name=\"first subject\" default=\"a sub base\"} VS. {argument name=\"second subject\" default=\"Jirai-kei fashion girl\"}",
+    "title": "Submarine Base and Jirai-kei Girl",
+    "description": "A surreal contrast prompt featuring a submarine base and a girl in Jirai-kei fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486149123_qispwx_HHTs6AlbcAAlxg_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19418,
+    "content": "{argument name=\"subject\" default=\"Cyclops\"} with an {argument name=\"accessory\" default=\"eye patch\"}",
+    "title": "Cyclops with Eye Patch",
+    "description": "A character design prompt for a cyclops wearing an eye patch, generating a unique and slightly surreal portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486155039_aft7pq_HHTqEksasAAeMmX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19387,
+    "content": "A heartwarming family-themed illustration set in a {argument name=\"setting\" default=\"vibrant outdoor meadow\"}, rendered in a {argument name=\"style\" default=\"charming crayon-and-pencil sketch style\"}. The scene captures generations coming together, from a smiling grandmother in a blue beret and floral dress to a young girl with pink bows, and a happy family enjoying a sunny picnic with their {argument name=\"animal\" default=\"pet rabbit\"}. The artwork features soft, textured coloring, cheerful expressions, and a bright, smiling sun in a blue sky, creating a whimsical and nostalgic atmosphere full of warmth and connection.",
+    "title": "Crayon and Pencil Family Illustration",
+    "description": "A charming sketch-style illustration of a family picnic in a meadow, featuring soft textures and a nostalgic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778486137548_aw2165_HH7fvMkWMAQ0ZbE.jpg",
+      "https://cms-assets.youmind.com/media/1778486135949_c07q4h_HH7fvN_WMAAlTCb.jpg",
+      "https://cms-assets.youmind.com/media/1778486137473_9xnq2u_HH68IRxXwAMuoEF.jpg",
+      "https://cms-assets.youmind.com/media/1778486136676_81wzh6_HH7fvKzXkAQb8hs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19188,
     "content": "Create a whimsical folk-art scene that combines the characters and settings of image into a unified, storybook-inspired illustration. The composition should feature both figures together in a {argument name=\"setting\" default=\"vibrant art studio filled with playful doodle aesthetics\"}, quirky {argument name=\"motifs\" default=\"cat and bird motifs\"}, and decorative floral patterns. Use a {argument name=\"palette\" default=\"bold, fresh palette of teal, magenta, and sunny yellow\"}, applying textured brush-like fills and soft, irregular outlines to give the piece an intentionally imperfect, handcrafted feel—as if sketched on white paper with paint pens and markers.",
     "title": "Whimsical Folk-Art Illustration Scene",
