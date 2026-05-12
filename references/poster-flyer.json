@@ -20,6 +20,62 @@
     "needReferenceImages": false
   },
   {
+    "id": 19611,
+    "content": "An unsettling and surreal charcoal sketch, rendered in high-contrast black and white, depicting an optical illusion where a coiled, sleeping human figure is inextricably merged with and formed by a massive, clenched human fist. The figure's bald head, with closed eyes, and curled body form the intricate knuckles and thumb area, creating a direct visual parallel between the shape of the fist and the fetal-like posture of the figure. The texture of skin and clothing is created through dense cross-hatching, smudging, and burnishing on textured paper, emphasizing the powerful, almost sculptural form. The background is a simple, blurred {argument name=\"background style\" default=\"charcoal wash\"} that makes the ambiguous, powerful object the sole focus.",
+    "title": "Surreal Charcoal Fist Sketch",
+    "description": "An unsettling optical illusion charcoal sketch where a human figure is merged with a massive clenched fist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570421708_7sxogc_HIDmID5a4AArwpQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19628,
+    "content": "A professional sports graphic design poster featuring a {argument name=\"subject\" default=\"blonde silky female soccer player\"} in three dynamic poses. The central figure is cheering with her arms raised, a secondary view shows her back with a prominent jersey number and nameplate, and the third shows her in an action stance. She is wearing a {argument name=\"jersey style\" default=\"black and white striped athletic jersey\"} with team logos. The lighting is high-contrast studio style against a {argument name=\"background\" default=\"clean, minimalist grey and white background\"} with subtle geometric overlays. The aesthetic is sharp, modern, and highly detailed, resembling a professional club announcement or promotional jersey launch, give 3:4 size image.",
+    "title": "Sports Graphic Poster and Crayon Style Drawing",
+    "description": "A versatile prompt for creating professional sports announcement posters and transforming them into childlike crayon drawings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570431912_puw7y9_HICS0UDbQAA2dlv.jpg",
+      "https://cms-assets.youmind.com/media/1778570430400_sttnbk_HICS0XNaUAA-rpE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19609,
+    "content": "Based on the traditional ink-wash painting style, create an evocative vertical composition that merges the elements from both images on textured paper. The left side features a dense, layered bamboo grove. In the center, two {argument name=\"subject\" default=\"rōnin\"} are depicted in the dark, one figure, from the back with a high ponytail, looks over their shoulder, holding a katana; the other, from the front, displays a fierce expression and is drawing his own katana. The background is a vast {argument name=\"landscape style\" default=\"shanshui\"} panorama of towering mountains and a large waterfall. All specific Chinese calligraphy, columns of small text, and multiple red seals are positioned as they were in the original images. The art style maintains expressive brushwork, high contrast, and dynamic ink splashes throughout.",
+    "title": "Ink-Wash Samurai Landscape",
+    "description": "An evocative vertical composition in traditional ink-wash style merging samurai figures with a shanshui mountain landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570421160_tkeuao_HICJEXvXQAAxba6.jpg",
+      "https://cms-assets.youmind.com/media/1778570421124_qxcqpi_HICJEXwW0AAzmEd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19623,
+    "content": "Retro 90s collage-style photography. The focal point is a woman wearing {argument name=\"accessories\" default=\"orange headphones\"}, a {argument name=\"outfit\" default=\"floral tank top, and jeans\"}, sitting cross-legged in front of a {argument name=\"setting\" default=\"pink locker\"} while holding a cassette player. She is surrounded by several miniature figurines. The scene is filled with colorful hand-drawn doodles, stickers, and nostalgic quotes. Warm orange side lighting, vibrant colors, high definition, and a blend of realistic and illustrative textures.",
+    "title": "Retro 90s Collage Photography",
+    "description": "A nostalgic prompt for a 90s-style collage photo featuring a woman with headphones and retro electronics surrounded by doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570428197_ma0klg_HIB7_VmWEAAMRDe.jpg",
+      "https://cms-assets.youmind.com/media/1778570428212_w1164j_HIB7_VkXoAIGle1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19619,
+    "content": "Ultra-stylized high-fashion editorial poster of a {argument name=\"model\" default=\"confident young Asian female model\"} standing in the center frame, elegant pose, glossy radiant skin, soft dewy makeup, long silky black hair with wispy bangs, wearing modern trendy {argument name=\"attire\" default=\"K-fashion streetwear\"} with premium styling details. Clean studio lighting with high-contrast fashion flash photography, sharp focus, ultra-detailed textures, cinematic composition. Background filled with vibrant {argument name=\"background style\" default=\"retro pop-art magazine aesthetics\"}, layered graphic typography, dynamic UI-inspired design elements, holographic chrome effects, stickers (stars, hearts, sparkles), barcode strips, speech bubbles, and futuristic collage layering. Japanese and Korean-inspired typographic accents integrated as visual design elements. Overall mood combines nostalgic 2000s teen fashion magazine energy with modern luxury editorial campaign style. Bold color harmony, premium print aesthetic, ultra crisp details, fashion advertising quality, 8K resolution, highly polished commercial poster look, surreal yet stylish, trend-forward global fashion branding vibe.",
+    "title": "High Fashion K-Style Poster",
+    "description": "A vibrant fashion poster prompt blending retro pop-art aesthetics with modern streetwear and futuristic UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570425287_g3nimt_HIBzs71aQAAtNp3.jpg",
+      "https://cms-assets.youmind.com/media/1778570425180_da09yk_HIBztAfa8AAgmOy.jpg",
+      "https://cms-assets.youmind.com/media/1778570425185_xtkiqe_HIBztMabQAAvYTY.jpg",
+      "https://cms-assets.youmind.com/media/1778570426000_of9lvu_HIBztTsaIAASfvi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19388,
     "content": "Create a multi-layered {argument name=\"medium\" default=\"charcoal and graphite sketch\"} on {argument name=\"paper\" default=\"textured cream paper\"}, featuring several artistic perspectives of a young woman. The central portrait shows her facing forward with a warm smile, wearing a {argument name=\"clothing\" default=\"beanie and a utility jacket\"}. Two larger, ethereal profile views frame the center, one looking left and one looking right with a serene expression. At the bottom, a full-body miniature version of the woman is depicted sitting and sketching in a notebook. The background blends into a loose, urban street scene with architectural lines and trees, utilizing expressive cross-hatching, smudged shadows, and raw pencil strokes.",
     "title": "Multi-Layered Artist Journal Sketch",

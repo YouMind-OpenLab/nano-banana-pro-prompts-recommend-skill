@@ -10,6 +10,81 @@
     "needReferenceImages": false
   },
   {
+    "id": 19605,
+    "content": "{\"image_description\": \"A highly detailed, photorealistic close-up selfie of a beautiful young woman with fair skin, long wavy dark brown hair, and striking facial features with glossy pink lips and subtle makeup. She is wearing a white textured peasant-style top with a deep V-neckline, ruched fabric, and side lace-up ties. The photo is taken indoors in warm, dim lighting with soft shadows on her face and body. She looks directly at the camera with a confident expression and slightly parted lips.\", \"composition\": \"Close-up portrait selfie style, focusing on her face and upper body. Warm ambient indoor lighting with gentle highlights on skin and fabric.\", \"details\": {\"woman\": \"Attractive woman in her early 20s, long dark brown hair, fair skin, expressive eyes, glossy lips, natural glamorous makeup.\", \"clothing\": \"White ruched peasant blouse with deep V-neck and side lace-up ties, delicate thin necklace.\", \"environment\": \"Dimly lit indoor setting with neutral walls and warm lighting.\", \"props\": \"None prominent.\"}, \"modifications\": {\"additions\": [\"Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or edge of the white top (near the hem or lace-up side). Use fine white or metallic thread that blends naturally as a subtle custom detail.\", \"Transform the background into a luxurious, dimly lit room featuring a huge, dramatic Francisco Goya painting (in the style of his dark romantic works like 'Saturn Devouring His Son' or 'The Third of May 1808') as the dominant backdrop element. The large ornate-framed painting should cover most of the wall behind her, adding a moody, artistic, and slightly gothic atmosphere.\"]}, \"style\": \"Photorealistic, high-resolution glamour selfie photography, warm intimate lighting, sharp focus on the woman with soft background depth, realistic skin texture and fabric details, cinematic mood.\", \"technical\": {\"resolution\": \"8K\", \"aspect_ratio\": \"portrait\", \"quality\": \"Extremely detailed hair strands, skin pores and glow, fabric texture on the white top, realistic lace-up ties, and high-fidelity reproduction of the Goya painting in the background.\"}, \"full_prompt\": \"Photorealistic close-up selfie of a beautiful young woman with long dark brown hair wearing a white deep V-neck peasant blouse with lace-up sides, confident expression, warm dim indoor lighting, huge dramatic Francisco Goya painting as the main backdrop on the wall behind her, add subtle embroidered 'Keor' on the border of the white top --ar 2:3 --v 6 --q 2 --stylize 300\"}",
+    "title": "Glamour Selfie with Goya Backdrop",
+    "description": "A high-fidelity prompt for a photorealistic selfie of a woman in a white peasant blouse with a dramatic Francisco Goya painting in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570418268_y9s901_HIDBzN7XoAAsXPV.jpg",
+      "https://cms-assets.youmind.com/media/1778570418348_h8yn9b_HIDBzZhXkAAmtLa.jpg",
+      "https://cms-assets.youmind.com/media/1778570417574_a3diip_HIDBzhwXkAAeVsU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19625,
+    "content": "A hyper-photorealistic late-night bedroom flash selfie of the {argument name=\"subject\" default=\"same subject in the attached reference image\"}, preserving exact facial features, natural asymmetry, authentic proportions, and original facial identity without beautification or facial reinterpretation. SCENE: Subject sitting close to the phone camera in a {argument name=\"environment\" default=\"dim bedroom at night\"}, resting one cheek into her hand while looking directly into the lens with a relaxed soft gaze and naturally parted glossy lips. The moment should feel quiet, tired, and casually self-captured, like she paused while scrolling before sleep rather than posing for a beauty shot. CAMERA / SMARTPHONE LOGIC: Shot on an iPhone 15 Pro front camera using direct flash. Ultra-sharp smartphone rendering with subtle computational artifacts. No DSLR blur. No cinematic grading. Visible smartphone characteristics: direct flash flattening facial shadows and brightening nearby skin, minor edge sharpening around cap embroidery, lashes, hair strands, lips, and fingers, slight front-camera facial widening from close distance, tiny JPEG softness in dark curtain folds, slight highlight clipping on nose bridge, cheek, lips, and fingertips, noise reduction smoothing in shadow-heavy background areas, natural handheld framing with imperfect close crop. CANDID MOVEMENT: Subject should feel naturally paused mid-rest: cheek softly place at the palm, fingers slightly uneven against the face, lips naturally parted, cap sitting low and imperfect, hair strands falling randomly across cheeks and shoulders. Keep face sharp while allowing subtle softness on loose hair tips and curtain background. LIGHTING: Harsh compact phone flash mixed with dim bedroom ambient light. Foreground face and hand appear bright while curtains and bedding fall into dark muted shadows. SKIN / TEXTURE: Natural pale skin with visible pores, soft cheek warmth, realistic under-eye depth, glossy lip texture, and mild flash-induced smoothing on brightest areas. Preserve tactile realism instead of porcelain AI skin. HAIR / MAKEUP: Long dark slightly messy hair with wispy bangs and flyaways. Soft Korean-inspired makeup with glossy pink lips, subtle blush, thin eyeliner, defined lashes, natural brows, and faint aegyo-sal catching flash. OUTFIT / STYLING: {argument name=\"clothing\" default=\"Black baseball cap with white embroidered logo, simple beige tank top straps\"}, minimal jewelry. Styling should feel casual, private, and late-night rather than fashion-editorial. ENVIRONMENT: Dim bedroom with dark curtains, soft bedding, and shadow-heavy background. Space should feel quiet, personal, and lived-in without luxury studio polish. COMPOSITION: Close-up selfie framing with subject centered slightly low. Cap brim creates curved shadow geometry over forehead. Hand and forearm dominate lower center from close camera distance. Hair frames both sides of the face. Slightly imperfect spontaneous crop typical of private nighttime phone selfies.",
+    "title": "Hyper-Photorealistic Bedroom Flash Selfie",
+    "description": "A detailed prompt for creating a realistic late-night selfie with smartphone camera artifacts and harsh direct flash lighting, maintaining subject identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570428792_wkj3to_HICmzA-bcAEwZmI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19606,
+    "content": "A high-resolution, close-up portrait of a woman with sleek, {argument name=\"hair tone\" default=\"silver-toned\"} hair parted down the middle and pulled back. She features a soft, natural makeup look with prominent pink lipstick and light blue eyes, gazing directly at the camera with a serene expression. Her hand is gracefully positioned near her neck, and she is wearing a textured, {argument name=\"clothing\" default=\"lime green blazer\"} that matches the {argument name=\"background\" default=\"solid green background\"}, creating a clean and modern monochromatic aesthetic.",
+    "title": "Silver Hair Woman in Lime Green Blazer",
+    "description": "A monochromatic close-up portrait of a woman with silver-toned hair wearing a lime green blazer against a matching background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570419143_1y41lc_HICWYV5XoAAt3L6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19415,
+    "content": "Create a design for puffy stickers of a chibi character from the chest up.\n\nA collection of expressions for the chibi character (normal, smiling, angry, sad, happy, surprised) should be gathered into a single image, with individual stickers separated and placed randomly.\n\nFont: A rounded, pop, and cute design\nFont Gradient: \"Any color\"\nText: Place only one instance of \"{argument name=\"text\" default=\"any word\"}\"\nMotif: Place \"{argument name=\"motif\" default=\"any motif\"}\" as separate stickers, arranged randomly\nBackground Color: \"{argument name=\"background color\" default=\"any color\"}\"\nSize: 9:16",
+    "title": "Puffy Chibi Sticker Sheet",
+    "description": "Generates a complete sheet of adorable, 3D-style puffy stickers with various expressions for a single chibi character, including custom text and motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570433707_81s5c4_HIBZu-BbQAARVHN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19627,
+    "content": "Turn {argument name=\"subject\" default=\"modern street fashion\"} into {argument name=\"style\" default=\"classical oil paintings\"}. 17th-century portrait aesthetics with {argument name=\"detail\" default=\"realistic fabric and lighting\"}.",
+    "title": "Fashion Oil Painting Aesthetic",
+    "description": "Experimenting with turning modern street fashion into classical 17th-century oil portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570430414_w45ebq_HIBDk0oaYAAykcH.jpg",
+      "https://cms-assets.youmind.com/media/1778570431946_1qbfjh_HIBDk0nbsAAjyfS.jpg",
+      "https://cms-assets.youmind.com/media/1778570430468_0a123b_HIBDk0nb0AAmkbt.jpg",
+      "https://cms-assets.youmind.com/media/1778570432014_xaqsn9_HIBDk0lasAEaPqp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19626,
+    "content": "Ultra-realistic 8K close-up portrait of a {argument name=\"subject\" default=\"rugged man\"} with {argument name=\"skin texture\" default=\"wet skin\"} glistening under dramatic cinematic lighting. Intense focus on one eye with sharp {argument name=\"eye color\" default=\"blue\"} iris detail, wet strands of hair falling across the face, moisture droplets illuminated by warm orange and golden highlights. Strong texture of skin and beard captured with extreme clarity, high contrast between light and shadow, evoking a powerful and dramatic atmosphere. Hyper-detailed, photorealistic, cinematic style.",
+    "title": "Rugged Man Wet Skin Portrait",
+    "description": "An ultra-realistic 8K close-up of a rugged man with moisture-glistening skin and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570429841_lcw38t_HH-HZhvXQAE83hP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19622,
+    "content": "Creat a 64k hyper-realistic portrait cinematic image with dramatic cool actions.(uploaded photo 100% face match) of a {argument name=\"subject\" default=\"young girl\"} modern hairstyle (use my face 100% accurate) se wearing a {argument name=\"outfit\" default=\"baggy denim pants and off versity jacket\"} and {argument name=\"footwear\" default=\"NB sneakers\"}, a cool dark sunglasses, he standing middle of a glass bridge on hill he laining the reling of brize, the background is greenary cinematic, very little fog appears, Don't Change The Face\" \"Keep Facial Features Same",
+    "title": "Cinematic Glass Bridge Portrait",
+    "description": "A prompt for a hyper-realistic portrait of a girl on a glass bridge, designed to maintain facial features from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570427540_z7nue8_HIAZAQ2a4AAK4lL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19408,
     "content": "Create a low-resolution vertical webcam photo in a 3x1 grid with a 3:4 aspect ratio using the character in the picture. The photo should fill the canvas without borders with photobooth vibe. The screen light is warm and dim, with a grainy/noisy style and a simple, cozy bedroom background. \nFirst grid: Exaggerated pout, finger near the lips, black off-shoulder top",
     "title": "Webcam photobooth grid portrait",

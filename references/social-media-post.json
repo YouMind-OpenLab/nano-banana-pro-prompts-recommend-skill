@@ -41,14 +41,78 @@
     "needReferenceImages": false
   },
   {
-    "id": 19406,
-    "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"identity\": \"female\",\n      \"features\": [\"creamy face\", \"glowing skin\", \"long dark wavy hair\"],\n      \"expression\": \"serene\",\n      \"pose\": \"walking forward\",\n      \"attire\": {\n        \"style\": \"Traditional Desi / South Asian\",\n        \"piece\": \"{argument name=\"attire piece\" default=\"Anarkali suit with dupatta and churidar\"}\",\n        \"color_palette\": [\"{argument name=\"color 1\" default=\"olive green\"}\", \"{argument name=\"color 2\" default=\"deep maroon\"}\", \"gold embroidery\"],\n        \"footwear\": \"matching jutti/khussa\"\n      }\n    },\n    \"environment\": {\n      \"setting\": \"lush fruit garden\",\n      \"elements\": [\"fig trees\", \"pomegranate trees\", \"stone path\"],\n      \"fauna\": [\"small morning birds on branches\"],\n      \"lighting\": \"soft morning light\",\n      \"atmosphere\": \"misty\",\n      \"exclusions\": [\"direct sunlight\", \"urban background\", \"modern buildings\"]\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k\",\n      \"quality\": \"high-definition (HD)\",\n      \"style\": \"photorealistic\",\n      \"lens_effect\": \"soft bokeh background\",\n      \"aspect_ratio\": \"4:5\"\n    }\n  }\n}",
-    "title": "Traditional South Asian Anarkali suit portrait",
-    "description": "A photorealistic prompt for a serene female subject walking in a lush fruit garden wearing a traditional olive green and deep maroon Anarkali suit.",
+    "id": 19625,
+    "content": "A hyper-photorealistic late-night bedroom flash selfie of the {argument name=\"subject\" default=\"same subject in the attached reference image\"}, preserving exact facial features, natural asymmetry, authentic proportions, and original facial identity without beautification or facial reinterpretation. SCENE: Subject sitting close to the phone camera in a {argument name=\"environment\" default=\"dim bedroom at night\"}, resting one cheek into her hand while looking directly into the lens with a relaxed soft gaze and naturally parted glossy lips. The moment should feel quiet, tired, and casually self-captured, like she paused while scrolling before sleep rather than posing for a beauty shot. CAMERA / SMARTPHONE LOGIC: Shot on an iPhone 15 Pro front camera using direct flash. Ultra-sharp smartphone rendering with subtle computational artifacts. No DSLR blur. No cinematic grading. Visible smartphone characteristics: direct flash flattening facial shadows and brightening nearby skin, minor edge sharpening around cap embroidery, lashes, hair strands, lips, and fingers, slight front-camera facial widening from close distance, tiny JPEG softness in dark curtain folds, slight highlight clipping on nose bridge, cheek, lips, and fingertips, noise reduction smoothing in shadow-heavy background areas, natural handheld framing with imperfect close crop. CANDID MOVEMENT: Subject should feel naturally paused mid-rest: cheek softly place at the palm, fingers slightly uneven against the face, lips naturally parted, cap sitting low and imperfect, hair strands falling randomly across cheeks and shoulders. Keep face sharp while allowing subtle softness on loose hair tips and curtain background. LIGHTING: Harsh compact phone flash mixed with dim bedroom ambient light. Foreground face and hand appear bright while curtains and bedding fall into dark muted shadows. SKIN / TEXTURE: Natural pale skin with visible pores, soft cheek warmth, realistic under-eye depth, glossy lip texture, and mild flash-induced smoothing on brightest areas. Preserve tactile realism instead of porcelain AI skin. HAIR / MAKEUP: Long dark slightly messy hair with wispy bangs and flyaways. Soft Korean-inspired makeup with glossy pink lips, subtle blush, thin eyeliner, defined lashes, natural brows, and faint aegyo-sal catching flash. OUTFIT / STYLING: {argument name=\"clothing\" default=\"Black baseball cap with white embroidered logo, simple beige tank top straps\"}, minimal jewelry. Styling should feel casual, private, and late-night rather than fashion-editorial. ENVIRONMENT: Dim bedroom with dark curtains, soft bedding, and shadow-heavy background. Space should feel quiet, personal, and lived-in without luxury studio polish. COMPOSITION: Close-up selfie framing with subject centered slightly low. Cap brim creates curved shadow geometry over forehead. Hand and forearm dominate lower center from close camera distance. Hair frames both sides of the face. Slightly imperfect spontaneous crop typical of private nighttime phone selfies.",
+    "title": "Hyper-Photorealistic Bedroom Flash Selfie",
+    "description": "A detailed prompt for creating a realistic late-night selfie with smartphone camera artifacts and harsh direct flash lighting, maintaining subject identity from a reference image.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778486147352_8d1tk5_HH_2Z9sbgAAKx1Q.jpg"
+      "https://cms-assets.youmind.com/media/1778570428792_wkj3to_HICmzA-bcAEwZmI.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 19628,
+    "content": "A professional sports graphic design poster featuring a {argument name=\"subject\" default=\"blonde silky female soccer player\"} in three dynamic poses. The central figure is cheering with her arms raised, a secondary view shows her back with a prominent jersey number and nameplate, and the third shows her in an action stance. She is wearing a {argument name=\"jersey style\" default=\"black and white striped athletic jersey\"} with team logos. The lighting is high-contrast studio style against a {argument name=\"background\" default=\"clean, minimalist grey and white background\"} with subtle geometric overlays. The aesthetic is sharp, modern, and highly detailed, resembling a professional club announcement or promotional jersey launch, give 3:4 size image.",
+    "title": "Sports Graphic Poster and Crayon Style Drawing",
+    "description": "A versatile prompt for creating professional sports announcement posters and transforming them into childlike crayon drawings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570431912_puw7y9_HICS0UDbQAA2dlv.jpg",
+      "https://cms-assets.youmind.com/media/1778570430400_sttnbk_HICS0XNaUAA-rpE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19629,
+    "content": "A hyper-realistic 8K cinematic portrait of a {argument name=\"subject\" default=\"beautiful young woman with voluminous dark hair\"} and perfectly styled features, keeping 100% original face reference and hairstyle with no alteration or blur. She is sitting confidently cross-legged in a {argument name=\"furniture\" default=\"vintage leather armchair\"}. She is wearing a {argument name=\"outfit\" default=\"textured deep burgundy button-down shirt, light grey tailored trousers\"}, and elegant black sneakers. The composition features a {argument name=\"effect\" default=\"‘shattered reality’ effect\"} with multiple floating holographic glass shards and neon violet and electric blue frames surrounding her, each displaying different angles and poses of the same woman. The background is dark and atmospheric, filled with glowing violet and cyan particles and geometric light streaks. At the floor level, thick swirling pink and soft golden mystical smoke rises. Dramatic rim lighting, professional 85mm lens style, high contrast, ultra-detailed textures, digital art masterpiece aesthetic.",
+    "title": "Shattered Reality Cinematic Portrait",
+    "description": "A hyper-realistic cinematic portrait with a holographic 'shattered reality' effect and glowing neon frames.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570433173_d4576w_HIB-XWPXcAAUSRI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19630,
+    "content": "A cinematic ultra-realistic noir portrait of a {argument name=\"subject\" default=\"stylish, charismatic man\"} wearing a tailored dark brown high-neck suit and sleek oval sunglasses. He stands with calm authority and a mysterious, unreadable expression, exuding confidence and danger. Between his fingers, he holds a {argument name=\"object\" default=\"burning 'King of Hearts' playing card\"}, its edges curling and glowing as vivid flames rise intensely from the card. In his other hand or between his lips, he {argument name=\"action\" default=\"smokes a thin medium cigar\"}, with thick swirling smoke drifting upward and blending dramatically with the firelight. The flames cast a warm orange and amber glow across one side of his face, creating a striking contrast against the cool shadows on the other side. His skin texture is hyper-detailed, with subtle pores, realistic facial contours, and refined masculine features. The background is dark, blurred, and atmospheric, with a moody low-key cinematic setup that enhances the mysterious noir tone. Shot with a 35mm lens look, shallow depth of field, soft bokeh, razor-sharp focus on the face, hand, cigar, and burning card. High contrast, rich shadow detail, professional cinematic lighting, editorial fashion-film quality, dark luxurious mood, intense smoke layering, dramatic composition, polished noir aesthetic, visually unforgettable.",
+    "title": "Noir Man with Burning Card",
+    "description": "A cinematic ultra-realistic noir portrait of a charismatic man with a burning playing card and moody cigar smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570433653_mnlx5j_HH-HjwNWcAAZ36-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19624,
+    "content": "usw image1 as the main identity anchor\n\n{\"meta\":{\"image_quality\":\"High\",\"image_type\":\"Screenshot\",\"resolution_estimation\":\"1920x1080\",\"file_characteristics\":{\"compression_artifacts\":\"Low\",\"noise_level\":\"Low\",\"lens_type_estimation\":\"Medium telephoto\"}},\"global_context\":{\"scene_description\":\"A medium shot of a {argument name=\"subject\" default=\"young woman with long dark hair\"} sitting in a crowded arena, likely a basketball game, with an {argument name=\"overlay type\" default=\"ESPN broadcast overlay\"} at the bottom and top right.\",\"environment_type\":\"Indoor arena\",\"time_of_day\":\"Unknown\",\"weather_atmosphere\":\"Crowded, indoor lighting\",\"lighting\":{\"source\":\"Artificial arena lighting\",\"direction\":\"Frontal, slightly overhead\",\"quality\":\"Soft, diffused\",\"color_temperature\":\"Neutral\"},\"color_palette\":{\"dominant_hex_estimates\":[\"#1a1a1a\",\"#333333\",\"#ffffff\"],\"accent_colors\":[\"#fdb927\",\"#007a33\"],\"contrast_level\":\"Medium\"}},\"composition\":{\"camera_angle\":\"Eye-level\",\"framing\":\"Medium shot\",\"depth_of_field\":\"Shallow\",\"focal_point\":\"The woman's face\",\"symmetry_type\":\"None\",\"rule_of_thirds_alignment\":\"Woman's face is positioned in the upper right quadrant\"},\"objects\":[{\"id\":\"obj_001\",\"label\":\"Woman\",\"category\":\"Person\",\"location\":{\"relative_position\":\"Center\",\"bounding_box_percentage\":{\"x\":0.25,\"y\":0.05,\"width\":0.5,\"height\":0.9}},\"dimensions_relative\":\"Large\",\"distance_from_camera\":\"Near\",\"pose_orientation\":\"Facing slightly right, head turned towards the left\",\"material\":\"Skin, hair, fabric\",\"surface_properties\":{\"texture\":\"Smooth skin, wavy hair\",\"reflectivity\":\"Low\",\"micro_details\":\"Natural skin texture, subtle makeup\",\"wear_state\":\"N/A\"},\"color_details\":{\"base_color_hex\":\"#d2b48c\",\"secondary_colors\":[\"#000000\"],\"gradient_or_pattern\":\"None\"},\"interaction_with_light\":{\"shadow_casting\":\"Soft shadows under chin and nose\",\"highlight_zones\":\"Cheekbones, nose bridge, lips\",\"translucency\":\"None\"},\"text_content\":null,\"relationships\":[]},{\"id\":\"obj_002\",\"label\":\"ESPN Scoreboard Overlay\",\"category\":\"UI elements\",\"location\":{\"relative_position\":\"Bottom center\",\"bounding_box_percentage\":{\"x\":0.25,\"y\":0.85,\"width\":0.5,\"height\":0.15}},\"dimensions_relative\":\"Medium\",\"distance_from_camera\":\"Overlay\",\"pose_orientation\":\"Flat\",\"material\":\"Digital graphic\",\"surface_properties\":{\"texture\":\"Smooth\",\"reflectivity\":\"None\",\"micro_details\":\"Sharp typography\",\"wear_state\":\"N/A\"},\"color_details\":{\"base_color_hex\":\"#000000\",\"secondary_colors\":[\"#fdb927\",\"#007a33\",\"#ffffff\"],\"gradient_or_pattern\":\"Solid color blocks\"},\"interaction_with_light\":{\"shadow_casting\":\"None\",\"highlight_zones\":\"None\",\"translucency\":\"Slightly opaque\"},\"text_content\":{\"raw_text\":\"{argument name=\"scoreboard text\" default=\"LAL 51 BOS 43 2ND 3:31 24 NBA WEDNESDAY\"}\",\"font_style\":\"Sans-serif\",\"font_weight\":\"Bold\",\"text_case\":\"Uppercase\",\"alignment\":\"Center\",\"color_hex\":\"#ffffff\"},\"relationships\":[]}],\"background_details\":{\"texture\":\"Blurred crowd\",\"patterns\":\"None\",\"lighting_behavior\":\"Out of focus\",\"additional_elements\":[\"Person holding a plastic cup on the left\"]}}",
+    "title": "Basketball Arena Broadcast Portrait",
+    "description": "A complex structured prompt in JSON format to generate a broadcast-style image of a woman at a basketball game, complete with UI overlays and arena lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570429056_v1z0au_HIBL06KbcAASXvc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19627,
+    "content": "Turn {argument name=\"subject\" default=\"modern street fashion\"} into {argument name=\"style\" default=\"classical oil paintings\"}. 17th-century portrait aesthetics with {argument name=\"detail\" default=\"realistic fabric and lighting\"}.",
+    "title": "Fashion Oil Painting Aesthetic",
+    "description": "Experimenting with turning modern street fashion into classical 17th-century oil portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570430414_w45ebq_HIBDk0oaYAAykcH.jpg",
+      "https://cms-assets.youmind.com/media/1778570431946_1qbfjh_HIBDk0nbsAAjyfS.jpg",
+      "https://cms-assets.youmind.com/media/1778570430468_0a123b_HIBDk0nb0AAmkbt.jpg",
+      "https://cms-assets.youmind.com/media/1778570432014_xaqsn9_HIBDk0lasAEaPqp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19626,
+    "content": "Ultra-realistic 8K close-up portrait of a {argument name=\"subject\" default=\"rugged man\"} with {argument name=\"skin texture\" default=\"wet skin\"} glistening under dramatic cinematic lighting. Intense focus on one eye with sharp {argument name=\"eye color\" default=\"blue\"} iris detail, wet strands of hair falling across the face, moisture droplets illuminated by warm orange and golden highlights. Strong texture of skin and beard captured with extreme clarity, high contrast between light and shadow, evoking a powerful and dramatic atmosphere. Hyper-detailed, photorealistic, cinematic style.",
+    "title": "Rugged Man Wet Skin Portrait",
+    "description": "An ultra-realistic 8K close-up of a rugged man with moisture-glistening skin and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570429841_lcw38t_HH-HZhvXQAE83hP.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 19391,

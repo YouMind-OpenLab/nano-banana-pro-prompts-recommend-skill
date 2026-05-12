@@ -21,6 +21,178 @@
     "needReferenceImages": true
   },
   {
+    "id": 19614,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"character name\" default=\"Sabrina Carpenter\"}\",\n      \"appearance\": \"Shoulder-length hair parted in the middle with soft face-framing layers, gentle natural smile, relaxed expression, looking at the camera\",\n      \"details\": \"Minimal natural makeup, glossy pink lips\"\n    },\n    \"clothing\": \"{argument name=\"dress style\" default=\"Short light blue dress with soft pink rose floral pattern\"}, sweetheart ruffled neckline, short ruffled sleeves, delicate bow at the bust, lightly gathered hem, pink semi-transparent lace thigh-high stockings\",\n    \"body_type\": \"Curvy, soft and feminine body with harmonious proportions\",\n    \"pose\": \"Sitting comfortably on a bed, leaning slightly backward with arms extended behind for support, hands on the bed, bent legs facing the camera, one leg lightly crossed over the other\",\n    \"setting\": \"Indoor bedroom with plain white walls, closed brown door, made bed with neutral plaid comforter and wrinkled bedding\",\n    \"props\": [\n      \"Plaid comforter\",\n      \"White pillows\",\n      \"Brown interior door\"\n    ],\n    \"lighting\": \"Strong direct frontal flash-style lighting, bright crisp illumination on the subject, sharp hard shadows on wall and door behind, strong contrast with darker environment\",\n    \"mood\": \"Casual, relaxed, intimate, spontaneous, domestic portrait\",\n    \"technical\": {\n      \"camera\": \"Medium shot, modern smartphone, eye-level angle, framed from mid-calf upward\",\n      \"style\": \"Photorealistic lifestyle photography with flash aesthetic\",\n      \"quality\": \"Highly detailed, sharp focus, realistic lighting and shadows, professional high resolution\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "title": "Lifestyle Bedroom Portrait Photography",
+    "description": "A casual, intimate indoor portrait prompt featuring a subject in a light blue floral dress in a bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570422672_ht1ioj_HIE2sUKX0AA3Kya.jpg",
+      "https://cms-assets.youmind.com/media/1778570422667_kiynb9_HIE2sW0XkAEUlfm.jpg",
+      "https://cms-assets.youmind.com/media/1778570422779_4c3cy4_HIE2se_WsAEuSwK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19620,
+    "content": "{\n  \"image_prompt_data\": {\n    \"subject\": {\n      \"demographics\": \"{argument name=\"subject\" default=\"Young athletic woman\"}\",\n      \"hair\": {\n        \"style\": \"Hair tied back naturally with soft loose strands around face\"\n      },\n      \"appearance\": {\n        \"skin_tone\": \"Natural warm fair skin with sunlit athletic glow\",\n        \"skin_detail\": \"Ultra-realistic skin texture with visible pores, subtle sweat sheen, natural outdoor highlights and realistic facial shadows\",\n        \"makeup\": \"Minimal sporty makeup with soft matte skin, lightly flushed cheeks and natural lips\"\n      },\n      \"facial_expression\": {\n        \"eyes\": \"Direct confident gaze toward camera\",\n        \"eyebrows\": \"Relaxed athletic expression\",\n        \"lips\": \"Soft neutral lips\",\n        \"overall_expression\": \"Confident sporty editorial mood with calm feminine energy\"\n      }\n    },\n    \"attire\": {\n      \"outfit\": {\n        \"top\": \"{argument name=\"top\" default=\"Red and white striped football jersey\"}\",\n        \"bottom\": \"{argument name=\"bottom\" default=\"Black sporty mini skirt\"}\",\n        \"style\": \"Modern sporty streetwear aesthetic\",\n        \"details\": \"Realistic breathable fabric texture with natural folds and outdoor movement\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"Outdoor football court surrounded by fencing\",\n      \"details\": {\n        \"net\": \"Large rope goal net in foreground framing subject\",\n        \"background\": \"Blue sky with metal court fencing\",\n        \"atmosphere\": \"Warm sunny afternoon sports editorial vibe\"\n      }\n    },\n    \"composition\": {\n      \"type\": \"Sport fashion editorial photography\",\n      \"camera_angle\": \"Low-angle perspective shot through goal net\",\n      \"framing\": \"Vertical composition with dynamic net framing\",\n      \"pose\": {\n        \"body_position\": \"Standing close behind football net\",\n        \"arms\": \"Hands gripping net naturally above and beside body\",\n        \"head\": \"Slightly tilted downward toward camera\",\n        \"posture\": \"Confident athletic pose with natural body tension\"\n      }\n    },\n    \"lighting\": {\n      \"type\": \"Natural golden outdoor sunlight\",\n      \"primary_source\": \"Warm direct sunlight from upper side\",\n      \"shadow_behavior\": {\n        \"style\": \"Sharp realistic outdoor shadows\",\n        \"contrast\": \"Balanced cinematic contrast with realistic depth\"\n      },\n      \"highlights\": \"Sunlit highlights on skin, jersey texture and net ropes\",\n      \"environmental_light\": \"Natural sky bounce light softening facial shadows\",\n      \"realism_notes\": \"Preserve authentic outdoor sunlight behavior, realistic skin reflections and natural sports editorial atmosphere\"\n    },\n    \"camera_settings\": {\n      \"camera_type\": \"Full-frame mirrorless camera\",\n      \"lens\": \"35mm wide-angle lens\",\n      \"aperture\": \"f/2.8\",\n      \"shutter_speed\": \"1/1000 sec\",\n      \"iso\": \"100\",\n      \"focus\": \"Sharp focus on subject with slight background softness\"\n    },\n    \"realism_filter\": {\n      \"type\": \"Sport cinematic realism\"\n    }\n  }\n}",
+    "title": "Sporty Football Net Editorial",
+    "description": "A creative sports fashion prompt capturing an athletic woman through the netting of a football goal in natural sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570426251_2ecdq6_HIDQfHfaQAAErNt.jpg",
+      "https://cms-assets.youmind.com/media/1778570426248_i9e3pt_HIDQgcvbYAEkm-6.jpg",
+      "https://cms-assets.youmind.com/media/1778570426589_v4dfvb_HIDQhLzakAAtbOB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19618,
+    "content": "atmospheric studio action shot, dark solid background, harsh high-contrast flash, frozen motion, {argument name=\"lens\" default=\"SUPER wide-angle 16mm lens\"}, {argument name=\"subject\" default=\"beautiful young brunette in a black top\"} clapping her hands, a {argument name=\"effect\" default=\"cloud of flour\"} explodes around her, creating a textured haze, flour particles flying toward the camera, very large and close-up, some motion blur",
+    "title": "Flour Explosion Action Photography",
+    "description": "An action-oriented prompt capturing the motion of flour particles exploding during a high-contrast studio shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570425501_v9n9s6_HIC1slrakAAXNH9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19606,
+    "content": "A high-resolution, close-up portrait of a woman with sleek, {argument name=\"hair tone\" default=\"silver-toned\"} hair parted down the middle and pulled back. She features a soft, natural makeup look with prominent pink lipstick and light blue eyes, gazing directly at the camera with a serene expression. Her hand is gracefully positioned near her neck, and she is wearing a textured, {argument name=\"clothing\" default=\"lime green blazer\"} that matches the {argument name=\"background\" default=\"solid green background\"}, creating a clean and modern monochromatic aesthetic.",
+    "title": "Silver Hair Woman in Lime Green Blazer",
+    "description": "A monochromatic close-up portrait of a woman with silver-toned hair wearing a lime green blazer against a matching background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570419143_1y41lc_HICWYV5XoAAt3L6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19628,
+    "content": "A professional sports graphic design poster featuring a {argument name=\"subject\" default=\"blonde silky female soccer player\"} in three dynamic poses. The central figure is cheering with her arms raised, a secondary view shows her back with a prominent jersey number and nameplate, and the third shows her in an action stance. She is wearing a {argument name=\"jersey style\" default=\"black and white striped athletic jersey\"} with team logos. The lighting is high-contrast studio style against a {argument name=\"background\" default=\"clean, minimalist grey and white background\"} with subtle geometric overlays. The aesthetic is sharp, modern, and highly detailed, resembling a professional club announcement or promotional jersey launch, give 3:4 size image.",
+    "title": "Sports Graphic Poster and Crayon Style Drawing",
+    "description": "A versatile prompt for creating professional sports announcement posters and transforming them into childlike crayon drawings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570431912_puw7y9_HICS0UDbQAA2dlv.jpg",
+      "https://cms-assets.youmind.com/media/1778570430400_sttnbk_HICS0XNaUAA-rpE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19615,
+    "content": "Ultra realistic sports photography, {argument name=\"subject\" default=\"young East Asian female archer\"} standing in a crowded indoor arena during a live competition, slim toned body, pale porcelain skin, delicate Korean visual beauty, soft oval face, straight black hair tied in a low ponytail with loose face-framing strands, calm confident expression, slight smile, focused elegant gaze. Natural Korean glass-skin makeup, smooth dewy skin, soft peach blush, subtle eyeliner, long lashes, gradient coral-red lips. Wearing a fitted cropped royal-blue archery jersey with white trim, short sleeves, white athletic chest guard strapped diagonally across the torso, exposed waistline with toned abs, matching blue athletic skirt/pants with thin white stripe details, black waist belt, sporty professional archery styling. Holding a modern {argument name=\"bow type\" default=\"black-and-red recurve bow\"} vertically in the right hand with visible stabilizer and sight details, arrows gathered in left hand, relaxed elegant posture, body slightly angled, shoulders relaxed, standing confidently after a shot. Background filled with blurred audience, photographers, colorful arena bokeh lights, {argument name=\"atmosphere\" default=\"live sports event atmosphere\"}, teammates in matching blue uniforms softly out of focus. Cinematic indoor stadium lighting, soft spotlight on subject, realistic shadows, high contrast between subject and dark crowd, shallow depth of field, telephoto lens compression, natural motion blur in background, premium broadcast photography look, ultra detailed skin texture, realistic fabric folds, glossy lighting reflections, 85mm sports portrait lens, f/1.8, HDR, 8K, candid professional competition moment.",
+    "title": "Realistic Sports Photography Archer",
+    "description": "A detailed prompt for generating a high-quality, ultra-realistic sports portrait of a female archer in an indoor arena, focusing on skin texture, lighting, and athletic attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570423930_i20oit_HICSbZJaQAA9oRX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19608,
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"description\": \"Young woman\",\n      \"hair\": \"Extremely long, voluminous straight hair with loose waves at the ends, flowing freely past the waist, draped over one shoulder and cascading down, silky high-shine texture.\",\n      \"face\": \"Looking back over the shoulder toward camera with a smoldering intense gaze, soft parted lips, defined sculpted brows, sultry smoky eye makeup, contoured cheekbones, luminous skin.\",\n      \"body\": \"Slender athletic hourglass physique, toned and curvaceous, long legs, defined waist, fully showcased by the form-fitting outfit.\"\n    },\n    \"attire\": {\n      \"clothing\": \"{argument name=\"outfit color\" default=\"Bubblegum pink\"} skintight bandage-style mini dress — ultra form-fitting stretch fabric hugging every curve, sleeveless with a modest crew neckline, hem ending at mid-thigh. Matching bubblegum pink platform stiletto heels with multiple ankle and shin strap cutout details, extremely high platform sole, strappy and architectural.\",\n      \"style\": \"Y2K Bodycon, Maximalist Monochrome, Club Fashion, Bold Feminine.\"\n    },\n    \"styling_and_accessories\": {\n      \"jewelry\": [\n        \"Small cross pendant necklace\",\n        \"Chain bracelet on wrist\",\n        \"Small delicate earrings\",\n        \"Fresh flower bouquet — daisies held loosely near the sofa and a pink Louis Vuitton bag\"\n      ]\n    },\n    \"environment\": {\n      \"setting\": \"Dimly lit lounge or bar interior, posed on a dark leather sofa.\",\n      \"background\": \"Dark charcoal grey wall with a large framed oil painting of the man uploaded hanging above — depicting a futuristic scene\\nA. Wooden golden frame border around the artwork. Dark moody bar atmosphere.\"\n    },\n    \"pose\": {\n      \"posture\": \"Kneeling on the leather sofa in a relaxed reclined position, torso upright, looking back over the shoulder toward camera.\"\n    },\n    \"lighting_and_mood\": {\n      \"lighting\": \"Moody low-key bar lighting, warm amber and dim atmospheric light, subtle rim light catching the hair and shoulders, dark shadows filling the background.\",\n      \"mood\": \"Sultry, bold, darkly glamorous — confident and magnetic nightlife energy.\"\n    }\n  }\n}",
+    "title": "Pink Y2K Bodycon Nightlife Editorial",
+    "description": "A detailed prompt for a nightlife fashion editorial featuring a woman in a bubblegum pink bandage dress on a leather sofa.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570419921_6wbt3d_HICQfb1XgAAMQmz.jpg",
+      "https://cms-assets.youmind.com/media/1778570419908_kyd1bh_HICQfj3WMAAfswH.jpg",
+      "https://cms-assets.youmind.com/media/1778570420110_aw5jcm_HICQfqvW0AAWano.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19612,
+    "content": "A highly detailed portrait of a beautiful young woman with fair freckled skin, striking {argument name=\"eye color\" default=\"green eyes\"}, and long voluminous wavy red hair cascading over her shoulders, wearing a traditional outfit consisting of a vibrant {argument name=\"outfit color\" default=\"orange\"} sleeveless choli blouse with intricate gold embroidery and small decorative studs, paired with green fabric accents on the shoulders and a matching green choker necklace. She has a small green bindi on her forehead, subtle makeup, and is adorned with elaborate gold and green bangles on both wrists, along with a delicate thin waist chain and an ornate embroidered belt featuring green, orange, and gold floral patterns around her waist. She stands confidently in front of a rich dark green draped curtain backdrop, with one hand placed on her thigh and the other near her waist, gazing directly at the viewer with a gentle expression. Soft studio lighting highlights the textures of the fabrics, jewelry, and her hair. Cinematic realistic photography style, sharp focus, high resolution.",
+    "title": "Traditional Indian Outfit Portrait",
+    "description": "A detailed portrait prompt for a young woman in a vibrant traditional Indian outfit with intricate gold embroidery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570422548_ekf1p6_HICBbGlacAAPY9O.jpg",
+      "https://cms-assets.youmind.com/media/1778570422564_if9hjq_HICBbIGasAAItrd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19619,
+    "content": "Ultra-stylized high-fashion editorial poster of a {argument name=\"model\" default=\"confident young Asian female model\"} standing in the center frame, elegant pose, glossy radiant skin, soft dewy makeup, long silky black hair with wispy bangs, wearing modern trendy {argument name=\"attire\" default=\"K-fashion streetwear\"} with premium styling details. Clean studio lighting with high-contrast fashion flash photography, sharp focus, ultra-detailed textures, cinematic composition. Background filled with vibrant {argument name=\"background style\" default=\"retro pop-art magazine aesthetics\"}, layered graphic typography, dynamic UI-inspired design elements, holographic chrome effects, stickers (stars, hearts, sparkles), barcode strips, speech bubbles, and futuristic collage layering. Japanese and Korean-inspired typographic accents integrated as visual design elements. Overall mood combines nostalgic 2000s teen fashion magazine energy with modern luxury editorial campaign style. Bold color harmony, premium print aesthetic, ultra crisp details, fashion advertising quality, 8K resolution, highly polished commercial poster look, surreal yet stylish, trend-forward global fashion branding vibe.",
+    "title": "High Fashion K-Style Poster",
+    "description": "A vibrant fashion poster prompt blending retro pop-art aesthetics with modern streetwear and futuristic UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570425287_g3nimt_HIBzs71aQAAtNp3.jpg",
+      "https://cms-assets.youmind.com/media/1778570425180_da09yk_HIBztAfa8AAgmOy.jpg",
+      "https://cms-assets.youmind.com/media/1778570425185_xtkiqe_HIBztMabQAAvYTY.jpg",
+      "https://cms-assets.youmind.com/media/1778570426000_of9lvu_HIBztTsaIAASfvi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19630,
+    "content": "A cinematic ultra-realistic noir portrait of a {argument name=\"subject\" default=\"stylish, charismatic man\"} wearing a tailored dark brown high-neck suit and sleek oval sunglasses. He stands with calm authority and a mysterious, unreadable expression, exuding confidence and danger. Between his fingers, he holds a {argument name=\"object\" default=\"burning 'King of Hearts' playing card\"}, its edges curling and glowing as vivid flames rise intensely from the card. In his other hand or between his lips, he {argument name=\"action\" default=\"smokes a thin medium cigar\"}, with thick swirling smoke drifting upward and blending dramatically with the firelight. The flames cast a warm orange and amber glow across one side of his face, creating a striking contrast against the cool shadows on the other side. His skin texture is hyper-detailed, with subtle pores, realistic facial contours, and refined masculine features. The background is dark, blurred, and atmospheric, with a moody low-key cinematic setup that enhances the mysterious noir tone. Shot with a 35mm lens look, shallow depth of field, soft bokeh, razor-sharp focus on the face, hand, cigar, and burning card. High contrast, rich shadow detail, professional cinematic lighting, editorial fashion-film quality, dark luxurious mood, intense smoke layering, dramatic composition, polished noir aesthetic, visually unforgettable.",
+    "title": "Noir Man with Burning Card",
+    "description": "A cinematic ultra-realistic noir portrait of a charismatic man with a burning playing card and moody cigar smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570433653_mnlx5j_HH-HjwNWcAAZ36-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19613,
+    "content": "fashion magazine shoot, studio action shot, dark seamless background (charcoal gray), harsh stroboscopic flash, frozen motion, SUPER wide-angle {argument name=\"lens focal length\" default=\"12mm\"} lens, low-angle shot, beautiful young brunette artist stumbling forward toward the camera, paint cans ({argument name=\"paint color 1\" default=\"turquoise\"}, {argument name=\"paint color 2\" default=\"fuchsia\"}) flying, cloud of splashes and droplets exploding in the air, flying toward the camera, some drops large and close to the camera, some motion blur, the floor already covered in paint splatters, dark background as in previous photos, hair loose and flowing",
+    "title": "Stroboscopic Action Artist Shot",
+    "description": "An action-packed studio shot prompt of an artist with exploding paint splashes, captured with a wide-angle lens.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570422910_59zjof_HIBhc-1a0AAkhKh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19415,
+    "content": "Create a design for puffy stickers of a chibi character from the chest up.\n\nA collection of expressions for the chibi character (normal, smiling, angry, sad, happy, surprised) should be gathered into a single image, with individual stickers separated and placed randomly.\n\nFont: A rounded, pop, and cute design\nFont Gradient: \"Any color\"\nText: Place only one instance of \"{argument name=\"text\" default=\"any word\"}\"\nMotif: Place \"{argument name=\"motif\" default=\"any motif\"}\" as separate stickers, arranged randomly\nBackground Color: \"{argument name=\"background color\" default=\"any color\"}\"\nSize: 9:16",
+    "title": "Puffy Chibi Sticker Sheet",
+    "description": "Generates a complete sheet of adorable, 3D-style puffy stickers with various expressions for a single chibi character, including custom text and motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570433707_81s5c4_HIBZu-BbQAARVHN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19616,
+    "content": "Cinematic close-up portrait of a {argument name=\"subject\" default=\"young Asian woman with short messy bob hair\"}, soft natural makeup, wearing an {argument name=\"outfit\" default=\"oversized blue sweatshirt\"}, standing outdoors under a clear blue sky during {argument name=\"lighting\" default=\"golden hour\"}. Wind blowing through her hair, moody expression, dreamy atmosphere, soft sunlight casting delicate shadows across her face, shallow depth of field, ultra realistic skin texture, warm cinematic tones, minimal aesthetic, fashion editorial photography, 85mm lens, bokeh background, high detail, soft contrast, natural lighting, emotional portrait composition, indie film still vibe, photorealistic, 4k.",
+    "title": "Golden Hour Cinematic Portrait",
+    "description": "A prompt for a dreamy, high-detail portrait of a young woman under a golden hour sky, featuring natural lighting and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570424522_4o7ue4_HIA6wa9aQAA5Sd-.jpg",
+      "https://cms-assets.youmind.com/media/1778570424520_gv6oj9_HIA6wbAbIAAYJfp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19604,
+    "content": "A cinematic border-less collage featuring the same model in multiple expressive portraits. {argument name=\"lighting\" default=\"Soft diffused film lighting\"}, high clarity, rich textures, and subtle grain. The model has {argument name=\"hair style\" default=\"messy stylish hair\"}, glowing skin, {argument name=\"outfit\" default=\"layered streetwear\"}, and dark sunglasses. Frames include: sharp side profile, intimate front close-up with hand in hair, bold intense gaze, thoughtful mid-close shot, and relaxed medium portrait. Seamless consistency in mood, color grading, and visual storytelling.",
+    "title": "Cinematic Streetwear Model Collage",
+    "description": "Generates a borderless collage featuring several expressive portraits of the same model with soft film lighting and rich streetwear textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570418262_c1z3dn_HIApjJsasAAN1BL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19610,
+    "content": "Surreal cinematic portrait of a mysterious young woman using the uploaded face reference, facing the camera on a stormy beach with glowing phone in hand, wearing a flowing {argument name=\"dress color\" default=\"emerald green\"} satin dress, wild windblown hair, dark teal clouds, glowing fire embers, moody blue-orange cinematic lighting, ultra realistic luxury fashion photography, emotional atmosphere, volumetric fog, Hasselblad X2D, shallow depth of field, masterpiece composition, 8K --ar 4:5 --stylize 500 --chaos 18 --quality 2 --v 7",
+    "title": "Stormy Beach Emerald Dress",
+    "description": "A surreal cinematic portrait of a woman in an emerald green dress on a stormy beach with glowing cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570421451_wfyjrl_HIAc5kWbEAA4kQw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19406,
+    "content": "{\n  \"image_request\": {\n    \"subject\": {\n      \"identity\": \"female\",\n      \"features\": [\"creamy face\", \"glowing skin\", \"long dark wavy hair\"],\n      \"expression\": \"serene\",\n      \"pose\": \"walking forward\",\n      \"attire\": {\n        \"style\": \"Traditional Desi / South Asian\",\n        \"piece\": \"Anarkali suit with dupatta and churidar\",\n        \"color_palette\": [\"{argument name=\"primary color\" default=\"olive green\"}\", \"{argument name=\"accent color\" default=\"deep maroon\"}\", \"gold embroidery\"],\n        \"footwear\": \"matching jutti/khussa\"\n      }\n    },\n    \"environment\": {\n      \"setting\": \"lush fruit garden\",\n      \"elements\": [\"fig trees\", \"pomegranate trees\", \"stone path\"],\n      \"fauna\": [\"small morning birds on branches\"],\n      \"lighting\": \"soft morning light\",\n      \"atmosphere\": \"misty\",\n      \"exclusions\": [\"direct sunlight\", \"urban background\", \"modern buildings\"]\n    },\n    \"technical_specs\": {\n      \"resolution\": \"8k\",\n      \"quality\": \"high-definition (HD)\",\n      \"style\": \"photorealistic\",\n      \"lens_effect\": \"soft bokeh background\",\n      \"aspect_ratio\": \"4:5\"\n    }\n  }\n}",
+    "title": "Traditional Desi Anarkali Garden",
+    "description": "A prompt for a serene photorealistic image of a woman in traditional South Asian attire walking through a misty fruit garden.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778570420473_2saf53_HH_2Z9sbgAAKx1Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19391,
     "content": "A cinematic night portrait of a {argument name=\"subject\" default=\"stylish young man\"} holding a large printed social media profile page that is partially burning with intense flames, fire forming a glowing V-shape across the paper, realistic fire and smoke, warm orange flames lighting his face, soft shadows, dark background with subtle bokeh lights, the paper clearly showing a modern social media profile layout with username “{argument name=\"username\" default=\"ErtanLabs\"}” and bio text, handsome young man with messy textured hair, sharp jawline, confident calm expression, wearing a {argument name=\"outfit\" default=\"black turtleneck and beige overcoat\"}, ultra-realistic, high detail, dramatic lighting, shallow depth of field, editorial fashion photography, 4K, moody cinematic atmosphere, realistic skin texture, premium aesthetic.",
     "title": "Cinematic Night Portrait with Burning Social Page",
