@@ -20,6 +20,85 @@
     "needReferenceImages": false
   },
   {
+    "id": 19775,
+    "content": "Premium Coca-Cola advertisement poster, vertical 9:16. Exact {argument name=\"identity\" default=\"ROBERTZ: Latin American man early 40s, shaved smooth head, short dark goatee with grey, warm olive-brown skin\"}, heavy jaw, broad shoulders, small left ear stud. Wearing relaxed dark navy bomber jacket, black t-shirt, dark jeans.\n\nStanding confidently beside giant oversized classic Coca-Cola contour glass bottle (3x his height, bright red label, white logo), covered in realistic condensation droplets and ice-cold mist. \n\nClean minimalist studio with deep red gradient glow, floating ice particles, cold vapor. Large crisp 'Coca-Cola' typography in background. Bottom tagline: 'Taste the Feeling.'\n\nPhotorealistic lighting, glossy reflections, condensation catching light, premium cinematic style, shallow depth of field. Formato vertical 9:16.",
+    "title": "Coca-Cola Advertising Poster",
+    "description": "A premium vertical advertisement poster for Coca-Cola featuring a specific character identity and cold vapor effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657218969_vj6nj9_HIKDGiiWgAAHfPc.jpg",
+      "https://cms-assets.youmind.com/media/1778657218977_swvklu_HIKDOp9XEAAejer.jpg",
+      "https://cms-assets.youmind.com/media/1778657219112_4fmjgv_HIKDOp7WsAEBKdq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19778,
+    "content": "A hyper-realistic, photorealistic medium-shot portrait of {argument name=\"subject\" default=\"[NAME]\"} on an urban street at night right after the rain. She has a curvy, fit, and well-proportioned figure, styled with slightly messy, wet-looking hair with strands partially covering one side of her face. Her delicate facial features are accented by subtle makeup, defined eyebrows, and a striking bright red lipstick. She has a calm expression, looking discreetly off-camera. She is wearing a {argument name=\"dress style\" default=\"short, plain white dress featuring a corset-style bodice\"} with thick straps, a delicate lace trim around a sweetheart neckline, a front tie detail at the bust, and a gently pleated, flared skirt, paired with white strappy high heels. She is standing gracefully with her legs crossed at the calves, leaning slightly back against a dark gray metallic structural beam with a crisscross lattice pattern. Both hands are raised near her upper torso, gently holding the black curved handle of a large, transparent umbrella. The scene is illuminated by high-contrast cinematic night lighting, with a strong backlight and rim light highlighting her hair and the edges of the clear umbrella, while soft, diffused artificial light brightens her face and stark white dress. The ground is highly reflective, wet cobblestone showing bright specular highlights. The background is softly blurred into a beautiful bokeh of warm golden streetlights and distant red and cyan neon signs, creating a moody, romantic, and atmospheric neo-noir vibe.",
+    "title": "Cinematic Night Rain Portrait",
+    "description": "A moody, photorealistic portrait prompt set in an urban environment at night after rain, featuring wet textures and high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657220485_qdxvas_HIKCPT9XAAESDMF.jpg",
+      "https://cms-assets.youmind.com/media/1778657220466_mi2y4c_HIKCPYOWYAA7UOV.jpg",
+      "https://cms-assets.youmind.com/media/1778657220457_sgesl4_HIKCPYOWoAAhSMX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19773,
+    "content": "{\n  \"format\": \"Single cinematic frame for GPT Image\",\n  \"technical_specs\": {\n    \"camera\": \"Low angle shot, shallow depth of field\",\n    \"lighting\": \"Night scene, neon blue accent lights, wet surfaces\",\n    \"quality\": \"Ultra-detailed, 4K, photorealistic CGI\"\n  },\n  \n  \"main_subject\": {\n    \"type\": \"Large humanoid robot mecha, 15 feet tall\",\n    \"construction\": \"Built from {argument name=\"mecha parts\" default=\"black broadcast van parts\"} - visible vehicle chassis panels, wheels converted to leg joints, satellite dish on chest\",\n    \"details\": [\n      \"Matte black metal body with blue LED strips\",\n      \"Two massive vinyl record discs (like DJ turntable platters) rotating slowly on shoulders - black vinyl with glowing blue label centers\",\n      \"{argument name=\"brand logo\" default=\"VTX logo\"} glowing blue on chest center\",\n      \"Mechanical legs with exposed pistons\",\n      \"Head section has two bright blue headlight eyes\",\n      \"Arms have DJ mixer faders and knobs as decorative panel details\"\n    ],\n    \"pose\": \"Standing upright, right foot planted on cracked pavement, left leg slightly bent\"\n  },\n\n  \"person_on_mecha\": {\n    \"position\": \"Standing on top of the mecha's head section\",\n    \"identity\": \"{argument name=\"subject identity\" default=\"Latin American man, early 40s, completely shaved head\"}\",\n    \"clothing\": \"Dark navy jacket, black pants, boots\",\n    \"pose\": \"Standing confidently, one hand gripping a handle, other hand raised in fist\",\n    \"expression\": \"Calm, confident, looking forward\"\n  },\n\n  \"environment\": {\n    \"location\": \"Wet asphalt road at night\",\n    \"background\": \"Urban warehouses with neon signs, industrial buildings\",\n    \"weather\": \"Heavy rain, puddles on ground reflecting blue lights\",\n    \"ground\": \"Cracked pavement around mecha's foot, visible impact damage\"\n  },\n\n  \"lighting_and_color\": {\n    \"primary\": \"Cool blue neon glow from mecha LEDs and spinning vinyl centers\",\n    \"secondary\": \"Warm orange sparks from mechanical joints\",\n    \"atmosphere\": \"Dark moody night, rain, wet reflections\",\n    \"key_colors\": \"Matte black, electric blue, dark grey asphalt\"\n  },\n\n  \"action_frozen\": \"Mid-step stomp - right foot creating cracks in pavement, shoulder vinyl discs slowly rotating with blue light trails, sparks visible from leg joints, rain droplets frozen in air around the scene\",\n\n  \"avoid\": [\n    \"Weapons of any kind\",\n    \"Cannons or guns\",\n    \"Fire or flames\",\n    \"Organic dinosaur features\",\n    \"Green colors\",\n    \"Forest or trees\",\n    \"Multiple people\",\n    \"Handheld weapons\",\n    \"Excessive flying debris\"\n  ]\n}",
+    "title": "Humanoid Mecha Robot at Night",
+    "description": "A complex cinematic prompt for a 15-foot tall humanoid mecha built from broadcast van parts, featuring neon blue highlights in a rainy urban environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657217966_fzwai4_HIJ8WkEWUAA16j7.jpg",
+      "https://cms-assets.youmind.com/media/1778657217951_zs6j44_HIJ8Wg-WIAAi3HH.jpg",
+      "https://cms-assets.youmind.com/media/1778657217989_nusj6e_HIJ8WjmWkAE8zfp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19777,
+    "content": "A hyper-realistic modern mirror-selfie collage poster featuring a stylish young digital creator in a clean contemporary bathroom, studio restroom, or minimalist apartment space with soft ambient lighting, reflective mirrors, and a premium aesthetic environment.\n\nThe subject wears a fully customizable fashion-forward outfit based on user preference, such as oversized streetwear, techwear, casual luxury, minimal monochrome fits, or bold expressive creator styling. The clothing should feel modern, visually striking, and suitable for a social-media fashion campaign or personal brand identity.\n\nCustom branding should be incorporated based on the user’s selected name or identity, appearing as subtle high-end fashion details like embroidered logos, stitched labels, sleeve patches, or minimalist brand marks integrated naturally into the outfit design.\n\nPose & Composition\n\nThe character is taking a close-range mirror selfie with a smartphone held near the mirror, creating realistic wide-angle distortion where the phone appears large in the foreground. The pose is natural and candid — one hand relaxed at the side, in a pocket, or adjusting clothing.\n\nThe posture leans slightly toward the mirror, giving a spontaneous, behind-the-scenes lifestyle feel.\n\nExpression\n\nConfident, relaxed, slightly playful expression with natural imperfections — like a real unplanned social-media moment captured during a daily routine.\n\nOptional Lifestyle Elements\n\nPersonalizable props depending on theme:\n\nPhone accessories\n\nHeadphones or earbuds\n\nCoffee or drink cup\n\nFashion accessories (rings, chains, watches)\n\nCamera or creative tools\n\nSkincare or grooming items\n\nVisual Style Direction\n\nA 2025 modern digital collage aesthetic inspired by:\n\nCreator economy visuals\n\nLuxury editorial photography\n\nSocial media interface design\n\nMobile app UI overlays\n\nClean futuristic branding aesthetics\n\nAvoid retro, outdated, or cluttered visual styles.\n\nUI & Graphic Layers\n\nSurround the subject with floating modern interface elements:\n\nGlassmorphism UI panels\n\nNotification bubbles\n\nApp-style story frames\n\nMinimal profile cards\n\nSwipe and interaction indicators\n\nFloating social media widgets\n\nSoft blurred background overlays\n\nClean modular content blocks\n\nAdd a subtle glow outline or color edge lighting around the subject for separation.\n\nLighting & Camera\n\nRealistic smartphone flash effect\n\nSoft ambient indoor lighting\n\nSharp mirror reflections\n\nSlight lens distortion for realism\n\nHigh-detail skin and fabric textures\n\nSubtle film grain\n\nCinematic editorial finish\n\nUltra-realistic rendering\n\nOverall Mood\n\nStylish, authentic, playful, internet-native, expressive, modern, premium, creative, and slightly chaotic in a natural lifestyle way.\n\nTypography\n\nInclude customizable branding text such as:\n\nUser’s name or creator tag\n\nPersonal brand identity\n\nShort slogan or motto\n\nTypography should be clean, modern, minimal, and seamlessly integrated into the poster design.\n\nNegative Prompt\n\nbad anatomy, extra fingers, distorted hands, broken reflection, blurry face, low quality, duplicate subject, messy UI, unreadable typography, outdated interface style, cartoon rendering, overexposed lighting, warped perspective, incorrect proportions, distorted phone, low-detail clothing, unrealistic textures, awkward pose, low realism",
+    "title": "Digital Creator Mirror Selfie Poster",
+    "description": "A creative collage-style prompt for generating social-media inspired mirror selfies with customizable fashion and UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657219858_abc4jz_HIIxv-VXkAEIjRh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19780,
+    "content": "A breathtaking surreal double-exposure portrait of a beautiful young woman with fair skin, perfectly arched dark eyebrows, striking brown eyes with long lush eyelashes, and full glossy pink lips slightly parted, her head gently tilted as she gazes softly to the side. Her face and neck are intricately merged and interwoven with enormous, translucent, flowing flower petals in an ethereal layered composition. A massive, intricate flower dominates the left side of her face, its delicate semi-transparent petals cascading over her forehead, eye, cheek, and shoulder in rich, flowing layers. The petals display an explosion of {argument name=\"color palette\" default=\"hyper-vibrant, highly saturated colors — intense electric blues, vivid teals, luminous purples, hot pinks, glowing yellows, and fiery oranges\"} — with dramatically enhanced contrast and color pop that makes every hue radiate and shimmer. The flower’s textured center features a bold, glowing orange-red stamen cluster positioned near her eye. Smaller delicate wildflowers and slender green stems with bright yellow-orange blooms float ethereally around her neck and shoulders. Clean, minimalist off-white background with soft, luminous lighting that enhances the glowing, dreamlike atmosphere.",
+    "title": "Surreal Double-Exposure Floral Portrait",
+    "description": "A breathtaking surreal portrait prompt merging a female subject with vibrant, translucent flower petals in an ethereal double-exposure style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657221128_pvenbf_HHuUh7nXUAYa4DV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19783,
+    "content": "A cinematic, vertical graphic poster of a masked vigilante in a tactical carbon-fiber suit. The character is positioned in the foreground with a gritty, matte black texture. The background features massive, bold stencil-style typography in a deep crimson red with heavy metallic scratching and weathered textures. The lighting is low-key and dramatic, with subtle rim lighting on the suit to define its armor plates. High-contrast noir aesthetic, moody atmosphere, sharp details, 8k resolution, Extreme macro close-up of a monstrous green-skinned face, focused on the nose, furrowed brow, and intense glowing green eyes. The skin is hyper-detailed with deep wrinkles, sweat, and a rough, leathery texture. Overlaid vertically across the center is the word \"HULK\" in large, bold, weathered white sans-serif typography with a metallic, scratched finish. The color palette is dominated by deep emerald greens and shadows, featuring explosive green energy particles and debris flying across the frame. Cinematic lighting, gritty atmosphere, 8k resolution, hyper-realistic, aggressive and powerful mood.",
+    "title": "Cinematic Vigilante Graphic Poster",
+    "description": "A high-contrast cinematic poster prompt featuring a masked vigilante in a tactical suit with bold typography and a gritty noir aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg",
+      "https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg",
+      "https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg",
+      "https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19779,
+    "content": "Transform the uploaded photo into a {argument name=\"art style\" default=\"vibrant high energy anime inspired street illustration\"} while preserving the character’s core identity including face shape, facial structure, hairstyle essence, and overall vibe. The artwork should feel fully stylized and non realistic, inspired by modern pop anime posters and playful manga aesthetics. Use bold expressive linework with dynamic thickness variation, clean cel shading, oversized highlights, and ultra saturated colors with strong contrast. Exaggerate expressions, poses, perspective, and body language for maximum personality and visual impact while keeping the character recognizable. Reimagine the environment into a {argument name=\"environment\" default=\"whimsical cartoon universe\"} with dramatic wide angle perspective, curved space distortion, and kinetic motion. Add fun graphic elements such as stickers, floating emojis, comic speech bubbles, stars, hearts, sparkles, doodles, tiny mascots, exaggerated props, and stylized sound effect text.",
+    "title": "Anime Street Illustration Transformation",
+    "description": "A stylization prompt to transform a photo into a vibrant, high-energy anime street illustration with bold lines and saturated colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657220831_uni82j_HIFtSENbwAAdanf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19611,
     "content": "An unsettling and surreal charcoal sketch, rendered in high-contrast black and white, depicting an optical illusion where a coiled, sleeping human figure is inextricably merged with and formed by a massive, clenched human fist. The figure's bald head, with closed eyes, and curled body form the intricate knuckles and thumb area, creating a direct visual parallel between the shape of the fist and the fetal-like posture of the figure. The texture of skin and clothing is created through dense cross-hatching, smudging, and burnishing on textured paper, emphasizing the powerful, almost sculptural form. The background is a simple, blurred {argument name=\"background style\" default=\"charcoal wash\"} that makes the ambiguous, powerful object the sole focus.",
     "title": "Surreal Charcoal Fist Sketch",

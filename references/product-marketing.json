@@ -21,6 +21,134 @@
     "needReferenceImages": true
   },
   {
+    "id": 19775,
+    "content": "Premium Coca-Cola advertisement poster, vertical 9:16. Exact {argument name=\"identity\" default=\"ROBERTZ: Latin American man early 40s, shaved smooth head, short dark goatee with grey, warm olive-brown skin\"}, heavy jaw, broad shoulders, small left ear stud. Wearing relaxed dark navy bomber jacket, black t-shirt, dark jeans.\n\nStanding confidently beside giant oversized classic Coca-Cola contour glass bottle (3x his height, bright red label, white logo), covered in realistic condensation droplets and ice-cold mist. \n\nClean minimalist studio with deep red gradient glow, floating ice particles, cold vapor. Large crisp 'Coca-Cola' typography in background. Bottom tagline: 'Taste the Feeling.'\n\nPhotorealistic lighting, glossy reflections, condensation catching light, premium cinematic style, shallow depth of field. Formato vertical 9:16.",
+    "title": "Coca-Cola Advertising Poster",
+    "description": "A premium vertical advertisement poster for Coca-Cola featuring a specific character identity and cold vapor effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657218969_vj6nj9_HIKDGiiWgAAHfPc.jpg",
+      "https://cms-assets.youmind.com/media/1778657218977_swvklu_HIKDOp9XEAAejer.jpg",
+      "https://cms-assets.youmind.com/media/1778657219112_4fmjgv_HIKDOp7WsAEBKdq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19772,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"face\": \"Use uploaded reference image, keep identity exact, soft feminine facial structure, glossy pink lips, subtle blush makeup, naturally defined eyes, smooth glowing skin, elegant dreamy expression\",\n        \"hair\": \"Medium-length soft wavy hair with natural volume and loose curls framing the face\",\n        \"expression\": \"Soft confident expression with relaxed eyes and slightly lifted glossy lips\"\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\"\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"details\": [\n          \"{argument name=\"dress color\" default=\"Deep rich orange\"} satin slip dress\",\n          \"Delicate lace trim around neckline\",\n          \"Silky reflective fabric\",\n          \"Thin shoulder straps\",\n          \"Elegant fitted waist\",\n          \"Soft flowing lower fabric with natural folds\",\n          \"Romantic feminine aesthetic\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"details\": [\n        \"Sitting elegantly on {argument name=\"furniture\" default=\"vintage velvet chair\"}\",\n        \"Body angled slightly toward camera\",\n        \"One arm resting naturally on knee\",\n        \"Other arm relaxed beside body\",\n        \"Relaxed shoulders and graceful posture\",\n        \"Head tilted slightly upward toward camera\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Soft dreamy pastel studio setup\",\n      \"background\": [\n        \"Pink and lavender pastel tulle fabric draped around chair\",\n        \"Soft curtain backdrop\",\n        \"Romantic feminine atmosphere\",\n        \"Luxury editorial aesthetic\",\n        \"Warm soft pastel tones throughout scene\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Soft studio lighting\",\n      \"style\": \"Dreamy beauty editorial lighting\",\n      \"effects\": [\n        \"Soft glow on skin\",\n        \"Gentle satin reflections\",\n        \"Balanced warm highlights\",\n        \"Smooth shadows\",\n        \"Glossy cinematic finish\"\n      ]\n    },\n    \"camera\": {\n      \"angle\": \"Eye-level portrait angle\",\n      \"framing\": \"Medium portrait composition\",\n      \"focus\": \"Sharp focus on face and upper body\",\n      \"style\": \"Ultra realistic high-fashion beauty photography\"\n    },\n    \"mood\": [\n      \"Elegant\",\n      \"Romantic\",\n      \"Dreamy\",\n      \"Soft\",\n      \"Luxurious\"\n    ],\n    \"quality\": {\n      \"render\": \"Photorealistic\",\n      \"details\": [\n        \"Natural skin texture\",\n        \"Detailed satin fabric reflections\",\n        \"Professional beauty retouching\",\n        \"Soft pastel cinematic color grading\",\n        \"Luxury editorial magazine aesthetic\"\n      ]\n    }\n  }\n}",
+    "title": "Satin Slip Dress Portrait",
+    "description": "An elegant editorial portrait prompt featuring a subject in a rich orange satin dress on a vintage velvet chair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657216551_losl8q_HIJJFAWaEAAZ9W-.jpg",
+      "https://cms-assets.youmind.com/media/1778657216668_yef4kh_HIJJGMTbsAAKIaQ.jpg",
+      "https://cms-assets.youmind.com/media/1778657216621_8o5jsy_HIJJHI-a8AAtVqw.jpg",
+      "https://cms-assets.youmind.com/media/1778657217633_jia4ho_HIJJIOIaAAEuRwm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19791,
+    "content": "A high-fashion editorial prompt for creating surreal, melancholic portraits with intense eye contact and striking geometric elements, mimicking professional Hasselblad film photography.",
+    "title": "Surreal Fashion Editorial Portrait",
+    "description": "A high-fashion editorial prompt for creating surreal, melancholic portraits with intense eye contact and striking geometric elements, mimicking professional Hasselblad film photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657226192_6d4fei_HIJBTUUWoAAgadr.jpg",
+      "https://cms-assets.youmind.com/media/1778657226144_hrnl3z_HIJBTUrWoAAqqoO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19774,
+    "content": "A cinematic three-panel vertical collage featuring a {argument name=\"subject\" default=\"fit young woman\"} performing three different yoga poses in a calm, minimal studio environment, wearing a {argument name=\"outfit\" default=\"deep burgundy fitted yoga set\"}. In the top panel, she performs a graceful tree pose, standing balanced with hands pressed together above her head, calm focused expression. In the middle panel, she holds a downward dog pose, body forming a clean inverted V shape, soft natural light highlighting her form. In the bottom panel, she sits in a cross-legged meditation pose, eyes gently closed, hands resting on knees, peaceful relaxed expression. Soft diffused lighting creates a serene atmosphere with gentle shadows. Minimal background, shallow depth of field, realistic skin texture, editorial wellness photography style, cinematic color grading, hyper-realistic, vertical 9:16 composition, slightly zoomed-in framing. Face 100% same as reference photo.",
+    "title": "Yoga Pose Editorial Collage",
+    "description": "A cinematic three-panel vertical collage featuring a subject performing various yoga poses in a minimal studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657218477_b9zq2u_HII1MZZaoAAeYQ1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19788,
+    "content": "[scene_material_translation_engine]\nvector_g (scene geometry) = \"{argument name=\"scene\" default=\"[insert any scene here]\"}\"\nmatrix_m (material world) = \"paper craft materials: origami paper, folded cardstock, vellum, paper fibers, layered paper cutouts\"\nequation: vector_g ⊗ matrix_m = render_target\n[scene_decomposition_rules]\nthe ai must infer all structural elements of {argument name=\"scene\" default=\"[insert any scene here]\"} and translate them into a pure paper-engineering system.\n[mapping_constraints]\n- replace 100% of the scene materials with paper-based materials only.\n- every form must feel folded, creased, cut, layered, rolled, slotted, or assembled from paper.\n[composition]\nmacro paper-sculpture photography. the entire scene appears as a miniature paper diorama on a matte black tabletop.\n[visual_execution]\nrender the render_target. lighting: clean directional studio light. texture: visible paper grain, sharp creases, soft vellum translucency, layered cut-paper edges.",
+    "title": "Origami Manga Paper Craft Style",
+    "description": "A unique structural prompt that translates famous manga scenes into complex paper-engineered dioramas using origami and cardstock materials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657225060_udcuup_HH_Z-7qW4AAYVaw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19794,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"cosmic_luxury_lipstick_campaign\",\n      \"style\": \"spectral_surrealism_nebula_lip_pigment\",\n      \"version\": \"v8.1_NEBULA_LIPS\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Same woman, same exact face structure and lip shape. Lipstick pigment becomes a living nebula, deep space cloud with pink-magenta-violet color flow inside the lip surface.\"\n    },\n    \"scene\": {\n      \"environment\": \"deep cosmic black void with subtle distant star field, no horizon, infinite space depth\",\n      \"lighting\": \"soft cool starlight key from upper left, warm magenta nebula self-glow from lips acting as practical light source on chin and philtrum, subtle violet rim light\",\n      \"mood\": \"Spectral Surrealism beauty, James Webb telescope luxury, cosmic editorial campaign\"\n    },\n    \"subject\": {\n      \"pose\": \"extreme close-up direct front, lips slightly parted, slight chin lift, contemplative cosmic stance\",\n      \"expression\": \"transcendent calm, lashes lowered, almost meditative\",\n      \"lips\": \"lipstick surface contains a real nebula structure with hot pink core, magenta clouds, violet edges, deep blue shadow regions, micro star pinpoints scattered across pigment, hyper glossy wet finish that shows nebula depth like looking into space, lip texture preserved underneath cosmic pattern\",\n      \"skin\": \"warm honey undertone catching magenta nebula spill light, faint stardust freckles across cheekbones\",\n      \"eyes\": \"softly visible upper frame, lashes catching star pinpoints\"\n    },\n    \"product_focus\": {\n      \"lipstick_finish\": \"cosmic dimensional gloss with infinite depth illusion\",\n      \"texture\": \"wet glass-shine top layer, nebula gas cloud pigment beneath, micro stars suspended in product\",\n      \"narrative_concept\": \"wear the universe on your lips\"\n    },\n    \"camera\": {\n      \"camera_type\": \"Phase One XF IQ4 150MP\",\n      \"lens\": \"120mm macro f/4\",\n      \"aperture\": \"f/3.2\",\n      \"framing\": \"tight macro from nose tip to chin, lips dominant in lower-center\",\n      \"depth_of_field\": \"razor thin, lips and nebula detail in focus, soft falloff to skin\"\n    },\n    \"rendering\": {\n      \"quality\": \"8K cosmic art beauty\",\n      \"details\": \"real nebula gas physics on lip surface, individual star pinpoints with diffraction spikes, gloss meniscus catching cosmic light, lip texture readable through cosmic layer\",\n      \"color_grade\": \"deep magenta-violet-cyan cosmic palette, Hubble deep field grading, Spectral Surrealism signature\",\n      \"effects\": \"subtle lens flare from brightest stars on lip, controlled magenta glow halo around lips\",\n      \"negative_prompt\": \"no flat painted look, no stickers on lips, no identity change, no distorted lip shape, no text, no watermark, no AI artifacts\"\n    }\n  }\n}",
+    "title": "Cosmic Nebula Lipstick Beauty Campaign",
+    "description": "An avant-garde macro beauty prompt where lipstick takes the form of a living cosmic nebula with intricate gas and star structures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657227872_gj1nfo_HIIn5KkXAAA2ibR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19798,
+    "content": "Photorealistic editorial portrait of a young woman reclining on a softly rumpled white bed in a bright minimalist bedroom, soft natural daylight streaming through large windows, long wavy platinum blonde hair with soft curtain bangs, fair skin with subtle freckles and rosy blush, light hazel-green eyes, soft glam natural makeup, neutral matte lips, direct gaze toward camera, wearing a cream knit halter top, silver ribbon pendant necklace, draped in a luxurious spotted faux fur coat around shoulders and arms, elegant cozy high-fashion aesthetic, intimate lifestyle editorial composition, shallow depth of field, ultra-detailed skin texture, realistic hair strands, soft highlights, warm neutral tones, premium fashion photography, cinematic realism, 85mm portrait lens, soft diffused daylight, high resolution",
+    "title": "Platinum Blonde Fur Coat Editorial",
+    "description": "A luxurious indoor editorial prompt for a subject reclining on a bed, wearing a faux fur coat under soft diffused daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657229621_1nazsm_HIHvUy0bAAAAds0.jpg",
+      "https://cms-assets.youmind.com/media/1778657229617_xmlo32_HIHvUylaQAA7U59.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19800,
+    "content": "{\n  \"image_description\": \"A highly detailed, photorealistic image of a stunning young woman with sleek platinum blonde hair styled in a chic side-parted bob with a long ponytail. She has fair skin, striking dark eyes with bold makeup, and full lips. She is posing confidently on the hood of a luxurious golden car outdoors under bright natural sunlight. She wears an oversized white blazer with a prominent abstract monogram pattern, open at the front, paired with red short skirt as bottom. Her legs are elegantly crossed, wearing glossy black high-heeled stilettos. One hand rests under her chin while the other supports her on the car, with a direct, confident gaze toward the viewer. The background features lush green trees and a sunny, high-end outdoor setting.\",\n  \"composition\": \"Medium full-body fashion shot from a low angle, emphasizing her pose, figure, and the luxurious ferrari car. Bright golden-hour sunlight with strong highlights and soft shadows, creating a cinematic and glamorous atmosphere.\",\n  \"details\": {\n    \"woman\": \"Beautiful woman in her early-to-mid 20s, slim and toned physique, platinum blonde hair, confident expression, polished makeup.\",\n    \"clothing\": \"{argument name=\"clothing\" default=\"Open dark monogram-patterned blazer, black bottoms, glossy black strappy high heels\"}\",\n    \"environment\": \"Luxury outdoor setting with {argument name=\"car\" default=\"vintage or classic golden car\"}, trees, and bright daylight.\",\n    \"props\": \"Luxury car as seating surface.\"\n  },\n  \"modifications\": {\n    \"additions\": \"{argument name=\"custom text\" default=\"Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script\"} on the visible border or edge of the blazer.\"\n  },\n  \"style\": \"Photorealistic, ultra-high resolution luxury fashion photography, sharp focus on the subject, cinematic natural lighting with golden tones, realistic fabric textures, skin glow, and glossy reflections on the car and heels.\",\n  \"technical\": {\n    \"resolution\": \"8K\",\n    \"aspect_ratio\": \"portrait\",\n    \"full_prompt\": \"Photorealistic portrait of a beautiful platinum blonde woman posing on a luxury golden car, wearing an open dark monogram blazer with black bottoms and black high heels, hand on chin, sunny outdoor setting, add subtle embroidered 'Keor' on the border of the blazer --ar 2:3 --v 6 --q 2 --stylize 250\"\n  }\n}",
+    "title": "Luxury Car Fashion Portrait with Monogram Blazer",
+    "description": "A photorealistic fashion prompt of a woman posing on a golden Ferrari, wearing a custom monogrammed blazer in a sunny outdoor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657231029_r0rc0h_HIHlIb5XQAA9AG_.jpg",
+      "https://cms-assets.youmind.com/media/1778657231243_lltw3k_HIHlIi9WQAA9cz6.jpg",
+      "https://cms-assets.youmind.com/media/1778657231048_6wm46t_HIHlIkzX0AICU-M.jpg",
+      "https://cms-assets.youmind.com/media/1778657231963_al255p_HIHlIqKW4AA_fsc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19789,
+    "content": "Ultra-stylized editorial fashion photo mixed with {argument name=\"art style\" default=\"hand-drawn crayon illustration art\"}, minimalist white studio background, a {argument name=\"subject\" default=\"chic French woman sitting at a tiny Parisian café table drinking espresso\"}, yellow sleeveless dress, green neck scarf, vintage brown heels, croissant and newspaper on the table, pink luxury handbag beside the chair, giant childlike crayon drawing of the Eiffel Tower behind her in red blue and yellow, colorful “BONJOUR” handwritten text at top, smiling sun doodle, fluffy clouds, playful bird sketch, whimsical French postcard aesthetic, luxury fashion campaign vibe, clean composition, vibrant GPT colors, soft studio lighting, highly detailed, photorealistic woman blended with sketchbook illustration environment, Pinterest editorial style.",
+    "title": "Editorial Fashion Crayon Illustration",
+    "description": "A playful fashion campaign prompt blending photorealistic editorial photography with childlike hand-drawn crayon doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657225289_hkuh59_HIHeVwjbkAAB3UJ.jpg",
+      "https://cms-assets.youmind.com/media/1778657225283_v6t6aj_HIHeVw0bAAAr9_j.jpg",
+      "https://cms-assets.youmind.com/media/1778657225328_l00d9v_HIHeV05b0AA08Xs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19771,
+    "content": "Create high-fashion couture sketches for an \"{argument name=\"collection name\" default=\"Aria of Frost\"}\" and \"Lumina Papilio\" collection, featuring ethereal, butterfly-inspired evening gowns. The designs should showcase sleek mermaid silhouettes, architectural ruffled sleeves that mimic lepidoptera wings, and intricate silver filigree wirework. Use a luxurious color palette of {argument name=\"color palette\" default=\"iridescent amethyst, frozen lilac, and deep cerulean blue\"} accented with metallic gold and silver threads. The mood board should include technical details like fabric swatches of silk-satin, silver mesh, and seed pearl clusters, presented in a professional atelier style with elegant calligraphy and butterfly reference anatomy.",
+    "title": "Ethereal Butterfly Couture Sketches",
+    "description": "High-fashion couture sketches for an evening gown collection inspired by butterfly wings and frozen lilac tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657216069_ebztnx_HIGND9UWoAA-Z0E.jpg",
+      "https://cms-assets.youmind.com/media/1778657216109_rx0c3b_HIGND_8XoAAQ4P6.jpg",
+      "https://cms-assets.youmind.com/media/1778657216101_f0lbba_HIGNECpWYAAdUdr.jpg",
+      "https://cms-assets.youmind.com/media/1778657217143_rb15c1_HIGNETZXsAEu1Fc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19801,
+    "content": "An ethereal, high-detail outdoor portrait of a {argument name=\"subject\" default=\"young woman\"} seated on a {argument name=\"furniture\" default=\"moss-covered, ornate wrought-iron garden bench\"} in a dreamy forest setting. She has long, braided, wavy brown hair and a soft, curious expression as she gazes at a delicate, {argument name=\"creature\" default=\"glowing blue butterfly\"} resting on her outstretched left index finger. She wears a cottagecore-inspired dress in light blue and white, featuring wide satin straps, a sweetheart neckline, and a structured white bust panel adorned with intricate blue floral embroidery, ribbon details, central flower appliqués, and small black bow accents. The skirt includes a sheer white tulle overlay decorated with tiny blue floral sprigs. Her right arm rests gently by her side, while her left arm is raised toward the butterfly. She accessorizes with a light-blue beaded headpiece with a soft veil and small pearl floral earrings. The environment is lush and magical, with soft, dappled natural light filtering through trees. Fine details are visible in the embroidery, moss texture, and the butterfly’s wings. Shot with a shallow depth of field, creating a soft, dreamy bokeh background of blurred foliage. Ultra-realistic, cinematic, 8K resolution.",
+    "title": "Ethereal Garden Portrait with Blue Butterfly",
+    "description": "A dreamy outdoor portrait prompt of a woman on a wrought-iron bench interacting with a glowing butterfly in a lush forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657230906_7bt9ao_HIFhznUa0AAOv7Q.jpg",
+      "https://cms-assets.youmind.com/media/1778657232316_jmk777_HIFhznQaMAAYNCK.jpg",
+      "https://cms-assets.youmind.com/media/1778657230867_6swluj_HIFhzqbaYAAzOVz.jpg",
+      "https://cms-assets.youmind.com/media/1778657231647_370ovi_HIFhz32aoAArqVT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19614,
     "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"character name\" default=\"Sabrina Carpenter\"}\",\n      \"appearance\": \"Shoulder-length hair parted in the middle with soft face-framing layers, gentle natural smile, relaxed expression, looking at the camera\",\n      \"details\": \"Minimal natural makeup, glossy pink lips\"\n    },\n    \"clothing\": \"{argument name=\"dress style\" default=\"Short light blue dress with soft pink rose floral pattern\"}, sweetheart ruffled neckline, short ruffled sleeves, delicate bow at the bust, lightly gathered hem, pink semi-transparent lace thigh-high stockings\",\n    \"body_type\": \"Curvy, soft and feminine body with harmonious proportions\",\n    \"pose\": \"Sitting comfortably on a bed, leaning slightly backward with arms extended behind for support, hands on the bed, bent legs facing the camera, one leg lightly crossed over the other\",\n    \"setting\": \"Indoor bedroom with plain white walls, closed brown door, made bed with neutral plaid comforter and wrinkled bedding\",\n    \"props\": [\n      \"Plaid comforter\",\n      \"White pillows\",\n      \"Brown interior door\"\n    ],\n    \"lighting\": \"Strong direct frontal flash-style lighting, bright crisp illumination on the subject, sharp hard shadows on wall and door behind, strong contrast with darker environment\",\n    \"mood\": \"Casual, relaxed, intimate, spontaneous, domestic portrait\",\n    \"technical\": {\n      \"camera\": \"Medium shot, modern smartphone, eye-level angle, framed from mid-calf upward\",\n      \"style\": \"Photorealistic lifestyle photography with flash aesthetic\",\n      \"quality\": \"Highly detailed, sharp focus, realistic lighting and shadows, professional high resolution\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
     "title": "Lifestyle Bedroom Portrait Photography",

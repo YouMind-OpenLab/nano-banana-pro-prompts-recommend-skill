@@ -10,6 +10,121 @@
     "needReferenceImages": false
   },
   {
+    "id": 19772,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"face\": \"Use uploaded reference image, keep identity exact, soft feminine facial structure, glossy pink lips, subtle blush makeup, naturally defined eyes, smooth glowing skin, elegant dreamy expression\",\n        \"hair\": \"Medium-length soft wavy hair with natural volume and loose curls framing the face\",\n        \"expression\": \"Soft confident expression with relaxed eyes and slightly lifted glossy lips\"\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure\"\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"details\": [\n          \"{argument name=\"dress color\" default=\"Deep rich orange\"} satin slip dress\",\n          \"Delicate lace trim around neckline\",\n          \"Silky reflective fabric\",\n          \"Thin shoulder straps\",\n          \"Elegant fitted waist\",\n          \"Soft flowing lower fabric with natural folds\",\n          \"Romantic feminine aesthetic\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"details\": [\n        \"Sitting elegantly on {argument name=\"furniture\" default=\"vintage velvet chair\"}\",\n        \"Body angled slightly toward camera\",\n        \"One arm resting naturally on knee\",\n        \"Other arm relaxed beside body\",\n        \"Relaxed shoulders and graceful posture\",\n        \"Head tilted slightly upward toward camera\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Soft dreamy pastel studio setup\",\n      \"background\": [\n        \"Pink and lavender pastel tulle fabric draped around chair\",\n        \"Soft curtain backdrop\",\n        \"Romantic feminine atmosphere\",\n        \"Luxury editorial aesthetic\",\n        \"Warm soft pastel tones throughout scene\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Soft studio lighting\",\n      \"style\": \"Dreamy beauty editorial lighting\",\n      \"effects\": [\n        \"Soft glow on skin\",\n        \"Gentle satin reflections\",\n        \"Balanced warm highlights\",\n        \"Smooth shadows\",\n        \"Glossy cinematic finish\"\n      ]\n    },\n    \"camera\": {\n      \"angle\": \"Eye-level portrait angle\",\n      \"framing\": \"Medium portrait composition\",\n      \"focus\": \"Sharp focus on face and upper body\",\n      \"style\": \"Ultra realistic high-fashion beauty photography\"\n    },\n    \"mood\": [\n      \"Elegant\",\n      \"Romantic\",\n      \"Dreamy\",\n      \"Soft\",\n      \"Luxurious\"\n    ],\n    \"quality\": {\n      \"render\": \"Photorealistic\",\n      \"details\": [\n        \"Natural skin texture\",\n        \"Detailed satin fabric reflections\",\n        \"Professional beauty retouching\",\n        \"Soft pastel cinematic color grading\",\n        \"Luxury editorial magazine aesthetic\"\n      ]\n    }\n  }\n}",
+    "title": "Satin Slip Dress Portrait",
+    "description": "An elegant editorial portrait prompt featuring a subject in a rich orange satin dress on a vintage velvet chair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657216551_losl8q_HIJJFAWaEAAZ9W-.jpg",
+      "https://cms-assets.youmind.com/media/1778657216668_yef4kh_HIJJGMTbsAAKIaQ.jpg",
+      "https://cms-assets.youmind.com/media/1778657216621_8o5jsy_HIJJHI-a8AAtVqw.jpg",
+      "https://cms-assets.youmind.com/media/1778657217633_jia4ho_HIJJIOIaAAEuRwm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19795,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image. Main subject / quality details: Rosy complexion with dewy skin and korean pinkish glow, authentic skin texture with visible pores, soft flushed cheeks, glossy lips with natural shine, realistic sunlit skin highlights on shoulders, collarbone and legs, sharp facial details without beauty-filter smoothing. Natural feminine proportions with soft skin texture preserved under harsh daylight. Expression or mood: Peaceful dreamy summer energy, eyes gently closed while feeling the sunlight and wind, relaxed lips, serene feminine confidence, candid carefree outdoor mood. Camera settings: A hyper-realistic, ultra-sharp photograph taken on an iPhone 15 Pro, characterized by digital clarity, focal point eye subject but rendere the background sharp with soft blur characterized by high end smartphone, shot at ISO 100. 4k rendered, normal white balance, natural lighting, no cinematic color grading. sharp facial details. Strong natural sunlight from upper left creating realistic lens flare streaks, bright sky exposure, subtle atmospheric haze and authentic smartphone HDR balancing between skin highlights and sky. Hair: Dark brown medium-length layered hair with inward upward curl at the ends, windswept sideways dramatically from outdoor breeze, separated silky strands glowing softly under sunlight. Outfit: Soft cream floral off-shoulder dress with blue flower patterns, fitted bodice with gathered chest detail, puff sleeves resting below shoulders, delicate gold bracelet and pearl pendant necklace. Background: Bright open sky with soft white clouds, intense blue daylight atmosphere, minimal outdoor environment emphasizing the airy summer feeling and large negative space around the subject. Composition: Extreme low-angle shot from below the subject, one knee dominating the foreground for strong perspective depth. Subject positioned slightly off-center while the sky occupies 20% of the frame. Hair movement creates diagonal motion lines across the composition. Lens flare from sunlight intersects naturally through the hair and shoulder area. Slight imperfect handheld framing for authentic smartphone realism. Aspect ratio: 9:16 Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, center-facing ID-photo style, fake sunlight, unrealistic clouds, warped limbs, extra fingers, CGI texture",
+    "title": "Low-Angle Summer Sky Portrait",
+    "description": "A hyper-realistic outdoor prompt featuring a low-angle perspective against a bright sky, emphasizing natural smartphone photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657228392_kjrmg8_HIIrvIjakAAFTS2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19787,
+    "content": "A hyper-photorealistic shot of the same subject in the attached image.  Main subject / quality details: Rosy complexion with dewy skin and korean pinkish glow, authentic skin texture with visible pores, soft flushed cheeks, glossy lips with natural shine, realistic sunlit skin highlights on shoulders, collarbone and legs, sharp facial details without beauty-filter smoothing. Natural feminine proportions with soft skin texture preserved under harsh daylight.  Expression or mood: Peaceful dreamy summer energy, eyes gently closed while feeling the sunlight and wind, relaxed lips, serene feminine confidence, candid carefree outdoor mood.  Camera settings: A hyper-realistic, ultra-sharp photograph taken on an iPhone 15 Pro, characterized by digital clarity, focal point eye subject but rendere the background sharp with soft blur characterized by high end smartphone, shot at ISO 100. 4k rendered, normal white balance, natural lighting, no cinematic color grading. sharp facial details. Strong natural sunlight from upper left creating realistic lens flare streaks, bright sky exposure, subtle atmospheric haze and authentic smartphone HDR balancing between skin highlights and sky.  Hair: Dark brown medium-length layered hair with inward upward curl at the ends, windswept sideways dramatically from outdoor breeze, separated silky strands glowing softly under sunlight.  Outfit: Soft cream floral off-shoulder dress with blue flower patterns, fitted bodice with gathered chest detail, puff sleeves resting below shoulders, delicate gold bracelet and pearl pendant necklace.  Background: Bright open sky with soft white clouds, intense blue daylight atmosphere, minimal outdoor environment emphasizing the airy summer feeling and large negative space around the subject.  Composition: Extreme low-angle shot from below the subject, one knee dominating the foreground for strong perspective depth. Subject positioned slightly off-center while the sky occupies 20% of the frame. Hair movement creates diagonal motion lines across the composition. Lens flare from sunlight intersects naturally through the hair and shoulder area. Slight imperfect handheld framing for authentic smartphone realism.  Aspect ratio: 9:16  Negative prompt: cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, center-facing ID-photo style, fake sunlight, unrealistic clouds, warped limbs, extra fingers, CGI texture",
+    "title": "Hyper-Photorealistic Low Angle Portrait",
+    "description": "An ultra-sharp smartphone-style photography prompt using low angles and natural sunlight for a candid summer look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657224859_pf9w26_HIIrI1tbEAAnUSB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19781,
+    "content": "A young adult male sits confidently facing the camera, his weight comfortably shifted with relaxed shoulders, exuding a sophisticated aura with a subtle, closed smile as his relaxed eyes gaze off-camera to the right. He features short, slicked-back glossy hair that catches the light, complemented by slight facial stubble, and is dressed in an oversized, highly textured dark gray double-breasted suit layered effortlessly over a crisp, bright white t-shirt. His left hand rests casually on the armrest, fingers spread naturally and draped downward over the edge, revealing a dark-dial wrist watch, while his right hand rests gently on his own right thigh with the fingers loosely curled inward. He sits upon a vintage, dark mottled crushed velvet sofa in the foreground that anchors the composition, transitioning into a midground that features a heavy vintage throw pillow adorned with thick, metallic-looking fringe and dark patterned fabric directly beneath his left hand. The medium-depth background reveals a pristine, upscale lounge setting highlighted by an elegant matte wallpaper featuring an Art Deco repeating fan and shell motif inside arched geometric lines in a uniform black, white, and mid-gray pattern, meticulously enclosed within dark wood wall molding panel frames. The entire atmosphere is rendered in monochromatic, high-contrast black and white, defined by a single, highly directional, bright artificial hard light source positioned straight from the front. This intense, direct-flash illumination creates a dramatic, moody vintage Hollywood glamour aesthetic, casting harsh, deep black, defined short shadows under his chin, within the deep folds of the suit fabric, and throwing a sharp, distinct cast shadow directly onto the wall behind his head, while simultaneously preserving brilliant specular highlights on his forehead, nose, cheeks, the glossy sheen of his hair, the white t-shirt, and the metallic watch dial. Captured with the tack-sharp realism of direct-flash editorial photography using a 35mm equivalent lens at an f/5.6 or f/8 aperture for a deep depth of field, the straight-on perspective is refined through monochromatic post-processing with pushed contrast, crushed deep blacks, and a subtle 400 ISO film grain texture enhancing the facial features and clothing, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Vintage Hollywood Monochrome Portrait",
+    "description": "A dramatic black and white editorial photography prompt capturing a sophisticated male subject with direct flash lighting and Art Deco backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657221992_sjotbs_HIIh6IdWcAA1Q5S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19796,
+    "content": "photorealistic portrait of a beautiful young woman in her early 20s with long, voluminous, wavy vibrant red hair cascading down her back and over her shoulders, fair smooth skin with subtle natural glow, bright blue eyes, soft friendly smile with closed lips, standing casually on a concrete sidewalk. She is posing confidently with her right arm raised and hand gently touching her hair, left arm relaxed by her side with fingers slightly curled. She wears a tight white strapless tube crop top that exposes her toned midriff and navel, paired with high-waisted light-wash blue denim shorts featuring distressed rips and frayed raw hems, showing her long smooth legs. She has a delicate silver ball-chain necklace with large bold capital letters spelling 'SADIE' centered on her chest, and multiple stacked pearl and gold beaded bracelets on her right wrist. Background shows a modern commercial building with large reflective glass windows, green ivy climbing the dark wall, lush green bushes in the foreground, a yellow fire hydrant to the right, and a parking lot with cars visible in the distance. Natural daylight, soft golden hour lighting with gentle shadows, highly detailed realistic skin texture, sharp focus, professional fashion photography style, 8k resolution, cinematic composition, vibrant colors, no text or watermarks",
+    "title": "Red Hair Denim Shorts Lifestyle Portrait",
+    "description": "A vibrant photorealistic prompt of a young woman with red hair in casual summer attire, set against a modern urban background with golden-hour light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657229114_y5vn5y_HIIJpeRbkAAM-Da.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19784,
+    "content": "A cinematic, high-detail mirror selfie of a young woman with {argument name=\"hair style\" default=\"long, platinum blonde hair\"}. She is wearing a {argument name=\"outfit\" default=\"grey zip-up hoodie over a white t-shirt\"}, posing with one hand near her chin while holding a black smartphone. The lighting is warm and dramatic, highlighting her sharp facial features and subtle makeup against a dark, nighttime background with soft bokeh city lights. The image has a moody, editorial aesthetic with a slight film grain texture.",
+    "title": "Cinematic Late Night City Selfie",
+    "description": "A moody, editorial-style mirror selfie prompt featuring warm lighting and city bokeh effects for a nighttime aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657223386_jz362l_HIHT8yBXAAAK1HP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19793,
+    "content": "A lifestyle photography prompt featuring a subject in a floral dress, utilizing frontal flash lighting to create a spontaneous, domestic atmosphere.",
+    "title": "Intimate Lifestyle Bedroom Portrait",
+    "description": "A lifestyle photography prompt featuring a subject in a floral dress, utilizing frontal flash lighting to create a spontaneous, domestic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657227790_emzs07_HIG-qX6boAAq27T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19786,
+    "content": "A male in his mid-30s stands center-left in a confident, medium waist-up pose, his body angled 45 degrees away from the camera to face the right. He features medium-length wavy hair meticulously styled into a pushed-back quiff with a subtle fade, complemented by a sharply groomed beard, while dark tortoiseshell sunglasses with amber-tinted lenses conceal his eyes as he looks off-camera. His posed expression is serious and composed, characterized by a closed mouth and neutral eyebrows. He is elegantly dressed in a heavy, dark espresso brown double-breasted overcoat worn over a true black ribbed turtleneck and black trousers, his shoulders kept perfectly level and structured by the thick wool. With his weight shifted slightly back, his right hand rests casually inside his front right trouser pocket. Anchoring the left foreground is a weathered, warm gray-tan stone parapet exhibiting a raw, matte finish heavily textured with natural pitting, scuffs, and a curved top edge. Beyond the subject, the midground opens up to the smooth, slate blue waters of the Arno River, reflecting the sky before receding into a deep, softly blurred background. Dominating this distant plane is a historic arched stone bridge lined with vintage yellow and ochre residential buildings, their small windows and classical architecture evoking the timeless essence of Florence. The scene is bathed in the golden, highly directional natural sunlight of late afternoon, emanating from a 45-degree front-left angle to strike with hard, bright intensity and slightly diffused edges. This single light source creates a dramatic, high-contrast atmosphere, carving deep black shadows into the intricate fabric folds of his coat, under his chin, and heavily across the right side of his face and torso. Perfectly placed specular highlights gleam across his left cheek, the bridge of his nose, the textured crown of his hair, the curvature of his sunglasses, and his left shoulder. The sophisticated, travel-inspired European mood is unified by a warm split-complementary palette of espresso, true black, amber, and slate blue. Rendered as a realistic digital photograph inspired by Pitti Uomo street style, the image is shot straight-on at eye level with a full-frame camera and an 85mm lens set to f/2.8, utilizing a fast 1/500s shutter speed at ISO 100 to ensure the subject is tack sharp against the smooth bokeh. Precise post-processing deepens the blacks, sharpens the facial and garment textures, and applies a subtle split tone that warms the highlights and cools the shadows, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Florence Street Style Male Portrait",
+    "description": "A highly detailed, professional photography prompt for a stylish male portrait set against the historic background of Florence in golden hour light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657223605_hdjkru_HIGvU-gXYAAUyQf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19770,
+    "content": "highly detailed photorealistic photograph of a beautiful young woman with {argument name=\"hair style\" default=\"long straight dark brown hair\"}, fair skin, subtle eye makeup and a soft genuine smile, sitting outdoors on a sunny patio and affectionately cradling a {argument name=\"cat description\" default=\"large fluffy long-haired brown tabby cat\"} in her arms. The cat has classic black and brown striped tabby pattern with lighter golden-beige fur on its belly and chest, striking green eyes, long white whiskers, and its pink tongue is slightly sticking out as if licking its lips. One of the cat's front paws rests on the woman's chest and shoulder. The woman wears a fitted low-cut gray tank top with bold black graphic text and design reading 'NOW', layered over a blue long-sleeved shirt, and dark pants. The scene is set on a modern patio with bright green artificial turf, a small wooden folding table to the left, white wall railing, and a stunning background of arid rocky desert mountains under a clear vivid blue sky. Bright natural daylight, sharp focus, intricate realistic textures on cat fur, hair, skin and clothing, professional photography style, 8k resolution, cinematic composition",
+    "title": "Portrait with Fluffy Tabby Cat",
+    "description": "A photorealistic outdoor portrait of a young woman cradling a fluffy tabby cat with desert mountains in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657216784_l2fj3l_HIGDwdRaIAAtf8R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19792,
+    "content": "A detailed prompt for a spontaneous lifestyle photo of a woman in an oversized plush pajama set within a cluttered, neon-lit streaming setup.",
+    "title": "Cosy Gamer Girl Room Aesthetic",
+    "description": "A detailed prompt for a spontaneous lifestyle photo of a woman in an oversized plush pajama set within a cluttered, neon-lit streaming setup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657226571_6f3x73_HIF208xWAAIEGXl.jpg",
+      "https://cms-assets.youmind.com/media/1778657226650_itwgz2_HIF207kWwAEYBb3.jpg",
+      "https://cms-assets.youmind.com/media/1778657226933_6i3l4q_HIF21DCWsAAFnXa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19799,
+    "content": "A professional portrait prompt for a businesswoman in an elegant suit within a premium corporate office setting.",
+    "title": "Indian Businesswoman Luxury Office Portrait",
+    "description": "A professional portrait prompt for a businesswoman in an elegant suit within a premium corporate office setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657230650_gc75zx_HIFigltasAAu_fc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19605,
     "content": "{\"image_description\": \"A highly detailed, photorealistic close-up selfie of a beautiful young woman with fair skin, long wavy dark brown hair, and striking facial features with glossy pink lips and subtle makeup. She is wearing a white textured peasant-style top with a deep V-neckline, ruched fabric, and side lace-up ties. The photo is taken indoors in warm, dim lighting with soft shadows on her face and body. She looks directly at the camera with a confident expression and slightly parted lips.\", \"composition\": \"Close-up portrait selfie style, focusing on her face and upper body. Warm ambient indoor lighting with gentle highlights on skin and fabric.\", \"details\": {\"woman\": \"Attractive woman in her early 20s, long dark brown hair, fair skin, expressive eyes, glossy lips, natural glamorous makeup.\", \"clothing\": \"White ruched peasant blouse with deep V-neck and side lace-up ties, delicate thin necklace.\", \"environment\": \"Dimly lit indoor setting with neutral walls and warm lighting.\", \"props\": \"None prominent.\"}, \"modifications\": {\"additions\": [\"Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or edge of the white top (near the hem or lace-up side). Use fine white or metallic thread that blends naturally as a subtle custom detail.\", \"Transform the background into a luxurious, dimly lit room featuring a huge, dramatic Francisco Goya painting (in the style of his dark romantic works like 'Saturn Devouring His Son' or 'The Third of May 1808') as the dominant backdrop element. The large ornate-framed painting should cover most of the wall behind her, adding a moody, artistic, and slightly gothic atmosphere.\"]}, \"style\": \"Photorealistic, high-resolution glamour selfie photography, warm intimate lighting, sharp focus on the woman with soft background depth, realistic skin texture and fabric details, cinematic mood.\", \"technical\": {\"resolution\": \"8K\", \"aspect_ratio\": \"portrait\", \"quality\": \"Extremely detailed hair strands, skin pores and glow, fabric texture on the white top, realistic lace-up ties, and high-fidelity reproduction of the Goya painting in the background.\"}, \"full_prompt\": \"Photorealistic close-up selfie of a beautiful young woman with long dark brown hair wearing a white deep V-neck peasant blouse with lace-up sides, confident expression, warm dim indoor lighting, huge dramatic Francisco Goya painting as the main backdrop on the wall behind her, add subtle embroidered 'Keor' on the border of the white top --ar 2:3 --v 6 --q 2 --stylize 300\"}",
     "title": "Glamour Selfie with Goya Backdrop",

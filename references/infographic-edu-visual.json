@@ -56,6 +56,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 19771,
+    "content": "Create high-fashion couture sketches for an \"{argument name=\"collection name\" default=\"Aria of Frost\"}\" and \"Lumina Papilio\" collection, featuring ethereal, butterfly-inspired evening gowns. The designs should showcase sleek mermaid silhouettes, architectural ruffled sleeves that mimic lepidoptera wings, and intricate silver filigree wirework. Use a luxurious color palette of {argument name=\"color palette\" default=\"iridescent amethyst, frozen lilac, and deep cerulean blue\"} accented with metallic gold and silver threads. The mood board should include technical details like fabric swatches of silk-satin, silver mesh, and seed pearl clusters, presented in a professional atelier style with elegant calligraphy and butterfly reference anatomy.",
+    "title": "Ethereal Butterfly Couture Sketches",
+    "description": "High-fashion couture sketches for an evening gown collection inspired by butterfly wings and frozen lilac tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657216069_ebztnx_HIGND9UWoAA-Z0E.jpg",
+      "https://cms-assets.youmind.com/media/1778657216109_rx0c3b_HIGND_8XoAAQ4P6.jpg",
+      "https://cms-assets.youmind.com/media/1778657216101_f0lbba_HIGNECpWYAAdUdr.jpg",
+      "https://cms-assets.youmind.com/media/1778657217143_rb15c1_HIGNETZXsAEu1Fc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19621,
     "content": "{\n  \"project\": \"professional 3D female character design sheet infographic\",\n  \"style\": {\n    \"aesthetic\": [\"elegant\", \"cinematic\", \"modern\", \"polished\", \"luxury editorial\"],\n    \"render\": \"high-end 3D animated film style\",\n    \"lighting\": \"soft warm cinematic lighting\",\n    \"textures\": \"smooth realistic skin, glossy hair, detailed strands\",\n    \"composition\": \"clean infographic layout, organized, premium concept art sheet\"\n  },\n  \"character\": {\n    \"gender\": \"female\",\n    \"features\": {\n      \"hair\": \"{argument name=\"hair style\" default=\"dark sleek bob, blunt bangs above eyes, glossy strands\"}\",\n      \"face\": \"plump soft shape, rosy cheeks, small button nose\",\n      \"eyes\": \"very large dark expressive eyes, long lashes, glossy reflections\",\n      \"skin\": \"fair smooth skin with warm undertones\",\n      \"proportions\": \"soft feminine, doll-like aesthetic\"\n    }\n  },\n  \"sections\": {\n    \"turnaround\": {\n      \"title\": \"THREE-VIEW CHARACTER TURNAROUND\",\n      \"views\": [\"front\", \"side\", \"back\"],\n      \"extras\": [\"height scale\", \"neutral pose\", \"full body proportions\", \"studio background\"]\n    },\n    \"palette\": {\n      \"title\": \"OVERALL COLOR PALETTE\",\n      \"colors\": [\"{argument name=\"color palette\" default=\"cream, beige, warm brown, black, burgundy, soft gold\"}\"]\n    },\n    \"outfit\": {\n      \"title\": \"OUTFIT & ACCESSORY DETAILS\",\n      \"style\": [\"{argument name=\"outfit style\" default=\"oversized blazer, tailored bottoms, luxury handbag, leather shoes, minimal jewelry\"}\"],\n      \"vibe\": [\"old money\", \"minimalist luxury\", \"modern professional\"]\n    }\n  }\n}",
     "title": "3D Character Design Infographic",

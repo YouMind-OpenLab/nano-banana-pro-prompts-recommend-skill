@@ -1,5 +1,56 @@
 [
   {
+    "id": 19769,
+    "content": "{\n    \"subject\": {\n      \"character\": \"A handsome young man with thick, wavy, {argument name=\"hair color\" default=\"silver-grey hair\"} and light brown eyes\",\n      \"expression\": \"Composed and intellectual, looking directly at the viewer\",\n      \"clothing\": \"An elegant {argument name=\"suit color\" default=\"cream-colored three-piece suit\"}, a crisp white dress shirt, and a {argument name=\"tie color\" default=\"dark teal necktie\"}\",\n      \"pose\": \"Seated comfortably in a plush armchair, legs crossed, holding an open antique book in his lap\"\n    },\n    \"setting\": {\n      \"environment\": \"A classic, sophisticated private library or study\",\n      \"elements\": [\n        \"A vintage brass floor lamp providing warm, focused light\",\n        \"Background filled with sketches of bookshelves and stacked books\"\n      ]\n    },\n    \"artistic_style\": {\n      \"medium\": \"Luxury ink and watercolor wash illustration\",\n      \"technique\": \"Sketched ink outlines combined with soft, textured watercolor gradients\",\n      \"color_palette\": \"Muted neutrals, creams, and golds with a singular pop of dark teal\",\n      \"accents\": \"Gold leaf splatters and ink drips for a high-end editorial feel\"\n    },\n    \"composition\": {\n      \"framing\": \"Full body seated shot, centered, with a clean white border\",\n      \"lighting\": \"Soft, warm illumination coming from the top left lamp\"\n    }\n  }",
+    "title": "Ink and Watercolor Library Illustration",
+    "description": "A high-end editorial illustration prompt for an elegant seated portrait in a library setting using ink and watercolor techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657215243_5p8ym5_HII50SXXYAAlAVm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19774,
+    "content": "A cinematic three-panel vertical collage featuring a {argument name=\"subject\" default=\"fit young woman\"} performing three different yoga poses in a calm, minimal studio environment, wearing a {argument name=\"outfit\" default=\"deep burgundy fitted yoga set\"}. In the top panel, she performs a graceful tree pose, standing balanced with hands pressed together above her head, calm focused expression. In the middle panel, she holds a downward dog pose, body forming a clean inverted V shape, soft natural light highlighting her form. In the bottom panel, she sits in a cross-legged meditation pose, eyes gently closed, hands resting on knees, peaceful relaxed expression. Soft diffused lighting creates a serene atmosphere with gentle shadows. Minimal background, shallow depth of field, realistic skin texture, editorial wellness photography style, cinematic color grading, hyper-realistic, vertical 9:16 composition, slightly zoomed-in framing. Face 100% same as reference photo.",
+    "title": "Yoga Pose Editorial Collage",
+    "description": "A cinematic three-panel vertical collage featuring a subject performing various yoga poses in a minimal studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657218477_b9zq2u_HII1MZZaoAAeYQ1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19785,
+    "content": "A magical, vertical illustration of a {argument name=\"theme\" default=\"whimsical forest\"} where ancient, rune-carved trees frame a path of colorful mushrooms and glowing crystals. A {argument name=\"building\" default=\"mossy cottage with a stained-glass window and flower-lined balcony\"} is nestled into the massive roots of the right-side tree, which also houses shelves of tiny potions. Stone animal statues rest near a stepping-stone pond, while {argument name=\"creatures\" default=\"glowing snail spirits and sparkling light-creatures\"} float beneath a soft, swirling sky.",
+    "title": "Whimsical Forest Cottage Illustration",
+    "description": "A magical, vertical illustration prompt for a forest filled with rune-carved trees, glowing spirits, and a mossy potion cottage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657223725_5pz1d3_HIIaZ4-XMAIwB2m.jpg",
+      "https://cms-assets.youmind.com/media/1778657223751_67dvwd_HIIaZ44WUAAjt2m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19779,
+    "content": "Transform the uploaded photo into a {argument name=\"art style\" default=\"vibrant high energy anime inspired street illustration\"} while preserving the character’s core identity including face shape, facial structure, hairstyle essence, and overall vibe. The artwork should feel fully stylized and non realistic, inspired by modern pop anime posters and playful manga aesthetics. Use bold expressive linework with dynamic thickness variation, clean cel shading, oversized highlights, and ultra saturated colors with strong contrast. Exaggerate expressions, poses, perspective, and body language for maximum personality and visual impact while keeping the character recognizable. Reimagine the environment into a {argument name=\"environment\" default=\"whimsical cartoon universe\"} with dramatic wide angle perspective, curved space distortion, and kinetic motion. Add fun graphic elements such as stickers, floating emojis, comic speech bubbles, stars, hearts, sparkles, doodles, tiny mascots, exaggerated props, and stylized sound effect text.",
+    "title": "Anime Street Illustration Transformation",
+    "description": "A stylization prompt to transform a photo into a vibrant, high-energy anime street illustration with bold lines and saturated colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657220831_uni82j_HIFtSENbwAAdanf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19797,
+    "content": "A high-octane cinematic prompt inspired by Mad Max, featuring a female protagonist in an aggressive car chase through a dusty wasteland.",
+    "title": "Mad Max Action Desert Chase",
+    "description": "A high-octane cinematic prompt inspired by Mad Max, featuring a female protagonist in an aggressive car chase through a dusty wasteland.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778657229295_fzpbc2_HIFN08LbsAAVuNY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19609,
     "content": "Based on the traditional ink-wash painting style, create an evocative vertical composition that merges the elements from both images on textured paper. The left side features a dense, layered bamboo grove. In the center, two {argument name=\"subject\" default=\"rōnin\"} are depicted in the dark, one figure, from the back with a high ponytail, looks over their shoulder, holding a katana; the other, from the front, displays a fierce expression and is drawing his own katana. The background is a vast {argument name=\"landscape style\" default=\"shanshui\"} panorama of towering mountains and a large waterfall. All specific Chinese calligraphy, columns of small text, and multiple red seals are positioned as they were in the original images. The art style maintains expressive brushwork, high contrast, and dynamic ink splashes throughout.",
     "title": "Ink-Wash Samurai Landscape",
