@@ -1,5 +1,28 @@
 [
   {
+    "id": 19997,
+    "content": "A whimsical collection of {argument name=\"art style\" default=\"watercolor illustrations\"} featuring young, freckled children with expressive eyes in a {argument name=\"setting\" default=\"lush woodland setting\"}. The style uses vibrant, bleeding watercolor washes, soft ink outlines, and a dreamy atmosphere. Key scenes include a {argument name=\"character details\" default=\"boy in a colorful hoodie, a boy sitting cross-legged reading a book, a girl with teal hair writing with a quill, and a girl with golden braids gathering wildflowers\"}.",
+    "title": "Whimsical Woodland Watercolor Collection",
+    "description": "A set of dreamy watercolor illustrations of children in a woodland setting with bleeding washes and soft ink outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743493859_64rera_HIQpEedW0AAvDbX.jpg",
+      "https://cms-assets.youmind.com/media/1778743493887_tyyrzq_HIQpEhUXsAA8dH9.jpg",
+      "https://cms-assets.youmind.com/media/1778743493880_m3gk53_HIQpEmSWcAAJ_fL.jpg",
+      "https://cms-assets.youmind.com/media/1778743494547_ub8ghf_HIQpErOW8AAlIu9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19985,
+    "content": "Fisheye lens photo captured from the {argument name=\"perspective\" default=\"perspective of a fish\"} that is about to be eaten by approaching {argument name=\"subject\" default=\"whale\"}. Aspect ratio 16:9.",
+    "title": "Fish Eye Perspective Shot",
+    "description": "A creative prompt simulating the POV of a fish looking at an approaching whale through a fisheye lens.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743488433_79lpv1_HILzCxFXQAAGNKO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19769,
     "content": "{\n    \"subject\": {\n      \"character\": \"A handsome young man with thick, wavy, {argument name=\"hair color\" default=\"silver-grey hair\"} and light brown eyes\",\n      \"expression\": \"Composed and intellectual, looking directly at the viewer\",\n      \"clothing\": \"An elegant {argument name=\"suit color\" default=\"cream-colored three-piece suit\"}, a crisp white dress shirt, and a {argument name=\"tie color\" default=\"dark teal necktie\"}\",\n      \"pose\": \"Seated comfortably in a plush armchair, legs crossed, holding an open antique book in his lap\"\n    },\n    \"setting\": {\n      \"environment\": \"A classic, sophisticated private library or study\",\n      \"elements\": [\n        \"A vintage brass floor lamp providing warm, focused light\",\n        \"Background filled with sketches of bookshelves and stacked books\"\n      ]\n    },\n    \"artistic_style\": {\n      \"medium\": \"Luxury ink and watercolor wash illustration\",\n      \"technique\": \"Sketched ink outlines combined with soft, textured watercolor gradients\",\n      \"color_palette\": \"Muted neutrals, creams, and golds with a singular pop of dark teal\",\n      \"accents\": \"Gold leaf splatters and ink drips for a high-end editorial feel\"\n    },\n    \"composition\": {\n      \"framing\": \"Full body seated shot, centered, with a clean white border\",\n      \"lighting\": \"Soft, warm illumination coming from the top left lamp\"\n    }\n  }",
     "title": "Ink and Watercolor Library Illustration",

@@ -41,6 +41,310 @@
     "needReferenceImages": false
   },
   {
+    "id": 19988,
+    "content": "Ultra-realistic top-down flat lay fashion sports photography of a young woman with {argument name=\"hair style\" default=\"voluminous curly brown hair\"} lying on a vibrant blue tennis court surface, holding a black tennis racket beside her head, wearing a {argument name=\"outfit color\" default=\"white\"} mesh crop sports t-shirt tied at the waist, white pleated tennis skirt, white socks, and white sneakers. Multiple neon yellow tennis balls scattered artistically around her body, with a black tennis duffle bag and an open tennis ball can placed beside her. Bright harsh sunlight creating strong cinematic shadows, editorial Nike-style campaign aesthetic, luxury sportswear vibe, symmetrical composition, crisp details, glossy skin highlights, vibrant colors, minimal background, high contrast, professional commercial photography, shot from directly above, 35mm lens look, ultra detailed, magazine cover quality, clean modern sporty aesthetic.",
+    "title": "Tennis Court Top-Down Flat Lay",
+    "description": "An ultra-realistic flat lay photography prompt for a luxury sportswear campaign featuring a model on a blue tennis court.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743489724_t1fesv_HIOcQpnXcAEtKQN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19989,
+    "content": "Cinematic Tokyo drift fashion photoshoot, glamorous woman standing between modified {argument name=\"car type\" default=\"JDM cars\"} under neon lights, {argument name=\"jacket style\" default=\"black leather racing jacket\"} off one shoulder, fitted corset-style crop top, low-rise wide cargo pants, chrome belt, glossy makeup, windblown hair, wet asphalt, headlight flare, tire smoke, gritty Y2K luxury streetwear energy, 35mm flash photography, ultra-realistic, sharp face, perfect hands, flawless car proportions",
+    "title": "Tokyo Drift JDM Fashion Photoshoot",
+    "description": "A cinematic JDM-inspired streetwear photoshoot prompt set in neon-lit Tokyo at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743490158_xdjkvx_HIOUMWoXYAAJMh1.jpg",
+      "https://cms-assets.youmind.com/media/1778743490177_0qdja6_HIOUMWsW8AAfw8O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19978,
+    "content": "Turn this photo into a {argument name=\"style\" default=\"funny ugly doodle drawing\"}. Make it look like a quick sketch using a {argument name=\"tool\" default=\"cheap marker or crayons\"}. Messy, rough, child-like style, bad perspective and awkward proportions. Slightly exaggerated facial features. Add a simple cartoon background, random sketchy lines and details. Uneven coloring and visible strokes. The style looks like a lazy drawing, not polished but humorous and a bit stupid looking, meme-like and casual. Do not make it realistic.",
+    "title": "Funny Ugly Meme Doodle Drawing",
+    "description": "Transforms photos into funny, intentional low-quality 'ugly' doodle drawings with marker/crayon aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743482251_ezjk7v_HIMUAg-XMAAZvm-.jpg",
+      "https://cms-assets.youmind.com/media/1778743482188_fe73rx_HIMUAgUXYAA7_lP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19983,
+    "content": "{\n  \"image_prompt_data\": {\n    \"subject\": {\n      \"demographics\": \"Beautiful glamorous woman with soft feminine features\",\n      \"hair\": {\n        \"style\": \"Short sleek bob haircut with soft natural shine and smooth texture\"\n      },\n      \"appearance\": {\n        \"skin_tone\": \"Warm porcelain skin with golden undertones\",\n        \"skin_detail\": \"Ultra-realistic skin texture with visible pores, soft peach fuzz, natural glow, cinematic highlights and realistic shadow transitions\",\n        \"makeup\": \"Luxury soft glam makeup with glowing skin, glossy peach lips, warm blush, subtle eyeliner and radiant highlighter\"\n      },\n      \"facial_expression\": {\n        \"eyes\": \"Soft dreamy half-closed eyes\",\n        \"lips\": \"{argument name=\\\"lips\\\" default=\\\"Glossy lips gently holding a pink birthday candle\\\"}\",\n        \"overall_expression\": \"Romantic feminine birthday mood\"\n      }\n    },\n    \"attire\": {\n      \"outfit\": {\n        \"corset\": \"{argument name=\\\"outfit\\\" default=\\\"Elegant blush pink satin corset with delicate structured seams and silky reflective fabric\\\"}\",\n        \"skirt\": \"Soft layered blush tulle fabric with dreamy airy texture\"\n      },\n      \"fabric_details\": {\n        \"material\": \"Glossy satin and fluffy tulle textures\",\n        \"movement\": \"Natural fabric folds and realistic reflections\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"Dark intimate luxury indoor setting\",\n      \"details\": {\n        \"background\": \"{argument name=\\\"background\\\" default=\\\"Soft blurred warm-toned interior with cinematic darkness\\\"}\",\n        \"atmosphere\": \"Romantic luxury birthday ambiance\"\n      }\n    },\n    \"composition\": {\n      \"type\": \"Luxury cinematic birthday editorial photography\",\n      \"camera_angle\": \"Close-up portrait perspective\",\n      \"framing\": \"Face, upper body and birthday cake centered in frame\",\n      \"pose\": {\n        \"body_position\": \"Leaning slightly forward toward birthday cake\",\n        \"hands\": \"Holding small pink birthday cake gently near face\",\n        \"head\": \"Soft downward tilt toward candle flame\",\n        \"posture\": \"Elegant intimate feminine pose\"\n      }\n    },\n    \"lighting\": {\n      \"type\": \"Ultra-realistic cinematic candle lighting\",\n      \"primary_source\": \"Warm candle flame illuminating face and lips\",\n      \"secondary_source\": \"Soft ambient warm studio fill light\",\n      \"shadow_behavior\": {\n        \"style\": \"Soft cinematic shadows with deep warm contrast\",\n        \"contrast\": \"Luxury editorial cinematic contrast\"\n      },\n      \"highlights\": \"Natural glossy highlights on skin, satin corset, lips and cake frosting\",\n      \"realism_notes\": \"Preserve realistic candle glow, authentic skin reflections and warm cinematic atmosphere\"\n    },\n    \"camera_settings\": {\n      \"camera_type\": \"Full-frame cinematic portrait camera\",\n      \"lens\": \"85mm portrait lens\",\n      \"aperture\": \"f/1.4\",\n      \"shutter_speed\": \"1/125 sec\",\n      \"iso\": \"400\",\n      \"focus\": \"Sharp focus on face, lips and candle flame\"\n    }\n  }\n}",
+    "title": "Cinematic Candlelight Birthday Editorial",
+    "description": "A luxury fashion photography prompt focusing on the warm, romantic glow of a candle flame illuminating a subject in a satin corset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743486969_wid5et_HIN3cjEa0AA99jB.jpg",
+      "https://cms-assets.youmind.com/media/1778743486970_s2tkk0_HIN3d-TbYAASGvH.jpg",
+      "https://cms-assets.youmind.com/media/1778743486707_fqsb49_HIN3e8rbYAAEJDw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19972,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"balat_colorful_street_spring_editorial\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_BALAT_COLORFUL_STREET\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"very_high\",\n      \"preserve_identity\": true,\n      \"identity_lock\": \"strict\",\n      \"notes\": \"Use the reference woman exactly. Create a luxurious photorealistic Balat spring street scene with colorful historic houses, cats, flowers, authentic neighborhood texture, and stylish cultural fashion.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"render_style\": \"photoreal_colorful_street_lifestyle_editorial\",\n      \"sharpness\": \"ultra_crisp\",\n      \"grain\": \"subtle_bright_spring_film\",\n      \"dynamic_range\": \"bright_spring_high_dynamic\",\n      \"color_grade\": \"cobalt_blue_turkish_red_sunny_yellow_white_linen_terracotta_skin\",\n      \"no_text\": true\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"bright confident smile, lively warm gaze\",\n      \"hair\": \"voluminous natural waves with soft spring movement\",\n      \"makeup\": \"fresh glowing skin, coral blush, warm brown eyeliner, glossy rose lips\",\n      \"outfit\": \"white high-waisted tailored trousers paired with a {argument name=\"clothing item\" default=\"cropped embroidered jacket\"} featuring Turkish red, cobalt blue and sunny yellow folk-inspired motifs, modern cultural styling with realistic textile detail\",\n      \"accessories\": \"large gold hoop earrings, silk scarf tied around neck, slim rings, small brown leather handbag\",\n      \"props\": \"small bunch of {argument name=\"prop\" default=\"street flowers\"} wrapped in kraft paper\",\n      \"body\": \"realistic anatomy, natural standing posture, realistic hands\"\n    },\n    \"scene\": {\n      \"location\": \"{argument name=\"location\" default=\"Balat colorful historic street in spring\"}\",\n      \"environment\": \"colorful old houses, vintage doors, narrow cobblestone street, cats, flower pots, old stone stairs, local cafe details, authentic neighborhood atmosphere\",\n      \"lighting\": \"bright natural spring daylight with warm directional fill\",\n      \"shadow_quality\": \"clean street shadows, realistic wall textures, natural fabric highlights\",\n      \"mood\": \"vibrant, cultural, joyful, real Istanbul neighborhood spring\"\n    },\n    \"pose_language\": {\n      \"pose\": \"standing on old stone steps, one hand holding the flower bunch, the other resting lightly on the handbag, head turned softly toward camera\",\n      \"hands\": \"natural elegant fingers\",\n      \"posture\": \"confident, lively, relaxed\"\n    },\n    \"camera\": {\n      \"camera_body\": \"Fujifilm GFX 100S\",\n      \"lens\": \"50mm f/1.8 medium-format lens\",\n      \"aperture\": \"f/2.5\",\n      \"shutter\": \"1/640s\",\n      \"iso\": \"ISO 160\",\n      \"angle\": \"intimate eye-level street portrait\",\n      \"framing\": \"medium-close portrait with colorful Balat street background\"\n    }\n  }\n}",
+    "title": "Balat Historic Street Spring Portrait",
+    "description": "A technical JSON prompt for a vibrant spring editorial set in the colorful historic Balat neighborhood of Istanbul.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743479991_ncyxy0_HINx5qRWoAAaDxg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19986,
+    "content": "A confident young adult {argument name=\"subject\" default=\"male with wavy dark hair\"} is deliberately posed in a structured, layered composition, wearing a {argument name=\"outfit\" default=\"light beige linen suit paired with a light blue unbuttoned dress shirt, a brown leather belt, brown loafers, and dark sunglasses\"}. His relaxed expression features a neutral mouth and uncreased eyebrows as he looks thoughtfully away, his body turned at a 45-degree angle with a tilted shoulder line, leaning his weight to the right. His relaxed left hand rests naturally on the thicker top bar of a worn white metal railing, fingers lightly draped over the edge, while his right hand is casually tucked into his front right trouser pocket with only the thumb and wrist visible. He stands on an {argument name=\"location\" default=\"outdoor Mediterranean cliffside terrace\"} grounded by a checkered dark gray slate tile floor accented with blue and yellow decorative inserts, bordered by slightly textured, matte white plaster structural columns. In the foreground, an ornate vintage dark metal hanging lantern frames the top left, while the thin vertical bars of the white railing cross the midground. Beside him sits a dominant, weathered terracotta ornamental pot detailed with carved bands and handles, surrounded by subtle dry plant branches and green foliage, overlooking a lower weathered white corrugated roof. The deep spatial depth resolves into a softly blurred background showcasing a pristine deep ocean blue sea dotted with small white boats. The sun-drenched, sophisticated Old Hollywood Riviera atmosphere is shaped by bright, highly directional hard golden sunlight striking from the top left at a 45-degree angle. This single illumination source casts deep black, elongated, harsh-edged shadows onto the tiled floor and plaster walls from the subject, the railing, and the pot, while preserving crisp specular highlights on the subject's left shoulder, the edge of his face, and the white metal railing. Captured straight-on using realistic digital photography with a 50mm lens at f/5.6, ISO 100, and a 1/1000s shutter speed, the editorial image boasts a tack-sharp texture, medium depth of field, and cinematic film grain, enhanced by post-processing that applies warm highlights, cool crushed shadows, and a striking teal and orange complementary color contrast, elegantly framed in a 4:5 aspect ratio.",
+    "title": "Mediterranean Riviera Editorial Portrait",
+    "description": "A highly descriptive editorial photography prompt for a male subject in a linen suit on a Mediterranean cliffside, featuring hard golden sunlight and cinematic film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743488626_hvit5k_HINrDMZXsAA80br.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19980,
+    "content": "A grainy nighttime candid photo prompt featuring a woman eating pizza at a gas station with a military fighter jet in the background.",
+    "title": "Underground Paparazzi Fighter Jet Pizza",
+    "description": "A grainy nighttime candid photo prompt featuring a woman eating pizza at a gas station with a military fighter jet in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743485018_lymhg4_HINh5CEbIAEIaBz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19991,
+    "content": "A vibrant mixed-media collage featuring a central illustration of a {argument name=\"subject\" default=\"smiling woman with dark, wavy hair in a cozy green cable-knit sweater, holding a paintbrush\"}. The composition includes a polaroid-style photo of a sunlit art studio, hand-drawn doodles like hearts and stars, and uplifting hand-lettered {argument name=\"quotes\" default=\"quotes such as 'CULTIVATE YOUR LIGHT' and 'FLOURISH & SHINE.'\"} The background consists of {argument name=\"colors\" default=\"torn notebook paper textures and soft watercolor washes in shades of teal, lavender, and gold\"}. A \"MANIFESTO\" list on a taped-on scrap of paper adds a personal, journal-entry feel to the design, creating an inspiring and creative atmosphere.",
+    "title": "Creative Art Studio Mixed Media Collage",
+    "description": "A vibrant collage prompt combining watercolors, textures, and hand-drawn elements for an inspiring journal-entry aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743491583_5nmq1y_HINeqGcXQAAmkzy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19984,
+    "content": "Editorial fashion prompt of a woman sitting in a vintage bathroom sink, featuring direct flash photography and a nostalgic indie aesthetic.",
+    "title": "Vintage Bathroom Fashion Editorial",
+    "description": "Editorial fashion prompt of a woman sitting in a vintage bathroom sink, featuring direct flash photography and a nostalgic indie aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743486185_1pk0qp_HINZBXna8AASflJ.jpg",
+      "https://cms-assets.youmind.com/media/1778743486288_t0t5wf_HINZCTLasAEsI3g.jpg",
+      "https://cms-assets.youmind.com/media/1778743487056_7aia3w_HINZDICa4AAvOH0.jpg",
+      "https://cms-assets.youmind.com/media/1778743486912_cebgnw_HINZD65aYAAqGyd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19969,
+    "content": "Create a cinematic high-fashion portrait of the subject standing perfectly still in the center while {argument name=\"motion effect\" default=\"blurred silhouettes of people\"} move around her in motion blur. She wears a sleek all-black minimalist outfit with narrow black sunglasses, calm and confident expression, soft natural makeup, clean editorial styling. Bright soft background with dreamy depth, shallow focus,subtle film grain, luxury fashion magazine aesthetic, ultra-realistic skin texture, sharp facial details, atmospheric lighting, Vogue-style composition, high-end photography, 8K ultra-detailed.",
+    "title": "Cinematic Motion Blur Fashion Portrait",
+    "description": "A high-fashion portrait prompt featuring motion-blurred silhouettes surrounding a sharp, static central subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743478511_4nv4yb_HINJlqHaEAAbX_g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19977,
+    "content": "Do not change the facial features. A cinematic close-up portrait of a young woman. The photo is taken from a slightly high angle. She is sitting on the floor, which is covered with a gray carpet. She is facing the camera; one leg is bent, the other is straight and extended. Between her legs, there is a flat glass plate with a partially eaten cake on it. One hand is next to the cake and is smeared with it; with the other hand, she is holding a knife and licking the cake off the blade. Her gaze is slightly turned to the side. The photo is taken with flash. Film grain is added. The overall vibe of the frame is relaxed, with a street glamour feel. She is wearing {argument name=\"clothing style\" default=\"Balenciaga-style clothing\"}. A realistic, detailed photograph.",
+    "title": "Street Glamour Cake Knife Portrait",
+    "description": "A cinematic high-angle portrait of a woman in Balenciaga-style clothing sitting on a carpet with a cake, licking a blade for a relaxed street glamour vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743482684_foflzr_HIM-T2abYAAtTX0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19979,
+    "content": "Ultra-realistic top-down flat lay fashion sports photography of a young woman with voluminous curly brown hair lying on a vibrant {argument name=\"court color\" default=\"blue\"} tennis court surface, holding a black tennis racket beside her head, wearing a white mesh crop sports t-shirt tied at the waist, white pleated tennis skirt, white socks, and white sneakers. Multiple neon yellow tennis balls scattered artistically around her body, with a black tennis duffle bag and an open tennis ball can placed beside her. Bright harsh sunlight creating strong cinematic shadows, editorial Nike-style campaign aesthetic, luxury sportswear vibe, symmetrical composition, crisp details, glossy skin highlights, vibrant colors, minimal background, high contrast, professional commercial photography, shot from directly above, 35mm lens look, ultra detailed, magazine cover quality, clean modern sporty aesthetic.",
+    "title": "Flat Lay Tennis Fashion Editorial",
+    "description": "Ultra-realistic top-down fashion photography of a woman on a blue tennis court with neon balls, using a 35mm lens look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743484356_3i91fx_HIMmC0-bQAA2sKB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19964,
+    "content": "{\n  \"prompt\": \"A photorealistic lifestyle portrait of a smiling {argument name=\"hair color\" default=\"red\"}-haired young woman with wet hair sitting casually on a {argument name=\"furniture\" default=\"red-and-white striped lounge chair\"}, wearing a {argument name=\"outfit\" default=\"sporty white sleeveless outfit with red trim\"}. A translucent red inflatable swim ring in the foreground, bright soft studio lighting, clean minimal background, fresh summer aesthetic, natural skin texture, warm cheerful expression, vertical composition.\",\n  \"style\": \"photorealistic, lifestyle editorial, summer campaign\",\n  \"lighting\": \"bright soft diffused lighting\",\n  \"camera\": \"portrait orientation, medium close-up, shallow depth of field\",\n  \"mood\": \"fresh, playful, summery, relaxed\",\n  \"quality\": \"high detail, realistic textures\"\n}",
+    "title": "Summer Lifestyle Editorial Portrait",
+    "description": "A cheerful summer-themed portrait prompt featuring a woman on a lounge chair with wet hair and a fresh, relaxed aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743475790_v5byh0_HIMfPqZaEAAfh-V.jpg",
+      "https://cms-assets.youmind.com/media/1778743475938_vipimg_HIMfPqWbAAAO-1c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19974,
+    "content": "{\n  \"prompt\": \"A realistic fashion editorial photo of a {argument name=\"subject\" default=\"blonde-haired woman\"} posing in a modern luxury bathroom, leaning against a stone vanity. She wears a {argument name=\"outfit\" default=\"fitted black halter-style outfit with a front zipper and tailored pants\"}. Warm wall lighting, beige stone tiles, large mirror reflections, soft cinematic shadows, high-end hotel interior, confident elegant mood, natural skin texture, shallow depth of field, vertical composition.\",\n  \"style\": \"photorealistic, cinematic, editorial fashion\",\n  \"lighting\": \"warm ambient bathroom lighting\",\n  \"camera\": \"portrait orientation, medium-full shot, 35mm lens look\",\n  \"quality\": \"high detail, realistic textures\"\n}",
+    "title": "Luxury Bathroom Fashion Editorial",
+    "description": "A sophisticated fashion editorial prompt for a portrait in a modern high-end hotel bathroom with stone vanities and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743480468_cbmgmc_HIMeyesbsAANuZM.jpg",
+      "https://cms-assets.youmind.com/media/1778743480599_13wk0v_HIMeyexaQAAZV39.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19971,
+    "content": "A pink-background social media advertisement poster featuring 7 illustrated women standing in a side profile row, diverse skin tones, all wearing pink_crop tops and pink shorts/skirts, each woman has a small white square patch on her upper arm, the figures show a gradual body shape progression from left to right, flat vector illustration style, soft cartoon aesthetic, bold black text at the top reads \"{argument name=\"main headline\" default=\"HOW I BOUNCED BACK FROM POST-PREGNANCY BELLY\"}\" with \"POST-PREGNANCY BELLY\" highlighted in a hot pink banner with white text, subtext reads \"{argument name=\"subtext\" default=\"without having to put my body through the torture of harsh Ozempic chemicals\"}\", italic serif text at the bottom reads \"Learn How Thousands Of Women Are Doing The Same\", clean modern ad layout, vibrant pink (#FF69B4) solid background, high contrast typography. Size 1:1",
+    "title": "Health Lifestyle Illustration Ad",
+    "description": "A flat vector illustration prompt for a social media health advertisement featuring women in pink fitness wear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743478466_9eprpd_HIL0XwbXgAAidpH.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19981,
+    "content": "A photorealistic full-body shot of a woman in vintage ringer tee and flag shorts at a retro gas station under harsh midday sunlight.",
+    "title": "Retro Americana Gas Station Editorial",
+    "description": "A photorealistic full-body shot of a woman in vintage ringer tee and flag shorts at a retro gas station under harsh midday sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743484190_u4iwei_HIMampLa4AAdLLz.jpg",
+      "https://cms-assets.youmind.com/media/1778743484253_1lbrz4_HIMam5xa4AA-pMC.jpg",
+      "https://cms-assets.youmind.com/media/1778743484509_koj5gf_HIMam9vaQAAF15q.jpg",
+      "https://cms-assets.youmind.com/media/1778743485093_rl6rjf_HIMam9PbsAAOkUF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19962,
+    "content": "Ultra-realistic iPhone elevator mirror selfie, identity preserved exactly from reference image.\nFull-body mirror selfie inside a dark modern elevator. Young woman stands slightly angled sideways facing left, head turned in sharp side profile with lips softly pursed. Phone held at chest height in her right hand, elbow bent outward. Left hand hangs low holding an open {argument name=\"prop\" default=\"paperback book\"} against her {argument name=\"skirt color\" default=\"burgundy\"} skirt.\nSlick low ponytail, thin clear glasses, white wired earbuds with the cable hanging down across her chest. Oversized {argument name=\"coat style\" default=\"dark charcoal coat\"} with wide sleeves over a grey hooded layer and black graphic sweatshirt. Burgundy midi skirt, black quilted shoulder bag on left shoulder, chunky silver rings.\nelevator: dark wall panels, stainless steel doors behind her, bright rectangular ceiling light panels, vertical light strips, elevator buttons on the right wall, mirror rail at bottom.\nClean iPhone mirror framing, slightly wide but not distorted, cool elevator lighting, realistic reflection, natural skin texture, no beauty filter, no smoothing. 4K vertical 9:16.",
+    "title": "Elevator Mirror Selfie with Book",
+    "description": "A prompt designed for a realistic smartphone mirror selfie in an elevator, featuring a layered outfit and an open book as a prop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743474691_8brzh5_HIMKGf1aYAA2UwG.jpg",
+      "https://cms-assets.youmind.com/media/1778743474063_fp1rz0_HIMKGl_acAAduLq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19973,
+    "content": "{\n  \"type\": \"ultra_realistic_iphone_photo\",\n  \"style\": \"street movement realism\",\n\n  \"expression\": {\n    \"description\": \"neutral walking expression, unaware of camera\",\n    \"FACS\": [\n      \"AU62 (Neutral mouth)\",\n      \"AU45 (Blink softness)\",\n      \"AU5 (Natural eye openness)\"\n    ]\n  },\n\n  \"skin\": \"natural texture, slight sweat shine, realistic uneven tone\",\n\n  \"hair\": \"wind affected {argument name=\"hair style\" default=\"curls with loose strands\"}\",\n\n  \"outfit\": \"{argument name=\"outfit\" default=\"black oversized jacket, loose cargos, white sneakers\"}\",\n\n  \"action\": \"walking quickly past the camera\",\n\n  \"environment\": {\n    \"location\": \"{argument name=\"location\" default=\"busy downtown street\"}\",\n    \"details\": [\n      \"cars moving\",\n      \"pedestrians blurred\",\n      \"street reflections\",\n      \"random signboards\"\n    ]\n  },\n\n  \"lighting\": \"cloudy daylight with harsh reflections\",\n\n  \"camera\": {\n    \"device\": \"iPhone zoom camera\",\n    \"angle\": \"tracking shot with awkward framing\",\n    \"quality\": \"motion blur, imperfect focus lock, digital sharpening artifacts\"\n  }\n}",
+    "title": "iPhone Street Movement Realism",
+    "description": "An iPhone-style street photography prompt focusing on realistic textures, movement blur, and candid urban aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743480635_v7t87d_HIL_yb4XMAAFuoz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19985,
+    "content": "Fisheye lens photo captured from the {argument name=\"perspective\" default=\"perspective of a fish\"} that is about to be eaten by approaching {argument name=\"subject\" default=\"whale\"}. Aspect ratio 16:9.",
+    "title": "Fish Eye Perspective Shot",
+    "description": "A creative prompt simulating the POV of a fish looking at an approaching whale through a fisheye lens.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743488433_79lpv1_HILzCxFXQAAGNKO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19993,
+    "content": "A black-and-white, hyper-realistic portrait: a {argument name=\"subject\" default=\"woman\"} seen from behind, looking into a broken mirror. Her reflection appears fragmented along the cracks of the mirror that converge at the center of her face. She is wearing a {argument name=\"clothing\" default=\"dark-colored t-shirt\"}; her hair is short and neatly styled. High-contrast lighting is used, with strong shadows and an {argument name=\"atmosphere\" default=\"introspective, thoughtful atmosphere\"}. An editorial-style, artistic photograph. Soft focus with shallow depth of field. Vertical composition.",
+    "title": "Broken Mirror Reflection Portrait",
+    "description": "A striking black-and-white artistic portrait featuring a fragmented reflection in a broken mirror, emphasizing high contrast and an introspective mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743491792_7hzw62_HILe_DGa8AA4MCO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19970,
+    "content": "Do not change facial features. Use the uploaded photo as the ONLY and EXACT facial reference. Preserve facial identity with absolute priority: exact facial geometry, proportions, likeness, age, natural skin texture, hair color and style. No beautification, no stylization, no changes to the face. If any conflict occurs - preserve the face exactly. Vertical photorealistic urban fashion photo, format 2:3 (or 3:4), night flash street style look. Scene on an {argument name=\"location\" default=\"escalator in a dark indoor space\"} (metro/mall): metallic ribbed steps with yellow-orange edges, dark side panels and handrails reflecting light, decorative tall plants visible behind glass/panel on the left.",
+    "title": "Metro Escalator Urban Fashion Look",
+    "description": "A photorealistic street-style prompt for an urban fashion photo on an escalator with night flash aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743478797_ufepjb_HILF2bSaEAEpwIV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19966,
+    "content": "Convert the woman in the reference image into a {argument name=\"style\" default=\"high-contrast, black-and-white, Vogue-style editorial portrait\"}. She is wearing a soft, luxurious, textured black turtleneck, a {argument name=\"jacket\" default=\"leather jacket\"} over it and a {argument name=\"accessory\" default=\"white wool scarf\"}.",
+    "title": "Vogue Style Editorial Transformation",
+    "description": "An image-to-image transformation prompt that converts a reference subject into a high-contrast black-and-white Vogue-style portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743476391_edb1ay_HIK6jsnakAAaOrO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19975,
+    "content": "A real young man (Use my face refrence uploded image) with short voluminous messy curly dark brown black hair, pale porcelain skin, soft dreamy eyes looking upward with lips slightly parted, delicate thin silver chain necklace, wearing oversized loose white t-shirt with soft {argument name=\"clothing color\" default=\"sage green\"} outer shirt draped casually off one shoulder, cute white and grey {argument name=\"cat type\" default=\"tabby cat\"} sitting relaxed on his shoulder leaning against his neck, head tilted back slightly looking upward, pure soft warm white cream minimal background, warm soft golden side lighting casting gentle shadows on face and neck, small decorative text elements and cursive handwritten style text overlay at top reading vibes, small text at bottom, hyper-realistic 8K photography, soft dreamy Korean aesthetic, extreme curly hair and skin detail, close up portrait composition, shallow depth of field, shot on Hasselblad medium format camera",
+    "title": "Dreamy Korean Aesthetic Cat Portrait",
+    "description": "A soft, hyper-realistic portrait prompt featuring a young man with a tabby cat on his shoulder in a minimal Korean aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743481306_rjuwnb_HIKmXCybYAAto4Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19963,
+    "content": "CREATE STYLISH YOUNG SLIMFIT WOMAN (FACE LIKE 100% UPLOAD IMAGE) WITH {argument name=\"hair style\" default=\"DARK. MESSY HAIR\"} AND, LEANING CASUALLY AGAINST A SHOWROOM MIRROR. SHE IS WEARING {argument name=\"outfit\" default=\"BLACK T-SHIRT AND JEANS\"} RIGHT HAND HOLDING A IPHONE 17 LEFT HAND IN POCKET LOOKING DIRECTLY AT THE MIRROR CAMERA. SHE HAS A DARK WATCH ON HIS LEFT WRIST. LIGHTING IS BRIGHT AND EVEN HIGHLIGHTING. WEAR BRACELET AND RING AND LITTLE BIT CLOSE MOUTH SMILE ON FACE",
+    "title": "Showroom Mirror Selfie Fashion Portrait",
+    "description": "A prompt for a casual fashion mirror selfie, focusing on identity preservation from a reference image and specific outfit details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743474656_stymgb_HIKjlBJaoAA-ZGQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19961,
+    "content": "Photorealistic vertical photo of a stylish young woman with long wavy black hair standing confidently on wet cobblestone pavement in front of a {argument name=\"location\" default=\"grand gothic stone archway with ornate wooden doors\"} at golden hour. She is wearing a {argument name=\"outfit\" default=\"lavender oversized sweatshirt with subtle floral embroidery on the sleeves, fitted black jeans, and white sneakers\"}. She looks back over her left shoulder at the camera with a soft smile, cinematic lighting, realistic skin texture, elegant street-fashion aesthetic. A {argument name=\"pet\" default=\"small white dog wearing a red bandana\"} sits beside her, ultra-detailed, 8K, shallow depth of field.",
+    "title": "Gothic Archway Street Fashion",
+    "description": "A cinematic street fashion prompt featuring a woman and her dog standing before a gothic archway at golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743474717_iw89tp_HIKi0QvW4AAaHwz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19965,
+    "content": "A high-end fashion editorial full-body shot of a male model leaning against a minimalist dark matte grey cabinet in a luxury studio. The model is wearing a {argument name=\"shirt\" default=\"premium deep red button-down linen shirt\"} with sleeves slightly rolled up, tucked into {argument name=\"trousers\" default=\"tailored high-waisted beige pleated trousers\"} with a sharp crease, held by a sleek black leather belt. He is wearing black leather dress boots and subtle silver bracelets. The lighting is soft, cinematic, and professional, creating a clean, aesthetic look with neutral tones. The model's head features thick, dark styled hair and a sharp jawline, but with simplified facial features to allow for a custom face replacement. 16k resolution, hyper-realistic, DSLR quality.",
+    "title": "Male Fashion Editorial Portrait",
+    "description": "A high-end male fashion editorial prompt focusing on minimalist studio luxury and specific clothing textures like linen and pleated trousers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743476250_k52xet_HIKfMoKbUAEpcl-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19994,
+    "content": "A young woman wearing a {argument name=\"clothing\" default=\"black winter puffer jacket and a gray hoodie\"} is taking a selfie on a frozen lake. Her hair must be exactly the same style as the original male reference — curly, dark brown, medium length, with the same texture and volume (not long). The face from the initially provided female reference photo must be preserved exactly without any distortion. Her face is partially hidden by the raised collar of her jacket, which she is holding with her left hand, and by dark sunglasses. On the left side of the frame, in the background, there is a {argument name=\"car model\" default=\"black Mercedes-Benz CLS 63 AMG (W219)\"} parked on the snow. The car is naturally covered with snow and frost. No license plate. The car is positioned facing away from the camera, and tire tracks are visible on the ice. The background shows a wide snowy lake landscape stretching to the horizon. The sky is fully covered with {argument name=\"weather\" default=\"dense gray clouds\"}; it's starting to get dark (post-sunset twilight). Photorealistic, cold tones, and natural lighting.",
+    "title": "Frozen Lake Winter Selfie",
+    "description": "A realistic selfie prompt capturing a winter scene on a frozen lake with a luxury car and cold, natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743492865_bcavz3_HIKdn5-bIAAAqwC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19990,
+    "content": "Ultra-realistic cinematic photo of a cheerful young woman washing a glossy red Tesla Cybertruck outdoors on a sunny tropical afternoon. She is standing barefoot on a wet concrete driveway covered with soap foam and water reflections. The woman has long wavy dark brown hair, glowing tan skin, and a bright natural smile while looking back toward the camera and waving with one hand. She is wearing a vibrant red high-cut one-piece swimsuit with a deep open back and retro-inspired styling. The shiny red Tesla Cybertruck is covered in soap suds across the hood, windshield, and side panels, creating a luxury car-wash aesthetic. She is leaning slightly against the front side of the truck while holding a purple microfiber cloth in the other hand. The environment features bright natural sunlight, tropical greenery and palm trees in the background, clean modern white villa walls, and realistic reflections on the wet ground. Shot in portrait orientation with shallow depth of field, 85mm lens look, soft natural daylight, realistic skin texture, cinematic color grading, ultra-detailed facial features, glossy metallic reflections, subtle shadows, realistic proportions, candid lifestyle photography vibe, summer luxury atmosphere, photorealistic composition, HDR, ultra HD 8k quality, editorial-style framing, premium automotive photography aesthetic. Negative Prompt: low quality, blurry face, distorted anatomy, extra fingers, unrealistic body proportions, cartoon style, CGI look, duplicate limbs, bad hands, watermark, text, logo, cropped feet, noisy image, oversaturated skin, plastic texture, motion blur, deformed vehicle, messy background Suggested Settings: Aspect Ratio: 2:3 Style: Photorealistic / Cinematic Camera: 85mm lens, f/1.8 Lighting: Natural midday sunlight Quality: Ultra HD / 8K CFG Scale: 7–9 Steps: 30–40 Prompt 2. Ultra-realistic cinematic photo of a beautiful young woman washing a glossy red Tesla Cybertruck outdoors on a sunny afternoon. She is kneeling barefoot on the wet surface of the Tesla covered in soap foam and water reflections, cleaning the windshield with a purple sponge. The woman has long wavy dark brown hair, soft glowing tan skin, and a calm focused expression while looking downward. She is wearing a vibrant red high-cut one-piece swimsuit with retro lifeguard-inspired styling and a white digital wristwatch. The scene is set in front of a weathered industrial garage door with soft natural sunlight creating warm highlights and realistic shadows. Water droplets, soap bubbles, glossy reflections, and wet textures are highly detailed. Shot with an 85mm lens, shallow depth of field, photorealistic skin texture, cinematic composition, ultra-detailed, realistic lighting, vibrant summer atmosphere, 8K editorial fashion photography style.",
+    "title": "Tesla Cybertruck Tropical Car Wash",
+    "description": "A cinematic lifestyle photography prompt featuring a model washing a glossy red Cybertruck in a tropical setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743490203_47mdqv_HIKdfLFasAA3O2Q.jpg",
+      "https://cms-assets.youmind.com/media/1778743490297_rmbymh_HIKdfMXaoAA0l_R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19995,
+    "content": "A surrealist studio portrait photograph in a cultural identity tribute style. A beautiful young {argument name=\"subject\" default=\"Middle Eastern girl\"} in her early 30s, wearing an {argument name=\"outfit\" default=\"elegant light traditional patterned dress\"}, sitting cross-legged on a woven rug placed on real sand, calmly pouring tea from a metal kettle into a small glass cup. Behind her, a crashed fighter jet lies partially buried in the sand, tilted and damaged. The backdrop is a {argument name=\"background\" default=\"painted sky blue fabric with soft white clouds\"}, filling the entire background edge-to-edge. The ground is real desert sand with subtle texture and footprints. Soft natural lighting, cinematic but grounded.",
+    "title": "Surrealist Desert Tea Ceremony",
+    "description": "A beautiful surrealist portrait prompt featuring a peaceful tea pouring scene set against a crashed fighter jet in the desert.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743493877_nk2fm7_HIKLHSwa4AEfyft.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19778,
     "content": "A hyper-realistic, photorealistic medium-shot portrait of {argument name=\"subject\" default=\"[NAME]\"} on an urban street at night right after the rain. She has a curvy, fit, and well-proportioned figure, styled with slightly messy, wet-looking hair with strands partially covering one side of her face. Her delicate facial features are accented by subtle makeup, defined eyebrows, and a striking bright red lipstick. She has a calm expression, looking discreetly off-camera. She is wearing a {argument name=\"dress style\" default=\"short, plain white dress featuring a corset-style bodice\"} with thick straps, a delicate lace trim around a sweetheart neckline, a front tie detail at the bust, and a gently pleated, flared skirt, paired with white strappy high heels. She is standing gracefully with her legs crossed at the calves, leaning slightly back against a dark gray metallic structural beam with a crisscross lattice pattern. Both hands are raised near her upper torso, gently holding the black curved handle of a large, transparent umbrella. The scene is illuminated by high-contrast cinematic night lighting, with a strong backlight and rim light highlighting her hair and the edges of the clear umbrella, while soft, diffused artificial light brightens her face and stark white dress. The ground is highly reflective, wet cobblestone showing bright specular highlights. The background is softly blurred into a beautiful bokeh of warm golden streetlights and distant red and cyan neon signs, creating a moody, romantic, and atmospheric neo-noir vibe.",
     "title": "Cinematic Night Rain Portrait",

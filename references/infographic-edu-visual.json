@@ -56,6 +56,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 19976,
+    "content": "Identify 6 sports moments   => reconstructed as dynamic scrap-metal dioramas where athletes are forged from [{argument name=\"metal materials\" default=\"rusted gears, bicycle chains, or sheet metal\"}], motion trails rendered in [{argument name=\"trail materials\" default=\"spray-painted stencils or wire mesh\"}], and stadium energy implied by [scattered ticket stubs or crushed aluminum]. Each scene channels the moment’s intensity — triumph, heartbreak, or shock — through metal tension and composition flow. Style: high-contrast monochrome, dramatic side lighting, gritty industrial texture. Output: One image, 3x2 grid",
+    "title": "Scrap Metal Sports Dioramas",
+    "description": "Creative prompt for generating industrial sports dioramas using materials like rusted gears and bicycle chains in a high-contrast monochrome style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743482638_sromnb_HIFjF-HXkAIW9uR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19987,
+    "content": "Minimalist ultra-high-resolution travel sketch poster of {argument name=\"city\" default=\"New York City\"}, on clean white sketchbook paper with subtle paper grain texture. Style: refined pen drawing + loose watercolor sketch. Delicate black ink linework, airy watercolor washes, elegant urban details. Show a {argument name=\"scene\" default=\"calm everyday NYC street scene — small cafés, yellow taxis, bicycles, crosswalks, brownstone buildings, subtle local signage, fashionable pedestrians, soft morning light\"}. Spacious editorial composition with generous negative space. Mood: calm, modern, sophisticated, poetic. Typography: {argument name=\"text\" default=\"“[NEW YORK]” “Everyday Urban Rhythm”\"} Premium travel sketch aesthetic, minimal and stylish, ultra-realistic watercolor + ink travel journal style, ultra-high-resolution, 9:16.",
+    "title": "Minimalist NYC Sketch Poster",
+    "description": "A prompt for a refined pen and watercolor travel sketch of a New York City street, featuring delicate linework and a poetic, modern atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778743488695_dosyf6_HINKEgZawAAv0jh.jpg",
+      "https://cms-assets.youmind.com/media/1778743488722_x4u3xl_HINKEgDawAA40Hk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19771,
     "content": "Create high-fashion couture sketches for an \"{argument name=\"collection name\" default=\"Aria of Frost\"}\" and \"Lumina Papilio\" collection, featuring ethereal, butterfly-inspired evening gowns. The designs should showcase sleek mermaid silhouettes, architectural ruffled sleeves that mimic lepidoptera wings, and intricate silver filigree wirework. Use a luxurious color palette of {argument name=\"color palette\" default=\"iridescent amethyst, frozen lilac, and deep cerulean blue\"} accented with metallic gold and silver threads. The mood board should include technical details like fabric swatches of silk-satin, silver mesh, and seed pearl clusters, presented in a professional atelier style with elegant calligraphy and butterfly reference anatomy.",
     "title": "Ethereal Butterfly Couture Sketches",
