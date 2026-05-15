@@ -1,14 +1,85 @@
 [
   {
-    "id": 19997,
-    "content": "A whimsical collection of {argument name=\"art style\" default=\"watercolor illustrations\"} featuring young, freckled children with expressive eyes in a {argument name=\"setting\" default=\"lush woodland setting\"}. The style uses vibrant, bleeding watercolor washes, soft ink outlines, and a dreamy atmosphere. Key scenes include a {argument name=\"character details\" default=\"boy in a colorful hoodie, a boy sitting cross-legged reading a book, a girl with teal hair writing with a quill, and a girl with golden braids gathering wildflowers\"}.",
-    "title": "Whimsical Woodland Watercolor Collection",
-    "description": "A set of dreamy watercolor illustrations of children in a woodland setting with bleeding washes and soft ink outlines.",
+    "id": 20148,
+    "content": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
+    "title": "Spiritual Soulmate Visualization",
+    "description": "A meditative spiritual prompt creating a visualization of a translucent ethereal man appearing alongside a serene woman in a candlelit room.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778743493859_64rera_HIQpEedW0AAvDbX.jpg",
-      "https://cms-assets.youmind.com/media/1778743493887_tyyrzq_HIQpEhUXsAA8dH9.jpg",
-      "https://cms-assets.youmind.com/media/1778743493880_m3gk53_HIQpEmSWcAAJ_fL.jpg",
-      "https://cms-assets.youmind.com/media/1778743494547_ub8ghf_HIQpErOW8AAlIu9.jpg"
+      "https://cms-assets.youmind.com/media/1778830062774_o7z2be_HIUMHakXUAAfZPB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20155,
+    "content": "A TRIPTYCH OF A SLENDER {argument name=\"subject\" default=\"YOUNG WOMAN\"} (USE 100% REFERENCE FROM UPLOADED IMAGE) WITH THE SAME FACE AND HAIR, WEARING A {argument name=\"attire\" default=\"BLACK SAREE\"}, ELEGANT MATCHING JEWELLERY, AND SOFT GLAM MAKEUP. HER HAIR FLOWS NATURALLY IN THE WINDY BREEZE. TOP PANEL: SHE LOOKS DIRECTLY AT THE VIEWER, SAREE DRAPED BEAUTIFULLY, STANDING IN A {argument name=\"location\" default=\"FIELD OF TALL GRASS\"}. THE WIND LIFTS THE PALLU SLIGHTLY, CREATING A DRAMATIC, CINEMATIC EFFECT. MIDDLE PANEL: A PROFILE VIEW OF HER, LOOKING UPWARDS AND TO THE SIDE, HER SILHOUETTE FRAMED AGAINST AN OVERCAST SKY. TALL GRASS SWAYS IN THE FOREGROUND, ADDING DEPTH AND MOOD. BOTTOM PANEL: A CLOSE-UP OF HER TORSO AND HANDS, SHOWING THE DETAILING OF THE BLACK SAREE FABRIC, JEWELLERY, AND THE GENTLE MOTION OF HER WINDY HAIR AROUND HER SHOULDERS. REALISTIC LIGHTING, SOFT TONES, MOBILE PHOTOGRAPHY STYLE, HIGH DETAIL. I WANT EXACT WOMAN SAME FACE AS, I UPLOADED NO ALTERATION 100% SAME. RATIO 9:16.",
+    "title": "Black Saree Triptych Woman Portrait",
+    "description": "A dramatic triptych prompt for a woman in a black saree, capturing full-body, profile, and close-up views in a field with cinematic wind effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830066760_2ggqnb_HISaxdNbwAAb7Jg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20171,
+    "content": "turn this photo into a chaotic hand-drawn crayon sketch with a {argument name=\"signature style\" default=\"VERY consistent signature art style\"}, {argument name=\"background\" default=\"white paper background\"}, thick dark-brown scratchy outlines drawn with cheap colored pencils, large circular bug-like eyes with tiny pupils and heavy uneven outlines, elongated distorted face shape caused by exaggerated fisheye perspective, tiny compressed mouth, detailed wrinkled under-eyes and chaotic facial shading made from layered crayon strokes, skin colored using rough overlapping pink, peach and red scribbles instead of smooth coloring, messy visible wax crayon texture everywhere, rough uneven coloring outside the lines, aggressive crosshatching and random sketch marks, hands drawn slightly too large with awkward finger anatomy, background filled with childish doodles,random flowers, handwritten words, arrows and chaotic notebook-style decorations, intentionally overcrowded composition, every object outlined with the same dark scratchy pencil style, hyperactive kindergarten sketchbook energy, weirdly expressive and funny, visually consistent recognizable drawing style",
+    "title": "Chaotic Crayon Sketch Style",
+    "description": "A prompt for a humorous and expressive chaotic hand-drawn crayon sketch style with inconsistent anatomy and notebook-style decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830075452_mii4t1_HISVKNBbEAA3f0F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20159,
+    "content": "Hyper-realistic, chaotic wide-angle fish-eye dashboard shot of a speeding {argument name=\"car\" default=\"vintage Mini Cooper\"}.\nCharacters & Identity:\n\n{argument name=\"driver\" default=\"Mr. Bean (Rowan Atkinson)\"} driving maniacally, steering with knees, holding a cup of tea.\nPassenger: photorealistic human, face and hair 100% identical to the uploaded reference, wearing a {argument name=\"outfit\" default=\"modern oversized printed baggy t-shirt\"}, enjoying the thrill of speed.\nBack seat: 3D animated Chucky (evil doll) and Alien Xenomorph, physically squished together, faces pressed against the side window in humorous distortion.\nOutside windshield: 3D animated Green Mean Gremlin splattered against glass, furious expression.\nThrough rear window: police car in pursuit.\nScene & Environment:\n\natermark, text Harsh daylight, strong natural shadows\nMotion blur on passing scenery for extreme sense of speed\nInterior of Mini Cooper rendered with photorealistic detail (dashboard, steering wheel, seats, reflections)\nCamera & Composition:\n\nWide-angle fish-eye perspective, exaggerating speed and chaos\nCinematic framing, dynamic, immersive POV\nHigh-fidelity textures, realistic lighting, reflections, and depth\nMood & Realism: Hyper-realistic photorealism for all human and Mini Cooper elements\n3D animated characters integrated seamlessly into scene\nVibrant, chaotic, fast-paced, cinematic, humorous",
+    "title": "Mr Bean Mini Cooper Chaos",
+    "description": "A hyper-realistic wide-angle shot of Mr. Bean driving a vintage Mini Cooper maniacally with animated characters integrated into a chaotic scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830068623_58ehyo_HIRV28ybAAAfAVb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20150,
+    "content": "A whimsical illustration features a {argument name=\"subject\" default=\"large, purple hippopotamus\"} partially submerged in {argument name=\"water color\" default=\"turquoise water\"}. The hippo's head and snout are prominent, with large, expressive eyes and a wide, pink mouth. A small, {argument name=\"bird\" default=\"blue bird\"} perches on top of the hippo's head. A school of small, pink fish swims around the hippo. The overall style is flat and graphic, with a textured, painterly quality.",
+    "title": "Whimsical Purple Hippo Illustration",
+    "description": "A flat and graphic painterly illustration prompt featuring a large purple hippo submerged in turquoise water with a small blue bird.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830063645_j8jte2_HIEK0zXXAAAE9Aw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19997,
+    "content": "A whimsical collection of {argument name=\"art style\" default=\"watercolor illustrations\"} featuring young, freckled children with expressive eyes in a {argument name=\"setting\" default=\"lush woodland setting\"}. The style uses vibrant, bleeding watercolor washes, soft ink outlines, and a dreamy atmosphere. Key scenes include a boy in a colorful hoodie, a boy sitting cross-legged reading a book, a girl with teal hair writing with a quill on a tree stump, and a girl with golden braids gathering {argument name=\"props\" default=\"wildflowers and berries\"} into a basket.",
+    "title": "Watercolor Woodland Children Illustrations",
+    "description": "A whimsical prompt for creating a series of watercolor illustrations of children in a forest setting with a dreamy, painterly style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830060663_ndmm8v_HIQpEedW0AAvDbX.jpg",
+      "https://cms-assets.youmind.com/media/1778830060604_n5b3pt_HIQpEhUXsAA8dH9.jpg",
+      "https://cms-assets.youmind.com/media/1778830060602_2x0cyi_HIQpEmSWcAAJ_fL.jpg",
+      "https://cms-assets.youmind.com/media/1778830061353_121n19_HIQpErOW8AAlIu9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20149,
+    "content": "Use the uploaded face reference image as the exact identity reference. Maintain perfect facial consistency across all frames — same facial structure, skin tone, hairstyle, eye shape, beard texture, nose, lips, and realistic proportions. Do not change identity. Create an ultra-cinematic multi-frame night photography collage of a {argument name=\"subject\" default=\"young man\"} standing on a {argument name=\"location\" default=\"rooftop\"} under a {argument name=\"celestial body\" default=\"massive glowing full moon\"}. Mood should feel emotional, dreamy, introspective, and film-like. Composition Layout (6-frame cinematic grid): 1.Wide rooftop shot with giant moon dominating the cloudy night sky. 2.Side profile portrait looking upward toward the moon. 3.Extreme close-up of eye reflecting moonlight and clouds. 4.Cinematic silhouette frame from behind with skyline lights. 5.Hand close-up resting on rooftop railing with shallow depth of field. 6.Atmospheric sky frame filled with stars, clouds, moon glow, and haze. Environment: Urban rooftop at night, Distant city skyline with realistic bokeh lights, Dramatic clouds surrounding bright moon, Slight wind movement in clothes and hair, Moist rooftop texture with reflective highlights, Atmospheric fog and cinematic haze. Lighting: Soft blue moonlight as key light, Subtle warm city lights from below, Realistic night shadows, Volumetric moon glow, Rim lighting around silhouette, High dynamic range cinematic contrast. Camera & Photography Style: Shot on Sony A7R IV / ARRI Alexa style, 85mm portrait lens + 35mm cinematic wide lens, Ultra photorealistic, Natural skin texture, Shallow depth of field, Sharp eye detail, Film grain, HDR night photography, Moody color grading, Premium cinematic composition, Hyper detailed, Unreal Engine realism, Netflix-style visual atmosphere. Color Palette: Deep midnight blue, silver moonlight, soft black shadows, cool cyan tones, warm golden city bokeh highlights. Quality Tags: masterpiece, best quality, ultra detailed, 8k, photorealistic, cinematic lighting, volumetric fog, realistic skin texture, atmospheric perspective, dramatic composition, high contrast, emotional storytelling, movie still aesthetic, premium cinematic collage, highly detailed clouds, realistic reflections. Negative Prompt: low quality, blurry face, bad anatomy, distorted eyes, extra fingers, oversaturated colors, cartoon, CGI look, duplicate frames, low detail skin, noisy image, warped hands, fake lighting, washed colors, deformed face, unrealistic moon proportions, text, watermark, logo, cropped face",
+    "title": "Cinematic Moonlight Rooftop Portrait Collage",
+    "description": "A sophisticated multi-frame prompt that creates an emotional, film-like collage of a person on an urban rooftop under a massive full moon, focusing on mood and atmospheric textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830063254_js3sqi_HIQOJqjaQAAJP_d.jpg",
+      "https://cms-assets.youmind.com/media/1778830063413_d9xtx0_HIQOJqkasAAEq2w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20147,
+    "content": "The image is a {argument name=\"page type\" default=\"detailed fantasy field journal page\"} centered on a full-body portrait of a {argument name=\"subject\" default=\"female adventurer with brown hair\"}, a green jacket, a khaki skirt, tall brown boots, and a hat with a small bird and feathers. She carries a shoulder bag and is sketching in a notepad. A small green dragon sits on her shoulder. The background is a detailed coastal village and sea landscape at sunset. The page is framed with numerous taped photos and notes. Key elements include a photo of a glowing green spectral 'Glimmer Cat', and a text box describing 'Species 73: Sylvaris Glimmer Cat'. Taped photos of sun-drenched coastal ruins are in the corner. There are also smaller sketches of a cat head and a dragon head, and flags. An entry stamp and various handwritten notes are scattered around. A larger, glowing green Glimmer Cat is standing by her boots, and a folded treasure map is at her feet.",
+    "title": "Fantasy Field Journal Illustration",
+    "description": "An intricate prompt for a detailed fantasy field journal page featuring an adventurer, a small dragon, and various sketches and notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830061997_1774d5_HIP-wAMWkAAZcyP.jpg"
     ],
     "needReferenceImages": false
   },

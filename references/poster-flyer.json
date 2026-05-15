@@ -20,6 +20,104 @@
     "needReferenceImages": false
   },
   {
+    "id": 20148,
+    "content": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
+    "title": "Spiritual Soulmate Visualization",
+    "description": "A meditative spiritual prompt creating a visualization of a translucent ethereal man appearing alongside a serene woman in a candlelit room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830062774_o7z2be_HIUMHakXUAAfZPB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20164,
+    "content": "Watercolor travel poster that harmonizes the rugged heritage of the {argument name=\"region\" default=\"Hunza Valley\"} with the serene alpine charm of {argument name=\"destination\" default=\"Switzerland\"}. The illustration features a majestic snow-capped mountain range as the backdrop, overlooking a landscape where an ancient stone fortress and tiered agricultural terraces meet a tranquil turquoise lake dotted with small boats and a red mountain train winding through pine forests. Rendered in a {argument name=\"style\" default=\"delicate, light-wash watercolor style\"} on textured cream paper, the scene is framed with elegant minimalist typography at the top and subtle cultural seals in the corners, capturing a \"World Heritage\" aesthetic that blends the majestic heights of Gilgit-Baltistan with European alpine tranquility.",
+    "title": "Alpine Watercolor Travel Poster",
+    "description": "A delicate watercolor travel poster blending the heritage of the Hunza Valley with the alpine charm of Switzerland, featuring snowy mountains and a turquoise lake.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830071641_35935r_HIScmFjWwAAVNpm.jpg",
+      "https://cms-assets.youmind.com/media/1778830071632_pqqxgh_HIScmQTW4AA_Uxk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20165,
+    "content": "Create premium luxury fashion posters with oversized layered typography, monochromatic editorial aesthetics, boutique campaign atmospheres, and typography-driven fashion storytelling. Perfect for seasonal drops, winter collections, luxury apparel campaigns, streetwear editorials, and high-end Instagram fashion advertising. Face and body exactly same as uploaded image. Luxury. Editorial. Typography-driven. Fashion-ready. a woman captured from a low-angle perspective, looking down toward the camera with a smile. She is positioned in a dense, misty forest where tall, slender trees stretch upward, their tops disappearing into a thick white fog. Key Visual Elements • Subject: A woman with long, dark wavy hair wearing a black coat and a dark glove on her raised left hand. • Setting: A misty woodland environment with several tall, thin tree trunks. Cultural Details: Colorful Tibetan prayer flags are strung between the trees on the right side of the frame. • Composition: The camera is placed at a very low angle, creating a sense of height and immersion within the forest canopy. • Lighting: Natural, diffused light filtered through the heavy mist, creating a soft and ethereal atmosphere.",
+    "title": "Misty Forest Tibetan Prayer Flags",
+    "description": "A low-angle fashion-inspired shot of a woman in a misty forest adorned with colorful Tibetan prayer flags, featuring an ethereal atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830072603_gvfovy_HIRa2u9aIAASV0-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20152,
+    "content": "A mesmerizing digital illustration of a {argument name=\"dancer\" default=\"ballerina\"} dancing on a {argument name=\"setting\" default=\"rain-slicked city street at night\"}, where her form is a fusion of {argument name=\"visual style\" default=\"glowing golden energy and polished liquid chrome\"}. She holds a single vibrant rose, her dynamic pose captured amidst swirling ribbons of light that reflect brilliantly on the wet pavement. The background is a moody, cinematic urban alleyway with soft bokeh streetlights, creating a high-contrast atmosphere that highlights the transition from a shimmering light phantom to a solid metallic sculpture.",
+    "title": "Ballerina Golden Energy Rain Illustration",
+    "description": "A mesmerizing digital illustration prompt of a dancer on a rainy city street, blending golden energy and liquid chrome textures with cinematic urban lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830064788_ncpgp3_HIRE6JvXUAAsKN0.jpg",
+      "https://cms-assets.youmind.com/media/1778830064788_2nl1x2_HIRE6OkW0AACGDU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20178,
+    "content": "Use the uploaded image as the strict subject reference. Preserve the exact facial identity, facial structure, eyes, nose, lips, expression, hairstyle, and likeness of the person from the uploaded image.\n\nTransform the portrait into a {argument name=\"composition style\" default=\"minimalist botanical wall-art composition\"} made entirely from delicate green vines, leaves, clovers, moss, and thin organic plant stems arranged on a {argument name=\"background\" default=\"clean white background\"}. The plants should naturally form the facial contours, hair, eyes, and clothing details while keeping the subject clearly recognizable.\n\nStyle: elegant organic line art, eco-art installation, soft natural lighting, subtle shadows on the white wall, airy composition, artistic negative space, handcrafted botanical illustration effect, refined gallery aesthetic.\n\nThe face should appear gently emerging from the foliage with realistic plant textures while maintaining the person’s identity. Use thin vine strokes instead of heavy foliage. Keep the overall look minimal, clean, and sophisticated.\n\nHigh detail, ultra realistic botanical textures, soft depth of field, centered composition, premium contemporary art style.",
+    "title": "Minimalist Botanical Wall Art Portrait",
+    "description": "An artistic image-to-image prompt that transforms a reference portrait into a composition made of vines, moss, and leaves on a white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830079724_10dyrl_HIQOOmOXMAAIxkE.jpg",
+      "https://cms-assets.youmind.com/media/1778830079726_sn9zhl_HIQOOmGXsAAc13i.jpg",
+      "https://cms-assets.youmind.com/media/1778830079950_nnem5p_HIQOOlsWkAASe1A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20160,
+    "content": "A stylish {argument name=\"subject\" default=\"young woman\"} sitting at a minimalist white desk, deeply focused on her laptop inside a {argument name=\"object\" default=\"glowing white force-field sphere\"}. Inside the bubble everything is crystal clear — laptop, coffee cup, and plant in sharp focus — while outside the sphere the office fades into blurred grey digital chaos and abstract distractions. {argument name=\"lighting\" default=\"Clean cinematic lighting\"}, conceptual productivity theme, ultra-realistic, modern aesthetic, 8K, premium advertising style.",
+    "title": "Conceptual Productivity Force Field",
+    "description": "A cinematic concept art prompt depicting a woman focused in a clear force-field sphere while the outside world is blurred digital chaos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830069395_m2yf1l_HIP_V1kWQAA2Sxm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20147,
+    "content": "The image is a {argument name=\"page type\" default=\"detailed fantasy field journal page\"} centered on a full-body portrait of a {argument name=\"subject\" default=\"female adventurer with brown hair\"}, a green jacket, a khaki skirt, tall brown boots, and a hat with a small bird and feathers. She carries a shoulder bag and is sketching in a notepad. A small green dragon sits on her shoulder. The background is a detailed coastal village and sea landscape at sunset. The page is framed with numerous taped photos and notes. Key elements include a photo of a glowing green spectral 'Glimmer Cat', and a text box describing 'Species 73: Sylvaris Glimmer Cat'. Taped photos of sun-drenched coastal ruins are in the corner. There are also smaller sketches of a cat head and a dragon head, and flags. An entry stamp and various handwritten notes are scattered around. A larger, glowing green Glimmer Cat is standing by her boots, and a folded treasure map is at her feet.",
+    "title": "Fantasy Field Journal Illustration",
+    "description": "An intricate prompt for a detailed fantasy field journal page featuring an adventurer, a small dragon, and various sketches and notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830061997_1774d5_HIP-wAMWkAAZcyP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20180,
+    "content": "A bold vector-style portrait of a young man with sharp facial features and messy black hair, looking upward confidently. Monochrome grayscale shading on the face and clothing with strong geometric polygonal shadows. Dramatic {argument name=\"background color\" default=\"red\"} background with jagged abstract lightning-like shapes. High-contrast graphic novel aesthetic, cyberpunk poster vibe, clean angular lines, digital illustration, centered composition, ultra-detailed, modern esports/logo art style, {argument name=\"outfit\" default=\"black jacket over dark shirt\"}, glowing {argument name=\"rim light color\" default=\"red\"} rim light around silhouette, cinematic and powerful mood.",
+    "title": "Vector Cyberpunk Logo Art",
+    "description": "A bold vector-style portrait with geometric shadows and a dramatic red lightning background in a graphic novel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830078801_fx8n9l_HIP3cSwaoAA8AL0.jpg",
+      "https://cms-assets.youmind.com/media/1778830078863_e1cdsx_HIP3cUFaAAA78so.jpg",
+      "https://cms-assets.youmind.com/media/1778830078682_yvyoax_HIP3cUoaQAAzELN.jpg",
+      "https://cms-assets.youmind.com/media/1778830079955_iuyxsb_HIP3cYBbAAAQAxH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20169,
+    "content": "high-energy, urban street-art style composition featuring a stylized, life-sized version of {argument name=\"character\" default=\"Jerry the mouse from Tom and Jerry\"}. He is dressed in high-end streetwear, including an {argument name=\"outerwear\" default=\"oversized black and orange souvenir varsity jacket (sukajan)\"} over a white hoodie, paired with heavily detailed black cargo joggers adorned with patches and straps. He wears custom-branded high-top sneakers. The background is a gritty, textured brick wall completely covered in chaotic, layered graffiti, Japanese kanji, and stenciled art in shades of orange, black, and white. Bold, distressed typography reading \"{argument name=\"text\" default=\"JERRY\"}\" dominates the top of the frame. The lighting is cinematic and dramatic, highlighting the textures of the fabric and the weathered wall. The overall vibe is \"Legend in the Streets,\" blending 90s cartoon nostalgia with modern Tokyo street culture. Key Elements of the Style Subject: A realistic, 3D-rendered character with expressive features wearing detailed, multi-layered clothing. Color Palette: Dominated by safety orange, deep black, and stark white to create high contrast. Typography: A mix of English and Japanese text integrated into the background art, using distressed and stencil-style fonts. Atmosphere: Gritty, urban, and \"legendary,\" mimicking a high-fashion magazine cover or a streetwear brand advertisement.",
+    "title": "Urban Street-Art Jerry Mouse",
+    "description": "A 90s cartoon nostalgia mixed with modern Tokyo street culture featuring Jerry the mouse in high-end streetwear against a graffiti wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830073868_yqj55i_HIPyUFVbcAAHyJ9.jpg",
+      "https://cms-assets.youmind.com/media/1778830073829_fnd3xy_HIPyUHPacAAokC3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19976,
     "content": "Identify 6 sports moments   => reconstructed as dynamic scrap-metal dioramas where athletes are forged from [{argument name=\"metal materials\" default=\"rusted gears, bicycle chains, or sheet metal\"}], motion trails rendered in [{argument name=\"trail materials\" default=\"spray-painted stencils or wire mesh\"}], and stadium energy implied by [scattered ticket stubs or crushed aluminum]. Each scene channels the moment’s intensity — triumph, heartbreak, or shock — through metal tension and composition flow. Style: high-contrast monochrome, dramatic side lighting, gritty industrial texture. Output: One image, 3x2 grid",
     "title": "Scrap Metal Sports Dioramas",

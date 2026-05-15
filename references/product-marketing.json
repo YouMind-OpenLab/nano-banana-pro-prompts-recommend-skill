@@ -21,6 +21,238 @@
     "needReferenceImages": true
   },
   {
+    "id": 20156,
+    "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic black-and-white cinematic portrait of the same man sitting in the {argument name=\"location\" default=\"back seat of a luxury car at night\"}. He wears a {argument name=\"attire\" default=\"dark tailored suit, white shirt, loosened tie, and sunglasses\"}. He leans slightly forward with one elbow on his knee, holding a cigarette near the open car window, smoke drifting outside. His expression is silent, tired, powerful, and cinematic. Background: blurred city lights through rain-covered car windows, leather seats, reflections on glass, night traffic bokeh. Lighting: {argument name=\"lighting\" default=\"noir black-and-white contrast\"}, soft side light across face, deep shadows, film grain, luxury crime-drama mood. Composition: vertical 4:5, intimate close-up from the front passenger angle. No text, no logo, no watermark.",
+    "title": "Noir Luxury Car Night Portrait",
+    "description": "A noir-style black-and-white cinematic portrait of a man in a luxury car at night, focusing on moody lighting and realistic rain reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830066875_qoapt2_HITqdqfXIAAfPZS.jpg",
+      "https://cms-assets.youmind.com/media/1778830067032_pyw53r_HITqgXBXIAAA_8_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20176,
+    "content": "A striking portrait featuring a woman with {argument name=\"hair style\" default=\"short, platinum blonde hair styled with a deep part\"}, looking directly at the viewer with an intense and captivating gaze from {argument name=\"eye color\" default=\"green eyes\"}. She holds her hands up, with her index fingers touching her temples, displaying multiple ornate rings, including several featuring prominent white pearls, on both hands. She wears a unique, wide, open-work silver cuff bracelet on her left wrist. The woman is dressed in an {argument name=\"gown style\" default=\"exquisite, dark halter-neck gown heavily adorned with intricate black and charcoal beadwork\"}, forming detailed geometric and swirling patterns across the bodice. The background is composed of large, rough-textured dark grey stone blocks, with a blurred hint of a modern fireplace visible in the distance. The lighting is focused and dramatic, highlighting the textures of her dress, her hair, and her jewelry.",
+    "title": "Platinum Blonde Portrait in Beadwork Gown",
+    "description": "A striking high-fashion portrait of a woman with short platinum hair and intense green eyes, wearing a detailed charcoal beadwork gown against a dark stone backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830077885_hp7c2s_HITcctMWAAAEb9G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20168,
+    "content": "A massive saudi lamb Kabsa floating in mid-air with rice flowing over the sides. Salad and Pepsi rotate around the lamb Kabsa in dramatic slow motion. Steam rises intensely from the hot patty. Dark cinematic background, glossy commercial lighting, ultra-realistic fast-food advertisement style, high-detail textures, smooth spinning effect --ar 2:3",
+    "title": "Surreal Food Ad: Saudi Lamb Kabsa",
+    "description": "A surreal fast-food advertisement style image of Saudi lamb Kabsa floating in mid-air with rice and drinks rotating around it.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830074122_xb9myt_HITR3GpWIAAtUu8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20181,
+    "content": "A {argument name=\"subject\" default=\"stylishly dressed man\"} is captured mid-stride walking straight toward the camera in a confident, candid moment. He has short, messy, curly brown hair about 2 to 3 inches on top, styled with a matte texture that highlights natural flyaways. His facial expression is naturally relaxed, with a closed mouth and an effortless calmness behind striking black square sunglasses. He wears a tailored yet slightly oversized crisp white double-breasted blazer layered cleanly over a white polo shirt, paired with high-waisted dark trousers. His left hand is tucked deep into his left trouser pocket, while his relaxed right hand securely grasps the middle of a white paper coffee cup with a black lid, his thumb resting naturally on the camera-facing side to reveal a subtle gold ring on his pinky finger. He walks across a {argument name=\"ground surface\" default=\"solid warm gray concrete sidewalk\"}. In the right foreground, a pristine, smooth dark plum-brown structural pillar acts as a dominant framing element, while the midground on the left introduces elegantly weathered classical concrete columns with vertical fluting, painted in a matte warm cream and beige. A small, worn fire hydrant sits out of focus on the far left edge, establishing a medium spatial depth as the architectural background smoothly blurs away. The scene is bathed in {argument name=\"lighting\" default=\"warm, golden natural daylight\"} gently diffused from a single source above, creating a moderately directional soft illumination that establishes a professional yet casually sophisticated morning commute atmosphere. High-contrast analogous tones of off-white, stark black, warm cream, and dark plum-brown dominate the visual hierarchy. Soft, gradual gray shadows pool delicately under his chin, beneath the thick blazer lapels, and cast downwards across his trousers, while perfectly preserved highlights gracefully catch his forehead, the tip of his nose, and the top edges of his blazer shoulders, supported by a gentle ambient fill. Captured straight on as a high-end digital editorial photograph using an 85mm prime lens at an open aperture with a fast shutter speed to freeze motion, the image boasts tack-sharp focus on his face and the coffee cup against the shallow depth of field. Modern menswear street-style influences drive the clean aesthetic, enhanced by warm color balancing, gently raised black levels introducing a cinematic film grain, a subtle vignette, and authentic skin retouching, ultimately framed in a 4:5 aspect ratio.",
+    "title": "Professional Street Style Menswear Editorial",
+    "description": "A detailed prompt for generating a high-end fashion editorial shot of a man walking, with specific focus on attire textures, architectural background, and professional camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830081272_bsjdi2_HISyuq7WIAE4Qw1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20158,
+    "content": "High-impact {argument name=\"setting\" default=\"Tokyo drift-show editorial outside Tokyo Big Sight at night\"}, shot at 24mm with hard flash and cool architectural spill for an ice-white, cobalt, titanium, and signal-red palette; a {argument name=\"vehicle\" default=\"white widebody GR Supra-inspired coupe\"} with vented front fenders, carbon splitter, tall rear wing, and polished lip wheels frames an adult woman in {argument name=\"attire\" default=\"a black asymmetric crop top, cropped silver racing shell, black low-rise tech pants\"}, metallic point-toe ankle boots, a slick high ponytail, mirrored visor, chrome cuff, and fingerless gloves as she crouches by the front wheel while photographers kneel, dancers spin in the distance, and energy drink cans, an LED light wand, and a camera bag turn the scene into controlled show-car spectacle. Negative prompt: bad anatomy, warped architecture, fake carbon fiber, copied logos, doubled photographers, impossible wheel camber, unreadable event text, melted hands, flat lighting, cartoon haze.",
+    "title": "Tokyo Drift Fashion Editorial",
+    "description": "A high-impact editorial fashion prompt set against a Tokyo car show backdrop at night, with hard flash lighting and techwear styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830068151_9nb1qn_HISuNiKW8AE8lDD.jpg",
+      "https://cms-assets.youmind.com/media/1778830068125_3ampq5_HISuQZFXwAAWQm7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20172,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\\\"subject\\\" default=\\\"[NAME]\\\"}\",\n      \"appearance\": {\n        \"hair\": \"Hair tied back in a loose ponytail, with long and defined face-framing strands falling on both sides.\",\n        \"expression\": \"Focused and calm.\",\n        \"gaze\": \"Looking forward and away from the camera.\",\n        \"makeup\": \"Subtle and natural makeup enhancing her features.\",\n        \"lipstick\": \"{argument name=\\\"lipstick\\\" default=\\\"Bold berry-toned lipstick\\\"}\",\n        \"skin\": \"Soft natural glow with gentle highlights on the collarbones and shoulders.\"\n      },\n      \"body_type\": \"Fit\"\n    },\n    \"clothing\": {\n      \"top\": \"{argument name=\\\"top\\\" default=\\\"Tight yellow sports top with thin shoulder straps and a rounded neckline\\\"}\",\n      \"shorts\": \"High-waisted fitted workout shorts in light green.\",\n      \"socks\": \"Blue ankle socks.\",\n      \"shoes\": \"White athletic sneakers with black side details.\"\n    },\n    \"pose\": {\n      \"position\": \"Sitting upright on a black gym bench.\",\n      \"back\": \"Back pressed firmly and straight against the backrest.\",\n      \"arms\": \"Both arms extended horizontally to the sides at shoulder height, forming a T-shape.\",\n      \"action\": \"Holding dumbbells mid-lateral raise.\",\n      \"legs\": \"Relaxed, bent at the knees.\",\n      \"feet\": \"Fully planted on the floor.\"\n    },\n    \"setting\": {\n      \"location\": \"Indoor gym environment.\",\n      \"floor\": \"Dark gray rubber flooring with small texture details.\",\n      \"background\": \"Softly blurred, showing glimpses of other gym equipment.\"\n    },\n    \"props\": {\n      \"dumbbells\": \"Two black hexagonal dumbbells. The right dumbbell displays the text '{argument name=\\\"weight\\\" default=\\\"3kg\\\"}' and 'Giulia' in white letters.\",\n      \"bench\": \"Black adjustable gym bench with the word 'Giulia' printed in white on the lower frame.\"\n    },\n    \"lighting\": {\n      \"style\": \"High-key lighting.\",\n      \"mood\": \"Bright and airy.\",\n      \"face_light\": \"Flat beauty lighting.\",\n      \"shadows\": \"Extremely soft shadows.\",\n      \"contrast\": \"Low contrast.\"\n    },\n    \"mood\": \"Focused, disciplined, active, fitness-oriented, calm yet intense workout atmosphere.\",\n    \"technical\": {\n      \"framing\": \"Medium shot.\",\n      \"angle\": \"Side angle, slightly above head level.\",\n      \"depth_of_field\": \"Shallow depth of field with sharp subject focus and softly blurred background.\",\n      \"lens\": \"85mm full-frame\",\n      \"aperture\": \"f/2.8\",\n      \"iso\": \"400\",\n      \"shutter_speed\": \"1/320s\",\n      \"white_balance\": \"5200K\",\n      \"exposure\": \"Balanced exposure preserving natural skin tones and soft highlights.\"\n    },\n    \"style\": {\n      \"genre\": \"Candid gym photography.\",\n      \"look\": \"Photorealistic, highly realistic, true-to-life.\"\n    },\n    \"quality\": {\n      \"resolution\": \"8K\",\n      \"details\": \"Highly detailed, sharp focus, photorealistic skin textures, natural fabric folds.\"\n    },\n    \"aspect_ratio\": \"9:16\"\n  }\n}",
+    "title": "Candid Gym Workout Photography",
+    "description": "A detailed photorealistic prompt for a medium shot of a woman performing a lateral raise on a gym bench, with focused high-key lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830075352_vt949c_HISVcawa4AAs-7o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20144,
+    "content": "{ \"type\": \"image_prompt\", \"description\": { \"subject\": { \"identity\": \"{argument name=\"subject name\" default=\"[NOME]\"}\", \"appearance\": { \"hair\": \"Hair tied back in a loose ponytail, with long and defined face-framing strands falling on both sides.\", \"expression\": \"Focused and calm.\", \"gaze\": \"Looking forward and away from the camera.\", \"makeup\": \"Subtle and natural makeup enhancing her features.\", \"lipstick\": \"Bold berry-toned lipstick.\", \"skin\": \"Soft natural glow with gentle highlights on the collarbones and shoulders.\" }, \"body_type\": \"Fit\" }, \"clothing\": { \"top\": \"Tight yellow sports top with thin shoulder straps and a rounded neckline.\", \"shorts\": \"High-waisted fitted workout shorts in light green.\", \"socks\": \"Blue ankle socks.\", \"shoes\": \"White athletic sneakers with black side details.\" }, \"pose\": { \"position\": \"Sitting upright on a black gym bench.\", \"back\": \"Back pressed firmly and straight against the backrest.\", \"arms\": \"Both arms extended horizontally to the sides at shoulder height, forming a T-shape.\", \"action\": \"Holding dumbbells mid-lateral raise.\", \"legs\": \"Relaxed, bent at the knees.\", \"feet\": \"Fully planted on the floor.\" }, \"setting\": { \"location\": \"Indoor gym environment.\", \"floor\": \"Dark gray rubber flooring with small texture details.\", \"background\": \"Softly blurred, showing glimpses of other gym equipment.\" }, \"props\": { \"dumbbells\": \"Two black hexagonal dumbbells. The right dumbbell displays the text '3kg' and '{argument name=\"personalized label\" default=\"Giulia\"}' in white letters.\", \"bench\": \"Black adjustable gym bench with the word '{argument name=\"personalized label\" default=\"Giulia\"}' printed in white on the lower frame.\" }, \"lighting\": { \"style\": \"High-key lighting.\", \"mood\": \"Bright and airy.\", \"face_light\": \"Flat beauty lighting.\", \"shadows\": \"Extremely soft shadows.\", \"contrast\": \"Low contrast.\" }, \"mood\": \"Focused, disciplined, active, fitness-oriented, calm yet intense workout atmosphere.\", \"technical\": { \"framing\": \"Medium shot.\", \"angle\": \"Side angle, slightly above head level.\", \"depth_of_field\": \"Shallow depth of field with sharp subject focus and softly blurred background.\", \"lens\": \"85mm full-frame\", \"aperture\": \"f/2.8\", \"iso\": \"400\", \"shutter_speed\": \"1/320s\", \"white_balance\": \"5200K\", \"exposure\": \"Balanced exposure preserving natural skin tones and soft highlights.\" }, \"style\": { \"genre\": \"Candid gym photography.\", \"look\": \"Photorealistic, highly realistic, true-to-life.\" }, \"quality\": { \"resolution\": \"8K\", \"details\": \"Highly detailed, sharp focus, photorealistic skin textures, natural fabric folds.\" }, \"aspect_ratio\": \"9:16\" } }",
+    "title": "Professional Gym Fitness Photography",
+    "description": "A highly detailed technical prompt for generating realistic candid gym photography of a female athlete performing lateral raises.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830059220_sx0b13_HISUIh4aAAArWHQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20167,
+    "content": "Ultra-realistic 8K photorealistic cinematic editorial image, 4:5 aspect ratio. A beautiful young woman MUST be walking barefoot along the shoreline on wet sand at the beach. Full-body framing with feet, legs, and shoes clearly visible. Body orientation slightly angled to the RIGHT relative to the camera while moving forward. Head turned to the RIGHT, head level. Gaze directed to the RIGHT at eye level. Facial expression relaxed and neutral with a soft, natural look. She MUST be holding a pair of {argument name=\"footwear\" default=\"women’s loafers\"} in her RIGHT hand, hanging downward naturally. LEFT arm relaxed by her side. Gentle ocean waves on the RIGHT side of the frame, shoreline stretching into the distance. Soft warm golden-hour lighting with subtle reflections on wet sand. Outfit MUST match: {argument name=\"outfit\" default=\"lightweight white long-sleeve shirt with open collar and loose fit, sleeves slightly rolled; beige/tan slim-fit pants or wide-leg trousers rolled above the ankles\"}. Barefoot. Accessories: {argument name=\"accessories\" default=\"sunglasses MUST be present, simple elegant wristwatch on LEFT wrist, subtle delicate bracelet on RIGHT wrist\"}. Hairstyle MUST be feminine and flowing, long wavy or straight hair gently moving in the breeze (match elegant feminine style suitable for the scene). Environment: calm beach, soft waves, lightly clouded sky, warm natural tones. Camera angle eye-level. No cropping tighter than full body.",
+    "title": "Golden Hour Beach Walk",
+    "description": "A cinematic photorealistic prompt depicting a woman walking barefoot on a beach during golden hour, focused on fashion details and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830072605_8fxtvz_HIR5Nr-bwAArUCF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20151,
+    "content": "Create a split screen Gen Z FMCG advertising campaign poster featuring {argument name=\"product one\" default=\"a futuristic strawberry milk drink bottle\"} and {argument name=\"product two\" default=\"a spicy instant ramen cup\"} in one ultra cinematic composition. 1. {argument name=\"product one\" default=\"a futuristic strawberry milk drink bottle\"} floating in mid air with explosive pink milk splashes, fresh strawberries flying around, glossy reflections, transparent liquid droplets, {argument name=\"lighting\" default=\"pastel neon lighting\"}, dreamy soft pink and white gradient background, Y2K inspired aesthetic, playful Gen Z vibe, luxury beverage commercial style, high speed frozen motion, chrome typography, holographic particles, studio lighting, hyper realistic textures, fashion editorial energy, social media ad style, vibrant youthful atmosphere. 2. {argument name=\"product two\" default=\"a spicy instant ramen cup\"} exploding with noodles, fiery sauce splashes, floating chili peppers, sesame seeds, steam effects, glowing orange and red neon lighting, dark moody cyberpunk convenience store aesthetic, cinematic shadows, crunchy toppings suspended mid air, premium FMCG commercial photography, dramatic food styling, ultra detailed textures, streetwear inspired Gen Z branding, energetic motion blur, trendy TikTok advertisement vibe, glossy packaging reflections.",
+    "title": "Gen Z Split Screen Advertising Poster",
+    "description": "A high-energy, commercial-style prompt for a split-screen poster featuring two distinct products with vibrant neon lighting and floating motion effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830064538_4i0x8a_HIRoRUzbYAAgRfT.jpg",
+      "https://cms-assets.youmind.com/media/1778830064551_4d01r0_HIRoRUhaQAAV60-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20161,
+    "content": "{\n  \"Subject\": {\n    \"Model\": \"{argument name=\"model\" default=\"Sadie Sink\"}\",\n    \"Features\": \"Long vibrant wavy ginger red hair fair skin with light freckles blue eyes natural makeup soft pink lips\",\n    \"Jewelry\": \"{argument name=\"jewelry\" default=\"Luxury diamond watches rose gold heart pendant necklace circular stud earrings matching cocktail rings\"}\"\n  },\n  \"Apparel_Details\": {\n    \"Style\": \"Minimalist luxury editorial\",\n    \"Items\": [\n      \"{argument name=\"clothing\" default=\"Off-white ribbed-knit long-sleeve top with sweetheart neckline\"}\",\n      \"Vibrant red silk camisole with matching thick-ribbed knit cardigan\",\n      \"Cream sleeveless dress with smocked bodice and flowing silk skirt\"\n    ],\n    \"Colors\": \"Cream off-white vibrant red indigo blue\",\n    \"Materials\": \"Ribbed knit silk chiffon denim\"\n  },\n  \"Visual_Composition\": {\n    \"Background\": \"Soft powder blue studio backdrop and white interior with classic wall molding\",\n    \"Lighting\": \"High-key studio lighting soft diffusion professional fashion photography\",\n    \"Camera_Angle\": \"Eye-level medium shots and close-up portraits\"\n  },\n  \"Metadata\": {\n    \"Vibe\": \"Elegant sophisticated high-end fashion\",\n    \"Pose_Description\": \"Tilting head back leaning on wood surface seated on wooden stool candid laughter\"\n  }\n}",
+    "title": "Minimalist Luxury Jewelry Editorial",
+    "description": "High-key studio photography prompt for capturing sophisticated fashion featuring luxury diamond jewelry and elegant ribbed-knit apparel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830068928_3nifxg_HIRkWZja0AAUCmT.jpg",
+      "https://cms-assets.youmind.com/media/1778830068773_netpa6_HIRkWiZbIAAPFu6.jpg",
+      "https://cms-assets.youmind.com/media/1778830069679_jn6gqt_HIRkWvGbUAA2oc0.jpg",
+      "https://cms-assets.youmind.com/media/1778830069592_58aqv4_HIRkW7GbUAAaveW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20142,
+    "content": "A cinematic photo of a sleek {argument name=\"car model\" default=\"McLaren 720S\"} parked on a modern city street at night. A stylish young woman stands beside the car leaning casually against the door, wearing a {argument name=\"outfit\" default=\"black jacket and sneakers\"}. Neon lights from nearby buildings reflect on the glossy {argument name=\"car color\" default=\"orange\"} body of the car. The atmosphere is dramatic with wet pavement reflecting lights, shallow depth of field, ultra-realistic, 8K, professional photography, moody lighting, luxury lifestyle vibe.Photorealistic, ultra detailed, 8k, cinematic lighting, depth of field",
+    "title": "Cinematic McLaren 720S Night Photography",
+    "description": "A professional photography prompt capturing a sleek McLaren 720S on a wet city street at night, featuring a stylish woman and moody neon lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830058594_efee0m_HIRfSaZboAAeCpC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20153,
+    "content": "{ \"prompt\": \"A realistic fashion editorial photo of a blonde-haired woman posing in a modern luxury bathroom, leaning against a stone vanity. She wears a fitted black halter-style outfit with a front zipper and tailored pants. Warm wall lighting, beige stone tiles, large mirror reflections, soft cinematic shadows, high-end hotel interior, confident elegant mood, natural skin texture, shallow depth of field, vertical composition.\", \"style\": \"photorealistic, cinematic, editorial fashion\", \"lighting\": \"warm ambient bathroom lighting\", \"camera\": \"portrait orientation, medium-full shot, 35mm lens look\", \"quality\": \"high detail, realistic textures\" }",
+    "title": "Luxury Bathroom Editorial Portrait",
+    "description": "A clean, high-end hotel fashion photo prompt featuring a woman in a modern luxury bathroom with ambient stone textures and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830065055_rdolus_HIRfjxZa8AAOUA8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20165,
+    "content": "Create premium luxury fashion posters with oversized layered typography, monochromatic editorial aesthetics, boutique campaign atmospheres, and typography-driven fashion storytelling. Perfect for seasonal drops, winter collections, luxury apparel campaigns, streetwear editorials, and high-end Instagram fashion advertising. Face and body exactly same as uploaded image. Luxury. Editorial. Typography-driven. Fashion-ready. a woman captured from a low-angle perspective, looking down toward the camera with a smile. She is positioned in a dense, misty forest where tall, slender trees stretch upward, their tops disappearing into a thick white fog. Key Visual Elements • Subject: A woman with long, dark wavy hair wearing a black coat and a dark glove on her raised left hand. • Setting: A misty woodland environment with several tall, thin tree trunks. Cultural Details: Colorful Tibetan prayer flags are strung between the trees on the right side of the frame. • Composition: The camera is placed at a very low angle, creating a sense of height and immersion within the forest canopy. • Lighting: Natural, diffused light filtered through the heavy mist, creating a soft and ethereal atmosphere.",
+    "title": "Misty Forest Tibetan Prayer Flags",
+    "description": "A low-angle fashion-inspired shot of a woman in a misty forest adorned with colorful Tibetan prayer flags, featuring an ethereal atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830072603_gvfovy_HIRa2u9aIAASV0-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20143,
+    "content": "In the image, a young woman is captured, similar to the reference photo, standing next to a {argument name=\"car model\" default=\"black sports car — a Porsche 911 GT3 in Oak Green Metallic color\"} on a city street. The girl is wearing a {argument name=\"outfit\" default=\"black t-shirt under a beige bomber jacket and light blue jeans, paired with white Nike Force sneakers\"}. She is standing semi-sideways next to the car, holding an iPhone in one hand and looking at the screen, while holding a can of Coca-Cola in the other hand. The car is a Porsche 911 GT3 sports car with the driver’s door open. On the rear of the vehicle, the license plate reads {argument name=\"license plate\" default=\"M911MM11\"}. The \"GT3\" badge is visible on the trunk, indicating the model of the car. The image depicts a city street, likely in Moscow, judging by the architecture and the view of one of the tall Stalinist-style high-rise buildings in the background. The street is paved with asphalt and has a pedestrian crossing. The road surface is wet. On the left and right are historic buildings with classical architecture, decorated with elements such as cornices, columns, and balconies. Some buildings have shop signs on the ground floor.",
+    "title": "Porsche 911 GT3 City Scene",
+    "description": "A descriptive prompt for a lifestyle shot featuring a woman standing by a Porsche 911 GT3 in Moscow, capturing specific details like the license plate and background architecture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830059166_bzzzzd_HIRRr1QbAAANG6g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20145,
+    "content": "{\n  \"face\": {\n    \"description\": \"Use uploaded reference image, keep identity exact. Same facial structure, same eyes, same lips, same nose shape, same youthful appearance. Cute playful expression with a soft smirk, direct eye contact toward the camera, glossy lips, subtle natural blush, realistic skin texture, minimal makeup, natural imperfections.\"\n  },\n  \"hair\": {\n    \"description\": \"Use uploaded reference image hair color exactly. Medium-length straight hair with a natural middle part, slightly messy soft strands around the face, realistic shine and texture.\"\n  },\n  \"clothing_type\": {\n    \"description\": \"{argument name=\"outfit\" default=\"orange leather jacket worn loosely over a dark lace-trim fitted top\"}, {argument name=\"bottoms\" default=\"shiny orange leather mini skirt\"}, sheer black tights, {argument name=\"jewelry\" default=\"silver necklace with a glossy red heart pendant\"}, edgy soft-grunge nightlife aesthetic.\"\n  },\n  \"position\": {\n    \"description\": \"Subject kneeling on the ground between wooden railings while slightly leaning upward toward the camera. One hand holding the railing while the other lightly pulls the jacket open. Head tilted slightly upward with a playful confident expression.\"\n  },\n  \"environment\": {\n    \"description\": \"Outdoor nighttime setting with dry autumn leaves scattered across gravel ground, wooden staircase railings surrounding the subject, dark moody atmosphere with realistic textures and shadows.\"\n  },\n  \"lighting\": {\n    \"description\": \"Strong direct flash photography with bright facial highlights, deep shadows behind the subject, glossy reflections on leather clothing and tights, authentic candid nightlife aesthetic.\"\n  },\n  \"camera\": {\n    \"description\": \"High-angle flash photography shot looking downward toward the subject, candid editorial framing, sharp focus on the face and outfit, realistic perspective distortion.\"\n  },\n  \"quality\": {\n    \"description\": \"Ultra realistic nightlife editorial photography, realistic skin texture, detailed leather and fabric textures, authentic flash camera aesthetic, cinematic moody atmosphere, premium candid fashion photography quality.\"\n  }\n}",
+    "title": "Edgy Soft-Grunge Nightlife Fashion",
+    "description": "A detailed prompt for creating a candid editorial portrait with a direct flash photography aesthetic, featuring a woman in an orange leather jacket.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830060366_bkw060_HIRPxwFbsAAaUxl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20146,
+    "content": "{\n  \"prompt\": \"Vertical close-up portrait of beautiful brunette woman with high ponytail in a {argument name=\"outfit\" default=\"tight shiny black latex mini dress\"}, {argument name=\"accessories\" default=\"long white gloves, and pink high heels\"}, posing on glossy floor with hand on thigh, confident expression, small elegant '{argument name=\"label\" default=\"Keor\"}' embroidered on the lower border of the black dress, {argument name=\"lighting\" default=\"dreamy pink studio lighting\"}, photorealistic, detailed skin and latex textures, glamorous style, 8k\",\n  \"negative_prompt\": \"cropped, bad hands, blurry, low quality, pink dress, missing embroidery\",\n  \"parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"lighting\": \"dramatic pink ambient\"\n  }\n}",
+    "title": "Latex Mini Dress Studio Portrait",
+    "description": "A glamorous studio photography prompt for a woman in a black latex mini dress with pink dream lighting and high-quality textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830061009_y5zxq5_HIROfipW8AEFpkE.jpg",
+      "https://cms-assets.youmind.com/media/1778830060384_1z20yt_HIROfmEWkAEhd44.jpg",
+      "https://cms-assets.youmind.com/media/1778830060399_trosof_HIROfuiXQAAh-uj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20162,
+    "content": "[ { \"biographical_info\": { \"full_name\": \"Sadie Elizabeth Sink\", \"profession\": \"American Actress\", \"birth_year\": 2002, \"notable_works\": [\"Stranger Things (Max Mayfield)\", \"The Whale\", \"All Too Well: The Short Film\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, wavy, natural ginger/red hair\", \"eye_color\": \"Blue\", \"pose\": \"Sitting on floor, finger on lip direct gaze\" }, \"wardrobe_details\": { \"upper_garment\": \"Forest green corset-style top with black lace trim\", \"sleeves\": \"Detachable long black floral lace gloves/sleeves\", \"lower_garment\": \"High-waisted blue and white plaid pleated mini skirt\", \"hosiery\": \"Sheer black tights with small velvet heart patterns\", \"footwear\": \"Classic white pointed-toe stiletto pumps\", \"jewelry\": \"Thin white choker and a silver necklace with a red gemstone pendant\" } }, \"environment_metadata\": { \"location_type\": \"Indoor Studio/Room\", \"color_palette\": [\"Deep Red\", \"Emerald Green\", \"Warm Wood\"], \"background_props\": [ \"Large classical oil painting depicting a romantic couple\", \"Pink neon 'Keor Unreal' sign on the wall\", \"Light oak wooden sideboard/cabinet\", \"Polished hardwood flooring with natural sunlight shadows\" ] } \"biographical_info\": { \"full_name\": \"Ana Celia de Armas Caso\", \"profession\": \"Cuban-Spanish Actress\", \"notable_works\": [\"Blonde\", \"No Time to Die\", \"Blade Runner 2049\", \"Knives Out\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, dark brown flowing hair with the center part\", \"eye_color\": \"Green/Hazel\", \"pose\": \"Seated on a white fur stool, reflective expression\" }, \"wardrobe_details\": { \"upper_garment\": \"Royal blue satin corset with black lace overlays\", \"sleeves\": \"Full-length black lace sleeves covering hands\", \"lower_garment\": \"Matching blue plaid schoolgirl-style skirt\", \"hosiery\": \"Denim-blue tinted tights with heart embroidery\", \"footwear\": \"Red strappy high heels worn over black ankle socks\", \"jewelry\": \"Thick blue velvet choker\" } }, \"environment_metadata\": { \"location_type\": \"Modern Minimalist Interior\", \"lighting\": \"Soft natural side-lighting\", \"background_elements\": [ \"Beige/Neutral matte walls\", \"Light-colored wooden floor planks\", \"White fluffy sheepskin-style seating\", \"Clean, uncluttered architectural line's }, \"biographical_info\": { \"full_name\": \"Sydney Bernice Sweeney\", \"profession\": \"American Actress & Producer\", \"notable_works\": [\"Euphoria (Cassie Howard)\", \"The White Lotus\", \"Anyone But You\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Blonde hair tied in high pigtails\" \"makeup\": \"Soft pink blush with a small heart sticker on the cheek\", \"pose\": \"Sitting on a bed, holding a strand of hair\" }, \"wardrobe_details\": { \"upper_garment\": \"Teal green sleeveless crop top featuring 'Hello Kitty' graphic\", \"lower_garment\": \"Mint green checkered high-waisted shorts\", \"accessories\": [ \"Knitted teal arm warmers\", \"Multiple pastel-colored star and rectangular hair clips\", \"Yellow-toned translucent tights\" ] } \"environment_metadata\": { \"theme\": \"Coquette Soft Aesthetic\", \"color_scheme\": [\"Mint Green\", \"Teal\", \"Pastel Pink\"], \"background_elements\": [ \"Sheer mint green window curtains\", \"Matching plush mint bedding\", \"Bright, airy, and youthful atmosphere\" ] }, \"biographical_info\": { \"full_name\": \"Anya-Josephine Marie Taylor-Joy\" } } ]",
+    "title": "Actress Studio Fashion Profiles",
+    "description": "High-fashion profile prompts for actresses featuring complex wardrobe details and curated indoor studio environments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830070320_ilqubw_HIQTrIGa4AA-fdP.jpg",
+      "https://cms-assets.youmind.com/media/1778830070333_450y6c_HIQTrL8bcAAkDMP.jpg",
+      "https://cms-assets.youmind.com/media/1778830071163_iyvkva_HIQTrNAa8AAB46p.jpg",
+      "https://cms-assets.youmind.com/media/1778830071142_44cvfg_HIQTreJboAAqCfA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20173,
+    "content": "A cinematic, vintage-inspired fashion editorial photograph of a stylish {argument name=\"couple\" default=\"blonde couple\"} leaning against a {argument name=\"car\" default=\"classic mahogany-red convertible\"} on a sun-drenched European street. The man is wearing a tan linen shirt and gold-rimmed sunglasses, looking intently at the woman. The woman is sitting on the car's hood, wearing an oversized olive green shirt over a beige silk camisole, white trousers, a black patterned headband, and layered gold bohemian jewelry. The lighting is warm and hazy, reminiscent of 1970s Kodachrome film with soft grain and a shallow depth of field. The background features blurred Mediterranean architecture under a golden hour glow, creating a romantic, high-fashion travel atmosphere.",
+    "title": "Vintage 1970s Fashion Editorial",
+    "description": "A Kodachrome-inspired fashion editorial photograph of a couple with a vintage convertible on a sun-drenched European street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830075789_ujkhzq_HIP_rgAXIAEoL4p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20160,
+    "content": "A stylish {argument name=\"subject\" default=\"young woman\"} sitting at a minimalist white desk, deeply focused on her laptop inside a {argument name=\"object\" default=\"glowing white force-field sphere\"}. Inside the bubble everything is crystal clear — laptop, coffee cup, and plant in sharp focus — while outside the sphere the office fades into blurred grey digital chaos and abstract distractions. {argument name=\"lighting\" default=\"Clean cinematic lighting\"}, conceptual productivity theme, ultra-realistic, modern aesthetic, 8K, premium advertising style.",
+    "title": "Conceptual Productivity Force Field",
+    "description": "A cinematic concept art prompt depicting a woman focused in a clear force-field sphere while the outside world is blurred digital chaos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830069395_m2yf1l_HIP_V1kWQAA2Sxm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20169,
+    "content": "high-energy, urban street-art style composition featuring a stylized, life-sized version of {argument name=\"character\" default=\"Jerry the mouse from Tom and Jerry\"}. He is dressed in high-end streetwear, including an {argument name=\"outerwear\" default=\"oversized black and orange souvenir varsity jacket (sukajan)\"} over a white hoodie, paired with heavily detailed black cargo joggers adorned with patches and straps. He wears custom-branded high-top sneakers. The background is a gritty, textured brick wall completely covered in chaotic, layered graffiti, Japanese kanji, and stenciled art in shades of orange, black, and white. Bold, distressed typography reading \"{argument name=\"text\" default=\"JERRY\"}\" dominates the top of the frame. The lighting is cinematic and dramatic, highlighting the textures of the fabric and the weathered wall. The overall vibe is \"Legend in the Streets,\" blending 90s cartoon nostalgia with modern Tokyo street culture. Key Elements of the Style Subject: A realistic, 3D-rendered character with expressive features wearing detailed, multi-layered clothing. Color Palette: Dominated by safety orange, deep black, and stark white to create high contrast. Typography: A mix of English and Japanese text integrated into the background art, using distressed and stencil-style fonts. Atmosphere: Gritty, urban, and \"legendary,\" mimicking a high-fashion magazine cover or a streetwear brand advertisement.",
+    "title": "Urban Street-Art Jerry Mouse",
+    "description": "A 90s cartoon nostalgia mixed with modern Tokyo street culture featuring Jerry the mouse in high-end streetwear against a graffiti wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830073868_yqj55i_HIPyUFVbcAAHyJ9.jpg",
+      "https://cms-assets.youmind.com/media/1778830073829_fnd3xy_HIPyUHPacAAokC3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20175,
+    "content": "A hyper-realistic 3D street art illusion featuring a roaring tiger emerging from a cracked hole in the pavement, interacting with a confident young woman. The tiger is positioned in the center with ultra-realistic orange fur, bold black stripes, white accents, and an aggressive open-mouth roar showing sharp teeth. The girl is wearing a stylish {argument name=\"hoodie color\" default=\"MAROON\"} oversized hoodie with “{argument name=\"name on hoodie\" default=\"Kinza\"}” printed on it, black cargo pants, white sneakers, and a silver smartwatch, standing with her arms slightly raised in surprise and excitement. The environment is an outdoor plaza with a concrete surface and brick borders, while the illusion creates the effect of the tiger breaking through the ground into a {argument name=\"water color\" default=\"glowing teal-blue\"} water pool for cinematic depth. Perspective is from a slightly elevated angle, with natural daylight, soft shadows, photorealistic textures, and dynamic interaction between the girl and the street art, ultra detailed, cinematic 8K.",
+    "title": "3D Tiger Street Art Illusion",
+    "description": "A hyper-realistic 3D street art scene showing a tiger leaping from the pavement next to a person, featuring cinematic lighting and 8K details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830077200_47kmk7_HIPwlsQbUAAea3I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20170,
+    "content": "{\n  \"image_prompt_data\": {\n    \"subject\": {\n      \"demographics\": \"Beautiful glamorous woman with soft feminine features\",\n      \"hair\": {\n        \"style\": \"Short sleek bob haircut with soft natural shine and smooth texture\"\n      },\n      \"appearance\": {\n        \"skin_tone\": \"Warm porcelain skin with golden undertones\",\n        \"skin_detail\": \"Ultra-realistic skin texture with visible pores, soft peach fuzz, natural glow, cinematic highlights and realistic shadow transitions\",\n        \"makeup\": \"Luxury soft glam makeup with glowing skin, glossy peach lips, warm blush, subtle eyeliner and radiant highlighter\"\n      },\n      \"facial_expression\": {\n        \"eyes\": \"Soft dreamy half-closed eyes\",\n        \"lips\": \"Glossy lips gently holding a pink birthday candle\",\n        \"overall_expression\": \"Romantic feminine birthday mood\"\n      }\n    },\n    \"attire\": {\n      \"outfit\": {\n        \"corset\": \"Elegant blush pink satin corset with delicate structured seams and silky reflective fabric\",\n        \"skirt\": \"Soft layered blush tulle fabric with dreamy airy texture\"\n      },\n      \"fabric_details\": {\n        \"material\": \"Glossy satin and fluffy tulle textures\",\n        \"movement\": \"Natural fabric folds and realistic reflections\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"Dark intimate luxury indoor setting\",\n      \"details\": {\n        \"background\": \"Soft blurred warm-toned interior with cinematic darkness\",\n        \"atmosphere\": \"Romantic luxury birthday ambiance\"\n      }\n    },\n    \"composition\": {\n      \"type\": \"Luxury cinematic birthday editorial photography\",\n      \"camera_angle\": \"Close-up portrait perspective\",\n      \"framing\": \"Face, upper body and birthday cake centered in frame\",\n      \"pose\": {\n        \"body_position\": \"Leaning slightly forward toward birthday cake\",\n        \"hands\": \"Holding small pink birthday cake gently near face\",\n        \"head\": \"Soft downward tilt toward candle flame\",\n        \"posture\": \"Elegant intimate feminine pose\"\n      }\n    },\n    \"lighting\": {\n      \"type\": \"Ultra-realistic cinematic candle lighting\",\n      \"primary_source\": \"Warm candle flame illuminating face and lips\",\n      \"secondary_source\": \"Soft ambient warm studio fill light\",\n      \"shadow_behavior\": {\n        \"style\": \"Soft cinematic shadows with deep warm contrast\",\n        \"contrast\": \"Luxury editorial cinematic contrast\"\n      },\n      \"highlights\": \"Natural glossy highlights on skin, satin corset, lips and cake frosting\",\n      \"realism_notes\": \"Preserve realistic candle glow, authentic skin reflections and warm cinematic atmosphere\"\n    },\n    \"camera_settings\": {\n      \"camera_type\": \"Full-frame cinematic portrait camera\",\n      \"lens\": \"85mm portrait lens\",\n      \"aperture\": \"f/1.4\",\n      \"shutter_speed\": \"1/125 sec\",\n      \"iso\": \"400\",\n      \"focus\": \"Sharp focus on face, lips and candle flame with creamy background blur\"\n    },\n    \"realism_filter\": {\n      \"type\": \"Ultra photorealistic cinem",
+    "title": "Luxury Cinematic Birthday Portrait",
+    "description": "An intimate, high-fashion editorial portrait of a woman with a birthday cake, featuring dramatic candle lighting and satin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830074065_3dxc9l_HIPoboyaEAEaoQE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19988,
     "content": "Ultra-realistic top-down flat lay fashion sports photography of a young woman with {argument name=\"hair style\" default=\"voluminous curly brown hair\"} lying on a vibrant blue tennis court surface, holding a black tennis racket beside her head, wearing a {argument name=\"outfit color\" default=\"white\"} mesh crop sports t-shirt tied at the waist, white pleated tennis skirt, white socks, and white sneakers. Multiple neon yellow tennis balls scattered artistically around her body, with a black tennis duffle bag and an open tennis ball can placed beside her. Bright harsh sunlight creating strong cinematic shadows, editorial Nike-style campaign aesthetic, luxury sportswear vibe, symmetrical composition, crisp details, glossy skin highlights, vibrant colors, minimal background, high contrast, professional commercial photography, shot from directly above, 35mm lens look, ultra detailed, magazine cover quality, clean modern sporty aesthetic.",
     "title": "Tennis Court Top-Down Flat Lay",

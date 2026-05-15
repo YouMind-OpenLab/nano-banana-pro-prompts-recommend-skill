@@ -1,5 +1,36 @@
 [
   {
+    "id": 20182,
+    "content": "Please create it in an anime style. {argument name=\"scene description\" default=\"A wooden station building with a train stopped in the distance.\"}",
+    "title": "Anime Railway Station Transformation",
+    "description": "Transforms a photo or sketch of a wooden railway station into an anime-style illustration with descriptive prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830082139_67t7zz_HISvS-wbkAARq_L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20159,
+    "content": "Hyper-realistic, chaotic wide-angle fish-eye dashboard shot of a speeding {argument name=\"car\" default=\"vintage Mini Cooper\"}.\nCharacters & Identity:\n\n{argument name=\"driver\" default=\"Mr. Bean (Rowan Atkinson)\"} driving maniacally, steering with knees, holding a cup of tea.\nPassenger: photorealistic human, face and hair 100% identical to the uploaded reference, wearing a {argument name=\"outfit\" default=\"modern oversized printed baggy t-shirt\"}, enjoying the thrill of speed.\nBack seat: 3D animated Chucky (evil doll) and Alien Xenomorph, physically squished together, faces pressed against the side window in humorous distortion.\nOutside windshield: 3D animated Green Mean Gremlin splattered against glass, furious expression.\nThrough rear window: police car in pursuit.\nScene & Environment:\n\natermark, text Harsh daylight, strong natural shadows\nMotion blur on passing scenery for extreme sense of speed\nInterior of Mini Cooper rendered with photorealistic detail (dashboard, steering wheel, seats, reflections)\nCamera & Composition:\n\nWide-angle fish-eye perspective, exaggerating speed and chaos\nCinematic framing, dynamic, immersive POV\nHigh-fidelity textures, realistic lighting, reflections, and depth\nMood & Realism: Hyper-realistic photorealism for all human and Mini Cooper elements\n3D animated characters integrated seamlessly into scene\nVibrant, chaotic, fast-paced, cinematic, humorous",
+    "title": "Mr Bean Mini Cooper Chaos",
+    "description": "A hyper-realistic wide-angle shot of Mr. Bean driving a vintage Mini Cooper maniacally with animated characters integrated into a chaotic scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830068623_58ehyo_HIRV28ybAAAfAVb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20149,
+    "content": "Use the uploaded face reference image as the exact identity reference. Maintain perfect facial consistency across all frames — same facial structure, skin tone, hairstyle, eye shape, beard texture, nose, lips, and realistic proportions. Do not change identity. Create an ultra-cinematic multi-frame night photography collage of a {argument name=\"subject\" default=\"young man\"} standing on a {argument name=\"location\" default=\"rooftop\"} under a {argument name=\"celestial body\" default=\"massive glowing full moon\"}. Mood should feel emotional, dreamy, introspective, and film-like. Composition Layout (6-frame cinematic grid): 1.Wide rooftop shot with giant moon dominating the cloudy night sky. 2.Side profile portrait looking upward toward the moon. 3.Extreme close-up of eye reflecting moonlight and clouds. 4.Cinematic silhouette frame from behind with skyline lights. 5.Hand close-up resting on rooftop railing with shallow depth of field. 6.Atmospheric sky frame filled with stars, clouds, moon glow, and haze. Environment: Urban rooftop at night, Distant city skyline with realistic bokeh lights, Dramatic clouds surrounding bright moon, Slight wind movement in clothes and hair, Moist rooftop texture with reflective highlights, Atmospheric fog and cinematic haze. Lighting: Soft blue moonlight as key light, Subtle warm city lights from below, Realistic night shadows, Volumetric moon glow, Rim lighting around silhouette, High dynamic range cinematic contrast. Camera & Photography Style: Shot on Sony A7R IV / ARRI Alexa style, 85mm portrait lens + 35mm cinematic wide lens, Ultra photorealistic, Natural skin texture, Shallow depth of field, Sharp eye detail, Film grain, HDR night photography, Moody color grading, Premium cinematic composition, Hyper detailed, Unreal Engine realism, Netflix-style visual atmosphere. Color Palette: Deep midnight blue, silver moonlight, soft black shadows, cool cyan tones, warm golden city bokeh highlights. Quality Tags: masterpiece, best quality, ultra detailed, 8k, photorealistic, cinematic lighting, volumetric fog, realistic skin texture, atmospheric perspective, dramatic composition, high contrast, emotional storytelling, movie still aesthetic, premium cinematic collage, highly detailed clouds, realistic reflections. Negative Prompt: low quality, blurry face, bad anatomy, distorted eyes, extra fingers, oversaturated colors, cartoon, CGI look, duplicate frames, low detail skin, noisy image, warped hands, fake lighting, washed colors, deformed face, unrealistic moon proportions, text, watermark, logo, cropped face",
+    "title": "Cinematic Moonlight Rooftop Portrait Collage",
+    "description": "A sophisticated multi-frame prompt that creates an emotional, film-like collage of a person on an urban rooftop under a massive full moon, focusing on mood and atmospheric textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830063254_js3sqi_HIQOJqjaQAAJP_d.jpg",
+      "https://cms-assets.youmind.com/media/1778830063413_d9xtx0_HIQOJqkasAAEq2w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19977,
     "content": "Do not change the facial features. A cinematic close-up portrait of a young woman. The photo is taken from a slightly high angle. She is sitting on the floor, which is covered with a gray carpet. She is facing the camera; one leg is bent, the other is straight and extended. Between her legs, there is a flat glass plate with a partially eaten cake on it. One hand is next to the cake and is smeared with it; with the other hand, she is holding a knife and licking the cake off the blade. Her gaze is slightly turned to the side. The photo is taken with flash. Film grain is added. The overall vibe of the frame is relaxed, with a street glamour feel. She is wearing {argument name=\"clothing style\" default=\"Balenciaga-style clothing\"}. A realistic, detailed photograph.",
     "title": "Street Glamour Cake Knife Portrait",

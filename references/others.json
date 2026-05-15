@@ -13,6 +13,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 20183,
+    "content": "{argument name=\"characters\" default=\"Both couples\"} on the {argument name=\"furniture\" default=\"sofa\"}.",
+    "title": "Rock Dog Characters on Sofa",
+    "description": "A simple prompt for generating characters from the Rock Dog movie franchise in a domestic setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830081639_9dd0ul_HITT-IAXAAA801I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20179,
+    "content": "A traditional Japanese ink wash painting of a pair of graceful koi fish circling a submerged stone, created in expressive sumi-e style with flowing black ink lines and delicate crimson and pale gold watercolor tints. The pigments softly bleed into textured rice paper, evoking a sense of serenity and timeless beauty.",
+    "title": "Sumi-e Style Koi Painting",
+    "description": "A serene traditional Japanese ink wash painting prompt featuring koi fish and submerged stone on textured rice paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778830080708_okztp6_HISFYrkWMAAHRhK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19790,
     "content": "create the most minimal abstract representation of this through the medium of a {argument name=\"medium\" default=\"terrible pencil drawing\"} (clean, new {argument name=\"paper type\" default=\"white paper\"})",
     "title": "Minimalist Abstract Pencil Drawing",
