@@ -1,5 +1,56 @@
 [
   {
+    "id": 20431,
+    "content": "A {argument name=\"subject\" default=\"woman commando\"} in a {argument name=\"setting\" default=\"steampunk setting\"}.",
+    "title": "Steampunk Commando Woman Portrait",
+    "description": "A character concept prompt for a woman commando in a detailed steampunk setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915257424_menznc_HIYlsi4aQAEeiDY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20418,
+    "content": "This pencil sketch depicts a {argument name=\"subject\" default=\"young woman\"} leaning against a {argument name=\"background\" default=\"brick wall\"} in a narrow, gritty alleyway. She is dressed in a leather jacket, a striped shirt, and a beanie, holding a cigarette as wisps of smoke curl into the air. The scene is detailed with urban elements like a drainage pipe, graffiti, and trash cans, creating a moody, contemplative atmosphere through fine cross-hatching and textured shading.",
+    "title": "Gritty urban pencil sketch portrait",
+    "description": "A detailed pencil sketch of a young woman leaning against a brick wall in a gritty alleyway, featuring cross-hatching and urban textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915250934_nex909_HIYj6tyXUAA9efx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20428,
+    "content": "a vibrant, colorful illustration of a giant glossy {argument name=\"candy\" default=\"lollipop\"} planted in the ground, with {argument name=\"bird count\" default=\"three\"} plump {argument name=\"bird type\" default=\"pigeons\"} perched playfully on top of it, each pigeon in a slightly different pose, simple soft background, whimsical cartoon style, clean lines, high detail, bright cheerful lighting",
+    "title": "Whimsical Lollipop and Pigeons Illustration",
+    "description": "A vibrant, cartoon-style illustration of a giant glossy lollipop with playful pigeons perched on top, featuring clean lines and bright lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915256552_b3tu1z_HIEK7dkW0AAT4_U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20436,
+    "content": "A high-fashion cyberpunk portrait featuring a woman in an avant-garde ensemble of glowing {argument name=\"neon textures\" default=\"neon textures\"} and translucent {argument name=\"fabric\" default=\"violet tulle\"}. She wears a digital HUD visor over her eyes, with her hair electrified in vibrant {argument name=\"hair colors\" default=\"magenta and cyan\"} hues. The composition blends organic elements like a lush bouquet of purple flowers with digital overlays, data streams, and glowing circuitry, all set against a bustling, neon-lit futuristic city background.",
+    "title": "Cyberpunk Neon Floral Portrait",
+    "description": "A high-fashion cyberpunk portrait prompt blending neon tech with floral elegance and a futuristic city background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915261052_6g6twx_HIWFULqX0AAagLU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20454,
+    "content": "These illustrations feature a {argument name=\"art style\" default=\"charming, hand-drawn aesthetic inspired by traditional Japanese ink wash and watercolor paintings\"}. The scenes depict a {argument name=\"subject\" default=\"group of spirited children in rustic, historical attire\"} living a simple life amidst a {argument name=\"environment\" default=\"lush, misty forest\"}. Whether it is a young boy diligently splitting wood with a small axe or a group of friends playfully splashing and sailing leaf boats in a clear mountain stream, the artwork captures a sense of nostalgic wonder, innocence, and a deep, harmonious connection with the natural world.",
+    "title": "Traditional Japanese Ink Children Illustration",
+    "description": "Hand-drawn style illustrations inspired by Japanese ink wash and watercolor paintings, depicting children in a misty forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915269946_w0q9lz_HIUYqDbXEAApyA4.jpg",
+      "https://cms-assets.youmind.com/media/1778915269978_qim8zg_HIUYqGhWgAAPWF9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20148,
     "content": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
     "title": "Spiritual Soulmate Visualization",

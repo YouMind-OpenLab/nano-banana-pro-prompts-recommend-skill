@@ -20,6 +20,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 20440,
+    "content": "A hyper-realistic futuristic creator-brand campaign poster featuring a stylish young digital creator standing confidently in the middle of a {argument name=\"setting\" default=\"modern luxury studio space\"} with cinematic lighting, glossy reflective floors, floating holographic UI graphics, and premium fashion-editorial aesthetics. The environment should feel like a futuristic content-creator headquarters mixed with a luxury fashion campaign and modern AI-tech branding studio. Include large LED panels, ambient blue lighting, reflective metallic textures, floating interface visuals, glowing screens, and subtle cinematic haze. The subject wears a fully customizable high-end creator-fashion outfit: oversized bomber jacket, layered hoodie, fitted tee, stacked cargos, designer sneakers, chains, rings, watches, or {argument name=\"style\" default=\"futuristic streetwear styling\"}. Clothing textures must look ultra-realistic with visible stitching, premium fabrics, natural folds, and sharp detailing. The outfit includes customizable creator-brand typography and logos based on the {argument name=\"identity\" default=\"user’s chosen name\"}. Branding should appear professionally integrated as: embroidered chest logos, sleeve patches, stitched fashion labels, back-print graphics, luxury creator-brand typography. Typography must be: perfectly readable, professionally aligned, clean luxury design, ultra-sharp, realistic printed or embroidered text, no blurry AI-generated lettering. Composition: The creator stands center-frame while layered digital collage elements float around the composition: glassmorphism interface cards, floating notifications, upload progress bars, social-media widgets, futuristic dashboard panels, holographic app windows, rounded UI elements, creator analytics graphics, clean digital overlays. Pose & Expression: Relaxed confident body language with subtle movement. One hand adjusting clothing or accessories while maintaining a naturally cool creator presence. Expression: focused, stylish, calm confidence with realistic facial detail and authentic social-media personality energy. Lighting: cinematic studio lighting, soft blue ambient glow, realistic flash highlights, reflective floor lighting, dramatic shadows, subtle film grain, ultra-detailed skin texture, editorial-quality realism. Overall Mood: Futuristic, premium, stylish, internet-native, cinematic, creator-focused, luxury-tech aesthetic with viral campaign energy. Image Quality: Ultra-realistic photography, extremely detailed textures, sharp focus, cinematic color grading, realistic reflections, professional campaign quality, high-resolution fashion-editorial realism. Negative Prompt: bad anatomy, blurry text, unreadable typography, distorted hands, extra fingers, warped reflections, low-detail clothing, messy composition, fake UI text, cartoon rendering, low realism, duplicate subjects, broken perspective.",
+    "title": "Futuristic Creator Brand Campaign",
+    "description": "A hyper-realistic futuristic creator-brand campaign poster prompt featuring a stylish digital creator in a luxury studio with holographic UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915262581_jdnc1x_HIY1FpQXIAAH0gl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20423,
+    "content": "Ultra-realistic {argument name=\"subject\" default=\"anime character portrait poster\"}, inspired by {argument name=\"style\" default=\"modern cinematic Japanese anime aesthetics\"}, close-up side profile, soft emotional expression, detailed skin texture, glossy eyes, wind-blown hair strands, subtle facial scratches and dirt, dramatic soft lighting, shallow depth of field, photorealistic fabric and zipper details, muted monochromatic color palette, atmospheric background bokeh, highly detailed digital painting, vertical typography layout with character name, minimalist graphic design, premium poster composition, 8k, sharp focus, volumetric lighting, realistic anime fusion style, elegant and emotional mood",
+    "title": "Cinematic anime character portrait",
+    "description": "An emotional anime character portrait poster with realistic textures and dramatic soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915254284_kcrcsq_HIXDj9-aAAAgwGQ.jpg",
+      "https://cms-assets.youmind.com/media/1778915254134_8kwxm9_HIXDj-xaAAAsMRB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20456,
+    "content": "A whimsical high-fashion watercolor portrait collection inspired by the elegance of {argument name=\"muse\" default=\"Yui Aragaki\"}, portrayed as a beautiful, attractive, intelligent, and graceful Japanese woman in a {argument name=\"setting\" default=\"lush enchanted woodland setting\"}.\n\nStyle: vibrant watercolor illustration with flowing bleeding paint washes, delicate soft ink outlines, dreamy cinematic atmosphere, handcrafted watercolor textures, elegant editorial fashion aesthetic, subtle paper grain, and poetic fantasy realism. The artwork blends sophisticated Japanese beauty photography with magical storybook charm.\n\nKey scenes include:\n• {argument name=\"muse\" default=\"Yui Aragaki\"} standing gracefully among towering forest trees wearing a luxurious pastel trench coat and flowing silk dress, soft sunlight filtering through leaves, expressive eyes and calm confident expression.\n• {argument name=\"muse\" default=\"Yui Aragaki\"} sitting cross-legged on a moss-covered stone while reading a vintage book, surrounded by floating flower petals and glowing watercolor splashes.\n• {argument name=\"muse\" default=\"Yui Aragaki\"} thoughtfully writing with a feather quill at a rustic wooden table in the woodland, emerald and teal watercolor accents softly blending into the dreamy background.\n• {argument name=\"muse\" default=\"Yui Aragaki\"} gathering wildflowers and berries into a woven basket while wearing a soft cream cardigan and elegant flowing skirt, cinematic golden-hour lighting illuminating her face.\n\nArt direction:\ndreamy watercolor fantasy, ultra-detailed facial features, elegant Japanese fashion styling, natural beauty, subtle freckles, soft blush tones, fluid watercolor textures, expressive eyes, cinematic composition, handcrafted illustration feel, magical forest ambience, luxury editorial poster aesthetic, highly artistic and visually poetic.\n\nComposition:\nvertical 3:4 poster layout, balanced negative space, layered woodland foliage depth, flowing watercolor edges, atmospheric soft-focus background blur, harmonious color palette of emerald green, warm gold, ivory, pastel pink, and soft teal.\n\nAdditional details:\nplace the name “{argument name=\"muse\" default=\"YUI ARAGAKI\"}” elegantly at the bottom of the poster in refined minimalist typography integrated naturally into the composition.\n\nQuality:\nultra-high resolution, masterpiece quality, clean watercolor detailing, gallery-worthy illustration, refined artistic sophistication, soft cinematic lighting, no photorealism, no harsh shadows, no watermark.",
+    "title": "Whimsical Japanese Watercolor Portrait",
+    "description": "A high-fashion watercolor collection featuring a graceful Japanese woman in an enchanted forest setting with fluid textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915271897_xaynje_HIW6_A2WgAAciX8.jpg",
+      "https://cms-assets.youmind.com/media/1778915272384_0oglf1_HIW6_EuXQAADA8D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20437,
+    "content": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"EMA’Z\"}\" featuring a model with voluminous, vibrant {argument name=\"hair color\" default=\"orange\"} curly hair. She wears a bold, eclectic ensemble consisting of a red sequined bodice, green tiger-print sleeves, and a layered blue tulle skirt. She is posed against a {argument name=\"background\" default=\"dark blue damask backdrop\"}, with elegant gold serif typography highlighting headlines like \"Crimson Reign\" and \"Emerald Tides,\" creating a maximalist aesthetic centered on \"The Color Revolution.\"",
+    "title": "Maximalist Fashion Magazine Cover",
+    "description": "A maximalist magazine cover prompt titled 'EMA’Z' featuring a model with orange curly hair and an eclectic ensemble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915261566_tl3dom_HIVpPf2WoAAYTni.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20148,
     "content": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
     "title": "Spiritual Soulmate Visualization",

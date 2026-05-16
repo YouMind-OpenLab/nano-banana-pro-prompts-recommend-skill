@@ -56,6 +56,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 20429,
+    "content": "Vintage 1920s laboratory blueprint illustration of a giant {argument name=\"subject\" default=\"strawberry shortcake\"} styled as technical scientific diagram on {argument name=\"paper type\" default=\"aged tea-stained parchment\"}. Central dessert with precise callouts: “Aerated Dairy Matrix”, “Granulated Sucrose Dusting”, “Moisture Absorbency Graph”, “Flavor Profile Hexagon”, “Texture Hardness Scale”. Ornate Victorian borders, technical sketches of beakers and thermometers, “Registered No. 1923” stamp. Retro-futurism Da Vinci meets old-school soda shop menu aesthetic, high detail on layers and textures.",
+    "title": "Vintage Scientific Blueprint Dessert",
+    "description": "A retro-futuristic scientific diagram of a strawberry shortcake on aged parchment, blending 1920s laboratory aesthetics with technical sketches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915256913_ahx8g0_HIX3blZa4AAept_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20416,
+    "content": "Vintage travel journal watercolor illustrations of {argument name=\"locations\" default=\"two cities\"} on aged paper with stamps, handwritten notes, and maps. First: {argument name=\"city one\" default=\"Los Angeles street scene\"} with palm trees, City Hall, Wiltern Theatre, classic cars, bicycles, and pedestrians, capturing the scent of jasmine and ocean breeze. Second: {argument name=\"city two\" default=\"Artisan City inspired by Japanese culture\"} with Mount Fuji in the background, showcasing lacquerware, tea bowls, geta sandals, kimonos, and a pagoda temple blended with modern elements like vending machines. Both use soft watercolor washes, ink details, warm earthy tones, and a mix of cultural landmarks, local crafts, and urban life in a scrapbook, postcard-like style.",
+    "title": "Vintage travel journal watercolor",
+    "description": "Watercolor illustrations for a travel journal featuring city scenes on aged paper with stamps and handwritten notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915250805_vvv4ng_HIXiQD1XgAAqMxH.jpg",
+      "https://cms-assets.youmind.com/media/1778915250843_kasuwj_HIXiQAkXoAETW9e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20425,
+    "content": "Create a hyper-realistic, ultra-detailed, DSLR-quality vertical portrait scene using the provided reference image, keeping the face, identity, facial structure, skin tone, hairstyle, soft expression, and authentic {argument name=\"ethnicity\" default=\"Asian\"} features exactly the same with no distortion or stylization, featuring a {argument name=\"subject\" default=\"young woman in her early 20s\"} with glowing natural skin, long slightly wavy dark hair, minimal influencer-style makeup, wearing a stylish modest {argument name=\"outfit color\" default=\"lavender-purple\"} full-sleeve influencer suit with soft white embroidery details, paired with light blue denim and minimal silver accessories, standing or sitting confidently in a {argument name=\"setting\" default=\"cozy modern bedroom\"} creator setup with a wooden desk, smartphone, ring light, laptop, aesthetic neutral decor, plants, shelves, warm daylight from a window, shallow depth of field, and soft cinematic lighting, while multiple cute glowing 3D chibi mini versions of the same girl float around the scene in kawaii cartoon style showing different content creation stages including a sad chibi with blank notebook and text “No ideas 😩”, excited chibi with bulb and text “Had an idea! 💡”, recording chibi using phone and ring light, editing chibi on laptop with text “Editing... ✂️”, celebrating upload chibi with text “Posted! ✅”, sad ignored chibi with text “Nobody’s seeing it 😭”, shocked happy viral chibi with text “Went viral 🔥”, sleepy exhausted chibi with text “Exhausted... 😴”, and successful final chibi holding a phone with huge engagement numbers and text “Success! ✨”, all rendered in ultra-realistic 8K quality with cinematic composition, vibrant details, soft shadows, influencer aesthetic, clean modern atmosphere, realistic textures, and highly engaging viral social media poster style in 4:5 portrait orientation.",
+    "title": "Content creator journey infographic",
+    "description": "A portrait of a young woman surrounded by floating 3D chibi versions of herself representing content creation stages.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915255264_e9b3e3_HIU35nxaUAA_jj9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19976,
     "content": "Identify 6 sports moments   => reconstructed as dynamic scrap-metal dioramas where athletes are forged from [{argument name=\"metal materials\" default=\"rusted gears, bicycle chains, or sheet metal\"}], motion trails rendered in [{argument name=\"trail materials\" default=\"spray-painted stencils or wire mesh\"}], and stadium energy implied by [scattered ticket stubs or crushed aluminum]. Each scene channels the moment’s intensity — triumph, heartbreak, or shock — through metal tension and composition flow. Style: high-contrast monochrome, dramatic side lighting, gritty industrial texture. Output: One image, 3x2 grid",
     "title": "Scrap Metal Sports Dioramas",

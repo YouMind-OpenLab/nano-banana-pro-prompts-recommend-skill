@@ -21,6 +21,154 @@
     "needReferenceImages": true
   },
   {
+    "id": 20457,
+    "content": "Fashion editorial photo of a {argument name=\"subject\" default=\"woman\"} standing in a {argument name=\"location\" default=\"lush garden\"}, wearing a {argument name=\"clothing\" default=\"long flowy white dress with a floral pattern\"}. She has a large straw hat on her head and is looking at the camera with a confident expression. The sun is shining brightly, casting a warm glow over the scene. In the background, there are colorful flowers and green plants. The overall mood is elegant and sophisticated.",
+    "title": "Fashion Editorial Woman in Garden",
+    "description": "A sophisticated fashion editorial prompt for generating a portrait of a person in a lush garden setting, designed to work well with reference photos for maintaining specific facial features or poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915272983_w7ol1x_HIZGUvhbkAAFMJ-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20453,
+    "content": "{\n  \"aspect_ratio\": \"9:16\",\n  \"prompt\": \"An ultra-realistic, 16k resolution editorial beauty collage presenting a 3x3 grid of nine distinct close-up portraits of the same female model. The model has dark, wet-look styled hair featuring distinct, precise face-framing curl tendrils at her forehead, matching image_5.png. Her skin is radiant, glowing, and dewy with realistic, non-retouched dermal texture and fine pores. She has light-medium skin tone, blue-grey eyes, and natural, well-defined brows. Every portrait showcases her wearing high-gloss, ultra-saturated, vibrant candy-apple red lipstick and deep oxblood-maroon pointed stiletto nails. The grid follows the exact poses from image_5.png:\n  Top Row: 1. Head back, fingers near mouth. 2. Central application with square red lipstick tube. 3. Profiling right, pulling a red strawberry from her mouth.\n  Middle Row: 4. Laughing, winking, applying with square red lipstick tube. 5. Duck-face with fingers pulling mouth. 6. Winking with hand supporting cheek.\n  Bottom Row: 7. Open-mouth laughing, showing tongue, looking left. 8. Low angle looking up, applying with square red lipstick tube. 9. Winking laugh, showing teeth.\n  Lighting: Clinical, high-key, bright studio beauty lighting with soft shadows, making the lip gloss and skin dewiness glisten. Color Grade: Clean, high-contrast, vibrant, minimal background. Background: A seamless, stark, minimal white studio backdrop. Camera: Macro lens realism with crisp focus on lips and skin texture, polished commercial campaign style.\",\n  \"technical_details\": {\n    \"resolution\": \"16k UHD\",\n    \"sharpness\": \"Tack-sharp on lip lines and pores\",\n    \"skin_finish\": \"Hyper-realistic dermal texture, subsurface scattering\",\n    \"composition\": \"Strict 3x3 grid symmetry\"\n  }\n}",
+    "title": "Beauty Collage Lipstick Grid",
+    "description": "A macro-lens beauty prompt generating a 3x3 grid of a model in various poses, showcasing high-gloss red lipstick and detailed skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915269878_nvcsp6_HIY_l8iXgAEiwBo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20455,
+    "content": "Ultra-realistic 16k macro beauty photography, profile view of {argument name=\"subject\" default=\"two identical female models\"} with heavy freckles facing each other, noses nearly touching. Features: high-gloss {argument name=\"lipstick color\" default=\"deep cherry red\"} lipstick with wet-look shine, laminated thick dark eyebrows, glistening dewy skin texture with visible pores and fine peach fuzz. Hand at bottom holding a luxury gold lipstick tube with matching red cream. Lighting: Bright, soft studio lighting with high specular highlights on the lips and nose bridge, minimal shadows. Color Grade: {argument name=\"background\" default=\"Warm, creamy beige monochromatic background\"}, vibrant saturated reds, clean and sophisticated editorial aesthetic. Camera: Shot on 85mm macro lens, f/2.8, sharp focus on lips and skin texture, hyper-detailed, photorealistic, Vogue editorial style.",
+    "title": "Macro Beauty Photography Portrait",
+    "description": "Ultra-realistic macro beauty photography of two identical female models with freckles and glossy red lipstick.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915271588_pwf6xe_HIY2gYsXEAAFBEj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20440,
+    "content": "A hyper-realistic futuristic creator-brand campaign poster featuring a stylish young digital creator standing confidently in the middle of a {argument name=\"setting\" default=\"modern luxury studio space\"} with cinematic lighting, glossy reflective floors, floating holographic UI graphics, and premium fashion-editorial aesthetics. The environment should feel like a futuristic content-creator headquarters mixed with a luxury fashion campaign and modern AI-tech branding studio. Include large LED panels, ambient blue lighting, reflective metallic textures, floating interface visuals, glowing screens, and subtle cinematic haze. The subject wears a fully customizable high-end creator-fashion outfit: oversized bomber jacket, layered hoodie, fitted tee, stacked cargos, designer sneakers, chains, rings, watches, or {argument name=\"style\" default=\"futuristic streetwear styling\"}. Clothing textures must look ultra-realistic with visible stitching, premium fabrics, natural folds, and sharp detailing. The outfit includes customizable creator-brand typography and logos based on the {argument name=\"identity\" default=\"user’s chosen name\"}. Branding should appear professionally integrated as: embroidered chest logos, sleeve patches, stitched fashion labels, back-print graphics, luxury creator-brand typography. Typography must be: perfectly readable, professionally aligned, clean luxury design, ultra-sharp, realistic printed or embroidered text, no blurry AI-generated lettering. Composition: The creator stands center-frame while layered digital collage elements float around the composition: glassmorphism interface cards, floating notifications, upload progress bars, social-media widgets, futuristic dashboard panels, holographic app windows, rounded UI elements, creator analytics graphics, clean digital overlays. Pose & Expression: Relaxed confident body language with subtle movement. One hand adjusting clothing or accessories while maintaining a naturally cool creator presence. Expression: focused, stylish, calm confidence with realistic facial detail and authentic social-media personality energy. Lighting: cinematic studio lighting, soft blue ambient glow, realistic flash highlights, reflective floor lighting, dramatic shadows, subtle film grain, ultra-detailed skin texture, editorial-quality realism. Overall Mood: Futuristic, premium, stylish, internet-native, cinematic, creator-focused, luxury-tech aesthetic with viral campaign energy. Image Quality: Ultra-realistic photography, extremely detailed textures, sharp focus, cinematic color grading, realistic reflections, professional campaign quality, high-resolution fashion-editorial realism. Negative Prompt: bad anatomy, blurry text, unreadable typography, distorted hands, extra fingers, warped reflections, low-detail clothing, messy composition, fake UI text, cartoon rendering, low realism, duplicate subjects, broken perspective.",
+    "title": "Futuristic Creator Brand Campaign",
+    "description": "A hyper-realistic futuristic creator-brand campaign poster prompt featuring a stylish digital creator in a luxury studio with holographic UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915262581_jdnc1x_HIY1FpQXIAAH0gl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20420,
+    "content": "The timeless gaze of a captivating woman, her warm, wavy locks catching the sun, reposed against the rich {argument name=\"background color\" default=\"crimson\"} of a velvet divan watching directly in camera. She is a vision of modern elegance, {argument name=\"top\" default=\"gold sleeveless crop tank top\"}, loose-fitting with thin straps and a deep side cutout prominently visible revealing skin made of a cascade of shimmering sequins, delicate three-dimensional floral blossoms, and playful, dancing fringe, exhalting her legs with deep neckline. The air is thick with the scent of an ancient roman style terrace, where sun-kissed stone columns stand sentinel, and a monumental, carved terracotta urn with little sign 'Keor' on it holds a lush, vibrant offering to the sky. A bold panel of deep carmine red frames her, while in the far distance, a roman temple scales a verdant hillside under the soft, blue expanse. Strong, natural golden sunlight sculpts her features and sets the embellishments ablaze. A high-fashion portrait captured with cinematic grace and poetic intensity.",
+    "title": "Ancient Roman terrace fashion portrait",
+    "description": "A high-fashion portrait of a woman in modern elegance reposed on a crimson velvet divan at an ancient Roman terrace.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915252142_w4fnfg_HIYxva5XcAAywwd.jpg",
+      "https://cms-assets.youmind.com/media/1778915252147_9suba3_HIYxvhVX0AA8hXy.jpg",
+      "https://cms-assets.youmind.com/media/1778915252138_jeb8mt_HIYxvowXkAAcmJs.jpg",
+      "https://cms-assets.youmind.com/media/1778915252865_szgdhu_HIYxvxeXoAAJD8v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20435,
+    "content": "A high-resolution fashion portrait photography of {argument name=\"name\" default=\"Sydney Sweeney\"} sitting directly on a {argument name=\"sofa color\" default=\"light beige\"} leather sofa in a minimalist indoor setting with a solid white background. Captured in a medium shot from mid-thigh to just above the head, the camera is positioned at a slightly elevated angle above her eye level to emphasize a delicate perspective. She has long, straight blonde hair styled with a thick pink fabric headband, expressive blue eyes with long natural eyelashes, well-defined eyebrows, pink lip gloss, and thick round pink glasses. She features a harmonious, curvy silhouette with natural body proportions. She is wearing a tight, short-sleeved white button-down cropped top paired with a pink and red plaid tie. Her outfit is completed by a matching high-waisted pleated {argument name=\"skirt pattern\" default=\"plaid\"} miniskirt featuring large flat orange buttons on the front waistband, red suspenders stretching from the skirt to her shoulders, and dark thigh-high socks. Her pose is relaxed but engaged; she faces the camera with her head slightly tilted down while looking directly into the lens, showing a slight, confident smile. Her legs are relaxed and slightly apart, and both arms are extended downwards with her hands resting flat on the sofa cushions next to her hips. The overall mood is confident, casual, and vibrant. The image is captured with professional high-key studio lighting using a full-frame camera and a 50mm prime lens. Technical details include an f/4 aperture to maintain consistent sharpness on her face and clothes while preserving a clean background, ISO 100, a 1/160s shutter speed, and a 5600K neutral studio white balance. The image features a precise focus on the eyes, highly detailed skin and fabric textures, balanced photographic lighting, and realistic optical rendering. Aspect Ratio 9:16.",
+    "title": "Plaid Fashion Portrait Photography",
+    "description": "A high-resolution fashion portrait prompt featuring a subject in a plaid miniskirt and suspenders, utilizing professional studio lighting and camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915259149_u7xl4o_HIYnDHSXoAA7jnS.jpg",
+      "https://cms-assets.youmind.com/media/1778915259109_q0f455_HIYnDInXQAATsCh.jpg",
+      "https://cms-assets.youmind.com/media/1778915259190_vrs0e8_HIYnDLFXMAAKqKk.jpg",
+      "https://cms-assets.youmind.com/media/1778915260142_yt9w5b_HIYnDP1WcAEhRHe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20434,
+    "content": "{\n  \"image_prompt_data\": {\n    \"subject\": {\n      \"demographics\": \"Young beautiful woman with playful feminine features and expressive eyes\",\n      \"hair\": {\n        \"style\": \"Soft updo with loose face-framing curls and slightly messy romantic strands\"\n      },\n      \"appearance\": {\n        \"skin_tone\": \"Fair warm skin tone with natural rosy undertones\",\n        \"skin_detail\": \"Ultra-realistic smooth skin texture with natural pores, soft blush glow, glossy hydrated finish and realistic facial highlights\",\n        \"makeup\": \"Soft pink glam makeup with flushed cheeks, glossy pink lips, subtle shimmer highlighter, feathered brows and long lashes\"\n      },\n      \"facial_expression\": {\n        \"eyes\": \"Cross-eyed playful expression looking upward\",\n        \"lips\": \"Open glossy lips holding a {argument name=\"prop\" default=\"white sugar cube\"} between teeth\",\n        \"overall_expression\": \"Cute cheeky playful beauty editorial mood\"\n      }\n    },\n    \"attire\": {\n      \"outfit\": {\n        \"style\": \"{argument name=\"outfit style\" default=\"Soft pastel pink spaghetti strap top\"} with minimal elegant styling\"\n      },\n      \"accessories\": {\n        \"jewelry\": \"Thin delicate gold necklace\"\n      }\n    },\n    \"environment\": {\n      \"location\": \"Minimal clean beauty studio\",\n      \"background\": \"Pure white seamless studio backdrop\",\n      \"atmosphere\": \"Playful luxury beauty campaign aesthetic\"\n    },\n    \"composition\": {\n      \"type\": \"Ultra-close beauty portrait\",\n      \"camera_angle\": \"Straight-on close-up angle\",\n      \"framing\": \"Tight crop focused on face, lips and expression\",\n      \"pose\": {\n        \"body\": \"Relaxed shoulders slightly forward\",\n        \"head\": \"Centered head position with playful facial pose\"\n      }\n    },\n    \"lighting\": {\n      \"type\": \"Ultra-realistic glossy studio beauty lighting\",\n      \"primary_source\": \"Soft diffused frontal studio light illuminating skin evenly\",\n      \"secondary_source\": \"Subtle reflector fill enhancing glossy cheeks, lips and nose bridge\",\n      \"shadow_behavior\": {\n        \"style\": \"Very soft clean editorial shadows\",\n        \"contrast\": \"Balanced bright beauty-commercial contrast\"\n      },\n      \"highlights\": \"Glossy realistic specular highlights on lips, cheeks and skin\",\n      \"realism_notes\": \"Maintain authentic skin texture and playful editorial realism with premium beauty photography lighting\"\n    },\n    \"camera_settings\": {\n      \"camera_type\": \"Professional high-end beauty photography camera\",\n      \"lens\": \"100mm macro portrait lens\",\n      \"aperture\": \"f/3.5\",\n      \"shutter_speed\": \"1/160 sec\",\n      \"iso\": \"100\",\n      \"focus\": \"Extremely sharp focus on eyes, lips, {argument name=\"prop\" default=\"sugar cube\"} and skin texture\"\n    }\n  }\n}",
+    "title": "Playful Beauty Editorial Close-up",
+    "description": "An ultra-close beauty portrait prompt for a playful editorial look, featuring a subject holding a sugar cube between their teeth with high-end macro photography settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915259487_b5shxp_HIYYH7VbAAAuwRo.jpg",
+      "https://cms-assets.youmind.com/media/1778915259502_bilzpb_HIYYIkzbsAArudP.jpg",
+      "https://cms-assets.youmind.com/media/1778915259441_dq4u9p_HIYYJOYakAApg6I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20422,
+    "content": "Ultra-real {argument name=\"style\" default=\"Tokyo drift editorial\"} at {argument name=\"location\" default=\"Odaiba Marine Park\"} facing the illuminated Rainbow Bridge at blue hour, shot on a full-frame 35mm prime with crisp on-camera flash over cool bay light, palette of teal, sodium amber, wet black, and brake-light red; a logo-free {argument name=\"car\" default=\"crimson GR86-inspired coupe\"} with a visible side air outlet, ducktail, bronze deep-dish wheels, and light directional tire smoke sits beside an adult woman in a black racer baby tee, cropped leather jacket, low-rise charcoal cargos, silver pointed ankle boots, glassy straight hair, chrome hoops, and slim visor shades, leaning on the front fender while friends film, one mechanic crouches by the rear wheel, and unopened canned coffee plus convenience-store skewers sit on the guardrail, giving expensive post-run Y2K crew energy. \n\nNegative prompt: extra fingers, waxy skin, copied logos, warped wheel spokes, melted body panels, fake tire smoke, duplicated crew, muddy reflections, unreadable signage, underage-looking faces.",
+    "title": "Tokyo drift editorial at Odaiba",
+    "description": "A realistic Tokyo drift editorial shot featuring a GR86-inspired car and characters at Odaiba Marine Park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915254066_nh8rhl_HIYBuGqWQAAurNd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20419,
+    "content": "This vertical fashion portrait features a {argument name=\"subject\" default=\"woman\"} in a side-profile pose, her face clearly visible with a sharp, focused expression. She wears a {argument name=\"outfit\" default=\"sleek, long-sleeved black dress\"} that fully covers her back, removing the open-back detail from the original reference. The composition utilizes a bold color-blocking style, setting the grayscale subject against a solid, {argument name=\"background color\" default=\"vibrant orange\"} background. To complete the look, she wears matching orange platform heels, creating a high-contrast and modern editorial aesthetic.",
+    "title": "Orange color block fashion portrait",
+    "description": "A high-contrast editorial portrait featuring a woman in a black dress against a vibrant orange background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915252391_h9kqdz_HIXIgcWXEAAIjmx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20427,
+    "content": "A male model stands centered and straight-on, exuding a serious, confident presence with his face featuring an even five o'clock shadow and a closed, neutral mouth, his gaze relaxed yet focused and directed away to the viewer's right. His hair is a three-to-four-inch medium-short classic taper cut with a layered top, swept back and parted slightly off-center to the left, styled with a matte paste that controls the naturally slightly wavy texture while revealing individual piecey strands, natural density variations, and minor organic flyaways along the hairline and crown for authentic imperfection. He is dressed in an {argument name=\"jacket style\" default=\"oversized, textured dark espresso brown leather zip-up jacket\"} with wide open collars over a crisp white crew-neck t-shirt, paired with warm tan trousers. His level shoulders and centered weight frame his meticulously positioned hands, both clad in dark espresso brown leather gloves; his left hand lightly pinches the left lens rim of a pair of round tortoiseshell sunglasses featuring dark purple-grey tinted lenses, while his right hand gently holds the right arm and hinge area with slightly curled fingers, suspending a fine gold-brass chain lanyard draped elegantly down across his torso. Directly behind him in the shallow midground stands a pristine outdoor architectural column made of smooth, matte painted plaster, boasting a crisp pure white surface and a perfect vertical corner line entirely devoid of scuffs or cracks. The scene is bathed in bright, highly directional natural sunlight striking from a forty-five-degree angle slightly top-down from the viewer's left, producing a dramatic, high-contrast atmosphere without any ambient fill. This hard light carves harsh, defined, deep black shadows under his jaw, beneath the jacket collar flaps, on the right side of his nose, and casts a heavy geometric shadow across the pristine white wall on the right, while meticulously preserving bright highlights on his forehead, nose bridge, right cheekbone, hair texture, and the top edges of the leather jacket shoulders. The overall mood is sophisticated and structured, heavily influenced by minimalist architectural fashion campaigns, balancing a neutral base with warm monochromatic accents. Captured as a high-end menswear editorial photograph, the image utilizes an 85mm lens at an aperture between f/5.6 and f/8, ISO 100, and a fast shutter speed to achieve tack-sharp, grain-free focus with a medium depth of field. The straight-on perspective is refined through post-processing with a high contrast curve, crisp sharpening to emphasize the leather grain and hair strands, and a neutral white balance ensuring deep, clean blacks, all perfectly framed in a 3:4 aspect ratio.",
+    "title": "High-End Menswear Editorial Photography",
+    "description": "A sophisticated menswear prompt featuring a male model in a leather jacket and sunglasses, emphasizing high-contrast natural lighting and minimalist architectural composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915256221_9d6dv2_HIWPuqDXMAA-XaM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20438,
+    "content": "Realistic luxury spa editorial portrait of the same adult person from the reference image, keeping the exact same face and identity unchanged. Person relaxing in a {argument name=\"bath setting\" default=\"marble bathtub with warm candlelight\"}, wet wavy dark hair, calm confident expression, {argument name=\"outfit\" default=\"modest white spa wrap or bathrobe-style covering\"}, body tastefully covered and partially submerged in bath water with rose petals. Elegant marble bathroom, soft steam, cinematic warm lighting, shallow depth of field, realistic skin texture, premium wellness magazine photography. No face changes, no nudity, no explicit content.",
+    "title": "Luxury Spa Editorial Portrait",
+    "description": "A realistic luxury spa editorial prompt for generating a serene portrait in a marble bathtub with candlelight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915261671_7taoq1_HIVwTOCXUAAUfaH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20437,
+    "content": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"EMA’Z\"}\" featuring a model with voluminous, vibrant {argument name=\"hair color\" default=\"orange\"} curly hair. She wears a bold, eclectic ensemble consisting of a red sequined bodice, green tiger-print sleeves, and a layered blue tulle skirt. She is posed against a {argument name=\"background\" default=\"dark blue damask backdrop\"}, with elegant gold serif typography highlighting headlines like \"Crimson Reign\" and \"Emerald Tides,\" creating a maximalist aesthetic centered on \"The Color Revolution.\"",
+    "title": "Maximalist Fashion Magazine Cover",
+    "description": "A maximalist magazine cover prompt titled 'EMA’Z' featuring a model with orange curly hair and an eclectic ensemble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915261566_tl3dom_HIVpPf2WoAAYTni.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20449,
+    "content": "A high-fashion, minimalist portrait featuring a woman in a {argument name=\"outfit\" default=\"deep gold velvet off-the-shoulder dress\"}, posed against a matching {argument name=\"background\" default=\"textured mustard yellow backdrop\"}. She wears a wide-brimmed purple felt hat tilted forward to dramatically obscure her eyes, complemented by bold, matte plum lipstick. The composition emphasizes a rich, regal color palette and elegant textures, capturing a sense of mysterious, modern sophistication.",
+    "title": "Minimalist Gold Velvet Portrait",
+    "description": "A minimalist fashion portrait prompt featuring a rich regal color palette and elegant velvet textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915266722_z9s05n_HIVapksWIAA-s_S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20432,
+    "content": "Minimalist commercial ad featuring oversized {argument name=\"brand\" default=\"SNOW\"} Water Bottle, ultra-clean luxury design. A young woman in an all-white outfit leans casually against the giant transparent SNOW bottle, relaxed confident pose, eyes closed, also holding the same SNOW water bottle in her hand. Crystal clear water visible inside the bottle with premium condensation droplets, sleek modern label design with icy blue accents. Soft gradient icy-blue background with large bold white “SNOW” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography, clean hydration aesthetic, ultra realistic reflections and shadows, minimal Scandinavian-inspired composition.",
+    "title": "Minimalist Water Commercial Photography",
+    "description": "A clean, luxury product advertisement prompt for a water bottle brand, featuring a model in an all-white outfit and Scandinavian-inspired composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915258004_o8ryiw_HIVRfHNa8AAt4sI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20156,
     "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic black-and-white cinematic portrait of the same man sitting in the {argument name=\"location\" default=\"back seat of a luxury car at night\"}. He wears a {argument name=\"attire\" default=\"dark tailored suit, white shirt, loosened tie, and sunglasses\"}. He leans slightly forward with one elbow on his knee, holding a cigarette near the open car window, smoke drifting outside. His expression is silent, tired, powerful, and cinematic. Background: blurred city lights through rain-covered car windows, leather seats, reflections on glass, night traffic bokeh. Lighting: {argument name=\"lighting\" default=\"noir black-and-white contrast\"}, soft side light across face, deep shadows, film grain, luxury crime-drama mood. Composition: vertical 4:5, intimate close-up from the front passenger angle. No text, no logo, no watermark.",
     "title": "Noir Luxury Car Night Portrait",

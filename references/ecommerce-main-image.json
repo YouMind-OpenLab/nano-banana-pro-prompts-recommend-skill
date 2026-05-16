@@ -1,5 +1,25 @@
 [
   {
+    "id": 20455,
+    "content": "Ultra-realistic 16k macro beauty photography, profile view of {argument name=\"subject\" default=\"two identical female models\"} with heavy freckles facing each other, noses nearly touching. Features: high-gloss {argument name=\"lipstick color\" default=\"deep cherry red\"} lipstick with wet-look shine, laminated thick dark eyebrows, glistening dewy skin texture with visible pores and fine peach fuzz. Hand at bottom holding a luxury gold lipstick tube with matching red cream. Lighting: Bright, soft studio lighting with high specular highlights on the lips and nose bridge, minimal shadows. Color Grade: {argument name=\"background\" default=\"Warm, creamy beige monochromatic background\"}, vibrant saturated reds, clean and sophisticated editorial aesthetic. Camera: Shot on 85mm macro lens, f/2.8, sharp focus on lips and skin texture, hyper-detailed, photorealistic, Vogue editorial style.",
+    "title": "Macro Beauty Photography Portrait",
+    "description": "Ultra-realistic macro beauty photography of two identical female models with freckles and glossy red lipstick.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915271588_pwf6xe_HIY2gYsXEAAFBEj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20432,
+    "content": "Minimalist commercial ad featuring oversized {argument name=\"brand\" default=\"SNOW\"} Water Bottle, ultra-clean luxury design. A young woman in an all-white outfit leans casually against the giant transparent SNOW bottle, relaxed confident pose, eyes closed, also holding the same SNOW water bottle in her hand. Crystal clear water visible inside the bottle with premium condensation droplets, sleek modern label design with icy blue accents. Soft gradient icy-blue background with large bold white “SNOW” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography, clean hydration aesthetic, ultra realistic reflections and shadows, minimal Scandinavian-inspired composition.",
+    "title": "Minimalist Water Commercial Photography",
+    "description": "A clean, luxury product advertisement prompt for a water bottle brand, featuring a model in an all-white outfit and Scandinavian-inspired composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778915258004_o8ryiw_HIVRfHNa8AAt4sI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18968,
     "content": "A structured prompt for a full-body studio portrait. The subject is a young woman with a red ponytail wearing a shiny black one-piece swimsuit. The background is solid white with high-key lighting and a soft floor shadow.",
     "title": "Redhead Studio Swimsuit Portrait",
