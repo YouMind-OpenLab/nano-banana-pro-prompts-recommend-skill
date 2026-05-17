@@ -1,5 +1,55 @@
 [
   {
+    "id": 20778,
+    "content": "a {argument name=\"subject\" default=\"snail\"} in the style of a {argument name=\"game style\" default=\"souls-like video game\"}",
+    "title": "Souls-like Snail Creature Design",
+    "description": "Generates a snail reimagined as a creature from a challenging 'souls-like' video game, featuring dark and intricate details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002367744_gm5mxz_HILSuTMbUAA-UCC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20779,
+    "content": "{argument name=\"animal\" default=\"camel\"} VS. {argument name=\"location\" default=\"motel\"}",
+    "title": "Surreal Camel vs Motel Scene",
+    "description": "A bizarre prompt depicting a confrontation or comparison between a camel and a motel, part of a series of surreal AI generations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002367708_3ozt0u_HILQZyGaAAA7uFv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20777,
+    "content": "{argument name=\"location\" default=\"casino\"} VS. {argument name=\"animal\" default=\"parrot\"}",
+    "title": "Surreal Casino vs Parrot Battle",
+    "description": "A strange and surreal prompt concept depicting a confrontation between a casino setting and a parrot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002366295_fpi7k1_HILQEr1agAAFv73.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20776,
+    "content": "classic {argument name=\"character\" default=\"Bosozoku (F)\"} VS. {argument name=\"opponent\" default=\"the UN\"}",
+    "title": "Female Bosozoku vs United Nations",
+    "description": "An absurd and surreal prompt featuring a female motorcycle gang member in a confrontation with the UN.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002366629_fgzd4l_HILPWNTaQAAtNWz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20773,
+    "content": "a {argument name=\"character\" default=\"classic Bosozoku (M)\"} VS. {argument name=\"opponent\" default=\"molded bread\"}",
+    "title": "Classic Bosozoku Member vs Molded Bread",
+    "description": "A surreal and bizarre artistic prompt pitting a classic Japanese motorcycle gang member against a piece of molded bread in a nostalgic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002364987_00h7pk_HILOn8_bkAAcDaP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20431,
     "content": "A {argument name=\"subject\" default=\"woman commando\"} in a {argument name=\"setting\" default=\"steampunk setting\"}.",
     "title": "Steampunk Commando Woman Portrait",

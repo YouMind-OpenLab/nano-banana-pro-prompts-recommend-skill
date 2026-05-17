@@ -13,6 +13,38 @@
     "needReferenceImages": true
   },
   {
+    "id": 20755,
+    "content": "Ultra-detailed origami paper art portrait of {argument name=\"subject\" default=\"Cristiano Ronaldo\"}, entirely crafted from {argument name=\"material\" default=\"folded paper layers and geometric origami shapes\"}, realistic paper texture with visible creases and handcrafted folds, low-poly facial structure made from intricately folded paper pieces, elegant Japanese-inspired aesthetic, layered paper background with {argument name=\"background\" default=\"cherry blossoms, mountains, sun motifs, and abstract folded patterns\"}, luxurious gold, black, cream, and white color palette, Ronaldo wearing a football jersey made of folded paper fabric, cinematic studio lighting, ultra realistic shadows and depth, highly detailed handcrafted paper sculpture look, premium gallery artwork style, sharp focus, sophisticated composition, tactile paper texture, masterpiece quality, 8k ultra detailed, toy-free, no plastic, no CGI look",
+    "title": "Cristiano Ronaldo Origami Paper Art",
+    "description": "An intricate prompt for creating high-detailed origami paper art sculptures of football stars, featuring layered paper textures and Japanese-inspired backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002350591_org4ap_HIcxPxubUAALxnL.jpg",
+      "https://cms-assets.youmind.com/media/1779002350601_h074sd_HIcxP1NagAA7Yx4.jpg",
+      "https://cms-assets.youmind.com/media/1779002350653_0fvkts_HIcxP4PacAApsjG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20751,
+    "content": "A high-resolution cinematic portrait of a {argument name=\"subject\" default=\"Renaissance noblewoman\"} with a modern {argument name=\"style\" default=\"Steampunk\"} twist. She wears an ornate black velvet gown with intricate gold embroidery, a large lace ruff collar, and a jeweled headpiece. She holds a long, slender cigarette holder with wisps of smoke. The background is a {argument name=\"setting\" default=\"moody, dimly lit workshop featuring exposed brass pipes, industrial elements, and classical oil paintings\"}, blending 16th-century elegance with gritty Victorian industrialism. Soft, dramatic side-lighting highlights the rich textures of the fabric and metal.",
+    "title": "Steampunk Renaissance Noblewoman Portrait",
+    "description": "A cinematic portrait prompt blending 16th-century Renaissance elegance with Victorian industrial elements, featuring a noblewoman with a steampunk twist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002349915_lfpd8x_HIaimD6WIAAauhz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20748,
+    "content": "A handmade fabric doll with a whimsical, slightly spooky appearance stands against a patchwork quilt background. The doll has a rectangular body made of {argument name=\"fabric color\" default=\"light pink\"} fabric, with a patch of {argument name=\"patch fabric\" default=\"blue denim\"} covering the left side of its face. Two mismatched buttons serve as eyes: a large blue button on the denim patch and a white button on the pink fabric. A stitched mouth with jagged teeth adds to its quirky expression. A fluffy orange bow tie is attached at the neck. The doll wears denim shorts with a black button and belt loops, and its legs are made of plaid fabric. Its arms are thin and striped with orange, blue, and yellow. The doll's hair is made of frayed yarn in shades of brown and gray, sticking out in tufts.",
+    "title": "Whimsical Spooky Fabric Doll",
+    "description": "A prompt for generating a handmade fabric doll with mismatched button eyes and quirky features against a patchwork quilt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002347338_7hm734_HIWkHgbWsAAc6Dc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20439,
     "content": "Ultra-realistic 3D cartoon-style miniature character portrait of a cute young man relaxing inside an open premium white wireless earbuds charging case branded with the elegant logo “{argument name=\"brand\" default=\"LYNTILLA\"}” engraved subtly on the front of the case. The tiny stylized character is sitting comfortably inside the charging case with one arm resting on the edge, smiling confidently toward the camera. The character has fluffy curly black hair, thick eyebrows, expressive brown eyes, neatly trimmed beard, medium warm brown skin tone, and a charming Pixar-inspired facial design while maintaining realistic skin texture and proportions. He is wearing a {argument name=\"clothing\" default=\"faded black vintage graphic t-shirt\"}, relaxed dark pants, and clean white sneakers. Next to the earbuds case is a modern smartphone standing vertically on the wooden desk. The phone should also prominently display the {argument name=\"brand\" default=\"LYNTILLA\"} branding on the screen interface and subtly on the phone back or lock screen wallpaper. The screen shows a sleek luxury dark-mode music player UI with elegant typography, glowing playback controls, and premium branding aesthetics. Two wireless earbuds branded with {argument name=\"brand\" default=\"LYNTILLA\"} are naturally placed in the foreground on the desk with realistic reflections and glossy materials. Add a small indoor plant, warm lamp glow, and cinematic blurry background elements to create a cozy premium indoor atmosphere. Scene styling: cozy warm indoor cinematic lighting, premium luxury product photography aesthetic, cinematic depth of field, realistic shadows and reflections, ultra detailed textures, shallow focus photography, soft orange tungsten lighting, dreamy modern ambiance, photorealistic materials, miniature toy-scale proportions, balanced luxury composition. Style references: Pixar-style realism + Disney 3D character design + Apple-style product photography + luxury lifestyle branding aesthetic. Camera: close-up eye-level cinematic shot with natural perspective depth. Rendering: 8K ultra detailed, octane render, unreal engine, ray tracing, global illumination, HDR lighting, hyper realistic textures. Negative Prompt: blurry image, low quality, deformed anatomy, extra limbs, duplicate objects, messy composition, distorted face, unrealistic reflections, bad typography, oversaturated lighting, watermark, cropped objects, floating earbuds, noisy render, low detail textures. Use uploaded image as reference and generate image",
     "title": "Miniature Character Earbuds Case",

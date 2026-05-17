@@ -1,5 +1,56 @@
 [
   {
+    "id": 20749,
+    "content": "hyper realistic elegant older vampire detective walking through crowded cyberpunk street during heavy rain at night, black umbrella, black suit and trench coat, pedestrians surrounding him nervously, neon reflections on wet asphalt, cinematic noir atmosphere, mysterious ancient presence, grounded realism, Blade inspired visual style, ultra detailed lighting, 16:9",
+    "title": "Vampire Detective Cyberpunk Scene",
+    "description": "A cinematic noir prompt for a vampire detective character in a rainy cyberpunk street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002347955_f3jlkg_HIeew6UXkAAqnZo.jpg",
+      "https://cms-assets.youmind.com/media/1779002348408_ki2m1d_HIeew6XWwAAsh-N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20781,
+    "content": "{argument name=\"subject\" default=\"two raccoon characters\"} in the style of a {argument name=\"art style\" default=\"picture book\"}",
+    "title": "Picture Book Style Raccoon Characters",
+    "description": "Generates a charming illustration of two raccoon characters in a whimsical picture book style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002369710_8ajjsi_HILTiMvbMAAixOi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20776,
+    "content": "classic {argument name=\"character\" default=\"Bosozoku (F)\"} VS. {argument name=\"opponent\" default=\"the UN\"}",
+    "title": "Female Bosozoku vs United Nations",
+    "description": "An absurd and surreal prompt featuring a female motorcycle gang member in a confrontation with the UN.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002366629_fgzd4l_HILPWNTaQAAtNWz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20773,
+    "content": "a {argument name=\"character\" default=\"classic Bosozoku (M)\"} VS. {argument name=\"opponent\" default=\"molded bread\"}",
+    "title": "Classic Bosozoku Member vs Molded Bread",
+    "description": "A surreal and bizarre artistic prompt pitting a classic Japanese motorcycle gang member against a piece of molded bread in a nostalgic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002364987_00h7pk_HILOn8_bkAAcDaP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20757,
+    "content": "An {argument name=\"style\" default=\"impressionistic watercolor illustration\"} captures a serene {argument name=\"setting\" default=\"riverside gathering at sunset\"}, where a group of people in late 19th-century attire sit on a grassy bank. A {argument name=\"subject\" default=\"lone violinist\"} stands under the sweeping branches of a large willow tree, serenading the onlookers as a steam locomotive crosses a steel truss bridge in the background. The warm glow of the setting sun reflects off the gentle ripples of the water, blending the industrial majesty of the train with the peaceful, pastoral atmosphere of the musical performance.",
+    "title": "Watercolor Riverside Violinist at Sunset",
+    "description": "An impressionistic watercolor illustration prompt capturing a serene 19th-century riverside gathering with a violinist and a steam locomotive.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002352913_fh886m_HIaSohRWEAAqbAn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20431,
     "content": "A {argument name=\"subject\" default=\"woman commando\"} in a {argument name=\"setting\" default=\"steampunk setting\"}.",
     "title": "Steampunk Commando Woman Portrait",

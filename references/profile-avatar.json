@@ -10,6 +10,89 @@
     "needReferenceImages": false
   },
   {
+    "id": 20770,
+    "content": "A hyper-realistic, close-up cinematic portrait of a {argument name=\"subject\" default=\"man with a little beard\"} looking upward. He is wearing {argument name=\"clothing\" default=\"black turtleneck\"}. The focal point is a pair of {argument name=\"accessory\" default=\"glowing neon red translucent glasses\"} that cast a vibrant red light across his brow and cheekbones. His eyes are a piercing, electric blue, reflecting a bright digital screen. The lighting is low-key with a dramatic \"dual tone\" effect: hot red light from the eyewear clashing with a cool teal/cyan rim light along his jaw and neck. Deep black background, 8k resolution, shot on 35mm lens, moody synthwave aesthetic.",
+    "title": "Neon Red Glasses Cinematic Portrait",
+    "description": "A moody synthwave portrait of a man with electric blue eyes wearing glowing neon red translucent glasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002362530_hfw7kc_HIdNzkmbIAAoi8o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20747,
+    "content": "A photorealistic full-body portrait of a beautiful young woman in her mid-20s with fair skin, subtle freckles, and striking dark brown eyes, sitting cross-legged barefoot on the gray tiled floor of a modern bathroom. She has dark brown hair styled in a messy high top bun with loose wispy strands framing her face. She is smiling gently at the camera with a soft, natural expression. She wears a fitted {argument name=\"top style\" default=\"pink ribbed camisole top\"} with thin spaghetti straps, a sweetheart neckline with ruched detailing at the bust, and a {argument name=\"cardigan style\" default=\"black open-front knitted cardigan\"} featuring small red strawberry embroidery on the sleeves and hem. She also wears matching pink ribbed shorts. Delicate gold necklace with a tiny pendant and a simple gold ring on her left ring finger. The bathroom background features large matte gray wall and floor tiles, a glass shower enclosure covered in realistic water droplets and condensation, a round mirror on the wall, a wooden floating shelf with potted plants and toiletries, a white bath towel hanging on a rack to the left, and a white woven bath mat on the floor. Soft natural daylight lighting coming from the side, cinematic composition, highly detailed textures on skin, fabric, and tiles, realistic depth of field, sharp focus, 8k resolution, masterpiece, best quality",
+    "title": "Cozy Pink Bathroom Portrait",
+    "description": "A structured photorealistic prompt for a young woman sitting in a modern bathroom wearing a pink camisole and strawberry embroidered cardigan.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002347600_3u4l3p_HIcuaJMboAA1e-g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20762,
+    "content": "A sharp, low-angle side profile portrait of a {argument name=\"subject\" default=\"handsome man\"} with a thick, well-defined {argument name=\"beard\" default=\"brown beard and mustache\"} looking upward and toward the left. He has a messy dark hair and is wearing thick-rimmed, polished black acetate sunglasses that sharply reflect a bright, cloudy sky on the lenses. His outfit is monochromatic and formal, consisting of a {argument name=\"clothing\" default=\"dark black button-up shirt\"} with an open collar worn underneath a tailored, matching black vest. The lighting is bright yet soft, illuminating his profile and casting gentle shadows beneath his jaw. The background is deeply out of focus, showcasing a moody mix of dark green foliage and muted crimson tones that make the subject stand out dramatically.",
+    "title": "Side Profile Bearded Man Portrait",
+    "description": "A detailed low-angle portrait of a man with a thick beard and sunglasses, set against a moody background with shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002358346_y2qz9l_HIb_YSAbcAAd8KT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20764,
+    "content": "Photorealistic portrait of a {argument name=\"subject\" default=\"young woman\"} indoors, soft natural window lighting, long wavy dark brown hair parted to the side,blue-green eyes, wearing a {argument name=\"clothing\" default=\"pastel pink oversized sweatshirt\"}, small silver hoop earrings, and a delicate silver necklace, subtle natural makeup, calm neutral expression, slight three-quarter pose, {argument name=\"background\" default=\"cozy cream-colored wall\"} with decorative molding in background, framed artwork partially visible, shallow depth of field, soft shadows, high-detail skin texture, realistic photography, 50mm lens, warm tones",
+    "title": "Indoor Photorealistic Woman Portrait",
+    "description": "A natural and cozy indoor portrait of a woman wearing a sweatshirt, featuring soft window lighting and a detailed home background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002358969_8kxm2m_HIbx1_mWAAALmmF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20765,
+    "content": "Ultra-high-definition portrait of a {argument name=\"subject\" default=\"woman bust\"} designed as a {argument name=\"style\" default=\"realistic paper sculpture\"}. The figure is constructed from layered geometric paper folds with crisp edges and subtle textures. Blonde wavy hair made of folded paper strands flowing naturally over the shoulders. Soft beige, cream, and warm pastel tones. Gentle smile, bright blue eyes, symmetrical face. {argument name=\"background\" default=\"Minimalist studio setting\"} with a smooth light gray background. Soft diffused lighting, realistic shadows, sharp focus, highly detailed paper texture, clean composition, no text, no watermark, no logo, 8K quality.",
+    "title": "Realistic Paper Sculpture Portrait",
+    "description": "An artistic prompt for generating a high-definition portrait of a woman designed entirely as a geometric paper sculpture with layered folds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002359661_qa1hqw_HIbZFIFawAE0N3d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20760,
+    "content": "Create a cute ultra-detailed 3D miniature diorama of me stepping out of my Instagram profile page. Keep my real profile screenshot as the background UI. Add a mini realistic version of me from my reference photo — {argument name=\"hair and accessories\" default=\"long wavy hair, sunglasses\"}, {argument name=\"outfit\" default=\"floral black dress\"}, elegant pose — styled like a premium collectible doll. Surround with {argument name=\"decorations\" default=\"flowers, candles, coffee mug, books, camera, laptop, sticky notes, and cozy aesthetic decor\"}. Warm beige + blush pink tones, magical stars/hearts, cinematic lighting, luxury handcrafted miniature world, 9:16.",
+    "title": "3D Miniature Instagram Diorama",
+    "description": "Generates a charming 3D miniature diorama of a person stepping out of an Instagram page, featuring cozy aesthetic decor and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002356085_v47r7t_HIamu99aoAAlnmV.jpg",
+      "https://cms-assets.youmind.com/media/1779002355804_ninehn_HIamvO5asAAU960.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20753,
+    "content": "Photorealistic mirror selfie of a {argument name=\"subject\" default=\"young woman in her early 20s with shoulder-length wavy auburn-red hair\"}, fair skin covered in {argument name=\"features\" default=\"natural freckles across her face, shoulders and arms\"}, striking blue eyes, neutral expression with slightly parted lips, looking directly at the camera. She is wrapped in a thick white terrycloth towel around her chest, holding the towel securely with her left hand while her right hand holds up a black iPhone in a floral-patterned case with pink and white flowers. The setting is a {argument name=\"setting\" default=\"luxurious modern bathroom with white marble walls and floors featuring subtle gray veining\"}, a large glass-enclosed walk-in shower with a rain shower head and warm golden LED strip lighting along the ceiling and shelves, dark wood vanity with white countertop, modern chrome faucet, folded gray towels, and luxury toiletries on the counter. Soft warm ambient lighting creates a cozy and elegant atmosphere, high detail, sharp focus, natural skin texture, realistic water droplets on skin and hair, 8K resolution, cinematic composition, shot on iPhone, natural color grading",
+    "title": "Freckled Woman Bathroom Mirror Selfie",
+    "description": "A photorealistic prompt for generating a high-detail mirror selfie of a freckled woman in a luxurious modern bathroom, capturing natural skin textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002351499_8cgyba_HIaB3_FaAAAIqxf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20754,
+    "content": "A photorealistic, professional cosplay portrait featuring {argument name=\"subject\" default=\"a slender, fit woman\"} with delicate curves, reclining casually on a bed in a cozy, well-lit bedroom. She is lying partially on her side and back, with her torso tilted towards the camera, maintaining direct eye contact with a soft, inviting, relaxed expression and a subtle, gentle smile. Her hair is loose and slightly messy, and she wears light, natural makeup with soft peach blush and lightly tinted lips. She is wearing a {argument name=\"accessory\" default=\"white fluffy headband with cat ears\"}. Her outfit consists of an oversized white long-sleeve shirt worn casually with the top buttons undone, revealing a white tank top underneath, paired with small black dolphin-style shorts with white trim. On her legs, she wears opaque, smooth white 7/8 (thigh-high) socks. Her hands are covered by large, fluffy white cat paw gloves with pink pads, and her right arm is raised playfully above her head near her ear with the paw facing out, while her left arm rests comfortably on a pillow next to her chest. Her right leg is bent at the knee and raised, crossing over her lower body. A faux white fluffy cat tail is visible behind her on the bed. The {argument name=\"setting\" default=\"bed is covered in light sheets and a decorative throw blanket with a geometric bohemian pattern\"} in shades of teal, white, and terracotta orange, surrounded by pillows including a large, soft rust-terracota velvet pillow and a textured white pillow. Translucent white curtains are visible in the background. The scene is illuminated by bright natural daylight coming from a window to the right, casting perfect, natural striped shadows from blinds across her legs, body, and the bedsheets, creating a soft luminous glow on her face and highlighting the textures of her skin, the fabrics, and the faux fur. The mood is playful, cozy, intimate, and relaxed, capturing a sunny weekend morning. This is a medium-shot composition captured from a slightly high angle looking down at the model. Shot on a full-frame camera with a 50mm lens, aperture f/1.8 for shallow depth of field and subject isolation, shutter speed 1/200s, ISO 100. The image has a bright and airy aesthetic with sharp, precise focus on the eyes and face. Aspect Ratio 9:16.",
+    "title": "Cute Cat Cosplay Bedroom Portrait",
+    "description": "A detailed professional cosplay portrait prompt for a character with cat ears in a cozy bedroom setting, featuring specific camera settings and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002351434_7sphac_HIZ9GFKaAAAy8bv.jpg",
+      "https://cms-assets.youmind.com/media/1779002351530_ty5obw_HIZ9GIuasAACj5z.jpg",
+      "https://cms-assets.youmind.com/media/1779002351636_fweocq_HIZ9GM5a8AAE9Zh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20445,
     "content": "{\\n  \"subject\": {\\n    \"face\": {\\n      \"description\": \"Use uploaded reference image face, keep identity exact. Preserve exact hair color, hairstyle, eyes, lips, eyebrows, skin tone, and all natural facial details. Do not alter identity, beautify, or stylize.\"\\n    },\\n    \"expression\": \"neutral confident expression with relaxed eyes and slightly parted lips\",\\n    \"pose\": \"standing barefoot on yacht deck, body facing forward with head turned slightly sideways, both hands resting naturally on metal railing\",\\n    \"body\": {\\n      \"build\": \"slim toned physique\",\\n      \"skin_tone\": \"warm lightly tanned skin\"\\n    },\\n    \"clothing\": {\\n      \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"flowing pale yellow asymmetrical cutout dress with tropical orange flower details\\\"}, one-shoulder top design, ruched waist, sheer layered fabric, high slit, cascading ruffle edges\",\\n      \"accessories\": []\\n    }\\n  },\\n  \"environment\": {\\n    \"location\": \"{argument name=\\\"location\\\" default=\\\"luxury yacht on open water\\\"}\",\\n    \"background_elements\": [\\n      \"blue ocean water\",\\n      \"white yacht railing\",\\n      \"wooden yacht flooring\",\\n      \"soft natural reflections on water\",\\n      \"minimal luxury boat setting\"\\n    ],\\n    \"atmosphere\": \"elegant tropical vacation mood with calm luxury aesthetic\"\\n  },\\n  \"lighting\": {\\n    \"type\": \"adjusted natural daylight\",\\n    \"direction\": \"soft side daylight with balanced exposure\",\\n    \"qualities\": [\\n      \"realistic skin reflections\",\\n      \"soft natural highlights\",\\n      \"balanced shadows\",\\n      \"natural outdoor white balance\",\\n      \"slightly diffused sunlight\",\\n      \"realistic ocean light bounce\",\\n      \"soft contrast rendering\"\\n    ]\\n  },\\n  \"camera\": {\\n    \"framing\": \"full body portrait\",\\n    \"angle\": \"slightly above waist level\",\\n    \"lens\": \"smartphone portrait lens\",\\n    \"depth_of_field\": \"soft natural background separation\",\\n    \"image_quality\": \"ultra realistic high-resolution social media photo\"\\n  },\\n  \"style\": {\\n    \"photography_type\": \"realistic luxury lifestyle photography\",\\n    \"color_palette\": \"soft ocean blues, pale yellows, warm skin tones, clean whites\",\\n    \"filter\": \"subtle realistic photo filter with authentic skin texture, softened digital sharpness, realistic dynamic range, natural saturation, and true-to-life outdoor lighting\",\\n    \"imperfections\": [\\n      \"minor skin texture\",\\n      \"natural fabric folds\",\\n      \"slight wind movement in hair\",\\n      \"subtle lens softness\",\\n      \"realistic daylight reflections\",\\n      \"natural environmental haze\"\\n    ]\\n  }\\n}",
     "title": "Tropical Luxury Yacht Portrait",

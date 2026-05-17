@@ -41,12 +41,160 @@
     "needReferenceImages": false
   },
   {
-    "id": 20457,
-    "content": "Fashion editorial photo of a {argument name=\"subject\" default=\"woman\"} standing in a {argument name=\"location\" default=\"lush garden\"}, wearing a {argument name=\"clothing\" default=\"long flowy white dress with a floral pattern\"}. She has a large straw hat on her head and is looking at the camera with a confident expression. The sun is shining brightly, casting a warm glow over the scene. In the background, there are colorful flowers and green plants. The overall mood is elegant and sophisticated.",
-    "title": "Fashion Editorial Woman in Garden",
-    "description": "A sophisticated fashion editorial prompt for generating a portrait of a person in a lush garden setting, designed to work well with reference photos for maintaining specific facial features or poses.",
+    "id": 20769,
+    "content": "{\n\"reference_face\": {\n\"use_same_face\": true,\n\"identity_preservation\": \"strict\",\n\"notes\": \"Facial structure, skin tone, eyes, nose, lips, and proportions must remain identical to the provided reference image. No facial alterations.\"\n},\n\"scene\": {\n\"location\": \"large football stadium\",\n\"setting\": \"pitch-side after a match\",\n\"time\": \"night\",\n\"atmosphere\": \"energetic, celebratory, stadium lights glowing brightly\",\n\"crowd\": \"fans visible in the background stands cheering\"\n},\n\"camera\": {\n\"type\": \"handheld smartphone camera\",\n\"operator\": \"captured by another person standing a few feet away\",\n\"angle\": \"natural eye-level perspective\",\n\"framing\": \"both subjects centered with full upper bodies visible, stadium and pitch clearly visible behind them\",\n\"lens_distortion\": \"minimal natural smartphone distortion\",\n\"depth_of_field\": \"deep focus, background and subjects both sharp\"\n},\n\"subjects\": [\n{\n\"role\": \"female fan\",\n\"gender\": \"female\",\n\"age_range\": \"early 20s\",\n\"pose\": \"standing beside Cristiano Ronaldo while casually posing for a photo\",\n\"expression\": \"soft confident smile\",\n\"hair\": {\n\"color\": \"dark brown\",\n\"style\": \"little messy straight\"\n},\n\"clothing\": {\n\"top\": \"yellow and blue football jersey\",\n\"bottom\": \"matching athletic shorts\"\n},\n\"details\": {\n\"posture\": \"leaning slightly toward Ronaldo in a natural celebratory pose\"\n}\n},\n{\n\"role\": \"Cristiano Ronaldo\",\n\"gender\": \"male\",\n\"age_range\": \"adult\",\n\"pose\": \"standing next to the fan, giving a thumbs-up gesture\",\n\"expression\": \"friendly smile\",\n\"clothing\": {\n\"kit\": \"yellow and blue football uniform\",\n\"condition\": \"slightly sweaty post-match appearance\"\n}\n}\n],\n\"lighting\": {\n\"primary\": \"stadium floodlights\",\n\"effect\": \"bright and evenly distributed illumination\",\n\"highlights\": \"natural reflections on jerseys, skin, and hair\",\n\"shadows\": \"soft and realistic\"\n},\n\"color_palette\": {\n\"dominant_colors\": [\"yellow\", \"blue\", \"green\"],\n\"accent_colors\": [\"black\", \"white\"],\n\"overall_tone\": \"vivid, cinematic sports atmosphere\"\n},\n\"background\": {\n\"elements\": [\n\"football pitch\",\n\"security staff near sidelines\",\n\"stadium seating\",\n\"fans leaning over railings\",\n\"stadium LED lights\"\n],\n\"clarity\": \"sharp and detailed\"\n},\n\"image_quality\": {\n\"style\": \"photorealistic\",\n\"resolution\": \"high\",\n\"noise\": \"minimal\",\n\"sharpness\": \"clear facial details, realistic jersey textures, natural skin texture\"\n},\n\"negative_prompt\": [\n\"face distortion\",\n\"identity change\",\n\"extra limbs\",\n\"blurred faces\",\n\"cartoon style\",\n\"over-smoothing\",\n\"AI artifacts\",\n\"warped anatomy\",\n\"duplicate body parts\"\n]\n}",
+    "title": "Football Fan with Cristiano Ronaldo",
+    "description": "A complex structured prompt for a photorealistic scene of a fan posing with Cristiano Ronaldo at a stadium using identity preservation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778915272983_w7ol1x_HIZGUvhbkAAFMJ-.jpg"
+      "https://cms-assets.youmind.com/media/1779002361942_85o01j_HIc6z3vWEAAR5U-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20767,
+    "content": "Subject and Appearance\n\nA {argument name=\"subject\" default=\"young woman with pale porcelain skin and long, straight hair\"}.\nShe is wearing a fitted, {argument name=\"clothing\" default=\"white sleeveless square-neck halter top\"}.\n\nAccessories include a thick white headband, dark-tinted oval sunglasses with thick black frames, and small gold hoop earrings.\nShe has a pale pink manicure on her fingernails.\nSeveral small, minimalist tattoos are visible: one on her right inner forearm, faint markings on her right fingers, and a tiny heart on her left inner arm.\n\nPose and Action\n\nShe is looking directly at the camera with a playful expression.\nIn her right hand, she is holding a {argument name=\"object\" default=\"chocolate-dipped ice cream cone\"} wrapped at the base with a white paper napkin.\nHer left hand is holding a small, clear plastic tasting spoon, which is playfully resting between her puckered lips.\n\nSetting and Lighting\n\nThe background consists of warm, medium-toned wood paneling, suggesting a classic or vintage interior.\nTo the left side of the frame, an illuminated glass display case, typical of a gelato or ice cream shop, is partially visible.\n\nThe lighting is warm and even, casting soft shadows and highlighting the golden tones of the wood and the subject's skin.",
+    "title": "Woman with Ice Cream Shop Portrait",
+    "description": "A detailed descriptive prompt for a woman in an ice cream shop, focusing on fashion accessories, tattoos, and a playful expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002360740_bc1h8i_HIcexLQaEAAeBiu.jpg",
+      "https://cms-assets.youmind.com/media/1779002360580_gb743y_HIceyprboAAB-v-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20775,
+    "content": "a bowl of {argument name=\"food\" default=\"salad\"} with {argument name=\"object one\" default=\"SSDs\"} and {argument name=\"object two\" default=\"popper lures\"}",
+    "title": "Bizarre Salad with Tech and Fishing Lures",
+    "description": "A weird and surreal prompt for a bowl of salad containing SSD drives and popper lures, creating a strange technological-organic fusion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20764,
+    "content": "Photorealistic portrait of a {argument name=\"subject\" default=\"young woman\"} indoors, soft natural window lighting, long wavy dark brown hair parted to the side,blue-green eyes, wearing a {argument name=\"clothing\" default=\"pastel pink oversized sweatshirt\"}, small silver hoop earrings, and a delicate silver necklace, subtle natural makeup, calm neutral expression, slight three-quarter pose, {argument name=\"background\" default=\"cozy cream-colored wall\"} with decorative molding in background, framed artwork partially visible, shallow depth of field, soft shadows, high-detail skin texture, realistic photography, 50mm lens, warm tones",
+    "title": "Indoor Photorealistic Woman Portrait",
+    "description": "A natural and cozy indoor portrait of a woman wearing a sweatshirt, featuring soft window lighting and a detailed home background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002358969_8kxm2m_HIbx1_mWAAALmmF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20779,
+    "content": "{argument name=\"animal\" default=\"camel\"} VS. {argument name=\"location\" default=\"motel\"}",
+    "title": "Surreal Camel vs Motel Scene",
+    "description": "A bizarre prompt depicting a confrontation or comparison between a camel and a motel, part of a series of surreal AI generations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002367708_3ozt0u_HILQZyGaAAA7uFv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20777,
+    "content": "{argument name=\"location\" default=\"casino\"} VS. {argument name=\"animal\" default=\"parrot\"}",
+    "title": "Surreal Casino vs Parrot Battle",
+    "description": "A strange and surreal prompt concept depicting a confrontation between a casino setting and a parrot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002366295_fpi7k1_HILQEr1agAAFv73.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20761,
+    "content": "{\n\"image_collection_analysis\": {\n\"subjects\": [\n{\n\"primary_subject\": \"{argument name=\"primary subject\" default=\"Sadie Sink\"}\",\n\"profession\": \"American Actress\",\n\"notable_work\": \"Stranger Things, The Whale, Fear Street\",\n\"appearance_details\": {\n\"hair_color\": \"Auburn/Red\",\n\"hair_style\": \"Soft wavy long hair, sometimes styled in a ponytail\",\n\"skin_tone\": \"Light/Fair\"\n}\n},\n{\n\"secondary_subject\": \"{argument name=\"secondary subject\" default=\"Natalia Dyer\"}\",\n\"notable_work\": \"Stranger Things\",\n\"appearance_details\": {\n\"hair_color\": \"Deep Brown\",\n\"hair_style\": \"Loose curly/wavy hair\",\n\"role_in_image\": \"Featured together with Sadie Sink in the second frame\"\n}\n}\n],\n\"detailed_visual_breakdown\": {\n\"image_1\": {\n\"scene_description\": \"Full-length shot of Sadie Sink at an outdoor golf practice range during the evening.\",\n\"outfit_analysis\": {\n\"top\": \"Dark mocha short-sleeve cropped polo shirt\",\n\"bottom\": \"Matching high-rise flared athletic leggings\",\n\"accessories\": \"Golf stick held in the right hand\"\n},\n\"environment\": \"{argument name=\"environment\" default=\"Green practice turf, divider panels, and stadium floodlights creating a dramatic cinematic glow.\"}\",\n\"pose\": \"Looking back toward the camera with a confident expression.\"\n},\n\"image_2\": {\n\"scene_description\": \"Relaxed indoor selfie of Sadie Sink and Natalia Dyer inside a hotel-style room.\",\n\"sadie_sink_outfit\": \"Soft mint ribbed tank top with dark navy shorts.\",\n\"natalia_dyer_outfit\": \"Bright blue fitted tee with a dark green slit mini skirt.\",\n\"lighting_and_mood\": \"Warm ambient bedside lighting creating a calm and intimate atmosphere.\",\n\"background\": \"White bedding, beige curtains, and distant city lights through the window.\"\n}\n},\n\"technical_summary\": {\n\"aesthetic_themes\": [\n\"Athletic fashion\",\n\"Relaxed lifestyle photography\",\n\"Celebrity behind-the-scenes vibe\",\n\"Cinematic outdoor lighting\"\n],\n\"color_palette_overview\": [\n\"Warm earth shades\",\n\"Bold vibrant tones\",\n\"Soft neutral backgrounds\"\n],\n\"overall_vibe\": \"Polished yet natural, blending sporty aesthetics with casual personal moments.\"\n}\n}\n}",
+    "title": "Sadie Sink and Natalia Dyer Close Portraits",
+    "description": "A detailed JSON-based image collection analysis prompt that specifies character details, scene descriptions, and technical lighting for athletic and relaxed lifestyle photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002355843_06pwie_HIbes2PWIAAveMk.jpg",
+      "https://cms-assets.youmind.com/media/1779002355830_dogxuw_HIbes5lWgAADDhx.jpg",
+      "https://cms-assets.youmind.com/media/1779002357328_l0bpnk_HIbetCqXMAAmxzl.jpg",
+      "https://cms-assets.youmind.com/media/1779002356882_7375kf_HIbetIkWcAAI9mx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20768,
+    "content": "Generate an image of A cinematic overhead shot of {argument name=\"subject\" default=\"me standing on a crossing lane\"}, {argument name=\"outfit\" default=\"white tshirt with printed top, denim skirt sayal, sneakers with socks\"}, shade on the top of my hair and accessories, having a sholder bag, tie my hair and holding a {argument name=\"object\" default=\"ice tea\"} including a waist chain make it clean.\nKeep original aspect ratio.",
+    "title": "Cinematic Overhead Street Style Shot",
+    "description": "An overhead cinematic shot of a person at a crossing lane, featuring specific street fashion and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002361027_ie5ynz_HIaS1p9WMAAgrRv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20759,
+    "content": "Photo album of “{argument name=\"characters\" default=\"Steve (Joseph David Keery) & Dustin (Gaten Matarazzo) & Suzie (Gabriella Grace Pizzolo)\"}”",
+    "title": "Steve and Dustin Photo Album",
+    "description": "Generates a nostalgic photo album style image of iconic Stranger Things characters in a group portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002355732_zloa68_HIaQcwdaMAAf5Yu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20744,
+    "content": "A realistic, worm’s-eye view photograph of a {argument name=\"subject\" default=\"cheerful young woman with a messy bun\"}, wearing a crop top and loose-fitting jeans. She is pointing at a curious, questioning {argument name=\"animal\" default=\"orange tabby cat\"} whose expressive face is extremely close to the camera lens, as if gazing inside it. The backdrop is a {argument name=\"setting\" default=\"dilapidated old building\"} bathed in soft morning sunlight, creating a cinematic atmosphere with delicate textures, playful energy, and highly detailed urban realism. Use the uploaded image as the exact facial reference. Preserve the same face identity, hairstyle details, body curves, waist shape, hip structure, bust proportions exactly as in the uploaded image. Ultra-realistic photography, natural lighting, cinematic depth, realistic textures, high detail, DSLR quality, shallow depth of field, authentic urban atmosphere. Aspect ratio: 9:16",
+    "title": "Low Angle Urban Cat Portrait",
+    "description": "A realistic worm's-eye view photograph of a woman and her cat against a sunlit old building, using an image as a face reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002345471_nx7pge_HIaG7poXoAEjtoO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20753,
+    "content": "Photorealistic mirror selfie of a {argument name=\"subject\" default=\"young woman in her early 20s with shoulder-length wavy auburn-red hair\"}, fair skin covered in {argument name=\"features\" default=\"natural freckles across her face, shoulders and arms\"}, striking blue eyes, neutral expression with slightly parted lips, looking directly at the camera. She is wrapped in a thick white terrycloth towel around her chest, holding the towel securely with her left hand while her right hand holds up a black iPhone in a floral-patterned case with pink and white flowers. The setting is a {argument name=\"setting\" default=\"luxurious modern bathroom with white marble walls and floors featuring subtle gray veining\"}, a large glass-enclosed walk-in shower with a rain shower head and warm golden LED strip lighting along the ceiling and shelves, dark wood vanity with white countertop, modern chrome faucet, folded gray towels, and luxury toiletries on the counter. Soft warm ambient lighting creates a cozy and elegant atmosphere, high detail, sharp focus, natural skin texture, realistic water droplets on skin and hair, 8K resolution, cinematic composition, shot on iPhone, natural color grading",
+    "title": "Freckled Woman Bathroom Mirror Selfie",
+    "description": "A photorealistic prompt for generating a high-detail mirror selfie of a freckled woman in a luxurious modern bathroom, capturing natural skin textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002351499_8cgyba_HIaB3_FaAAAIqxf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20754,
+    "content": "A photorealistic, professional cosplay portrait featuring {argument name=\"subject\" default=\"a slender, fit woman\"} with delicate curves, reclining casually on a bed in a cozy, well-lit bedroom. She is lying partially on her side and back, with her torso tilted towards the camera, maintaining direct eye contact with a soft, inviting, relaxed expression and a subtle, gentle smile. Her hair is loose and slightly messy, and she wears light, natural makeup with soft peach blush and lightly tinted lips. She is wearing a {argument name=\"accessory\" default=\"white fluffy headband with cat ears\"}. Her outfit consists of an oversized white long-sleeve shirt worn casually with the top buttons undone, revealing a white tank top underneath, paired with small black dolphin-style shorts with white trim. On her legs, she wears opaque, smooth white 7/8 (thigh-high) socks. Her hands are covered by large, fluffy white cat paw gloves with pink pads, and her right arm is raised playfully above her head near her ear with the paw facing out, while her left arm rests comfortably on a pillow next to her chest. Her right leg is bent at the knee and raised, crossing over her lower body. A faux white fluffy cat tail is visible behind her on the bed. The {argument name=\"setting\" default=\"bed is covered in light sheets and a decorative throw blanket with a geometric bohemian pattern\"} in shades of teal, white, and terracotta orange, surrounded by pillows including a large, soft rust-terracota velvet pillow and a textured white pillow. Translucent white curtains are visible in the background. The scene is illuminated by bright natural daylight coming from a window to the right, casting perfect, natural striped shadows from blinds across her legs, body, and the bedsheets, creating a soft luminous glow on her face and highlighting the textures of her skin, the fabrics, and the faux fur. The mood is playful, cozy, intimate, and relaxed, capturing a sunny weekend morning. This is a medium-shot composition captured from a slightly high angle looking down at the model. Shot on a full-frame camera with a 50mm lens, aperture f/1.8 for shallow depth of field and subject isolation, shutter speed 1/200s, ISO 100. The image has a bright and airy aesthetic with sharp, precise focus on the eyes and face. Aspect Ratio 9:16.",
+    "title": "Cute Cat Cosplay Bedroom Portrait",
+    "description": "A detailed professional cosplay portrait prompt for a character with cat ears in a cozy bedroom setting, featuring specific camera settings and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002351434_7sphac_HIZ9GFKaAAAy8bv.jpg",
+      "https://cms-assets.youmind.com/media/1779002351530_ty5obw_HIZ9GIuasAACj5z.jpg",
+      "https://cms-assets.youmind.com/media/1779002351636_fweocq_HIZ9GM5a8AAE9Zh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20758,
+    "content": "Photo album of “Stranger Cute Ladies” [{argument name=\"characters\" default=\"EL (Millie Bobby Brown) & MAX (Sadie Elizabeth Sink) & Nancy (Natalia Dyer)\"}]",
+    "title": "Stranger Things Ladies Photo Album",
+    "description": "A descriptive prompt for generating a photo album collection featuring characters from Stranger Things in a cute, stylized photographic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002353394_580y4q_HIZ4XefaoAANgVn.jpg",
+      "https://cms-assets.youmind.com/media/1779002353523_92yucd_HIZ4XyAa8AAny_f.jpg",
+      "https://cms-assets.youmind.com/media/1779002353652_xtjy2v_HIZ4YF0akAAjE38.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20756,
+    "content": "Photo album of “{argument name=\"characters\" default=\"EL (Millie Bobby Brown) & Steve (Joseph David Keery) & Eddy (Joseph Quinn)\"}”",
+    "title": "Stranger Things Trio Photo Album",
+    "description": "A portrait-style prompt for generating a high-quality photo album featuring Eleven, Steve Harrington, and Eddie Munson.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002354076_m26xr1_HIZ1X_nbYAATIuo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20457,
+    "content": "Fashion editorial photo of a {argument name=\"subject\" default=\"woman\"} standing",
+    "title": "Fashion Editorial Style Portrait",
+    "description": "A professional fashion editorial prompt for Nano Banana Pro that creates high-quality portraits from reference images, optimized for front-facing shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779002370216_9iun1x_HIZGUvhbkAAFMJ-.jpg"
     ],
     "needReferenceImages": true
   },
