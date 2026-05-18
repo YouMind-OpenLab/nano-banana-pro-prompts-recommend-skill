@@ -56,6 +56,40 @@
     "needReferenceImages": false
   },
   {
+    "id": 20996,
+    "content": "mosaic made from tiny randomly cut colored wood shapes, colored wood shapes are edgy with various geometrical shapes, they form traditional Chinese dragon. dragon body is shaped out of tiny colored wood pieces forming a mosaic. pale colored wood surface with intricate thin black outlines dividing the mosaic pieces. background is traditional nature Sakura bloom garden surrounding the dragon.",
+    "title": "Chinese Dragon Wood Mosaic",
+    "description": "An artistic prompt for a traditional Chinese dragon created from random colored wood mosaic shapes with intricate outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346446_49oz8n_HIgf1RqWMAAw0ue.jpg",
+      "https://cms-assets.youmind.com/media/1779090346412_btyocp_HIgf1RrWAAAhJ6l.jpg",
+      "https://cms-assets.youmind.com/media/1779090346682_ybrijh_HIgf1RqWUAAey6a.jpg",
+      "https://cms-assets.youmind.com/media/1779090348094_wbphhc_HIgf1RtWoAAE46N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21016,
+    "content": "An AI-generated watercolor travel poster in a detailed sketch style by \"A. Moreau 2024, TRAVELSKETCH.\" The artwork features a bustling, historic street scene filled with people, a {argument name=\"subject\" default=\"couple walking a Shiba Inu dog\"} in the foreground, and patrons sitting outside a cafe. The background seamlessly blends the colonial hill-station charm of {argument name=\"first location\" default=\"Murree\"}—complete with wooden balconies, a red double-decker bus, a horse handler, and a distant church spire—with the urban identity of {argument name=\"second location\" default=\"Toronto\"}, showcasing modern skyscrapers, the CN Tower, and a red TTC streetcar on King Street. The text at the top reads \"A JOURNEY through HIDDEN LANES & CHARACTER\" in elegant typography.",
+    "title": "Watercolor Travel Poster Fusion",
+    "description": "A watercolor travel poster in a detailed sketch style that seamlessly blends the historical architecture of Murree with the modern urban identity of Toronto.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090358858_sm6gow_HIgfoSoXgAAlUWk.jpg",
+      "https://cms-assets.youmind.com/media/1779090358220_14lvaw_HIgfoWWWQAAwxmM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21009,
+    "content": "Exploded view {argument name=\"camera\" default=\"Canon DSLR camera\"} infographic, fully disassembled camera parts floating in perfect alignment, ultra detailed breakdown of every internal and external component, Canon DSLR body separated into layers showing lens mount, CMOS sensor, shutter mechanism, mirror assembly, pentaprism, autofocus module, processor chip, motherboard, battery compartment, memory card slot, buttons, dials, LCD display, internal wiring, cooling structure, lens elements, screws and mechanical parts, futuristic infographic labels connected with clean white lines, cinematic {argument name=\"branding\" default=\"red and black Canon branding\"} aesthetic, {argument name=\"background\" default=\"dark studio background\"} background, glowing HUD interface elements, ultra realistic product engineering visualization, premium industrial design presentation, high precision mechanical detailing, floating exploded technical render, dramatic lighting, glossy reflections, modern typography, luxury technology showcase, creator and photography focused design, cyberpunk inspired UI overlays, realistic textures and materials, depth of field, highly organized component layout, engineering blueprint meets commercial advertisement style, 8k hyper realistic infographic poster, professional tech magazine aesthetic",
+    "title": "Exploded View DSLR Infographic",
+    "description": "A technical prompt for a futuristic exploded view infographic of a DSLR camera with HUD elements and mechanical detailing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090356579_1os64q_HIfQ3GyaAAEPWCI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20429,
     "content": "Vintage 1920s laboratory blueprint illustration of a giant {argument name=\"subject\" default=\"strawberry shortcake\"} styled as technical scientific diagram on {argument name=\"paper type\" default=\"aged tea-stained parchment\"}. Central dessert with precise callouts: “Aerated Dairy Matrix”, “Granulated Sucrose Dusting”, “Moisture Absorbency Graph”, “Flavor Profile Hexagon”, “Texture Hardness Scale”. Ornate Victorian borders, technical sketches of beakers and thermometers, “Registered No. 1923” stamp. Retro-futurism Da Vinci meets old-school soda shop menu aesthetic, high detail on layers and textures.",
     "title": "Vintage Scientific Blueprint Dessert",

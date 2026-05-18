@@ -1,5 +1,25 @@
 [
   {
+    "id": 21026,
+    "content": "A professional prompt for generating realistic, elegant product photography in a {argument name=\"setting\" default=\"natural setting\"}. Each version features a different product showcased on stone surfaces with soft greenery, natural lighting, and minimalist beige tones perfect for {argument name=\"industry\" default=\"beauty, wellness, or lifestyle branding\"} visuals.",
+    "title": "Elegant Product Photography in Natural Setting",
+    "description": "A professional prompt for generating realistic, high-quality product photography with stone textures, soft greenery, and minimalist natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090370385_ma2ov6_HIlfCkObIAAKGT4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21005,
+    "content": "Ultra realistic skincare advertisement photo of a beautiful {argument name=\"subject\" default=\"Sydney sweeney\"} applying {argument name=\"product\" default=\"green herbal face wash foam\"} on her cheeks with both hands, eyes closed, soft smile, glowing smooth skin, black tied-back hair, wrapped in a {argument name=\"towel color\" default=\"light green\"} towel, luxury modern bathroom with green aesthetic tiles and indoor plants, fresh natural morning light through window, clean spa atmosphere, premium cosmetic commercial photography, detailed skin texture, glossy hydration effect, centered product tube on marble counter in foreground, minimal elegant composition, soft shadows, pastel green and white color palette, shallow depth of field, high-end beauty campaign, DSLR quality, ultra sharp, photorealistic, 8k, natural makeup, calming wellness vibe.",
+    "title": "Realistic Skincare Advertisement Photography",
+    "description": "A detailed prompt for a high-end skincare commercial photo featuring a subject in a luxury spa setting with natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090354010_5wymmn_HIgoneUbIAAIb_c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20455,
     "content": "Ultra-realistic 16k macro beauty photography, profile view of {argument name=\"subject\" default=\"two identical female models\"} with heavy freckles facing each other, noses nearly touching. Features: high-gloss {argument name=\"lipstick color\" default=\"deep cherry red\"} lipstick with wet-look shine, laminated thick dark eyebrows, glistening dewy skin texture with visible pores and fine peach fuzz. Hand at bottom holding a luxury gold lipstick tube with matching red cream. Lighting: Bright, soft studio lighting with high specular highlights on the lips and nose bridge, minimal shadows. Color Grade: {argument name=\"background\" default=\"Warm, creamy beige monochromatic background\"}, vibrant saturated reds, clean and sophisticated editorial aesthetic. Camera: Shot on 85mm macro lens, f/2.8, sharp focus on lips and skin texture, hyper-detailed, photorealistic, Vogue editorial style.",
     "title": "Macro Beauty Photography Portrait",

@@ -1,5 +1,118 @@
 [
   {
+    "id": 20986,
+    "content": "{argument name=\"subject\" default=\"Astronaut\"} Discovering a {argument name=\"discovery\" default=\"Dead God\"} Lone astronaut standing inside an abandoned alien temple on a dark moon discovering the gigantic petrified skeleton of a forgotten cosmic god stretching across the horizon, glowing galaxies visible through cracks in the ceiling, floating debris in low gravity, mysterious runes illuminating ancient black stone walls, cinematic shadows and {argument name=\"lighting\" default=\"blue\"} volumetric lighting, breathtaking sense of scale, ultra-detailed sci-fi horror realism, highly atmospheric, surreal and haunting masterpiece.",
+    "title": "Astronaut and Petrified Cosmic God",
+    "description": "A cinematic sci-fi horror prompt depicting an astronaut discovering a massive petrified skeleton in an alien temple.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090342843_mn45sk_HIi1TpYaoAAYbTm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20988,
+    "content": "Cinematic space opera realism, masterpiece quality. Camera Position: high overhead bird's-eye angle, slightly tilted | Framing: looking down at the {argument name=\"subject\" default=\"emperor\"} and throne from above, the {argument name=\"background\" default=\"black hole\"} opening directly beneath/behind the throne into infinite darkness, planetary destruction radiating outward in a circular composition. Subject: A dark emperor seated on a colossal floating throne, viewed from a high overhead angle that emphasizes his solitude and dominance against the incomprehensible scale of the black hole below. The throne floats at the exact tipping point of the event horizon — a tiny figure in absolute command of cosmic destruction. Clothing: black robes spread dramatically outward from the throne seat, dissolving into dark smoke that curls into the gravitational pull below. The robe dissolution creates a visual wing-like silhouette when seen from above, giving the emperor a dark angelic geometry. Crown: the crown's golden light projects upward toward the camera, blazing directly at the viewer — a concentrated point of warm radiance against the darkness. Throne: the massive obsidian throne becomes a centerpiece in the circular composition, its edges catching accretion disk {argument name=\"lighting\" default=\"amber\"} light, casting long shadows outward in all directions. Background: radiating outward from the throne in a circle: shattered planets at various stages of destruction — some still partially intact with visible surface geography and cloud cover, others reduced to orbiting fragments and glowing magma trails. The black hole's accretion disk forms an enormous ring of fire that fills the extreme background, gravitational lensing creating concentric arcs of bent starlight around the void. The depth of the black hole stretches downward into absolute darkness below the throne. Primary Light: accretion disk light radiating inward from all sides — warm amber-gold casting circular light patterns on the throne and robe spread. Secondary Light: crown's golden upward blaze creating a spotlight-like cone toward the viewer. Ambient: cold blue-white starlight and gravitational lens arcs creating fine rim highlights on planet fragments. Color Grade: radial color — warm gold and amber at the edges from the accretion disk, deep cold black at the void center | crown warm gold beacon | robe smoke dark violet-black. Textures: detailed planetary surface geography on planet fragments, hyper-detailed robe fabric spread, rough throne stone surface with glinting mineral inclusions. Vibes: 2001 A Space Odyssey meets Avengers Endgame portal scene meets Lovecraftian cosmic scale — overwhelming, circular, mythological.",
+    "title": "Cosmic Emperor Black Hole Throne",
+    "description": "An epic cinematic space opera prompt featuring a dark emperor on a floating throne at the edge of a black hole.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090343022_7jkv99_HIhafrFaoAAW-zl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21018,
+    "content": "a {argument name=\"subject\" default=\"knight\"} in the {argument name=\"location\" default=\"tunnel\"}",
+    "title": "Knight in Tunnel Scene",
+    "description": "Generates a cinematic scene of a knight standing within a tunnel, blending medieval fantasy themes with modern urban environments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090363617_a4p0ku_HILaHmQbIAERwyn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20990,
+    "content": "{argument name=\"creature\" default=\"Dragon\"} Wrapped Around a {argument name=\"location\" default=\"Burning Kingdom\"} Massive ancient dragon coiled around an entire medieval kingdom during a {argument name=\"weather\" default=\"thunderstorm\"}, glowing molten cracks running beneath black obsidian scales, gigantic wings covering half the sky, castles burning beneath torrents of rain and ash, thousands of tiny soldiers fleeing through muddy streets, lightning striking behind the dragon’s silhouette, cinematic fire and smoke simulation, hyper-detailed scales and destruction, dark fantasy realism, desaturated blacks and fiery orange-red highlights, epic movie poster composition, insanely detailed.",
+    "title": "Dragon and Burning Kingdom",
+    "description": "A dark fantasy prompt featuring a massive dragon coiled around a medieval kingdom during a fiery thunderstorm.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090343859_cn0593_HIhO0k7bYAA-_Ee.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21014,
+    "content": "A {argument name=\"art style\" default=\"3D Pixar-style digital illustration\"} of a {argument name=\"subject\" default=\"young female artist with curly brown hair\"} in a messy bun and a paint-splattered apron, dynamically swinging a giant paintbrush across a large canvas. A vibrant, {argument name=\"magical element\" default=\"magical splash of teal, turquoise, and deep blue watercolor\"} erupts from her brush stroke, swirling upward into a detailed underwater kingdom. The splash forms coral reefs, a winding stone staircase, and a majestic seashell castle, with glowing bioluminescent jellyfish and tiny fish floating in the air above it. The scene is set in a cozy, sunlit artist's studio with jars of colorful paint, a hanging lantern, and brushes in the blurred background.",
+    "title": "Magical Underwater Artist Studio",
+    "description": "A 3D Pixar-style illustration of an artist whose brushstroke transforms into a magical underwater kingdom with bioluminescent jellyfish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090359266_0ebtab_HIhNyPmWAAAsKEY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21022,
+    "content": "{argument name=\"subject\" default=\"dark dragon\"} VS. {argument name=\"opponent\" default=\"vegetations\"}",
+    "title": "Dark Dragon vs Vegetations Battle",
+    "description": "Generates a fantasy scene featuring a confrontation between a dark dragon and plant-based entities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090366884_dibz5k_HILVjtEaoAAY8aT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21020,
+    "content": "the {argument name=\"character\" default=\"princess Rapunzel\"} performs her {argument name=\"action\" default=\"exfil\"} without the {argument name=\"companion\" default=\"prince\"}",
+    "title": "Rapunzel Solo Escape",
+    "description": "A twist on the Rapunzel story showing the princess performing an exfiltration without the help of the prince.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090365879_rydsxx_HILVHAyaoAAZDzq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21002,
+    "content": "a whimsical {argument name=\"subject\" default=\"pineapple house\"} with carved windows and a tiny wooden door, a tiny {argument name=\"character\" default=\"gnome in a pointed red hat\"} stands at the doorstep, lush garden with oversized flowers and mushrooms around, stylized storybook illustration, soft warm lighting, pastel color palette, centered composition on a plain light background",
+    "title": "Whimsical Pineapple House Illustration",
+    "description": "A storybook-style illustration prompt for a magical pineapple house with a gnome and oversized garden elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090352534_30us6f_HIELJzgXsAAuNW2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21027,
+    "content": "{argument name=\"aircraft\" default=\"A-10C\"} VS. {argument name=\"target\" default=\"puffer fish\"}",
+    "title": "A-10C Thunderbolt vs Puffer Fish Battle",
+    "description": "A surreal action prompt for Nano Banana Pro featuring a battle between an A-10C aircraft and a puffer fish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090370206_lnjc6t_HILUV4HboAAPdUX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20985,
+    "content": "medium shot, isometric view. black and white line art with shaded brush, very soft B type pen. {argument name=\"subject\" default=\"woman\"} is kneeling above the calm water surface, she gaze at her reflection on water surface, she is drawn completely black and white with whimsical brush strokes, her reflection on water surface is translucent soft deep {argument name=\"reflection color\" default=\"pale emerald green\"}. water show traces of {argument name=\"secondary color\" default=\"cobalt blue\"} randomly. random pale water color smudges on nature surrounding the scene.",
+    "title": "Isometric Zen Woman Line Art",
+    "description": "A tranquil black and white line art prompt featuring a woman gazing at her reflection in calm water, using soft brush strokes and subtle color accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339872_oiml1m_HIgRJe8WoAAPc-C.jpg",
+      "https://cms-assets.youmind.com/media/1779090339207_5as3n1_HIgRJe6WcAAnSiS.jpg",
+      "https://cms-assets.youmind.com/media/1779090339834_4jpewr_HIgRJfIXQAAv7Ql.jpg",
+      "https://cms-assets.youmind.com/media/1779090340557_pcav58_HIgRJe9XgAAJvjq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20998,
+    "content": "A whimsical scene features a variety of cartoon mushrooms with expressive faces, clustered together against a plain background. The mushrooms are depicted in different shapes, sizes, and colors. Some mushrooms have simple dot eyes and curved smiles, while others have more detailed features. Small green sprigs of foliage are scattered around the base of the mushrooms, adding a touch of nature to the playful scene.",
+    "title": "Whimsical Yarn Style Mushrooms",
+    "description": "A playful prompt for a variety of expressive cartoon mushrooms in a whimsical yarn illustration style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090349875_o4y7ai_HIZbdeaWMAEV-H6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20749,
     "content": "hyper realistic elegant older vampire detective walking through crowded cyberpunk street during heavy rain at night, black umbrella, black suit and trench coat, pedestrians surrounding him nervously, neon reflections on wet asphalt, cinematic noir atmosphere, mysterious ancient presence, grounded realism, Blade inspired visual style, ultra detailed lighting, 16:9",
     "title": "Vampire Detective Cyberpunk Scene",

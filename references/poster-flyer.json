@@ -20,6 +20,130 @@
     "needReferenceImages": false
   },
   {
+    "id": 20986,
+    "content": "{argument name=\"subject\" default=\"Astronaut\"} Discovering a {argument name=\"discovery\" default=\"Dead God\"} Lone astronaut standing inside an abandoned alien temple on a dark moon discovering the gigantic petrified skeleton of a forgotten cosmic god stretching across the horizon, glowing galaxies visible through cracks in the ceiling, floating debris in low gravity, mysterious runes illuminating ancient black stone walls, cinematic shadows and {argument name=\"lighting\" default=\"blue\"} volumetric lighting, breathtaking sense of scale, ultra-detailed sci-fi horror realism, highly atmospheric, surreal and haunting masterpiece.",
+    "title": "Astronaut and Petrified Cosmic God",
+    "description": "A cinematic sci-fi horror prompt depicting an astronaut discovering a massive petrified skeleton in an alien temple.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090342843_mn45sk_HIi1TpYaoAAYbTm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21006,
+    "content": "A young male with a {argument name=\"beard style\" default=\"textured short beard\"} stands perfectly centered, facing the camera with a deliberately posed, serious expression characterized by a neutral mouth, relaxed eyebrows, and a piercing direct gaze. He is dressed in striking winter formalwear, wearing a textured dark flat cap, a {argument name=\"coat type\" default=\"heavy gray wool overcoat\"} over a dark vest, a stark white dress shirt, and a diagonally striped gray tie. His right hand, clad in a dark brown leather glove with specular highlights catching on the taut knuckles, grips a metallic umbrella shaft with tense, deliberate force in the lower left quadrant of the frame. The expansive black canopy of the umbrella is heavily weighted to the right side of the composition, creating an asymmetric balance against his rigid posture while shielding him from a crisp, rainy evening. The environment falls away into deep, heavily blurred spatial depth, revealing a dark gray solid concrete floor and a rich outdoor setting where a pristine, ornate streetlamp glows warmly from the top center with multiple bulbs. To the top right, a vintage classical building facade made of smooth matte plaster transitions through an aged gradient of warm terracotta and pale yellow, detailed with architectural columns and arched windows glowing softly from within. The atmosphere is dominated by a stark split-complementary palette of charcoal gray, warm amber, stark white, and deep black, entirely shaped by a highly directional, {argument name=\"lighting type\" default=\"bright, cool-toned single-source hard light\"} striking the subject directly from the front. This intrusive, raw flash creates dramatic, high-contrast illumination with specular highlights gleaming sharply on his forehead, the bridge of his nose, his cheeks, and the scattered rain droplets across the dark umbrella canopy. Harsh, deep black shadows with sharply defined edges are cast directly from the umbrella shaft onto his crisp white chest, from the thick overcoat lapels onto his dark vest, and fall heavily onto the unseen space behind him. Captured as a realistic digital photograph with tack-sharp focus on the subject and a shallow depth of field, the image embraces a paparazzi aesthetic and cinematic night photography influences, complete with visible digital noise and enhanced clarity on the intricate fabric textures. The straight-on composition mimics a DSLR equipped with a 50mm lens at f/2.8 and a fast shutter speed to sync with the bare-bulb on-camera flash, processed with increased contrast to emphasize the harsh flash falloff, a color grade that cools the foreground while warming the ambient background streetlights, and a slight edge-darkening vignette, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Cinematic Paparazzi Night Portrait",
+    "description": "A complex flash-photography style prompt featuring a man in winter formalwear with an umbrella, utilizing harsh lighting and paparazzi aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090353873_nv496b_HIiQm51WcAANlT-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21013,
+    "content": "Ultra-realistic modern studio portrait using the uploaded image as the main subject, {argument name=\"background\" default=\"clean soft beige background\"}, minimal Scandinavian aesthetic, {argument name=\"subject\" default=\"smiling woman in a black knitted sweater\"} posing beside a large artistic low-poly geometric illustration version of herself on the wall, elegant red lipstick, soft cinematic lighting, premium fashion campaign look, high-end editorial photography, detailed facial features, luxury branding composition, handwritten stylish typography {argument name=\"text\" default=\"text “Synthia”\"} below the artwork, balanced composition, warm neutral tones, ultra detailed, realistic skin texture, contemporary gallery poster aesthetic, professional commercial photoshoot style, 8k quality",
+    "title": "Geometric Studio Portrait Art",
+    "description": "An ultra-realistic modern studio portrait featuring a subject posing beside a geometric illustration of themselves on a gallery-style wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090359772_cd9ddf_HIh42VEakAEZ464.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21001,
+    "content": "Ultra-realistic 8K photorealistic cinematic editorial image, 4:5 aspect ratio. A beautiful young woman MUST be walking barefoot along the shoreline on wet sand at the beach. \n\nFull-body framing with feet, legs, and shoes clearly visible. Body orientation slightly angled to the RIGHT relative to the camera while moving forward. Head turned to the RIGHT, head level. Gaze directed to the RIGHT at eye level. Facial expression relaxed and neutral with a soft, natural look.\n\nShe MUST be holding a pair of women’s loafers in her RIGHT hand, hanging downward naturally. LEFT arm relaxed by her side. Gentle ocean waves on the RIGHT side of the frame, shoreline stretching into the distance. Soft warm golden-hour lighting with subtle reflections on wet sand.\n\nOutfit MUST match: lightweight {argument name=\"shirt type\" default=\"white long-sleeve shirt\"} with open collar and loose fit, sleeves slightly rolled; {argument name=\"pants type\" default=\"beige/tan slim-fit pants\"} or wide-leg trousers rolled above the ankles. Barefoot.\n\nAccessories: sunglasses MUST be present, simple elegant wristwatch on LEFT wrist, subtle delicate bracelet on RIGHT wrist. \n\nHairstyle MUST be {argument name=\"hair style\" default=\"feminine and flowing, long wavy\"} or straight hair gently moving in the breeze (match elegant feminine style suitable for the scene).\n\nEnvironment: calm beach, soft waves, lightly clouded sky, warm natural tones. Camera angle eye-level. No cropping tighter than full body.",
+    "title": "Beach Shoreline Lifestyle Photography",
+    "description": "A photorealistic cinematic editorial prompt for a full-body shot of a woman walking on a beach at golden hour, carrying loafers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090351828_y41hgk_HIhxvsPbYAAGs8J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21011,
+    "content": "Ultra-realistic indoor portrait of a woman seated on a {argument name=\"furniture\" default=\"black leather sofa\"} in a modern apartment at night, wearing a {argument name=\"dress\" default=\"deep red satin mini dress\"} with lace-up corset detailing, soft warm ambient lighting, sheer curtains in the background, glamorous makeup, {argument name=\"hair\" default=\"long wavy blonde hair\"}, cinematic composition, shallow depth of field, high detail, photorealistic",
+    "title": "Evening Red Satin Dress Portrait",
+    "description": "A concise prompt for a photorealistic indoor portrait of a woman in a red satin corset dress with warm ambient lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090357087_gax2hf_HIhnIVTbgAAfp7q.jpg",
+      "https://cms-assets.youmind.com/media/1779090357128_4e5jn0_HIhnIVVbQAAjZ6F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21010,
+    "content": "A highly detailed photorealistic image of a {argument name=\"subject\" default=\"beautiful young woman\"} with fair skin, {argument name=\"hair\" default=\"long voluminous wavy fiery red hair\"} cascading over her shoulders, and striking green eyes, kneeling gracefully on vibrant green grass in an outdoor setting. She is wearing an {argument name=\"outfit\" default=\"elegant form-fitting navy blue dress\"} featuring a bold white geometric abstract pattern, with a deep V-shaped neckline, thin shoulder straps, and high side slits revealing her legs, complemented by a white fabric choker-style scarf wrapped around her neck. Her hands rest gently on her knees as she looks directly at the viewer with a poised expression. The background features modern minimalist concrete architecture with geometric lines and openings, wooden deck flooring, numerous potted green plants and palm trees arranged around the scene, creating a contemporary luxury outdoor garden atmosphere under natural daylight with a clear sky. High resolution, sharp details, cinematic lighting.",
+    "title": "Red Hair Garden Portrait",
+    "description": "A detailed prompt for a photorealistic image of a woman with red hair in a luxury outdoor garden setting with minimalist architecture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090356109_nlgewy_HIhg6t5aEAA1g5n.jpg",
+      "https://cms-assets.youmind.com/media/1779090355998_r469t6_HIhg6rkb0AAGVkm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20988,
+    "content": "Cinematic space opera realism, masterpiece quality. Camera Position: high overhead bird's-eye angle, slightly tilted | Framing: looking down at the {argument name=\"subject\" default=\"emperor\"} and throne from above, the {argument name=\"background\" default=\"black hole\"} opening directly beneath/behind the throne into infinite darkness, planetary destruction radiating outward in a circular composition. Subject: A dark emperor seated on a colossal floating throne, viewed from a high overhead angle that emphasizes his solitude and dominance against the incomprehensible scale of the black hole below. The throne floats at the exact tipping point of the event horizon — a tiny figure in absolute command of cosmic destruction. Clothing: black robes spread dramatically outward from the throne seat, dissolving into dark smoke that curls into the gravitational pull below. The robe dissolution creates a visual wing-like silhouette when seen from above, giving the emperor a dark angelic geometry. Crown: the crown's golden light projects upward toward the camera, blazing directly at the viewer — a concentrated point of warm radiance against the darkness. Throne: the massive obsidian throne becomes a centerpiece in the circular composition, its edges catching accretion disk {argument name=\"lighting\" default=\"amber\"} light, casting long shadows outward in all directions. Background: radiating outward from the throne in a circle: shattered planets at various stages of destruction — some still partially intact with visible surface geography and cloud cover, others reduced to orbiting fragments and glowing magma trails. The black hole's accretion disk forms an enormous ring of fire that fills the extreme background, gravitational lensing creating concentric arcs of bent starlight around the void. The depth of the black hole stretches downward into absolute darkness below the throne. Primary Light: accretion disk light radiating inward from all sides — warm amber-gold casting circular light patterns on the throne and robe spread. Secondary Light: crown's golden upward blaze creating a spotlight-like cone toward the viewer. Ambient: cold blue-white starlight and gravitational lens arcs creating fine rim highlights on planet fragments. Color Grade: radial color — warm gold and amber at the edges from the accretion disk, deep cold black at the void center | crown warm gold beacon | robe smoke dark violet-black. Textures: detailed planetary surface geography on planet fragments, hyper-detailed robe fabric spread, rough throne stone surface with glinting mineral inclusions. Vibes: 2001 A Space Odyssey meets Avengers Endgame portal scene meets Lovecraftian cosmic scale — overwhelming, circular, mythological.",
+    "title": "Cosmic Emperor Black Hole Throne",
+    "description": "An epic cinematic space opera prompt featuring a dark emperor on a floating throne at the edge of a black hole.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090343022_7jkv99_HIhafrFaoAAW-zl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20990,
+    "content": "{argument name=\"creature\" default=\"Dragon\"} Wrapped Around a {argument name=\"location\" default=\"Burning Kingdom\"} Massive ancient dragon coiled around an entire medieval kingdom during a {argument name=\"weather\" default=\"thunderstorm\"}, glowing molten cracks running beneath black obsidian scales, gigantic wings covering half the sky, castles burning beneath torrents of rain and ash, thousands of tiny soldiers fleeing through muddy streets, lightning striking behind the dragon’s silhouette, cinematic fire and smoke simulation, hyper-detailed scales and destruction, dark fantasy realism, desaturated blacks and fiery orange-red highlights, epic movie poster composition, insanely detailed.",
+    "title": "Dragon and Burning Kingdom",
+    "description": "A dark fantasy prompt featuring a massive dragon coiled around a medieval kingdom during a fiery thunderstorm.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090343859_cn0593_HIhO0k7bYAA-_Ee.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21016,
+    "content": "An AI-generated watercolor travel poster in a detailed sketch style by \"A. Moreau 2024, TRAVELSKETCH.\" The artwork features a bustling, historic street scene filled with people, a {argument name=\"subject\" default=\"couple walking a Shiba Inu dog\"} in the foreground, and patrons sitting outside a cafe. The background seamlessly blends the colonial hill-station charm of {argument name=\"first location\" default=\"Murree\"}—complete with wooden balconies, a red double-decker bus, a horse handler, and a distant church spire—with the urban identity of {argument name=\"second location\" default=\"Toronto\"}, showcasing modern skyscrapers, the CN Tower, and a red TTC streetcar on King Street. The text at the top reads \"A JOURNEY through HIDDEN LANES & CHARACTER\" in elegant typography.",
+    "title": "Watercolor Travel Poster Fusion",
+    "description": "A watercolor travel poster in a detailed sketch style that seamlessly blends the historical architecture of Murree with the modern urban identity of Toronto.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090358858_sm6gow_HIgfoSoXgAAlUWk.jpg",
+      "https://cms-assets.youmind.com/media/1779090358220_14lvaw_HIgfoWWWQAAwxmM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21008,
+    "content": "A {argument name=\"subject\" default=\"tanned adult male\"} with a short haircut and sharp fade sits perfectly centered in a posed yet confident stance, his face bearing a relaxed, closed-neutral expression with calm eyes and neutral eyebrows. He is dressed in a crisp, unbuttoned {argument name=\"top\" default=\"white button-down shirt\"} and deep black trousers, with his relaxed shoulders resting against the cream cushions of a woven wooden lounge chair. His left hand rests casually on his left thigh with fingers slightly curled downward, revealing a metallic silver watch on his wrist, while his right hand sits elevated on the chair's armrest cushion, the hand draped naturally and organically downward. In the immediate foreground, a weathered table constructed of thick, grey-brown wooden planks holds a small round greenish object, positioned near a pristine white square throw pillow adorned with a green geometric mandala floral pattern. The scene is set on a deck of medium-warm brown and greyish-brown striped wooden planks, establishing a layered, deep spatial depth that leads the eye toward the midground where a pristine, rectangular swimming pool cuts a striking horizontal line, glowing vividly from within with saturated cyan-blue underwater lights against a smooth stone coping edge, flanked by thriving tropical broadleaf plants housed in large, perfectly smooth matte cylindrical concrete planters. Further back, against a meticulously crushed deep black night sky, stands a dominant {argument name=\"architecture\" default=\"two-story modern white villa\"} featuring perfectly smooth painted drywall, warmly lit interior rooms, multiple balconies with geometric wooden railings, a patio umbrella on the upper deck, and pristine white perimeter walls washed in warm golden-yellow architectural up-lighting. The highly directional, intense hard light of a bright frontal flash creates a moody, sophisticated, and affluent evening resort atmosphere, blowing out specular highlights on the man's face and shirt while casting deep black, harsh-edged, short shadows directly behind him onto the chair cushion and sharply under his chin. This raw, dramatic high-contrast lighting drives a vividly saturated complementary color profile that balances the crisp whites and deep blacks against the neon cyan-blue water, warm wood tones, and golden architectural glow. Captured as a straight-on digital photograph utilizing a narrow aperture for a deep depth of field, the image maintains a tack-sharp texture across all focal planes, enhanced by subtle digital noise and meticulous post-processing that boosts the aqua channels and warm luminance, with the entire highly structured luxury scene beautifully framed in a 4:5 aspect ratio.",
+    "title": "Luxury Villa Evening Poolside Portrait",
+    "description": "An exceptionally detailed prompt for a high-contrast evening portrait of a man at a luxury villa poolside with professional flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090355348_bl6wp3_HIgahvRXMAAAEch.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21015,
+    "content": "Ultra-realistic full-body fashion portrait of her with {argument name=\"hair\" default=\"long dark brown hair and soft wispy bangs\"}, walking through a {argument name=\"location\" default=\"vast field of blooming blue wildflowers\"} under natural daylight. She is captured from a slightly low-angle perspective, creating a cinematic editorial feel. She wears an {argument name=\"outfit\" default=\"elegant flowing light-blue chiffon gown\"} with delicate embroidery, sheer billowing sleeves, subtle lace detailing, and realistic fabric movement from a gentle breeze. The dress has a tasteful thigh slit and layered translucent textures that catch the sunlight naturally.\n\nShe holds a fresh handpicked bundle of vivid blue wildflowers close to her chest while walking gracefully through the meadow. Her makeup is soft and refined with natural glowing skin, subtle peach blush, feathered brows, soft brown eyeliner, glossy muted rose lips, and realistic skin texture with visible pores and fine facial detail. Her expression is dreamy and contemplative, looking slightly away from the camera.\n\nGolden sunlight filters through scattered clouds in a bright blue sky, creating realistic highlights and soft shadows across her face, hair, and dress. The wind gently lifts strands of hair and flowing fabric. Foreground flowers are softly blurred with realistic depth of field, while distant wildflowers fade naturally into the background. Cinematic photography, ultra-detailed realism, luxury fashion editorial aesthetic, realistic anatomy, realistic hands, natural proportions, HDR photography, shallow depth of field, shot on a full-frame mirrorless camera, 85mm lens, f/1.8, high dynamic range, photorealistic textures, soft atmospheric lighting, Vogue-style outdoor editorial shoot, no fantasy elements, no CGI look, no anime style.",
+    "title": "Flowing Gown Wildflower Meadow",
+    "description": "A cinematic fashion editorial portrait of a woman in a light-blue chiffon gown walking through a field of blue wildflowers at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090361303_kokji8_HIgN_mGaQAAh65m.jpg",
+      "https://cms-assets.youmind.com/media/1779090361259_hxz1gy_HIgN_zXbkAAsoVh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20991,
+    "content": "A hyper-realistic, 8k, high-angle wide shot captures a beautiful girl gracefully snowboarding across an endless, ethereal sea of fluffy cumulus clouds, stretching to the horizon. The girl wears a stylish loose-fitting ivory white long-sleeved outfit with elegant soft beige and silver detailing, paired with flowing fabric accents for a dreamy cinematic look. She is barefoot on a sleek light-colored snowboard, creating a subtle cloud “spray” as she glides, illustrating the surreal physics of clouds acting as a solid, surfable surface. Her long hair flows dynamically behind her, emphasizing motion and freedom. The lighting is cinematic and warm, characteristic of golden hour, with soft directional sunlight casting gentle highlights and subtle rim lighting on the subject and the highly detailed cloud textures, creating strong volumetric depth. The composition is dynamic, with the subject positioned off-center and moving diagonally across the frame, enhancing the dreamlike fantasy atmosphere. ultra-detailed, realistic skin texture, soft wind movement, surreal fantasy aesthetic, uploaded face as reference. Aspect ratio 2:3.",
+    "title": "Surreal Cloud Snowboarding Girl",
+    "description": "A dreamy, hyper-realistic prompt depicting a girl snowboarding across an ethereal sea of clouds during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090345504_994ay8_HIfT22ZWMAACrh2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 20772,
     "content": "​A high-energy, {argument name=\"style\" default=\"Y2K cyberpunk cyberpop poster\"} featuring a {argument name=\"subject\" default=\"model with short dark hair\"}, futuristic metallic silver sunglasses, a black crop top, an oversized acid-washed grey denim blazer, and matching loose cargo jeans. The character wears chunky, glowing metallic silver and aqua sneakers. The background is a {argument name=\"background\" default=\"chaotic, vibrant glitch-art collage of a neon city\"} at night in shades of hot pink, purple, and electric blue, overlaid with glowing cyan neon outlines, geometric 3D wireframe shapes, digital motherboard textures, holographic prisms, and distressed torn-paper textures. Bold, glitchy futuristic typography anchors the composition with an edgy, Y2K rave graphic design aesthetic.",
     "title": "Y2K Cyberpunk Cyberpop Poster",

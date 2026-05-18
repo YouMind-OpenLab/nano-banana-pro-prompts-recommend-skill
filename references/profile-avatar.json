@@ -10,6 +10,78 @@
     "needReferenceImages": false
   },
   {
+    "id": 21007,
+    "content": "Use the uploaded reference image as the exact facial identity reference for the character. Maintain the same facial structure, curly hairstyle, beard shape, skin tone, jawline, eye shape, and overall appearance consistency exactly as the reference.\nCreate a cinematic nighttime portrait photoshoot with a warm moody aesthetic. The man is wearing an {argument name=\"shirt color\" default=\"olive green\"} casual shirt with sleeves rolled up, standing outdoors near a {argument name=\"location\" default=\"luxury rooftop or beachside café\"} during blue hour. The background should feature soft golden bokeh lights, blurred wooden cabanas, and a deep cloudy evening sky.\nGenerate a 3 frame vertical collage:\nBack side pose with the man touching his hair naturally while slightly looking down.\nClose up cinematic portrait with a soft confident smile and shallow depth of field.\nMedium shot with relaxed posture looking sideways naturally.\nStyle should feel ultra realistic, DSLR photography, 85mm lens look, creamy background blur, warm cinematic lighting, realistic skin texture, soft shadows, high detail, luxury lifestyle vibe, Instagram editorial aesthetic, natural color grading, premium portrait photography.\nAspect ratio 4:5, ultra detailed, photorealistic, shallow depth of field, cinematic composition.",
+    "title": "Cinematic Identity-Consistent Portrait Collage",
+    "description": "A comprehensive prompt for creating a 3-frame vertical collage that maintains consistent facial identity based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090355126_3khnn5_HIiGzDobgAAQKW3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21003,
+    "content": "A split-face dual-style portrait using the uploaded photo. The left half shows a soft, ultra-realistic studio photograph with natural skin tones, smooth lighting, shallow depth of field, and warm bokeh lights in the background. The right half transforms the same face into a dramatic {argument name=\"illustration style\" default=\"black-and-white hand-drawn ink illustration\"}, featuring expressive brush strokes, bold line work, fine cross-hatching, flowing hair rendered with dynamic ink splashes, and a raw artistic sketch aesthetic. Perfect facial alignment between both halves, clean vertical split down the center, strong contrast between realism and illustration, editorial fine-art style, ultra-high resolution, sharp details, gallery-quality finish, 1:1 aspect ratio.",
+    "title": "Split Face Photo and Ink Illustration",
+    "description": "A creative editorial fine-art prompt that transforms a portrait into a split-face composition of realism and hand-drawn ink illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090352921_dg5i8s_HIh8jFWaAAE_myA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21012,
+    "content": "Outfit: {argument name=\"outfit\" default=\"Charcoal grey sleeveless bubble hem mini dress with a structured straight-cut neckline, layered over a white sheer mock-neck sleeveless top with a thin black horizontal stripe across the chest, fitted bodice cinching at the natural waist transitioning into a voluminous puffed balloon skirt with gathered draping, paired with white ribbed crew socks featuring black stripe trim and small lettering detail, glossy black patent leather pointed-toe kitten heel slingback flats, silver chain-link bracelet on the wrist, minimalist silver rings\"}, clean preppy-meets-modern silhouette\n\nCreate a 1 row x 4 columns grid of standing photo booth photos of the {argument name=\"subject\" default=\"young Asian girl\"} in <User Portrait> showing different poses with {argument name=\"emotions\" default=\"different love and affection emotions\"}, one pose is holding herself very tightly, and no repeat. The photo should take as much height as possible. Use different pastel colours as background with Polaroid colour tone. No change of outfit. No frame for each photo in the grid. All grids should have the same width",
+    "title": "Preppy Fashion Photo Booth Grid",
+    "description": "Creates a 1x4 grid of photo booth portraits showing different emotions, featuring a specific preppy outfit with a bubble hem dress and patent leather flats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090357644_pgm76j_HIhzPNnbUAAEuUI.jpg",
+      "https://cms-assets.youmind.com/media/1779090357933_132q1x_HIh4TkUasAEcS1_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20987,
+    "content": "Outfit: {argument name=\"outfit style\" default=\"Oversized white button-up shirt with pointed collar and long sleeves\"}, worn untucked with sleeves slightly pushed up, layered under a cropped chunky-knit cable cardigan vest in white with button-front closure, paired with a white pleated mini skirt featuring a tiered ruffle hem, accessorized with a {argument name=\"jewelry\" default=\"chunky silver floral statement necklace\"} and dangling silver earrings, styled with thick fuzzy white slouchy leg warmers bunched at the ankles, finished with {argument name=\"footwear color\" default=\"glossy red leather\"} Mary Jane shoes with rounded toes and single strap, all-white monochromatic layered outfit with contrasting red footwear\n\nCreate a 2x2 grid of Polaroids of standing photo booth photos of the young asian girl in <User Portrait> showing different poses with different love and affection emotions, while interacting with her lips, and no repeat. The photo should take as much height as possible. Use different pastel colours as background with Polaroid colour tone. No change of outfit. No frame for each photo in the grid.",
+    "title": "Asian Girl Photo Booth Grid",
+    "description": "A detailed fashion and composition prompt for creating a 2x2 Polaroid grid of a young Asian girl in a monochromatic white outfit with red shoes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090342402_nxum0x_HIhydVlasAEopiQ.jpg",
+      "https://cms-assets.youmind.com/media/1779090342395_zjd3q2_HIhydVFbwAAXVPC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20992,
+    "content": "photorealistic portrait of a beautiful young woman in her early 20s with long straight ginger-red hair cascading down her back, pale freckled skin with visible freckles on her face, shoulders and arms, bright blue eyes, full red lips, wearing a white fluffy pom-pom scrunchie in her hair on the left side. She is kneeling on a modern gray fabric sofa in a bright, naturally lit room with a large window behind her, turning her upper body and head over her left shoulder to look directly at the camera with a soft, neutral expression. She is hugging a large Rilakkuma-style beige plush teddy bear with pink inner ears, black button eyes, black stitched nose and mouth, and a small red button on its chest, holding it close to her torso with both hands. She wears a tight white ribbed short-sleeve crop top, light blue boxer-style shorts covered in a repeating pattern of green avocados (some whole, some halved showing the pit), and sheer white thigh-high stockings. Red manicured fingernails. Soft natural daylight coming from the right side window, creating gentle highlights and realistic skin texture. High detail, sharp focus, realistic photography, 8k resolution, cinematic lighting, natural color grading",
+    "title": "Ginger Woman with Teddy Bear",
+    "description": "A photorealistic portrait prompt of a young woman with red hair hugging a large teddy bear on a modern sofa in a naturally lit room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346403_gjhfym_HIhxLD7bsAACYRN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21023,
+    "content": "a {argument name=\"style\" default=\"Japanese-style hoodlum\"} {argument name=\"subject\" default=\"Anime fairy\"}",
+    "title": "Japanese Hoodlum Anime Fairy",
+    "description": "A unique prompt that combines the Japanese 'yankee' or hoodlum aesthetic with an anime-style fairy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090368162_6eod3f_HILWqJZbIAAkYr9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20995,
+    "content": "A vertical, close-up portrait of an elegant young East Asian woman, captured in a dramatic cinematic lighting style against a dark, pitch-black background. She looks directly forward with a soft, serene expression. A warm, golden light flares beautifully from the left side, casting a strong, luminous glow across her cheek, collarbones, and shoulders, while creating soft shadows that add depth to her features. She is wearing a simple, classic black tank top that elegantly covers her neck and chest area, perfectly balancing the high-contrast, moody aesthetic of the portrait.",
+    "title": "Cinematic East Asian Woman Portrait",
+    "description": "A vertical, close-up portrait of an elegant woman with dramatic golden lighting flares against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090348426_j4pfv5_HIe3PnPXMAI4Iov.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20770,
     "content": "A hyper-realistic, close-up cinematic portrait of a {argument name=\"subject\" default=\"man with a little beard\"} looking upward. He is wearing {argument name=\"clothing\" default=\"black turtleneck\"}. The focal point is a pair of {argument name=\"accessory\" default=\"glowing neon red translucent glasses\"} that cast a vibrant red light across his brow and cheekbones. His eyes are a piercing, electric blue, reflecting a bright digital screen. The lighting is low-key with a dramatic \"dual tone\" effect: hot red light from the eyewear clashing with a cool teal/cyan rim light along his jaw and neck. Deep black background, 8k resolution, shot on 35mm lens, moody synthwave aesthetic.",
     "title": "Neon Red Glasses Cinematic Portrait",

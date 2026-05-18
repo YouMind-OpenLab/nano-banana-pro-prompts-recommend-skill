@@ -1,5 +1,45 @@
 [
   {
+    "id": 21018,
+    "content": "a {argument name=\"subject\" default=\"knight\"} in the {argument name=\"location\" default=\"tunnel\"}",
+    "title": "Knight in Tunnel Scene",
+    "description": "Generates a cinematic scene of a knight standing within a tunnel, blending medieval fantasy themes with modern urban environments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090363617_a4p0ku_HILaHmQbIAERwyn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21022,
+    "content": "{argument name=\"subject\" default=\"dark dragon\"} VS. {argument name=\"opponent\" default=\"vegetations\"}",
+    "title": "Dark Dragon vs Vegetations Battle",
+    "description": "Generates a fantasy scene featuring a confrontation between a dark dragon and plant-based entities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090366884_dibz5k_HILVjtEaoAAY8aT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20993,
+    "content": "Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.",
+    "title": "Handcrafted Paper-Cut Style Illustration",
+    "description": "A prompt that converts images into a soft, handcrafted paper-cut layered illustration style with a cute diorama aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346730_2bby5k_HIfhsW2bEAEZeX1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20998,
+    "content": "A whimsical scene features a variety of cartoon mushrooms with expressive faces, clustered together against a plain background. The mushrooms are depicted in different shapes, sizes, and colors. Some mushrooms have simple dot eyes and curved smiles, while others have more detailed features. Small green sprigs of foliage are scattered around the base of the mushrooms, adding a touch of nature to the playful scene.",
+    "title": "Whimsical Yarn Style Mushrooms",
+    "description": "A playful prompt for a variety of expressive cartoon mushrooms in a whimsical yarn illustration style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090349875_o4y7ai_HIZbdeaWMAEV-H6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20778,
     "content": "a {argument name=\"subject\" default=\"snail\"} in the style of a {argument name=\"game style\" default=\"souls-like video game\"}",
     "title": "Souls-like Snail Creature Design",

@@ -41,6 +41,267 @@
     "needReferenceImages": false
   },
   {
+    "id": 21007,
+    "content": "Use the uploaded reference image as the exact facial identity reference for the character. Maintain the same facial structure, curly hairstyle, beard shape, skin tone, jawline, eye shape, and overall appearance consistency exactly as the reference.\nCreate a cinematic nighttime portrait photoshoot with a warm moody aesthetic. The man is wearing an {argument name=\"shirt color\" default=\"olive green\"} casual shirt with sleeves rolled up, standing outdoors near a {argument name=\"location\" default=\"luxury rooftop or beachside café\"} during blue hour. The background should feature soft golden bokeh lights, blurred wooden cabanas, and a deep cloudy evening sky.\nGenerate a 3 frame vertical collage:\nBack side pose with the man touching his hair naturally while slightly looking down.\nClose up cinematic portrait with a soft confident smile and shallow depth of field.\nMedium shot with relaxed posture looking sideways naturally.\nStyle should feel ultra realistic, DSLR photography, 85mm lens look, creamy background blur, warm cinematic lighting, realistic skin texture, soft shadows, high detail, luxury lifestyle vibe, Instagram editorial aesthetic, natural color grading, premium portrait photography.\nAspect ratio 4:5, ultra detailed, photorealistic, shallow depth of field, cinematic composition.",
+    "title": "Cinematic Identity-Consistent Portrait Collage",
+    "description": "A comprehensive prompt for creating a 3-frame vertical collage that maintains consistent facial identity based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090355126_3khnn5_HIiGzDobgAAQKW3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21003,
+    "content": "A split-face dual-style portrait using the uploaded photo. The left half shows a soft, ultra-realistic studio photograph with natural skin tones, smooth lighting, shallow depth of field, and warm bokeh lights in the background. The right half transforms the same face into a dramatic {argument name=\"illustration style\" default=\"black-and-white hand-drawn ink illustration\"}, featuring expressive brush strokes, bold line work, fine cross-hatching, flowing hair rendered with dynamic ink splashes, and a raw artistic sketch aesthetic. Perfect facial alignment between both halves, clean vertical split down the center, strong contrast between realism and illustration, editorial fine-art style, ultra-high resolution, sharp details, gallery-quality finish, 1:1 aspect ratio.",
+    "title": "Split Face Photo and Ink Illustration",
+    "description": "A creative editorial fine-art prompt that transforms a portrait into a split-face composition of realism and hand-drawn ink illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090352921_dg5i8s_HIh8jFWaAAE_myA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21004,
+    "content": "Cinematic “follow me” couple portrait in a {argument name=\"location\" default=\"misty Himalayan pine forest\"}, wife leading husband by hand through foggy tall trees, Tibetan prayer flags in background, both wearing {argument name=\"outfit\" default=\"elegant black woolen coats and gloves\"}, romantic travel vibe, low-angle wide shot, dreamy moody atmosphere, soft diffused fog light, photorealistic, 8K, vertical 4:5, faces matching reference images exactly.",
+    "title": "Misty Forest Travel Couple Portrait",
+    "description": "A cinematic 'follow me' style prompt of a couple walking through a foggy Himalayan pine forest, designed to match reference images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090353874_6as52b_HIh7fwza4AAfhH4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21012,
+    "content": "Outfit: {argument name=\"outfit\" default=\"Charcoal grey sleeveless bubble hem mini dress with a structured straight-cut neckline, layered over a white sheer mock-neck sleeveless top with a thin black horizontal stripe across the chest, fitted bodice cinching at the natural waist transitioning into a voluminous puffed balloon skirt with gathered draping, paired with white ribbed crew socks featuring black stripe trim and small lettering detail, glossy black patent leather pointed-toe kitten heel slingback flats, silver chain-link bracelet on the wrist, minimalist silver rings\"}, clean preppy-meets-modern silhouette\n\nCreate a 1 row x 4 columns grid of standing photo booth photos of the {argument name=\"subject\" default=\"young Asian girl\"} in <User Portrait> showing different poses with {argument name=\"emotions\" default=\"different love and affection emotions\"}, one pose is holding herself very tightly, and no repeat. The photo should take as much height as possible. Use different pastel colours as background with Polaroid colour tone. No change of outfit. No frame for each photo in the grid. All grids should have the same width",
+    "title": "Preppy Fashion Photo Booth Grid",
+    "description": "Creates a 1x4 grid of photo booth portraits showing different emotions, featuring a specific preppy outfit with a bubble hem dress and patent leather flats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090357644_pgm76j_HIhzPNnbUAAEuUI.jpg",
+      "https://cms-assets.youmind.com/media/1779090357933_132q1x_HIh4TkUasAEcS1_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20987,
+    "content": "Outfit: {argument name=\"outfit style\" default=\"Oversized white button-up shirt with pointed collar and long sleeves\"}, worn untucked with sleeves slightly pushed up, layered under a cropped chunky-knit cable cardigan vest in white with button-front closure, paired with a white pleated mini skirt featuring a tiered ruffle hem, accessorized with a {argument name=\"jewelry\" default=\"chunky silver floral statement necklace\"} and dangling silver earrings, styled with thick fuzzy white slouchy leg warmers bunched at the ankles, finished with {argument name=\"footwear color\" default=\"glossy red leather\"} Mary Jane shoes with rounded toes and single strap, all-white monochromatic layered outfit with contrasting red footwear\n\nCreate a 2x2 grid of Polaroids of standing photo booth photos of the young asian girl in <User Portrait> showing different poses with different love and affection emotions, while interacting with her lips, and no repeat. The photo should take as much height as possible. Use different pastel colours as background with Polaroid colour tone. No change of outfit. No frame for each photo in the grid.",
+    "title": "Asian Girl Photo Booth Grid",
+    "description": "A detailed fashion and composition prompt for creating a 2x2 Polaroid grid of a young Asian girl in a monochromatic white outfit with red shoes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090342402_nxum0x_HIhydVlasAEopiQ.jpg",
+      "https://cms-assets.youmind.com/media/1779090342395_zjd3q2_HIhydVFbwAAXVPC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20992,
+    "content": "photorealistic portrait of a beautiful young woman in her early 20s with long straight ginger-red hair cascading down her back, pale freckled skin with visible freckles on her face, shoulders and arms, bright blue eyes, full red lips, wearing a white fluffy pom-pom scrunchie in her hair on the left side. She is kneeling on a modern gray fabric sofa in a bright, naturally lit room with a large window behind her, turning her upper body and head over her left shoulder to look directly at the camera with a soft, neutral expression. She is hugging a large Rilakkuma-style beige plush teddy bear with pink inner ears, black button eyes, black stitched nose and mouth, and a small red button on its chest, holding it close to her torso with both hands. She wears a tight white ribbed short-sleeve crop top, light blue boxer-style shorts covered in a repeating pattern of green avocados (some whole, some halved showing the pit), and sheer white thigh-high stockings. Red manicured fingernails. Soft natural daylight coming from the right side window, creating gentle highlights and realistic skin texture. High detail, sharp focus, realistic photography, 8k resolution, cinematic lighting, natural color grading",
+    "title": "Ginger Woman with Teddy Bear",
+    "description": "A photorealistic portrait prompt of a young woman with red hair hugging a large teddy bear on a modern sofa in a naturally lit room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346403_gjhfym_HIhxLD7bsAACYRN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20983,
+    "content": "A split-panel and single-shot fashion editorial showcasing a beautiful woman with wavy, shoulder-length brown hair and {argument name=\"lipstick color\" default=\"deep plum\"} lipstick. She wears an elegant, long-sleeved {argument name=\"fabric\" default=\"velvet\"} dress and a matching wide-brimmed fedora hat. The imagery features a rich, {argument name=\"color palette\" default=\"autumnal\"} color palette across different settings: a fitted burnt-orange dress with a dark green hat in a chic cafe, a royal blue wrap dress with a matching blue hat in a vintage Parisian cafe, a green wrap dress with a navy blue hat on a sunny terrace, and a mustard-yellow dress with a striking purple hat against a solid yellow backdrop. High-end fashion photography, sophisticated and cinematic lighting.",
+    "title": "Jewel-Toned Velvet Fashion Editorial",
+    "description": "An elegant fashion editorial prompt focusing on rich autumnal colors, velvet dresses, and fedora hats in sophisticated cafe settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339927_7kwu8x_HIhinhaXUAEoNKv.jpg",
+      "https://cms-assets.youmind.com/media/1779090339832_y6nv1x_HIhindZWsAAUIJM.jpg",
+      "https://cms-assets.youmind.com/media/1779090339660_71ttbo_HIhinhbWkAABrXg.jpg",
+      "https://cms-assets.youmind.com/media/1779090340733_038ubz_HIhinhdW0AEB8-z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20997,
+    "content": "Ultra-realistic full-body fashion portrait of her with long dark brown hair and soft wispy bangs, walking through a vast field of blooming Pink wildflowers under natural daylight. She is captured from a slightly low-angle perspective, creating a cinematic editorial feel. She wears an elegant flowing light-Pink chiffon gown with delicate embroidery, sheer billowing sleeves, subtle lace detailing, and realistic fabric movement from a gentle breeze. The dress has a tasteful thigh slit and layered translucent textures that catch the sunlight naturally.\n\nShe holds a fresh handpicked bundle of vivid Red wildflowers close to her chest while walking gracefully through the meadow. Her makeup is soft and refined with natural glowing skin, subtle peach blush, feathered brows, soft brown eyeliner, glossy muted rose lips, and realistic skin texture with visible pores and fine facial detail. Her expression is dreamy and contemplative, looking slightly away from the camera.\n\nGolden sunlight filters through scattered clouds in a bright blue sky, creating realistic highlights and soft shadows across her face, hair, and dress. The wind gently lifts strands of hair and flowing fabric. Foreground flowers are softly blurred with realistic depth of field, while distant wildflowers fade naturally into the background. Cinematic photography, ultra-detailed realism, luxury fashion editorial aesthetic, realistic anatomy, realistic hands, natural proportions, HDR photography, shallow depth of field, shot on a full-frame mirrorless camera, 85mm lens, f/1.8, high dynamic range, photorealistic textures, soft atmospheric lighting, Vogue-style outdoor editorial shoot, no fantasy elements, no CGI look, no anime style.",
+    "title": "Pink Chiffon Gown Wildflower Field",
+    "description": "A cinematic fashion portrait of a woman in a flowing chiffon gown walking through a field of pink wildflowers during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090350171_bw5qbt_HIhbxKOaIAA4cdR.jpg",
+      "https://cms-assets.youmind.com/media/1779090350127_zhiirf_HIhbxJKaAAEU3H_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21021,
+    "content": "a {argument name=\"location\" default=\"Japanese suburb\"} in the the {argument name=\"era\" default=\"2000s\"} atmosphere that like an {argument name=\"style\" default=\"old footage\"}",
+    "title": "Nostalgic Japanese Suburb Footage",
+    "description": "Captures a nostalgic atmosphere of a 2000s Japanese suburb, styled like old film footage to evoke a sense of longing and retro aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090365237_xy2uhb_HILdHfAa0AAfJaC.jpg",
+      "https://cms-assets.youmind.com/media/1779090365204_d7hppt_HILdHjJaMAA1j1Y.jpg",
+      "https://cms-assets.youmind.com/media/1779090365159_a12yql_HILdHfCbkAA4HHq.jpg",
+      "https://cms-assets.youmind.com/media/1779090367226_e7sfzb_HILdHd2aEAARM12.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20999,
+    "content": "{\n \"image_prompt\": {\n \"reference\": {\n \"face_identity\": \"uploaded reference image\",\n \"identity_lock\": true,\n \"pose_lock\": true,\n \"camera_angle_lock\": true,\n \"expression_lock\": true,\n \"face_preservation\": \"100% identical facial structure, proportions, eyes, lips, nose, brows, skin texture\"\n },\n\n \"composition\": {\n \"layout\": \"2x2 collage\",\n \"aspect_ratio\": \"1:1\",\n \"pose_matching\": \"exactly match reference image poses, angles, framing, and body orientation\",\n      \"no_variation_allowed\": true\n    },\n\n    \"panel_1\": {\n      \"view\": \"front-facing portrait\",\n      \"pose\": \"head slightly tilted, eyes toward camera, soft lips\",\n      \"framing\": \"chest-up selfie angle\",\n      \"expression\": \"calm, elegant\",\n      \"match_reference\": true\n    },\n\n    \"panel_2\": {\n      \"view\": \"back view\",\n      \"pose\": \"standing facing mirror, arms raised slightly\",\n      \"focus\": \"back of head and bow hairstyle\",\n      \"framing\": \"upper-body rear shot\",\n      \"match_reference\": true\n    },\n\n    \"panel_3\": {\n      \"view\": \"mirror selfie\",\n      \"pose\": \"phone covering part of face, body angled sideways\",\n      \"framing\": \"waist-up\",\n      \"match_reference\": true\n    },\n\n    \"panel_4\": {\n      \"view\": \"side portrait\",\n      \"pose\": \"head turned over shoulder looking into camera, holding bouquet close to chest\",\n      \"expression\": \"soft romantic gaze\",\n      \"framing\": \"upper torso\",\n      \"match_reference\": true\n    },\n\n    \"subject\": {\n      \"gender\": \"female\",\n      \"ethnicity\": \"{argument name=\"ethnicity\" default=\"Asian\"}\",\n      \"skin_tone\": \"fair with soft blush\"\n    },\n\n    \"hair\": {\n      \"style\": \"long straight hair, half-up\",\n      \"accessory\": \"{argument name=\"hair accessory\" default=\"large cream ribbon bow\"}\",\n      \"placement\": \"exact position as reference image\"\n    },\n\n    \"outfit\": {\n      \"dress\": {\n        \"color\": \"white\",\n        \"pattern\": \"blue floral print\",\n        \"style\": \"{argument name=\"dress style\" default=\"vintage puff-sleeve dress\"}\",\n        \"neckline\": \"square neckline\"\n      },\n      \"jewelry\": [\n        \"pearl necklace\",\n        \"delicate gold pendant\"\n      ]\n    },\n\n    \"environment\": {\n      \"location\": \"vintage-style indoor room\",\n      \"background\": [\n        \"ornate mirror\",\n        \"cream walls\",\n        \"soft floral decor\",\n        \"classic furniture\"\n      ],\n      \"match_reference_background\": true\n    },\n\n    \"lighting\": {\n      \"type\": \"soft indoor daylight\",\n      \"quality\": \"even, gentle, warm\",\n      \"shadow\": \"minimal\",\n      \"match_reference\": true\n    },\n\n    \"photography_style\": {\n      \"style\": \"romantic vintage lifestyle\",\n      \"lens\": \"DSLR portrait lens\",\n      \"depth_of_field\": \"shallow\",\n      \"color_grading\": \"soft pastel\"\n    },\n\n    \"render_quality\": {\n      \"realism\": \"photorealistic\",\n      \"resolution\": \"high\",\n      \"texture_detail\": \"natural skin and fabric detail\",\n      \"no_cartoon\": true\n    }\n  }\n}",
+    "title": "Collage Portrait of Asian Woman",
+    "description": "A structured JSON-style prompt for creating a 2x2 collage of an Asian woman in a vintage floral dress, including mirror selfies and specific hair accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090350508_ni8bcj_HIhOtpKXIAAuwjW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21017,
+    "content": "a {argument name=\"subject\" default=\"pumpkin carriage\"} in the style of an {argument name=\"style\" default=\"unknown aircraft\"}",
+    "title": "Surreal Pumpkin Carriage Aircraft",
+    "description": "Creates a surreal mashup of a classic pumpkin carriage with the technical aesthetic of an unidentified aircraft, resulting in a unique and imaginative visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090363441_myzpas_HILZlDhasAAFBMV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21019,
+    "content": "the advent of {argument name=\"subject\" default=\"orange cat\"} in the style of a {argument name=\"style\" default=\"picture book\"}",
+    "title": "Orange Cat Picture Book Illustration",
+    "description": "A prompt for generating charming illustrations of an orange cat in a whimsical picture book style, perfect for children's stories or artistic projects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090363801_0vayzd_HILY2hkagAABr2w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21023,
+    "content": "a {argument name=\"style\" default=\"Japanese-style hoodlum\"} {argument name=\"subject\" default=\"Anime fairy\"}",
+    "title": "Japanese Hoodlum Anime Fairy",
+    "description": "A unique prompt that combines the Japanese 'yankee' or hoodlum aesthetic with an anime-style fairy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090368162_6eod3f_HILWqJZbIAAkYr9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21027,
+    "content": "{argument name=\"aircraft\" default=\"A-10C\"} VS. {argument name=\"target\" default=\"puffer fish\"}",
+    "title": "A-10C Thunderbolt vs Puffer Fish Battle",
+    "description": "A surreal action prompt for Nano Banana Pro featuring a battle between an A-10C aircraft and a puffer fish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090370206_lnjc6t_HILUV4HboAAPdUX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20996,
+    "content": "mosaic made from tiny randomly cut colored wood shapes, colored wood shapes are edgy with various geometrical shapes, they form traditional Chinese dragon. dragon body is shaped out of tiny colored wood pieces forming a mosaic. pale colored wood surface with intricate thin black outlines dividing the mosaic pieces. background is traditional nature Sakura bloom garden surrounding the dragon.",
+    "title": "Chinese Dragon Wood Mosaic",
+    "description": "An artistic prompt for a traditional Chinese dragon created from random colored wood mosaic shapes with intricate outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346446_49oz8n_HIgf1RqWMAAw0ue.jpg",
+      "https://cms-assets.youmind.com/media/1779090346412_btyocp_HIgf1RrWAAAhJ6l.jpg",
+      "https://cms-assets.youmind.com/media/1779090346682_ybrijh_HIgf1RqWUAAey6a.jpg",
+      "https://cms-assets.youmind.com/media/1779090348094_wbphhc_HIgf1RtWoAAE46N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20985,
+    "content": "medium shot, isometric view. black and white line art with shaded brush, very soft B type pen. {argument name=\"subject\" default=\"woman\"} is kneeling above the calm water surface, she gaze at her reflection on water surface, she is drawn completely black and white with whimsical brush strokes, her reflection on water surface is translucent soft deep {argument name=\"reflection color\" default=\"pale emerald green\"}. water show traces of {argument name=\"secondary color\" default=\"cobalt blue\"} randomly. random pale water color smudges on nature surrounding the scene.",
+    "title": "Isometric Zen Woman Line Art",
+    "description": "A tranquil black and white line art prompt featuring a woman gazing at her reflection in calm water, using soft brush strokes and subtle color accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339872_oiml1m_HIgRJe8WoAAPc-C.jpg",
+      "https://cms-assets.youmind.com/media/1779090339207_5as3n1_HIgRJe6WcAAnSiS.jpg",
+      "https://cms-assets.youmind.com/media/1779090339834_4jpewr_HIgRJfIXQAAv7Ql.jpg",
+      "https://cms-assets.youmind.com/media/1779090340557_pcav58_HIgRJe9XgAAJvjq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21025,
+    "content": "{argument name=\"sport\" default=\"Horse Racing\"} {argument name=\"event\" default=\"Victoria Mile\"} {argument name=\"style keyword\" default=\"Template Dynamite\"}",
+    "title": "Victoria Mile Horse Racing Dynamite",
+    "description": "A horse racing-themed prompt targeting the Victoria Mile event with a unique 'dynamite' visual style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090369364_qqjjd6_HIgJ1KvbgAAQ27q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21024,
+    "content": "{argument name=\"race name\" default=\"Victoria Mile horse racing\"} {argument name=\"style\" default=\"cyberpunk\"}",
+    "title": "Cyberpunk Victoria Mile Racing",
+    "description": "Visualizes a Japanese horse race in a high-tech, futuristic cyberpunk setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090369036_whxuuc_HIgI5WnakAA-GK7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20993,
+    "content": "Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.",
+    "title": "Handcrafted Paper-Cut Style Illustration",
+    "description": "A prompt that converts images into a soft, handcrafted paper-cut layered illustration style with a cute diorama aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090346730_2bby5k_HIfhsW2bEAEZeX1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20994,
+    "content": "Elegant fashion portrait of a young woman leaning against a blush pink textured wall with tropical palm leaf shadows, wearing a soft blush pink wrap blouse with layered ruffle sleeves and flowing sash detail, paired with white high-waisted wide-leg pants with bold black polka dots, loose braided wavy hairstyle, natural glam makeup, warm golden sunlight, terracotta tiled floor, Mediterranean resort vibe, soft feminine aesthetic, editorial fashion photography, full-body composition, realistic skin texture, shallow depth of field, ultra-detailed, high fashion magazine style..",
+    "title": "Blush Pink Fashion Editorial",
+    "description": "An elegant fashion portrait of a woman in a blush pink wrap blouse and polka dot pants against a Mediterranean wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090348924_qsbty9_HIfdRk6a4AAhFf4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20991,
+    "content": "A hyper-realistic, 8k, high-angle wide shot captures a beautiful girl gracefully snowboarding across an endless, ethereal sea of fluffy cumulus clouds, stretching to the horizon. The girl wears a stylish loose-fitting ivory white long-sleeved outfit with elegant soft beige and silver detailing, paired with flowing fabric accents for a dreamy cinematic look. She is barefoot on a sleek light-colored snowboard, creating a subtle cloud “spray” as she glides, illustrating the surreal physics of clouds acting as a solid, surfable surface. Her long hair flows dynamically behind her, emphasizing motion and freedom. The lighting is cinematic and warm, characteristic of golden hour, with soft directional sunlight casting gentle highlights and subtle rim lighting on the subject and the highly detailed cloud textures, creating strong volumetric depth. The composition is dynamic, with the subject positioned off-center and moving diagonally across the frame, enhancing the dreamlike fantasy atmosphere. ultra-detailed, realistic skin texture, soft wind movement, surreal fantasy aesthetic, uploaded face as reference. Aspect ratio 2:3.",
+    "title": "Surreal Cloud Snowboarding Girl",
+    "description": "A dreamy, hyper-realistic prompt depicting a girl snowboarding across an ethereal sea of clouds during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090345504_994ay8_HIfT22ZWMAACrh2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20989,
+    "content": "A structured data-driven prompt to generate fitness photography of Sydney Sweeney and Millie Bobby Brown, including specific details on apparel, poses, and professional background.",
+    "title": "Celebrity Fitness Photo Shoot",
+    "description": "A detailed structured prompt for generating fitness-themed photography of celebrities Sydney Sweeney and Millie Bobby Brown in various poses and athletic wear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090344020_kvo7pi_HIfI0Q0WAAAgqEb.jpg",
+      "https://cms-assets.youmind.com/media/1779090344033_5l1yqv_HIfIzpsWQAABVSx.jpg",
+      "https://cms-assets.youmind.com/media/1779090343983_cz0t40_HIfIzpvWMAApRXA.jpg",
+      "https://cms-assets.youmind.com/media/1779090344610_zsqtp1_HIfIzyRXYAA1ntH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20995,
+    "content": "A vertical, close-up portrait of an elegant young East Asian woman, captured in a dramatic cinematic lighting style against a dark, pitch-black background. She looks directly forward with a soft, serene expression. A warm, golden light flares beautifully from the left side, casting a strong, luminous glow across her cheek, collarbones, and shoulders, while creating soft shadows that add depth to her features. She is wearing a simple, classic black tank top that elegantly covers her neck and chest area, perfectly balancing the high-contrast, moody aesthetic of the portrait.",
+    "title": "Cinematic East Asian Woman Portrait",
+    "description": "A vertical, close-up portrait of an elegant woman with dramatic golden lighting flares against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090348426_j4pfv5_HIe3PnPXMAI4Iov.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20984,
+    "content": "Editorial night fashion photography, medium shot of {argument name=\"celebrity name\" default=\"Sadie Sink\"} gracefully reclining in the back seat of a luxury vehicle. She has a curvy, full-bodied silhouette and styled loose, voluminous wavy hair. She wears a confident, captivating expression with lips softly parted. Her glowing, natural skin features realistic texture and visible pores, enhanced by glamorous party makeup including glossy red lips, sharp eyeliner, mascara, and a subtle blush. She is dressed in a tight, off-the-shoulder ribbed {argument name=\"dress color\" default=\"white\"} mini dress; both the straight neckline and the long sleeves are finished with a thick, fluffy white faux fur trim. She accessorizes with a thick silver rhinestone choker, small earrings, and strappy silver rhinestone stiletto sandals. Her pose is slightly angled: her left arm extends downward to support her weight, her right hand rests softly on her leg, and her legs are bent, tucked to the side, and slightly crossed, while she looks directly into the lens. The luxurious car interior features plush beige and black diamond-stitched quilted leather seats and hanging black seatbelts, with dark windows indicating a late-night party atmosphere. The scene is lit by harsh, direct frontal flash typical of paparazzi or nightlife photography, creating strong specular highlights on her skin and clothing, and casting sharp, dramatic shadows that emphasize the textures of the ribbed dress, the faux fur, and the leather. Shot with a {argument name=\"lens type\" default=\"35mm\"} lens, f/8 aperture, ISO 100, and 1/160s shutter speed for relentless sharp focus and a perfectly frozen scene against the darkened ambient light. Glamorous, alluring, and highly detailed. Aspect ratio 9:16.",
+    "title": "Night Editorial Fashion Photography",
+    "description": "A high-fashion editorial prompt for a paparazzi-style night shot featuring a glamorous subject in a luxury vehicle with harsh flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339794_t8beh8_HIe3GxaWUAAI3Lw.jpg",
+      "https://cms-assets.youmind.com/media/1779090339883_thhe3j_HIe3GyNWgAAuiQI.jpg",
+      "https://cms-assets.youmind.com/media/1779090339898_o3bnbs_HIe3G2ZWoAA4sAX.jpg",
+      "https://cms-assets.youmind.com/media/1779090340782_sbqkyo_HIe3G_aW4AALIaa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20769,
     "content": "{\n\"reference_face\": {\n\"use_same_face\": true,\n\"identity_preservation\": \"strict\",\n\"notes\": \"Facial structure, skin tone, eyes, nose, lips, and proportions must remain identical to the provided reference image. No facial alterations.\"\n},\n\"scene\": {\n\"location\": \"large football stadium\",\n\"setting\": \"pitch-side after a match\",\n\"time\": \"night\",\n\"atmosphere\": \"energetic, celebratory, stadium lights glowing brightly\",\n\"crowd\": \"fans visible in the background stands cheering\"\n},\n\"camera\": {\n\"type\": \"handheld smartphone camera\",\n\"operator\": \"captured by another person standing a few feet away\",\n\"angle\": \"natural eye-level perspective\",\n\"framing\": \"both subjects centered with full upper bodies visible, stadium and pitch clearly visible behind them\",\n\"lens_distortion\": \"minimal natural smartphone distortion\",\n\"depth_of_field\": \"deep focus, background and subjects both sharp\"\n},\n\"subjects\": [\n{\n\"role\": \"female fan\",\n\"gender\": \"female\",\n\"age_range\": \"early 20s\",\n\"pose\": \"standing beside Cristiano Ronaldo while casually posing for a photo\",\n\"expression\": \"soft confident smile\",\n\"hair\": {\n\"color\": \"dark brown\",\n\"style\": \"little messy straight\"\n},\n\"clothing\": {\n\"top\": \"yellow and blue football jersey\",\n\"bottom\": \"matching athletic shorts\"\n},\n\"details\": {\n\"posture\": \"leaning slightly toward Ronaldo in a natural celebratory pose\"\n}\n},\n{\n\"role\": \"Cristiano Ronaldo\",\n\"gender\": \"male\",\n\"age_range\": \"adult\",\n\"pose\": \"standing next to the fan, giving a thumbs-up gesture\",\n\"expression\": \"friendly smile\",\n\"clothing\": {\n\"kit\": \"yellow and blue football uniform\",\n\"condition\": \"slightly sweaty post-match appearance\"\n}\n}\n],\n\"lighting\": {\n\"primary\": \"stadium floodlights\",\n\"effect\": \"bright and evenly distributed illumination\",\n\"highlights\": \"natural reflections on jerseys, skin, and hair\",\n\"shadows\": \"soft and realistic\"\n},\n\"color_palette\": {\n\"dominant_colors\": [\"yellow\", \"blue\", \"green\"],\n\"accent_colors\": [\"black\", \"white\"],\n\"overall_tone\": \"vivid, cinematic sports atmosphere\"\n},\n\"background\": {\n\"elements\": [\n\"football pitch\",\n\"security staff near sidelines\",\n\"stadium seating\",\n\"fans leaning over railings\",\n\"stadium LED lights\"\n],\n\"clarity\": \"sharp and detailed\"\n},\n\"image_quality\": {\n\"style\": \"photorealistic\",\n\"resolution\": \"high\",\n\"noise\": \"minimal\",\n\"sharpness\": \"clear facial details, realistic jersey textures, natural skin texture\"\n},\n\"negative_prompt\": [\n\"face distortion\",\n\"identity change\",\n\"extra limbs\",\n\"blurred faces\",\n\"cartoon style\",\n\"over-smoothing\",\n\"AI artifacts\",\n\"warped anatomy\",\n\"duplicate body parts\"\n]\n}",
     "title": "Football Fan with Cristiano Ronaldo",

@@ -21,6 +21,168 @@
     "needReferenceImages": true
   },
   {
+    "id": 21026,
+    "content": "A professional prompt for generating realistic, elegant product photography in a {argument name=\"setting\" default=\"natural setting\"}. Each version features a different product showcased on stone surfaces with soft greenery, natural lighting, and minimalist beige tones perfect for {argument name=\"industry\" default=\"beauty, wellness, or lifestyle branding\"} visuals.",
+    "title": "Elegant Product Photography in Natural Setting",
+    "description": "A professional prompt for generating realistic, high-quality product photography with stone textures, soft greenery, and minimalist natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090370385_ma2ov6_HIlfCkObIAAKGT4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21006,
+    "content": "A young male with a {argument name=\"beard style\" default=\"textured short beard\"} stands perfectly centered, facing the camera with a deliberately posed, serious expression characterized by a neutral mouth, relaxed eyebrows, and a piercing direct gaze. He is dressed in striking winter formalwear, wearing a textured dark flat cap, a {argument name=\"coat type\" default=\"heavy gray wool overcoat\"} over a dark vest, a stark white dress shirt, and a diagonally striped gray tie. His right hand, clad in a dark brown leather glove with specular highlights catching on the taut knuckles, grips a metallic umbrella shaft with tense, deliberate force in the lower left quadrant of the frame. The expansive black canopy of the umbrella is heavily weighted to the right side of the composition, creating an asymmetric balance against his rigid posture while shielding him from a crisp, rainy evening. The environment falls away into deep, heavily blurred spatial depth, revealing a dark gray solid concrete floor and a rich outdoor setting where a pristine, ornate streetlamp glows warmly from the top center with multiple bulbs. To the top right, a vintage classical building facade made of smooth matte plaster transitions through an aged gradient of warm terracotta and pale yellow, detailed with architectural columns and arched windows glowing softly from within. The atmosphere is dominated by a stark split-complementary palette of charcoal gray, warm amber, stark white, and deep black, entirely shaped by a highly directional, {argument name=\"lighting type\" default=\"bright, cool-toned single-source hard light\"} striking the subject directly from the front. This intrusive, raw flash creates dramatic, high-contrast illumination with specular highlights gleaming sharply on his forehead, the bridge of his nose, his cheeks, and the scattered rain droplets across the dark umbrella canopy. Harsh, deep black shadows with sharply defined edges are cast directly from the umbrella shaft onto his crisp white chest, from the thick overcoat lapels onto his dark vest, and fall heavily onto the unseen space behind him. Captured as a realistic digital photograph with tack-sharp focus on the subject and a shallow depth of field, the image embraces a paparazzi aesthetic and cinematic night photography influences, complete with visible digital noise and enhanced clarity on the intricate fabric textures. The straight-on composition mimics a DSLR equipped with a 50mm lens at f/2.8 and a fast shutter speed to sync with the bare-bulb on-camera flash, processed with increased contrast to emphasize the harsh flash falloff, a color grade that cools the foreground while warming the ambient background streetlights, and a slight edge-darkening vignette, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Cinematic Paparazzi Night Portrait",
+    "description": "A complex flash-photography style prompt featuring a man in winter formalwear with an umbrella, utilizing harsh lighting and paparazzi aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090353873_nv496b_HIiQm51WcAANlT-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21013,
+    "content": "Ultra-realistic modern studio portrait using the uploaded image as the main subject, {argument name=\"background\" default=\"clean soft beige background\"}, minimal Scandinavian aesthetic, {argument name=\"subject\" default=\"smiling woman in a black knitted sweater\"} posing beside a large artistic low-poly geometric illustration version of herself on the wall, elegant red lipstick, soft cinematic lighting, premium fashion campaign look, high-end editorial photography, detailed facial features, luxury branding composition, handwritten stylish typography {argument name=\"text\" default=\"text “Synthia”\"} below the artwork, balanced composition, warm neutral tones, ultra detailed, realistic skin texture, contemporary gallery poster aesthetic, professional commercial photoshoot style, 8k quality",
+    "title": "Geometric Studio Portrait Art",
+    "description": "An ultra-realistic modern studio portrait featuring a subject posing beside a geometric illustration of themselves on a gallery-style wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090359772_cd9ddf_HIh42VEakAEZ464.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21001,
+    "content": "Ultra-realistic 8K photorealistic cinematic editorial image, 4:5 aspect ratio. A beautiful young woman MUST be walking barefoot along the shoreline on wet sand at the beach. \n\nFull-body framing with feet, legs, and shoes clearly visible. Body orientation slightly angled to the RIGHT relative to the camera while moving forward. Head turned to the RIGHT, head level. Gaze directed to the RIGHT at eye level. Facial expression relaxed and neutral with a soft, natural look.\n\nShe MUST be holding a pair of women’s loafers in her RIGHT hand, hanging downward naturally. LEFT arm relaxed by her side. Gentle ocean waves on the RIGHT side of the frame, shoreline stretching into the distance. Soft warm golden-hour lighting with subtle reflections on wet sand.\n\nOutfit MUST match: lightweight {argument name=\"shirt type\" default=\"white long-sleeve shirt\"} with open collar and loose fit, sleeves slightly rolled; {argument name=\"pants type\" default=\"beige/tan slim-fit pants\"} or wide-leg trousers rolled above the ankles. Barefoot.\n\nAccessories: sunglasses MUST be present, simple elegant wristwatch on LEFT wrist, subtle delicate bracelet on RIGHT wrist. \n\nHairstyle MUST be {argument name=\"hair style\" default=\"feminine and flowing, long wavy\"} or straight hair gently moving in the breeze (match elegant feminine style suitable for the scene).\n\nEnvironment: calm beach, soft waves, lightly clouded sky, warm natural tones. Camera angle eye-level. No cropping tighter than full body.",
+    "title": "Beach Shoreline Lifestyle Photography",
+    "description": "A photorealistic cinematic editorial prompt for a full-body shot of a woman walking on a beach at golden hour, carrying loafers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090351828_y41hgk_HIhxvsPbYAAGs8J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20983,
+    "content": "A split-panel and single-shot fashion editorial showcasing a beautiful woman with wavy, shoulder-length brown hair and {argument name=\"lipstick color\" default=\"deep plum\"} lipstick. She wears an elegant, long-sleeved {argument name=\"fabric\" default=\"velvet\"} dress and a matching wide-brimmed fedora hat. The imagery features a rich, {argument name=\"color palette\" default=\"autumnal\"} color palette across different settings: a fitted burnt-orange dress with a dark green hat in a chic cafe, a royal blue wrap dress with a matching blue hat in a vintage Parisian cafe, a green wrap dress with a navy blue hat on a sunny terrace, and a mustard-yellow dress with a striking purple hat against a solid yellow backdrop. High-end fashion photography, sophisticated and cinematic lighting.",
+    "title": "Jewel-Toned Velvet Fashion Editorial",
+    "description": "An elegant fashion editorial prompt focusing on rich autumnal colors, velvet dresses, and fedora hats in sophisticated cafe settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339927_7kwu8x_HIhinhaXUAEoNKv.jpg",
+      "https://cms-assets.youmind.com/media/1779090339832_y6nv1x_HIhindZWsAAUIJM.jpg",
+      "https://cms-assets.youmind.com/media/1779090339660_71ttbo_HIhinhbWkAABrXg.jpg",
+      "https://cms-assets.youmind.com/media/1779090340733_038ubz_HIhinhdW0AEB8-z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21010,
+    "content": "A highly detailed photorealistic image of a {argument name=\"subject\" default=\"beautiful young woman\"} with fair skin, {argument name=\"hair\" default=\"long voluminous wavy fiery red hair\"} cascading over her shoulders, and striking green eyes, kneeling gracefully on vibrant green grass in an outdoor setting. She is wearing an {argument name=\"outfit\" default=\"elegant form-fitting navy blue dress\"} featuring a bold white geometric abstract pattern, with a deep V-shaped neckline, thin shoulder straps, and high side slits revealing her legs, complemented by a white fabric choker-style scarf wrapped around her neck. Her hands rest gently on her knees as she looks directly at the viewer with a poised expression. The background features modern minimalist concrete architecture with geometric lines and openings, wooden deck flooring, numerous potted green plants and palm trees arranged around the scene, creating a contemporary luxury outdoor garden atmosphere under natural daylight with a clear sky. High resolution, sharp details, cinematic lighting.",
+    "title": "Red Hair Garden Portrait",
+    "description": "A detailed prompt for a photorealistic image of a woman with red hair in a luxury outdoor garden setting with minimalist architecture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090356109_nlgewy_HIhg6t5aEAA1g5n.jpg",
+      "https://cms-assets.youmind.com/media/1779090355998_r469t6_HIhg6rkb0AAGVkm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20997,
+    "content": "Ultra-realistic full-body fashion portrait of her with long dark brown hair and soft wispy bangs, walking through a vast field of blooming Pink wildflowers under natural daylight. She is captured from a slightly low-angle perspective, creating a cinematic editorial feel. She wears an elegant flowing light-Pink chiffon gown with delicate embroidery, sheer billowing sleeves, subtle lace detailing, and realistic fabric movement from a gentle breeze. The dress has a tasteful thigh slit and layered translucent textures that catch the sunlight naturally.\n\nShe holds a fresh handpicked bundle of vivid Red wildflowers close to her chest while walking gracefully through the meadow. Her makeup is soft and refined with natural glowing skin, subtle peach blush, feathered brows, soft brown eyeliner, glossy muted rose lips, and realistic skin texture with visible pores and fine facial detail. Her expression is dreamy and contemplative, looking slightly away from the camera.\n\nGolden sunlight filters through scattered clouds in a bright blue sky, creating realistic highlights and soft shadows across her face, hair, and dress. The wind gently lifts strands of hair and flowing fabric. Foreground flowers are softly blurred with realistic depth of field, while distant wildflowers fade naturally into the background. Cinematic photography, ultra-detailed realism, luxury fashion editorial aesthetic, realistic anatomy, realistic hands, natural proportions, HDR photography, shallow depth of field, shot on a full-frame mirrorless camera, 85mm lens, f/1.8, high dynamic range, photorealistic textures, soft atmospheric lighting, Vogue-style outdoor editorial shoot, no fantasy elements, no CGI look, no anime style.",
+    "title": "Pink Chiffon Gown Wildflower Field",
+    "description": "A cinematic fashion portrait of a woman in a flowing chiffon gown walking through a field of pink wildflowers during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090350171_bw5qbt_HIhbxKOaIAA4cdR.jpg",
+      "https://cms-assets.youmind.com/media/1779090350127_zhiirf_HIhbxJKaAAEU3H_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20999,
+    "content": "{\n \"image_prompt\": {\n \"reference\": {\n \"face_identity\": \"uploaded reference image\",\n \"identity_lock\": true,\n \"pose_lock\": true,\n \"camera_angle_lock\": true,\n \"expression_lock\": true,\n \"face_preservation\": \"100% identical facial structure, proportions, eyes, lips, nose, brows, skin texture\"\n },\n\n \"composition\": {\n \"layout\": \"2x2 collage\",\n \"aspect_ratio\": \"1:1\",\n \"pose_matching\": \"exactly match reference image poses, angles, framing, and body orientation\",\n      \"no_variation_allowed\": true\n    },\n\n    \"panel_1\": {\n      \"view\": \"front-facing portrait\",\n      \"pose\": \"head slightly tilted, eyes toward camera, soft lips\",\n      \"framing\": \"chest-up selfie angle\",\n      \"expression\": \"calm, elegant\",\n      \"match_reference\": true\n    },\n\n    \"panel_2\": {\n      \"view\": \"back view\",\n      \"pose\": \"standing facing mirror, arms raised slightly\",\n      \"focus\": \"back of head and bow hairstyle\",\n      \"framing\": \"upper-body rear shot\",\n      \"match_reference\": true\n    },\n\n    \"panel_3\": {\n      \"view\": \"mirror selfie\",\n      \"pose\": \"phone covering part of face, body angled sideways\",\n      \"framing\": \"waist-up\",\n      \"match_reference\": true\n    },\n\n    \"panel_4\": {\n      \"view\": \"side portrait\",\n      \"pose\": \"head turned over shoulder looking into camera, holding bouquet close to chest\",\n      \"expression\": \"soft romantic gaze\",\n      \"framing\": \"upper torso\",\n      \"match_reference\": true\n    },\n\n    \"subject\": {\n      \"gender\": \"female\",\n      \"ethnicity\": \"{argument name=\"ethnicity\" default=\"Asian\"}\",\n      \"skin_tone\": \"fair with soft blush\"\n    },\n\n    \"hair\": {\n      \"style\": \"long straight hair, half-up\",\n      \"accessory\": \"{argument name=\"hair accessory\" default=\"large cream ribbon bow\"}\",\n      \"placement\": \"exact position as reference image\"\n    },\n\n    \"outfit\": {\n      \"dress\": {\n        \"color\": \"white\",\n        \"pattern\": \"blue floral print\",\n        \"style\": \"{argument name=\"dress style\" default=\"vintage puff-sleeve dress\"}\",\n        \"neckline\": \"square neckline\"\n      },\n      \"jewelry\": [\n        \"pearl necklace\",\n        \"delicate gold pendant\"\n      ]\n    },\n\n    \"environment\": {\n      \"location\": \"vintage-style indoor room\",\n      \"background\": [\n        \"ornate mirror\",\n        \"cream walls\",\n        \"soft floral decor\",\n        \"classic furniture\"\n      ],\n      \"match_reference_background\": true\n    },\n\n    \"lighting\": {\n      \"type\": \"soft indoor daylight\",\n      \"quality\": \"even, gentle, warm\",\n      \"shadow\": \"minimal\",\n      \"match_reference\": true\n    },\n\n    \"photography_style\": {\n      \"style\": \"romantic vintage lifestyle\",\n      \"lens\": \"DSLR portrait lens\",\n      \"depth_of_field\": \"shallow\",\n      \"color_grading\": \"soft pastel\"\n    },\n\n    \"render_quality\": {\n      \"realism\": \"photorealistic\",\n      \"resolution\": \"high\",\n      \"texture_detail\": \"natural skin and fabric detail\",\n      \"no_cartoon\": true\n    }\n  }\n}",
+    "title": "Collage Portrait of Asian Woman",
+    "description": "A structured JSON-style prompt for creating a 2x2 collage of an Asian woman in a vintage floral dress, including mirror selfies and specific hair accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090350508_ni8bcj_HIhOtpKXIAAuwjW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21005,
+    "content": "Ultra realistic skincare advertisement photo of a beautiful {argument name=\"subject\" default=\"Sydney sweeney\"} applying {argument name=\"product\" default=\"green herbal face wash foam\"} on her cheeks with both hands, eyes closed, soft smile, glowing smooth skin, black tied-back hair, wrapped in a {argument name=\"towel color\" default=\"light green\"} towel, luxury modern bathroom with green aesthetic tiles and indoor plants, fresh natural morning light through window, clean spa atmosphere, premium cosmetic commercial photography, detailed skin texture, glossy hydration effect, centered product tube on marble counter in foreground, minimal elegant composition, soft shadows, pastel green and white color palette, shallow depth of field, high-end beauty campaign, DSLR quality, ultra sharp, photorealistic, 8k, natural makeup, calming wellness vibe.",
+    "title": "Realistic Skincare Advertisement Photography",
+    "description": "A detailed prompt for a high-end skincare commercial photo featuring a subject in a luxury spa setting with natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090354010_5wymmn_HIgoneUbIAAIb_c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21008,
+    "content": "A {argument name=\"subject\" default=\"tanned adult male\"} with a short haircut and sharp fade sits perfectly centered in a posed yet confident stance, his face bearing a relaxed, closed-neutral expression with calm eyes and neutral eyebrows. He is dressed in a crisp, unbuttoned {argument name=\"top\" default=\"white button-down shirt\"} and deep black trousers, with his relaxed shoulders resting against the cream cushions of a woven wooden lounge chair. His left hand rests casually on his left thigh with fingers slightly curled downward, revealing a metallic silver watch on his wrist, while his right hand sits elevated on the chair's armrest cushion, the hand draped naturally and organically downward. In the immediate foreground, a weathered table constructed of thick, grey-brown wooden planks holds a small round greenish object, positioned near a pristine white square throw pillow adorned with a green geometric mandala floral pattern. The scene is set on a deck of medium-warm brown and greyish-brown striped wooden planks, establishing a layered, deep spatial depth that leads the eye toward the midground where a pristine, rectangular swimming pool cuts a striking horizontal line, glowing vividly from within with saturated cyan-blue underwater lights against a smooth stone coping edge, flanked by thriving tropical broadleaf plants housed in large, perfectly smooth matte cylindrical concrete planters. Further back, against a meticulously crushed deep black night sky, stands a dominant {argument name=\"architecture\" default=\"two-story modern white villa\"} featuring perfectly smooth painted drywall, warmly lit interior rooms, multiple balconies with geometric wooden railings, a patio umbrella on the upper deck, and pristine white perimeter walls washed in warm golden-yellow architectural up-lighting. The highly directional, intense hard light of a bright frontal flash creates a moody, sophisticated, and affluent evening resort atmosphere, blowing out specular highlights on the man's face and shirt while casting deep black, harsh-edged, short shadows directly behind him onto the chair cushion and sharply under his chin. This raw, dramatic high-contrast lighting drives a vividly saturated complementary color profile that balances the crisp whites and deep blacks against the neon cyan-blue water, warm wood tones, and golden architectural glow. Captured as a straight-on digital photograph utilizing a narrow aperture for a deep depth of field, the image maintains a tack-sharp texture across all focal planes, enhanced by subtle digital noise and meticulous post-processing that boosts the aqua channels and warm luminance, with the entire highly structured luxury scene beautifully framed in a 4:5 aspect ratio.",
+    "title": "Luxury Villa Evening Poolside Portrait",
+    "description": "An exceptionally detailed prompt for a high-contrast evening portrait of a man at a luxury villa poolside with professional flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090355348_bl6wp3_HIgahvRXMAAAEch.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21015,
+    "content": "Ultra-realistic full-body fashion portrait of her with {argument name=\"hair\" default=\"long dark brown hair and soft wispy bangs\"}, walking through a {argument name=\"location\" default=\"vast field of blooming blue wildflowers\"} under natural daylight. She is captured from a slightly low-angle perspective, creating a cinematic editorial feel. She wears an {argument name=\"outfit\" default=\"elegant flowing light-blue chiffon gown\"} with delicate embroidery, sheer billowing sleeves, subtle lace detailing, and realistic fabric movement from a gentle breeze. The dress has a tasteful thigh slit and layered translucent textures that catch the sunlight naturally.\n\nShe holds a fresh handpicked bundle of vivid blue wildflowers close to her chest while walking gracefully through the meadow. Her makeup is soft and refined with natural glowing skin, subtle peach blush, feathered brows, soft brown eyeliner, glossy muted rose lips, and realistic skin texture with visible pores and fine facial detail. Her expression is dreamy and contemplative, looking slightly away from the camera.\n\nGolden sunlight filters through scattered clouds in a bright blue sky, creating realistic highlights and soft shadows across her face, hair, and dress. The wind gently lifts strands of hair and flowing fabric. Foreground flowers are softly blurred with realistic depth of field, while distant wildflowers fade naturally into the background. Cinematic photography, ultra-detailed realism, luxury fashion editorial aesthetic, realistic anatomy, realistic hands, natural proportions, HDR photography, shallow depth of field, shot on a full-frame mirrorless camera, 85mm lens, f/1.8, high dynamic range, photorealistic textures, soft atmospheric lighting, Vogue-style outdoor editorial shoot, no fantasy elements, no CGI look, no anime style.",
+    "title": "Flowing Gown Wildflower Meadow",
+    "description": "A cinematic fashion editorial portrait of a woman in a light-blue chiffon gown walking through a field of blue wildflowers at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090361303_kokji8_HIgN_mGaQAAh65m.jpg",
+      "https://cms-assets.youmind.com/media/1779090361259_hxz1gy_HIgN_zXbkAAsoVh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20994,
+    "content": "Elegant fashion portrait of a young woman leaning against a blush pink textured wall with tropical palm leaf shadows, wearing a soft blush pink wrap blouse with layered ruffle sleeves and flowing sash detail, paired with white high-waisted wide-leg pants with bold black polka dots, loose braided wavy hairstyle, natural glam makeup, warm golden sunlight, terracotta tiled floor, Mediterranean resort vibe, soft feminine aesthetic, editorial fashion photography, full-body composition, realistic skin texture, shallow depth of field, ultra-detailed, high fashion magazine style..",
+    "title": "Blush Pink Fashion Editorial",
+    "description": "An elegant fashion portrait of a woman in a blush pink wrap blouse and polka dot pants against a Mediterranean wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090348924_qsbty9_HIfdRk6a4AAhFf4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21009,
+    "content": "Exploded view {argument name=\"camera\" default=\"Canon DSLR camera\"} infographic, fully disassembled camera parts floating in perfect alignment, ultra detailed breakdown of every internal and external component, Canon DSLR body separated into layers showing lens mount, CMOS sensor, shutter mechanism, mirror assembly, pentaprism, autofocus module, processor chip, motherboard, battery compartment, memory card slot, buttons, dials, LCD display, internal wiring, cooling structure, lens elements, screws and mechanical parts, futuristic infographic labels connected with clean white lines, cinematic {argument name=\"branding\" default=\"red and black Canon branding\"} aesthetic, {argument name=\"background\" default=\"dark studio background\"} background, glowing HUD interface elements, ultra realistic product engineering visualization, premium industrial design presentation, high precision mechanical detailing, floating exploded technical render, dramatic lighting, glossy reflections, modern typography, luxury technology showcase, creator and photography focused design, cyberpunk inspired UI overlays, realistic textures and materials, depth of field, highly organized component layout, engineering blueprint meets commercial advertisement style, 8k hyper realistic infographic poster, professional tech magazine aesthetic",
+    "title": "Exploded View DSLR Infographic",
+    "description": "A technical prompt for a futuristic exploded view infographic of a DSLR camera with HUD elements and mechanical detailing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090356579_1os64q_HIfQ3GyaAAEPWCI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20989,
+    "content": "A structured data-driven prompt to generate fitness photography of Sydney Sweeney and Millie Bobby Brown, including specific details on apparel, poses, and professional background.",
+    "title": "Celebrity Fitness Photo Shoot",
+    "description": "A detailed structured prompt for generating fitness-themed photography of celebrities Sydney Sweeney and Millie Bobby Brown in various poses and athletic wear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090344020_kvo7pi_HIfI0Q0WAAAgqEb.jpg",
+      "https://cms-assets.youmind.com/media/1779090344033_5l1yqv_HIfIzpsWQAABVSx.jpg",
+      "https://cms-assets.youmind.com/media/1779090343983_cz0t40_HIfIzpvWMAApRXA.jpg",
+      "https://cms-assets.youmind.com/media/1779090344610_zsqtp1_HIfIzyRXYAA1ntH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20984,
+    "content": "Editorial night fashion photography, medium shot of {argument name=\"celebrity name\" default=\"Sadie Sink\"} gracefully reclining in the back seat of a luxury vehicle. She has a curvy, full-bodied silhouette and styled loose, voluminous wavy hair. She wears a confident, captivating expression with lips softly parted. Her glowing, natural skin features realistic texture and visible pores, enhanced by glamorous party makeup including glossy red lips, sharp eyeliner, mascara, and a subtle blush. She is dressed in a tight, off-the-shoulder ribbed {argument name=\"dress color\" default=\"white\"} mini dress; both the straight neckline and the long sleeves are finished with a thick, fluffy white faux fur trim. She accessorizes with a thick silver rhinestone choker, small earrings, and strappy silver rhinestone stiletto sandals. Her pose is slightly angled: her left arm extends downward to support her weight, her right hand rests softly on her leg, and her legs are bent, tucked to the side, and slightly crossed, while she looks directly into the lens. The luxurious car interior features plush beige and black diamond-stitched quilted leather seats and hanging black seatbelts, with dark windows indicating a late-night party atmosphere. The scene is lit by harsh, direct frontal flash typical of paparazzi or nightlife photography, creating strong specular highlights on her skin and clothing, and casting sharp, dramatic shadows that emphasize the textures of the ribbed dress, the faux fur, and the leather. Shot with a {argument name=\"lens type\" default=\"35mm\"} lens, f/8 aperture, ISO 100, and 1/160s shutter speed for relentless sharp focus and a perfectly frozen scene against the darkened ambient light. Glamorous, alluring, and highly detailed. Aspect ratio 9:16.",
+    "title": "Night Editorial Fashion Photography",
+    "description": "A high-fashion editorial prompt for a paparazzi-style night shot featuring a glamorous subject in a luxury vehicle with harsh flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779090339794_t8beh8_HIe3GxaWUAAI3Lw.jpg",
+      "https://cms-assets.youmind.com/media/1779090339883_thhe3j_HIe3GyNWgAAuiQI.jpg",
+      "https://cms-assets.youmind.com/media/1779090339898_o3bnbs_HIe3G2ZWoAA4sAX.jpg",
+      "https://cms-assets.youmind.com/media/1779090340782_sbqkyo_HIe3G_aW4AALIaa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20743,
     "content": "{\"generation_request\": {\"meta_data\": {\"task_type\": \"luxury_butter_yellow_skincare_closeup\", \"language\": \"en\", \"style\": \"ultra_photorealistic_beauty_selfie_editorial\", \"version\": \"v2.0_CLEAN_MINIMAL_PRODUCT\"}, \"output\": {\"aspect_ratio\": \"9:16\", \"orientation\": \"vertical\", \"quality\": \"ultra high resolution, premium realistic beauty finish, sharp facial details, natural skin texture\"}, \"scene\": {\"concept\": \"close-up luxury skincare selfie with a soft pastel butter yellow spa aesthetic\", \"environment\": \"minimal clean bathroom or spa setting, soft cream background, bright diffused natural light, calm beauty atmosphere\", \"lighting\": \"soft front-facing beauty light, glossy highlights on hydrated skin, gentle warm reflections, no harsh shadows\", \"mood\": \"sunny, glowy, optimistic, luxurious, sunday morning spa energy\"}, \"subject\": {\"description\": \"young woman in an extreme close-up vertical selfie crop, face filling most of the frame, realistic facial proportions, natural beauty, expressive eyes, long lashes, soft full lips, natural brows, visible pores and authentic skin texture\", \"pose\": \"slightly playful pout, holding a minimal white skincare tube gently near the lips, bright candid selfie feeling\", \"skin\": \"glowy hydrated face covered with a translucent shimmering butter yellow vitamin C glow mask, wet glossy texture, fine iridescent sparkle, realistic product thickness across forehead, cheeks, nose and chin\", \"eye_masks\": \"pastel butter yellow sun-shaped under-eye masks with subtle tone-on-tone sun ray pattern, glossy hydrogel finish, placed naturally under both eyes\", \"hair_and_towel\": \"hair fully wrapped in a fluffy pastel butter yellow towel, realistic towel fibers, soft plush volume, cozy spa texture\", \"wardrobe\": \"matching pastel butter yellow fluffy spa robe visible at the bottom of the frame, plush fabric texture\"}, \"product\": {\"description\": \"minimal matte white skincare tube held near the lips, completely plain and unmarked\", \"texture\": \"smooth soft-touch cosmetic packaging, realistic cap ridges, subtle clean highlights\"}, \"camera_style\": {\"framing\": \"extreme close-up vertical selfie crop, slightly off-center natural composition, candid beauty framing\", \"lens\": \"smartphone macro beauty lens look blended with high-end editorial clarity\", \"focus\": \"sharp eyes, lashes, under-eye masks, lips, hand, and glossy skincare texture; soft background blur\", \"details\": \"realistic pores, tiny skin imperfections, natural shine, detailed towel fibers, glossy mask sparkle, no plastic smoothing\"}, \"color_palette\": [\"pastel butter yellow\", \"soft cream\", \"pearl white\", \"glossy honey\", \"subtle iridescent sparkle\", \"warm natural skin tones\"], \"negative_prompt\": [\"visible product markings\", \"busy packaging\", \"cluttered background\", \"plastic skin\", \"over-smoothed face\", \"blurred eyes\", \"melted facial features\", \"uneven eye masks\", \"bad anatomy\", \"extra fingers\", \"warped hand\", \"dirty towel\", \"low resolution\", \"cartoon\", \"anime\", \"3D render\", \"overexposed face\", \"harsh shadows\"]}}",
     "title": "Luxury Skincare Selfie Concept",
