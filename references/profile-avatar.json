@@ -10,6 +10,67 @@
     "needReferenceImages": false
   },
   {
+    "id": 21245,
+    "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic cinematic portrait of the same man standing inside a luxurious hotel elevator with mirrored golden walls. He wears a {argument name=\"outfit color\" default=\"black\"} double-breasted suit, black shirt, dark sunglasses, and leather gloves. He slightly adjusts his tie while looking at his own reflection, but his eyes are still visible toward the camera through the mirror. His expression is calm, arrogant, elegant, and mysterious. Background: gold elevator interior, mirror reflections, soft luxury lighting, subtle cinematic distortion from reflections. Lighting: warm golden overhead lights, sharp suit texture, high-end fashion editorial mood. Composition: vertical 4:5, symmetrical framing, multiple reflections but only one main face should remain clear. No text, no logo, no watermark.",
+    "title": "Cinematic Golden Elevator Portrait",
+    "description": "A high-end cinematic portrait of a man in a black suit inside a luxurious gold elevator, emphasizing reflections and mysterious lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176168151_olv5q9_HImx8ADXcAAPcCM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21249,
+    "content": "Ultra-realistic beach selfie portrait of a {argument name=\"hair color\" default=\"blonde\"} woman standing in crystal-clear tropical ocean water, holding a ripe {argument name=\"fruit\" default=\"mango\"} against her cheek, palm trees and white sand beach in the background, bright natural sunlight, wet tousled hair, soft freckles, minimal natural makeup, {argument name=\"swimsuit color\" default=\"teal\"} halter swimsuit, casual luxury travel aesthetic, photorealistic skin texture, high-detail tropical paradise atmosphere, smartphone selfie composition, shallow depth of field, vibrant natural colors",
+    "title": "Tropical Beach Mango Selfie Portrait",
+    "description": "A photorealistic smartphone selfie of a woman holding a mango at a tropical beach paradise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176261318_eev8v9_HInNvKibMAAbQ1_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21244,
+    "content": "{\"prompt\": \"Ultra-realistic beach selfie portrait of a blonde woman standing in crystal-clear tropical ocean water, holding a ripe mango against her cheek, palm trees and white sand beach in the background, bright natural sunlight, wet tousled blonde hair, soft freckles, minimal natural makeup, teal halter swimsuit, casual luxury travel aesthetic, photorealistic skin texture, high-detail tropical paradise atmosphere, smartphone selfie composition, shallow depth of field, vibrant natural colors\", \"negative_prompt\": \"low resolution, blurry face, distorted anatomy, extra fingers, unrealistic skin texture, cartoon, anime, oversaturated colors, duplicate features, bad hands, artificial background\", \"style\": \"photorealistic\", \"aspect_ratio\": \"2:3\", \"camera\": {\"type\": \"smartphone selfie\", \"lighting\": \"bright natural sunlight\", \"depth_of_field\": \"shallow\"}, \"mood\": \"tropical, fresh, effortless, vacation luxury\", \"quality\": \"high\"}",
+    "title": "Tropical Beach Mango Selfie",
+    "description": "An ultra-realistic beach selfie of a blonde woman in tropical water holding a mango, capturing a luxury travel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176168194_2ztth0_HImZ1PYbUAAqYOv.jpg",
+      "https://cms-assets.youmind.com/media/1779176168183_bcrxbo_HImZ1PZbkAAgZi3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21263,
+    "content": "A young male sits centered in the driver's seat of a car, facing the camera with level shoulders in a deliberately posed, confident posture. His short, blonde to light-brown brushed-back hair exhibits natural texture and subtle flyaways. He wears an olive green puffy jacket with a silver zipper layered over a black ribbed zip-up sweater, with a pristine black woven seatbelt crossing his chest. His expression features a subtle, confident closed smile and a direct gaze with a relaxed squint, while his arms extend out of frame, implying he is holding the camera. Surrounding him is the deep spatial interior of the vehicle, constructed of smooth glass and slightly textured matte charcoal black leather and plastic trim. To his right in the midground rests a pristine black leather seat headrest with visible stitching. Overhead, a dominant panoramic sunroof enclosed in a black frame displays perfectly clear glass, while the distant background through the rear side window reveals weathered bare trees, suggesting late autumn or winter. The calm yet energetic mood is driven by highly directional, hard 45-degree golden natural window light that illuminates the right side of his face, placing distinct highlights on his right cheekbone, nose bridge, jawline, and jacket collar. This creates high contrast with deep black, harshly defined shadows falling under his jaw, inside the collar, across the unlit left side of his face, and deep into the car's interior. A split-complementary palette dominates, contrasting his warm skin and the olive green jacket against the charcoal blacks and a bright sky blue expanse filled with white cumulus clouds visible through the sunroof. The tack sharp, realistic digital photograph is captured from a slightly low angle using a smartphone equivalent 24mm lens at f/1.8 to f/2.2, a 1/1000s shutter speed, and ISO 100, featuring a deep depth of field with focus firmly locked on his eyes. Post-processing enhances the golden hour lifestyle aesthetic by deepening the interior blacks, slightly boosting the saturation of the sky and jacket, and applying digital noise grain and sharpening to his facial features and hair, beautifully framed in a 3:4 aspect ratio.",
+    "title": "Golden Hour Car Driver Portrait",
+    "description": "A descriptive prompt for a realistic portrait of a man in a car, capturing detailed lighting, car interior textures, and a specific golden hour mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176276238_nxo96c_HIlkeuGXgAA5y9N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21262,
+    "content": "{\n  \"type\": \"{argument name=\"photo type\" default=\"ultra_realistic_iphone_photo\"}\",\n  \"style\": \"{argument name=\"style\" default=\"rainy night taxi realism\"}\",\n\n  \"expression\": {\n    \"description\": \"quiet reflective expression while staring outside taxi window\",\n    \"FACS\": [\n      \"AU43 (Relaxed eyes)\",\n      \"AU15 (Subtle lip corner depressor)\",\n      \"AU17 (Minor chin tension)\",\n      \"AU45 (Natural blinking softness)\"\n    ]\n  },\n\n  \"skin\": \"soft low-light skin texture, realistic under-eye detail, uneven skin tone\",\n\n  \"hair\": \"short afro slightly compressed from hood\",\n\n  \"outfit\": \"{argument name=\"outfit\" default=\"dark navy windbreaker over faded orange hoodie\"}\",\n\n  \"action\": \"leaning against taxi window while city lights reflect across face\",\n\n  \"environment\": {\n    \"location\": \"moving taxi at night during light rain\",\n    \"details\": [\n      \"rain droplets on glass\",\n      \"blurred headlights\",\n      \"street reflections\",\n      \"dark interior shadows\"\n    ]\n  },\n\n  \"lighting\": \"streetlights mixed with passing car reflections and neon spill\",\n\n  \"camera\": {\n    \"device\": \"iPhone front camera\",\n    \"angle\": \"close casual framing\",\n    \"quality\": \"soft blur, night grain, realistic sensor noise\"\n  }\n}",
+    "title": "Realistic iPhone Photo Rainy Taxi Night",
+    "description": "A highly detailed prompt for an ultra-realistic iPhone-style photo depicting a pensive moment inside a moving taxi on a rainy night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176275826_oo01aw_HIk7gfzXUAAwUXb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21252,
+    "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"likeness_calibration\": \"{argument name=\"celebrity\" default=\"Sadie Sink\"}\",\n      \"facial_features\": {\n        \"description\": \"defined zygomatic bones, structured jawline, realistic skin pores/fine hair/moles/freckles\",\n        \"eyes\": \"vibrant brown iris, intricate radial pattern, heavy limbal ring, wet clumped lashes, sharp corneal speculars\",\n        \"expression\": \"smiling, slightly parted hydrated lips with vermilion texture\",\n        \"skin_state\": \"drenched, non-uniform water droplets, visible SSS on ears/nose tip\"\n      },\n      \"hair\": {\n        \"color\": \"{argument name=\"hair color\" default=\"signature red\"}\",\n        \"state\": \"soaked, slicked back, stray wet tendrils framing face/neck/collarbones\",\n        \"texture\": \"clumped wet fibers, high-gloss specular highlights\"\n      },\n      \"body\": {\n        \"type\": \"refined hourglass, natural proportions\",\n        \"details\": \"detailed clavicles/suprasternal notch, skin tension on shoulders, 3D refractive water droplets with caustics\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"description\": \"{argument name=\"outfit\" default=\"white heavy-gauge cotton terry towel wrapped tightly around chest\"}\",\n    \"fabric_physics\": \"looped pile weave, localized saturation/wet patches, realistic fiber light interaction\"\n  },\n  \"pose_action\": {\n    \"description\": \"medium close-up, leaning forward 30° toward lens (selfie perspective), one arm extended holding camera (off-screen), direct gaze\",\n    \"fidelity_check\": \"exact anatomical weight distribution/posture match to reference\"\n  },\n  \"scene\": {\n    \"environment\": \"high-end modern bathroom\",\n    \"background_details\": \"out-of-focus steamy shower glass with condensation, written 'Keor' on damp glass, vertical streaks, neutral grey/white porcelain tiles\",\n    \"reflection_rules\": \"consistent ray-traced reflections, no ghosting/warping\"\n  },\n  \"lighting\": {\n    \"type\": \"multi-point cinematic bathroom\",\n    \"sources\": [\n      \"diffused overhead LED 5500K moderate\",\n      \"softbox rim light highlighting moisture edges\"\n    ],\n    \"shadows\": \"soft contact shadows under chin/collarbones\"\n  },\n  \"camera\": {\n    \"specs\": \"8k RAW, 9:16 vertical\",\n    \"lens\": \"35mm f/1.8 wide-angle prime, shallow DoF\",\n    \"settings\": \"ISO 100, HDR enabled\",\n    \"negative_constraints\": [\n      \"no logos/text\",\n      \"no beautify smoothing/plastic skin\",\n      \"no extra limbs/distorted fingers\",\n      \"no watermarks\",\n      \"no makeup/airbrushing\"\n    ]\n  }\n}",
+    "title": "Ultra-Realistic Wet Bathroom Selfie",
+    "description": "A highly technical JSON prompt designed for extreme photorealism, featuring detailed skin textures, wet hair, and cinematic bathroom lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176267341_uopi6h_HIkWVlMbEAAqtru.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21007,
     "content": "Use the uploaded reference image as the exact facial identity reference for the character. Maintain the same facial structure, curly hairstyle, beard shape, skin tone, jawline, eye shape, and overall appearance consistency exactly as the reference.\nCreate a cinematic nighttime portrait photoshoot with a warm moody aesthetic. The man is wearing an {argument name=\"shirt color\" default=\"olive green\"} casual shirt with sleeves rolled up, standing outdoors near a {argument name=\"location\" default=\"luxury rooftop or beachside café\"} during blue hour. The background should feature soft golden bokeh lights, blurred wooden cabanas, and a deep cloudy evening sky.\nGenerate a 3 frame vertical collage:\nBack side pose with the man touching his hair naturally while slightly looking down.\nClose up cinematic portrait with a soft confident smile and shallow depth of field.\nMedium shot with relaxed posture looking sideways naturally.\nStyle should feel ultra realistic, DSLR photography, 85mm lens look, creamy background blur, warm cinematic lighting, realistic skin texture, soft shadows, high detail, luxury lifestyle vibe, Instagram editorial aesthetic, natural color grading, premium portrait photography.\nAspect ratio 4:5, ultra detailed, photorealistic, shallow depth of field, cinematic composition.",
     "title": "Cinematic Identity-Consistent Portrait Collage",

@@ -1,11 +1,11 @@
 [
   {
     "id": 21026,
-    "content": "A professional prompt for generating realistic, elegant product photography in a {argument name=\"setting\" default=\"natural setting\"}. Each version features a different product showcased on stone surfaces with soft greenery, natural lighting, and minimalist beige tones perfect for {argument name=\"industry\" default=\"beauty, wellness, or lifestyle branding\"} visuals.",
-    "title": "Elegant Product Photography in Natural Setting",
-    "description": "A professional prompt for generating realistic, high-quality product photography with stone textures, soft greenery, and minimalist natural lighting.",
+    "content": "A professional prompt for generating realistic, elegant {argument name=\"product type\" default=\"beauty and wellness\"} product photography in a natural setting. Featuring products showcased on {argument name=\"surface\" default=\"stone surfaces\"} with soft greenery, natural lighting, and minimalist {argument name=\"color palette\" default=\"beige\"} tones perfect for branding visuals.",
+    "title": "Minimalist Product Photography on Stone",
+    "description": "A professional prompt for elegant product photography featuring stone surfaces, greenery, and minimalist beige tones.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779090370385_ma2ov6_HIlfCkObIAAKGT4.jpg"
+      "https://cms-assets.youmind.com/media/1779176251176_yt3z24_HIlfCkObIAAKGT4.jpg"
     ],
     "needReferenceImages": false
   },

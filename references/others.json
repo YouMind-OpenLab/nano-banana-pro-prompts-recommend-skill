@@ -13,6 +13,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 21268,
+    "content": "A pencil sketch utilizing a {argument name=\\\"effect\\\" default=\\\"double exposure effect\\\"} to merge two facial profiles of the same {argument name=\\\"subject\\\" default=\\\"young man\\\"} with a serene landscape. The left profile looks upward and into the distance with a hopeful or contemplative expression, while the right profile is cast downward in a look of introspection or melancholy. Within the silhouette of their necks and shoulders, a {argument name=\\\"landscape\\\" default=\\\"detailed nature scene\\\"} unfolds, featuring a lone traveler with a backpack walking along a path next to a calm lake, surrounded by pine trees, distant mountains, and a flock of birds flying across a textured sky.",
+    "title": "Double Exposure Pencil Sketch",
+    "description": "A unique prompt for a double exposure pencil sketch merging male profiles with a serene nature landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176280555_wlql7f_HIndzX0WgAACwpK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21277,
+    "content": "{argument name=\"style\" default=\"A vibrant, flat illustration of various colorful fish swimming against a light blue background. The fish are depicted in a whimsical, cartoonish style with bold outlines and simple patterns\"}. They are arranged in a scattered, playful composition, with some overlapping and others swimming in different directions. The color palette is bright and cheerful, featuring {argument name=\"colors\" default=\"shades of yellow, pink, orange, blue, green, and gray\"}. Each {argument name=\"subject\" default=\"fish\"} has a unique pattern, such as stripes, dots, or wavy lines, adding to the overall playful and energetic feel of the artwork.",
+    "title": "Vibrant Whimsical Fish Illustration",
+    "description": "A cheerful, flat illustration prompt for various colorful cartoonish fish swimming in a whimsical composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176288042_9fsd18_HIELVO7XQAAAjX1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20755,
     "content": "Ultra-detailed origami paper art portrait of {argument name=\"subject\" default=\"Cristiano Ronaldo\"}, entirely crafted from {argument name=\"material\" default=\"folded paper layers and geometric origami shapes\"}, realistic paper texture with visible creases and handcrafted folds, low-poly facial structure made from intricately folded paper pieces, elegant Japanese-inspired aesthetic, layered paper background with {argument name=\"background\" default=\"cherry blossoms, mountains, sun motifs, and abstract folded patterns\"}, luxurious gold, black, cream, and white color palette, Ronaldo wearing a football jersey made of folded paper fabric, cinematic studio lighting, ultra realistic shadows and depth, highly detailed handcrafted paper sculpture look, premium gallery artwork style, sharp focus, sophisticated composition, tactile paper texture, masterpiece quality, 8k ultra detailed, toy-free, no plastic, no CGI look",
     "title": "Cristiano Ronaldo Origami Paper Art",

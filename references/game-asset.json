@@ -1,5 +1,26 @@
 [
   {
+    "id": 21251,
+    "content": "The Last City Above the Storm A gigantic floating {argument name=\"style\" default=\"cyberpunk megacity\"} suspended thousands of feet above an endless storm-covered planet, colossal waterfalls pouring off the edges into lightning clouds below, neon highways weaving between skyscrapers, {argument name=\"element\" default=\"giant holographic whales\"} swimming through the sky, tiny aircraft leaving glowing trails through rain and fog, cinematic dusk lighting, reflective wet metal surfaces, atmospheric perspective, ultra-detailed futuristic architecture, {argument name=\"palette\" default=\"dark moody palette with electric cyan and magenta highlights\"}, breathtaking scale, hyper-realistic sci-fi realism.",
+    "title": "Cyberpunk Floating Megacity",
+    "description": "A sci-fi prompt for a colossal floating cyberpunk city above a storm planet, featuring neon highways and holographic whales.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176267499_h42upv_HImf9Ola8AA-E9W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21253,
+    "content": "Ultra-cute kawaii chibi sticker sheet featuring a tiny anime girl in an {argument name=\"costume\" default=\"oversized fluffy blue penguin hoodie costume\"} with yellow penguin beak hood, soft plush texture, tiny yellow feet, short black bob haircut with bangs and blue hairclips, huge sparkling anime eyes, sitting pose, pastel aesthetic, clean white background, adorable emotional expressions, 3D toy-like rendering, ultra detailed fur fabric, glossy eyes, soft studio lighting, Instagram sticker pack style.\n\nCreate a {argument name=\"grid layout\" default=\"4x3 grid\"} of different poses and emotions with cute handwritten captions above each character such as {argument name=\"captions\" default=\"“warm hugs!”, “sending love!”, “sleepy baby”\"}.\n\nEach panel should have:\n\nDifferent hand gestures and facial expressions\n\nTiny floating hearts, stars, sparkles, sleepy symbols, or cute doodles\n\nChibi proportions with oversized head and tiny body\n\nPlush penguin hoodie with fluffy white belly texture\n\nSoft pastel kawaii color palette\n\nConsistent character design across all panels\n\nHighly polished 3D cartoon render style similar to premium kawaii Instagram sticker packs\n\nSymmetrical layout with clean spacing\n\nCute rounded typography above every pose\n\nCozy wholesome mood, collectible sticker aesthetic\n\nStyle references: kawaii Japanese mascot stickers, Sanrio-inspired, ultra detailed 3D chibi art, Pixar-quality shading, soft shadows, toy-like textures, social media viral sticker sheet aesthetic, high resolution, centered composition.",
+    "title": "Kawaii Chibi Sticker Sheet",
+    "description": "A comprehensive prompt for a 4x3 grid sticker sheet of a cute anime girl in a penguin costume, using a 3D toy-like aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176268527_gn0xcm_HImdBZSbMAA_gZ4.jpg",
+      "https://cms-assets.youmind.com/media/1779176268473_qy5o4m_HImdBZaasAA4E6c.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21018,
     "content": "a {argument name=\"subject\" default=\"knight\"} in the {argument name=\"location\" default=\"tunnel\"}",
     "title": "Knight in Tunnel Scene",

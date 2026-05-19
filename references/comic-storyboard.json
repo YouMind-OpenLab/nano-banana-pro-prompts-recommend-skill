@@ -1,5 +1,15 @@
 [
   {
+    "id": 21261,
+    "content": "A close-up shot of a {argument name=\"subject\" default=\"young woman with curly blonde hair tied back\"}, wearing a {argument name=\"clothing\" default=\"navy blue floral dress\"}, sitting at an outdoor restaurant table. She has a worried and stressed expression as she eats a large {argument name=\"food item\" default=\"ice cream cone with sprinkles\"}, which has visibly dripped down the front of her dress and left smudges around her mouth. The background is a softly blurred, warm patio setting with string lights and other patrons.",
+    "title": "Stressed Woman with Drip Ice Cream",
+    "description": "A realistic portrait prompt depicting a young woman in a floral dress looking stressed as her large ice cream cone drips onto her clothes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176275510_7311hg_HImy3f8XQAAfC52.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20986,
     "content": "{argument name=\"subject\" default=\"Astronaut\"} Discovering a {argument name=\"discovery\" default=\"Dead God\"} Lone astronaut standing inside an abandoned alien temple on a dark moon discovering the gigantic petrified skeleton of a forgotten cosmic god stretching across the horizon, glowing galaxies visible through cracks in the ceiling, floating debris in low gravity, mysterious runes illuminating ancient black stone walls, cinematic shadows and {argument name=\"lighting\" default=\"blue\"} volumetric lighting, breathtaking sense of scale, ultra-detailed sci-fi horror realism, highly atmospheric, surreal and haunting masterpiece.",
     "title": "Astronaut and Petrified Cosmic God",

@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 21278,
+    "content": "A {argument name=\"style\" default=\"modern editorial collage poster design\"}. The background consists of four overlapping rounded panels filled with cinematic black and white photographs of a {argument name=\"subject\" default=\"young woman wearing sunglasses\"} in different fashion poses. The foreground features a high-quality color cutout of the same young woman wearing an {argument name=\"outfit\" default=\"oversized white shirt, black pants, and sunglasses\"} in a confident fashion pose.",
+    "title": "Modern Fashion Editorial Collage Poster",
+    "description": "A modern editorial poster design prompt featuring overlapping rounded panels of black and white cinematic photos with a colorful foreground cutout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779176289425_laoip6_HIkkP1sXIAA8Hg0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20986,
     "content": "{argument name=\"subject\" default=\"Astronaut\"} Discovering a {argument name=\"discovery\" default=\"Dead God\"} Lone astronaut standing inside an abandoned alien temple on a dark moon discovering the gigantic petrified skeleton of a forgotten cosmic god stretching across the horizon, glowing galaxies visible through cracks in the ceiling, floating debris in low gravity, mysterious runes illuminating ancient black stone walls, cinematic shadows and {argument name=\"lighting\" default=\"blue\"} volumetric lighting, breathtaking sense of scale, ultra-detailed sci-fi horror realism, highly atmospheric, surreal and haunting masterpiece.",
     "title": "Astronaut and Petrified Cosmic God",
