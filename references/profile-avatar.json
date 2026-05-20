@@ -10,6 +10,90 @@
     "needReferenceImages": false
   },
   {
+    "id": 21468,
+    "content": "Ultra-realistic portrait of the same {argument name=\"subject\" default=\"beautiful Korean girl\"} from the previous images, maintaining the exact same facial appearance, soft Korean beauty aesthetic, glossy eyes, natural blush makeup, silky long black hair, youthful features, and realistic skin texture consistency.\nShe is standing inside a {argument name=\"location\" default=\"quiet Japanese city bus\"} during daytime, posing naturally near the window seats while looking directly at the camera with a soft calm smile. Relaxed elegant posture with one hand lightly holding the overhead rail or seat handle, candid slice-of-life vibe. Wearing a fitted long black ribbed top with full sleeves and light gray washed jeans, stylish casual fashion matching the modern urban atmosphere.\nAuthentic Japanese bus interior with clean patterned seats, hanging hand straps, Japanese signs and route displays, large sunlit windows, subtle reflections, metallic poles, and realistic Japanese city scenery visible outside the windows. Warm natural daylight streaming through the bus windows creating cinematic highlights and soft realistic shadows across the bus interior.\nModern Japanese slice-of-life atmosphere, cozy public transport aesthetic, calm everyday mood, shallow depth of field, cinematic composition, highly detailed, photorealistic environment, realistic DSLR photography, luxury lifestyle editorial feel, soft glow, intimate candid travel moment.",
+    "title": "Korean Girl Japanese Bus Travel",
+    "description": "A slice-of-life prompt featuring a beautiful Korean girl on a Japanese city bus with cinematic lighting and urban details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262464015_jw9ets_HIsAANrasAAMFok.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21465,
+    "content": "use image1 exactly as the main identity anchor\n\nUltra-realistic portrait of the same {argument name=\"subject\" default=\"beautiful Korean girl\"} from the previous images, maintaining the exact same facial appearance, soft Korean beauty aesthetic, glossy eyes, natural blush makeup, silky long black hair, youthful features, and realistic skin texture consistency.\nShe is standing inside a {argument name=\"setting\" default=\"quiet Japanese city bus\"} during daytime, posing naturally near the window seats while looking directly at the camera with a soft calm smile. Relaxed elegant posture with one hand lightly holding the overhead rail or seat handle, candid slice-of-life vibe. Wearing a {argument name=\"outfit\" default=\"fitted long black ribbed top with full sleeves and light gray washed jeans\"}, stylish casual fashion matching the modern urban atmosphere.\nAuthentic Japanese bus interior with clean patterned seats, hanging hand straps, Japanese signs and route displays, large sunlit windows, subtle reflections, metallic poles, and realistic Japanese city scenery visible outside the windows. Warm natural daylight streaming through the bus windows creating cinematic highlights and soft realistic shadows across the bus interior.\nModern Japanese slice-of-life atmosphere, cozy public transport aesthetic, calm everyday mood, shallow depth of field, cinematic composition, highly detailed, photorealistic environment, realistic DSLR photography, luxury lifestyle editorial feel, soft glow, intimate candid travel moment.",
+    "title": "Korean Girl on Japanese Bus",
+    "description": "A realistic slice-of-life prompt featuring a Korean woman in a Japanese city bus setting, maintaining identity from a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262462825_jovka3_HIr_mXmbcAAytwj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21470,
+    "content": "Using the uploaded image and without changing the face, create a hyper-detailed cyberpunk side-profile portrait of a stylish young woman with long voluminous hair flowing naturally, soft glowing skin, sharp facial features, and reflective neon pink futuristic sunglasses, facing upward with a confident and elegant expression. Illuminate the scene with {argument name=\"lighting\" default=\"intense teal and red cinematic lighting\"}, creating dramatic neon reflections across the face and hair. She is wearing a futuristic high-collar cyberpunk jacket with glowing red accents and sleek metallic details. The composition is vertically split through the center with contrasting teal and crimson light effects, futuristic holographic atmosphere, subtle smoke, neon particles, and a dark sci-fi city ambiance in the background. Ultra-realistic, cinematic, luxury fashion editorial style, highly detailed textures, shallow depth of field, 8K quality, cyberpunk aesthetic, modern futuristic beauty portrait.",
+    "title": "Cyberpunk Neon Fashion Portrait",
+    "description": "A vibrant cyberpunk side-profile portrait prompt featuring neon pink futuristic sunglasses and split teal-red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262464967_k38vej_HIrI3n6aEAAGHEG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21462,
+    "content": "A handsome {argument name=\"subject\" default=\"young adult male\"} stands center-right, angled with his back to the camera, his upper torso and head turned precisely 135 degrees over his left shoulder to look back with a subtle, closed-mouth confident smile. He has a neatly groomed dark beard and short dark hair styled with a faded undercut, while dark round sunglasses rest on his face. He is dressed in a {argument name=\"outfit\" default=\"crisp, all-white casual summer outfit\"} featuring a bright white short-sleeve polo shirt and white linen trousers. His relaxed right hand rests naturally near his right hip, revealing a metal watch on his wrist, while his left hand holds a black smartphone casually near his waist, his fingers slightly curled in an organic grip. His shoulders are relaxed, with the right shoulder dropped slightly. He stands on a smooth, light gray poured concrete garden path that leads backward into a landscaped tropical garden, bordered on both the bottom left and bottom right by pristine, perfectly smooth bright white river rocks. To his left, a thriving Mediterranean Fan Palm dominates the midground with dense, overlapping spiky green fronds, accompanied by bright green lawn grass, an agave plant, and a black landscape uplight fixture. On his right, broad, paddle-shaped Bird of Paradise leaves stretch upward. In the top right background, a pristine modern building exterior features perfectly smooth matte white plaster walls topped with a dark brown wooden slatted roof overhang containing a black recessed cylindrical light fixture. An energetic, warm golden hour atmosphere envelops the scene beneath a clear sky blue backdrop. Highly directional, hard natural sunlight strikes from the front-right relative to his face, casting a harsh, precise geometric shadow diagonally across the crisp white building wall from the slatted roof. The intense illumination creates bright specular highlights preserved on his right cheek, the top folds of his white polo shirt, and the shiny, waxy surfaces of the broad tropical leaves. High-contrast, dramatic shadows stretch across the back of his shirt in medium gray folds and drop off into deep blacks within the dense layers of the foliage. The color palette emphasizes highly saturated, analogous greens and blues contrasting sharply against the crisp white clothing and architecture. Captured as a realistic digital photograph shot straight on at eye level with a {argument name=\"lens\" default=\"35mm lens\"}, the image is tack sharp on the subject and immediate midground foliage, gradually softening toward the distant architectural elements. Post-processing introduces enhanced vibrance in the organic greens and blues, balances the whites to remain crisp without clipping, and applies a warming tone to the highlights to emphasize the affluent Mediterranean vacation aesthetic, completely framed in a 3:4 aspect ratio.",
+    "title": "Mediterranean Vacation Portrait",
+    "description": "An incredibly detailed prompt for a high-contrast Mediterranean vacation aesthetic portrait with tropical garden elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262461542_4qp35s_HIquQqzXUAAyDyg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21445,
+    "content": "A highly detailed portrait of a young woman with fair skin, striking blue eyes, and long straight reddish-orange hair styled in a sleek high ponytail with some strands framing her face, standing confidently in a modern indoor setting with dark minimalist walls. She has a poised expression looking directly at the viewer, wearing elegant gold jewelry including large hoop earrings, a thick ornate gold chain necklace, and a prominent gold ring on her right hand. Her outfit is a form-fitting black long-sleeved high-neck jumpsuit made of smooth stretch fabric, with the top featuring subtle seam details and the pants showing a seamless fitted silhouette. Her right hand is raised gracefully touching her ponytail, while her left arm rests naturally by her side. Professional studio lighting with soft highlights accentuating her features and the outfit's texture, captured in a realistic high-resolution photographic style.",
+    "title": "Redhead in Black Jumpsuit Portrait",
+    "description": "A highly detailed studio portrait of a woman with long red hair in a sleek ponytail, wearing an elegant black jumpsuit and gold jewelry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262453198_k20v1h_HIqrBksbcAAUWES.jpg",
+      "https://cms-assets.youmind.com/media/1779262453193_vxg0df_HIqrB_CaUAAFJCO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21464,
+    "content": "Ultra realistic cinematic portrait of {argument name=\"subject\" default=\"me\"} sitting alone on a {argument name=\"setting\" default=\"grassy hill in the mountains\"}, thoughtful and calm expression, wind softly moving my hair, wearing a {argument name=\"clothing\" default=\"dark oversized wool coat\"} with layered winter fashion, moody cold atmosphere, foggy mountain background, shallow depth of field, captured with 85mm lens, f/1.8, diffused cloudy daylight, Kodak Portra 400 film look, muted earthy tones, analog matte texture, natural skin details, soft cinematic shadows, medium portrait framing, emotional storytelling aesthetic, ultra detailed, photorealistic, realistic hair movement, luxury editorial photography, 8k UHD, masterpiece composition, inspired by Nordic cinematic visuals, subtle melancholy vibe, realistic color grading, background blur, raw photography style –ar 2:3 –v 7 –style raw –stylize 200 For best results, upload your own face as image reference and add: “use attached face as exact facial reference, keep facial structure and identity accurate”",
+    "title": "Nordic Cinematic Mountain Portrait",
+    "description": "An emotional, moody portrait prompt of a subject on a foggy mountain, styled with a Kodak Portra 400 film look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262462576_v9k6tz_HIqGQ8KbgAEfy_H.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21446,
+    "content": "A chic, blonde woman with a warm smile poses elegantly in a brightly lit, modern home filled with lush green house plants. She transitions from laughing joyfully in a pink crochet top to sitting thoughtfully in a silk slip dress, resting her chin on her hand with soft, natural makeup and classic gold hoop earrings.",
+    "title": "Elegant Home Lifestyle Portraits",
+    "description": "A lifestyle prompt generating images of a chic blonde woman in a modern home, transitioning between joyful laughter and thoughtful poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262453225_0ntkwf_HIqCtXPXwAA_0DV.jpg",
+      "https://cms-assets.youmind.com/media/1779262453227_vyzyp5_HIqCtUuXAAAtXYP.jpg",
+      "https://cms-assets.youmind.com/media/1779262453193_lwbkx8_HIqCtXPWAAEq_4d.jpg",
+      "https://cms-assets.youmind.com/media/1779262453987_036vpb_HIqCtXPWAAAjwhL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21463,
+    "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic cinematic noir portrait of {argument name=\"subject\" default=\"the same man\"} sitting alone inside a {argument name=\"setting\" default=\"luxurious private club\"} at night. He wears a {argument name=\"outfit\" default=\"perfectly tailored black velvet suit\"}, open-collar black shirt, expensive watch, and dark sunglasses lowered slightly on his nose. He holds an unbranded cigar between two fingers near his mouth, thin smoke curling upward across his face. His expression is calm, dangerous, intelligent, and completely confident, looking directly into the camera like a silent crime boss. Background: dark mahogany walls, warm amber table lamps, blurred bottles, leather chairs, soft golden reflections, heavy cinematic shadows. Lighting: dramatic low-key lighting, warm rim light on jawline, soft smoke diffusion, high contrast, 35mm film look, shallow depth of field. Composition: vertical 4:5 Instagram cover, upper body portrait, strong negative space at the bottom for future text overlay. No text, no logo, no watermark.",
+    "title": "Cinematic Noir Crime Boss Portrait",
+    "description": "An identity-preserving prompt for a cinematic noir portrait of a confident man in a luxury club setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262461700_5ny21t_HImyOngXMAAa-lg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21245,
     "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic cinematic portrait of the same man standing inside a luxurious hotel elevator with mirrored golden walls. He wears a {argument name=\"outfit color\" default=\"black\"} double-breasted suit, black shirt, dark sunglasses, and leather gloves. He slightly adjusts his tie while looking at his own reflection, but his eyes are still visible toward the camera through the mirror. His expression is calm, arrogant, elegant, and mysterious. Background: gold elevator interior, mirror reflections, soft luxury lighting, subtle cinematic distortion from reflections. Lighting: warm golden overhead lights, sharp suit texture, high-end fashion editorial mood. Composition: vertical 4:5, symmetrical framing, multiple reflections but only one main face should remain clear. No text, no logo, no watermark.",
     "title": "Cinematic Golden Elevator Portrait",

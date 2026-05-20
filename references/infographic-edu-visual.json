@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 21457,
+    "content": "Create a vibrant 3D illustrated travel infographic map of *{argument name=\"country\" default=\"Italy\"}* titled “{argument name=\"title\" default=\"ITALY: Land of History and Passion.\"}”Show the Italian peninsula, Sicily, and Sardinia in a bright Mediterranean Sea with sailboats, lush landscapes, Alps, vineyards, and volcanoes. Include miniature landmarks like St. Peter’s Basilica, the Colosseum, Venice canals, Florence Cathedral, Amalfi Coast villages, and Tuscan hills.\n\nLabel major cities with elegant typography:\nMilan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Sicily, Sardinia, and Ancona, each with short tourism-style taglines.\n\nAdd a stylish infographic sidebar with:\nPopulation 59M, Language Italian, Currency Euro, Highest Peak Gran Paradiso, National Flower Stella di Betlemme.\n\nAt the bottom, include cinematic travel scenes: Colosseum sunset, Vespa scooter, Italian pasta, Tuscan countryside, Amalfi Coast, opera house, and glowing city nightlife.\n\nDecorate with lemons, olive branches, and red poppies. Style: ultra-detailed, cinematic lighting, luxury travel poster, fantasy cartography, colorful editorial illustration, miniature-map aesthetic, premium 8k quality.",
+    "title": "Detailed 3D Travel Infographic Map of Italy",
+    "description": "A rich, vibrant prompt for creating a luxury travel-style 3D map of Italy with landmarks, city labels, and stylistic decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262458757_1gibhq_HIqjbmWaEAA3dh3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20996,
     "content": "mosaic made from tiny randomly cut colored wood shapes, colored wood shapes are edgy with various geometrical shapes, they form traditional Chinese dragon. dragon body is shaped out of tiny colored wood pieces forming a mosaic. pale colored wood surface with intricate thin black outlines dividing the mosaic pieces. background is traditional nature Sakura bloom garden surrounding the dragon.",
     "title": "Chinese Dragon Wood Mosaic",

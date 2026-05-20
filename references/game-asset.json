@@ -1,5 +1,15 @@
 [
   {
+    "id": 21471,
+    "content": "Whimsical {argument name=\"subject\" default=\"miniature world depiction of a royal garden courtyard with fountain ceremony\"} in an artistic {argument name=\"style\" default=\"baroquepunk\"} style.",
+    "title": "Baroquepunk Royal Garden Miniature",
+    "description": "A highly detailed prompt for creating miniature world dioramas of royal gardens in a whimsical baroquepunk aesthetic with fountains.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779262465250_8a4irc_HIsUseVakAAtmhY.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21251,
     "content": "The Last City Above the Storm A gigantic floating {argument name=\"style\" default=\"cyberpunk megacity\"} suspended thousands of feet above an endless storm-covered planet, colossal waterfalls pouring off the edges into lightning clouds below, neon highways weaving between skyscrapers, {argument name=\"element\" default=\"giant holographic whales\"} swimming through the sky, tiny aircraft leaving glowing trails through rain and fog, cinematic dusk lighting, reflective wet metal surfaces, atmospheric perspective, ultra-detailed futuristic architecture, {argument name=\"palette\" default=\"dark moody palette with electric cyan and magenta highlights\"}, breathtaking scale, hyper-realistic sci-fi realism.",
     "title": "Cyberpunk Floating Megacity",
