@@ -20,6 +20,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 21622,
+    "content": "A high-end magazine cover titled \"{argument name=\"magazine title\" default=\"CHANCE\"}\" featuring an elegant woman in a black halter dress. The background includes hazy wisps of smoke and a blurry Parisian cityscape at night. Prominently in the foreground is a large bottle of {argument name=\"perfume name\" default=\"CHANCE\"} Parfum, with {argument name=\"liquid color\" default=\"golden\"} liquid and clear glass. The word \"TIMELESS\" is written in a sophisticated font across the bottom of the image, which also includes the label \"CHANCE PANS PARFUM\", a barcode, fine print, and the number \"86\" for quality.",
+    "title": "Luxury Perfume Magazine Cover",
+    "description": "A sophisticated prompt for creating a high-end magazine cover featuring luxury perfume and an elegant subject against a night-time Parisian backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21631,
+    "content": "A pair of vintage-style travel poster illustrations by A. Moreau, featuring a whimsical, hand-drawn {argument name=\"style\" default=\"watercolor aesthetic\"} with crisp ink outlines. The first scene depicts a charming {argument name=\"first location\" default=\"Swiss alpine village\"} street lined with traditional wooden chalets, flower-filled window boxes, a \"Café des Cimes,\" a Bernese Mountain Dog, and a yellow vintage PostAuto bus, all set against a majestic backdrop of snow-capped mountains. The second scene captures a vibrant {argument name=\"second location\" default=\"Parisian street in Montmartre\"} with colorful Haussmann-style buildings, a \"Café des Artistes,\" a French Bulldog, a classic green tram on cobblestone tracks, and the Eiffel Tower rising in the background. Both illustrations include diverse crowds of locals and tourists enjoying the scenery, dressed in classic casual attire, complete with stylized cursive and serif typography at the top celebrating each destination's unique character.",
+    "title": "Vintage Watercolor Travel Posters",
+    "description": "A prompt for creating whimsical, hand-drawn watercolor travel illustrations of European cities like Swiss alpine villages or Montmartre in Paris.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349236443_resrwv_HIxGD1SXMAAHv0I.jpg",
+      "https://cms-assets.youmind.com/media/1779349236464_yy8quv_HIxGD11WEAAQFKV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21624,
+    "content": "A pair of vintage-style mid-century advertisement posters featuring a smiling woman with glasses as the central focus, holding up a glass beverage bottle. Both illustrations capture a nostalgic, sun-drenched retro vibe with bold typography and warm color tones reminiscent of 1950s commercial art. One scene is set on a lively beach featuring a woman in a polka-dot dress holding a bottle of \"{argument name=\"soda brand 1\" default=\"FIZZ\"}\" with a pier and sunbathers in the background. The other scene transitions to a sunny suburban backyard picnic, showing a woman in a red dress holding a bottle of \"{argument name=\"soda brand 2\" default=\"BREW\"}\" alongside vintage cars, a picnic basket, and families relaxing on the lawn.",
+    "title": "1950s Vintage Soda Advertisement Posters",
+    "description": "A creative prompt for generating nostalgic, mid-century style commercial art for soda brands, featuring smiling subjects and retro aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349231816_78285v_HIwaj1_WEAAL8mR.jpg",
+      "https://cms-assets.youmind.com/media/1779349232365_cp3yp3_HIwaj2HWAAAn5tX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21626,
+    "content": "Ultra-detailed anime-inspired cinematic character moodboard poster of a handsome young {argument name=\"subject description\" default=\"South Asian man with messy voluminous black hair, sharp jawline, trimmed beard, and expressive deep brown eyes\"}, calm confident expression, wearing {argument name=\"clothing\" default=\"black tactical streetwear hoodie, cargo pants, rugged sneakers, and a backpack\"}. Vintage sketchbook collage aesthetic on textured beige paper background with pencil sketch overlays, handwritten notes, motivational quotes, doodles, and cinematic illustrations of the same character in multiple poses. Includes standing full-body pose, close-up portrait looking sideways, working on laptop scene, adventurous mountain silhouette scene, cute chibi version of the character, and artistic anatomy sketch. Semi-realistic anime art style mixed with graphite pencil drawing and watercolor shading, highly detailed textures, moody soft lighting, urban explorer vibe, creative coder aesthetic, scrapbook composition, hand-drawn ink marks, aesthetic typography, realistic fabric folds, emotional storytelling poster design, ultra high detail, masterpiece quality, warm muted tones, modern anime concept art style.\nUse uploaded image ad reference and generate image",
+    "title": "Anime Character Moodboard Poster",
+    "description": "An anime-inspired moodboard prompt for creating character concept art with a vintage sketchbook aesthetic, featuring various poses and sketches of a specific subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349233672_imunf0_HIu4niIbwAAL3Wq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21449,
     "content": "A flat, textured illustration of a stout man with a thick blue beard and small orange glasses, set against a **solid black background**. He is wearing a heavy **black puffer jacket** adorned with large **maroon and yellow leaf patterns**. He wears multiple thick gold chains and rings, making rock-on hand gestures. A stylized **maroon leaf crown** floats above his head. Grainy, risograph print aesthetic. A stylized, geometric illustration of a tall, solemn man with a white-speckled beard and a **maroon face**, set against a **dark black background**. He stands behind a large, textured white skull on a pole. The composition is framed by delicate **maroon and gold botanical stems**. The man wears a **black and maroon garment** with a grid pattern at the bottom. High-contrast, folk-art inspired style with heavy stipple texture. A dynamic illustration of a character with a top-knot bun balancing on a skateboard, set against a **deep black background**. The character wears a **maroon jacket with yellow floral patterns**, black cargo pants with yellow dashes, and red socks with black shoes. Stylized yellow \"energy lines\" radiate from the figure. The foreground features dark, silhouetted foliage. Flat vector style with a grainy, vintage paper texture. A profile-view illustration of a slender man with futuristic goggles riding a vintage motorcycle through tall, dark grass. The background is a **solid matte black**. He wears a bright **maroon jacket** with a large yellow sunburst graphic on the back. The plants in the foreground are a mix of dark navy and **maroon leaves**. Sharp, clean lines mixed with a soft sponge-paint texture.",
     "title": "Risograph Folk Art Illustration",

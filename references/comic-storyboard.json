@@ -1,5 +1,37 @@
 [
   {
+    "id": 21646,
+    "content": "Maitland's house from The 1988 Beetlejuice movie should look like without that stupid black veil on it today in 2026",
+    "title": "Beetlejuice House Modern Visualization",
+    "description": "A request to visualize the Maitland's house from Beetlejuice as it would look today in 2026, removing specific film elements like the black veil.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349244723_iido2q_HIy5mWZXIAA0i4k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21638,
+    "content": "A vertical fashion illustration sketch on a crisp white paper background, featuring a stylish model in a full-length pose. The artistic style uses clean, black ink outlines filled with vibrant, bright {argument name=\"coloring style\" default=\"watercolor marker color blocking\"} in shades of deep red, emerald green, teal, and mustard yellow. The model has sharp, elegant facial features and hair, holding beautiful, detailed {argument name=\"accessory\" default=\"wildflower bouquets with colorful poppies, daisies, and lavender\"}. The overall look is a mix of high-fashion sketch and expressive watercolor washes, with a playful, editorial aesthetic.",
+    "title": "Watercolor Fashion Illustration Sketch",
+    "description": "A prompt for a vibrant watercolor fashion illustration with black ink outlines and wildflower bouquets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349240052_wpq98s_HIwy9HzWIAAzsbx.jpg",
+      "https://cms-assets.youmind.com/media/1779349240043_kyvix1_HIwy9GVW8AAFg4B.jpg",
+      "https://cms-assets.youmind.com/media/1779349240092_5llsg1_HIwy9MbW8AAHAK4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21626,
+    "content": "Ultra-detailed anime-inspired cinematic character moodboard poster of a handsome young {argument name=\"subject description\" default=\"South Asian man with messy voluminous black hair, sharp jawline, trimmed beard, and expressive deep brown eyes\"}, calm confident expression, wearing {argument name=\"clothing\" default=\"black tactical streetwear hoodie, cargo pants, rugged sneakers, and a backpack\"}. Vintage sketchbook collage aesthetic on textured beige paper background with pencil sketch overlays, handwritten notes, motivational quotes, doodles, and cinematic illustrations of the same character in multiple poses. Includes standing full-body pose, close-up portrait looking sideways, working on laptop scene, adventurous mountain silhouette scene, cute chibi version of the character, and artistic anatomy sketch. Semi-realistic anime art style mixed with graphite pencil drawing and watercolor shading, highly detailed textures, moody soft lighting, urban explorer vibe, creative coder aesthetic, scrapbook composition, hand-drawn ink marks, aesthetic typography, realistic fabric folds, emotional storytelling poster design, ultra high detail, masterpiece quality, warm muted tones, modern anime concept art style.\nUse uploaded image ad reference and generate image",
+    "title": "Anime Character Moodboard Poster",
+    "description": "An anime-inspired moodboard prompt for creating character concept art with a vintage sketchbook aesthetic, featuring various poses and sketches of a specific subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349233672_imunf0_HIu4niIbwAAL3Wq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21449,
     "content": "A flat, textured illustration of a stout man with a thick blue beard and small orange glasses, set against a **solid black background**. He is wearing a heavy **black puffer jacket** adorned with large **maroon and yellow leaf patterns**. He wears multiple thick gold chains and rings, making rock-on hand gestures. A stylized **maroon leaf crown** floats above his head. Grainy, risograph print aesthetic. A stylized, geometric illustration of a tall, solemn man with a white-speckled beard and a **maroon face**, set against a **dark black background**. He stands behind a large, textured white skull on a pole. The composition is framed by delicate **maroon and gold botanical stems**. The man wears a **black and maroon garment** with a grid pattern at the bottom. High-contrast, folk-art inspired style with heavy stipple texture. A dynamic illustration of a character with a top-knot bun balancing on a skateboard, set against a **deep black background**. The character wears a **maroon jacket with yellow floral patterns**, black cargo pants with yellow dashes, and red socks with black shoes. Stylized yellow \"energy lines\" radiate from the figure. The foreground features dark, silhouetted foliage. Flat vector style with a grainy, vintage paper texture. A profile-view illustration of a slender man with futuristic goggles riding a vintage motorcycle through tall, dark grass. The background is a **solid matte black**. He wears a bright **maroon jacket** with a large yellow sunburst graphic on the back. The plants in the foreground are a mix of dark navy and **maroon leaves**. Sharp, clean lines mixed with a soft sponge-paint texture.",
     "title": "Risograph Folk Art Illustration",

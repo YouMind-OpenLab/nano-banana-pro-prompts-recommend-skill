@@ -10,6 +10,54 @@
     "needReferenceImages": false
   },
   {
+    "id": 21627,
+    "content": "A vibrant watercolor-style caricature illustration of a cheerful individual with {argument name=\"hair style\" default=\"voluminous, wild, curly hair\"} and expressive, wide cartoon eyes. The subject features a wide, friendly smile, a long slender neck, and is adorned with a chunky round gold earring and layered gold necklaces. They are wearing a textured, structured blazer over a patterned floral collared shirt, set against a softly blurred, stylized botanical background of lush garden plants and small flowers.",
+    "title": "Curly Haired Watercolor Caricature",
+    "description": "A prompt for creating expressive, watercolor-style caricature illustrations featuring subjects with voluminous curly hair and vibrant styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349233734_v2pi6f_HIxyvzXXwAALD84.jpg",
+      "https://cms-assets.youmind.com/media/1779349234169_evjy3i_HIxyv1gXoAAF-SF.jpg",
+      "https://cms-assets.youmind.com/media/1779349233802_3n8i67_HIxyv1fXsAUt6Oy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21634,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"aspect_ratio\": \"9:16\",\n\n  \"style\": {\n    \"genre\": \"Morning lifestyle portrait photography\",\n    \"mood\": [\n      \"{argument name=\"mood\" default=\"cozy\"}\",\n      \"relaxing\",\n      \"intimate\",\n      \"warm morning atmosphere\"\n    ]\n  },\n\n  \"subject\": {\n    \"name\": \"{argument name=\"subject name\" default=\"Addison Rae\"}\",\n\n    \"appearance\": {\n      \"hair\": \"Half-up, half-down hairstyle, slightly messy\",\n      \"expression\": \"Soft smile with a fresh morning appearance\",\n      \"skin\": {\n        \"texture\": \"Realistic human skin texture\",\n        \"details\": [\n          \"subtle pores\",\n          \"natural glow\"\n        ]\n      },\n      \"body_type\": \"[]\"\n    },\n\n    \"clothing\": {\n      \"top\": \"{argument name=\"clothing\" default=\"Oversized light blue ribbed knit sweater falling off one shoulder\"}\",\n      \"legwear\": \"Opaque white thigh-high socks\"\n    },\n\n    \"pose\": {\n      \"position\": \"Sitting casually on a kitchen counter with crossed legs\",\n      \"hands\": \"Holding a teal ceramic mug close to her chest with both hands\",\n      \"posture\": \"Very relaxed and welcoming\"\n    }\n  },\n\n  \"environment\": {\n    \"location\": \"Sunlit home kitchen interior\",\n\n    \"details\": {\n      \"window\": \"Large window in the background\",\n      \"cabinets\": \"Lower kitchen cabinets painted light gray\"\n    },\n\n    \"props\": [\n      \"Teal ceramic mug\"\n    ]\n  },\n\n  \"lighting\": {\n    \"type\": \"Strong natural morning backlighting\",\n    \"effects\": [\n      \"soft rim light around hair and shoulders\",\n      \"radiant highlights\",\n      \"defined shadows\",\n      \"soft bounced fill light inside the kitchen\"\n    ]\n  },\n\n  \"camera\": {\n    \"shot\": \"Medium shot\",\n    \"angle\": \"Slightly low angle\",\n    \"lens\": \"50mm\",\n    \"settings\": {\n      \"aperture\": \"f/2.8\",\n      \"iso\": 100,\n      \"shutter_speed\": \"1/500s\"\n    }\n  },\n\n  \"quality\": {\n    \"resolution\": \"High photographic resolution\",\n    \"focus\": \"Sharp focus on the face\",\n    \"details\": [\n      \"accurate wool texture rendering\",\n      \"realistic skin rendering\",\n      \"balanced backlight exposure\",\n      \"preserved shadow detail\"\n    ]\n  }\n}",
+    "title": "Cozy Morning Lifestyle Portrait",
+    "description": "A detailed prompt for generating a warm and intimate morning lifestyle portrait of a woman in a sunlit kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349238014_5yisbm_HIwkKYhWMAAwqau.jpg",
+      "https://cms-assets.youmind.com/media/1779349238231_k85ves_HIwkKafWAAAq8GQ.jpg",
+      "https://cms-assets.youmind.com/media/1779349237934_kdocgm_HIwkKfkWIAAIaBx.jpg",
+      "https://cms-assets.youmind.com/media/1779349238633_yg8ly8_HIwkKh5WYAA9czg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21623,
+    "content": "A confident {argument name=\"subject\" default=\"adult male\"} stands in profile, his face framed by a neatly trimmed full beard that seamlessly fades into his sideburns and dark hair. His hair is cut short with a fade on the sides and left two to three inches long on top, styled back into a textured quiff with matte styling clay, revealing thick, straight to slightly wavy strands with natural variations and minor flyaways catching the light. He wears a pair of round, dark charcoal sunglasses and a loose-fitting warm white linen shirt paired with matching trousers. His stance is deliberately posed yet relaxed as he leans back with shifted weight and level shoulders. His left hand is casually inserted into his front trouser pocket with only the thumb slightly visible, while his right hand rests fully concealed in his opposite pocket, completing his barefoot, sophisticated summer look. He is positioned in the foreground leaning against the weathered frame of open painted wood French doors, where rough, patchy, chipped cream paint reveals dark brown wood grain beneath. He stands on large, warm terracotta sand-colored square tiles featuring subtle grout lines. Just beyond him in the midground sits a vintage wrought iron balcony railing detailed with ornate circular and scroll patterns. The deep spatial background opens up to a slightly soft but breathtaking view of a pristine, calm soft blue sea reflecting the sky, dotted with three to four anchored sailboats boasting bright white hulls and masts, all set against distant rolling coastal hills clustered with white Mediterranean-style buildings. The scene is bathed in bright, highly directional natural golden hour sunlight hitting from a 45-degree side-back angle, evoking a warm, relaxed, affluent summer evening on the coast. This single hard light source creates stunning preserved rim lighting along the left side of his face, neck, shoulder, and the deep folds of his linen shirt, while casting harsh, medium-length deep black shadows with defined edges from his body onto the open door and from the doorframe onto the tiled floor. The complementary palette balances the warm whites and terracottas against the soft blue sea and deep charcoal shadows with minimal ambient fill, maintaining a high-contrast, atmospheric mood. Shot as a realistic, tack-sharp digital editorial lifestyle photograph using a 50mm or 85mm lens at f/5.6 with a 1/500s shutter speed and ISO 100, the straight-on perspective utilizes a medium depth of field with minimal grain, featuring clean post-processing with warm golden-orange and teal color grading, enhanced clarity on the linen fibers and weathered wood textures, slightly lifted blacks, and framed in a {argument name=\"aspect ratio\" default=\"3:4\"} aspect ratio.",
+    "title": "Sophisticated Summer Editorial Lifestyle Portrait",
+    "description": "An exceptionally detailed photography prompt for a high-contrast, golden hour lifestyle shot of a man on a Mediterranean coast, emphasizing lighting and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349232414_1g4c9b_HIv4NykWoAAmDFK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21633,
+    "content": "Ultra-realistic 8K RAW portrait photo of a woman uploaded image with natural skin texture, centered full face, straight-on camera angle, neutral facial expression, no makeup, visible pores, fine lines, under-eye texture, subtle redness around nose, realistic skin imperfections, soft peach fuzz on cheeks, natural lips with slight dryness texture, natural eyebrows, light green-grey eyes with realistic iris detail, soft diffused daylight coming from left side (window light), smooth soft shadows on right side of face, neutral grey blurred studio background, shallow depth of field, shot on 85mm macro lens, f/2.8, ISO 100, natural skin tone color grading, cinematic but clinical sharpness, no retouching, no smoothing, high dynamic range, professional dermatology-style photography, extreme micro-detail, hyperreal texture, true-to-life color science, no glam, no beauty filter\nNegative prompt: airbrushed skin, smooth skin, plastic skin, beauty retouch, glam makeup, cinematic color grading, oversharpened, cartoonish, digital painting, soft blur, artificial glow\nRatio 4:5",
+    "title": "Dermatology Realism Portrait",
+    "description": "A highly detailed prompt for creating professional dermatology-style photography focusing on realistic skin textures and imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779349236974_57hvoy_HIvKJOpaYAA2BaX.jpg",
+      "https://cms-assets.youmind.com/media/1779349236749_7l4567_HIvKJRKbIAA2xju.jpg",
+      "https://cms-assets.youmind.com/media/1779349236894_z1o8lp_HIvKJUraoAAAXcv.jpg",
+      "https://cms-assets.youmind.com/media/1779349237770_kudp0i_HIvKJZaasAA4EY_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21468,
     "content": "Ultra-realistic portrait of the same {argument name=\"subject\" default=\"beautiful Korean girl\"} from the previous images, maintaining the exact same facial appearance, soft Korean beauty aesthetic, glossy eyes, natural blush makeup, silky long black hair, youthful features, and realistic skin texture consistency.\nShe is standing inside a {argument name=\"location\" default=\"quiet Japanese city bus\"} during daytime, posing naturally near the window seats while looking directly at the camera with a soft calm smile. Relaxed elegant posture with one hand lightly holding the overhead rail or seat handle, candid slice-of-life vibe. Wearing a fitted long black ribbed top with full sleeves and light gray washed jeans, stylish casual fashion matching the modern urban atmosphere.\nAuthentic Japanese bus interior with clean patterned seats, hanging hand straps, Japanese signs and route displays, large sunlit windows, subtle reflections, metallic poles, and realistic Japanese city scenery visible outside the windows. Warm natural daylight streaming through the bus windows creating cinematic highlights and soft realistic shadows across the bus interior.\nModern Japanese slice-of-life atmosphere, cozy public transport aesthetic, calm everyday mood, shallow depth of field, cinematic composition, highly detailed, photorealistic environment, realistic DSLR photography, luxury lifestyle editorial feel, soft glow, intimate candid travel moment.",
     "title": "Korean Girl Japanese Bus Travel",
