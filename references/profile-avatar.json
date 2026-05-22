@@ -10,6 +10,57 @@
     "needReferenceImages": false
   },
   {
+    "id": 21806,
+    "content": "A highly detailed photorealistic portrait of a beautiful young woman with fair skin, {argument name=\"hair style\" default=\"long voluminous wavy reddish-orange hair flowing over her shoulders and back\"}, bright expressive eyes, and a warm friendly smile showing her teeth, seated on a glossy tiled floor indoors. She is wearing a {argument name=\"jersey style\" default=\"bright yellow short-sleeved cropped sports jersey top\"} with blue trim along the V-neckline, sleeves, and shoulders, featuring a circular blue and gold club crest with a crown emblem on the chest. She pairs it with a {argument name=\"skirt style\" default=\"matching yellow mini skirt\"} with blue side stripes and the same circular crest on the thigh area. A delicate gold chain with small beads rests around her waist, complemented by a thin gold necklace with a small pendant, and black-and-gold bangles on both wrists. Her posture is elegant as she sits with legs tucked beneath her, one hand resting on the floor for support and the other lightly placed beside her, in a clean modern room with white walls, a wooden door visible on the left, and soft indoor lighting creating a polished, vibrant atmosphere. High resolution, sharp details, natural skin texture, cinematic composition.",
+    "title": "Female Football Fan Portrait",
+    "description": "A photorealistic portrait prompt of a female football fan in a custom yellow jersey, set in a clean modern indoor environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435491101_8w52f4_HI3HPIna8AAxSaX.jpg",
+      "https://cms-assets.youmind.com/media/1779435491087_s3elj1_HI3HPrvbAAAiewX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21829,
+    "content": "Minimalist and simple thick-lined stylish anime-style illustration. Airy and fashionable.\n- Maintain the face and hairstyle of the woman in the attached image.\n\n- Young woman in her late 20s\n- Medium-length hair above the shoulders with ears showing. ({argument name=\"hair color\" default=\"light brown hair\"} with natural {argument name=\"highlight color\" default=\"white highlight color\"})\n- Clothing as shown in the second image.\n- Thick-rimmed {argument name=\"glasses\" default=\"round glasses\"}, earrings\n- Accent colors in colorful pastels or pop neon colors\n- White background.\n- Aspect ratio 1:1. n=4",
+    "title": "Stylish Minimalist Anime Portrait",
+    "description": "A detailed prompt for generating a stylish anime-style illustration of a woman with medium hair, featuring white highlights and round glasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435503460_k7qp35_HI2IKR4bMAAhwac.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21828,
+    "content": "{\n  \"prompt\": {\n    \"style\": \"ultra realistic amateur smartphone selfie, subtle Korean beauty aesthetic, natural candid photography, soft golden sunset ambiance, lifestyle influencer vibe\",\n    \"scene\": {\n      \"location\": \"{argument name=\"location\" default=\"busy Seoul downtown street near Starbucks during sunset golden hour\"}\",\n      \"environment\": \"warm orange-pink sunset sky, glowing city lights beginning to appear, modern Korean street atmosphere, blurred pedestrians, Starbucks storefront in background, cinematic urban evening mood\"\n    },\n    \"subject\": {\n      \"ethnicity\": \"Korean\",\n      \"appearance\": {\n        \"hair\": \"messy blonde loose tied hair with soft strands falling around face\",\n        \"skin\": \"fair glowing skin with natural texture and subtle freckles\",\n        \"eyes\": \"light blue eyes\",\n        \"expression\": \"soft relaxed subtle pout, natural candid expression\",\n        \"makeup\": \"minimal clean girl makeup, glossy lips, soft blush\"\n      },\n      \"pose\": \"holding smartphone with one hand taking selfie, slightly angled camera perspective\",\n      \"outfit\": {\n        \"top\": \"{argument name=\"top\" default=\"cream ribbed fitted crop top\"}\",\n        \"outerwear\": \"light pastel blue oversized cardigan\",\n        \"bottom\": \"high waist white shorts\",\n        \"accessories\": \"minimal gold necklace\"\n      }\n    },\n    \"props\": {\n      \"drink\": \"{argument name=\"drink\" default=\"large Starbucks iced coffee cup with visible logo and green straw\"}\"\n    },\n    \"camera\": {\n      \"device\": \"iPhone 16 Pro front camera\",\n      \"angle\": \"close-up handheld selfie shot\",\n      \"framing\": \"9:16 vertical composition, upper body visible\",\n      \"focus\": \"sharp focus on face with softly blurred city background\",\n      \"effects\": \"slight amateur motion softness, natural lighting, realistic skin details, cinematic bokeh\"\n    },\n    \"quality\": {\n      \"resolution\": \"8k\",\n      \"render\": \"photorealistic\",\n      \"details\": \"highly detailed skin texture, realistic lighting, natural shadows, subtle depth of field\"\n    }\n  }\n}",
+    "title": "Seoul Street Sunset Selfie",
+    "description": "An ultra-realistic amateur smartphone selfie prompt of a Korean woman in downtown Seoul during the golden hour, featuring Starbucks branding and cinematic bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435502785_ff19qf_HI1SU-oboAA1swt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21805,
+    "content": "A young male stands facing the camera in a deliberately posed, serious stance, his weight shifted slightly onto his right leg with perfectly level shoulders. He is dressed in a {argument name=\"shirt style\" default=\"stark black shirt\"} and {argument name=\"pants style\" default=\"crisp off-white pants\"}. His hair is cut short with a fade on the sides. His relaxed face features a closed, neutral mouth and calm eyebrows as his direct gaze locks onto his smartphone screen. His left hand is elevated to his mid-chest, gripping the smartphone by its side edges with his index finger resting gently near the top frame, a thin dark bracelet encircling his wrist. His right hand hangs relaxed near his upper thigh, fingers slightly curled inward as they loosely hold the frame of black sunglasses. He is positioned center within the sleek confines of a {argument name=\"location\" default=\"modern indoor elevator\"}. The midground features the subtle reflection of a vertical stack of newly illuminated floor buttons to the left, while the medium-depth background is dominated by perfectly smooth, glossy copper and bronze metallic wall panels joined by a pristine vertical seam, their mirror-like reflectivity capturing the space behind the photographer. Beneath his feet, off-white grid tiles map out the floor. The atmosphere is thoroughly polished, urban, and modern, bathed in warm, golden artificial light emitting from multiple overhead directional sources. This hard, bright top-lighting casts dramatic, deep black shadows with harsh defined edges that pool under his chin, nestle deep within the folds of his black shirt, and angle slightly downward from the surrounding objects. Vivid specular highlights strike his forehead and the bridge of his nose, bouncing intensely off the gradient copper walls and light floor tiles. A complementary high-contrast color palette of rich warm metallics against neutral black and off-white creates a confident, striking visual hierarchy. Captured straight-on as a realistic digital photograph echoing high-end social media fashion influencer aesthetics, the image features tack-sharp focus with a deep depth of field that ensures every reflective background detail remains perfectly sharp alongside a subtle touch of digital noise grain. The aesthetic relies on precise contrast enhancements, deliberate warmth adjustments to amplify the metallic copper tones, and targeted sharpening of the subject's features, all framed in a 9:16 aspect ratio.",
+    "title": "Urban Fashion Elevator Portrait",
+    "description": "A highly detailed prompt for an urban fashion portrait set in a modern elevator, featuring a male subject with a golden hour lighting effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435490761_ahrc8g_HI1AXmgWIAADgig.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21800,
+    "content": "Ultra realistic cinematic night portrait 9:16 use uploaded face exactly, no face change. Stylish character standing beside street lamp under full moon, relaxed side-look pose. Outfit: {argument name=\"top\" default=\"loose maroon graphic t-shirt\"} with subtle “PromptPixelRI” logo, {argument name=\"pants\" default=\"ripped black pants\"}, chunky sneakers, smartwatch. Background: dreamy moonlight, soft urban night bokeh, cinematic atmosphere. Soft lighting, HDR, realistic skin texture, DSLR quality, ultra detailed aesthetic.",
+    "title": "Urban Night Portrait with Soft Bokeh",
+    "description": "A realistic cinematic night portrait using an uploaded face with stylish streetwear and soft urban bokeh lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435488121_mdg11e_HI1ATC1boAA91fQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21627,
     "content": "A vibrant watercolor-style caricature illustration of a cheerful individual with {argument name=\"hair style\" default=\"voluminous, wild, curly hair\"} and expressive, wide cartoon eyes. The subject features a wide, friendly smile, a long slender neck, and is adorned with a chunky round gold earring and layered gold necklaces. They are wearing a textured, structured blazer over a patterned floral collared shirt, set against a softly blurred, stylized botanical background of lush garden plants and small flowers.",
     "title": "Curly Haired Watercolor Caricature",

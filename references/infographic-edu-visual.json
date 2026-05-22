@@ -56,6 +56,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 21815,
+    "content": "A unique infographic poster prompt showcasing a highly detailed miniature Parisian diorama with material breakdowns, city snapshots, and construction details.",
+    "title": "Parisian Diorama Infographic Blueprint",
+    "description": "A unique infographic poster prompt showcasing a highly detailed miniature Parisian diorama with material breakdowns, city snapshots, and construction details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435495840_xuh4vi_HI1rYhZXQAApH3A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21797,
+    "content": "Create a matching pair of \"{argument name=\"title\" default=\"Aero & Chic - Nursery Style Blueprint\"}\" infographic concept posters, each featuring a full-body cartoon child in a curated outfit surrounded by illustrated fashion breakdowns. The first poster, titled \"The Look for Tiny Dreamers,\" showcases a whimsical style with a girl wearing a {argument name=\"outfit 1\" default=\"peach ballerina dress\"} under an oversized cloud blue cardigan, complete with soft velvet flats, a crown clip, and a fairy wand bag, using a pastel color palette (stardust gold, peach blush, cloud blue, dusty rose, and olive twig). The second poster, titled \"The Look for Tiny Artists,\" showcases a creative, functional style with a boy wearing a {argument name=\"outfit 2\" default=\"splattered mustard paint smock\"} over a striped studio shirt and green trousers, paired with leather ankle boots and a cat canvas tote bag, utilizing an earthy color palette (forest green, mushroom brown, slate blue, cream beige, and rust orange). Both posters must feature identical structural layouts, including side panels for clothing items, close-up details, accessories like beads, fabric swatches (such as organic cotton and wool blends), a color palette row, and a \"Style Notes\" text box at the bottom.",
+    "title": "Nursery Fashion Style Blueprint Infographic",
+    "description": "Creative concept posters for children's fashion, featuring whimsical and functional nursery styles in infographic format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435486945_fba7f5_HI1aV17X0AADJRq.jpg",
+      "https://cms-assets.youmind.com/media/1779435486939_ltaoct_HI1aV4rW0AA4cOj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21457,
     "content": "Create a vibrant 3D illustrated travel infographic map of *{argument name=\"country\" default=\"Italy\"}* titled “{argument name=\"title\" default=\"ITALY: Land of History and Passion.\"}”Show the Italian peninsula, Sicily, and Sardinia in a bright Mediterranean Sea with sailboats, lush landscapes, Alps, vineyards, and volcanoes. Include miniature landmarks like St. Peter’s Basilica, the Colosseum, Venice canals, Florence Cathedral, Amalfi Coast villages, and Tuscan hills.\n\nLabel major cities with elegant typography:\nMilan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Sicily, Sardinia, and Ancona, each with short tourism-style taglines.\n\nAdd a stylish infographic sidebar with:\nPopulation 59M, Language Italian, Currency Euro, Highest Peak Gran Paradiso, National Flower Stella di Betlemme.\n\nAt the bottom, include cinematic travel scenes: Colosseum sunset, Vespa scooter, Italian pasta, Tuscan countryside, Amalfi Coast, opera house, and glowing city nightlife.\n\nDecorate with lemons, olive branches, and red poppies. Style: ultra-detailed, cinematic lighting, luxury travel poster, fantasy cartography, colorful editorial illustration, miniature-map aesthetic, premium 8k quality.",
     "title": "Detailed 3D Travel Infographic Map of Italy",

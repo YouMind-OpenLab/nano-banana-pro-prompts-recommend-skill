@@ -1,5 +1,15 @@
 [
   {
+    "id": 21802,
+    "content": "A Modern urban {argument name=\"fashion style\" default=\"fashion collage poster\"}, {argument name=\"target audience\" default=\"Gen-Z streetwear campaign\"}, same face as uploaded image, one female model repeated in multiple stylish poses, oversized casual outfit, premium ecommerce photography, vertical editorial layout, giant bold condensed typography at top, sticker-cutout borders, layered collage hierarchy, dynamic brush-stroke graphics, asymmetrical composition, {argument name=\"brand inspiration\" default=\"gucci-inspired\"} branding, handwritten brush text ometric accents, trendy",
+    "title": "Urban Streetwear Fashion Collage Poster",
+    "description": "A creative prompt for a Gen-Z streetwear fashion poster in a collage style, featuring repeated models, oversized outfits, and layered editorial layout with bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435489228_sk9rre_HIz3XwrWYAAk_P1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21026,
     "content": "A professional prompt for generating realistic, elegant {argument name=\"product type\" default=\"beauty and wellness\"} product photography in a natural setting. Featuring products showcased on {argument name=\"surface\" default=\"stone surfaces\"} with soft greenery, natural lighting, and minimalist {argument name=\"color palette\" default=\"beige\"} tones perfect for branding visuals.",
     "title": "Minimalist Product Photography on Stone",

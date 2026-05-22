@@ -1,5 +1,35 @@
 [
   {
+    "id": 21820,
+    "content": "scene_description\": \"{argument name=\"scene\" default=\"Two female adventurers standing back-to-back inside an ancient, dimly lit Egyptian tomb}\", looking directly at the camera with serious and determined expressions.\",\n  \"characters\": [\n    {\n      \"hair\": \"{argument name=\"first character hair\" default=\"Blonde, styled in a long, thick braid resting over her left shoulder.\"}\",\n      \"clothing\": \"Olive-green, rugged tactical jumpsuit with rolled-up sleeves, a brown leather utility belt with multiple pouches, and dark leather gloves.\",\n      \"equipment\": \"Holding a heavy, weathered metal pickaxe with both hands across her body.\",\n      \"pose\": \"Standing on the left side, angled slightly to the side but looking forward.\"\n    },\n    {\n      \"hair\": \"Vibrant red/auburn, styled in a messy high bun with soft bangs framing her face.\",\n      \"clothing\": \"{argument name=\"second character clothing\" default=\"Rust-orange or terracotta-colored tactical jumpsuit\"}, fitted brown utility harness, a matching crossbody canvas messenger bag with leather straps, and dark gloves.\",\n      \"equipment\": \"Holding a small, glowing, intricate ancient artifact or stone tablet with glowing cyan and gold detailing.\",\n      \"pose\": \"Standing on the right side, looking forward with a subtle, confident smirk.\"\n    }\n  ],\n  \"environment_and_background\": {\n    \"setting\": \"An ancient subterranean temple chamber or tomb interior.\",\n    \"architectural_elements\": [\n      \"Massive stone pillars carved with detailed Egyptian hieroglyphs, reliefs of pharaohs, and ancient deities.\",\n      \"A weathered stone altar or pedestal situated between the characters in the lower center.\",\n      \"Cracked stone tile flooring covered in dust, debris, and scattered rocks.\"\n    ],\n    \"details\": \"Faint cobwebs stretching across the corners and columns, indicating an untouched, ancient location.\"\n  },\n  \"lighting_and_atmosphere\": {\n    \"primary_light_source\": \"A dramatic, cinematic beam of dusty top-down sunlight cutting through a opening in the ceiling, illuminating the characters.\",\n    \"secondary_light_source\": \"Warm, flickering firelight from wall-mounted iron torches or braziers casting a soft glow on the pillars.\",\n    \"mood\": \"Mysterious, adventurous, dramatic, and atmospheric.\"\n  },\n  \"art_style_and_quality\": {\n    \"style\": \"Hyper-realistic, cinematic digital photography.\",\n    \"details\": \"Intricate textures on fabric, weathered stone, metallic surfaces, and skin pores.\",\n    \"resolution\": \"4K, highly detailed rendering with deep contrast and volumetric lighting.\"\n  }",
+    "title": "Egyptian Tomb Adventure Scene",
+    "description": "A cinematic prompt for generating two female adventurers inside an ancient, dimly lit Egyptian tomb, featuring detailed outfits and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435497534_0ydp8o_HI0tTDxaYAArds8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21804,
+    "content": "A warm-toned cinematic portrait collage of a {argument name=\"subject\" default=\"South Asian woman\"} in {argument name=\"attire\" default=\"traditional attire\"}, arranged in three horizontal frames. She has long black hair styled loosely with soft strands falling across her face, wearing elegant gold jhumka earrings and multiple delicate bangles. Her hands are decorated with intricate mehendi (henna) designs. Frame 1 (Top): She is gently adjusting her jhumka earring, head turned slightly away from the camera, creating a soft candid moment. The lighting is diffused and {argument name=\"lighting\" default=\"golden\"}, with window shadow patterns falling across her face and shoulder. Frame 2 (Middle): She turns back toward the camera with a subtle, natural smile. Loose strands of hair move across her face, adding motion and softness. The lighting remains warm and dreamy with soft glow, creamy highlights, and low contrast. Frame 3 (Bottom): A close-up of her hand raised gracefully, showcasing detailed mehendi patterns and stacked bangles. Window light casts artistic shadows across her hand and background. Style & Lighting: Golden hour inspired indoor lighting | Soft haze | Dreamy glow | Cinematic color grading | Slightly faded blacks | Golden warm beige & amber tones | Gentle film grain | Low sharpness for a nostalgic look Camera & Composition: Shallow depth of field | Soft focus | 50mm lens feel | Minimal background | Natural light through a window casting geometric shadows | Balanced composition across three horizontal frames",
+    "title": "Cinematic South Asian Woman Portrait Collage",
+    "description": "A detailed cinematic prompt for a three-frame horizontal collage of a South Asian woman in traditional attire, focusing on warm golden hour lighting, intricate henna patterns, and soft candid moments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435489894_5o6tf9_HI0fQF3bcAEPLly.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21810,
+    "content": "An enchanting children's book style illustration prompt of a cute gnome peeking out from a pumpkin, set in a magical forest with glittery foliage and stylized mushrooms.",
+    "title": "Whimsical Gnome Pumpkin Illustration",
+    "description": "An enchanting children's book style illustration prompt of a cute gnome peeking out from a pumpkin, set in a magical forest with glittery foliage and stylized mushrooms.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435493008_f1jkeq_HIwTQzWWQAABxmf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21646,
     "content": "Maitland's house from The 1988 Beetlejuice movie should look like without that stupid black veil on it today in 2026",
     "title": "Beetlejuice House Modern Visualization",
