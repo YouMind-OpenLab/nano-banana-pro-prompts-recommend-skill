@@ -1,5 +1,26 @@
 [
   {
+    "id": 22007,
+    "content": "The scene features a woman with {argument name=\"hair style\" default=\"short blonde hair\"} wearing a simple, light pink satin slip dress. She is barefoot and posing on a beautiful wooden staircase inside a brightly lit, elegant home. In one pose, she stands gracefully, leaning slightly against the banister and looking at the camera with her hand to her chin. In the second pose, she is sitting comfortably on one of the bottom steps, her hands resting in her lap as she looks up. The staircase has ornate wooden spindles and is framed by decorative wall molding. Large potted plants, including a {argument name=\"plant species\" default=\"Monstera\"} and various palms in matching pink planters, are arranged around the base and landing, alongside mid-century style furniture and various lamps.",
+    "title": "Elegant Interior Staircase Portrait",
+    "description": "A prompt for generating serene, high-end interior photography featuring a woman in a satin dress on a wooden staircase surrounded by lush plants.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520913642_cw6lgl_HI5RxRpW0AANkRZ.jpg",
+      "https://cms-assets.youmind.com/media/1779520913844_ap2zsf_HI5RxRUXwAAFXkC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22027,
+    "content": "A {argument name=\"clothing item\" default=\"white t-shirt\"} mockup is displayed on a hanger against a {argument name=\"door color\" default=\"purple door\"}. To the left, a {argument name=\"wall color\" default=\"lime-green\"} wall features a hot-pink plastic-rimmed scalloped circular mirror and a blue wire chair with a hot-pink cushion.",
+    "title": "Minimalist T-Shirt Mockup",
+    "description": "A clean and colorful product mockup prompt for displaying a white t-shirt against a vibrant interior backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520921106_eruh79_HIwTZleWsAAeTS4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21802,
     "content": "A Modern urban {argument name=\"fashion style\" default=\"fashion collage poster\"}, {argument name=\"target audience\" default=\"Gen-Z streetwear campaign\"}, same face as uploaded image, one female model repeated in multiple stylish poses, oversized casual outfit, premium ecommerce photography, vertical editorial layout, giant bold condensed typography at top, sticker-cutout borders, layered collage hierarchy, dynamic brush-stroke graphics, asymmetrical composition, {argument name=\"brand inspiration\" default=\"gucci-inspired\"} branding, handwritten brush text ometric accents, trendy",
     "title": "Urban Streetwear Fashion Collage Poster",

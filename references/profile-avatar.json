@@ -10,6 +10,68 @@
     "needReferenceImages": false
   },
   {
+    "id": 22013,
+    "content": "A close-up portrait of a {argument name=\"subject\" default=\"young woman with wavy strawberry blonde hair and light freckles\"}, smiling gently at the camera. She is resting her chin on her right hand, wearing a thin red string bracelet and a delicate diamond tennis necklace. She wears a {argument name=\"hat style\" default=\"wide-brimmed white straw sunhat\"} adorned with intricate yellow and olive green floral embroidery. Her outfit is a {argument name=\"dress pattern\" default=\"burgundy and white patterned sleeveless dress\"}. The background shows a luxurious tropical resort setting at dusk, featuring a swimming pool, lounge chairs, palm trees, and the ocean under a soft, warm evening sky.",
+    "title": "Tropical Resort Evening Portrait",
+    "description": "A serene close-up portrait of a woman with strawberry blonde hair at a luxurious tropical resort during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520916118_1b52tl_HI95xn1aQAA_X95.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22028,
+    "content": "A high-resolution portrait photograph of {argument name=\"person\" default=\"Sadie Sink\"} indoors, looking directly at the camera with a neutral expression. She has long, wet-look wavy red hair cascading down her shoulders and visible freckles on her face and arms. She is wearing a bright {argument name=\"clothing color\" default=\"orange\"} ribbed strapless tube top and a delicate silver tennis necklace. The background is a bright, modern, minimalist room with concrete flooring, a large glass window, a white couch, and art frames, all softly blurred to create depth.",
+    "title": "Minimalist Indoor Portrait Photography",
+    "description": "A high-resolution indoor portrait prompt focusing on realistic textures like wet-look hair and freckles against a clean, modern architectural background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520922296_eiqglq_HI7am2kboAE6_MI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22015,
+    "content": "{\n  \"prompt\": \"A beautiful young woman  [ {argument name=\"celebrity\" default=\"Sadie Sink\"} ] with long wavy ginger-red hair, fair skin covered in natural freckles on her face, shoulders, and arms, bright blue eyes, and a gentle smile. She is wearing a black off-the-shoulder lace crop top that reveals her shoulders and midriff, paired with light blue denim jeans. She has a delicate pearl necklace and a small red bracelet. She is sitting in a crowded concert arena at night, turned slightly to look over her shoulder at the camera with a soft expression. Dramatic concert lighting with stage lights and crowd in the background, cinematic atmosphere, highly detailed, photorealistic, 8k resolution, natural skin texture, realistic hair strands\",\n  \"negative_prompt\": \"blurry, deformed, ugly, extra limbs, bad anatomy, watermark, text, overexposed, underexposed, cartoon, painting, low quality\",\n  \"style\": \"photorealistic, cinematic\",\n  \"subject_details\": {\n    \"age\": \"early 20s\",\n    \"hair\": \"long wavy ginger-red hair with volume\",\n    \"skin\": \"fair with visible freckles\",\n    \"clothing\": \"black lace off-shoulder crop top, light blue jeans\",\n    \"accessories\": \"pearl necklace, red string bracelet\",\n    \"pose\": \"sitting, looking over shoulder\"\n  },\n  \"setting\": {\n    \"location\": \"crowded concert arena / stadium at night\",\n    \"lighting\": \"dramatic stage lights, ambient crowd lighting\",\n    \"mood\": \"glamorous yet casual concert vibe\"\n  }\n}",
+    "title": "Cinematic Concert Crowd Portrait",
+    "description": "A highly detailed JSON-structured prompt for a celebrity-inspired portrait at a live concert, featuring dramatic lighting and realistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520916879_rjunp1_HI7AKepa0AACrGj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22019,
+    "content": "Using the uploaded image as the exact reference, recreate the same split-half portrait composition. The left side should remain a hyper-realistic photograph of a {argument name=\"subject\" default=\"beautiful young woman with striking blue eyes, long wavy dark hair\"}, soft natural makeup, wearing large white over-ear headphones, smiling gently at the camera. The right side should seamlessly transform into a {argument name=\"art style\" default=\"detailed colored-pencil and crayon sketch version\"} of the same woman, featuring visible artistic strokes, textured paper grain, expressive hand-drawn lines, and matching facial features. A realistic torn-paper effect runs vertically through the center, perfectly dividing the photo and sketch halves. Neutral indoor background, soft natural lighting, ultra-detailed skin texture, realistic hair strands, identical pose and expression, high-end editorial photography, shallow depth of field, 85mm lens, photorealistic quality, 8K resolution. Replace the original outfit with an {argument name=\"clothing\" default=\"elegant royal purple traditional suit (shalwar kameez)\"} on both sides, perfectly matching in design and color while keeping every other detail exactly the same. Retio 3:4",
+    "title": "Split Photo and Sketch Portrait Effect",
+    "description": "A creative transformation prompt that splits a portrait into a hyper-realistic photo and a colored-pencil sketch, with a torn-paper divider effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520918251_wwhxzq_HI5oShHbgAATiEF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22023,
+    "content": "Create a dark, moody, photorealistic portrait of a {argument name=\"subject\" default=\"young man\"}. He is seated on a simple wooden chair, body slightly turned sideways, head tilted downward, eyes cast toward his hands in a contemplative, melancholic expression. He wears a {argument name=\"outfit\" default=\"black high neck turtleneck under a long black overcoat\"} with soft matte fabric. Normal {argument name=\"hair style\" default=\"wavy hair\"}. Background is a rough, textured wall with subtle stains and uneven paint, desaturated green-gray tones. Lighting is extremely low-key, coming from a soft side source (left side, creating deep shadows that partially obscure facial features while still keeping them faintly visible. Composition is medium shot, slightly off center framing. Add heavy film grain, analog noise, subtle blur, and muted color grading. Keep everything natural and realistic: no stylization, no extra elements, no modern sharpness. Extremely grainy. Maintain consistent shadows, realistic proportions, and a raw cinematic atmosphere with imperfect texture and slight noise artifacts.",
+    "title": "Moody Low-Key Male Portrait",
+    "description": "Generates a cinematic and grainy black-and-white style portrait of a contemplative young man sitting in a dark, textured environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520919339_87upu2_HI5L31waMAA5NB0.jpg",
+      "https://cms-assets.youmind.com/media/1779520919344_ibz3iv_HI5L38ZaEAAIbAy.jpg",
+      "https://cms-assets.youmind.com/media/1779520919392_aosg6v_HI5L4EZaAAEX6O0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22036,
+    "content": "{argument name=\"person\" default=\"Eiji Kotouge\"}\n{argument name=\"birthday\" default=\"Born on June 6\"}, Gemini\n\n{argument name=\"theme\" default=\"Harry Potter\"}\n\nLike Voldemort",
+    "title": "Harry Potter Parody Persona",
+    "description": "A humorous prompt combining a Japanese comedian with the aesthetic of Voldemort from the Harry Potter series.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520925706_or9pwd_HI40o8_aAAA2fvs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21806,
     "content": "A highly detailed photorealistic portrait of a beautiful young woman with fair skin, {argument name=\"hair style\" default=\"long voluminous wavy reddish-orange hair flowing over her shoulders and back\"}, bright expressive eyes, and a warm friendly smile showing her teeth, seated on a glossy tiled floor indoors. She is wearing a {argument name=\"jersey style\" default=\"bright yellow short-sleeved cropped sports jersey top\"} with blue trim along the V-neckline, sleeves, and shoulders, featuring a circular blue and gold club crest with a crown emblem on the chest. She pairs it with a {argument name=\"skirt style\" default=\"matching yellow mini skirt\"} with blue side stripes and the same circular crest on the thigh area. A delicate gold chain with small beads rests around her waist, complemented by a thin gold necklace with a small pendant, and black-and-gold bangles on both wrists. Her posture is elegant as she sits with legs tucked beneath her, one hand resting on the floor for support and the other lightly placed beside her, in a clean modern room with white walls, a wooden door visible on the left, and soft indoor lighting creating a polished, vibrant atmosphere. High resolution, sharp details, natural skin texture, cinematic composition.",
     "title": "Female Football Fan Portrait",

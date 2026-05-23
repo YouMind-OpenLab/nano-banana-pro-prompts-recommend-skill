@@ -1,5 +1,25 @@
 [
   {
+    "id": 22032,
+    "content": "Gemini, Gemini constellation\n\n{argument name=\"location\" default=\"Another dimension\"}\n\n{argument name=\"style\" default=\"Fantasy stellar style\"}",
+    "title": "Fantasy Stellar Gemini Dimension",
+    "description": "A fantasy stellar prompt for creating an otherworldly scene based on the Gemini zodiac sign with a focus on dimension-hopping aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520923523_4mmuel_HI4wyhRaYAAp9P0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22033,
+    "content": "Gemini, Gemini constellation\n\n{argument name=\"location\" default=\"Another dimension\"}\n\n{argument name=\"style\" default=\"Cyberpunk\"}",
+    "title": "Gemini Cyberpunk Dimension",
+    "description": "A prompt generating a cyberpunk-style representation of the Gemini zodiac sign in an alternate dimension.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520924215_03k0xw_HI4vaR8bUAAqlD0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21808,
     "content": "{\n  \"aspect_ratio\": \"4:5\",\n\"scene\": {\n    \"subject\": \"{argument name=\"hair style\" default=\"A woman with styled, wavy blonde hair\"}, looking directly at the camera with a confident expression, sitting on a minimalist white cubic block\",\n    \"pose\": \"Dynamic sitting pose with legs spread wide; the right thigh-high boot is strongly foreshortened towards the foreground, creating perspective depth. The left leg is bent. The right hand rests naturally near the chest logo. A vibrant red cape billows dramatically and sharply behind her and to the left.\",\n    \"costume\": {\n      \"top\": \"Long-sleeved blue top with a detailed, sharp-edged gold and red 'S' shield emblem on the chest\",\n      \"skirt\": \"{argument name=\"skirt style\" default=\"Red micro-skirt with a clean, sharp-edged gold V-trim waistband\"}\",\n      \"boots\": \"{argument name=\"boots style\" default=\"Striking red thigh-high, high-heeled boots, made of smooth fabric\"}, with clean contours and heels\",\n      \"cape\": \"Vibrant red cape with a visible fabric weave, sharply defined edges, and crisp folds\"\n    },\n    \"environment\": {\n      \"setting\": \"A clean, seamless infinite white studio background\",\n      \"focus\": \"The entire environment, from the foreground boot to the furthest edge of the cape and the studio wall, is in perfect, sharp focus. There are absolutely no background blurs, gradients, or bokeh.\"\n    },\n    \"lighting\": {\n      \"setup\": \"Even, bright, professional studio softbox lighting, providing full clarity and crisp detail across the entire scene\"\n    }\n  },\n  \"raw_photo_details\": {\n    \"technical_specifications\": {\n      \"camera\": \"Canon EOS R5\",\n      \"lens\": \"35mm f/5.6 lens (for deep depth of field)\",\n      \"format\": \"Straight-out-of-camera (SOC) RAW file, uncompressed\",\n      \"f_stop\": \"f/8.0 (to ensure edge-to-edge sharpness and a deep focus field)\",\n      \"shutter_speed\": \"1/500s (to perfectly freeze all motion of the cape and pose)\",\n      \"iso\": \"ISO 160\"\n    },\n    \"visual_characteristics\": {\n      \"focus_field\": \"A deep depth of field ensures a fully sharp scene from foreground to background.\",\n      \"texture\": \"Visible, crisp fabric weave textures on the boots, cape, and top. Realistic skin texture, including natural pores and small imperfections. Sharp definition on hair strands. No post-processing skin smoothing or lens softening.\",\n      \"color\": \"Realistic, natural, uncalibrated colors straight from the camera sensor, not overly saturated or graded.\",\n      \"noise\": \"Slight, natural sensor noise and film grain typical of a RAW file, adding to the authentic, unedited look.\",\n      \"dynamic_range\": \"High dynamic range with clear details in both deep shadows and bright highlights, without excessive tonemapping.\"\n    }\n  }\n}",
     "title": "Superhero Studio Fashion Portrait",

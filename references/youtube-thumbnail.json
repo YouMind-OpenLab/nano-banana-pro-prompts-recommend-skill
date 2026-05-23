@@ -1,5 +1,16 @@
 [
   {
+    "id": 22005,
+    "content": "Hyper-realistic photography of massive volumetric clouds forming the shape of a majestic {argument name=\"animal\" default=\"elephant\"}, highly detailed and anatomically accurate cloud structure with enormous tusks and a raised trunk, soft yet dense cumulus clouds with realistic depth and texture, dramatic golden-hour lighting, sunlight rays piercing through the clouds, subtle shadows and highlights enhancing form.\nForeground: a vast {argument name=\"landscape\" default=\"African savanna meadow\"} with realistic dry grass, atmospheric perspective, and cinematic depth of field. Multiple {argument name=\"wildlife\" default=\"zebras\"} grazing naturally across the field. Mid-air: flock of birds circling around the giant elephant cloud, adding scale and motion.\nEnvironment: cinematic sky with warm orange and blue gradient tones, slight haze, natural color grading, ultra-realistic lighting, global illumination, volumetric fog, physically accurate shadows.\nStyle: DSLR photography, 85mm lens, f/2.8 aperture, shallow depth of field, HDR, 8K resolution, razor-sharp focus, intricate details, photorealism, no CGI look.\nMood: majestic, calm, surreal yet believable, wildlife documentary realism.",
+    "title": "Majestic Elephant Cloud Photography",
+    "description": "A surreal prompt creating hyper-realistic photography of volumetric clouds formed into a detailed elephant over a savanna.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779520912765_xaxki4_HI7WAKoaIAAt_AA.jpg",
+      "https://cms-assets.youmind.com/media/1779520912719_l7qw3k_HI7WAN3a8AAPv2y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 20182,
     "content": "Please create it in an anime style. {argument name=\"scene description\" default=\"A wooden station building with a train stopped in the distance.\"}",
     "title": "Anime Railway Station Transformation",
