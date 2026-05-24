@@ -1,5 +1,29 @@
 [
   {
+    "id": 22074,
+    "content": "{\n  \"aspect_ratio\": \"4:5\",\n  \"subject\": {\n    \"type\": \"young woman\",\n    \"ethnicity\": \"American\",\n    \"hair\": \"{argument name=\"hair style\" default=\"[copy hairstyle and hair color exactly from the reference image]\"}\",\n    \"pose\": \"Ochs guard stance, katana held high near the right side of the face with elbows bent, blade pointed forward toward the viewer in a forward-threatening high guard, stable balanced stance with one leg slightly forward, focused intense expression with controlled aggression\",\n    \"apparel\": \"{argument name=\"clothing\" default=\"white navy-collar sailor crop top, white pleated mini skirt, white pumps, sheer white thigh-highs with sakura pattern\"}\"\n  },\n  \"prop\": \"Katana, silver blade, black and gold hilt\",\n  \"environment\": {\n    \"background\": \"solid grey studio backdrop, floor with scattered pink petals\",\n    \"elements\": \"sharp cherry blossom branches upper right, sharp cherry blossom flowers lower left\"\n  },\n  \"composition\": \"full-body center framing, flat diffuse lighting, white and pink palette\",\n  \"render_tags\": \"RAW photo, 4K UHD, unedited, completely sharp everywhere, infinite depth of field, zero blur, hyper-detailed textures\"\n}",
+    "title": "Samurai Style Sailor Fashion Portrait",
+    "description": "A striking fashion-oriented prompt combining traditional Japanese katana weaponry with modern sailor-style streetwear in a studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607887037_71drmj_HJA1USLXYAAMX1K.jpg",
+      "https://cms-assets.youmind.com/media/1779607887059_rioj14_HJA1UUmWcAATrNk.jpg",
+      "https://cms-assets.youmind.com/media/1779607887090_japp6u_HJA1UW6WAAAOeBm.jpg",
+      "https://cms-assets.youmind.com/media/1779607888309_1gej3j_HJA1UhDXkAA84RI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22050,
+    "content": "A girl in a fully closed modern white spacesuit with a tinted visor stands on the surface of Mars. Red-orange rocky desert, dusty pinkish sky. Opposite her stands a tall humanoid {argument name=\"alien description\" default=\"alien with pale pink semi-transparent skin, an elongated skull, large black almond-shaped eyes, and a graceful slender body\"} in a tight-fitting bio-organic suit of silvery-pearl color. Realistic detailed anatomy. The girl is handing him an {argument name=\"human item\" default=\"iPhone in a pink case\"}. The alien is handing her a {argument name=\"alien item\" default=\"crystal vial glowing from within, containing a shimmering blue substance\"}. The moment of exchange. Both are looking at each other with cautious curiosity. In the background: a landing module and a strange organic alien ship, a setting Martian sun, long shadows, dust in the air, cinematic epic lighting, 8k, photorealism.",
+    "title": "Martian Astronaut and Alien Exchange",
+    "description": "A cinematic sci-fi prompt depicting a human astronaut handing an iPhone to a tall humanoid alien on the surface of Mars during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607875030_li5wi7_HI_1rt9asAAPDjN.jpg",
+      "https://cms-assets.youmind.com/media/1779607875022_6noc05_HI_1rtqaoAEp5CD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22032,
     "content": "Gemini, Gemini constellation\n\n{argument name=\"location\" default=\"Another dimension\"}\n\n{argument name=\"style\" default=\"Fantasy stellar style\"}",
     "title": "Fantasy Stellar Gemini Dimension",

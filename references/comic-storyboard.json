@@ -1,11 +1,56 @@
 [
   {
-    "id": 22021,
-    "content": "A young girl with blue hair and a distressed expression stands in front of a giant, {argument name=\"monster\" default=\"fluorescent pink stitched monster\"} with fluorescent yellow eyes and a wide, toothy grin. The monster's mouth is fluorescent green, revealing large, blocky teeth. The girl wears a {argument name=\"outfit\" default=\"brightly colored, polka dot-patterned t-shirt\"} in fluorescent pink, green, and yellow and has fluorescent pink and green pigtails. The overall style is reminiscent of a comic book or graphic novel, with bold outlines and vibrant, contrasting fluorescent pink, green, and yellow colors dominating the scene. The background is a solid {argument name=\"background color\" default=\"fluorescent yellow-green color\"}.",
-    "title": "Fluorescent Comic Book Monster Art",
-    "description": "A vibrant comic-book style prompt featuring a young girl and a giant fluorescent pink stitched monster with high-contrast neon colors.",
+    "id": 22084,
+    "content": "A medium shot of a serene {argument name=\"subject\" default=\"Caucasian woman with long, wavy light brown hair\"} and expressive green eyes, smiling gently as she stands in the middle of a snow-covered, rustic Japanese village street lined with traditional wooden houses. She is wearing a {argument name=\"outfit\" default=\"cozy, thick forest green cable-knit sweater\"}, a soft off-white wool scarf wrapped around her neck, and a beige crossbody bag slung over her shoulder, while carefully cradling a steaming, ornate blue-and-white patterned ceramic teacup in both hands. To her right stands a rustic wooden signpost with multiple pointing arrows containing Japanese kanji and English text indicating mountain trails like \"Kamikochi,\" and the background features a dramatic, towering snow-capped mountain range under a blue sky with soft, stylized clouds. The entire scene is rendered in a {argument name=\"art style\" default=\"highly detailed, hand-drawn artistic medium\"}, balancing realistic human features with beautifully textured cross-hatching, fine line work, and rich, layered coloring that blends the warmth of her winter clothing against the crisp, cold mountain landscape.",
+    "title": "Snowy Japanese Village Winter Illustration",
+    "description": "A detailed artistic prompt for a hand-drawn illustration of a woman in winter clothing within a traditional Japanese mountain village.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779520918892_6t59u0_HI1fMMTXIAMcvTi.jpg"
+      "https://cms-assets.youmind.com/media/1779607894078_abzs6t_HJA0JJzXkAAdvB3.jpg",
+      "https://cms-assets.youmind.com/media/1779607894737_8lmdc6_HJA0JKgXIAAFbnJ.jpg",
+      "https://cms-assets.youmind.com/media/1779607894023_p98x99_HJA0JOJXsAAya9b.jpg",
+      "https://cms-assets.youmind.com/media/1779607895692_kec9jh_HJA0JRRWkAASsJj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22050,
+    "content": "A girl in a fully closed modern white spacesuit with a tinted visor stands on the surface of Mars. Red-orange rocky desert, dusty pinkish sky. Opposite her stands a tall humanoid {argument name=\"alien description\" default=\"alien with pale pink semi-transparent skin, an elongated skull, large black almond-shaped eyes, and a graceful slender body\"} in a tight-fitting bio-organic suit of silvery-pearl color. Realistic detailed anatomy. The girl is handing him an {argument name=\"human item\" default=\"iPhone in a pink case\"}. The alien is handing her a {argument name=\"alien item\" default=\"crystal vial glowing from within, containing a shimmering blue substance\"}. The moment of exchange. Both are looking at each other with cautious curiosity. In the background: a landing module and a strange organic alien ship, a setting Martian sun, long shadows, dust in the air, cinematic epic lighting, 8k, photorealism.",
+    "title": "Martian Astronaut and Alien Exchange",
+    "description": "A cinematic sci-fi prompt depicting a human astronaut handing an iPhone to a tall humanoid alien on the surface of Mars during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607875030_li5wi7_HI_1rt9asAAPDjN.jpg",
+      "https://cms-assets.youmind.com/media/1779607875022_6noc05_HI_1rtqaoAEp5CD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22069,
+    "content": "Cinematic space opera realism, masterpiece quality. Camera Position: high overhead bird's-eye angle, slightly tilted | Framing: looking down at the emperor and throne from above, the black hole opening directly beneath/behind the throne into infinite darkness, planetary destruction radiating outward in a circular composition. Subject: A dark emperor seated on a colossal floating throne, viewed from a high overhead angle that emphasizes his solitude and dominance against the incomprehensible scale of the black hole below. The throne floats at the exact tipping point of the event horizon — a tiny figure in absolute command of cosmic destruction. Clothing: black robes spread dramatically outward from the throne seat, dissolving into dark smoke that curls into the gravitational pull below. The robe dissolution creates a visual wing-like silhouette when seen from above, giving the emperor a dark angelic geometry. Crown: the crown's golden light projects upward toward the camera, blazing directly at the viewer — a concentrated point of warm radiance against the darkness. Throne: the massive obsidian throne becomes a centerpiece in the circular composition, its edges catching accretion disk amber light, casting long shadows outward in all directions. Background: radiating outward from the throne in a circle: shattered planets at various stages of destruction — some still partially intact with visible surface geography and cloud cover, others reduced to orbiting fragments and glowing magma trails. The black hole's accretion disk forms an enormous ring of fire that fills the extreme background, gravitational lensing creating concentric arcs of bent starlight around the void. The depth of the black hole stretches downward into absolute darkness below the throne. Primary Light: accretion disk light radiating inward from all sides — warm amber-gold casting circular light patterns on the throne and robe spread. Secondary Light: crown's golden upward blaze creating a spotlight-like cone toward the viewer. Ambient: cold blue-white starlight and gravitational lens arcs creating fine rim highlights on planet fragments. Color Grade: radial color — warm gold and amber at the edges from the accretion disk, deep cold black at the void center | crown warm gold beacon | robe smoke dark violet-black. Textures: detailed planetary surface geography on planet fragments, hyper-detailed robe fabric spread, rough throne stone surface with glinting mineral inclusions. Vibes: 2001 A Space Odyssey meets Avengers Endgame portal scene meets Lovecraftian cosmic scale — overwhelming, circular, mythological.",
+    "title": "Cosmic Space Opera Dark Emperor",
+    "description": "A dramatic, high-angle bird's-eye view of a dark emperor on a floating throne at the edge of a black hole, surrounded by planetary destruction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607885600_b8heot_HI_1bR0b0AATtv4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22067,
+    "content": "A minimalist character portrait sketch sheet in a clean, \"{argument name=\"style\" default=\"Aero & Chic\"}\" style. The artwork features two characters—a profile view of a woman with medium-length dark hair and a front-facing view of a man with neat parted dark hair—both wearing round wire-rim glasses, cozy textured knit sweaters, and holding a warm mug of coffee. The art uses precise, delicate line work paired with a soft watercolor wash and a nostalgic aesthetic. Each portrait includes isolated close-up detail boxes for the sweater texture, the eyewear, and the hands holding the mug. The design is presented on a clean background with a muted color palette breakdown (incorporating earth tones like sage green, denim blue, warm wood browns, and cream beiges) alongside a \"Style Notes\" description box, capturing a calm, modern minimalist vibe.",
+    "title": "Aero & Chic Minimalist Character Sketch",
+    "description": "A clean, minimalist character portrait sketch sheet with a watercolor wash effect, featuring profile and front views with texture detail boxes and style notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg",
+      "https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22021,
+    "content": "A {argument name=\"character\" default=\"young girl\"} with {argument name=\"hair color\" default=\"blue\"} hair and a distressed expression stands in front of a giant, {argument name=\"monster color\" default=\"fluorescent pink\"} stitched monster with fluorescent yellow eyes and a wide, toothy grin. The monster's mouth is fluorescent green, revealing large, blocky teeth. The girl wears a brightly colored, polka dot-patterned t-shirt in fluorescent pink, green, and yellow and has fluorescent pink and green pigtails. The overall style is reminiscent of a comic book or graphic novel, with bold outlines and vibrant, contrasting fluorescent pink, green, and yellow colors dominating the scene. The background is a solid fluorescent yellow-green color.",
+    "title": "Fluorescent Comic Book Monster Encounter",
+    "description": "A vibrant, fluorescent comic book style illustration featuring a young girl standing before a giant, grinning stitched monster with bold outlines and high-contrast yellow and pink tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607883242_9xw9qp_HI1fMMTXIAMcvTi.jpg"
     ],
     "needReferenceImages": false
   },

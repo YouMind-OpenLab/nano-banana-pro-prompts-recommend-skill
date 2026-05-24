@@ -20,6 +20,111 @@
     "needReferenceImages": false
   },
   {
+    "id": 22079,
+    "content": "\"A crowded, vibrant composition featuring multiple photographic cutouts of the same subject layered over a {argument name=\"background color\" default=\"textured pink background\"}.\",\n      \"key_elements\": \"White sticker outlines around the subject cuts, sparkle effects, floating graphics, and ransom-note style text.\"\n    },\n    \"subject_details\": {\n      \"demographics\": \"{argument name=\"subject description\" default=\"Young Asian woman (K-pop idol visual)\"}, fair porcelain skin, soft feminine features.\",\n\"hair\": \"Long, voluminous jet-black hair with see-through bangs (air bangs). Styled straight or with very loose waves.\",\n      \"makeup\": \"Pink-toned 'wonyoung' or 'douyin' makeup: gradient pink lips, heavy pink blush on apple of cheeks and nose tip, glitter eyeshadow, sharp eyeliner.\",\n      \"jewelry\": \"Pearl drop earrings, delicate silver necklace, silver rings, and a baby pink digital watch (Casio style) with a beaded bracelet.\"\n    },\n    \"outfit_details\": {\n      \"style\": \"{argument name=\"clothing style\" default=\"High-teen / Preppy School Uniform\"}.\",\n      \"garments\": {\n        \"outer\": \"Pastel pink fitted blazer with dark grey piping and a gold school crest emblem on the pocket.\",\n        \"inner\": \"White button-up shirt.\",\n        \"neckwear\": \"Large pink satin bow tie.\",\n      \"bottom\": \"Pink and white plaid pleated mini skirt.\",\n      \"legwear\": \"White knee-high socks.\",\n      \"footwear\": \"White Mary Jane shoes.\"\n      }\n    },\n    \"pose_layout_breakdown\": {\n      \"main_portrait_bottom_right\": \"Large close-up. Subject holding both hands against her cheeks (flower pose), looking slightly to the side with a dreamy expression.\",\n      \"upper_left_cutout\": \"Waist-up shot. Subject adjusting her bow tie with both hands, looking forward.\",\n      \"full_body_insert_bottom_left\": \"Miniature full-body cutout. Standing straight with arms at sides, neutral sweet pose.\",\n      \"top_right_cutout\": \"Headshot. Smiling gently at the camera.\",\n      \"middle_right_cutout\": \"Close-up. Smiling brightly.\"\n    },\n    \"graphic_overlays\": {\n      \"stickers\": \"Pink heart balloons, iridescent butterflies, cherry blossom flowers, music notes, white stars.\",\n      \"text\": \"Ransom-note style text reading 'IQRASAIFIII' at the bottom.\",\n      \"background_texture\": \"Pink gingham pattern mixed with floral textures and soft bokeh.\"\n    },\n    \"camera_technical_values\": {\n      \"source_photography_style\": \"High-end Commercial Studio Portraiture.\",\n      \"focal_length\": \"85mm (Flattering portrait lens for the cutouts).\",\n      \"aperture\": \"f/4.0 (Sharp focus on subject faces).\",\n      \"shutter_speed\": \"N/A (Collage).\",\n      \"iso\": \"ISO 100.\",\n      \"lighting_setup\": \"High-Key Beauty Lighting. Large bright softbox from the front to eliminate shadows on the face. Ring light reflections visible in the eyes.\",\n      \"color_grading\": \"Pastel pink dominant, high saturation, slightly overexposed for a 'bloom' effect.\"\n    }",
+    "title": "Y2K Aesthetic Digital Scrapbook",
+    "description": "A comprehensive prompt for creating a vibrant Y2K-style digital scrapbook collage with K-pop idol visuals, stickers, and textured pink backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607891948_jwpg5j_HJCo2NTWEAA82QC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22081,
+    "content": "A high-angle, top-down photograph of an artist's wooden workspace. In the center sits an elegant, open dark wood display box with two side-by-side portrait panels. The left panel shows a crisp, {argument name=\"photo style\" default=\"black-and-white silver-gelatin photograph\"} of a young woman looking off to the side in profile, wearing a black knit sweater, a delicate necklace, and a {argument name=\"accent color\" default=\"vibrant, textured gold hoop earring\"} with a droplet charm that provides the only color in the image. The right panel features a meticulous, multi-layered paper-cut art interpretation of the exact same portrait, crafted from layered shades of grey cardstock to create depth, complete with the same textured gold earring. Small metallic plaques are mounted beneath each image, reading \"ORIGINAL: SILVER-GELATIN PHOTOGRAPH\" and \"INTERPRETATION: SHADOW BOX PAPER ART\" respectively, with the central title \"{argument name=\"title text\" default=\"THE DIALECTIC OF PORTRAITURE\"}\" engraved in the wood. Scattered around the box on the weathered wooden table are artist tools, including a precision craft knife, a pencil, ink bottles, and a closed sketchbook, creating an authentic studio atmosphere.",
+    "title": "Mixed Media Artist Studio Display",
+    "description": "A sophisticated prompt for a studio workspace scene featuring a side-by-side comparison of a photo and its paper-cut interpretation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607893335_xp68jm_HJBVPm3WQAAHz-4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22065,
+    "content": "Transform the {argument name=\"source image\" default=\"uploaded photo\"} into {argument name=\"visual style\" default=\"Sticker Collage Scrapbook Cover Effect\"}. Use the {argument name=\"source image\" default=\"uploaded image\"} as the ONLY identity reference for the subject. Preserve identity, face shape, hairstyle, expression, outfit cues, and overall recognizability while rendering the final concept in a polished, premium, highly shareable way. Build the full scene around the exact visual language implied by the title. Keep the subject clearly readable. Add the right atmosphere, props, and composition cues to make the concept instantly understandable. Negative constraints. No identity drift, no extra people, no broken anatomy, no muddy rendering, no generic AI artifacts, and no irrelevant mixed styles.",
+    "title": "Scrapbook Cover Sticker Collage Effect",
+    "description": "A style transfer prompt that transforms an uploaded photo into a polished, premium sticker collage scrapbook cover while strictly preserving the subject's identity and facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607882682_6nr4ru_HJBKv0MaQAAVQeb.jpg",
+      "https://cms-assets.youmind.com/media/1779607882752_n0t4bv_HJBKv3EbMAAvGDc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22052,
+    "content": "Ultra-realistic black-and-white fine art studio portrait of a {argument name=\"subject\" default=\"handsome young South Asian man\"}, medium-length thick black hair swept across the forehead with soft volume and natural texture, well-groomed short beard and mustache, defined jawline, smooth skin, expressive eyes gazing thoughtfully to the side, elegant and confident demeanor. Wearing a {argument name=\"clothing\" default=\"tailored black tuxedo jacket over a slightly unbuttoned crisp white dress shirt with an open collar\"}, luxury wristwatch visible on the wrist, subtle ring on finger. Subject seated in a relaxed editorial pose with fingers gently interlocked, body angled three-quarters toward the camera while face looks away toward the light source. Deep emotional, contemplative, sophisticated expression. Professional studio photography, seamless pure black background, {argument name=\"lighting\" default=\"dramatic low-key lighting, single large softbox positioned 45 degrees from camera left creating cinematic Rembrandt lighting\"}, rich shadows, smooth falloff, subtle catchlights in eyes, strong contrast, sculpted facial features, detailed hair texture, luxurious monochrome tonal range. Fine art portrait photography, Leica SL3, 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp focus on eyes and face, creamy background separation, ultra-high dynamic range, impeccable skin detail, premium fashion magazine aesthetic, timeless elegance, black and white masterpiece, museum-quality portrait, Vogue editorial style, cinematic mood, soft highlight rolloff, realistic textures, ultra-detailed, photorealistic, 8K resolution.",
+    "title": "Sophisticated Studio Tuxedo Portrait",
+    "description": "A fine art studio portrait prompt for a young South Asian man in a tuxedo, using Rembrandt lighting and black-and-white monochrome tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607876604_2xlgh5_HJA1v4GbMAALdjr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22057,
+    "content": "Ultra-realistic dramatic portrait of a {argument name=\"subject\" default=\"man\"} (from uploaded image), messy hair over one eye, wearing a {argument name=\"outfit\" default=\"black turtleneck\"}, centered with an Intense stare. Bright sharp horizontal {argument name=\"light color\" default=\"red\"} light highlights only the eyes and reflects on the gray wall; rest in deep shadow. Moody, minimalist, cinematic.",
+    "title": "Dramatic Red Light Man Portrait",
+    "description": "A minimalist and cinematic portrait of a man with messy hair and an intense stare, utilizing a sharp horizontal red light highlight to create a moody atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607879118_eia31x_HJAx3mRb0AE-GgX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22072,
+    "content": "Ultra-stylized high-fashion editorial poster of a confident {argument name=\"subject\" default=\"young Asian female model\"} standing in the center frame, elegant pose, glossy radiant skin, soft dewy makeup, long silky black hair with wispy bangs, wearing modern trendy K-fashion streetwear with premium styling details. Clean studio lighting with high-contrast fashion flash photography, sharp focus, ultra-detailed textures, cinematic composition. Background filled with vibrant retro pop-art magazine aesthetics, layered graphic typography, dynamic UI-inspired design elements, holographic chrome effects, stickers (stars, hearts, sparkles), barcode strips, speech bubbles, and futuristic collage layering. Japanese and Korean-inspired typographic accents integrated as visual design elements. Overall mood combines nostalgic 2000s teen fashion magazine energy with modern luxury editorial campaign style. Bold color harmony, premium print aesthetic, ultra crisp details, fashion advertising quality, 8K resolution, highly polished commercial poster look, surreal yet stylish, trend-forward global fashion branding vibe.",
+    "title": "Ultra-Stylized K-Fashion Magazine Poster",
+    "description": "A high-fashion editorial prompt for creating a stylized poster with K-fashion streetwear and 2000s magazine aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607888752_ewols3_HI_0I5KXgAAE7Vd.jpg",
+      "https://cms-assets.youmind.com/media/1779607888720_093dln_HI_0JHNXwAA5Uv2.jpg",
+      "https://cms-assets.youmind.com/media/1779607888714_2pl7ho_HI_0I-yWMAAP-iu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22042,
+    "content": "A breathtaking cinematic capture of a ballerina executing a flawless, fluid pose atop wet, dark coastal rocks. She is adorned in a flowing, semi-translucent pleated lavender gown with a plunging neckline and side cutouts, the fabric catching a gentle breeze as it cascades around her form. Standing on perfect pointe, her silhouette exudes grace against a majestic backdrop of towering, pristine icebergs and a calm arctic sea. The soft, diffused overcast lighting bathes the entire scene in a cool, serene glow, casting subtle, detailed reflections on the damp rock surfaces and ice-cold water pools. The composition balances the delicate, organic movement of the dance with the monumental, static grandeur of the glacial environment, creating a striking contrast between human elegance and untamed nature. {\"meta\": {\"quality\": \"Masterpiece of cinematic photography capturing ultra-fine fabric textures and pristine environmental details\", \"style\": \"Avant-garde editorial fashion photography merging high-art dance with dramatic, cold atmospheric realism\", \"aspect_ratio\": \"Vertical cinematic frame optimized for deep spatial depth and tall environmental verticality\"}, \"subject_aura\": {\"capture_type\": \"Full-body dynamic action freeze focusing on the intense tension and grace of classical ballet\", \"outfit_vibe\": \"Ethereal pastel lavender chiffon dress with delicate pleating that interacts softly with the wind\", \"pose_flow\": \"Extended arabesque on perfect pointe showcasing seamless lines and elegant, weightless balance\"}, \"scene_aesthetics\": {\"location_feel\": \"Sublime arctic landscape featuring monumental ice structures rising from a tranquil, reflective ocean\", \"lighting_mood\": \"Soft, natural ambient light diffused through a thin layer of polar clouds creating zero harsh shadows\", \"color_palette\": \"Harmonious blend of freezing glacial blues, clean whites, deep charcoal rocks, and soft lavender accents\"}, \"technical_illusion\": {\"camera_style\": \"High-resolution commercial fashion lookup with deep depth of field keeping the background sharp\", \"lens_feel\": \"Premium prime lens rendering natural human proportions and crisp micro-contrasts in wet surfaces\"}}",
+    "title": "Ballerina on Arctic Icebergs",
+    "description": "A breathtaking cinematic prompt for a ballerina in a lavender gown performing on wet coastal rocks against a backdrop of icebergs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607870931_hepfln_HI_qoTzaYAAEJ7F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22046,
+    "content": "Ultra-realistic double exposure portrait of a clean fair beautiful {argument name=\"gender\" default=\"young female\"} football player wearing {argument name=\"jersey colors\" default=\"teal-orange\"} soccer jersey, dynamic dribbling action pose with football on green stadium field, large cinematic face portrait in background, silky ponytail hairstyle, glowing fair skin, detailed facial features, dramatic teal-orange paint splash effects, energetic {argument name=\"style\" default=\"sports poster aesthetic\"}, bright stadium lights, blurred cheering crowd background, premium football artwork style,sharp focus, DSLR",
+    "title": "Double Exposure Football Poster",
+    "description": "A high-energy sports poster prompt using double exposure to blend a female football player in action with a large cinematic facial portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607873776_pvgycl_HI_hpfrbEAA0CQW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22047,
+    "content": "A vibrant {argument name=\"style\" default=\"cyberwave pop-art illustration\"} featuring cool characters immersed in a glowing neon city lifestyle. The scene bursts with an {argument name=\"colors\" default=\"electric palette of hot pink, neon green, bright teal, and purple\"}, styled with a graffiti-dripping aesthetic and bold outlines. On one side, stylish Black women rock voluminous afros, braided hair, and trendy multi-colored patchwork streetwear with cargo pants. On the other side, a character with curly dark hair wears oversized cyber-sunglasses and glowing headphones that emit swirling green energy smoke, dressed in a detailed graphic tee and denim jacket. The background is a {argument name=\"setting\" default=\"dense, futuristic urban cityscape filled with glowing digital grids, neon text graffiti reading 'CYBERWAVE' and 'NEON LIFE'\"}, and dripping paint effects.",
+    "title": "Cyberwave Pop-Art Illustration",
+    "description": "A vibrant and electric pop-art prompt for generating characters in a neon-lit futuristic city with graffiti and digital grid aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607873454_ueyiv4_HI_FrM-WMAAzW1w.jpg",
+      "https://cms-assets.youmind.com/media/1779607873483_qcbswt_HI_FrLXXcAAgVzH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22071,
+    "content": "A {argument name=\"style\" default=\"Japanese streetwear magazine-style poster collage\"} with a gritty, urban aesthetic, featuring a main portrait of a fashionable young East Asian woman alongside smaller taped-on Polaroid-style photos showing her in different candid poses. The design uses a dark, muted color palette dominated by black, charcoal, sepia, and textured grunge details, accented by bold typography. Large, weathered Japanese kanji characters are positioned vertically on the side, surrounded by street-fashion graphic elements like barcodes, date stamps, and labels like \"STREET VISION.\" The overall look is edgy, cinematic, and modern, blending raw street photography with structured editorial layout design.",
+    "title": "Japanese Streetwear Magazine Collage",
+    "description": "An edgy urban streetwear magazine-style poster collage featuring portrait and Polaroid-style candid poses with grit, Japanese typography, and graphic design elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607886987_pzwxpd_HI-sPHEXIAAHXzH.jpg",
+      "https://cms-assets.youmind.com/media/1779607887033_t4wuet_HI-sPLHWYAAXZrj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22006,
     "content": "Ultra-photorealistic 2x2 luxury glossy editorial collage featuring the same woman across all four panels, with strict identity consistency, strict body consistency, the same skin tone, the same proportions, and the same elegant posture language in every frame. CONCEPT: A dark luxury fashion editorial centered on sculptural back lines, shoulders, neck, arms, and an open-back deep red dress, with a mysterious fallen-angel aura. The mood is sensual, elegant, expensive, cinematic, controlled, and minimal. The overall feeling should be high-fashion editorial, refined and dramatic, never cheap or costume-like. SUBJECT: A beautiful woman with long loose black hair, consistent identity across all four panels. Hair is sleek yet softly textured, flowing naturally down the back and shoulders. Makeup is dark smoky eye makeup with softly diffused black shadow, defined brows, and a polished editorial finish. Nails are glossy deep red or black-cherry, long and elegant. Expression and body language are poised, feminine, and powerful. OUTFIT: Deep crimson / burgundy / blood-red velvet or satin halter dress with an open back, realistic glossy fabric highlights, natural draping, subtle tension around the waist and hips, and elegant luxury construction. The dress must look premium and believable, with no fabric glitches. The red should feel rich, dark, and sophisticated, not bright or cheap. WINGS: Large dark red angel wings behind the woman, dramatic and elegant, slightly torn and weathered for a fallen-angel feeling. The wings should feel sculptural and luxurious, not fantasy cosplay. Feather texture should be rich, layered, deep burgundy to oxblood red, with softly darkened damaged edges. The wings must integrate beautifully with the poses and lighting without overpowering the fashion editorial tone. SKIN: Glossy editorial wet-skin finish with a subtle oil sheen on the shoulders, upper back, neck, arms, and along the spine line. Real skin texture must remain visible, including pores, natural tonal variation, and realistic highlights. No plastic smoothing. The sheen should look expensive, controlled, and believable, not sweaty or messy. ENVIRONMENT: Minimal studio background with a warm grey, taupe, or soft beige seamless backdrop. No props, no distractions, no clutter. LIGHTING: Premium glossy studio lighting: - large softbox key light from the upper side - narrow rim light tracing the shoulders, spine, and wing edges - soft warm highlights on skin and fabric - deep but clean shadows - smooth gradient falloff - high-end editorial contrast - no harsh flash - no fake glow GRID 2x2: TOP LEFT: Back-facing pose, arms raised above the head, hands resting in the hair. Spine line, shoulder blades, and upper wing structure are emphasized with glossy highlights. Black hair falls naturally over part of the back while the open-back red dress and wings remain clearly visible. TOP RIGHT: Slight torso twist, one shoulder closer to the camera, head turned subtly away. The red dress catches light along one side, and the dark red angel wings frame the silhouette elegantly. Strong emphasis on shoulder, waist, and back contour. BOTTOM LEFT: Closer crop on the upper back, neck, shoulders, hands, and partial wing texture. Focus on wet-skin texture, glossy nails, smoky makeup details near the eye area if visible, and luxury detail in the red dress fabric. BOTTOM RIGHT: Elegant half-turn pose from behind, body rotated slightly, side profile subtly hinted but face mostly hidden. Strong glossy rim light on the shoulder, waist curve, and the edge of the dark red wings. The silhouette should feel sleek, mysterious, and powerful. CAMERA: Medium format fashion photography look, 85mm or 100mm lens, f/2.0, ISO 100, shallow depth of field, ultra-sharp focus on skin texture, hair texture, feather detail, and fabric finish, ultra high resolution, luxury editorial quality. COLOR GRADE: Deep burgundy, oxblood, crimson, and soft warm neutrals, with subtle champagne skin highlights and elegant shadow contrast. Fine film grain. Rich dark editorial tonality. No oversaturation. REALISM RULES: Anatomically correct back, shoulders, arms, hands, neck, and spine curve. Realistic skin sheen. Realistic red dress tension and drape. Realistic feather texture and wing anatomy. No exaggerated body proportions. No fantasy illustration look. Keep everything photorealistic and luxury editorial. NEGATIVE PROMPT: plastic skin, over-smoothed skin, fake oil, fake glow, sweaty messy look, harsh flash, distorted spine, bad anatomy, extra fingers, warped hands, broken shoulders, unrealistic wings, cheap costume wings, fake feathers, fabric glitches, unrealistic dress, altered body proportions, cartoon, anime, illustration, text, watermark, logo, oversharpening, AI artifacts",
     "title": "Dark Luxury Fallen Angel Editorial",

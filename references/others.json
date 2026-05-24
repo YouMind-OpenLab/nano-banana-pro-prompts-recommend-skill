@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 22059,
+    "content": "Photorealistic shot taken from below. A beautiful {argument name=\"age\" default=\"25\"}-year-old woman with intense concentration on her face is rock climbing on a sheer cliff above a {argument name=\"water color\" default=\"turquoise\"} sea. Her strong, toned hands covered in chalk are firmly gripping the holds. She is wearing a {argument name=\"outfit\" default=\"sports tank top and climbing shorts\"}. Harsh side lighting perfectly highlights the definition of her muscles and the texture of the rock. 8K resolution, perfectly contrasted lighting, slightly lowered exposure, atmosphere of overcoming challenges, epic angle emphasizing height and danger.",
+    "title": "Rock Climbing Woman Sea Cliff",
+    "description": "An epic, high-angle shot of a woman rock climbing on a cliff above a turquoise sea. Features harsh side lighting to emphasize muscle definition and rock texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607879707_voc3rn_HI_gyUgboAATmMH.jpg",
+      "https://cms-assets.youmind.com/media/1779607879698_7qx4dw_HI_gy2eaAAEg6H-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21268,
     "content": "A pencil sketch utilizing a {argument name=\\\"effect\\\" default=\\\"double exposure effect\\\"} to merge two facial profiles of the same {argument name=\\\"subject\\\" default=\\\"young man\\\"} with a serene landscape. The left profile looks upward and into the distance with a hopeful or contemplative expression, while the right profile is cast downward in a look of introspection or melancholy. Within the silhouette of their necks and shoulders, a {argument name=\\\"landscape\\\" default=\\\"detailed nature scene\\\"} unfolds, featuring a lone traveler with a backpack walking along a path next to a calm lake, surrounded by pine trees, distant mountains, and a flock of birds flying across a textured sky.",
     "title": "Double Exposure Pencil Sketch",
