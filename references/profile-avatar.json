@@ -10,6 +10,149 @@
     "needReferenceImages": false
   },
   {
+    "id": 22234,
+    "content": "Create a 4:5 ultra realistic cinematic studio portrait using uploaded reference photos, replace original subject while preserving exact facial identity, proportions, hairstyle, beard density, skin tone, smile structure, natural imperfections, maximum accuracy. Vertical portrait composition, medium-full body framing, subject standing casually with relaxed posture. Both hands naturally inside pockets, body slightly turned, head tilted upward while laughing genuinely. Candid confident expression, natural energetic vibe, preserve exact pose, body angle, framing, perspective, composition. Shot on 85mm prime lens, shallow depth, cinematic studio photography, ultra sharp face focus, soft background separation, realistic depth, DSLR quality. Dramatic cinematic lighting, deep shadow contrast, strong warm key light from upper left, subtle rim light around face and shoulders, smooth shadow falloff, vibrant blue seamless studio background, moody editorial grading, realistic skin reflections, shadow depth. {argument name=\"clothing\" default=\"Oversized matte black t-shirt\"}, modern minimal streetwear aesthetic, {argument name=\"accessory\" default=\"natural eyeglasses\"} realistically integrated, premium casual creator look, subtle watch visible if fitting.\n\nDo not modify or stylize face, preserve exact identity from references, maintain real facial proportions, skin texture, smile shape, laugh expression. No beautification, exaggerated jawline, hairstyle change, beard pattern changes, artificial smoothing. Preserve natural asymmetry, realistic human details. Hyper realistic, cinematic portrait photography, realistic anatomy, ultra detailed skin texture, soft realistic shadows, premium Instagram creator aesthetic, editorial fashion feel, HDR lighting, 8k render, natural realistic color science.",
+    "title": "Cinematic Studio Portrait Reference",
+    "description": "This prompt is designed to replace a subject in a cinematic studio portrait while preserving facial identity and anatomical proportions based on uploaded photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695943274_gzsjuz_HJG0lGDbEAAz-B_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22224,
+    "content": "A waist-up medium shot lifestyle summer portrait of {argument name=\"name\" default=\"[NAME]\"} with long hair and a gentle, warm smile. She is wearing a {argument name=\"top\" default=\"light pink front-zip cropped top\"}, short white denim shorts, a classic blue open-face retro motorcycle helmet, small star-shaped earrings, and a delicate necklace. Her skin features a natural, glowing texture with visible fine pores under the bright summer sun. She is sitting sideways on a {argument name=\"scooter\" default=\"vintage red Vespa-style scooter\"}, relaxedly holding the handlebars with both hands and looking directly at the camera lens. The scooter features bright chrome mirrors and details. The scene is set in an outdoor parking lot on a radiant day, beautifully framed by tall palm trees under a vibrant blue sky with fluffy white clouds. Bright natural daylight creates intense, beautiful specular highlights on the helmet, the scooter's paint, and the chrome, while casting sharp shadows on the ground to emphasize a cheerful, sunny, and carefree summer atmosphere. Shot from an eye-level angle using a 50mm lens at f/2.8 aperture to keep the model and scooter in tack-sharp focus, creating a smooth, soft bokeh on the background cars and palm trees. ISO 100, 1/1000s shutter speed to balance the intense daylight. High-resolution photography with impeccable white balance for direct sunlight, featuring an authentic rendering of metal, denim, and skin textures. Aspect Ratio: 9:16.",
+    "title": "Summer Moped Ride Portrait",
+    "description": "A high-quality lifestyle photography prompt for a summer portrait featuring a subject on a vintage scooter with natural lighting and bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695938397_omf8sk_HJGxMcnXAAAe_zX.jpg",
+      "https://cms-assets.youmind.com/media/1779695938391_rvvrtt_HJGxMc5WIAAZO6T.jpg",
+      "https://cms-assets.youmind.com/media/1779695938389_rhu9bm_HJGxMglWsAAq06L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22230,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"face\": \"Soft feminine facial features with delicate jawline, glossy natural pink lips, subtle peach blush, lightly sun-kissed skin, realistic pores and smooth skin texture, soft brown eye makeup, feathered brows, detailed eye reflections, natural healthy glow with realistic facial depth\",\n        \"hair\": \"Hair tied in relaxed high ponytail with soft loose strands framing face, silky texture, natural flyaways, realistic shine and soft movement\",\n        \"expression\": \"Gentle playful smile with dreamy eyes, relaxed confident feminine energy, warm candid vacation mood\"\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure with natural elegant proportions\"\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"details\": [\n          \"{argument name=\"top\" default=\"Bright orange ribbed sleeveless crop top\"}\",\n          \"Soft fitted fabric texture\",\n          \"{argument name=\"bottom\" default=\"High-waisted loose cream linen pants\"}\",\n          \"Natural fabric folds and realistic stitching\",\n          \"Minimal luxury summer styling\"\n        ]\n      },\n      \"accessories\": {\n        \"details\": [\n          \"Thin silver necklace\",\n          \"Minimal elegant jewelry\",\n          \"Natural glossy manicure\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"details\": [\"Leaning forward on a lounge chair with both arms stretched toward the camera, shoulders slightly inward, upper body close to lens for natural wide-angle perspective, head tilted softly to the side with chin slightly lowered, direct eye contact, relaxed closed-mouth smile, back gently curved forward, one knee bent inward, casual feminine posture with soft playful energy, candid vacation-style pose, shot from slightly above eye level with close smartphone framing.\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Luxury tropical resort outdoor lounge area\"}\",\n      \"background\": [\n        \"White lounge chair with soft towel texture\",\n        \"Green tropical plants and trees\",\n        \"Modern resort architecture\",\n        \"Warm wooden furniture accents\",\n        \"Bright sunny outdoor atmosphere\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Ultra realistic natural sunlight\",\n      \"style\": \"Luxury lifestyle vacation photography\",\n      \"effects\": [\n        \"Soft midday sunlight\",\n        \"Natural skin highlights\",\n        \"Realistic facial shadows\",\n        \"Warm outdoor glow\",\n        \"Balanced exposure with cinematic depth\",\n        \"Subtle reflections on skin and fabric\"\n      ]\n    },\n    \"camera\": {\n      \"angle\": \"Close-up eye-level portrait shot\",\n      \"framing\": \"Medium candid vertical composition\",\n      \"focus\": \"Sharp focus on face with softly blurred tropical background\",\n      \"style\": \"Ultra realistic luxury resort photography\"\n    }\n  }\n}",
+    "title": "Luxury Tropical Resort Vacation Portrait",
+    "description": "A highly detailed vacation portrait prompt featuring a subject leaning on a lounge chair at a tropical resort, focusing on soft lighting and natural skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695941099_me27ei_HJGvl7ZaEAA6w8-.jpg",
+      "https://cms-assets.youmind.com/media/1779695941128_hoebwa_HJGvmgYa4AATUm7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22221,
+    "content": "Amateur close-up slightly soft smartphone selfie of a stunning woman resembling {argument name=\"person\" default=\"Sadie Sink\"} enjoying a {argument name=\"dessert\" default=\"strawberry and cream cornetto gelato\"} while laughing naturally at a lively beach bar during sunset. Looking directly toward the viewer with expressive blue eyes. Long soft red hair flowing naturally with loose strands catching the warm sunset light. Wearing a cream white sleeveless crop tank top with thin straps and a relaxed side detail, featuring a small elegant 'Love' embroidery near the lower hem. {argument name=\"location\" default=\"Bali beach\"} visible in the backdrop with tropical sunset sky, glowing beach lights, palm silhouettes, and softly blurred people. Casual candid vacation aesthetic, photorealistic skin texture with natural freckles, subtle smartphone lens softness, cinematic lifestyle photography, warm golden-hour lighting, 8k",
+    "title": "Candid Smartphone Vacation Selfie",
+    "description": "A prompt for generating a realistic, amateur-style smartphone selfie at a beach club during sunset, featuring natural skin textures and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695937154_znbd2l_HJGo4I7aUAE845h.jpg",
+      "https://cms-assets.youmind.com/media/1779695937150_p7ndjb_HJGo4FEaQAAuERm.jpg",
+      "https://cms-assets.youmind.com/media/1779695936413_yoecke_HJGo4GdbcAI0Qlq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22229,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"style\": \"Photorealistic contemporary fashion lifestyle photography with on-camera flash aesthetic\",\n    \"aspect_ratio\": \"9:16\",\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject\" default=\"[NAME]\"}\",\n      \"appearance\": {\n        \"hair\": \"Long, straight hair, slightly off-center part, falling over the left shoulder\",\n        \"makeup\": \"Subtle makeup with pink lips and defined eyebrows\",\n        \"expression\": \"Soft, confident expression with a slight smile\",\n        \"skin\": \"Smooth, hydrated, slightly glossy skin texture\",\n        \"details\": [\n          \"Small gold hoop earrings\",\n          \"Delicate thin necklace\",\n          \"Thin black bracelet on right wrist\",\n          \"Well-groomed hands with light pink manicure\"\n        ]\n      }\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"Short, sleeveless white dress, form-fitting with a draped cowl neckline\"}\",\n      \"footwear\": \"Open-toe high-heeled sandals with thin straps and subtle rhinestone details in rose gold or metallic tones\"\n    },\n    \"pose\": {\n      \"position\": \"Seated gracefully on a white staircase step\",\n      \"body\": \"Body slightly angled diagonally, knees bent with feet resting on lower steps\",\n      \"hands\": \"Both hands resting gently on knees or lower thighs, right hand placed over the left\",\n      \"head\": \"Facing directly toward the camera\",\n      \"posture\": \"Relaxed and elegant\"\n    },\n    \"setting\": {\n      \"location\": \"{argument name=\"location\" default=\"Modern white staircase at night\"}\",\n      \"background\": \"Adjacent white wall with встроенные square-shaped wall lights emitting a warm amber glow\",\n      \"elements\": \"Dark metal handrail running diagonally along the wall\"\n    },\n    \"props\": [\n      \"White quilted leather handbag with chain strap interwoven with metal and leather, placed on the step beside her\"\n    ],\n    \"lighting\": {\n      \"primary\": \"Strong direct frontal lighting (camera flash), creating a well-lit subject with sharp, defined shadows behind\",\n      \"ambient\": \"Warm amber lighting from wall fixtures for contrast\"\n    },\n    \"mood\": \"Glamorous, elegant, confident, and stylish nighttime atmosphere\",\n    \"technical\": {\n      \"framing\": \"Medium shot (American shot), slightly above eye level\",\n      \"orientation\": \"Portrait\",\n      \"quality\": \"Ultra-detailed, sharp focus, realistic skin texture, professional lighting, 8K resolution\"\n    }\n  }\n}",
+    "title": "Elegant Nighttime Staircase Fashion Portrait",
+    "description": "A detailed photorealistic prompt for a nighttime fashion shot on a white staircase with on-camera flash aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695940315_6vq7q7_HJF8Cmua4AAzW6U.jpg",
+      "https://cms-assets.youmind.com/media/1779695940312_glaueo_HJF8CqZbAAAUVpT.jpg",
+      "https://cms-assets.youmind.com/media/1779695940302_7ks9bq_HJF8CutakAAouTQ.jpg",
+      "https://cms-assets.youmind.com/media/1779695940929_cdvglr_HJF8Cz-bUAA3Gxx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22256,
+    "content": "Restore this old damaged photo without changing any details, 4K",
+    "title": "Old Photo Restoration 4K",
+    "description": "A simple prompt for restoring old, damaged photos to high-resolution 4K quality while preserving original details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695958866_18hmjm_HJFu8_bWwAEbwZY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22249,
+    "content": "{ \"face\": { \"description\": \"Use uploaded reference image, keep identity exact. Same facial structure, same eyes, same lips, same nose shape, same youthful appearance. Soft playful smile with slightly squinted eyes, relaxed confident expression while looking directly at the camera, subtle glossy lips, realistic skin texture with natural warm glow and authentic feminine charm.\" }, \"hair\": { \"description\": \"Use uploaded reference image hair color exactly. Long soft loose waves with natural volume and center-part styling, realistic texture, silky movement, detailed flowing strands framing the face naturally.\" }, \"clothing_type\": { \"description\": \"{argument name=\"outfit\" default=\"Short fitted luxury mini dress\"} with {argument name=\"pattern\" default=\"intricate blue paisley-inspired pattern\"}, silky premium fabric texture, body-hugging silhouette, elegant feminine styling, paired with delicate white sandals and a geometric metallic gold clutch bag, upscale influencer aesthetic.\" }, \"position\": { \"description\": \"{argument name=\"sitting pose\" default=\"Woman sitting elegantly on a modern white cube seat with one leg crossed over the other\"}, one hand resting naturally on the clutch bag while the other arm relaxes gently across the knee, upper body leaning slightly forward toward the camera, relaxed playful luxury pose.\" }, \"environment\": { \"description\": \"Minimalist modern luxury interior with white textured walls, wooden doorway accents, soft neutral tones, clean upscale apartment aesthetic, elegant natural home atmosphere with subtle depth and reflections.\" }, \"lighting\": { \"description\": \"Soft natural indoor daylight with realistic warm highlights, smooth skin reflections, cinematic luxury lifestyle ambiance, balanced shadows, natural exposure and realistic clean tones.\" }, \"camera\": { \"description\": \"Full-body vertical smartphone-style fashion photography, slightly low-angle perspective emphasizing crossed legs and relaxed pose, realistic social media framing, sharp focus with soft natural depth of field.\" }, \"quality\": { \"description\": \"Ultra realistic luxury lifestyle photography, highly detailed skin texture, realistic hair strands, premium fabric detail, cinematic soft color grading, natural imperfections, elegant influencer aesthetic, DSLR-quality sharpness with authentic lighting realism.\" } }",
+    "title": "Luxury Interior Fashion Photography",
+    "description": "A fashion-focused prompt for generating elegant portraits of a woman in a luxury mini dress sitting in a minimalist interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695953599_gkzxwa_HJFdZI-bwAE_pb5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22226,
+    "content": "A high-resolution indoor lifestyle portrait photograph of {argument name=\"subject name\" default=\"[NAME]\"}.\n​Captured in a medium-full shot from a slightly low angle, she leans casually and confidently forward against a {argument name=\"location\" default=\"kitchen counter\"}, her torso projecting slightly toward the camera. Her right arm extends down, gripping the counter's edge for support, while her left hand rests gently on her thigh. She has her hair gracefully swept to one side, looking directly at the camera with expressive, slightly narrowed eyes and a playful, confident, subtle smile. Her skin features a highly realistic, glowing texture with fine pores visible under the light. She is dressed in a plain, {argument name=\"clothing\" default=\"white, form-fitting cropped tank top\"} that reveals her midriff, paired with high-waisted black dolphin sports shorts featuring white piping and a white drawstring tied in a bow at the front.\n​The setting is a modern, well-lit domestic kitchen with a playful, alluring, and casual vibe. The background showcases light brown wooden lower cabinets with silver handles, a black countertop with integrated stove knobs, a white square-tile backsplash, and upper wooden cabinets. Subtle props like hanging kitchen utensils (a spatula and ladle) and a metal sink faucet blend into the elegantly blurred background. Bright, soft natural daylight streams through a large window on the left, casting a delicate rim light on her hair and the left side of her body, while creating smooth, natural shadow transitions on her right side.\n​Shot with a 35mm lens at f/2.8 to maintain sharp focus on her eyes and clothing texture while yielding a beautiful background bokeh on the tiles and kitchen details. The lighting is perfectly balanced, simulating ISO 200 and a 1/250s shutter speed to prevent overexposure from the window, ensuring impeccable white balance and perfectly retained shadow details. Aspect Ratio 9:16.",
+    "title": "Modern Kitchen Indoor Lifestyle Portrait",
+    "description": "A detailed lifestyle photography prompt of a woman posing confidently in a modern kitchen setting, with a focus on skin texture and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695938616_ub745w_HJFdA1jasAAvnRh.jpg",
+      "https://cms-assets.youmind.com/media/1779695938619_5mhymi_HJFdA3bbkAAhgNA.jpg",
+      "https://cms-assets.youmind.com/media/1779695938586_ji1q88_HJFdA_lawAAtHc_.jpg",
+      "https://cms-assets.youmind.com/media/1779695939320_mnl9g8_HJFdBFAaAAAs_yV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22264,
+    "content": "{argument name=\"character\" default=\"Magical Girl Madoka Kaname\"}. Ratio {argument name=\"aspect ratio\" default=\"9:16\"}, {argument name=\"quality\" default=\"4K quality\"}, anime style.",
+    "title": "Anime Style Madoka Kaname Portrait",
+    "description": "A high-quality 4K anime style prompt for generating Madoka Kaname in a 9:16 portrait orientation using the Nano Banana model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695964715_iphsax_HJFZ6nxWYAAWEXo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22235,
+    "content": "Use the uploaded reference image as the ONLY face and identity source. Create an ultra realistic cinematic portrait of the subject standing inside a {argument name=\"location\" default=\"dreamy fountain grass field\"} during golden hour, exact same pose as reference style: body slightly turned sideways, looking back over shoulder with a soft natural smile, calm elegant expression. Preserve 100% exact facial identity, face structure, skin tone, eyes, eyebrows, nose, lips, jawline, hairstyle, hair texture and body proportions from uploaded reference image. Long wavy hair softly flowing in wind. Outfit: {argument name=\"outfit\" default=\"black embroidered boho top with light blue jeans\"}, {argument name=\"accessories\" default=\"silver earrings and bracelet\"}. Surrounding fluffy pink fountain grass in foreground and background with heavy creamy bokeh blur. Shallow depth of field, DSLR photography, 85mm lens, f/1.8, soft natural light, cinematic color grading, ultra detailed skin texture, realistic hair strands, natural candid photography style. Composition and framing exactly same as original sample image. Keep exact smile, exact head angle, exact hand placement and exact body posture. Hyper realistic, 8K UHD, ultra sharp subject focus, soft blurred background, image ratio strictly 4:5.",
+    "title": "Fountain Grass Field Portrait",
+    "description": "A cinematic portrait prompt set in a dreamy golden hour field, utilizing a reference image for facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695943627_y4enb2_HJE_u9_aIAAD45P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22243,
+    "content": "A cinematic close-up portrait of a {argument name=\"subject\" default=\"young woman with long, wavy dark brown hair\"} and striking light blue eyes, gazing slightly upward with a dreamy, contemplative expression. A dramatic {argument name=\"lighting effect\" default=\"golden beam of sunlight\"} cuts horizontally across her eyes, creating a mesmerizing glow and illuminating her face against a deep black background. Warm amber rim lighting highlights her hair, with tiny floating dust particles sparkling in the light. Soft natural skin texture, glossy lips, ultra-detailed eyes, shallow depth of field, moody editorial photography, high contrast, volumetric lighting, golden hour atmosphere, photorealistic, 85mm lens, f/1.4, HDR, cinematic color grading, ultra realistic, masterpiece, 8K resolution.",
+    "title": "Golden Sunbeam Portrait",
+    "description": "A cinematic close-up of a woman with a dramatic beam of sunlight across her eyes, creating a moody editorial feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695947619_mv4a0w_HJDFaLdXAAAAer0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22223,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"name\" default=\"[NAME]\"}\",\n      \"appearance\": {\n        \"expression\": \"Serene expression\",\n        \"hair\": {\n          \"style\": \"Two buns on top of the head\",\n          \"details\": \"Long loose and flowing strands\"\n        },\n        \"makeup\": {\n          \"style\": \"Soft makeup\",\n          \"blush\": \"Delicate pink blush\"\n        },\n        \"skin\": {\n          \"texture\": \"Natural wet texture\",\n          \"details\": [\n            \"Visible water droplets\",\n            \"Radiant natural glow\"\n          ]\n        }\n      }\n    },\n\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"Vibrant metallic yellow swimsuit\"}\",\n      \"additional_elements\": [\n        \"White flowing ruffled fabric attached around the hips\",\n        \"Fabric floating gracefully in the water\"\n      ]\n    },\n\n    \"pose\": {\n      \"body_position\": \"Lying on her back floating on the water surface\",\n      \"arms\": \"Arms relaxed at the sides with slightly open hands\",\n      \"legs\": \"Right knee slightly bent over the left leg\",\n      \"head\": \"Face directed straight upward toward the camera\"\n    },\n\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Dark and clear lake\"}\",\n      \"elements\": [\n        \"White water lilies\",\n        \"Scattered white flower petals on the water surface\"\n      ]\n    },\n\n    \"lighting\": {\n      \"type\": \"Natural late-morning sunlight\",\n      \"characteristics\": [\n        \"Soft and bright lighting\",\n        \"Strong specular reflections on metallic fabric\",\n        \"Highlights on hair\",\n        \"Highlights on wet skin\",\n        \"Deep rich shadows in the dark water\"\n      ]\n    },\n\n    \"mood\": [\n      \"Serene\",\n      \"Ethereal\",\n      \"Magical\",\n      \"Peaceful\"\n    ],\n\n    \"technical\": {\n      \"composition\": {\n        \"camera_angle\": \"Top-down overhead shot\",\n        \"framing\": \"Waist-up composition including surrounding nature\"\n      },\n\n      \"camera_settings\": {\n        \"lens\": \"35mm\",\n        \"aperture\": \"f/5.6\",\n        \"iso\": \"200\",\n        \"shutter_speed\": \"1/500s\",\n        \"filter\": \"Circular Polarizer (CPL)\"\n      },\n\n      \"quality\": {\n        \"resolution\": \"High photographic resolution\",\n        \"focus\": \"Sharp focus on the eyes\",\n        \"details\": [\n          \"Wet skin textures clearly visible\",\n          \"Metallic fabric texture captured accurately\",\n          \"Strong light and shadow contrast\"\n        ]\n      },\n\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "title": "Ethereal Portrait Floating in Water",
+    "description": "A highly detailed structured prompt for generating a magical and serene portrait of a person floating on a dark lake with water lilies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695937176_rhzyyd_HJDBQjWbgAERh29.jpg",
+      "https://cms-assets.youmind.com/media/1779695937159_oxb1cb_HJDBQntagAAfnCp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22242,
+    "content": "A black and white film photograph from the {argument name=\"era\" default=\"1990s\"} shows a {argument name=\"subject\" default=\"man leaning against a wall\"} in a modern art gallery. He wears loose-fitting clothing, including a gray button-down shirt and dark sunglasses. Natural light enters from a large window behind him, illuminating the minimalist gallery space. The man's pose is relaxed and contemplative, reflecting the cool aesthetic of the era",
+    "title": "90s Black and White Film",
+    "description": "A prompt for a nostalgic 1990s black and white film photograph of a man in a minimalist modern art gallery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695946801_v9jwbx_HJC_UvyawAAXbfw.jpg",
+      "https://cms-assets.youmind.com/media/1779695946727_bgzhob_HJC_U6VbUAA_pXF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22063,
     "content": "Ultra-realistic black-and-white fine art studio portrait of a handsome young {argument name=\"ethnicity\" default=\"South Asian\"} man, medium-length thick black hair swept across the forehead with soft volume and natural texture, well-groomed short beard and mustache, defined jawline, smooth skin, expressive eyes gazing thoughtfully to the side, elegant and confident demeanor. Wearing a {argument name=\"outfit\" default=\"tailored black tuxedo jacket\"} over a slightly unbuttoned crisp white dress shirt with an open collar, luxury wristwatch visible on the wrist, subtle ring on finger.\n\nSubject seated in a relaxed editorial pose with fingers gently interlocked, body angled three-quarters toward the camera while face looks away toward the light source. Deep emotional, contemplative, sophisticated expression.\n\nProfessional studio photography, seamless pure black background, dramatic low-key lighting, single large softbox positioned 45 degrees from camera left creating cinematic Rembrandt lighting, rich shadows, smooth falloff, subtle catchlights in eyes, strong contrast, sculpted facial features, detailed hair texture, luxurious monochrome tonal range.\n\nFine art portrait photography, Leica SL3, 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp focus on eyes and face, creamy background separation, ultra-high dynamic range, impeccable skin detail, premium fashion magazine aesthetic, timeless elegance, black and white masterpiece, museum-quality portrait, Vogue editorial style, cinematic mood, soft highlight rolloff, realistic textures, ultra-detailed, photorealistic, 8K resolution.",
     "title": "Fine Art Black and White Portrait",

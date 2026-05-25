@@ -1,5 +1,85 @@
 [
   {
+    "id": 22269,
+    "content": "A heartwarming, slice-of-life anime-style illustration sheet depicting the daily adventures and close bond between a {argument name=\"trainer\" default=\"young man\"} and his Pokémon partner, {argument name=\"pokemon\" default=\"Piplup\"}. The {argument name=\"trainer\" default=\"young man\"} has messy, dark black hair and an athletic build, appearing in various casual outfits like hoodies, t-shirts, and a workout tank top. {argument name=\"pokemon\" default=\"Piplup\"} is depicted with highly expressive, cute, and sometimes comical expressions.\n​The image is a collage of multiple wholesome and motivational scenes scattered across the canvas, accompanied by handwritten-style text captions. The scenes include: the duo hugging tightly with the text \"Dream big. Work hard. Make it real.\"; studying together at a desk with a stack of books; working out with a dumbbell where {argument name=\"pokemon\" default=\"Piplup\"} wears a headband; swimming together happily; going on a grocery run with {argument name=\"pokemon\" default=\"Piplup\"} sitting in the shopping cart; the man playfully scolding {argument name=\"pokemon\" default=\"Piplup\"} for eating the last snack; gaming together with a controller; napping soundly on a couch; cooking in the kitchen as a chef and sous chef; wearing matching sunglasses in a \"silly mode\" pose; jogging together in a park; and the man working intensely on a laptop.\n​The bottom features a collection of small \"{argument name=\"pokemon\" default=\"Piplup\"} Moods\" showing different cute facial expressions, alongside a touching closing message that reads, \"Through every battle, every win, and every failure... you're always by my side. Thank you, {argument name=\"pokemon\" default=\"Piplup\"}. WE DON'T JUST CHASE DREAMS, WE MAKE THEM HAPPEN.\" The overall art style is sketchy yet polished, with warm, soft coloring and an inspiring, uplifting atmosphere focused on friendship, discipline, and partnership.",
+    "title": "Anime Trainer and Pokemon Bonding Sheet",
+    "description": "A heartwarming anime-style illustration prompt that creates a collage of daily adventures and emotional moments between a trainer and their Pokémon partner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695966943_xey4mg_HJJaxIsXoAAXdwp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22231,
+    "content": "{\n  \"scene\": {\n    \"setting\": \"{argument name=\"location\" default=\"A European-style city street at night during a gentle winter snowfall\"}\",\n    \"atmosphere\": \"Romantic, whimsical, magical, and warm despite the cold weather\",\n    \"ground_conditions\": \"Wet, glistening asphalt pavement with a large, reflective puddle in the foreground displaying ripples from raindrops\"\n  },\n  \"subjects\": [\n    {\n      \"type\": \"Girl\",\n      \"pose\": \"Standing, facing the boy in a side-profile view\",\n      \"material_properties\": {\n        \"outer_layer\": \"Transparent, translucent pink glass or crystal-like structure, glowing from within\",\n        \"inner_body\": \"Deep blue, semi-translucent material filled with tiny, glittering particles resembling a galaxy or starry night sky\"\n      },\n      \"attire\": {\n        \"style\": \"A long-sleeved dress with a flared, pleated A-line skirt\",\n        \"footwear\": \"Matching pink translucent lace-up boots\",\n        \"hair\": \"Long, straight pink hair made of glass strands flowing down her back\"\n      },\n      \"accessory\": \"Holding a matching transparent pink umbrella with a curved handle\"\n    },\n    {\n      \"type\": \"Boy\",\n      \"pose\": \"Standing, facing the girl, slightly angled forward\",\n      \"material_properties\": {\n        \"skin_and_body\": \"Translucent amber and golden glass-like material that glows warmly from within\",\n        \"limbs\": \"Clear, transparent glass or crystal for hands and feet\"\n      },\n      \"attire\": {\n        \"style\": \"A dark, textured, realistic leather-like jacket worn over a golden translucent shirt, paired with fitted trousers\",\n        \"footwear\": \"Clear, translucent high-top sneakers with silver laces\"\n      },\n      \"accessory\": \"Holding a clear, transparent glass umbrella over his head\"\n    }\n  ],\n  \"lighting_and_color\": {\n    \"primary_colors\": [\"Warm pink\", \"Deep galaxy blue\", \"Glowing amber-gold\", \"Soft yellow\"],\n    \"background_lighting\": \"Out-of-focus street lamps (bokeh effect) emitting a warm, golden-yellow glow\",\n    \"reflections\": \"Vibrant, detailed reflections of the characters, their umbrellas, and the streetlights on the wet pavement and puddle\"\n  },\n  \"background_elements\": [\n    {\n      \"architecture\": \"Classic European brick buildings lining the street, softly blurred in the background\"\n    },\n    {\n      \"environment\": \"Patches of white snow accumulated on the sides of the street and near the base of a black metal lamp post\"\n    }\n  ],\n  \"technical_style\": {\n    \"composition\": \"Full-body medium shot capturing both subjects centered\",\n    \"depth_of_field\": \"Shallow depth of field with a sharp focus on the subjects and a beautifully blurred background (bokeh)\",\n    \"quality\": \"Ultra-detailed, 4K resolution, cinematic lighting, intricate textures on glass and leather, hyper-realistic water reflections\"\n  }\n}",
+    "title": "Whimsical Glass Couple in Winter Snowfall",
+    "description": "A highly artistic prompt for a European street scene at night featuring characters made of glowing glass and crystal-like materials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695942054_hwol8d_HJGYeL5aMAA8ph5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22266,
+    "content": "{argument name=\"style\" default=\"Cyberpunk\"} {argument name=\"building\" default=\"Cruising Tower\"} {argument name=\"location\" default=\"Clock Tower\"} Haunted Mansion Resident Evil Splatterhouse",
+    "title": "Cyberpunk Horror Mashup",
+    "description": "A composite prompt blending cyberpunk tower aesthetics with classic survival horror elements from various video games.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695965838_cu88hg_HJFgfBPawAAOK0w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22267,
+    "content": "{argument name=\"race\" default=\"Oaks\"} {argument name=\"number\" default=\"No. 16\"} {argument name=\"horse\" default=\"Juryoku Pierrot\"} wins first place",
+    "title": "Horse Racing Winner Illustration",
+    "description": "Visualizing a horse race finish line with a specific horse and number winning the Oaks race.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695965974_g8n5nc_HJFeFnSa0AA2S-i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22263,
+    "content": "A scene of {argument name=\"location\" default=\"Yoshiwara Hall\"} on fire with {argument name=\"effects\" default=\"firecrackers and rocket fireworks\"} flying around.",
+    "title": "Yoshiwara Hall Fire Scene",
+    "description": "A dramatic visual of a building on fire in Yoshiwara with fireworks and firecrackers flying around.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695964763_1ff4f9_HJE8y_xboAARk4U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22240,
+    "content": "Turn this photo into a {argument name=\"style\" default=\"Vogue-style fashion illustration\"}, preserving identity and facial features. Minimalist hand-drawn fashion sketch with elegant elongated proportions, bold black ink contours, loose confident linework, flat marker colors, abstract blush accents, graphic lips, stylized eyes, expressive ink hair, and simplified geometric clothing. Clean white background, scanned paper texture, modern luxury editorial fashion illustration",
+    "title": "Vogue Fashion Illustration Sketch",
+    "description": "A prompt to transform photos into minimalist hand-drawn Vogue-style fashion sketches with elegant elongated proportions and ink contours.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695945018_65mbtt_HJEm6hYaoAAMXq_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22268,
+    "content": "{argument name=\"race\" default=\"Oaks\"} {argument name=\"character\" default=\"Kaze no Sylphid\"}",
+    "title": "Manga Inspired Horse Racing",
+    "description": "Generates horse racing imagery inspired by the manga Kaze no Sylphid in the context of the Oaks race.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695966108_4doak2_HJDOqE-a4AADUXB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22243,
+    "content": "A cinematic close-up portrait of a {argument name=\"subject\" default=\"young woman with long, wavy dark brown hair\"} and striking light blue eyes, gazing slightly upward with a dreamy, contemplative expression. A dramatic {argument name=\"lighting effect\" default=\"golden beam of sunlight\"} cuts horizontally across her eyes, creating a mesmerizing glow and illuminating her face against a deep black background. Warm amber rim lighting highlights her hair, with tiny floating dust particles sparkling in the light. Soft natural skin texture, glossy lips, ultra-detailed eyes, shallow depth of field, moody editorial photography, high contrast, volumetric lighting, golden hour atmosphere, photorealistic, 85mm lens, f/1.4, HDR, cinematic color grading, ultra realistic, masterpiece, 8K resolution.",
+    "title": "Golden Sunbeam Portrait",
+    "description": "A cinematic close-up of a woman with a dramatic beam of sunlight across her eyes, creating a moody editorial feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695947619_mv4a0w_HJDFaLdXAAAAer0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22084,
     "content": "A medium shot of a serene {argument name=\"subject\" default=\"Caucasian woman with long, wavy light brown hair\"} and expressive green eyes, smiling gently as she stands in the middle of a snow-covered, rustic Japanese village street lined with traditional wooden houses. She is wearing a {argument name=\"outfit\" default=\"cozy, thick forest green cable-knit sweater\"}, a soft off-white wool scarf wrapped around her neck, and a beige crossbody bag slung over her shoulder, while carefully cradling a steaming, ornate blue-and-white patterned ceramic teacup in both hands. To her right stands a rustic wooden signpost with multiple pointing arrows containing Japanese kanji and English text indicating mountain trails like \"Kamikochi,\" and the background features a dramatic, towering snow-capped mountain range under a blue sky with soft, stylized clouds. The entire scene is rendered in a {argument name=\"art style\" default=\"highly detailed, hand-drawn artistic medium\"}, balancing realistic human features with beautifully textured cross-hatching, fine line work, and rich, layered coloring that blends the warmth of her winter clothing against the crisp, cold mountain landscape.",
     "title": "Snowy Japanese Village Winter Illustration",

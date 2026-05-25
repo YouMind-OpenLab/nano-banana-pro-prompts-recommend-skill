@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 22232,
+    "content": "A vintage-inspired digital scrapbook collage celebrating a journey through {argument name=\"country\" default=\"England\"}, designed with a soft, romanticized watercolor aesthetic in pastel tones of blush pink, cream, beige, and sepia. The main focus is an elegant young woman with {argument name=\"hair style\" default=\"long, wavy dark hair\"}, wearing a {argument name=\"outfit\" default=\"pink cable-knit sweater\"} and a silk neck scarf, leaning on a stone ledge with a soft-focus view of Big Ben and the Palace of Westminster behind her. Surrounding her are various travel elements, including a watercolor map of England, an old train ticket for the Flying Scotsman, a rustic brass hotel key, vintage postage stamps, a London Underground logo, and a menu from a tea house in Bath. The composition is completed with an old black-and-white photograph of a traditional thatched-roof cottage, handwritten cursive elements, and elegant script typography featuring the quote, \"O, to be in England, now that April's there\" by R. Browning.",
+    "title": "Vintage England Travel Scrapbook",
+    "description": "A nostalgic and romanticized watercolor digital scrapbook prompt celebrating a journey through England, complete with vintage travel ephemera and literary quotes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779695942462_0wz0zb_HJFLLxGWAAAggM_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 21815,
     "content": "A unique infographic poster prompt showcasing a highly detailed miniature Parisian diorama with material breakdowns, city snapshots, and construction details.",
     "title": "Parisian Diorama Infographic Blueprint",
