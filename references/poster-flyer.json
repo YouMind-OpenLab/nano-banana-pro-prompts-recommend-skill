@@ -20,6 +20,82 @@
     "needReferenceImages": false
   },
   {
+    "id": 22455,
+    "content": "{\n  \"meta\": {\n    \"quality\": \"Stunning editorial clarity showcasing high-gloss reflections and intricate architectural details.\",\n    \"style\": \"Avant-garde ultra close-up fashion editorial blending bold modern attire with classical rococo opulence.\",\n    \"aspect_ratio\": \"Immersive vertical framing optimized for high-end digital lookbooks and style lookups.\"\n  },\n  \"subject_aura\": {\n    \"capture_type\": \"Full-length portrait capturing a statuesque posture and a confident, enigmatic gaze.\",\n    \"outfit_vibe\": \"{argument name=\"dress description\" default=\"Bold high-gloss short red shiny dress with deep neckline paired with polka-dot hosiery and red glossy high heels stilettos\"}.\",\n    \"pose_flow\": \"A centered, powerful stance projecting contemporary femininity against historical grandeur.\"\n  },\n  \"scene_aesthetics\": {\n    \"location_feel\": \"An opulent European palace hall adorned with gilded moldings and classical {argument name=\"art style\" default=\"delacroix and goya\"} oil paintings style representing {argument name=\"characters\" default=\"Bulma and Vegeta dragonball\"} characters.\",\n    \"lighting_mood\": \"Atmospheric warmth emanating from a grand crystal chandelier and ambient candlelight.\",\n    \"color_palette\": \"A bold contrast of cherry red against muted gold, deep crimson, and soft ambers.\"\n  },\n  \"technical_illusion\": {\n    \"camera_style\": \"Medium-format cinematic film aesthetic with rich micro-contrasts and balanced highlights.\",\n    \"lens_feel\": \"A premium focal length offering crisp subject sharpness while preserving background depth.\"\n  }\n}",
+    "title": "Avant-Garde Rococo Fashion Editorial",
+    "description": "A structured JSON-style prompt for high-gloss fashion photography blending modern attire with opulent European palace settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780722054_lzi72t_HJKj4bwXYAEbxXF.jpg",
+      "https://cms-assets.youmind.com/media/1779780722071_tckaga_HJKj4h_W0AA-lr9.jpg",
+      "https://cms-assets.youmind.com/media/1779780721766_9r7i1g_HJKj4rbWUAASfa3.jpg",
+      "https://cms-assets.youmind.com/media/1779780723024_gjln94_HJKj4yZWQAATSz4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22454,
+    "content": "For the First Image (Magazine Cover)\n​A watercolor-style anime illustration of a multi-generational group of {argument name=\"group size\" default=\"eight people\"} posing together for a fashion magazine cover titled \"{argument name=\"magazine title\" default=\"GALAXY\"}\". The group consists of men, women, and two children dressed in stylish, modern casual wear with cosmic blue, purple, and teal tones. A woman in the center holds up a smartphone to take a selfie, while others hold chic travel bags and backpacks. The background features a soft watercolor wash of a purple and blue cosmic nebula, complete with magazine text overlays about galactic fashion.\n​For the Second Image (Library Scene)\n​A cozy watercolor-style anime illustration of a family exploring a grand, classic library with floor-to-ceiling wooden bookshelves and a large Gothic arched window revealing a starry purple galaxy night sky. In the foreground, a couple sits on a leather sofa reading a book together, while a young boy reads on the floor nearby. In the background, other family members are engaged in cosmic discovery: a girl stands on a step ladder reaching for a book, a woman looks at a map, an elderly woman examines a celestial globe at a desk, and a man looks through a handheld telescope alongside a woman holding a star chart.",
+    "title": "Cosmic Fashion Magazine and Library",
+    "description": "Detailed prompts for watercolor-style anime illustrations featuring a fashion group and a cozy library with a celestial view.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780721992_mwa2b7_HJKWTQkX0AAeeWj.jpg",
+      "https://cms-assets.youmind.com/media/1779780721992_qtf78k_HJKWTe0XMAA63kv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22459,
+    "content": "{\n  \"vibe_title_en\": \"Melancholic Nature Archive\",\n  \"master_prompt\": \"A cinematic medium shot of {argument name=\"protagonist\" default=\"The Protagonist\"} standing in a densely cluttered, dust-moted Taxidermy & Restoration Atelier. The room is a chaotic masterpiece of 'Busy Environment' aesthetics: floor-to-ceiling wooden shelves overflowing with antique glass jars, spools of copper wire, dried autumn hydrangeas, stacks of yellowing anatomy encyclopedias, and loose bird feathers. The Protagonist wears a structured, high-neck gown of raw beige silk and intricate lace, mirroring the texture of the surroundings. In a moment of surreal tenderness, they are nose-to-nose with a hyper-realistic {argument name=\"animal\" default=\"Red Fox\"} that is perched precariously on a stack of books. The surreal twist: the boundaries of the room are dissolving; the back wall is fading into a foggy, bare-branch forest, with crisp brown oak leaves frozen in mid-air around the subject, defying gravity. Lighting is moody and volumetric, streaming through dirty workshop windows. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens. Emphasize organic textures: the coarse fur of the fox, the fraying lace, the dust on the glass, and realistic skin pores. Kodak Portra 400 film stock simulation with soft grain. NO neon. NO plastic textures.\",\n  \"meta\": {\n    \"intent\": \"High-End Editorial / Surreal Narrative\",\n    \"priorities\": \"Texture, Atmospheric Depth, Emotional Connection\",\n    \"device_profile\": \"Hasselblad H6D-100c, Medium Format\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Rule of Thirds, centering on the connection between subject and animal\",\n    \"layout\": \"Dense foreground and background framing the subject\",\n    \"camera_angle\": \"Eye-level, intimate proximity\",\n    \"tilt_roll_degrees\": \"0 degrees\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist (Universal Template)\",\n    \"demographics\": \"Ageless, Ethereal\",\n    \"face\": \"Neutral but deeply connected gaze, soft interaction\",\n    \"hair\": \"Textured, slightly undone, adorned with subtle organic matter\",\n    \"body\": \"Elegant posture, holding or leaning towards the animal\",\n    \"expression\": \"Serene, mystical, focused on the creature\",\n    \"pose\": \"Profile or three-quarter turn, intimate interaction with the fox\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"High-neck Gown\",\n        \"material\": \"Raw Silk and Antique Lace\",\n        \"color\": \"Champagne / Muted Beige\",\n        \"fit\": \"Structured Bodice, Flowing Skirt\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Choker\",\n        \"color\": \"Bronze / Aged Gold\",\n        \"material\": \"Metal and Velvet\",\n        \"brand_style\": \"Victorian Heirloom\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Overgrown Taxidermy Atelier / Antique Study\",\n    \"surfaces\": \"Aged wood, dusty glass, scattered paper, dry leaves\",\n    \"depth\": \"High depth of field fall-off, background dissolving into fog\",\n    \"atmosphere\": \"Hazy, dust-fil\"",
+    "title": "Melancholic Nature Archive Editorial Photo",
+    "description": "A sophisticated prompt for generating a high-end editorial image featuring a protagonist in a cluttered taxidermy atelier with a surreal, dissolving forest background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780724837_v26rrr_HJKJ9eLXMAAU97O.jpg",
+      "https://cms-assets.youmind.com/media/1779780724697_vbcszf_HJKJ9ddWwAAHw7m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22474,
+    "content": "An ultra-realistic, cinematic shot of a stunning {argument name=\"subject\" default=\"East Asian woman\"} styled as an {argument name=\"role\" default=\"ancient Chinese empress\"}, lounging gracefully in a lavishly decorated palace courtyard at night. She is dressed in an exquisite, {argument name=\"outfit\" default=\"shimmering gold and champagne-colored silk hanfu robe\"} with intricate floral embroidery, a strapless sweetheart bodice, and a metallic gold sash cinched at her waist. Her dark hair is styled in an elegant, voluminous updo, adorned with an elaborate golden phoenix crown, dangling tassels, and delicate hairpins. She wears a matching gold filigree necklace and long, ornate earrings, with a traditional red huadian forehead mark accentuating her features. The background is a breathtaking, softly blurred scene filled with warm, glowing paper lanterns, blooming cherry blossoms, and traditional wooden pavilions under a twilight sky, casting a warm, romantic, and ethereal golden light across the entire scene.",
+    "title": "Ancient Chinese Empress Palace Portrait",
+    "description": "An ultra-realistic cinematic shot of a woman styled as a Chinese empress in a lavish palace courtyard at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780732995_ja4muz_HJI9SkfXIAAcvax.jpg",
+      "https://cms-assets.youmind.com/media/1779780733517_v8yn67_HJI9Sf3W4AACpP5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22486,
+    "content": "Ultra-realistic conceptual portrait of a young man carrying a massive realistic stone version of his own face on his back like a burden. The sculpture is cracked and weathered while he struggles slightly under its weight. He wears neutral-toned streetwear with layered textures and rugged sneakers.\n\nTypography:\n\n* “{argument name=\"small text\" default=\"THEY ALL EXPECT MORE\"}” in tiny handwritten text\n* Huge brutalist typography: “{argument name=\"large text\" default=\"PRESSURE\"}”\n* “{argument name=\"crossed out\" default=\"ENOUGH\"}” crossed out in red marker strokes\n\nMinimal beige studio environment, soft directional lighting, dramatic realism, luxury fashion campaign mood, emotional surrealism.",
+    "title": "Conceptual Pressure Surreal Portrait",
+    "description": "A conceptual fashion campaign prompt featuring a man carrying a massive stone sculpture of his own face, symbolizing the weight of expectations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780742639_g9duix_HJIqG06a0AAWGZv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22483,
+    "content": "A high-energy, cinematic sports celebration poster featuring multiple depictions of {argument name=\"athlete\" default=\"Cristiano Ronaldo\"} wearing a vibrant {argument name=\"kit colors\" default=\"yellow and blue\"} football kit. At the top, a massive, detailed close-up profile of Ronaldo screaming in passionate victory dominates the frame, set against a backdrop of glowing stadium lights and a roaring crowd. Below him, an inverted glowing neon triangle frames several dynamic action poses: one standing confidently with arms crossed and a smile, another sprinting forward dribbling a football, one mid-air executing a volley kick, and another sliding on his knees in intense celebration. In the bottom right corner, he is shown kneeling with his eyes closed, reverently holding a gleaming golden trophy, while another identical large golden trophy sits prominently on a pedestal in the foreground. The entire composition has a dramatic, golden-hour glow, covered in sparkling golden dust and confetti, with the bold, metallic gold word \"{argument name=\"headline\" default=\"VICTORY\"}\" stretching across the very top.",
+    "title": "Cristiano Ronaldo Victory Poster",
+    "description": "A high-energy sports celebration poster for Cristiano Ronaldo, featuring golden hour lighting, stadium crowds, and a metallic victory headline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780740888_4yizl8_HJIcCoxW4AEjOij.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22463,
+    "content": "A vintage-style illustration depicts a surreal scene of a {argument name=\"animal\" default=\"cat\"} being abducted by a {argument name=\"spacecraft\" default=\"UFO\"}. The UFO, a classic silver disc with a dome, hovers in the sky, emitting a bright pink and yellow beam of light. A tabby cat stands in the beam, its paws outstretched as if in surprise or surrender. The background is a vibrant, psychedelic landscape with lush green trees and purple foliage, set against a sky filled with swirling pink and blue clouds and radiating yellow sunbeams. The overall aesthetic is reminiscent of 1970s psychedelic art.",
+    "title": "1970s Psychedelic Cat UFO Abduction",
+    "description": "A vintage-style psychedelic illustration of a cat being abducted by a UFO, featuring vibrant colors and 1970s artistic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780726967_l0jpcx_HJBoNzIWsAEh8lV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22250,
     "content": "Futurist retro-serigraph illustration of a {argument name=\"brand\" default=\"[BRAND]\"}-inspired {argument name=\"vehicle\" default=\"[VEHICLE]\"} concept speeding through giant flowing graphic curves and abstract high-speed road forms, dynamic 3/4 perspective, aerodynamic bodywork, aggressive stance and retro motorsport aesthetic, stylized motion trails integrated into the environment, sensation of high speed without realistic motion blur. Minimal but dramatic composition made from layered curved bands and negative space. Vintage modernist poster aesthetic, smooth airbrushed gradients, crisp vector-like surfaces, subtle print grain, soft paper texture. Color palette restricted to {argument name=\"color palette\" default=\"[COLOR 1], [COLOR 2], [COLOR 3] and [COLOR 4]\"} only. Elegant screenprint finish, vertical composition 4:5",
     "title": "Futurist Retro Vehicle Illustration",

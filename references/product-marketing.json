@@ -21,6 +21,93 @@
     "needReferenceImages": true
   },
   {
+    "id": 22491,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject\" default=\"Use uploaded reference image, keep identity exact\"}\",\n      \"appearance\": {\n        \"face\": \"Soft feminine facial structure, glowing radiant skin, glossy peach lips, warm blush tones, delicate eye makeup with long lashes, defined brows, luminous healthy complexion, realistic skin texture with soft editorial highlights\",\n        \"hair\": \"Long voluminous wavy hair with soft glamorous styling, natural movement, elegant shine with studio reflections\",\n        \"expression\": \"Playful luxury editorial expression with bright eyes, soft smile and confident feminine energy\"\n      },\n      \"body\": {\n        \"type\": \"Slim feminine figure with elegant natural proportions\"\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"details\": [\n          \"{argument name=\"clothing color\" default=\"Bright pastel yellow\"} ribbed crop top with delicate ruffle trim\",\n          \"Matching pastel yellow fitted mini skirt with soft ruffle edges\",\n          \"Soft stretchy fabric texture\",\n          \"Cute luxury summer styling\",\n          \"Elegant feminine silhouette\",\n          \"Natural fabric folds and realistic clothing detail\"\n        ]\n      },\n      \"accessories\": {\n        \"details\": [\n          \"Statement floral earrings\",\n          \"Soft pastel socks\",\n          \"Elegant open-toe heels\",\n          \"Minimal glossy manicure\",\n          \"{argument name=\"accessory\" default=\"White mesh tote bag filled with bananas\"}\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"details\": [\n        \"Squatting pose with elegant posture\",\n        \"One hand softly holding banana near face\",\n        \"Other arm resting naturally on knee while holding tote bag\",\n        \"Head tilted slightly upward toward camera\",\n        \"Soft playful body language\",\n        \"Editorial fashion pose with relaxed elegance\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"Minimal studio backdrop with soft neutral tones\",\n      \"background\": [\n        \"Clean editorial studio floor\",\n        \"Scattered fresh bananas around subject\",\n        \"Soft seamless background\",\n        \"Luxury fashion campaign atmosphere\",\n        \"Minimal aesthetic composition\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Warm cinematic studio lighting\",\n      \"style\": \"Luxury fashion editorial photography\",\n      \"effects\": [\n        \"Soft golden-hour inspired highlights\",\n        \"Natural skin glow\",\n        \"Gentle shadows with studio depth\",\n        \"Warm soft contrast\",\n        \"Elegant lighting falloff\",\n        \"Luxury campaign atmosphere\",\n        \"Subtle cinematic color grading\"\n      ]\n    },\n    \"camera\": {\n      \"angle\": \"Slightly low-angle fashion portrait shot\",\n      \"framing\": \"Medium full-body editorial composition\",\n      \"focus\": \"Sharp focus on face, outfit and bananas with softly detailed studio background\",\n      \"style\": \"Ultra realist\"",
+    "title": "Luxury Fruit Aesthetic Fashion Portrait",
+    "description": "A complex prompt for creating a luxury fashion editorial where the subject is surrounded by fruit, featuring warm cinematic studio lighting and high-end styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780744672_t7pqd8_HJLgi04bMAAdOer.jpg",
+      "https://cms-assets.youmind.com/media/1779780744704_1nmft0_HJLgkKHbgAAVyeL.jpg",
+      "https://cms-assets.youmind.com/media/1779780744732_0kc12n_HJLgk_CbYAA7rmv.jpg",
+      "https://cms-assets.youmind.com/media/1779780746831_3sssx4_HJLglz9a8AAf8xa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22461,
+    "content": "{argument name=\"subject\" default=\"An adult athletic male with a short haircut and light stubble\"} stands centered and straight-on, dressed entirely in a monochromatic black outfit featuring a plain long-sleeve crewneck shirt and crisp black trousers. His expression is serious and confident, characterized by a direct gaze, neutral eyebrows, and a closed mouth. His relaxed hands casually hold a pair of dark sunglasses horizontally at waist level; his left hand rests lightly with the thumb and index finger on the left earpiece and lens area, while his right fingers gently curl inward, gripping the right frame in an organic gesture. He is positioned on a sandy gray-brown gravel driveway in an outdoor desert setting with deep spatial depth, structured with asymmetric balance following the rule of thirds. Dominating the immediate right foreground is the pristine side profile of a {argument name=\"vehicle\" default=\"white Jeep Wrangler\"} detailed with stark black door handles, side mirrors, and fender flares. Framing the left midground is a small, thriving brownish-gray spiky desert shrub, leading back to a luxurious, minimalist flat-roofed modern house. The house boasts perfectly smooth, matte off-white plaster walls, accented by warm wood paneling around the entryway and a dark garage door segmented by horizontal glass panels. The scene is bathed in a calm, soft, diffused front light from a single neutral dusk source, creating a quiet, modern desert lifestyle atmosphere. Soft, gradual gray shadows pool shortly beneath the subject and cast lightly onto the gravel behind him, while perfectly preserved specular highlights touch his forehead, the bridge of his nose, and dance subtly as reflections along the car body. The color palette is high-contrast yet beautifully balances the deep black of the subject's clothing against the off-white architecture, the pale blue twilight sky above, and the warm sand hues of the earth below. Captured as a tack-sharp digital photograph on an 85mm lens at f/4.0 and ISO 400, the medium depth of field keeps the subject and vehicle sharply focused while subtly softening the distant house. Drawing influence from contemporary luxury automotive and apparel editorial photography, the clean image features post-processing with lifted shadows to retain intricate details in the dark clothing and refined color grading that accentuates the cool twilight blues and warm grounded sand tones, all seamlessly framed in a 4:5 aspect ratio.",
+    "title": "Minimalist Desert Lifestyle Car Portrait",
+    "description": "A detailed photography prompt for a male subject in black clothing standing by a white Jeep in a modern desert setting, focusing on soft dusk lighting and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780726213_c6ive4_HJLc-DXW0AEK96Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22471,
+    "content": "A high-fashion editorial studio portrait of a woman with her eyes softly closed, captured in a graceful, dramatic pose against a stark, solid black background. She is wearing a {argument name=\"dress style\" default=\"modern mustard-yellow pleated camisole dress\"} with thin straps. One arm is elegantly raised upward while her other hand rests gently near her chest, showcasing {argument name=\"jewelry\" default=\"intricate, delicate silver and white pearl jewelry\"}, including matching ornate filigree bracelets on both wrists and a traditional crescent-shaped maang tikka on her forehead. The lighting is low-key and moody, with a soft directional key light creating subtle highlights on her face, arms, and the texture of her dress, leaving the rest of the scene in deep shadow. Sophisticated, cinematic, dramatic lighting, luxury aesthetic.",
+    "title": "High Fashion Editorial Studio Portrait",
+    "description": "A sophisticated editorial portrait prompt featuring dramatic lighting and intricate silver jewelry against a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780731520_vco1ae_HJLNDNWXQAASnyr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22455,
+    "content": "{\n  \"meta\": {\n    \"quality\": \"Stunning editorial clarity showcasing high-gloss reflections and intricate architectural details.\",\n    \"style\": \"Avant-garde ultra close-up fashion editorial blending bold modern attire with classical rococo opulence.\",\n    \"aspect_ratio\": \"Immersive vertical framing optimized for high-end digital lookbooks and style lookups.\"\n  },\n  \"subject_aura\": {\n    \"capture_type\": \"Full-length portrait capturing a statuesque posture and a confident, enigmatic gaze.\",\n    \"outfit_vibe\": \"{argument name=\"dress description\" default=\"Bold high-gloss short red shiny dress with deep neckline paired with polka-dot hosiery and red glossy high heels stilettos\"}.\",\n    \"pose_flow\": \"A centered, powerful stance projecting contemporary femininity against historical grandeur.\"\n  },\n  \"scene_aesthetics\": {\n    \"location_feel\": \"An opulent European palace hall adorned with gilded moldings and classical {argument name=\"art style\" default=\"delacroix and goya\"} oil paintings style representing {argument name=\"characters\" default=\"Bulma and Vegeta dragonball\"} characters.\",\n    \"lighting_mood\": \"Atmospheric warmth emanating from a grand crystal chandelier and ambient candlelight.\",\n    \"color_palette\": \"A bold contrast of cherry red against muted gold, deep crimson, and soft ambers.\"\n  },\n  \"technical_illusion\": {\n    \"camera_style\": \"Medium-format cinematic film aesthetic with rich micro-contrasts and balanced highlights.\",\n    \"lens_feel\": \"A premium focal length offering crisp subject sharpness while preserving background depth.\"\n  }\n}",
+    "title": "Avant-Garde Rococo Fashion Editorial",
+    "description": "A structured JSON-style prompt for high-gloss fashion photography blending modern attire with opulent European palace settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780722054_lzi72t_HJKj4bwXYAEbxXF.jpg",
+      "https://cms-assets.youmind.com/media/1779780722071_tckaga_HJKj4h_W0AA-lr9.jpg",
+      "https://cms-assets.youmind.com/media/1779780721766_9r7i1g_HJKj4rbWUAASfa3.jpg",
+      "https://cms-assets.youmind.com/media/1779780723024_gjln94_HJKj4yZWQAATSz4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22457,
+    "content": "Photorealistic cinematic portrait of a handsome, rugged {argument name=\"subject\" default=\"young man in his late 20s\"} with striking blue eyes, sharp jawline, dark wavy medium-length hair, and short stubble beard, sitting in the open door of a tan military Humvee-style vehicle in a bright desert environment. \n\nHe is wearing full desert camouflage combat uniform with subtle patterns, a tan tactical plate carrier vest with multiple pouches, and tan combat gloves. A black assault rifle with red-dot scope and tactical attachments rests across his lap, firmly held with both gloved hands. A name patch on his vest clearly reads \"{argument name=\"name patch\" default=\"PromptersMX\"}\".\n\nHe has a serious, focused expression, looking off to the right side of the frame with intense gaze. Strong desert sunlight creates realistic highlights and shadows on his face and gear, with fine dust particles visible in the air. Detailed textures on fabric, tactical equipment, and skin. Shot on professional camera, highly detailed, 8k resolution, cinematic color grading, realistic military photography style.",
+    "title": "Seal Team Six Desert Portrait",
+    "description": "A cinematic, photorealistic military portrait of a soldier in a desert combat environment with detailed gear and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780723737_zvtt2t_HJJTjWFbgAA01wT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22474,
+    "content": "An ultra-realistic, cinematic shot of a stunning {argument name=\"subject\" default=\"East Asian woman\"} styled as an {argument name=\"role\" default=\"ancient Chinese empress\"}, lounging gracefully in a lavishly decorated palace courtyard at night. She is dressed in an exquisite, {argument name=\"outfit\" default=\"shimmering gold and champagne-colored silk hanfu robe\"} with intricate floral embroidery, a strapless sweetheart bodice, and a metallic gold sash cinched at her waist. Her dark hair is styled in an elegant, voluminous updo, adorned with an elaborate golden phoenix crown, dangling tassels, and delicate hairpins. She wears a matching gold filigree necklace and long, ornate earrings, with a traditional red huadian forehead mark accentuating her features. The background is a breathtaking, softly blurred scene filled with warm, glowing paper lanterns, blooming cherry blossoms, and traditional wooden pavilions under a twilight sky, casting a warm, romantic, and ethereal golden light across the entire scene.",
+    "title": "Ancient Chinese Empress Palace Portrait",
+    "description": "An ultra-realistic cinematic shot of a woman styled as a Chinese empress in a lavish palace courtyard at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780732995_ja4muz_HJI9SkfXIAAcvax.jpg",
+      "https://cms-assets.youmind.com/media/1779780733517_v8yn67_HJI9Sf3W4AACpP5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22468,
+    "content": "Create a hyper-realistic fashion studio portrait, ultra-detailed, 8K, with professional studio lighting. A {argument name=\"subject\" default=\"woman\"} sits on a white marble counter in a modern setting, wearing a {argument name=\"outfit\" default=\"strapless dark brown leather mini dress\"}, form-fitting with a glossy texture. She wears {argument name=\"footwear\" default=\"over-the-knee brown boots\"}. Her hair is identical to the reference image, long and loose. Expression serious and confident, looking directly at the camera.",
+    "title": "Fashion Studio Leather Dress Portrait",
+    "description": "A hyper-realistic studio portrait prompt of a woman in a dark brown leather mini dress with professional 8K detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780729991_44d465_HJIwCFzasAAD3QH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22486,
+    "content": "Ultra-realistic conceptual portrait of a young man carrying a massive realistic stone version of his own face on his back like a burden. The sculpture is cracked and weathered while he struggles slightly under its weight. He wears neutral-toned streetwear with layered textures and rugged sneakers.\n\nTypography:\n\n* “{argument name=\"small text\" default=\"THEY ALL EXPECT MORE\"}” in tiny handwritten text\n* Huge brutalist typography: “{argument name=\"large text\" default=\"PRESSURE\"}”\n* “{argument name=\"crossed out\" default=\"ENOUGH\"}” crossed out in red marker strokes\n\nMinimal beige studio environment, soft directional lighting, dramatic realism, luxury fashion campaign mood, emotional surrealism.",
+    "title": "Conceptual Pressure Surreal Portrait",
+    "description": "A conceptual fashion campaign prompt featuring a man carrying a massive stone sculpture of his own face, symbolizing the weight of expectations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780742639_g9duix_HJIqG06a0AAWGZv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22234,
     "content": "Create a 4:5 ultra realistic cinematic studio portrait using uploaded reference photos, replace original subject while preserving exact facial identity, proportions, hairstyle, beard density, skin tone, smile structure, natural imperfections, maximum accuracy. Vertical portrait composition, medium-full body framing, subject standing casually with relaxed posture. Both hands naturally inside pockets, body slightly turned, head tilted upward while laughing genuinely. Candid confident expression, natural energetic vibe, preserve exact pose, body angle, framing, perspective, composition. Shot on 85mm prime lens, shallow depth, cinematic studio photography, ultra sharp face focus, soft background separation, realistic depth, DSLR quality. Dramatic cinematic lighting, deep shadow contrast, strong warm key light from upper left, subtle rim light around face and shoulders, smooth shadow falloff, vibrant blue seamless studio background, moody editorial grading, realistic skin reflections, shadow depth. {argument name=\"clothing\" default=\"Oversized matte black t-shirt\"}, modern minimal streetwear aesthetic, {argument name=\"accessory\" default=\"natural eyeglasses\"} realistically integrated, premium casual creator look, subtle watch visible if fitting.\n\nDo not modify or stylize face, preserve exact identity from references, maintain real facial proportions, skin texture, smile shape, laugh expression. No beautification, exaggerated jawline, hairstyle change, beard pattern changes, artificial smoothing. Preserve natural asymmetry, realistic human details. Hyper realistic, cinematic portrait photography, realistic anatomy, ultra detailed skin texture, soft realistic shadows, premium Instagram creator aesthetic, editorial fashion feel, HDR lighting, 8k render, natural realistic color science.",
     "title": "Cinematic Studio Portrait Reference",

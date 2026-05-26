@@ -1,13 +1,54 @@
 [
   {
-    "id": 22269,
-    "content": "A heartwarming, slice-of-life anime-style illustration sheet depicting the daily adventures and close bond between a {argument name=\"trainer\" default=\"young man\"} and his Pokémon partner, {argument name=\"pokemon\" default=\"Piplup\"}. The {argument name=\"trainer\" default=\"young man\"} has messy, dark black hair and an athletic build, appearing in various casual outfits like hoodies, t-shirts, and a workout tank top. {argument name=\"pokemon\" default=\"Piplup\"} is depicted with highly expressive, cute, and sometimes comical expressions.\n​The image is a collage of multiple wholesome and motivational scenes scattered across the canvas, accompanied by handwritten-style text captions. The scenes include: the duo hugging tightly with the text \"Dream big. Work hard. Make it real.\"; studying together at a desk with a stack of books; working out with a dumbbell where {argument name=\"pokemon\" default=\"Piplup\"} wears a headband; swimming together happily; going on a grocery run with {argument name=\"pokemon\" default=\"Piplup\"} sitting in the shopping cart; the man playfully scolding {argument name=\"pokemon\" default=\"Piplup\"} for eating the last snack; gaming together with a controller; napping soundly on a couch; cooking in the kitchen as a chef and sous chef; wearing matching sunglasses in a \"silly mode\" pose; jogging together in a park; and the man working intensely on a laptop.\n​The bottom features a collection of small \"{argument name=\"pokemon\" default=\"Piplup\"} Moods\" showing different cute facial expressions, alongside a touching closing message that reads, \"Through every battle, every win, and every failure... you're always by my side. Thank you, {argument name=\"pokemon\" default=\"Piplup\"}. WE DON'T JUST CHASE DREAMS, WE MAKE THEM HAPPEN.\" The overall art style is sketchy yet polished, with warm, soft coloring and an inspiring, uplifting atmosphere focused on friendship, discipline, and partnership.",
-    "title": "Anime Trainer and Pokemon Bonding Sheet",
-    "description": "A heartwarming anime-style illustration prompt that creates a collage of daily adventures and emotional moments between a trainer and their Pokémon partner.",
+    "id": 22466,
+    "content": "A lone {argument name=\"subject\" default=\"cowboy\"} silhouetted against a {argument name=\"lighting\" default=\"moonlit sky\"}, riding across a {argument name=\"landscape\" default=\"misty, fog-shrouded landscape\"} at dusk or night. The figure wears a wide-brimmed western hat and sits astride a dark horse, moving through tall grass. Dense evergreen trees emerge from the mist in the background, creating a moody, atmospheric scene. The moon glows softly through hazy clouds, casting an ethereal light across the scene. The overall mood is cinematic, melancholic, and evocative of classic Western noir—mysterious, solitary, and filled with quiet tension. The color palette consists of deep blues, grays, and blacks with pale moonlight accents. The composition emphasizes solitude and isolation in a vast, shadowy wilderness.",
+    "title": "Lone Cowboy Moonlit Misty Night",
+    "description": "A cinematic and atmospheric prompt for a Western noir scene featuring a solitary cowboy under a moonlit sky.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779695966943_xey4mg_HJJaxIsXoAAXdwp.jpg"
+      "https://cms-assets.youmind.com/media/1779780728553_aimv9y_HJM4xpmXsAAS317.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 22454,
+    "content": "For the First Image (Magazine Cover)\n​A watercolor-style anime illustration of a multi-generational group of {argument name=\"group size\" default=\"eight people\"} posing together for a fashion magazine cover titled \"{argument name=\"magazine title\" default=\"GALAXY\"}\". The group consists of men, women, and two children dressed in stylish, modern casual wear with cosmic blue, purple, and teal tones. A woman in the center holds up a smartphone to take a selfie, while others hold chic travel bags and backpacks. The background features a soft watercolor wash of a purple and blue cosmic nebula, complete with magazine text overlays about galactic fashion.\n​For the Second Image (Library Scene)\n​A cozy watercolor-style anime illustration of a family exploring a grand, classic library with floor-to-ceiling wooden bookshelves and a large Gothic arched window revealing a starry purple galaxy night sky. In the foreground, a couple sits on a leather sofa reading a book together, while a young boy reads on the floor nearby. In the background, other family members are engaged in cosmic discovery: a girl stands on a step ladder reaching for a book, a woman looks at a map, an elderly woman examines a celestial globe at a desk, and a man looks through a handheld telescope alongside a woman holding a star chart.",
+    "title": "Cosmic Fashion Magazine and Library",
+    "description": "Detailed prompts for watercolor-style anime illustrations featuring a fashion group and a cozy library with a celestial view.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780721992_mwa2b7_HJKWTQkX0AAeeWj.jpg",
+      "https://cms-assets.youmind.com/media/1779780721992_qtf78k_HJKWTe0XMAA63kv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22469,
+    "content": "A stylized anime-inspired cinematic character sheet set in a {argument name=\"environment\" default=\"colorful desert world\"} with floating sand islands and glowing wind currents. The character is a {argument name=\"character type\" default=\"wandering warrior\"} with exaggerated expressive eyes, layered travel robes, and elemental energy effects swirling around them. Turnaround poses are dynamic and fluid, with close-ups showing {argument name=\"emotion\" default=\"emotional intensity\"} and wind-reactive lighting. Vibrant color grading, Studio Ghibli meets modern anime realism. 1:1 aspect ratio.",
+    "title": "Anime Warrior Character Design Sheet",
+    "description": "An anime-inspired character sheet prompt for a wandering warrior in a stylized desert world, inspired by Studio Ghibli.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780729653_xyxiqt_HJJa5FYaEAAQl9D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22269,
+    "content": "A heartwarming, slice-of-life anime-style illustration sheet depicting the daily adventures and close bond between a {argument name=\"character\" default=\"young man\"} and his Pokémon partner, {argument name=\"pokemon\" default=\"Piplup\"}. The {argument name=\"character\" default=\"young man\"} has messy, dark black hair and an athletic build, appearing in various casual outfits like hoodies, t-shirts, and a workout tank top. Piplup is depicted with highly expressive, cute, and sometimes comical expressions.\n​The image is a collage of multiple wholesome and motivational scenes scattered across the canvas, accompanied by handwritten-style text captions. The scenes include: the duo hugging tightly with the text \"Dream big. Work hard. Make it real.\"; studying together at a desk with a stack of books; working out with a dumbbell where Piplup wears a headband; swimming together happily; going on a grocery run with Piplup sitting in the shopping cart; the man playfully scolding Piplup for eating the last snack; gaming together with a controller; napping soundly on a couch; cooking in the kitchen as a chef and sous chef; wearing matching sunglasses in a \"silly mode\" pose; jogging together in a park; and the man working intensely on a laptop.\n​The bottom features a collection of small \"Piplup Moods\" showing different cute facial expressions, alongside a touching closing message that reads, \"Through every battle, every win, and every failure... you're always by my side. Thank you, Piplup. WE DON'T JUST CHASE DREAMS, WE MAKE THEM HAPPEN.\" The overall art style is sketchy yet polished, with warm, soft coloring and an inspiring, uplifting atmosphere focused on friendship, discipline, and partnership.",
+    "title": "Anime Boy and Piplup Adventure Sheet",
+    "description": "A heartwarming anime-style collage prompt featuring the adventures and daily bond between a young man and a Piplup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780731547_yk5hwx_HJJaxIsXoAAXdwp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22480,
+    "content": "Ultra realistic cinematic anime-style nighttime portrait in a rainy dark courtyard with glowing warm window lights in the background, wet reflective ground with scattered leaves, hanging green vines and plants covering old brick walls, full body centered {argument name=\"subject\" default=\"young cute girl\"} standing shyly with head slightly down and one hand touching hair, surrounded by {argument name=\"count\" default=\"five\"} tiny chibi versions of herself in different playful poses, exact same composition and camera angle as reference image, one mini girl hanging from vine smiling happily, one sitting and making peace sign, one standing and looking up innocently, one sitting on wet ground laughing with hands on cheeks, one drinking bubble tea, all characters wearing matching {argument name=\"outfit\" default=\"pastel blue striped oversized shirt, light blue scarf/hijab style wrap, wide light-wash baggy jeans\"}, white chunky sneakers, cute white side shoulder bag, soft messy bun hairstyle with front bangs, highly detailed anime eyes, adorable facial expressions, cozy moody atmosphere, ccinematic retio9:16",
+    "title": "Anime Portrait with Chibi Characters",
+    "description": "A cinematic anime-style night portrait featuring a young girl in a rainy courtyard surrounded by adorable miniature versions of herself.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780738873_7gosbh_HJJYnbFXgAE4ORZ.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 22231,

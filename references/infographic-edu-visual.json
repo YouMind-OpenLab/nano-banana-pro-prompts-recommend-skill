@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 22464,
+    "content": "A beautifully detailed watercolor and ink journal illustration capturing a culinary travel diary titled \"...and a taste of Greece in {argument name=\"location\" default=\"LA\"}.\" The scene is set on a rustic wooden table by a window overlooking a classic Los Angeles street lined with tall palm trees stretching into distant hazy mountains. The layout features a masterfully plated dish in the foreground on a ceramic plate flanked by a vintage fork and cloth napkin, with a larger baking pan of the same food resting just behind it. In the corners, there are taped-down parchment paper scraps with handwritten notes detailing the recipe layers, along with elegant Chinese calligraphy and a stamped seal. The artwork blends a warm, nostalgic paper texture with vibrant, glossy food rendering, creating a cozy and mouthwatering atmosphere that transitions from a \"Day 1 (lunch) {argument name=\"dish one\" default=\"Spicy L.A. Burger\"}\" layered with melting pepper jack, chili patty, jalapeños, and dripping chili oil on a brioche bun, to a \"Day 2 (dinner) {argument name=\"dish two\" default=\"L.A. Spicy Wings\"}\" showcasing crispy-fried, double-drenched chicken wings glistening in a habanero-honey-lime glaze, topped with smoked chili flakes and served with a side of creamy blue cheese dip and celery sticks.",
+    "title": "Watercolor Culinary Travel Diary Illustration",
+    "description": "A cozy watercolor and ink journal illustration of a food diary, featuring dishes from Los Angeles and Greece with handwritten notes and calligraphy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780727700_e5gl1q_HJJwNQbWMAA9jUr.jpg",
+      "https://cms-assets.youmind.com/media/1779780727638_sv59tw_HJJwNTFXQAEow4W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22232,
     "content": "A vintage-inspired digital scrapbook collage celebrating a journey through {argument name=\"country\" default=\"England\"}, designed with a soft, romanticized watercolor aesthetic in pastel tones of blush pink, cream, beige, and sepia. The main focus is an elegant young woman with {argument name=\"hair style\" default=\"long, wavy dark hair\"}, wearing a {argument name=\"outfit\" default=\"pink cable-knit sweater\"} and a silk neck scarf, leaning on a stone ledge with a soft-focus view of Big Ben and the Palace of Westminster behind her. Surrounding her are various travel elements, including a watercolor map of England, an old train ticket for the Flying Scotsman, a rustic brass hotel key, vintage postage stamps, a London Underground logo, and a menu from a tea house in Bath. The composition is completed with an old black-and-white photograph of a traditional thatched-roof cottage, handwritten cursive elements, and elegant script typography featuring the quote, \"O, to be in England, now that April's there\" by R. Browning.",
     "title": "Vintage England Travel Scrapbook",

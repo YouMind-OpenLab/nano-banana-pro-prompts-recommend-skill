@@ -10,6 +10,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 22482,
+    "content": "Ultra-photorealistic portrait of a beautiful young woman in a soft, melancholic indie bedroom atmosphere, inspired by the emotional mood of {argument name=\"song\" default=\"Let Down by Radiohead\"}. The overall feeling is dreamy, intimate, lonely, nostalgic, and quietly vulnerable. She has {argument name=\"hair style\" default=\"tousled medium-length brown hair\"} with soft messy waves and wispy curtain bangs, giving an effortless, slightly undone look. She wears {argument name=\"accessories\" default=\"oversized vintage-style glasses, delicate silver rings, and a subtle necklace\"} for a casual intellectual aesthetic.\n\nHer makeup is soft, moody, and ethereal: muted taupe and gray-brown eyeshadow, lightly smudged eyeliner, softly defined lashes, natural brushed brows, cool pink blush, luminous skin, and glossy muted rose-brown lips. Her outfit is simple and understated, matching the introspective indie mood: a fitted soft gray tank top or thin-strapped top with relaxed blue denim jeans, cozy and effortless, slightly 90s-inspired.\n\nThe room has a warm but emotionally distant atmosphere, with soft dim lighting, beige or gray bedding, slightly messy sheets, posters on the wall, personal objects scattered naturally, and a lived-in bedroom feel. The aesthetic should feel intimate, cinematic, and realistic, like a still frame from an indie coming-of-age film. Muted neutral tones, dusty blues, gray-beige palette, soft shadows, emotional quietness, subtle sadness, dreamy bedroom mood, realistic skin texture, natural composition, candid pose, cinematic softness.",
+    "title": "Melancholic Indie Bedroom Portrait",
+    "description": "A dreamy, vulnerable portrait of a young woman in an indie bedroom setting, inspired by the mood of Radiohead's 'Let Down'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780740282_5dox71_HJKzy-TXUAA4i4e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22485,
+    "content": "Ultra-realistic cinematic portrait of a beautiful young {argument name=\"ethnicity\" default=\"South Asian\"} woman wearing a {argument name=\"clothing\" default=\"luxurious traditional maroon velvet saree with heavy golden embroidery\"} and intricate zari work. Long silky black hair flows naturally, with a few strands softly falling on her face. Soft glowing skin, deep expressive eyes, natural red lips, elegant traditional jhumka earrings, and stacked golden bangles. Intricate, detailed mehndi design on her hands. The subject is captured in an elegant close-up, softly adjusting her earring with a warm, dreamy, and shy smile, creating a candid emotional feel. >\nSet indoors against a {argument name=\"background\" default=\"royal vintage background with luxury ambience\"}. Warm golden cinematic lighting, soft amber tones, smooth creamy bokeh, shallow depth of field, realistic skin texture, ultra-detailed textile embroidery, soft shadows. Shot on DSLR, 85mm lens, premium portrait composition, photorealistic, 8k resolution.retio3:4",
+    "title": "Traditional Saree Beauty Portrait",
+    "description": "A cinematic close-up of a South Asian woman in a luxurious velvet saree, set against a vintage royal background with warm golden lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780742024_2t5nco_HJKYUxZbYAAnEPz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22477,
+    "content": "A hyper-realistic 8K cinematic close-up profile portrait of the {argument name=\"subject\" default=\"man from the reference image\"}, preserving 100% of his real facial identity; featuring {argument name=\"hair style\" default=\"messy hair styled in a modern mullet\"} and {argument name=\"accessories\" default=\"thick rectangular black sunglasses\"}. He is looking slightly downward with a calm, moody, and introspective expression. Accessories include a dangling silver earring, a thick silver chain, and a longer fine chain with a blade pendant. He is wearing a textured black jacket that gradually fades into shadow. The scene is dominated by rich, saturated deep-green monochromatic lighting, with a strong emerald backlight creating a sharp, glowing rim light along his profile, hair, and jewelry. The background is smooth, luminous, and deep green. High-contrast chiaroscuro lighting is used to sculpt the face, partially obscuring areas in shadow while emphasizing realistic skin texture, metallic reflections, and detailed hair strands. Captured in cinematic studio photography style with a high-fashion, music-video aesthetic, ultra-sharp focus, volumetric lighting, deep shadows, realistic color grading, and a powerful atmospheric mood",
+    "title": "Emerald Monochromatic Male Portrait",
+    "description": "A cinematic close-up profile portrait of a man with a modern mullet, featuring saturated green monochromatic lighting and sharp rim light highlights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780737069_r43xpq_HJIbSwyaoAAxjKW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22489,
+    "content": "A professional portrait of a {argument name=\"subject\" default=\"young South Asian woman\"} sitting indoors in a {argument name=\"setting\" default=\"modern office environment\"}. She has fair glowing skin, sharp facial features, straight dark brown hair neatly styled behind her shoulders, and soft natural makeup. She is wearing a {argument name=\"outfit\" default=\"light blue tailored blazer over a white formal shirt\"}, paired with dark grey trousers. She is seated with one leg crossed, hands resting gracefully, looking confidently at the camera with a slight smile.\nThe setting is a bright, minimalist office with large glass windows on the left side allowing soft natural daylight to illuminate her face. Background includes blurred office furniture and a subtle green indoor plant, creating a clean corporate atmosphere. Shot with a DSLR camera, 85mm lens, shallow depth of field, ultra-realistic, high detail, soft lighting, professional color grading, 4K quality.",
+    "title": "Professional South Asian Woman Portrait",
+    "description": "A clean, minimalist prompt for a professional corporate headshot of a South Asian woman in a modern office, featuring soft daylight and high-end DSLR rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780746121_qyz019_HJITUvRXUAAtVjD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22234,
     "content": "Create a 4:5 ultra realistic cinematic studio portrait using uploaded reference photos, replace original subject while preserving exact facial identity, proportions, hairstyle, beard density, skin tone, smile structure, natural imperfections, maximum accuracy. Vertical portrait composition, medium-full body framing, subject standing casually with relaxed posture. Both hands naturally inside pockets, body slightly turned, head tilted upward while laughing genuinely. Candid confident expression, natural energetic vibe, preserve exact pose, body angle, framing, perspective, composition. Shot on 85mm prime lens, shallow depth, cinematic studio photography, ultra sharp face focus, soft background separation, realistic depth, DSLR quality. Dramatic cinematic lighting, deep shadow contrast, strong warm key light from upper left, subtle rim light around face and shoulders, smooth shadow falloff, vibrant blue seamless studio background, moody editorial grading, realistic skin reflections, shadow depth. {argument name=\"clothing\" default=\"Oversized matte black t-shirt\"}, modern minimal streetwear aesthetic, {argument name=\"accessory\" default=\"natural eyeglasses\"} realistically integrated, premium casual creator look, subtle watch visible if fitting.\n\nDo not modify or stylize face, preserve exact identity from references, maintain real facial proportions, skin texture, smile shape, laugh expression. No beautification, exaggerated jawline, hairstyle change, beard pattern changes, artificial smoothing. Preserve natural asymmetry, realistic human details. Hyper realistic, cinematic portrait photography, realistic anatomy, ultra detailed skin texture, soft realistic shadows, premium Instagram creator aesthetic, editorial fashion feel, HDR lighting, 8k render, natural realistic color science.",
     "title": "Cinematic Studio Portrait Reference",

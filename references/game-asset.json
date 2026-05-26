@@ -1,5 +1,46 @@
 [
   {
+    "id": 22488,
+    "content": "A highly stylized 3D caricature of {argument name=\"fighter\" default=\"Ilia Topuria\"}, Standing at the top of {argument name=\"opponent\" default=\"Justin Gaethje\"} after defeating him in the octagon. Capturing his real facial features but exaggerated and distorted. Exaggerated droopy ears, patchy uneven skin texture, wild frizzy hair sticking out in all directions. Rendered in {argument name=\"style\" default=\"semi-realistic style\"} with harsh rim lighting emphasizing every wrinkle and imperfection. Minimal background, 16:9.",
+    "title": "3D Caricature MMA Victory",
+    "description": "A highly stylized 3D caricature of Ilia Topuria after a victory, featuring exaggerated features and harsh rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780743783_nluokd_HJLwjrGbsAAx3Ej.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22492,
+    "content": "Grand lobby of a {argument name=\"type\" default=\"luxury hotel\"} in an artistic {argument name=\"style\" default=\"raypunk\"} style",
+    "title": "Luxury Hotel Raypunk Lobby",
+    "description": "A prompt for generating an artistic raypunk-style grand lobby for a high-end luxury hotel, emphasizing lighting and architectural style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780747785_84w5ik_HJLanhhbsAAWdPb.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22467,
+    "content": "Cinematic medium shot of Jaxon “The Reaper”, a massive cyber-vampire warlord sitting on a throne built from scrap metal and dismantled android corpses. Deep underground arena illuminated by toxic green neon and burning amber lights. Chrome jaw prosthetic fused into his skull. Heavy cybernetic arm crackling with unstable electricity. Hyper-realistic, brutal cyberpunk horror aesthetic, dirty lens, cinematic shadows, 4K. Full body turnaround sheet. White background. 4 different poses for animation consistency.",
+    "title": "Cyber Vampire Character Turnaround Sheet",
+    "description": "A technical character sheet prompt for generating a cyberpunk-horror warlord in multiple poses for animation consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780729157_4u0wb1_HJKH8PEWcAAKNxo.jpg",
+      "https://cms-assets.youmind.com/media/1779780729146_fp7lsw_HJKIKhTXQAAi9ry.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22469,
+    "content": "A stylized anime-inspired cinematic character sheet set in a {argument name=\"environment\" default=\"colorful desert world\"} with floating sand islands and glowing wind currents. The character is a {argument name=\"character type\" default=\"wandering warrior\"} with exaggerated expressive eyes, layered travel robes, and elemental energy effects swirling around them. Turnaround poses are dynamic and fluid, with close-ups showing {argument name=\"emotion\" default=\"emotional intensity\"} and wind-reactive lighting. Vibrant color grading, Studio Ghibli meets modern anime realism. 1:1 aspect ratio.",
+    "title": "Anime Warrior Character Design Sheet",
+    "description": "An anime-inspired character sheet prompt for a wandering warrior in a stylized desert world, inspired by Studio Ghibli.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779780729653_xyxiqt_HJJa5FYaEAAQl9D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22231,
     "content": "{\n  \"scene\": {\n    \"setting\": \"{argument name=\"location\" default=\"A European-style city street at night during a gentle winter snowfall\"}\",\n    \"atmosphere\": \"Romantic, whimsical, magical, and warm despite the cold weather\",\n    \"ground_conditions\": \"Wet, glistening asphalt pavement with a large, reflective puddle in the foreground displaying ripples from raindrops\"\n  },\n  \"subjects\": [\n    {\n      \"type\": \"Girl\",\n      \"pose\": \"Standing, facing the boy in a side-profile view\",\n      \"material_properties\": {\n        \"outer_layer\": \"Transparent, translucent pink glass or crystal-like structure, glowing from within\",\n        \"inner_body\": \"Deep blue, semi-translucent material filled with tiny, glittering particles resembling a galaxy or starry night sky\"\n      },\n      \"attire\": {\n        \"style\": \"A long-sleeved dress with a flared, pleated A-line skirt\",\n        \"footwear\": \"Matching pink translucent lace-up boots\",\n        \"hair\": \"Long, straight pink hair made of glass strands flowing down her back\"\n      },\n      \"accessory\": \"Holding a matching transparent pink umbrella with a curved handle\"\n    },\n    {\n      \"type\": \"Boy\",\n      \"pose\": \"Standing, facing the girl, slightly angled forward\",\n      \"material_properties\": {\n        \"skin_and_body\": \"Translucent amber and golden glass-like material that glows warmly from within\",\n        \"limbs\": \"Clear, transparent glass or crystal for hands and feet\"\n      },\n      \"attire\": {\n        \"style\": \"A dark, textured, realistic leather-like jacket worn over a golden translucent shirt, paired with fitted trousers\",\n        \"footwear\": \"Clear, translucent high-top sneakers with silver laces\"\n      },\n      \"accessory\": \"Holding a clear, transparent glass umbrella over his head\"\n    }\n  ],\n  \"lighting_and_color\": {\n    \"primary_colors\": [\"Warm pink\", \"Deep galaxy blue\", \"Glowing amber-gold\", \"Soft yellow\"],\n    \"background_lighting\": \"Out-of-focus street lamps (bokeh effect) emitting a warm, golden-yellow glow\",\n    \"reflections\": \"Vibrant, detailed reflections of the characters, their umbrellas, and the streetlights on the wet pavement and puddle\"\n  },\n  \"background_elements\": [\n    {\n      \"architecture\": \"Classic European brick buildings lining the street, softly blurred in the background\"\n    },\n    {\n      \"environment\": \"Patches of white snow accumulated on the sides of the street and near the base of a black metal lamp post\"\n    }\n  ],\n  \"technical_style\": {\n    \"composition\": \"Full-body medium shot capturing both subjects centered\",\n    \"depth_of_field\": \"Shallow depth of field with a sharp focus on the subjects and a beautifully blurred background (bokeh)\",\n    \"quality\": \"Ultra-detailed, 4K resolution, cinematic lighting, intricate textures on glass and leather, hyper-realistic water reflections\"\n  }\n}",
     "title": "Whimsical Glass Couple in Winter Snowfall",
