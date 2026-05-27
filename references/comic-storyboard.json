@@ -1,5 +1,51 @@
 [
   {
+    "id": 22662,
+    "content": "A detailed watercolor and ink comic book illustration of {argument name=\"subject\" default=\"a handsome man with styled wavy brown hair, a neat beard, and a sharp jawline\"}. He is wearing {argument name=\"clothing\" default=\"a tailored terracotta blazer over an open-collared cream button-down shirt, dark pinstriped trousers, and brown leather dress shoes\"}. Around his neck hangs a unique brass sextant pendant necklace. He stands confidently inside {argument name=\"setting\" default=\"a vintage Victorian glass conservatory filled with lush tropical ferns, potted orchids, and palm trees visible through the windows\"}. The room is packed with explorer antiques: a large vintage globe, a brass telescope on a tripod, a wooden chest, maps, binoculars, and a leather backpack. The art style features clean line art with soft, textured watercolor washes.",
+    "title": "Vintage Explorer Watercolor Illustration",
+    "description": "Creates a detailed watercolor and ink comic-style illustration of a male explorer surrounded by vintage antiques in a Victorian conservatory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867915989_8z218w_HJPluRcXEAAFaup.jpg",
+      "https://cms-assets.youmind.com/media/1779867916090_oe14lj_HJPluSUW8AA3Mvf.jpg",
+      "https://cms-assets.youmind.com/media/1779867916022_o2c20l_HJPluSVWgAAGE6e.jpg",
+      "https://cms-assets.youmind.com/media/1779867916922_wqroxq_HJPluUvXcAAA_ln.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22675,
+    "content": "KNIGHT MECHA GIRL\nRe : No.9 Crimson Vindicator\n{argument name=\"scale\" default=\"1/7 scale\"} plastic model\n{argument name=\"style\" default=\"line art setting material style\"}",
+    "title": "Knight Mecha Girl Model Kit Style",
+    "description": "A descriptive prompt for creating a mecha-themed character design that resembles a line art reference sheet for a plastic model kit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867922990_b4cn3x_HJM_70abUAA0Eox.jpg",
+      "https://cms-assets.youmind.com/media/1779867923046_qla6wa_HJNBZzgaIAAD9D6.jpg",
+      "https://cms-assets.youmind.com/media/1779867923096_foed4f_HJNBctha4AApLBX.jpg",
+      "https://cms-assets.youmind.com/media/1779867923939_0kslto_HJNBgXFbYAAANme.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22663,
+    "content": "Use the uploaded face image as the facial identity reference for the male subject. Preserve the exact facial structure, hairstyle, beard/stubble details, skin tone, and realistic masculine appearance. Maintain natural skin texture and cinematic realism.\n\nCreate a cinematic ultra-realistic nighttime scene inside a dark moody room with a deep shadowy atmosphere. The environment is illuminated by {argument name=\"neon lighting\" default=\"subtle blue, magenta, and warm orange neon lighting\"} reflecting softly across the walls and floor. The mood is emotional, lonely, nostalgic, and artistic.\n\nThe camera is positioned behind the man at a cinematic over-the-shoulder/back-view angle. The {argument name=\"male subject\" default=\"male subject\"} is leaning casually against a dark textured wall with one shoulder touching the surface, standing still while gazing at {argument name=\"viewed object\" default=\"a large hand-drawn portrait sketch mounted on the opposite wall\"}. His face is mostly seen in side profile or partially obscured from the rear angle, emphasizing the feeling of solitude and remembrance.\n\nThe portrait depicts a breathtakingly beautiful young woman wearing a soft elegant scarf/hijab loosely covering her head. She has a stunning diamond-shaped face, sharp jawline, expressive eyes, delicate features, soft lips, and timeless beauty. The artwork appears handcrafted with charcoal and pencil strokes blended with subtle painterly realism, softly illuminated by a warm hanging lamp above it.\n\nThe man stares intensely at the portrait as if lost in memories. His posture conveys silent love, longing, and nostalgia. He holds a slowly burning cigarette in his right hand, with delicate smoke rising upward and blending into the atmospheric haze and neon light.\n\nHe wears fitted black pants and a slightly loose light whitish shirt with sleeves rolled to the forearms. The upper buttons remain naturally open, subtly revealing part of his chest and collarbone. The fabric reacts realistically to the ambient neon lighting and shadows.\n\nAdd cinematic details:\n\n• Camera angle from behind the man, focusing on both the subject and portrait\n• Wet reflective floor with neon reflections\n• Floating smoke particles and volumetric fog\n• Soft depth of field and creamy cinematic bokeh\n• Warm rim lighting outlining the man’s silhouette\n• Dramatic shadows and high contrast lighting\n• Slight premium film grain\n• Neo-noir cinematic color grading\n• Glowing cigarette ember illuminating fingertips\n• Scattered sketch papers and art supplies beneath the portrait\n• Moody urban artist studio aesthetic\n• Ultra-detailed skin, fabric, smoke, and wall textures\n• Shot on a 50mm cinematic lens\n• Shallow depth of field\n• 8K ultra-realistic cinematic composition\n\nThe final image should feel like a lonely artist leaning against a wall in darkness, viewed from behind, silently staring at the portrait of the woman he loves, creating a powerful story of longing, memory, romance, and melancholy through cinematic lighting and atmosphere",
+    "title": "Cinematic Neo-Noir Identity Reference",
+    "description": "A sophisticated prompt designed for face-swapping identity onto a cinematic, moody nighttime scene involving art and nostalgic themes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867916880_q3nd7b_HJNxzH2bcAAbf4F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22665,
+    "content": "A vertical watercolor wash illustration capturing a cozy, snow-draped hill station nestled in a serene mountain valley. In the immediate foreground, {argument name=\"subject\" default=\"a young woman is depicted from the shins up, leaning slightly against a textured stone wall\"}. She has long, wavy brown hair, a warm smile, and is wearing {argument name=\"outfit\" default=\"a dark green hooded winter parka with a plush faux-fur trim, paired with a patterned blue-and-white knit scarf, matching gloves, blue jeans, and winter boots\"}. She holds a steaming white mug of hot cocoa in both hands.\n​The {argument name=\"background\" default=\"background features a charming alpine village winding up a hillside, with rustic wooden cabins and stone houses topped with heavy blankets of white snow\"}. Gentle smoke curls out of the chimneys, adding to the inviting, warm atmosphere. A snowy, winding path meanders through the village, crossing a small rustic bridge where distant figures walk. Tall, snow-laden evergreen pine trees dot the landscape, leading up to towering, majestic mountains blanketed in deep snow under a soft, misty grey winter sky. The entire scene is rendered in a delicate, traditional watercolor technique with soft color bleeding, textured paper grains, and a gentle overlay of falling white snowflakes.",
+    "title": "Cozy Winter Hill Station Watercolor",
+    "description": "A vertical watercolor illustration of a charming alpine village in winter, featuring a woman enjoying hot cocoa in a snowy setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867918222_jpv9p8_HJNC4L4XAAA7wVN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22466,
     "content": "A lone {argument name=\"subject\" default=\"cowboy\"} silhouetted against a {argument name=\"lighting\" default=\"moonlit sky\"}, riding across a {argument name=\"landscape\" default=\"misty, fog-shrouded landscape\"} at dusk or night. The figure wears a wide-brimmed western hat and sits astride a dark horse, moving through tall grass. Dense evergreen trees emerge from the mist in the background, creating a moody, atmospheric scene. The moon glows softly through hazy clouds, casting an ethereal light across the scene. The overall mood is cinematic, melancholic, and evocative of classic Western noir—mysterious, solitary, and filled with quiet tension. The color palette consists of deep blues, grays, and blacks with pale moonlight accents. The composition emphasizes solitude and isolation in a vast, shadowy wilderness.",
     "title": "Lone Cowboy Moonlit Misty Night",

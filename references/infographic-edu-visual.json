@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 22670,
+    "content": "Create a diagram explaining {argument name=\"topic\" default=\"how to prepare a basic roll of sushi\"}",
+    "title": "Sushi Roll Instruction Diagram",
+    "description": "A prompt designed to test model logic and layout by generating a diagram explaining sushi preparation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867921311_leubsp_HJR2N70bEAADYms.jpg",
+      "https://cms-assets.youmind.com/media/1779867921378_ggo637_HJR2P2_bwAADfNy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22464,
     "content": "A beautifully detailed watercolor and ink journal illustration capturing a culinary travel diary titled \"...and a taste of Greece in {argument name=\"location\" default=\"LA\"}.\" The scene is set on a rustic wooden table by a window overlooking a classic Los Angeles street lined with tall palm trees stretching into distant hazy mountains. The layout features a masterfully plated dish in the foreground on a ceramic plate flanked by a vintage fork and cloth napkin, with a larger baking pan of the same food resting just behind it. In the corners, there are taped-down parchment paper scraps with handwritten notes detailing the recipe layers, along with elegant Chinese calligraphy and a stamped seal. The artwork blends a warm, nostalgic paper texture with vibrant, glossy food rendering, creating a cozy and mouthwatering atmosphere that transitions from a \"Day 1 (lunch) {argument name=\"dish one\" default=\"Spicy L.A. Burger\"}\" layered with melting pepper jack, chili patty, jalapeños, and dripping chili oil on a brioche bun, to a \"Day 2 (dinner) {argument name=\"dish two\" default=\"L.A. Spicy Wings\"}\" showcasing crispy-fried, double-drenched chicken wings glistening in a habanero-honey-lime glaze, topped with smoked chili flakes and served with a side of creamy blue cheese dip and celery sticks.",
     "title": "Watercolor Culinary Travel Diary Illustration",

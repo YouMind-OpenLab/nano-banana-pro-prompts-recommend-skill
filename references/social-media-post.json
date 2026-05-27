@@ -41,6 +41,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 22658,
+    "content": "\"subject\":\"{argument name=\"subject\" default=\"young woman, dark twin braids, bangs, direct gaze\"}\",\n  \"outfit\":\"{argument name=\"outfit\" default=\"black one-piece swimsuit, spaghetti straps\"}\",\n  \"setting\":\"{argument name=\"setting\" default=\"wooden dock, lake at dusk, string lights\"}\",\n  \"mood\":\"blue hour, film grain, summer editorial\"",
+    "title": "Summer Lake Editorial Portrait",
+    "description": "A structured prompt for a film-grain editorial shot featuring a subject at a wooden dock during the blue hour, perfect for high-fashion lake settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867914501_ctuskl_HJQmG63b0AAxqmN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22668,
+    "content": "Ultra-realistic gym mirror selfie of a {argument name=\"subject\" default=\"fit young woman\"} seated on a red bench of a strength-training machine, he is taking a mirror selfie with his iphone in his right hand, looking slightly to the side with a a relaxed, rela confident expression, he is wearing a {argument name=\"outfit\" default=\"white pattern no sleev tshirt and black gym full pent with tie-dye patterns\"}. White athletic shoes with subtle detailing and Headphones. 100same face maching. Black and white gym combo dress full please\\n\\nPlane white top\\n\\n{argument name=\"accessories\" default=\"Black sunglasses\"} no crop full image keep my face same 100% as in the reference image\\n\"Add a clean handwritten signature text 'https://t.co/TGEdg5NvyO' at the bottom corner (preferably bottom right), subtle but clearly visible, matching the color tone of the design, slightly embossed or glowing, not overpowering the main subject, aligned professionally like a premium artwork watermark.",
+    "title": "Realistic Gym Mirror Selfie",
+    "description": "A detailed prompt for creating a realistic gym selfie featuring a specific athletic outfit and accessories, with instructions for adding a professional watermark.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867919616_vcpfnr_HJPt7_-bcAI80IZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22667,
+    "content": "{\\\"image_settings\\\": {\\\"aspect_ratio\\\": \\\"3:4\\\", \\\"resolution\\\": {\\\"width\\\": 1152, \\\"height\\\": 1536}}, \\\"prompt\\\": {\\\"identity_lock\\\": {\\\"reference\\\": \\\"input_photo\\\", \\\"preserve\\\": [\\\"face\\\", \\\"facial proportions\\\", \\\"eye shape\\\", \\\"nose\\\", \\\"lips\\\", \\\"skin tone\\\", \\\"skin texture\\\", \\\"hairline\\\", \\\"overall identity\\\"], \\\"rules\\\": [\\\"no face swap\\\", \\\"no beautify\\\", \\\"no smoothing\\\", \\\"no reshaping\\\", \\\"no AI look\\\"]}, \\\"scene\\\": {\\\"camera_angle\\\": \\\"high-angle downward shot, POV\\\", \\\"composition\\\": \\\"MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom\\\", \\\"screen_surface\\\": [\\\"visible RGB pixel grid\\\", \\\"subtle moire effect\\\", \\\"micro dust on glass\\\", \\\"faint fingerprints\\\", \\\"soft ambient reflections\\\"]}, \\\"digital_interface\\\": {\\\"os\\\": \\\"macOS dark mode\\\", \\\"background_app\\\": {\\\"name\\\": \\\"{argument name=\"background app\" default=\"Spotify\"}\\\", \\\"view\\\": \\\"Liked Songs\\\", \\\"visible_tracks\\\": [{argument name=\"song list\" default=\"\\\"Blank Space – Taylor Swift\\\", \\\"Shake It Off – Taylor Swift\\\", \\\"Cruel Summer – Taylor Swift\\\", \\\"Love Story – Taylor Swift\\\"\"}]}, \\\"foreground_app\\\": {\\\"name\\\": \\\"Photo Booth\\\", \\\"state\\\": \\\"live preview window\\\", \\\"position\\\": \\\"floating, center-right\\\"}}, \\\"photo_booth_content\\\": {\\\"environment\\\": {\\\"room\\\": \\\"dim bedroom\\\", \\\"background\\\": \\\"off-white wall, rumpled bedding\\\", \\\"lighting\\\": \\\"low-light, nocturnal, cool screen glow mixed with warm skin tones\\\"}, \\\"subject\\\": {\\\"pose\\\": \\\"lying down, relaxed, candid\\\", \\\"expression\\\": \\\"natural, slightly relaxed\\\", \\\"outfit\\\": \\\"{argument name=\"outfit\" default=\"light-colored tank top\"}\\\", \\\"prop\\\": {\\\"item\\\": \\\"iPhone 15 Pro\\\", \\\"hand\\\": \\\"right hand\\\"}}}, \\\"realism_rules\\\": [\\\"this is a photo of a screen, not a screenshot\\\", \\\"raw smartphone photo look\\\", \\\"natural noise\\\", \\\"imperfect glass\\\", \\\"no studio lighting\\\", \\\"no HD polish\\\"]}, \\\"negative_prompt\\\": [\\\"screenshot\\\", \\\"flat UI\\\", \\\"perfect screen\\\", \\\"clean glass\\\", \\\"studio lighting\\\", \\\"beauty filter\\\", \\\"cartoon\\\", \\\"3d render\\\", \\\"painting\\\", \\\"watermark\\\", \\\"blurred face\\\"]}",
+    "title": "Realistic MacBook Screen POV",
+    "description": "A technical JSON-based prompt for generating a hyper-realistic photo-of-a-screen look, featuring a MacBook interface with music apps and personal bedroom lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867919646_8xxs8y_HJPsBRZWQAA-Yrr.jpg",
+      "https://cms-assets.youmind.com/media/1779867919605_lihhbn_HJPsBuCXwAAfeIj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22665,
+    "content": "A vertical watercolor wash illustration capturing a cozy, snow-draped hill station nestled in a serene mountain valley. In the immediate foreground, {argument name=\"subject\" default=\"a young woman is depicted from the shins up, leaning slightly against a textured stone wall\"}. She has long, wavy brown hair, a warm smile, and is wearing {argument name=\"outfit\" default=\"a dark green hooded winter parka with a plush faux-fur trim, paired with a patterned blue-and-white knit scarf, matching gloves, blue jeans, and winter boots\"}. She holds a steaming white mug of hot cocoa in both hands.\n​The {argument name=\"background\" default=\"background features a charming alpine village winding up a hillside, with rustic wooden cabins and stone houses topped with heavy blankets of white snow\"}. Gentle smoke curls out of the chimneys, adding to the inviting, warm atmosphere. A snowy, winding path meanders through the village, crossing a small rustic bridge where distant figures walk. Tall, snow-laden evergreen pine trees dot the landscape, leading up to towering, majestic mountains blanketed in deep snow under a soft, misty grey winter sky. The entire scene is rendered in a delicate, traditional watercolor technique with soft color bleeding, textured paper grains, and a gentle overlay of falling white snowflakes.",
+    "title": "Cozy Winter Hill Station Watercolor",
+    "description": "A vertical watercolor illustration of a charming alpine village in winter, featuring a woman enjoying hot cocoa in a snowy setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867918222_jpv9p8_HJNC4L4XAAA7wVN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22478,
     "content": "Amateur subtle blurry iphone shot, photorealistic portrait of a beautiful {argument name=\"subject\" default=\"allison brie\"} with fair skin, watching directly in camera and long straight hair in a low bun with loose strands, crouching confidently with hands on thighs in front of an {argument name=\"background\" default=\"ornate red wrought-iron gate/door\"} with sign 'Keor' engraved on it of a classic Parisian-style stone building. She wears a {argument name=\"top\" default=\"yellow with black dots long-sleeved unbottoned collared shirt\"}, a black scarf loosely tied around her neck, a short dark pleated mini mini skirt, sheer black tights, and leopard glossy high heels stilettos. She carries a black leather handbag on her right shoulder, has subtle makeup, and smiles softly while looking directly to the camera . Natural daylight, elegant European street setting, realistic photography style, sharp focus, high resolution.",
     "title": "Parisian Street Style Portrait",

@@ -1,5 +1,29 @@
 [
   {
+    "id": 22675,
+    "content": "KNIGHT MECHA GIRL\nRe : No.9 Crimson Vindicator\n{argument name=\"scale\" default=\"1/7 scale\"} plastic model\n{argument name=\"style\" default=\"line art setting material style\"}",
+    "title": "Knight Mecha Girl Model Kit Style",
+    "description": "A descriptive prompt for creating a mecha-themed character design that resembles a line art reference sheet for a plastic model kit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867922990_b4cn3x_HJM_70abUAA0Eox.jpg",
+      "https://cms-assets.youmind.com/media/1779867923046_qla6wa_HJNBZzgaIAAD9D6.jpg",
+      "https://cms-assets.youmind.com/media/1779867923096_foed4f_HJNBctha4AApLBX.jpg",
+      "https://cms-assets.youmind.com/media/1779867923939_0kslto_HJNBgXFbYAAANme.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22660,
+    "content": "generate new {argument name=\"subject\" default=\"cute cat characters\"}",
+    "title": "Cute Cat Character Concept",
+    "description": "A simple, direct prompt designed to generate new, adorable cat character designs for web projects or stickers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779867915414_ece4sh_HJNZGzDWwAAVuiR.jpg",
+      "https://cms-assets.youmind.com/media/1779867915351_aonhf8_HJNZGzDWoAAIqu7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22488,
     "content": "A highly stylized 3D caricature of {argument name=\"fighter\" default=\"Ilia Topuria\"}, Standing at the top of {argument name=\"opponent\" default=\"Justin Gaethje\"} after defeating him in the octagon. Capturing his real facial features but exaggerated and distorted. Exaggerated droopy ears, patchy uneven skin texture, wild frizzy hair sticking out in all directions. Rendered in {argument name=\"style\" default=\"semi-realistic style\"} with harsh rim lighting emphasizing every wrinkle and imperfection. Minimal background, 16:9.",
     "title": "3D Caricature MMA Victory",
