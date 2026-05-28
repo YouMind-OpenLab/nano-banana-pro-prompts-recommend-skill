@@ -21,6 +21,88 @@
     "needReferenceImages": true
   },
   {
+    "id": 22801,
+    "content": "{argument name=\"subject\" default=\"An athletic male subject\"} with short, textured dark brown hair stands confidently, turned at a relaxed 45-degree angle with his weight shifted and shoulders dropped, his face bearing a calm, serious expression as he looks away toward the horizon. He is dressed in an {argument name=\"outfit\" default=\"unbuttoned light blue short-sleeve shirt draped over a clean white ribbed tank top\"}, paired with warm stone-colored linen pants and striking amber-tinted sunglasses. His hands are deliberately posed; his left hand rests flat against a stone surface, adorned with a beaded bracelet and silver rings, while his relaxed right hand rests gently over the left fingers, loosely holding a small silver object. He leans against a {argument name=\"location\" default=\"beautifully weathered, warm light gray architectural stone balustrade\"} in the foreground, its rough, unfinished matte surface marked by dark aging and dirt buildup nestled within its geometric diamond and circular cutouts. Beyond the textured balustrade, the deep spatial depth opens up to a vibrant midground of deep sea blue ocean water, leading out to small, pristine white sailboats positioned toward the center-right and a faint, hazy silhouette of a weathered mountain profile rising in the distant center background under a vast sky blue expanse. Bathed in bright, hard natural sunlight from a top 45-degree side angle, the scene pulses with a warm, golden Mediterranean summer lifestyle vibe defined by a high-contrast complementary color palette. The highly directional light casts deep black, harshly defined shadows beneath the subject's collar, chin, and along the balustrade's ledge, while preserving brilliant specular highlights on his left shoulder, face, amber sunglasses, and silver jewelry. Captured as a tack-sharp digital photograph with a straight-on perspective, the image utilizes a deep depth of field at an f/8 aperture, a 1/1000s fast shutter speed, and ISO 100 with daylight white balance to maintain absolute focus from the foreground stone to the distant sailboats, featuring post-processing enhancements that boost the blues in the sky and ocean, add a sun-kissed warmth to the highlights, and apply high clarity to the stone textures, all framed in a 4:5 aspect ratio.",
+    "title": "Mediterranean Summer Male Lifestyle Portrait",
+    "description": "A sharp digital photograph prompt for a confident male subject leaning against a stone balustrade, capturing a warm Mediterranean summer vibe with high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954408068_udibi7_HJVzJYRW4AASk8w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22795,
+    "content": "A richly detailed, high-fashion portrait photograph of an {argument name=\"subject\" default=\"elegant Indian woman\"} in a dynamic pose. She is wearing a {argument name=\"outfit\" default=\"mustard-yellow pleated georgette saree\"}, the texture of which is prominent. Her eyes are closed, showcasing a dramatic and opulent makeup look with deep, dark blue glitter eyeshadow and smoky liner, a structured brow, and a deep mauve-plum lipstick. Her sleek dark hair is styled in a neat bun, adorned with a traditional floral gajra of small white flowers. She wears exquisite, large kundan and gold jewelry set with ruby-red stones and pearls, including an elaborate maang tikka on her forehead and substantial matching cuffs (kangan) on both wrists. Her pose is sculptural: her right arm is raised, with the hand graceful and high, and her left hand is lightly and delicately touching her lower neck, both showing manicured nails. The background is a {argument name=\"background\" default=\"dense, textured deep-green velvet curtain\"} with rich, soft folds, creating a warm, moody atmosphere. Soft, directional studio lighting illuminates her from the front and side, highlighting the metalwork, pearls, and saree pleats, with a shallow depth of field. The overall tone is regal and sophisticated.",
+    "title": "Regal Indian Saree Portrait",
+    "description": "An opulent, high-fashion portrait of an Indian woman in a mustard-yellow saree, featuring intricate jewelry and dramatic studio lighting against a velvet backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954405422_yhrhyr_HJVtsQ2WUAMkHAl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22793,
+    "content": "Goal: Transform {argument name=\"input\" default=\"Input A\"} into a \"Knitted Yarn\" version. Rules: - Spatial Fidelity: Reconstruct the input using \"Stitch-Pattern displacement.\" - Materiality: \"Fuzzy Wool\" fibers with \"SSS (Subsurface Scattering).\" Every character is a \"3D-knitted plush.\" - Technical Spec: Blender Hair particles for \"yarn fuzz.\" Material blend: \"Diffused Cotton.\" - Lighting: \"Warm Domestic Softbox\" lighting to emphasize the softness of the fabric. - Rendering: Macro-photography style, very shallow depth of field. Output: ONE image, cozy and tactile.",
+    "title": "Knitted Yarn Space Machine",
+    "description": "A creative stylization prompt that transforms mechanical subjects into cozy, handcrafted 3D-knitted plush models with macro-photography lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954405561_wbyzva_HJNEh78XAAAwD-E.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22798,
+    "content": "Hands in Pockets - relaxed authority. A hyper-realistic cinematic editorial portrait of the {argument name=\"subject\" default=\"uploaded person\"} (preserve face 100%). He stands tall in a {argument name=\"setting\" default=\"dark moody studio\"}, facing the camera, surrounded by soft drifting smoke under a dramatic spotlight. Outfit: {argument name=\"outfit\" default=\"slate-blue luxury suit, paired with a slightly unbuttoned white silk shirt\"}. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward.\"",
+    "title": "Confident Studio Suit Portrait",
+    "description": "A hyper-realistic studio portrait prompt for a subject in a luxury suit, featuring dramatic spotlight and smoke effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954407198_slhqp1_HJVCoU5bAAEnVQg.jpg",
+      "https://cms-assets.youmind.com/media/1779954406718_e7ge3n_HJVCoV4aUAAmuSS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22787,
+    "content": "A magazine cover titled \"{argument name=\"magazine title\" default=\"VELVET & VINYL\"}\" featuring a smiling {argument name=\"subject\" default=\"young woman with curly hair\"} tied up in a colorful patterned scarf. She is standing in front of a vibrant graffiti brick wall, wearing a light-wash denim jacket over a graphic t-shirt and high-waisted blue jeans. She holds a vintage film camera with both hands in front of her chest. The cover is layered with modern, stylized text and headlines such as \"SUVINYL,\" \"CITY STYLE | URBAN BEATS,\" \"SPRING STREET GUIDE,\" \"VINTAGE REBORN,\" and \"ART ON THE STREET.\" The overall aesthetic is a trendy, urban, streetwear and indie culture lifestyle magazine with a bright and artistic color palette.",
+    "title": "Velvet and Vinyl Urban Magazine",
+    "description": "An urban streetwear lifestyle magazine cover featuring a woman with curly hair against a graffiti backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954402428_yhgmit_HJUmx6SWEAATxr7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22803,
+    "content": "{\n  \"meta\": {\n    \"theme\": \"{argument name=\"theme\" default=\"european_cafe_editorial\"}\",\n    \"quality\": \"ultra-photorealistic cinematic street portrait with natural skin texture, soft daylight rendering, realistic hair definition, and creamy background depth separation\",\n    \"aspect_ratio\": \"16:9\",\n    \"camera\": \"Close-up side-profile portrait captured on a high-resolution full-frame camera using an {argument name=\"lens\" default=\"85mm f/1.8 prime lens\"}. Sharp focus on the subject’s eyes, skin texture, and curls while the Parisian café background melts into soft cinematic blur.\",\n    \"lighting\": \"natural outdoor daylight with soft highlights on skin, realistic shadow transitions, warm ambient tones, and subtle street reflection glow\",\n    \"style\": \"minimal European street-fashion editorial blended with candid cinematic realism\"\n  },\n\n  \"identity\": {\n    \"profile\": \"fictional adult woman, 20s+\",\n    \"persona_type\": \"original_composite_character\",\n    \"style_archetype\": \"quiet_city_muse\"\n  },\n\n  \"subject\": {\n    \"age\": \"adult woman, 20s+\",\n    \"identity\": \"fictional_composite_european_street_muse\",\n    \"identity_lock\": \"preserve_character_consistency\",\n    \"hair\": \"short naturally curly dark hair with soft volume and realistic texture\",\n    \"expression\": \"calm thoughtful expression with subtle emotional depth and quiet confidence\",\n    \"wardrobe\": \"{argument name=\"outfit\" default=\"minimal black blazer, silver revolver-shaped dangling earring, natural makeup, clean understated styling\"}\",\n    \"framing\": \"Close side-profile portrait seated at an outdoor Paris-style café, gazing slightly away from the camera with relaxed posture and soft natural facial tension.\"\n  },\n\n  \"scene\": {\n    \"location\": \"European city café terrace with blurred streets, vintage chairs, stone buildings, and soft urban background activity\",\n    \"environment\": \"warm daylight atmosphere with café furniture textures, subtle city movement, elegant street architecture, and natural outdoor ambience\",\n    \"atmosphere\": \"peaceful urban solitude mixed with artistic mystery and effortless street elegance\"\n  },\n\n  \"lighting\": {\n    \"type\": \"soft natural daylight with realistic facial highlights, smooth skin transitions, subtle eye reflections, and balanced cinematic contrast\"\n  },\n\n  \"camera\": {\n    \"style\": \"tight cinematic portrait composition with shallow depth-of-field, natural handheld realism, and premium editorial framing\"\n  },\n\n  \"mood\": {\n    \"vibe\": \"quiet sophistication with introspective urban femininity and timeless cinematic calm\"\n  },\n\n  \"additional_details\": [\n    \"Fine skin pores and natural facial texture visible under daylight\",\n    \"Realistic curly hair strands with soft natural flyaways\",\n    \"Silver earring reflecting subtle ambient highlights\",\n    \"Warm café background softly blurred with cinematic depth\",\n    \"Natural eye reflections enhancing realism and emotional presence\",\n    \"Balanced skin tones without overprocessed beauty filtering\",\n    \"Organic facial asymmetry preserved for authenticity\",\n    \"Elegant\"",
+    "title": "European Cafe Editorial Side Profile",
+    "description": "A sophisticated editorial-style prompt for a close-up side-profile portrait of a woman seated at a Parisian cafe terrace, emphasizing realistic skin and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954409741_i3zhgs_HJUaCABbwAAyMR0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22788,
+    "content": "An {argument name=\"collection name\" default=\"AMZ Collection\"} fashion design spec sheet and product layout presented as a tall, vertical infographic for men's technical outerwear. On the left side, a full-body shot features a 32-year-old male model with a short beard and a faded haircut, wearing a rugged, multi-pocketed utility jacket and matching cargo pants in deep olive green and slate grey with bright orange accents. The top of the sheet prominently displays the title \"{argument name=\"title\" default=\"AMZLECTION - URBAN FRONTIER SERIES\"}\" and \"AERO SHELL PARKA SYSTEM\" in a bold, clean sans-serif typeface, accompanied by a bio detailing his occupation as a systems engineer and urban explorer. The right side features a technical \"Articulation & Layer Study\" breakdown showing multiple back and front silhouette angles detailing the zip-in system, articulated sleeves, and hood stowage. The center section provides macro close-up macro shots highlighting the technical textures, including ripstop tech fabric, a seal-zip closure, and a grip-liner sleeve cuff. Below, a \"Modular Styling\" column showcases alternative ways to style the garment, such as a full protection system or a light urban shell. The bottom of the layout features grid sections labeled \"Modular Add-Ons\" displaying accessories like a utility belt, touchscreen-compatible tech gloves, an EDC multi-tool, and a headlamp. Adjacent to this is an \"Urban Palette & Mats\" swatch color bar showing slate grey, olive green, night black, blaze orange, and technical ivory, followed by a comprehensive \"Technical Specifications\" block outlining the fabric, insulation, closures, pockets, and features of the high-performance gear.",
+    "title": "Technical Outerwear Design Sheet",
+    "description": "A detailed fashion design spec sheet and product layout for men's technical outerwear with modular styling and technical textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954402372_liq6q6_HJUQCtgWcAQ8xE1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22796,
+    "content": "Ultra-photorealistic editorial fashion portrait of a {argument name=\"subject\" default=\"young blonde woman\"} in an {argument name=\"outfit\" default=\"elegant fitted black strapless dress\"}, posing over her shoulder with one hand in her hair, {argument name=\"setting\" default=\"luxury studio setting with soft taupe curtains backdrop\"}, flawless glowing skin, natural glam makeup, delicate gold jewelry including earrings, necklace, bracelets, soft direct flash photography, high-fashion magazine aesthetic, sharp focus, realistic skin texture, 85mm lens, shallow depth of field, premium beauty campaign style",
+    "title": "Editorial Fashion Strapless Dress Portrait",
+    "description": "A high-fashion magazine aesthetic prompt for a blonde woman in a fitted black dress, set in a luxury studio with soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954406592_wcsdrs_HJTmnuXbIAA8fBE.jpg",
+      "https://cms-assets.youmind.com/media/1779954406607_t1vc1q_HJTmnuZbUAACmVz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22671,
     "content": "A well-groomed adult male stands confidently as the central focal point, wearing a {argument name=\"outfit\" default=\"sharply tailored dark charcoal three-piece suit\"}, a crisp white shirt, and a striped maroon and navy tie. His hair is styled in a precise slicked-back pompadour measuring three to four inches on top with a short skin fade on the back and sides; the thick, slightly wavy texture is heavily styled with a satin-finish pomade to hold its volume, deliberately revealing natural growth patterns and slight separations in the strands to avoid an overly smooth appearance. His face bears a confident, direct gaze with a closed, unsmiling mouth and neutral eyebrows. He poses with his body facing the camera, his weight leaning slightly to the right with tilted shoulders. His left hand is tucked casually into his front left trouser pocket with the thumb resting outside against the fabric and the wrist mostly obscured, while his right hand rests flat against the side of the hood of the car to support his leaning weight, fingers lightly and naturally extended, finishing his ensemble with polished black leather derby shoes. He interacts seamlessly with the layered foreground, leaning against the pristine, glossy black front fascia of a {argument name=\"car\" default=\"Lamborghini Huracán sports car\"}, defined by its sharp angular body lines, black alloy wheels, and sleek LED headlights. The deep spatial depth extends into a tack-sharp midground featuring a {argument name=\"house style\" default=\"new, modern two-story architectural house\"} with a perfectly smooth, matte dark charcoal and black painted drywall and concrete exterior. The home boasts a flat roofline, large rectangular glass windows reflecting the surrounding nature, and a pristine section of rich, medium-brown horizontal wood paneling on the upper left. To the right, a warmly lit exterior wall sconce illuminates a dark grey conical concrete planter housing a thriving Yucca plant with spiky green leaves. The ground below is a solid, light grey speckled concrete surface, leading back to a distant background on the upper right where a natural forest edge of green Eucalyptus trees completes the affluent setting. A sophisticated mood of wealth, success, and moody elegance permeates the scene, driven by a neutral, monochromatic color palette dominated by charcoal grey and glossy black, gracefully accented by warm brown wood tones. Soft, diffused natural light cascades from multiple sources above, casting moderate-intensity illumination with a medium contrast ratio. Soft, gray, gradual-edged drop shadows fall cleanly under the subject and the car, keeping the ambient fill present and natural. Crisp specular highlights are carefully preserved and catch the light along the prominent ridges of the car hood, the textured strands of the man's hair, and the side of his face. Captured straight-on as a realistic, tack-sharp digital portrait photograph with zero grain, utilizing a 35mm to 50mm lens and an f/5.6 to f/8 aperture at ISO 100 with a fast shut",
     "title": "Man with Luxury Car and House",

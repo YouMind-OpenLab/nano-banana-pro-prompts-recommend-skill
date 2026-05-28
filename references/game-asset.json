@@ -1,5 +1,36 @@
 [
   {
+    "id": 22816,
+    "content": "Digital 3D render of a young woman bust portrait with crescent-shaped bangs, oversized fashionable sunglasses perched on top of her head, cream white background. Angry fierce expression, gray shorts, dual 5.56mm pistols holstered on both sides of her waist, standing on a zombie crushed to half-body. Left hand holding an {argument name=\"primary weapon\" default=\"electric chainsaw\"}, right hand gripping a {argument name=\"secondary weapon\" default=\"crowbar\"} impaled into the zombie's skull. {argument name=\"outfit\" default=\"White spaghetti-strap tank top\"}, hiking boots, legs and arms covered in mud and battle scars. Ultra-high detail, cinematic lighting, high-resolution 3D rendering, photorealistic, dramatic shadows, intense atmosphere.",
+    "title": "Post-Apocalyptic 3D Zombie Survivor",
+    "description": "A fierce and detailed 3D render of a female survivor standing over a zombie, armed with a chainsaw and crowbar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954416120_yb5x3o_HJWEdKfW0AQnmFq.jpg",
+      "https://cms-assets.youmind.com/media/1779954416102_fxbqtf_HJWFQ3CWsAQksEJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22793,
+    "content": "Goal: Transform {argument name=\"input\" default=\"Input A\"} into a \"Knitted Yarn\" version. Rules: - Spatial Fidelity: Reconstruct the input using \"Stitch-Pattern displacement.\" - Materiality: \"Fuzzy Wool\" fibers with \"SSS (Subsurface Scattering).\" Every character is a \"3D-knitted plush.\" - Technical Spec: Blender Hair particles for \"yarn fuzz.\" Material blend: \"Diffused Cotton.\" - Lighting: \"Warm Domestic Softbox\" lighting to emphasize the softness of the fabric. - Rendering: Macro-photography style, very shallow depth of field. Output: ONE image, cozy and tactile.",
+    "title": "Knitted Yarn Space Machine",
+    "description": "A creative stylization prompt that transforms mechanical subjects into cozy, handcrafted 3D-knitted plush models with macro-photography lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954405561_wbyzva_HJNEh78XAAAwD-E.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22817,
+    "content": "A digital collage artwork featuring a young man with styled brown hair sitting casually on top of a {argument name=\"retro device\" default=\"retro red television screen\"}, which displays a vibrant turquoise and blue galaxy inside it. He is wearing a {argument name=\"outfit\" default=\"mustard yellow sweatshirt with a textured graphic pattern across the chest\"}, dark green corduroy trousers rolled at the cuffs, teal socks, and worn-out blue and black high-top sneakers. The background is a surreal, artistic mix of deep blue and purple watercolor splashes, adorned with large, iridescent glowing purple lilies. Elements of astronomy and navigation float in the upper half, including a golden celestial zodiac chart, a detailed antique brass astrolabe, a compass rose, and a fine black grid pattern arcing across the sky. The overall aesthetic combines vintage retro-futurism, cosmic surrealism, and a dreamy watercolor collage style.",
+    "title": "Retro Cosmic Watercolor Collage",
+    "description": "A surreal digital collage combining a retro TV showing a galaxy with vintage astronomical charts and watercolor floral art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954416551_767fg6_HJTW53nXoAAL2mX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22675,
     "content": "KNIGHT MECHA GIRL\nRe : No.9 Crimson Vindicator\n{argument name=\"scale\" default=\"1/7 scale\"} plastic model\n{argument name=\"style\" default=\"line art setting material style\"}",
     "title": "Knight Mecha Girl Model Kit Style",

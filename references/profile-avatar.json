@@ -10,6 +10,122 @@
     "needReferenceImages": false
   },
   {
+    "id": 22805,
+    "content": "A vertical, split-medium portrait of a {argument name=\"subject\" default=\"beautiful and cute biracial young woman\"}. The image is divided perfectly down the center to showcase two distinct artistic styles. The left side of her face is rendered as a {argument name=\"left style\" default=\"detailed pencil sketch with fine, delicate linework, soft shading, and realistic textures\"} in her hair and eye. The right side of her face transitions seamlessly into a {argument name=\"right style\" default=\"vibrant, soft watercolor wash technique, featuring expressive, bleeding hues of warm amber, soft rose, and cool blue\"} that blend into the textured paper background. She has a gentle smile, captivating eyes, and her hair is styled in a high braided ponytail that reflects both mediums perfectly.",
+    "title": "Split-Medium Sketch and Watercolor Portrait",
+    "description": "A creative prompt for a split-medium portrait, dividing the image into a detailed pencil sketch on one side and a vibrant watercolor wash on the other.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954410692_e3zfau_HJVbg5fWYAA_jAO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22808,
+    "content": "Ultra-photorealistic vertical 9:16 Instagram Story-style candid portrait of a {argument name=\"subjects\" default=\"stylish young mother and her toddler daughter\"} sitting together inside an {argument name=\"location\" default=\"Istanbul Marmaray train\"}.\nThe image should feel like a real phone-camera capture: natural perspective, slight casual framing, subtle lens distortion, authentic skin texture, soft cinematic realism, and a warm, intimate everyday moment.\n\nUse the uploaded woman as the main identity reference for the mother.\nThe toddler girl should look like a little daughter version of the uploaded woman, with similar facial harmony and recognizable resemblance, while still looking like a realistic toddler. She has soft round cheeks, straight dark bangs, two braided pigtails, and an adorable pouty / slightly grumpy expression, similar to the mood of the reference baby image. She is looking at the camera with a cute stubborn facial expression.\n\nChild styling\n\nThe little girl is sitting on the Marmaray seat and wears a {argument name=\"dress style\" default=\"pink, wrapped-style floral patterned summer dress\"}, with soft pink and yellow flower details. The dress should feel sweet, summery, and childlike.\nShe wears pink summer shoes / sandals and carries a small pink-and-yellow handbag, playful and stylish, matching the outfit.\nHer proportions, hands, legs, and face must look naturally toddler-like and photorealistic.\n\nMother styling\n\nNext to her sits her mother, elegant, youthful, and beautiful, in a coordinated pink-and-yellow halter-neck summer dress tied around the neck, with a floral print matching the daughter’s outfit.\nThe mother’s pose should feel relaxed, warm, protective, and natural, sitting close beside her daughter.\nShe has softly styled hair, natural glam makeup, delicate jewelry, and a gentle smile. She should look effortlessly chic and feminine, like a real lifestyle Instagram Story capture rather than a studio fashion shoot.\n\nEnvironment\n\nThe setting is clearly inside an Istanbul Marmaray train:\nclean modern train carriage, silver metallic seats, blue floor, vertical poles, train doors, soft neutral interior colors, and subtle Marmaray visual cues in the background.\nThe space should feel realistic, clean, bright, and naturally lived-in, without clutter.\n\nLighting and mood\n\nUse soft natural indoor transit lighting, slightly warm and flattering, with realistic shadows and highlights.\nMood: intimate, sweet, summery, stylish, realistic, everyday luxury, soft feminine warmth, candid mother-daughter moment in Istanbul.\nThe overall aesthetic should feel like a real Instagram Story photo: casual, close, warm, authentic, and emotionally charming.\n\nVisual style\n\nPhotorealistic, high-resolution, realistic skin texture, real fabric texture, natural anatomy, realistic hands, realistic toddler proportions, subtle cinematic softness, natural depth, no artificial AI glow, no over-smoothing, no waxy skin.\n\nOptional overlay\n\nAdd a subtle Instagram Story interface at the top with the username “ozgedoner” for a modern socia",
+    "title": "Instagram Story Train Candid",
+    "description": "A candid-style portrait prompt for a mother and toddler on an Istanbul Marmaray train, designed to look like a realistic social media post.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954411997_w3flr0_HJVK8xnWcAQZrbF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22792,
+    "content": "{argument name=\"subject\" default=\"young woman, blonde pigtails, bangs, blue-green eyes, freckles\"}, {argument name=\"makeup\" default=\"rosy blush, terracotta lips\"}, {argument name=\"outfit\" default=\"low-cut beige top\"}, {argument name=\"mood\" default=\"soft lighting, warm tones, close-up portrait\"}",
+    "title": "Pigtails Portrait Close-up",
+    "description": "A soft, warm-toned close-up portrait of a woman with blonde pigtails and blue-green eyes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954404369_tlz948_HJVHI-kakAAfYgZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22809,
+    "content": "{\n    \"image_prompt\": {\n      \"subject\": {\n        \"appearance\": \"Young woman with long, wet, wavy red hair, light freckles, and natural skin texture\",\n        \"reference_celebrity\": \"{argument name=\"celebrity name\" default=\"Sadie Sink\"}\",\n        \"expression\": \"Relaxed, subtle smile, looking slightly off-camera\",\n        \"physical_details\": \"Slightly damp skin with visible, realistic water droplets on arms and shoulders\"\n},\n      \"attire\": {\n       \"garment\": \"{argument name=\"attire\" default=\"Large, textured, light beige or off-white bath towel\"}\",\n        \"styling\": \"Wrapped securely around the body, held in place by one hand at the chest\"\n},\n       \"pose\": {\n         \"stance\": \"Standing casually, facing forward with a slight angle\",\n         \"arms\": \"One arm bent holding the towel, the other arm resting naturally at her side\"\n},\n        \"setting\": {\n          \"environment\": \"{argument name=\"location\" default=\"Modern, upscale residential bathroom\"}\",\n            \"background_details\": [\n             \"Frosted glass shower enclosure\",\n             \"Neutral-toned, textured stone or ceramic wall tiles\",\n             \"Window on the left allowing natural light to enter\",\n             \"Soft bath mat visible on the floor\"\n]\n},\n           \"photography_style\": {\n             \"aesthetic\": \"Raw lifestyle photography, candid realism, high-fidelity photorealism\",\n             \"lighting\": \"Soft, diffused natural daylight entering from a window, creating gentle highlights on wet hair and skin\",\n              \"composition\": \"Medium-full shot from mid-thigh up, eye-level angle, sharp focus on the subject with a softly blurred background (shallow depth of field)\"\n              }\n       }\n}\n--ar 9:16",
+    "title": "Candid Bathroom Lifestyle Portrait",
+    "description": "A high-fidelity lifestyle photography prompt of a celebrity wrapped in a towel in a modern upscale bathroom, emphasizing natural skin texture and soft daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954412377_j7yy9j_HJVDOuXWAAAG0RD.jpg",
+      "https://cms-assets.youmind.com/media/1779954412367_u3cj90_HJVDS-2WwAQj_3D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22798,
+    "content": "Hands in Pockets - relaxed authority. A hyper-realistic cinematic editorial portrait of the {argument name=\"subject\" default=\"uploaded person\"} (preserve face 100%). He stands tall in a {argument name=\"setting\" default=\"dark moody studio\"}, facing the camera, surrounded by soft drifting smoke under a dramatic spotlight. Outfit: {argument name=\"outfit\" default=\"slate-blue luxury suit, paired with a slightly unbuttoned white silk shirt\"}. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward.\"",
+    "title": "Confident Studio Suit Portrait",
+    "description": "A hyper-realistic studio portrait prompt for a subject in a luxury suit, featuring dramatic spotlight and smoke effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954407198_slhqp1_HJVCoU5bAAEnVQg.jpg",
+      "https://cms-assets.youmind.com/media/1779954406718_e7ge3n_HJVCoV4aUAAmuSS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22819,
+    "content": "A young woman in her late 20s with long, wavy dark brown hair sitting cross-legged on a low concrete ledge outdoors. She is wearing a {argument name=\"shirt color\" default=\"rust/terracotta orange\"} short-sleeve crew neck t-shirt, {argument name=\"trousers style\" default=\"loose beige linen wide-leg trousers\"}, and clean white low-top sneakers. She has a relaxed, natural smile and is looking slightly upward and to the left. Small silver stud earrings. Background features a lush green meadow with {argument name=\"spring flowers\" default=\"colorful spring tulips (pink, yellow, white)\"} in bloom, blossoming white cherry tree branches overhead, and traditional Alpine wooden houses with mountains in the soft-focused distance. Natural daylight, spring atmosphere. Shallow depth of field, sharp subject, bokeh background. Medium shot, eye-level angle, photorealistic portrait photography style.",
+    "title": "Alpine Spring Portrait of a Woman",
+    "description": "A detailed photorealistic prompt describing a woman in her late 20s sitting outdoors in a spring alpine setting with blooming tulips and cherry blossoms.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954417589_ahuqkg_HJUI2ISbwAABmWg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22811,
+    "content": "Photorealistic portrait of a young woman with {argument name=\"hair color\" default=\"long wavy red\"} hair sitting in a modern upscale cafe with warm wood-paneled interior and large glass windows, wearing a {argument name=\"hat\" default=\"navy baseball cap\"}, black over-ear headphones, {argument name=\"outfit\" default=\"fitted white cropped t-shirt\"}, and white lounge pants, seated on a cream leather bench, hands adjusting headphones, soft natural daylight, shallow depth of field, lifestyle photography, ultra-detailed, realistic skin texture",
+    "title": "Upscale Cafe Lifestyle Portrait",
+    "description": "A realistic portrait of a young woman with wavy red hair in a modern cafe, featuring high-end tech accessories and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954413107_ib8g7i_HJT7Yi8bsAAxV7l.jpg",
+      "https://cms-assets.youmind.com/media/1779954413140_3097ge_HJT7Yi5aQAADUEg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22810,
+    "content": "A young man sits squarely in the center of the frame, facing the camera with relaxed shoulders and a serious, composed expression, his mouth closed and eyes completely hidden behind dark reddish square sunglasses. His {argument name=\"hair style\" default=\"short, messy dark brown\"} hair features a natural, textured look with subtle flyaways. He is dressed in a layered casual outfit consisting of a {argument name=\"overshirt\" default=\"thick beige corduroy overshirt\"} left unbuttoned over a black crewneck t-shirt, paired with {argument name=\"pants\" default=\"blue denim jeans\"}. His body weight is evenly distributed as he sits, with his left arm casually draped over the back edge of a white boat seat, his fingers pointing straight down in an organic gesture, while his right hand rests naturally on his right thigh, the fingers loosely curled inward. He is positioned against the foregrounds worn white leather marine seating, which reveals visible seams and slight wear along the edges, while a weathered blue canvas boat canopy supported by metal tubes frames the upper foreground. The deep spatial midground reveals a thick, weathered cylindrical wooden docking bollard tightly wrapped with white rope at its base on the right side, giving way to a wide expanse of choppy, desaturated blue-grey water with small waves reflecting the overcast sky. In the slightly blurred background, a deep urban waterfront displays a matte, patchy-colored mix of traditional brown wooden multi-story houses and modern white concrete apartment blocks with balconies, all resting beneath a sloping terrain blanketed with bare, autumnal leafless trees. The entire scene is bathed in a calm, soft, and diffused frontal outdoor natural light, casting soft-edged, gradual gray shadows under his shirt collar, beneath his legs, and deep inside the boat canopy, while preserved specular highlights gently touch his forehead, the top shoulder of his beige shirt, and the smooth curves of the white leather seat. This lighting enhances the split-complementary palette of beige, black, denim, off-white, and desaturated blues, establishing a relaxed, breezy maritime atmosphere. Rendered in the style of clean, contemporary lifestyle digital photography, the image is shot straight-on with a 35mm lens at an f/4.0 aperture, 1/500s shutter speed, and ISO 200, achieving a tack-sharp subject with zero grain and a medium depth of field, finished with subtle color grading, natural skin tones, slightly lifted shadows, and mild background desaturation, all naturally framed in a 3:4 aspect ratio.",
+    "title": "Casual Maritime Waterfront Portrait",
+    "description": "A relaxed portrait of a young man in casual layered attire sitting on a boat against an urban waterfront backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954412930_trldn6_HJT7ADBXkAAvydu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22802,
+    "content": "Generate an image of an adult female fashion portrait in the {argument name=\"style\" default=\"Overhead Straight Flash Emotional Portrait\"} style, with an aspect ratio of 【Aspect Ratio】.\n\nScene Setup:\nThe subject lies on a clean {argument name=\"bed surface\" default=\"Bed Surface Type\"}, captured from an overhead or slightly angled overhead perspective, with the face clearly centered and the body naturally extended. The bedsheets and pillows create large areas of negative space. The overall composition evokes a sense of authentic, restrained, intimate bedroom straight flash photography.\n\nCharacter Setup:\nAdult female with a distinctly recognizable appearance, featuring naturally refined facial features without an influencer-like face. Hairstyle is 【Hairstyle】, hair color is 【Hair Color】, and makeup style is 【Makeup Style】. The gaze conveys 【Emotional Keywords】, such as a need for protection, slight surprise, mild anticipation, quietness, vulnerability, clarity, or semi-dazed, but without exaggerated performative elements. Retain authentic skin texture without excessive smoothing.\n\nClothing Setup:\nOutfit is {argument name=\"outfit\" default=\"Clothing Type\"}, such as crop tops, off-shoulder styles, strapless tops, tie-front blouses, short tees, tank tops, knit tops, or silk blouses, leaning toward a fashionable editorial feel with everyday wearability. Pair with minimal metallic accessories, bracelets, rings, or earrings, but avoid over-layering.\n\nComposition:\nThe subject is presented in central or slightly off-center composition, with the face as the primary visual focus and hands and waistline as secondary focal points. Hair strands naturally splay out to create a sense of line and flow. The image should have a clear main subject, clean background, and stable visual reading path.\n\nLighting and Texture:\nEmploy strong straight flash from a phone or camera, resulting in distinct highlights, hard shadows, and authentic flash quality. Bedsheets, skin, and clothing should show clear reflective layers, evoking a genuine moment captured by flash in a nighttime bedroom, avoiding soft studio lighting effects.\n\nColor and Atmosphere:\nDominant color palette is 【Dominant Color Tone】, with low saturation, authenticity, restraint, and cleanliness overall. The background features a white bed, subtle gray shadows, and minimal bedding folds, steering clear of complex props or cluttered scenes. The image's vibe draws from bedroom flash editorial, overhead emotional portraits, and a subtle blend of Y2K with soft grunge aesthetics.\n\nQuality Requirements:\nHigh-definition, authentic photographic feel, natural hand structure, realistic hair strands, accurate body proportions, clear facial details, fine skin textures, and a high-fashion sensibility.",
+    "title": "Emotional Overhead Flash Portrait",
+    "description": "A detailed template for an intimate, high-fashion bedroom portrait captured with an overhead straight flash, emphasizing authentic textures and emotional gaze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954409384_ija129_HJTsZSSaEAAL848.jpg",
+      "https://cms-assets.youmind.com/media/1779954409378_8s9nxx_HJTsb-EaMAApVHO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22790,
+    "content": "Amateur subtle blurry iPhone shot of a beautiful woman resembling {argument name=\"subject\" default=\"Sadie Sink\"} with fair freckled skin and {argument name=\"hair\" default=\"long red hair\"} styled in a low bun with loose strands. She stands near an ornate red wrought-iron gate of a Parisian-style stone building with a subtle engraved 'Love' detail. One leg slightly forward, one hand resting on the gate while the other holds a black leather handbag over her shoulder. She smiles softly toward the camera. She wears a white long-sleeved collared shirt with emerald dots, an emerald scarf tied loosely around her neck, a short dark pleated skirt, sheer black tights, and leopard glossy high heel stilettos. Elegant {argument name=\"atmosphere\" default=\"European street\"} atmosphere, realistic candid iPhone photography aesthetic, soft daylight, sharp focus with subtle natural blur, high resolution.",
+    "title": "Parisian Candid Street Fashion",
+    "description": "A realistic amateur iPhone-style photo of a woman with red hair in a Parisian setting, featuring European street aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954403671_x9v9ii_HJTd-JoaYAAq0D7.jpg",
+      "https://cms-assets.youmind.com/media/1779954403754_ilv5vv_HJTd-L9bIAA4ZLL.jpg",
+      "https://cms-assets.youmind.com/media/1779954403688_jqvf3e_HJTd_chaUAEAns4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22799,
+    "content": "Hyper-detailed stylish {argument name=\"subject\" default=\"fair beautiful young woman selfie portrait\"}, oversized black sunglasses, silky voluminous hair, {argument name=\"outfit\" default=\"minimal white outfit\"}, {argument name=\"setting\" default=\"luxury car interior\"}, soft natural daylight, elegant clean aesthetic, glossy skin texture, premium lifestyle photography, modern fashion vibe, shallow depth of field, ultra-sharp 32K.4:5",
+    "title": "Luxury Car Interior Selfie",
+    "description": "A clean and elegant lifestyle photography prompt for a stylish woman's selfie inside a luxury vehicle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954408123_9676oo_HJSQGUDbYAAoi_0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22661,
     "content": "A beautifully rendered portrait of {argument name=\"subject\" default=\"a young woman looking back over her shoulder with a serene and captivating expression\"}. Her {argument name=\"hair style\" default=\"dark hair is styled up in a messy, voluminous bun with soft, loose tendrils framing her face\"}. She has large, expressive eyes, perfectly shaped eyebrows, and full lips, with one hand elegantly resting near her collarbone on the shoulder of her loose-fitting, oversized button-up shirt.\n​The image can be depicted in {argument name=\"artistic medium\" default=\"various artistic mediums: as a detailed black and white graphite pencil sketch with soft charcoal shading and cross-hatched backgrounds; as a classic, rich oil painting on textured canvas with expressive brushstrokes and a warm, atmospheric backdrop of deep amber and blue tones; as a delicate watercolor painting with soft, fluid washes of muted blues, purples, and earth tones bleeding into the paper; or as a mixed media piece combining precise pencil outlines of the figure against a textured, gold-flecked impasto background\"}.",
     "title": "Multi-Medium Portrait Study",

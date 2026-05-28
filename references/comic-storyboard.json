@@ -1,5 +1,82 @@
 [
   {
+    "id": 22816,
+    "content": "Digital 3D render of a young woman bust portrait with crescent-shaped bangs, oversized fashionable sunglasses perched on top of her head, cream white background. Angry fierce expression, gray shorts, dual 5.56mm pistols holstered on both sides of her waist, standing on a zombie crushed to half-body. Left hand holding an {argument name=\"primary weapon\" default=\"electric chainsaw\"}, right hand gripping a {argument name=\"secondary weapon\" default=\"crowbar\"} impaled into the zombie's skull. {argument name=\"outfit\" default=\"White spaghetti-strap tank top\"}, hiking boots, legs and arms covered in mud and battle scars. Ultra-high detail, cinematic lighting, high-resolution 3D rendering, photorealistic, dramatic shadows, intense atmosphere.",
+    "title": "Post-Apocalyptic 3D Zombie Survivor",
+    "description": "A fierce and detailed 3D render of a female survivor standing over a zombie, armed with a chainsaw and crowbar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954416120_yb5x3o_HJWEdKfW0AQnmFq.jpg",
+      "https://cms-assets.youmind.com/media/1779954416102_fxbqtf_HJWFQ3CWsAQksEJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22806,
+    "content": "\"A highly detailed, photorealistic dark fantasy portrait of {argument name=\"name\" default=\"Millie Bobby Brown\"}. She has messy hair, an intense, captivating expression, and bold blue war paint striking across her eyes. Shot in a medium close-up, she is looking directly at the camera, with one hand resting gently near her chin and the other holding her draped blue and beige garments. She is wearing a fur shoulder wrap adorned with large brown and white feathers and intricate beaded details. Her accessories include large circular tribal earrings and multiple silver rings, and a detailed fine-line tattoo is visible on her arm. Beside her stands a giant white wolf. The background consists of ancient stone ruins enveloped in fog, illuminated by soft lighting and a dramatic rim light piercing through the mist. The overall mood is intense and wild. Sharp focus, --ar 9:16\"",
+    "title": "Dark Fantasy Wolf Queen Portrait",
+    "description": "A highly detailed photorealistic portrait of a female warrior in a dark fantasy setting, featuring messy hair, blue war paint, tribal accessories, and a giant white wolf in foggy ruins.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954410785_5mja9y_HJU_q_iXgAEKR1K.jpg",
+      "https://cms-assets.youmind.com/media/1779954410772_oq841y_HJU_rDVXMAEOFDV.jpg",
+      "https://cms-assets.youmind.com/media/1779954410866_llaphu_HJU_rHuWoAQQFhP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22794,
+    "content": "A stunning watercolor and ink illustration of a stylish {argument name=\"subject\" default=\"young woman with wavy, shoulder-length brown hair and light bangs\"}. She has an expressive, elegant face with sharp features and captivating eyes. She is wearing a {argument name=\"coat color\" default=\"deep reddish-brown or burgundy\"} trench coat over a dark navy blue crewneck sweater, tucked into high-waisted, pleated cream-colored trousers secured with a thin brown leather belt. The background is an artistic blend of expressive, atmospheric watercolor washes in {argument name=\"background colors\" default=\"deep indigo, rusty orange, and earthy browns\"}, complete with dynamic paint splatters, ink drips, and sketchy linework that evoke a moody, cinematic cafe or city street vibe. The art style seamlessly blends clean anime-inspired character features with traditional, textured watercolor techniques and a subtle signature or seal in the lower corner.",
+    "title": "Watercolor Urban Street Illustration",
+    "description": "An elegant watercolor and ink illustration of a stylish woman in a trench coat with atmospheric washes and ink drips.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954405058_7greqf_HJU6KigXMAA36Uh.jpg",
+      "https://cms-assets.youmind.com/media/1779954405138_rsnvb5_HJU6KdKXIAErYUv.jpg",
+      "https://cms-assets.youmind.com/media/1779954405117_g1sneo_HJU6KftWgAAkDVf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22821,
+    "content": "Use @[storyboard ref] as the authoritative 15-second cinematic shot blueprint. Do not render the storyboard sheet itself: exclude all panel borders, headers, text, labels, project card, director strip, style swatches and page layout from",
+    "title": "@mitte_ai Seedance 2.0 Storyboard-to-Video Prompt:",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954419004_47ynft_HJUcGKQWIAEOHQR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22820,
+    "content": "Create a {argument name=\"aspect ratio\" default=\"16:9\"} STORYBOARD SHEET image. Use the two provided reference images for character identity only. Image A is {argument name=\"character A\" default=\"Whoking, the monkey kung fu master\"}. Image B is {argument name=\"character B\" default=\"Dao Wang, the serpent kung fu master\"}. [PROJECT CARD] Create a designed",
+    "title": "Kung Fu Character Storyboard Sheet",
+    "description": "A specialized prompt for creating professional 16:9 storyboard sheets featuring specific character identities, such as a monkey kung fu master and a serpent master, with a project card layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954418233_nzcun3_HJUbzn4XYAA6rAW.jpg",
+      "https://cms-assets.youmind.com/media/1779954418224_87esc7_HJUb0mqWIAAv-Np.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22804,
+    "content": "An {argument name=\"style\" default=\"anime-style vertical watercolor illustration\"} depicting a {argument name=\"subject\" default=\"young girl with shoulder-length light brown hair, wearing a soft pink t-shirt and light khaki cargo pants\"}. In a soft, fluid watercolor wash technique, she is shown joyfully interacting with nature in a vibrant, sunlit meadow filled with green grass and yellow dandelions. The scene captures her running happily through the field, holding a single dandelion in one hand and a small bouquet of yellow flowers in the other, as she is surrounded by a {argument name=\"detail\" default=\"multitude of colorful butterflies fluttering all around her\"}.",
+    "title": "Anime Watercolor Girl with Butterflies",
+    "description": "A charming anime-style watercolor illustration prompt featuring a young girl joyfully running through a sunlit meadow surrounded by colorful butterflies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954409538_1bjyw7_HJTt7roW4AEQpmW.jpg",
+      "https://cms-assets.youmind.com/media/1779954409532_6ti9on_HJTt7uDXMAIvu6F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22791,
+    "content": "Whimsical miniature surreal otherworld unfolding across the open pages of an old weathered book, mystical narrative scene, a beautiful {argument name=\"animal\" default=\"enigmatic crow\"} perched among the text, environment made of mixed-media textures: blending oil and acrylic paints with {argument name=\"texture\" default=\"crinoline lace\"}, wool threads, white and black ink, smoky moss and rusty wired insect sculptures, a melting dreamlike landscape with dripping acrylic paint, tiny {argument name=\"accent color\" default=\"cobalt blue\"} patina line weaving through the composition, ultra-high resolution HDR, hyper-detailed, breathtaking unusual masterpiece illustration, soft diffused moody lighting, shallow depth of field, richly layered textures and fine brushwork visible",
+    "title": "Surreal Miniature Book World",
+    "description": "A whimsical mixed-media illustration of a miniature world with mystical textures and a crow unfolding from an old book.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779954403844_v4wzty_HJPNQhTWgAAPAhU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22662,
     "content": "A detailed watercolor and ink comic book illustration of {argument name=\"subject\" default=\"a handsome man with styled wavy brown hair, a neat beard, and a sharp jawline\"}. He is wearing {argument name=\"clothing\" default=\"a tailored terracotta blazer over an open-collared cream button-down shirt, dark pinstriped trousers, and brown leather dress shoes\"}. Around his neck hangs a unique brass sextant pendant necklace. He stands confidently inside {argument name=\"setting\" default=\"a vintage Victorian glass conservatory filled with lush tropical ferns, potted orchids, and palm trees visible through the windows\"}. The room is packed with explorer antiques: a large vintage globe, a brass telescope on a tripod, a wooden chest, maps, binoculars, and a leather backpack. The art style features clean line art with soft, textured watercolor washes.",
     "title": "Vintage Explorer Watercolor Illustration",
