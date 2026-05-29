@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 22963,
+    "content": "2x2 grid, do this for for famous sports GOATs. <instruction> Input A is the subject  . You are a god-tier poster designer, art director, and print-production specialist. Phase 1: Dual Poster Synthesis Randomly select TWO Poster Movements and TWO Graphic Systems from the pools below. Blend them into a cohesive poster identity. Poster Movements: [Swiss International Style, Soviet Constructivism, Psychedelic 1960s Rock Poster, Japanese City Pop Advertising, Bauhaus Exhibition Poster, Art Nouveau Lithograph, Brutalist Typography Poster, 1980s Cyberpunk Flyer, Italian Futurist Manifesto, Minimalist Museum Poster, French New Wave Cinema Poster, Punk Xerox Flyer, Memphis Design, Vintage Travel Poster, Contemporary Fashion Campaign] Graphic Systems: [Oversized Grid Typography, Torn Paper Collage, Airbrushed Gradient Field, Risograph Halftone, Screenprint Misregistration, Photocopy Distortion, Editorial Magazine Layout, Modular Type Blocks, Diagonal Constructivist Geometry, Neon Signage Layering, Hand-Lettered Ornament, Archival Stamp System, Folded Brochure Logic, Ticket Stub Composition, Billboard Cropping] Phase 2: Visual Rendering 16:9 one image Transform Input A into a finished poster design while preserving the exact subject pose, silhouette, and main composition. The subject may be graphically stylized, but the original spatial structure must remain recognizable. </instruction>",
+    "title": "Dual Poster Movement Synthesis",
+    "description": "A god-tier art direction prompt that synthesizes two historical poster movements and graphic systems for high-end poster design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040643569_q138va_HJNXmy8XcAAZMwC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22959,
+    "content": "{argument name=\"monster\" default=\"Godzilla\"}, a large, blue, reptilian monster, standing in a field of {argument name=\"flowers\" default=\"vibrant, colorful flowers\"}. Godzilla is holding a {argument name=\"object\" default=\"large, red heart\"} in its hands, with its mouth open in a roar. The overall mood of the image is whimsical and unexpected, contrasting the fearsome appearance of Godzilla with the gentle imagery of flowers and a heart.",
+    "title": "Godzilla in a Flower Field",
+    "description": "A whimsical prompt depicting Godzilla holding a heart in a field of flowers, creating a contrast between a fearsome monster and gentle imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040640359_uvcfzu_HJPNbI5XMAADT_n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22813,
     "content": "Ultra-photorealistic vertical 9:16 fashion collage editorial image, clean Pinterest-style paper moodboard aesthetic. Create a layered paper composition on a {argument name=\"background color\" default=\"soft pink\"} background: several slightly stacked pastel pink and off-white papers with realistic paper texture, soft shadows, torn or deckled edges, and a large heart-shaped metallic paperclip attached at the top corner. Add a few smaller heart-shaped red and pink paperclips placed naturally around the paper. In the center of the paper, place a full-body cutout-style photo of a beautiful young woman posing like a mirror selfie. She wears an elegant {argument name=\"dress color\" default=\"bright red\"} halter-neck dress, tied behind the neck, fitted and feminine, with polished styling. She holds a glossy {argument name=\"phone color\" default=\"red\"} phone in one hand, taking a chic mirror selfie pose. Her hair is soft and polished, makeup fresh and elegant, skin realistic and luminous. The model should look like a clean fashion cutout placed on top of the paper, with subtle realistic shadow underneath, as if part of a magazine-style outfit moodboard. The dress and phone should contrast beautifully against the pastel pink paper background. Composition should be minimal, stylish, romantic, modern, and high-end. Use soft studio lighting, realistic paper shadows, crisp fashion photography details, and a refined pink-red color palette. NO text anywhere. No handwriting, no arrows, no labels, no captions, no logos, no brand names, no interface elements. Only the model, pink paper layers, heart-shaped paperclips, and clean editorial styling.",
     "title": "Pink Paper Moodboard Fashion Collage",

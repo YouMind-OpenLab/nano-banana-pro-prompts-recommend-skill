@@ -41,6 +41,152 @@
     "needReferenceImages": false
   },
   {
+    "id": 22976,
+    "content": "{\n  \"style\": \"ultra-realistic iphone candid photography\",\n  \"subject\": {\n    \"description\": \"young woman sitting inside a quiet coffee shop early in the morning near the window\",\n    \"expression\": {\n      \"mood\": \"sleepy, calm, slightly distracted\",\n      \"FACS\": [\n        \"AU43 (heavy relaxed eyelids)\",\n        \"AU25 (slightly parted lips)\",\n        \"AU14 (natural mouth asymmetry)\",\n        \"AU17 (soft chin tension)\",\n        \"AU45 (subtle blink fatigue)\"\n      ]\n    },\n    \"facial_realism\": {\n      \"skin_texture\": [\n        \"visible pores\",\n        \"natural skin grain\",\n        \"slight under-eye puffiness\",\n        \"peach fuzz catching window light\",\n        \"tiny freckles\",\n        \"subtle forehead texture\",\n        \"non-uniform skin tone\",\n        \"natural nose shine\",\n        \"real lip texture\",\n        \"minor skin redness around cheeks\"\n      ]\n    },\n    \"hair\": \"messy dark hair tied in a loose bun with two strands framing the face\",\n    \"outfit\": {\n      \"top\": \"oversized faded black hoodie\",\n      \"inner\": \"white ribbed tank top\",\n      \"bottom\": \"loose grey sweatpants\",\n      \"accessories\": [\n        \"thin silver necklace\",\n        \"small silver hoop earrings\"\n      ]\n    }\n  },\n  \"scene\": {\n    \"location\": \"small coffee shop morning atmosphere\",\n    \"details\": [\n      \"soft sunlight through window\",\n      \"coffee cup on table\",\n      \"blurred people in background\",\n      \"warm cozy tones\"\n    ]\n  },\n  \"lighting\": {\n    \"style\": \"natural morning light with soft shadows and realistic highlights\"\n  },\n  \"camera\": {\n    \"device\": \"iPhone 15 Pro\",\n    \"angle\": \"slightly low candid angle from across the table\",\n    \"imperfections\": [\n      \"slight grain\",\n      \"minor motion softness\",\n      \"natural depth blur\",\n      \"imperfect framing\",\n      \"subtle iphone HDR inconsistencies\"\n    ]\n  },\n  \"avoid\": [\n    \"plastic skin\",\n    \"beauty filter\",\n    \"studio lighting\",\n    \"CGI look\",\n    \"airbrushed skin\",\n    \"overly perfect face\"\n  ]\n}",
+    "title": "Realistic iPhone Candid Photography",
+    "description": "A complex JSON-formatted prompt designed to simulate an iPhone candid shot with extreme attention to skin realism and facial expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040650300_sxwznn_HJcNeMiXgAAp0M4.jpg",
+      "https://cms-assets.youmind.com/media/1780040650349_kf1tzp_HJcNePWXwAEUwZp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22974,
+    "content": "Raw intimate portrait of a stunning young woman with {argument name=\"detail level\" default=\"realistic skin textures, visible pores, and fine hairs\"}. **She is wearing a {argument name=\"clothing\" default=\"vintage, oversized brown leather bomber jacket over a simple white cotton t-shirt\"}.** She is sitting inside a classic 1970s Porsche at dusk, looking out the window, with soft neon dashboard lights casting a subtle warm glow on her face. Rainy window glass with detailed water droplets creating a soft bokeh effect in the background. Shot on 50mm lens, f/2.0, cinematic color grading, moody atmosphere, photorealistic, ultra-high resolution --ar 4:5",
+    "title": "Raw Intimate Portrait in Vintage Porsche",
+    "description": "A high-detail prompt for achieving realistic skin textures and a moody atmosphere inside a classic car at dusk.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040649421_6bi9f9_HJbuEeKXoAIBcIs.jpg",
+      "https://cms-assets.youmind.com/media/1780040649428_a4vjzj_HJbuEhfXQAAb-RG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22968,
+    "content": "A professional fashion editorial portrait of a {argument name=\"subject\" default=\"blonde woman with a sleek, chin-length bob haircut\"}, posing in a {argument name=\"color scheme\" default=\"monochrome mustard yellow and ochre\"} setting. She is wearing a high-neck, long-sleeved pleated dress in a matching deep golden-yellow hue. Her hands, featuring manicured nails painted in a matching yellow polish, are gently resting on a {argument name=\"prop\" default=\"heavily textured, stucco-like golden pillar\"} to her left. She looks directly at the camera with a calm, neutral expression. The background is a smooth, solid ochre studio backdrop, creating a seamless, monochromatic color palette. The lighting is soft and cinematic, casting subtle shadows that emphasize her facial features and the fine texture of her dress and the stone pillar.",
+    "title": "Monochromatic Ochre Fashion Portrait",
+    "description": "A professional fashion editorial prompt for a monochromatic yellow and ochre scene with a blonde subject and textured stone elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040645480_aqti12_HJa-dJNW4AEl25P.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22980,
+    "content": "A busy {argument name=\"location\" default=\"urban street intersection\"} reimagined as artistic {argument name=\"style\" default=\"arborpunk\"}",
+    "title": "Artistic Arborpunk Urban Intersection",
+    "description": "A prompt that reimagines a busy city intersection through an artistic arborpunk lens, merging urban architecture with lush greenery and nature.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040653238_5jjxuh_HJa1ZnUakAARYMi.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22978,
+    "content": "A full-length fashion photoshoot of a young woman smiling and confidently walking forward through a luxury shopping mall hallway. She has a chic, messy, shoulder-length wavy bob hairstyle. She is wearing a modern sportswear hybrid outfit: a light blue zip-up bomber jacket with a geometric, faceted 3D texture, featuring a subtle white cat logo on the right chest and \"ETIHAD AIRWAYS\" text on the left chest. Underneath, she wears a matching light blue hoodie with small strawberry graphics printed on the front. Her wide-leg dark navy cargo pants are covered in {argument name=\"special effect\" default=\"glowing, golden mathematical formulas, equations, and physics diagrams\"} seamlessly integrated into the fabric. Her skin on her hands and neck also subtly glows with faint, matching mathematical equations. The setting is a brightly lit, high-end mall with marble floors reflecting the ambient light, modern chandeliers hanging from the ceiling, and blurred high-end storefronts in the background. To the right, a photography crew is visible with studio lighting, a large softbox, and a camera on a tripod, giving a \"behind-the-scenes\" photoshoot atmosphere. The entire scene is framed by {argument name=\"border style\" default=\"elegant, frosted silver leaves\"} in the foreground corners, creating a stylized border. High-end fashion editorial photography style, crisp details, natural lighting mix with studio glow.",
+    "title": "Mathematical Glow Fashion Editorial",
+    "description": "A unique fashion prompt blending modern sportswear with glowing mathematical formulas in a luxury mall setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040651943_gm0yv3_HJai8TYbgAEFBMo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22960,
+    "content": "Use the uploaded image as the character reference. Keep the exact same face, hairstyle, body shape, skin tone, and identity from the uploaded image. Do not change the person into another face or another gender.\\n\\nCreate a realistic cinematic scene where the uploaded person is standing confidently wearing a {argument name=\"outfit\" default=\"cozy light black oversized sweater with a colorful Tom cat print\"}, baggy blue jeans, and white Converse sneakers.\\n\\nBeside the uploaded person stands a life-size {argument name=\"companion\" default=\"anthropomorphic Tom cat from Tom and Jerry\"} with soft grey fur, white belly, large green eyes, pink inner ears, and playful grin. Tom keeps one arm around the uploaded person’s shoulder in a friendly protective pose.\\n\\nUltra realistic style, cinematic lighting, soft shadows, natural depth of field, realistic skin texture, detailed clothing folds, emotional atmosphere, aesthetic blurred background, 8K quality, highly detailed realistic photography.\\n\\nNo extra people. No woman replacement. No text. No watermark.",
+    "title": "Cinematic Scene with Tom the Cat",
+    "description": "A realistic cinematic prompt that places a referenced character next to an anthropomorphic Tom cat from Tom and Jerry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040641603_4sozvq_HJaDberaoAAINXU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22967,
+    "content": "A highly detailed closeup cinematic photograph of {argument name=\"subject\" default=\"Woman A\"} with vibrant long wavy blonde hair styled in an elegant high voluminous updo with loose curls framing her face, standing in a sophisticated indoor setting with warm ambient lighting from wall sconces. She is wearing an exquisite form-fitting floor-length evening gown in {argument name=\"gown color\" default=\"soft champagne beige\"} tones, intricately adorned with shimmering silver and gold sequins arranged in elegant swirling floral patterns, with additional chevron and geometric sequin embellishments running down the fitted skirt. The dress features delicate thin spaghetti straps, a deep plunging neckline, and an intricate open-back design with multiple thin crisscrossing straps laced elegantly across her bare back, tied with a soft bow at the lower back. She is posed gracefully facing the camera at a three-quarter angle, one arm raised as she adjusts her hair. Her reflection is clearly visible in a large ornate mirror with a black frame mounted on the wall in front of her, showing her front view with striking bright green eyes, subtle makeup, defined eyebrows, and a poised expression. Standing directly beside her is Woman B, facing the camera confidently, wearing a similar sequined evening gown in a complementary deep champagne tone, holding a champagne flute elegantly in one hand with a relaxed glamorous smile. On the other side of Woman A stands Woman C with blonde ombre hair loose and styled, holding a champagne flute in one hand, caught in a playful candid moment with her tongue out toward Woman A's cheek in a cheeky best-friend gesture without making contact, eyes sparkling with mischief and laughter. Shot on a {argument name=\"camera type\" default=\"disposable film camera\"}, candid amateur snapshot aesthetic, slight motion blur, natural film grain, harsh direct flash with blown-out highlights and warm color cast, slight lens distortion, authentic party photo feel, imperfect framing, raw and unposed energy. The background includes a light-colored textured wall, a decorative black wrought-iron mirror frame with scrollwork, and part of a brown leather chair in the bottom left corner, creating a luxurious atmosphere with soft shadows and rich tonal depth.",
+    "title": "Candid Party Film Photo Portrait",
+    "description": "A detailed prompt for generating a candid, party-style photograph with a disposable camera aesthetic, featuring women in sequined evening gowns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040645532_jgtz2h_HJZ7aXuXoAEz0lQ.jpg",
+      "https://cms-assets.youmind.com/media/1780040645537_9kz09z_HJZ7a81XsAA0kfD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22971,
+    "content": "A captivating mirror selfie capturing a moment of relaxed elegance within a tranquil, sunlit interior. The subject, framed effortlessly in the reflection, embodies a modern aesthetic, styled in a {argument name=\"outfit style\" default=\"striking monochromatic ensemble\"}. A pristine white halter top accented by a bold, oversized black velvet bow creates a dramatic focal point, paired perfectly with a structured black denim miniskirt. Delicate white stockings with intricate black lace detailing add a touch of classic sophistication to the look. Soft, diffused daylight filters naturally through the room, casting gentle highlights across her {argument name=\"hair color\" default=\"blonde\"} hair and subtly reflecting off her elegant, dark-framed glasses. She rests comfortably on a plush, cloud-like white rug, grounding the composition in a cozy, intimate atmosphere. The background, featuring minimalist wooden furniture and subtle organic decor, elegantly enhances the warm, inviting cinematic mood of this contemporary portrait.",
+    "title": "Elegant Monochromatic Mirror Selfie",
+    "description": "A detailed prompt for creating a cinematic mirror selfie featuring a subject in a monochrome outfit within a tranquil, sunlit interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040647271_g907ie_HJZq5SWbcAAobRH.jpg",
+      "https://cms-assets.youmind.com/media/1780040647322_1xbgl3_HJZq5i0acAEsRiC.jpg",
+      "https://cms-assets.youmind.com/media/1780040647837_y9brhi_HJZq5oeaAAANl8E.jpg",
+      "https://cms-assets.youmind.com/media/1780040648166_797wvu_HJZq5tYaoAACgIA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22979,
+    "content": "A full-length street photograph taken at night under warm streetlights. A young woman with wavy shoulder-length dark brown hair, wearing a black sweatshirt with a vibrant cartoon cat graphic on the front, baggy blue jeans, and white sneakers, is standing next to a person in a full-body gray and white cartoon cat mascot costume (resembling Tom from Tom and Jerry). The mascot has its fluffy arm around her shoulder, and she is looking up at it with a candid, smiling expression. The background is a slightly blurred nighttime street scene with a streetlamp glowing overhead and snack packets hanging from a shop stall above. Cinematic lighting, captured on a 35mm lens, realistic textures. Option 2: High-Fashion Editorial An editorial fashion photograph set on a vibrant city street at night. A stylish woman is posing next to a giant, plush gray cartoon cat mascot. She is wearing an oversized streetwear black crewneck sweatshirt featuring a bold, colorful vintage cartoon cat illustration, paired with loose, wide-leg baggy denim jeans and classic white canvas sneakers. The lighting is dramatic and crisp, contrasting the warm glow of city streetlamps. Candid and playful mood, high-contrast, professional fashion magazine style, sharp focus on the textures of the denim and the mascot's faux fur. Option 3: Vibrant Pop-Art / Digital Illustration A vibrant digital illustration of a playful nighttime encounter. A young woman in a cozy black graphic sweatshirt with a cartoon cat face and loose-fit blue jeans stands smiling next to a tall, friendly gray cartoon cat mascot character. The scene is set at night under a warm, glowing yellow streetlamp that casts a soft light over them. Bright, saturated colors, clean lines, and a whimsical, lively atmosphere reminiscent of modern pop-art and digital concept art.",
+    "title": "Woman and Cat Mascot Street Encounter",
+    "description": "A collection of prompts featuring a young woman interacting with a cartoon cat mascot on a nighttime street in various styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040652361_osqpjx_HJZhnddWAAAObkq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22958,
+    "content": "A highly detailed photorealistic portrait of a young woman in her early twenties with {argument name=\"hair description\" default=\"striking long wavy copper-red hair\"} cascading over her shoulders, fair skin with natural freckles across her nose and cheeks, {argument name=\"eye color\" default=\"bright expressive blue eyes\"}, and a gentle subtle smile, positioned in the center of the frame. She is wearing a {argument name=\"clothing\" default=\"fitted black long-sleeved top\"} and leaning forward with her arms resting on the smooth white edge of an outdoor hot tub filled with clear water, her hands visible with small delicate tattoos on the fingers. The setting is a serene natural outdoor environment during daytime with soft natural lighting, featuring a background of tall green pine trees, rocky terrain, stone architectural elements including a large pillar, and a peaceful mountainous landscape. The image captures fine details like water droplets on her skin and clothing, realistic hair texture, and high-resolution cinematic quality.",
+    "title": "Photorealistic Hot Tub Portrait",
+    "description": "A photorealistic prompt for generating a high-resolution portrait of a woman in an outdoor hot tub, featuring detailed hair, skin textures, and a natural mountain backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040640420_7a9beb_HJZGH5Kb0AASph4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22966,
+    "content": "A stylish, confident man stands center frame in a perfectly tailored {argument name=\"suit color\" default=\"mocha brown\"} double-breasted suit worn over a sharp black t-shirt, his eyes concealed behind dark geometric sunglasses while his expression remains poised with a closed, neutral mouth. He adopts a relaxed, deliberately posed leaning stance with level shoulders and legs casually crossed at the ankles, ending in polished black leather dress shoes. His left hand is tucked seamlessly into his left jacket pocket, while his relaxed right hand rests flat against the smooth, pristine top rail of a {argument name=\"architectural element\" default=\"warm beige stone balustrade\"}, fingers slightly spread in a natural drape. This balustrade, featuring classic carved repeating columns, traverses horizontally across the midground above a polished black marble baseboard elegantly detailed with white veining. He stands on a warm honey-brown wood parquet floor laid in a classic checkered block pattern. Beyond the foreground, the spatial depth extends deeply into a {argument name=\"location\" default=\"grand indoor classical hall\"}, characterized by matte plaster walls and out-of-focus intricate stone-carved grand archways. In the upper right background, an arched window fitted with stained or frosted glass allows bright daylight to stream in, while a small, pristine hanging spherical glass lamp in the left middle ground emits a soft, warm orange glow. The scene is bathed in a sophisticated mix of soft, diffused natural daylight from the front-left and top, blending seamlessly with warm golden ambient practical fill. This moderately directional light creates beautifully preserved highlights along the left side of his face, his left shoulder, and the edge of the balustrade railing, while casting short, softly graded gray shadows beneath him on the parquet floor and across the right side of his suit and face. The color palette is warmly analogous, harmonizing the dominant mocha browns, rich black accents, warm beiges, and the amber glow of the lighting to evoke an affluent, classically elegant, and highly polished mood. Captured as a tack-sharp, grain-free editorial fashion photograph blending modern menswear with classic architectural portraiture, the image is shot straight on using an 85mm lens at an f/1.8 aperture, 1/200s shutter speed, and ISO 200 to achieve a shallow depth of field with creamy bokeh that smoothly blurs the majestic background. Expert post-processing features warm color grading to emphasize earth tones, a slight contrast bump, and targeted sharpening on the subject, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Mocha Suit Editorial Portrait",
+    "description": "An elegant editorial fashion prompt featuring a man in a tailored mocha suit, set within a classical grand hall with soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040645076_2q1eka_HJZC57DXAAAWEAN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22973,
+    "content": "A young, well-groomed man in a {argument name=\"suit description\" default=\"fitted matte black suit\"}, crisp white shirt, and floral tie stands positioned in the left vertical third of the frame, cut just at the top of his shoes. His confident, guarded expression is shielded by dark round sunglasses that catch a distinct specular highlight, his head turned forty-five degrees to his left while his gaze is directed away to the right. He deliberately leans his weight back onto his right leg against a vehicle, his shoulders level and relaxed. His left hand is tucked casually into his front left pants pocket with the wrist and part of the thumb visibly resting on his hip line, while his right hand rests naturally on the edge of the car trunk, his fingers gently curling downward over the glossy panel edge. He is leaning against a pristine, glossy {argument name=\"car model\" default=\"black Porsche Panamera Turbo S\"} that dominates the center and right midground, featuring a deployed spoiler and a prominently illuminated neon red LED taillight bar highlighting sharp chrome typography with a wide-spaced PORSCHE and a flowing script Panamera turbo S. Behind him in the left midground sits a sleek, dark grey convertible sports car with the top down, all parked on dark gray asphalt with a rough aggregate texture. The deep spatial background unveils a historic European city street framed by warm beige and light sandstone gray carved stone buildings showcasing a matte, weathered finish, large classical archways, decorative pillars, ornate moldings, and attached street lamps. In the slightly softened background, pedestrians walk by, including one wearing a bright pinkish-red coat that subtly echoes the glowing car. The sophisticated, opulent urban evening is bathed in soft, natural outdoor ambient light diffused from above, supplemented by the practical glow of the taillights and a heavy ambient bounce from the historic masonry. This creates a medium contrast ratio where the lighting remains flat on the subject but produces a stark tonal separation between the deep blacks of the primary subjects and the warm stone background. Short shadows with soft, gradual edges pool into deep blacks under the car and within the suit folds, while crisp specular highlights gleam across the vehicle's curves and slightly catch the man's hair. Captured as a clean, structured commercial lifestyle photograph using an 85mm lens from a straight-on, slightly low angle, the shot utilizes an aperture between f/2.8 and f/4 at ISO 100 to ensure tack-sharp focus on the foreground elements while maintaining a medium depth of field. The cinematic post-processing crushes the blacks to enrich the suit and car paint, subtly desaturates the background's warm tones to isolate the subject, boosts the luminance of the red taillights, and applies a sharp high-pass filter to the man, all elegantly framed in a {argument name=\"aspect ratio\" default=\"1:1\"} aspect ratio.",
+    "title": "Luxury Porsche Panamera Lifestyle Photography",
+    "description": "A highly detailed commercial lifestyle prompt featuring a well-groomed man leaning against a Porsche Panamera Turbo S in a historic European city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040648857_07jg9x_HJYAxLWbMAAroNd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22975,
+    "content": "A candid, eye-level photograph captures a smiling beautiful woman in a cozy cafe, seated at a wooden table with her hands resting near a latte. She wears a {argument name=\"outfit\" default=\"cream cable-knit sweater\"} and has {argument name=\"hair style\" default=\"long, wavy dark hair\"}. The background features a bookshelf, hanging lights, large window, and blurred patrons, creating a warm, shallow depth of field. Soft, natural daylight illuminates the scene. shot on {argument name=\"camera\" default=\"Sony A1, 50mm lens\"}.",
+    "title": "Candid Cafe Portrait",
+    "description": "A prompt for a warm, candid eye-level photograph of a woman in a cozy cafe, shot with professional camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040650258_t6m8tz_HJXs4GDbAAAEJEU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22957,
+    "content": "Ultra detailed premium transparent luxury refrigerator named ‘{argument name=\"brand name\" default=\"Dawlance\"}, full refrigerator clearly visible from top to bottom, stylish modern premium design, beautifully packed with colorful fruits, vegetables, desserts, cold drinks, chocolates, milk bottles, juices and ice creams. Strong full cooling atmosphere, icy mist flowing beautifully, frosty smoke, sparkling ice crystals, premium refrigerator LED lighting, realistic frozen air effect.\nA {argument name=\"main subject\" default=\"stylish big boy\"} with the same uploaded face sitting comfortably inside the refrigerator in a cool king-style flex pose, happily eating a premium melting ice cream. Wearing {argument name=\"outfit style\" default=\"super stylish summer wear — oversized t-shirt, cool shorts, sneakers/slippers, sunglasses\"}, chilled confident vibe. Big boy clearly visible and attractive, realistic face blend, proper body proportions.\n7–8 tiny boys inside the refrigerator BUT slightly bigger miniature size (easy to see clearly) — not too tiny, around toy-size proportions so every boy is properly visible and detailed. One miniature boy surfing dramatically on a glowing ice cube, one climbing giant strawberries, one relaxing inside a watermelon cave, one pushing a fruit trolley, one sliding on icy shelves, one carrying tiny milk bottles, one eating mini ice cream near cold drinks, one sleeping on soft lettuce leaves.\nEvery tiny boy must have a clearly visible face, clothes, expressions and activity, sharp focus, not blurry or hidden. * Main focus: big boy + clearly visible miniature boys + full refrigerator. Premium DSLR photography quality, ultra sharp details, cinematic lighting, impossible imagination, luxury frozen world vibe, every object crystal clear visible, WOW factor, ultra HD 8K, masterpiece, vertical wallpaper style. Face and body exactly same as uploaded image. Use uploded person as reference",
+    "title": "Luxury Refrigerator Miniature World",
+    "description": "A creative Nano Banana Pro prompt that creates a stylized image of a subject inside a luxury refrigerator surrounded by miniature versions of themselves engaging in playful activities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040639720_8igj32_HJXkjOxaQAA7oTD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 22800,
     "content": "A highly detailed photorealistic mirror selfie of a {argument name=\"subject description\" default=\"young, tall and slim woman\"} standing with a classic fashion pose consisting of one leg straight and one leg angled away, inside a {argument name=\"location\" default=\"modern stainless steel elevator\"}, reflective metallic walls and doors, bright even ceiling lighting, speckled light gray floor, elevator button panel visible on the left with a red digital floor display showing \"42\".\n\nHer face, identity and make-up is identical to the face provided in the attached selfie. She has shoulder-length auburn wavy voluminous hair with natural movement and soft side part. Her gaze is downwards looking at her phone screen.\n\nShe is wearing a {argument name=\"outfit\" default=\"fashionable cream white chunky cable-knit sweater with intricate vertical cable patterns and crew neckline\"}, long sleeves, tucked into a rich teal-blue pleated long skirt with sharp accordion-style pleats that fall just above her calves. She is wearing fitted black knee-high leather boots with long heels.\n\nShe holds a black iPhone-style smartphone in her right hand at chest height taking the selfie, left arm relaxed naturally by her side. Small gold/silver hoop earrings, a ring on her right hand. A small white structured shoulder bag hangs from her left shoulder with a pair of black sunglasses clipped onto the strap.\n\nPerfect female anatomy, realistic fabric texture and folds on the cable knit sweater and long pleated skirt, realistic leather on the boots, natural hair flow, sharp detail, 8k photorealistic, theatrical lighting, clean elevator environment.",
     "title": "Photorealistic Elevator Mirror Selfie",

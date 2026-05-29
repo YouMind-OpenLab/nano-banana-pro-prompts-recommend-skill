@@ -10,6 +10,105 @@
     "needReferenceImages": false
   },
   {
+    "id": 22976,
+    "content": "{\n  \"style\": \"ultra-realistic iphone candid photography\",\n  \"subject\": {\n    \"description\": \"young woman sitting inside a quiet coffee shop early in the morning near the window\",\n    \"expression\": {\n      \"mood\": \"sleepy, calm, slightly distracted\",\n      \"FACS\": [\n        \"AU43 (heavy relaxed eyelids)\",\n        \"AU25 (slightly parted lips)\",\n        \"AU14 (natural mouth asymmetry)\",\n        \"AU17 (soft chin tension)\",\n        \"AU45 (subtle blink fatigue)\"\n      ]\n    },\n    \"facial_realism\": {\n      \"skin_texture\": [\n        \"visible pores\",\n        \"natural skin grain\",\n        \"slight under-eye puffiness\",\n        \"peach fuzz catching window light\",\n        \"tiny freckles\",\n        \"subtle forehead texture\",\n        \"non-uniform skin tone\",\n        \"natural nose shine\",\n        \"real lip texture\",\n        \"minor skin redness around cheeks\"\n      ]\n    },\n    \"hair\": \"messy dark hair tied in a loose bun with two strands framing the face\",\n    \"outfit\": {\n      \"top\": \"oversized faded black hoodie\",\n      \"inner\": \"white ribbed tank top\",\n      \"bottom\": \"loose grey sweatpants\",\n      \"accessories\": [\n        \"thin silver necklace\",\n        \"small silver hoop earrings\"\n      ]\n    }\n  },\n  \"scene\": {\n    \"location\": \"small coffee shop morning atmosphere\",\n    \"details\": [\n      \"soft sunlight through window\",\n      \"coffee cup on table\",\n      \"blurred people in background\",\n      \"warm cozy tones\"\n    ]\n  },\n  \"lighting\": {\n    \"style\": \"natural morning light with soft shadows and realistic highlights\"\n  },\n  \"camera\": {\n    \"device\": \"iPhone 15 Pro\",\n    \"angle\": \"slightly low candid angle from across the table\",\n    \"imperfections\": [\n      \"slight grain\",\n      \"minor motion softness\",\n      \"natural depth blur\",\n      \"imperfect framing\",\n      \"subtle iphone HDR inconsistencies\"\n    ]\n  },\n  \"avoid\": [\n    \"plastic skin\",\n    \"beauty filter\",\n    \"studio lighting\",\n    \"CGI look\",\n    \"airbrushed skin\",\n    \"overly perfect face\"\n  ]\n}",
+    "title": "Realistic iPhone Candid Photography",
+    "description": "A complex JSON-formatted prompt designed to simulate an iPhone candid shot with extreme attention to skin realism and facial expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040650300_sxwznn_HJcNeMiXgAAp0M4.jpg",
+      "https://cms-assets.youmind.com/media/1780040650349_kf1tzp_HJcNePWXwAEUwZp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22974,
+    "content": "Raw intimate portrait of a stunning young woman with {argument name=\"detail level\" default=\"realistic skin textures, visible pores, and fine hairs\"}. **She is wearing a {argument name=\"clothing\" default=\"vintage, oversized brown leather bomber jacket over a simple white cotton t-shirt\"}.** She is sitting inside a classic 1970s Porsche at dusk, looking out the window, with soft neon dashboard lights casting a subtle warm glow on her face. Rainy window glass with detailed water droplets creating a soft bokeh effect in the background. Shot on 50mm lens, f/2.0, cinematic color grading, moody atmosphere, photorealistic, ultra-high resolution --ar 4:5",
+    "title": "Raw Intimate Portrait in Vintage Porsche",
+    "description": "A high-detail prompt for achieving realistic skin textures and a moody atmosphere inside a classic car at dusk.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040649421_6bi9f9_HJbuEeKXoAIBcIs.jpg",
+      "https://cms-assets.youmind.com/media/1780040649428_a4vjzj_HJbuEhfXQAAb-RG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22964,
+    "content": "A high-end 8K cinematic black-and-white portrait of a {argument name=\"subject\" default=\"man\"} in a {argument name=\"outfit\" default=\"sharp, professional suit\"}, looking away from the camera with a focused, stoic expression. He is standing in a three-quarter profile against a {argument name=\"background\" default=\"solid, deep black background\"}. The man has styled, dark wavy hair and a clean-shaven face with refined, natural skin textures. He is wearing a dark, tailored blazer over a crisp white dress shirt with an open collar. His hands are positioned at chest level: his left hand is adjusted by his right hand, prominently displaying a large, detailed luxury silver chronograph watch with a black face. The lighting is dramatic and directional, creating high-contrast highlights on the side of his face, the fabric of his lapel, and the metallic shine of the watch and ring. Hyper-realistic details capture the individual hairs, the weave of the suit fabric, and a sharp, lifelike glint in his eyes.\nRatio 4:5",
+    "title": "Cinematic Black and White Luxury Suit Portrait",
+    "description": "A professional portrait prompt for an 8K cinematic black-and-white image of a man in a luxury suit with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040643655_t6008s_HJaU_EJaYAA0Gw7.jpg",
+      "https://cms-assets.youmind.com/media/1780040643672_03thdv_HJaU_ECagAE6_KK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22971,
+    "content": "A captivating mirror selfie capturing a moment of relaxed elegance within a tranquil, sunlit interior. The subject, framed effortlessly in the reflection, embodies a modern aesthetic, styled in a {argument name=\"outfit style\" default=\"striking monochromatic ensemble\"}. A pristine white halter top accented by a bold, oversized black velvet bow creates a dramatic focal point, paired perfectly with a structured black denim miniskirt. Delicate white stockings with intricate black lace detailing add a touch of classic sophistication to the look. Soft, diffused daylight filters naturally through the room, casting gentle highlights across her {argument name=\"hair color\" default=\"blonde\"} hair and subtly reflecting off her elegant, dark-framed glasses. She rests comfortably on a plush, cloud-like white rug, grounding the composition in a cozy, intimate atmosphere. The background, featuring minimalist wooden furniture and subtle organic decor, elegantly enhances the warm, inviting cinematic mood of this contemporary portrait.",
+    "title": "Elegant Monochromatic Mirror Selfie",
+    "description": "A detailed prompt for creating a cinematic mirror selfie featuring a subject in a monochrome outfit within a tranquil, sunlit interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040647271_g907ie_HJZq5SWbcAAobRH.jpg",
+      "https://cms-assets.youmind.com/media/1780040647322_1xbgl3_HJZq5i0acAEsRiC.jpg",
+      "https://cms-assets.youmind.com/media/1780040647837_y9brhi_HJZq5oeaAAANl8E.jpg",
+      "https://cms-assets.youmind.com/media/1780040648166_797wvu_HJZq5tYaoAACgIA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22965,
+    "content": "Use the uploaded image as the exact visual composition, lighting reference, pose inspiration, and cinematic atmosphere. Replace the original subject completely with the face from my uploaded reference image while preserving my exact facial identity, facial structure, jawline, nose shape, lips, eye shape, eyebrows, hairstyle, skin tone, and natural human realism with extremely high identity fidelity. Do not stylize or alter the recognizable facial features.\n\nCreate an ultra-realistic cinematic {argument name=\"theme\" default=\"fantasy portrait\"} of a young man standing in a dark cosmic void filled with floating particles, subtle stars, glowing mist, and ethereal energy trails. The subject is shown from a low-angle medium close-up perspective with one hand raised toward the camera, fingers extended naturally as if controlling mysterious cosmic energy. Around the raised hand, multiple luminous {argument name=\"glow color\" default=\"white\"} glowing rings float in the air, emitting soft radiant light, electric energy strands, smoke-like plasma trails, and tiny sparkling particles. The rings appear semi-transparent, magical, and futuristic, creating a celestial sci-fi aura.\n\nThe subject has thick slightly messy dark hair with loose strands falling naturally over the forehead, soft expressive eyes looking upward toward the glowing rings, and a calm, mesmerized facial expression. He wears a translucent {argument name=\"clothing item\" default=\"wet white shirt\"} with realistic fabric texture, subtle folds, glossy moisture reflections, and partially visible skin underneath, adding dramatic cinematic realism. A thin silver chain necklace is faintly visible around the neck.\n\nLighting is highly cinematic and moody: the glowing rings act as the primary light source, casting soft white highlights and subtle rim lighting across the face, hand, hair, and wet shirt. Add realistic volumetric fog, atmospheric haze, depth-of-field blur, soft bloom, lens diffusion, and high dynamic range contrast. The background should remain deep black with floating light particles and swirling energy effects to enhance the mystical atmosphere.\n\nStyle: ultra-realistic, cinematic fantasy, sci-fi celestial aesthetic, hyper detailed skin texture, realistic eyes, sharp facial details, dramatic contrast, soft glow effects, high-end movie still quality, Unreal Engine 5 realism, shallow depth of field, 8K detail, vertical portrait composition.",
+    "title": "Cinematic Cosmic Energy Portrait",
+    "description": "A highly detailed prompt for creating an ultra-realistic fantasy portrait featuring cosmic energy effects, glowing rings, and a moody sci-fi atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040644057_csbm1l_HJZGzhqbQAEsDc2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22958,
+    "content": "A highly detailed photorealistic portrait of a young woman in her early twenties with {argument name=\"hair description\" default=\"striking long wavy copper-red hair\"} cascading over her shoulders, fair skin with natural freckles across her nose and cheeks, {argument name=\"eye color\" default=\"bright expressive blue eyes\"}, and a gentle subtle smile, positioned in the center of the frame. She is wearing a {argument name=\"clothing\" default=\"fitted black long-sleeved top\"} and leaning forward with her arms resting on the smooth white edge of an outdoor hot tub filled with clear water, her hands visible with small delicate tattoos on the fingers. The setting is a serene natural outdoor environment during daytime with soft natural lighting, featuring a background of tall green pine trees, rocky terrain, stone architectural elements including a large pillar, and a peaceful mountainous landscape. The image captures fine details like water droplets on her skin and clothing, realistic hair texture, and high-resolution cinematic quality.",
+    "title": "Photorealistic Hot Tub Portrait",
+    "description": "A photorealistic prompt for generating a high-resolution portrait of a woman in an outdoor hot tub, featuring detailed hair, skin textures, and a natural mountain backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040640420_7a9beb_HJZGH5Kb0AASph4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22966,
+    "content": "A stylish, confident man stands center frame in a perfectly tailored {argument name=\"suit color\" default=\"mocha brown\"} double-breasted suit worn over a sharp black t-shirt, his eyes concealed behind dark geometric sunglasses while his expression remains poised with a closed, neutral mouth. He adopts a relaxed, deliberately posed leaning stance with level shoulders and legs casually crossed at the ankles, ending in polished black leather dress shoes. His left hand is tucked seamlessly into his left jacket pocket, while his relaxed right hand rests flat against the smooth, pristine top rail of a {argument name=\"architectural element\" default=\"warm beige stone balustrade\"}, fingers slightly spread in a natural drape. This balustrade, featuring classic carved repeating columns, traverses horizontally across the midground above a polished black marble baseboard elegantly detailed with white veining. He stands on a warm honey-brown wood parquet floor laid in a classic checkered block pattern. Beyond the foreground, the spatial depth extends deeply into a {argument name=\"location\" default=\"grand indoor classical hall\"}, characterized by matte plaster walls and out-of-focus intricate stone-carved grand archways. In the upper right background, an arched window fitted with stained or frosted glass allows bright daylight to stream in, while a small, pristine hanging spherical glass lamp in the left middle ground emits a soft, warm orange glow. The scene is bathed in a sophisticated mix of soft, diffused natural daylight from the front-left and top, blending seamlessly with warm golden ambient practical fill. This moderately directional light creates beautifully preserved highlights along the left side of his face, his left shoulder, and the edge of the balustrade railing, while casting short, softly graded gray shadows beneath him on the parquet floor and across the right side of his suit and face. The color palette is warmly analogous, harmonizing the dominant mocha browns, rich black accents, warm beiges, and the amber glow of the lighting to evoke an affluent, classically elegant, and highly polished mood. Captured as a tack-sharp, grain-free editorial fashion photograph blending modern menswear with classic architectural portraiture, the image is shot straight on using an 85mm lens at an f/1.8 aperture, 1/200s shutter speed, and ISO 200 to achieve a shallow depth of field with creamy bokeh that smoothly blurs the majestic background. Expert post-processing features warm color grading to emphasize earth tones, a slight contrast bump, and targeted sharpening on the subject, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Mocha Suit Editorial Portrait",
+    "description": "An elegant editorial fashion prompt featuring a man in a tailored mocha suit, set within a classical grand hall with soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040645076_2q1eka_HJZC57DXAAAWEAN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22981,
+    "content": "A cinematic portrait capturing a serene moment in an intimate bedroom setting. A young woman sits gracefully on rumpled white sheets, embodying quiet elegance. She wears a {argument name=\"outfit\" default=\"dusty rose crushed velvet off-the-shoulder gown\"} that catches the warm ambient light. Her fair complexion, accented with natural freckles, is illuminated by the soft, golden glow from a bedside lamp in the background. A delicate necklace graces her collarbone. The composition is nostalgic, utilizing {argument name=\"lighting style\" default=\"shallow depth of field to isolate her tranquil expression against the shadowed room\"}, evoking a timeless narrative.",
+    "title": "Cinematic Velvet Gown Portrait",
+    "description": "A serene, intimate bedroom portrait with warm ambient lighting and rich velvet textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040651956_gbwi1o_HJYlD7XawAA9M3Q.jpg",
+      "https://cms-assets.youmind.com/media/1780040653343_81o245_HJYlD8uaYAAxcpg.jpg",
+      "https://cms-assets.youmind.com/media/1780040652057_t04xb9_HJYlEAKbgAA-7Mc.jpg",
+      "https://cms-assets.youmind.com/media/1780040652927_bxfyuc_HJYlEsmasAAVKvM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22975,
+    "content": "A candid, eye-level photograph captures a smiling beautiful woman in a cozy cafe, seated at a wooden table with her hands resting near a latte. She wears a {argument name=\"outfit\" default=\"cream cable-knit sweater\"} and has {argument name=\"hair style\" default=\"long, wavy dark hair\"}. The background features a bookshelf, hanging lights, large window, and blurred patrons, creating a warm, shallow depth of field. Soft, natural daylight illuminates the scene. shot on {argument name=\"camera\" default=\"Sony A1, 50mm lens\"}.",
+    "title": "Candid Cafe Portrait",
+    "description": "A prompt for a warm, candid eye-level photograph of a woman in a cozy cafe, shot with professional camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040650258_t6m8tz_HJXs4GDbAAAEJEU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22805,
     "content": "A vertical, split-medium portrait of a {argument name=\"subject\" default=\"beautiful and cute biracial young woman\"}. The image is divided perfectly down the center to showcase two distinct artistic styles. The left side of her face is rendered as a {argument name=\"left style\" default=\"detailed pencil sketch with fine, delicate linework, soft shading, and realistic textures\"} in her hair and eye. The right side of her face transitions seamlessly into a {argument name=\"right style\" default=\"vibrant, soft watercolor wash technique, featuring expressive, bleeding hues of warm amber, soft rose, and cool blue\"} that blend into the textured paper background. She has a gentle smile, captivating eyes, and her hair is styled in a high braided ponytail that reflects both mediums perfectly.",
     "title": "Split-Medium Sketch and Watercolor Portrait",

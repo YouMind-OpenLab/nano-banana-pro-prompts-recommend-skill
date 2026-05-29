@@ -1,5 +1,36 @@
 [
   {
+    "id": 22972,
+    "content": "A beautiful anime-style illustration of a young woman with long brown hair, wearing a {argument name=\"outfit\" default=\"light green floral sundress with orange accents\"} and a matching hair bow. She is exploring a picturesque Mediterranean coastal village at sunset. The scene captures her walking along a cobblestone street, browsing an outdoor market filled with colorful handmade pottery, woven baskets, and bright orange bougainvillea flowers, interacting warmly with a local shopkeeper. In a seamless continuation, she sits gracefully on a stone ledge overlooking the sea, holding a flower, with a {argument name=\"accessory\" default=\"leather shoulder bag\"} by her side and sea shells placed next to a notebook. The background features white-walled, terracotta-roofed houses cascading down a hillside toward a calm ocean where the sun is setting, casting a warm, golden orange glow over the entire landscape.",
+    "title": "Anime Style Coastal Village Stroll",
+    "description": "Generates a beautiful anime-style illustration of a woman exploring a Mediterranean coastal village at sunset, featuring a warm, golden glow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040648782_2xswqm_HJaOlLdXYAMSaS_.jpg",
+      "https://cms-assets.youmind.com/media/1780040648782_gu3d35_HJaOlL0WgAkfHqG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22962,
+    "content": "{\\n\"prompt\": \"Convert the uploaded image into a soft handcrafted paper-cut layered illustration style inspired by premium papercraft diorama aesthetics. Preserve the exact same person, pose, long wavy hair, clothing details, garden environment, trees, leaves, flowers, pathways, and classical columns from the uploaded image, but reinterpret everything as a cozy handcrafted layered paper artwork. Use smooth rounded shapes, simplified cute proportions, minimal facial features with tiny dot eyes, soft blush cheeks, and charming storybook-style expressions. Create stacked paper layers with strong dimensional depth, visible separation between layers, soft realistic shadows, and clean laser-cut paper edges. Add a distinct thick white outer outline around the main character like a realistic sticker border or layered cut-paper backing, clearly separating the subject from the background. The white border must appear like a real physical paper layer, not a glow effect. Use matte tactile textures resembling thick cardstock, craft foam, and premium colored paper. Apply a soft pastel color palette using muted greens, warm creams, light browns, beige tones, dusty pinks, and gentle neutral shades. Lighting should be soft, diffused, even, and calming, enhancing the layered-paper dimensional look without harsh contrast. Keep the environment whimsical, wholesome, elegant, playful, and visually soothing like a luxury children’s storybook illustration or handcrafted decorative paper art scene. Ultra detailed layered papercraft diorama, realistic paper texture, cozy aesthetic, premium handmade illustration style.\",\\n\\n\"negative_prompt\": \"photorealistic skin, sharp realistic eyes, harsh shadows, neon colors, glossy plastic texture, metallic surfaces, blurry details, extra people, distorted hands, text, watermark, low quality, messy edges, dark horror mood, realistic facial anatomy, overexposed lighting\",\\n\\n\"style\": \"handcrafted papercut diorama illustration\",\\n\"aspect_ratio\": \"4:5\",\\n\"quality\": \"high\",\\n\"lighting\": \"soft diffused lighting\",\\n\"texture\": \"matte layered cardstock paper\",\\n\"color_palette\": \"soft pastel muted tones\",\\n\"outline\": \"thick white layered paper border\"\\n}",
+    "title": "Layered Papercraft Diorama Prompt",
+    "description": "A complex structured prompt for creating 3D-effect handcrafted paper-cut illustrations with deep layers and soft textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040642222_fufkrv_HJaHV5gaMAA9rux.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22969,
+    "content": "A triptych anime digital art piece displaying {argument name=\"subjects\" default=\"three powerful women representing different elemental spirits\"}, arranged in a vertical stack. The top panel features a {argument name=\"fire spirit\" default=\"fiery goddess with long, flowing auburn hair and an orange off-the-shoulder gown\"} that seamlessly blends into swirling flames and floating embers against a blazing sunset sky. The middle panel depicts a serene {argument name=\"water spirit\" default=\"water spirit with dark flowing hair, calm blue eyes, and a flowing blue dress\"}, partially submerged in a swirling vortex of water with splashing droplets and a misty blue atmosphere. The bottom panel shows a celestial {argument name=\"air spirit\" default=\"air spirit with long lavender hair and a flowing white gown\"} drifting amidst soft, dreamlike clouds under a gentle purple and pink pastel sky filled with sparkling stardust. The overall art style is vibrant, ethereal, and beautifully detailed, with a cinematic and magical atmosphere across all three scenes.",
+    "title": "Elemental Spirits Anime Triptych",
+    "description": "An anime-style digital art prompt for a vertical triptych representing goddesses of fire, water, and air with ethereal atmospheres.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780040647039_t6zhns_HJZQd0vWsAIsO2l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22816,
     "content": "Digital 3D render of a young woman bust portrait with crescent-shaped bangs, oversized fashionable sunglasses perched on top of her head, cream white background. Angry fierce expression, gray shorts, dual 5.56mm pistols holstered on both sides of her waist, standing on a zombie crushed to half-body. Left hand holding an {argument name=\"primary weapon\" default=\"electric chainsaw\"}, right hand gripping a {argument name=\"secondary weapon\" default=\"crowbar\"} impaled into the zombie's skull. {argument name=\"outfit\" default=\"White spaghetti-strap tank top\"}, hiking boots, legs and arms covered in mud and battle scars. Ultra-high detail, cinematic lighting, high-resolution 3D rendering, photorealistic, dramatic shadows, intense atmosphere.",
     "title": "Post-Apocalyptic 3D Zombie Survivor",
