@@ -13,6 +13,28 @@
     "needReferenceImages": true
   },
   {
+    "id": 23124,
+    "content": "A serene watercolor and ink illustration of a {argument name=\"subject\" default=\"hidden tropical oasis\"}, featuring a multi-tiered waterfall cascading down rugged, moss-covered rocky cliffs into a clear, tranquil lagoon. The water transitions smoothly from bright, rushing white foam to a {argument name=\"primary color\" default=\"deep, calm turquoise and emerald green\"} pool at the base. Dense, lush vegetation, vibrant green ferns, tall wild grasses, and overhanging tree branches frame the gorge, casting soft shadows along the canyon walls. The entire scene is rendered in a beautiful sketch-and-wash artistic style, combining delicate, detailed black ink linework and cross-hatching for texture on the rocks and water with soft, bleeding watercolor washes that evoke a peaceful, refreshing, and untouched natural landscape.",
+    "title": "Tropical Oasis Waterfall Watercolor Illustration",
+    "description": "A serene watercolor and ink illustration prompt for a tropical oasis with cascading waterfalls and lush vegetation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780125546333_0fhyzq_HJfp46dWkAM6KCV.jpg",
+      "https://cms-assets.youmind.com/media/1780125546363_tsxy8f_HJfp5DOXcAQ9lcJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23125,
+    "content": "A beautiful watercolor painting of a young woman with long, wavy dark hair, smiling warmly as she enjoys a serene moment in nature. She is wearing a cozy, short-sleeved {argument name=\"clothing color\" default=\"mustard-yellow\"} knit sweater and classic high-waisted blue jeans. The setting is a breathtaking {argument name=\"location\" default=\"mountain overlook\"}, featuring soft-edged rocky cliffs, deep green pine trees, and layers of rolling, hazy blue and purple mountains stretching into the distance under a light blue, cloudy sky. The artwork features a distinct watercolor aesthetic with gentle color bleeds, visible paper texture, and delicate ink line details. The atmosphere is peaceful, bright, and filled with a sense of freedom, capturing a perfect, crisp morning in the wilderness.",
+    "title": "Mountain Overlook Watercolor Painting",
+    "description": "A beautiful watercolor painting prompt of a woman at a mountain overlook, emphasizing soft colors and a serene mountain landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780125546580_qao3yk_HJdvZEdWAAQN7eW.jpg",
+      "https://cms-assets.youmind.com/media/1780125546708_2jv5jq_HJdvZNNXgAMSJqJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22825,
     "content": "{argument name=\"song title\" default=\"Welcome To The Jungle\"} ({argument name=\"artist\" default=\"Guns N' Roses\"})",
     "title": "Song-to-Image Visualization",

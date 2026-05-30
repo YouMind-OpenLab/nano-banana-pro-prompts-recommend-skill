@@ -1,5 +1,18 @@
 [
   {
+    "id": 23131,
+    "content": "Create a {argument name=\"character theme\" default=\"anime, video game, movie,...\"} inspired keychain , clean white background, product photography style. soft studio lighting",
+    "title": "Hyper-Realistic Character Keychain",
+    "description": "A versatile prompt to transform any character into a realistic product-style keychain with studio lighting and a clean background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780125550077_wn7cvw_HJehK-mXQAMIKr_.jpg",
+      "https://cms-assets.youmind.com/media/1780125550072_on9uid_HJehLMSWEAMQEIo.jpg",
+      "https://cms-assets.youmind.com/media/1780125550119_2kcz3f_HJehLWWXsAAwPET.jpg",
+      "https://cms-assets.youmind.com/media/1780125550990_jy18nm_HJehLkZWUAAf7aF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22970,
     "content": "Ultra detailed luxury product photography of an {argument name=\"product\" default=\"elegant traditional Kashmiri samawar\"}, handcrafted engraved copper body with intricate floral carvings, rich warm metallic reflections, authentic Kashmiri heritage aesthetic, placed on a carved walnut wood table, surrounded by {argument name=\"color tones\" default=\"soft saffron tones\"}, steaming {argument name=\"atmosphere\" default=\"noon chai atmosphere\"}, cinematic winter ambiance, cozy Kashmir interior, glowing lantern light, ultra realistic textures, premium artisan craftsmanship, shallow depth of field, high end commercial product shot, symmetrical composition, soft volumetric lighting, cultural luxury branding aesthetic, 8K hyper realistic, beautifully styled for Nano Banana AI, elegant steam rising naturally, rich maroon and gold color palette, cozy snow season mood, masterpiece photography style.",
     "title": "Kashmiri Samawar Luxury Photography",
