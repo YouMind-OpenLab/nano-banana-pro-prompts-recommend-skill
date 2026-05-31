@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 23250,
+    "content": "Use the uploaded image as the exact facial identity reference. Keep the same hairstyle, beard, face structure, skin texture, and South Asian features with high realism. Create an ultra-cinematic red noir side-profile portrait of the same man wearing a {argument name=\"clothing\" default=\"black oversized hoodie\"}. His eyes are closed, one hand touching his forehead in a deep emotional pose. Dramatic monochromatic red lighting creates glowing rim light around his hair, beard, fingers, and hoodie while most of the face remains in shadow. Add a large ghostly double-exposure silhouette of the same person behind him facing the opposite direction, symbolizing inner conflict. Surround the scene with {argument name=\"atmosphere\" default=\"red smoke, volumetric fog, haze, and floating particles\"} against a dark crimson-to-black gradient background. Style: psychological thriller movie poster, moody cinematic atmosphere, high contrast shadows, hyper-realistic textures, HDR lighting, shallow depth of field, 85mm lens, f/1.4, Unreal Engine / Octane render quality, ultra-detailed, 8K photorealistic cinematic masterpiece.",
+    "title": "Red Noir Cinematic Identity Portrait",
+    "description": "A dramatic psychological thriller movie poster style prompt using a reference face to create a red noir portrait with double exposure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780213119482_o7xbzg_HJiL-_qa8AAQcvJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23139,
     "content": "An avant-garde editorial fashion prompt for a hyper-realistic low-angle shot in a limestone atelier, featuring a statuesque subject in architectural clothing and a copper wire fascinator.",
     "title": "Sculptural Authority Fashion Portrait",

@@ -1,5 +1,16 @@
 [
   {
+    "id": 23256,
+    "content": "dynamic mid-air explosion effect, {argument name=\"target\" default=\"object\"} breaking apart into multiple fragments, pieces flying outward in all directions, suspended debris and particles floating in space, cinematic slow motion freeze frame, realistic physics, small dust particles and crumbs scattering, dramatic depth of field, high-speed photography style, sharp focus on central object, fragments rotating in mid-air, motion energy burst from the center, ultra detailed, volumetric lighting, photorealistic, 8k",
+    "title": "Dynamic Mid-Air Explosion Physics",
+    "description": "A high-speed photography style prompt capturing an object breaking apart in mid-air with realistic physics and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780213123546_egru6z_HJijnUqbQAAWxuN.jpg",
+      "https://cms-assets.youmind.com/media/1780213123509_i6eoy4_HJijnWgaoAAZRsA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23135,
     "content": "A {argument name=\"style\" default=\"retro-style 8-bit\"} {argument name=\"subject\" default=\"Persephone\"} in the Underworld, holding a {argument name=\"item\" default=\"glowing digital pomegranate\"}, surrounded by pixelated souls.",
     "title": "Retro 8-Bit Pixel Art Persephone",

@@ -10,6 +10,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 23251,
+    "content": "Anya Taylor-Joy, Sadie Sink, Elizabeth Olsen and Scarlett Johansson. aspect_ratio: 4:5. Young woman, dark hair, hands in hair, legs crossed. White crop top with pink text, pink plaid skirt, hoop earrings. White walls, skylights, natural daylight. Fully pink gaming chair with bunny ears, white desk, pink keyboard, pink mouse, pink mousepad, plush. 8k resolution, raw photo format, infinite depth of field, sharp background, no bokeh, natural skin textures, unedited realism. Raw 8k photo, infinite depth of field, zero background blur. Woman in fully pink bunny gaming chair, white crop top with pink text, pink plaid skirt. Bright room, skylights, coordinated pink desk setup with keyboard, mouse, and mousepad all matching. Sharp focus throughout, natural texture.",
+    "title": "Pink Bunny Gaming Setup Portrait",
+    "description": "A high-resolution photo prompt of a woman in a coordinated pink-themed gaming environment with skylights and natural daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780213119643_ak7qvh_HJk5UjOWkAQxzDQ.jpg",
+      "https://cms-assets.youmind.com/media/1780213119027_5ef6nm_HJk5U--W0AIMzIF.jpg",
+      "https://cms-assets.youmind.com/media/1780213119505_nftsy3_HJk5VXYXcAAGxtx.jpg",
+      "https://cms-assets.youmind.com/media/1780213120369_c3z9qn_HJk5V6gWoAERC9A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23258,
+    "content": "A beautiful young woman with fair skin and long, silky {argument name=\"hair color\" default=\"dark-brown\"} hair cascading over her shoulders, standing in front of a modern {argument name=\"background\" default=\"beige tiled wall\"}. She wears a stylish black {argument name=\"clothing\" default=\"embroidered ethnic dress featuring vibrant red and orange floral patterns\"}. Soft natural daylight illuminates her face, creating a warm, glowing complexion with subtle makeup and a gentle smile. Ultra-realistic portrait photography, shallow depth of field, soft cinematic lighting, high-detail skin texture, elegant and graceful expression, warm color grading, aesthetic social media reel style, 4K quality, DSLR photography, natural beauty, dreamy atmosphere, highly detailed, photorealistic.",
+    "title": "Ethnic Floral Dress Portrait",
+    "description": "An ultra-realistic portrait of a woman wearing a black ethnic dress with vibrant floral patterns, capturing soft natural daylight and a dreamy atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780213124659_pu1i10_HJjzynhbUAAVIV_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23249,
+    "content": "subject: {argument name=\"subject\" default=\"young woman, dark wavy hair, mirror selfie, hand in hair\"}, outfit: {argument name=\"outfit\" default=\"white oversized tee, hot pink biker shorts\"}, setting: {argument name=\"setting\" default=\"bathroom, pop art poster on wall, yellow phone case\"}, mood: casual, candid, everyday",
+    "title": "Casual Mirror Selfie Portrait",
+    "description": "A casual, candid mirror selfie prompt featuring a young woman in bright athletic wear within a detailed bathroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780213119711_9nwuuy_HJi73W9XYAMnUxY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23142,
     "content": "A cinematic, vertical portrait of a {argument name=\"subject\" default=\"smiling young woman with long, wavy brown hair\"}, elegantly dressed in a {argument name=\"outfit\" default=\"black velvet long-sleeve dress\"}. She is gently cradling a {argument name=\"animal\" default=\"large, incredibly fluffy black cat with a long, bushy tail and striking amber eyes\"}. The scene is set against a seamless, deep black studio background. Dramatic, warm cinematic rim lighting illuminates the contours of her face, hair, and the cat's soft, dark fur, creating a beautiful contrast and separation from the dark background. The overall mood is intimate, moody, and highly detailed, captured with the quality of a professional studio photograph.",
     "title": "Cinematic Girl and Fluffy Cat Portrait",
