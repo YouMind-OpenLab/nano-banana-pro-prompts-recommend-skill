@@ -1,5 +1,47 @@
 [
   {
+    "id": 23384,
+    "content": "Girl sitting behind a {argument name=\"chessboard\" default=\"transparent crystal chessboard\"}, knocking the King of her opponent with her Queen and wins it after checkmate. Only a few chess pieces are left on the chessboard. Cinematic portrait, extreme close up shot, low angle, full frontal, dutch angle. Wearing a {argument name=\"clothing\" default=\"white bride's gown\"}. Bokeh on background objects. Focused {argument name=\"lighting\" default=\"stage lighting\"}. Focused and cool look. Slightly parted lips. Consistent chess piece size and chess piece colours of her and her opponent's. She is playing with white pieces against her opponent's black pieces. Emphasize the falling of the King chess piece.",
+    "title": "Checkmate Chess Portrait in Gown",
+    "description": "A cinematic portrait of a girl winning a chess match at a crystal board, featuring dramatic lighting and an elegant white gown.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301395862_hx9xre_HJqC-wIbIAA5ZWd.jpg",
+      "https://cms-assets.youmind.com/media/1780301395873_7u86pq_HJqDHiaacAE9IkI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23381,
+    "content": "Use exact face, facial identity, facial geometry and make-up to create a young, tall and slim blonde woman with long hair and who dons an {argument name=\"outfit\" default=\"opulent Marie Antoinette dress\"}. She strikes a nonchalant fashion pose while casually looking away from the midshot camera. The setting is the {argument name=\"location\" default=\"inside of a French palace\"} around the era of the French revolution. Natural light from a large nearby window. Sharp focus on the woman and bokeh background. Cinematic colour grading for drama. Perfect female anatomy and no deformities.",
+    "title": "Marie Antoinette French Palace Portrait",
+    "description": "An opulent fashion prompt for a Marie Antoinette-inspired look in a French palace setting, using identity consistency from a reference selfie.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301394413_4f4zo5_HJpMZaUXkAYFLvK.jpg",
+      "https://cms-assets.youmind.com/media/1780301394571_4po2tt_HJpMZa1W8AUxd4x.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23389,
+    "content": "{argument name=\"subject\" default=\"young woman, auburn bob, piercing blue eyes, hand tattoo, ring\"}, {argument name=\"outfit\" default=\"grey cardigan, lace slip dress, sheer tights\"}, {argument name=\"setting\" default=\"dim room, sheer curtained window, moody interior\"}, mood: dark, cinematic, brooding, film grain",
+    "title": "Brooding Cinematic Portrait with Auburn Bob",
+    "description": "A dark and atmospheric portrait of a woman with an auburn bob and blue eyes, set in a moody, film-grain interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301398806_lnbcl7_HJo1kSNbUAADpPq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23373,
+    "content": "{ \"environment_and_background\": { \"location\": \"{argument name=\\\"location\\\" default=\\\"Scenic outdoor hillside overlook\\\"}\", \"background_elements\": [ \"A rustic stone retaining wall where the character is seated\", \"Green grassy slope with tall wild grass and weeds nearby\", \"A vast panoramic view of a town or valley in the distant background with buildings and lush greenery\" ], \"lighting\": \"Bright, natural daytime outdoor sunlight, fresh open-air lighting\", \"overall_vibe\": \"Cottagecore, vintage picnic, summer aesthetic, rustic European countryside feel\" }, \"pose_and_composition\": { \"shot_type\": \"Full-body profile shot, vertical orientation\", \"camera_angle\": \"Side-view angle, eye-level\", \"pose\": { \"action\": \"Sitting gracefully sideways on a low stone wall\", \"leg_position\": \"Legs hanging down slightly towards the path, knees softly bent, ankles resting delicately\", \"hand_position\": \"Hands resting casually in the lap\", \"head_position\": \"Turned away in profile, looking out towards the distant valley view\" } }, \"outfit_and_apparel\": { \"top\": { \"type\": \"Long-sleeve fitted blouse\", \"pattern\": \"Gingham checkered pattern\", \"color\": \"{argument name=\\\"top pattern\\\" default=\\\"Blue and white\\\"}\" }, \"bottom\": { \"type\": \"High-waisted A-line midi skirt\", \"pattern\": \"Gingham checkered pattern\", \"color\": \"{argument name=\\\"skirt pattern\\\" default=\\\"Red and white\\\"}\", \"details\": \"Contrasting print style against the blue patterned top\" }, \"footwear\": { \"type\": \"Pointed-toe ankle strap heels\", \"color\": \"White or cream-colored\", \"details\": \"Elegant kitten heel or block heel style with thin straps\" } }, \"accessories\": { \"headwear\": \"Wide-brimmed straw sun hat with a contrasting dark or black stitched trim along the edge\", \"props\": { \"bag\": \"A bright red leather tote bag or structured backpack resting on the stone wall next to the character\", \"flowers\": \"A vibrant bouquet of large yellow sunflowers blooming out of the red bag\" } } }",
+    "title": "Vintage Cottagecore Sunflower Aesthetic",
+    "description": "A structured JSON prompt for a scenic outdoor hillside portrait with a rustic European countryside vibe and Gingham patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301388440_rajjra_HJnyQGvaoAAsHF2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23144,
     "content": "A cozy, two-panel watercolor illustration titled \"DOMESTIC MELODIES IN THREE HUES,\" capturing the peaceful daily lives of {argument name=\"subjects\" default=\"two young women with matching messy buns\"} in a warm, {argument name=\"style\" default=\"bohemian-styled apartment\"}. The scenes showcase their shared and individual hobbies amidst a lush collection of houseplants, including monstera, snake plants, and hanging ivy. In one setting, they sit together at a rustic wooden dining table, enjoying tea from a floral teapot while journaling and painting botanical illustrations with watercolors. Nearby, a cozy living area features a {argument name=\"item\" default=\"vintage green record player\"} spinning vinyl on a wooden console table, accompanied by two sleeping tabby cats—one curled on a wooden side table and the other on a patterned knit blanket draped over an armchair. In another setting, one woman joyfully dances barefoot on a checkered patchwork rug while listening to music through headphones connected to the record player, while the other relaxes nearby in a plush armchair, quietly reading a book. The entire space is filled with warm, ambient lighting from floor lamps and burning candles, decorated with framed botanical art prints on the walls, embodying a perfect, serene, and artistic rainy-day aesthetic.",
     "title": "Domestic Melodies Watercolor Illustration",

@@ -20,6 +20,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 23388,
+    "content": "Ultra-photorealistic full-length editorial fashion photograph, vertical 4:5, of an elegant young woman standing against a {argument name=\"background\" default=\"clean bright white seamless studio backdrop\"}. She wears a {argument name=\"outfit\" default=\"fitted white mini dress with a high mock-neck collar and a dramatic sculptural keyhole cutout at the chest\"}. A crisp contrasting black piping traces the collar, the keyhole, and the armholes in a single sinuous line, and wraps cleanly around the waist as a defined banded seam that cinches the silhouette. The dress is sleeveless, minimalist, and architectural, in a structured matte crepe, with a short hem ending mid-thigh. Dark brown hair pulled back into a sleek, severe center-parted low bun. Glowing skin with realistic texture, soft bronzed editorial makeup, strong full brows, glossy mauve lips, an intense direct gaze. One hand resting on the hip, posture tall and poised, long legs.\nLighting: bright soft high-key studio light, even and clean with subtle sculpting shadows along the body, crisp fabric edges. Shot on a medium-format camera, sharp focus, fine grain, luxury fashion-house campaign mood, minimalist and expensive.\nNegative: plastic skin, over-smoothed AI face, doll face, cartoon, 3D render, distorted hands, extra fingers, warped limbs, bad anatomy, cheap fabric, busy background, harsh shadows, watermark, text.",
+    "title": "Minimalist White Dress Fashion Campaign",
+    "description": "A sharp, architectural fashion portrait of a woman in a white dress with black piping, set against a clean studio backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301397438_h1jf4m_HJrDsX-WoAU2aDF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23412,
+    "content": "{argument name=\"event\" default=\"Japan Derby\"}, {argument name=\"style\" default=\"cyberpunk\"}",
+    "title": "Cyberpunk Horse Racing Scene",
+    "description": "A cyberpunk-themed prompt for the Japanese Derby generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301409767_lfx5c1_HJoU1YGbMAAGFBf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23377,
+    "content": "A detailed paragraph prompt for copy-pasting would describe a high-resolution, full-body vertical fashion magazine cover titled \"EMA'Z,\" rendered in metallic gold serif text. Below the title, smaller text indicates \"JUNE 2026 ISSUE.\" The central image is a dynamic, full-body photo of model {argument name=\"model\" default=\"Arden Cho\"}, suspended in a powerful, airborne jumping pose with her left leg bent and her right arm on her hip. She has wild, wind-blown black hair, clear, focused eyes (without an eye-band), and is looking directly at the viewer. She wears a new, form-fitting, sleeveless turtlneck crop top in a {argument name=\"fabric\" default=\"rich emerald-green satin\"} fabric, replacing the previous blue top. She is wearing dark-wash denim jeans with the specific denim rose floral belt from the original. A flowing, long, sheer gold fabric scarf-like accessory billows around her head. The background is a clean, creamy paper texture. On the left side, stacked gold serif text reads: 'GOLD STANDARD THE ULTIMATE GUIDE TO LUXURY SHOPPING' and below it, 'COSTUME DRAMA: REDEFINING THE RED CARPET'. On the right side, corresponding text reads: '2026' in large gold numerals, and below it, 'KEY ESSENTIALS FOR THE MODERN WARDROBE!'. At the very bottom of the cover, large gold serif text proclaims: 'GREEN' with 'REVOLUTION?' below it, and 'IS SUSTAINABLE LUXURY POSSIBLE?' in smaller gold text at the base. A clear barcode is in the bottom-left corner. The overall aesthetic is cohesive, professional, and elegant.",
+    "title": "Emerald Green Fashion Magazine Cover",
+    "description": "A professional magazine cover prompt featuring a dynamic jumping pose, metallic gold typography, and a luxurious emerald satin outfit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301392755_2u1g4p_HJoG1PoXsAAjD5K.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23414,
+    "content": "{argument name=\"event\" default=\"Japan Derby\"}, {argument name=\"style\" default=\"fantasy style\"}",
+    "title": "Fantasy Style Horse Racing Art",
+    "description": "A fantasy-themed prompt for horse racing visuals using the Nano Banana Pro image model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301411549_vwdo1s_HJnCuNoa0AAfJc5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23250,
     "content": "Use the uploaded image as the exact facial identity reference. Keep the same hairstyle, beard, face structure, skin texture, and South Asian features with high realism. Create an ultra-cinematic red noir side-profile portrait of the same man wearing a {argument name=\"clothing\" default=\"black oversized hoodie\"}. His eyes are closed, one hand touching his forehead in a deep emotional pose. Dramatic monochromatic red lighting creates glowing rim light around his hair, beard, fingers, and hoodie while most of the face remains in shadow. Add a large ghostly double-exposure silhouette of the same person behind him facing the opposite direction, symbolizing inner conflict. Surround the scene with {argument name=\"atmosphere\" default=\"red smoke, volumetric fog, haze, and floating particles\"} against a dark crimson-to-black gradient background. Style: psychological thriller movie poster, moody cinematic atmosphere, high contrast shadows, hyper-realistic textures, HDR lighting, shallow depth of field, 85mm lens, f/1.4, Unreal Engine / Octane render quality, ultra-detailed, 8K photorealistic cinematic masterpiece.",
     "title": "Red Noir Cinematic Identity Portrait",

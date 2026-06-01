@@ -13,6 +13,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 23385,
+    "content": "A high-fashion, ultra-realistic portrait of a {argument name=\"subject\" default=\"beautiful young South Asian woman\"} standing confidently in a dramatic studio environment. She has long, voluminous black hair styled in soft waves, flawless skin, and subtle glamorous makeup. She wears stylish black sunglasses, an {argument name=\"outfit\" default=\"oversized beige-and-cream plaid button-up shirt with rolled sleeves, loose-fit light-wash baggy denim jeans with a silver chain accessory, and trendy white sneakers\"}.\nShe poses with one hand gently touching the back of her neck while looking slightly downward, creating a confident, mysterious, and editorial fashion mood.\nThe {argument name=\"background\" default=\"background features an abstract, organic black glossy structure resembling intertwined liquid branches or artistic resin formations spreading across a deep crimson-red backdrop\"}. The reflective black floor mirrors both the subject and the intricate background elements, enhancing the luxurious cinematic atmosphere.\nFull-body shot, centered composition, professional fashion photography, dramatic studio lighting, rich contrast, sharp focus, hyper-realistic skin texture, detailed fabric folds, glossy reflections, luxury editorial aesthetic, high-end magazine cover style, cinematic depth, ultra-detailed, photorealistic, 8K quality.",
+    "title": "South Asian Fashion Editorial in Red Studio",
+    "description": "A high-fashion portrait of a South Asian woman in a plaid shirt and baggy jeans, set against a dramatic crimson background with abstract structures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301396098_iypy0h_HJpL28xbkAAIXo2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23371,
+    "content": "highly detailed vintage-style intaglio illustration of a {argument name=\"subject\" default=\"surreal fish\"} with muscular, articulated legs, confidently striding while wearing ornate {argument name=\"footwear\" default=\"high-heeled cowboy boots\"}, fine engraved linework, cross-hatching and stippling, monochrome ink on aged paper, centered composition with subtle decorative border, 19th-century scientific engraving aesthetic",
+    "title": "Vintage Intaglio Surreal Fish Illustration",
+    "description": "A detailed prompt for creating a 19th-century scientific engraving aesthetic featuring a surreal fish with muscular legs and cowboy boots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780301388408_9rye85_HJkEolkWQAEL7ph.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23124,
     "content": "A serene watercolor and ink illustration of a {argument name=\"subject\" default=\"hidden tropical oasis\"}, featuring a multi-tiered waterfall cascading down rugged, moss-covered rocky cliffs into a clear, tranquil lagoon. The water transitions smoothly from bright, rushing white foam to a {argument name=\"primary color\" default=\"deep, calm turquoise and emerald green\"} pool at the base. Dense, lush vegetation, vibrant green ferns, tall wild grasses, and overhanging tree branches frame the gorge, casting soft shadows along the canyon walls. The entire scene is rendered in a beautiful sketch-and-wash artistic style, combining delicate, detailed black ink linework and cross-hatching for texture on the rocks and water with soft, bleeding watercolor washes that evoke a peaceful, refreshing, and untouched natural landscape.",
     "title": "Tropical Oasis Waterfall Watercolor Illustration",
