@@ -1,5 +1,15 @@
 [
   {
+    "id": 23553,
+    "content": "Ultra-realistic fashion editorial portrait, pixar-inspired 3D cute stylish person with exact facial identity from reference photo Wearing {argument name=\"outfit\" default=\"oversized creamy hoodie and matching oversized pant\"}, sitting casually and leaning confidently on {argument name=\"prop\" default=\"giant scrambled vertical 3D white letters spelling “PROMPTBIT”\"} in a clean minimalist studio. Relaxed confident pose, warm slight smile, natural proportions, realistic skin texture, soft cinematic studio lighting, ultra clean neutral gray background, high-end editorial photography aesthetic. Around the giant letters are multiple tiny {argument name=\"style\" default=\"chibi versions\"} of the same character in cute Pixar-style 3D design, scattered naturally on every letter and around the composition. Each chibi has different funny poses and expressions: thumbs up, peace sign, sunglasses cool pose, lying down, cheek pose, laughing, shy pose, playful wink, finger point, sitting casually. One chibi appears peeking from behind the character’s back and shoulder as if popping out mischievously. Composition balanced and dynamic, high detail, ultra sharp focus, soft shadows, glossy 3D typography, clean luxury studio atmosphere, playful yet premium visual style, realistic + stylized hybrid rendering, octane render quality, disney pixar inspired, cinematic depth of field, highly detailed textures, 8k masterpiece. Generate the image in 9:16 aspect ratio, face and body exactly same as uploaded image.",
+    "title": "Chibi Pixar-Style Studio Composition",
+    "description": "A playful hybrid prompt combining a realistic fashion editorial subject with multiple tiny 3D chibi versions of the same character in a Pixar-inspired style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387563066_dova6m_HJsbzJqWsAAEIA4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23256,
     "content": "dynamic mid-air explosion effect, {argument name=\"target\" default=\"object\"} breaking apart into multiple fragments, pieces flying outward in all directions, suspended debris and particles floating in space, cinematic slow motion freeze frame, realistic physics, small dust particles and crumbs scattering, dramatic depth of field, high-speed photography style, sharp focus on central object, fragments rotating in mid-air, motion energy burst from the center, ultra detailed, volumetric lighting, photorealistic, 8k",
     "title": "Dynamic Mid-Air Explosion Physics",

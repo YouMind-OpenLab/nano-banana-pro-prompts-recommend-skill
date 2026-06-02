@@ -20,6 +20,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 23567,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"pale woman with platinum blonde hair, icy blue eyes\"}, wearing a white fur coat, standing in a frozen snowy landscape, breath visible in cold air, overcast soft light, dreamy and ethereal atmosphere, shallow DOF, color grade: {argument name=\"grading\" default=\"cold silver and white\"}, ultra-detailed, photorealistic",
+    "title": "Ethereal Frozen Landscape Portrait",
+    "description": "A cinematic prompt for a platinum blonde woman in a frozen landscape, featuring cold silver and white tones and ethereal atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387569239_igyy0x_HJx9KoQbEAE1KvN.jpg",
+      "https://cms-assets.youmind.com/media/1780387569352_mtvqp2_HJx9KoOa4AAQs5H.jpg",
+      "https://cms-assets.youmind.com/media/1780387569291_yl79hu_HJx9KoPasAAuedG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23561,
+    "content": "{\n \"Modern_Sculpture_Monochrome_Triptych_9x16\",\n\"aspect_ratio\": \"9:16\",\n\"style\": \"{argument name=\"style aesthetic\" default=\"Minimalist monochrome fashion editorial inspired by modern sculpture aesthetics\"}\",\n\"composition\": {\n\"layout\": \"Three horizontal panels stacked vertically within a 9:16 canvas\",\n\"background\": \"Seamless grey-white studio backdrop with soft gradient falloff\",\n\"continuity_elements\": \"Minimal white crew-neck T-shirt and subtle gold necklace across all frames\"\n},\n\"subject\": {\n\"description\": \"{argument name=\"model\" default=\"Young male model with short textured dark hair, neatly edged groomed beard, symmetrical bone structure, defined cheekbones\"}\",\n\"expression_tone\": \"Calm, confident, introspective masculinity\",\n\"skin_detail\": \"Authentic skin pores, natural texture, no over-smoothing\"\n},\n\"frames\": [\n{\n\"frame_number\": 1,\n\"type\": \"Half-lit portrait\",\n\"pose\": \"Facing camera, one hand brushing casually through hair\",\n\"lighting\": {\n\"style\": \"Split lighting\",\n\"key_light_position\": \"Camera right at 45 degrees\",\n\"effect\": \"One side illuminated, opposite side fades into soft shadow\",\n\"contrast\": \"Medium-high contrast with controlled shadow rolloff\"\n},\n\"focus\": \"Bone structure and facial symmetry\"\n},\n{\n\"frame_number\": 2,\n\"type\": \"Close crop detail shot\",\n\"pose\": \"Neutral posture, frame tightly cropped\",\n\"lighting\": {\n\"style\": \"Soft directional window light\",\n\"direction\": \"Camera left\",\n\"quality\": \"Diffused natural light\"\n},\n\"focus\": \"Lips, beard texture, collarbone detail\",\n\"depth_of_field\": \"Shallow for background separation\"\n},\n{\n\"frame_number\": 3,\n\"type\": \"Subtle forward lean portrait\",\n\"pose\": \"Slight lean toward camera, shoulders relaxed\",\n\"expression\": \"Confident but calm eye contact\",\n\"lighting\": {\n\"style\": \"Balanced soft studio lighting\",\n\"highlight_detail\": \"Gold necklace catching subtle highlight reflections\"\n}\n}\n],\n\"camera_settings\": {\n\"camera_type\": \"High-end full-frame mirrorless\",\n\"lens\": \"50mm prime lens\",\n\"aperture\": \"f/2.0\",\n\"shutter_speed\": \"1/200\",\n\"iso\": \"100\",\n\"focus_mode\": \"Eye autofocus\",\n\"sharpness\": \"Premium editorial sharpness with natural detail retention\"\n},\n\"color_grading\": {\n\"mode\": \"Black and white conversion\",\n\"contrast_curve\": \"Balanced highlights with controlled shadow depth\",\n\"grain\": \"Subtle fine grain for magazine realism\",\n\"finish\": \"High-end commercial editorial polish\"\n},\n\"quality_tags\": [\n\"cinematic\",\n\"minimalist\",\n\"luxury editorial\",\n\"elegant masculinity\",\n\"modern sculpture aesthetic\",\n\"high detail\",\n\"professional studio photography\"\n]\n}\nRatio 4:5\nHighly realistic 8k quality",
+    "title": "Monochrome Fashion Editorial Triptych",
+    "description": "A sophisticated structured JSON prompt for generating a monochrome 3-panel vertical triptych focusing on minimalist fashion and masculine portraiture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387566539_2k6zew_HJug3TebUAAMXph.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23388,
     "content": "Ultra-photorealistic full-length editorial fashion photograph, vertical 4:5, of an elegant young woman standing against a {argument name=\"background\" default=\"clean bright white seamless studio backdrop\"}. She wears a {argument name=\"outfit\" default=\"fitted white mini dress with a high mock-neck collar and a dramatic sculptural keyhole cutout at the chest\"}. A crisp contrasting black piping traces the collar, the keyhole, and the armholes in a single sinuous line, and wraps cleanly around the waist as a defined banded seam that cinches the silhouette. The dress is sleeveless, minimalist, and architectural, in a structured matte crepe, with a short hem ending mid-thigh. Dark brown hair pulled back into a sleek, severe center-parted low bun. Glowing skin with realistic texture, soft bronzed editorial makeup, strong full brows, glossy mauve lips, an intense direct gaze. One hand resting on the hip, posture tall and poised, long legs.\nLighting: bright soft high-key studio light, even and clean with subtle sculpting shadows along the body, crisp fabric edges. Shot on a medium-format camera, sharp focus, fine grain, luxury fashion-house campaign mood, minimalist and expensive.\nNegative: plastic skin, over-smoothed AI face, doll face, cartoon, 3D render, distorted hands, extra fingers, warped limbs, bad anatomy, cheap fabric, busy background, harsh shadows, watermark, text.",
     "title": "Minimalist White Dress Fashion Campaign",

@@ -21,6 +21,147 @@
     "needReferenceImages": true
   },
   {
+    "id": 23567,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"pale woman with platinum blonde hair, icy blue eyes\"}, wearing a white fur coat, standing in a frozen snowy landscape, breath visible in cold air, overcast soft light, dreamy and ethereal atmosphere, shallow DOF, color grade: {argument name=\"grading\" default=\"cold silver and white\"}, ultra-detailed, photorealistic",
+    "title": "Ethereal Frozen Landscape Portrait",
+    "description": "A cinematic prompt for a platinum blonde woman in a frozen landscape, featuring cold silver and white tones and ethereal atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387569239_igyy0x_HJx9KoQbEAE1KvN.jpg",
+      "https://cms-assets.youmind.com/media/1780387569352_mtvqp2_HJx9KoOa4AAQs5H.jpg",
+      "https://cms-assets.youmind.com/media/1780387569291_yl79hu_HJx9KoPasAAuedG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23554,
+    "content": "Top-down flat lay portrait of {argument name=\"character\" default=\"your character\"}, shown as a true centered bust portrait (head and shoulders only), entirely created from {argument name=\"material\" default=\"uncooked pasta\"} arranged as food art. Use only one single {argument name=\"color\" default=\"pasta color\"} throughout, Clean white background, same pasta color",
+    "title": "Pasta Art Bust Portrait",
+    "description": "A unique and fun prompt for generating top-down portraits created entirely from uncooked pasta as food art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387563061_9z2utt_HJv5iXuWIAE4ua8.jpg",
+      "https://cms-assets.youmind.com/media/1780387563047_v1jnqc_HJv5ijKW0AAPdsD.jpg",
+      "https://cms-assets.youmind.com/media/1780387563062_w5ajg2_HJv5ivAXoAAISpI.jpg",
+      "https://cms-assets.youmind.com/media/1780387563694_z228vc_HJv5i5OXEAAfg3p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23564,
+    "content": "Full-body shot of a {argument name=\"subject\" default=\"handsome man with short, styled dark hair, a light beard, and round black sunglasses\"}, directly facing the camera while standing on a city sidewalk at dusk. He is wearing a clean white t-shirt, tailored coffee-brown trousers, and matching white and brown sneakers. His right hand is held open, palm facing up, with a glowing, {argument name=\"logo\" default=\"white 'X' logo\"} floating seamlessly just above his palm. The background is a softly blurred European street with warm, out-of-focus city lights. The overall atmosphere is modern, stylish, and realistic, maintaining the exact facial features from 9827.jpg.",
+    "title": "Urban Dusk Floating Logo Portrait",
+    "description": "A stylish urban portrait set at dusk featuring a subject holding a floating digital logo, maintaining high identity fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387568062_jja94a_HJvpn2Xa8AAMMd_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23560,
+    "content": "A professional, high-resolution portrait of a {argument name=\"subject\" default=\"man with a neat beard and messy dark hair\"}, sitting in a plush {argument name=\"furniture\" default=\"dark teal velvet armchair\"}. He is seated at a slight three-quarter angle, body tilted toward the left while his head is turned to face the camera directly with a friendly expression. Details & Props: He is wearing a sophisticated tan or camel-colored blazer over a crisp white t-shirt. On his left wrist, a black smartwatch is visible. He is holding a sleek silver tablet in his right hand and a white stylus (Apple Pencil) in his left hand, resting them naturally on his lap. Lighting & Atmosphere: The scene features soft, cinematic side-lighting (Chiaroscuro style) that creates gentle shadows on one side of his face and body, adding depth. The background is a minimalist, solid {argument name=\"backdrop\" default=\"dark charcoal grey\"}, ensuring all focus remains on the subject. Technical Specifications: Ultra-realistic photography, 8K resolution, sharp focus on facial features, shallow depth of field, shot on a 50mm lens, professional studio lighting, clean composition, aspect ratio 4:5. Key Elements Noted: The Tilt: The \"three-quarter\" body position is crucial for that specific seated look. The Grip: I've specified the pen and tablet being held simultaneously to match the \"creative professional\" vibe. The Backdrop: Keeping it \"solid charcoal\" avoids unwanted textures or distractions.",
+    "title": "Professional Creative Portrait in Teal Chair",
+    "description": "A meticulous portrait prompt of a man in a velvet armchair with specific technical instructions for lighting, props, and camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387566575_97scth_HJvLd8Sa0AAKwnP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23550,
+    "content": "{\n  \"scene\": {\n    \"setting\": \"elegant vintage-inspired indoor fashion studio\",\n    \"background\": \"soft pastel pink paneled walls with delicate floral wallpaper above, subtle decorative wall ornaments, warm wooden parquet flooring with natural texture and slight wear marks, refined feminine atmosphere\",\n    \"lighting\": \"soft diffused studio daylight mixed with gentle window light, realistic skin highlights, smooth shadow transitions, subtle ambient bounce lighting, natural light falloff across room\"\n  },\n  \"subject\": {\n    \"type\": \"female\",\n    \"pose\": \"low crouching pose with knees bent, body angled sideways toward camera, arms resting naturally forward, shoulders relaxed, graceful posture emphasizing elegance and confidence\",\n    \"expression\": \"eyes closed with relaxed facial muscles, soft parted lips, serene and dreamy mood, calm luxurious presence\",\n    \"face\": \"Use uploaded reference image, keep identity exact, preserve natural facial proportions, realistic skin texture with visible pores, subtle peach fuzz, natural imperfections, no artificial smoothing\",\n    \"hair\": \"Use uploaded reference image, keep identity exact, shoulder-length hair with soft natural waves, realistic individual strands, slight volume and natural movement\",\n    \"eyes\": \"Use uploaded reference image, keep identity exact, closed eyes with natural eyelash detail\",\n    \"skin\": \"natural skin tone with realistic subsurface scattering, soft highlights on cheeks, shoulders and legs, authentic texture and natural tonal variation\",\n    \"body\": \"accurate anatomy, realistic proportions, natural muscle structure and posture\"\n  },\n  \"clothing\": {\n    \"outfit\": \"luxury white satin corset mini dress with lace detailing, off-shoulder straps, delicate fabric folds, realistic satin sheen, lace trim and pearl embellishments around waist\",\n    \"footwear\": \"white pointed high heels with decorative bow accents and realistic leather texture\",\n    \"accessories\": \"layered pearl necklaces, pearl earrings, sheer translucent opera gloves, subtle elegant styling\"\n  },\n  \"environment_details\": {\n    \"props\": \"decorative wall moldings, floral wallpaper details, polished wooden floor reflections\",\n    \"atmosphere\": \"romantic luxury fashion editorial with vintage French-inspired aesthetics\",\n    \"details\": \"realistic fabric physics, authentic lace texture, natural floor reflections, subtle shadow gradients, fine jewelry reflections, delicate glove transparency\"\n  }\n}",
+    "title": "Vintage French Editorial Studio",
+    "description": "A romantic luxury fashion studio prompt featuring a satin corset dress, floral wallpaper, and soft diffused daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387560756_8thofn_HJu14zZbkAEPDY1.jpg",
+      "https://cms-assets.youmind.com/media/1780387560760_ccmgvy_HJu17l3aoAAZcHe.jpg",
+      "https://cms-assets.youmind.com/media/1780387560795_ko9w5q_HJu1-e_boAAQlwQ.jpg",
+      "https://cms-assets.youmind.com/media/1780387561756_z4uit4_HJu2AV8b0AA93yn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23547,
+    "content": "A 4K raw HD photograph of {argument name=\"subject\" default=\"Sydney Sweeney\"} with {argument name=\"hair style\" default=\"long blonde hair\"}, captured in an ultra-sharp deep-focus indoor scene with absolutely no background blur. She stands with her body bent forward and both hands resting naturally on a {argument name=\"furniture\" default=\"dark teal velvet stool\"} while looking back over her shoulder toward the camera. She wears a fitted white halter crop top with a small elegant 'Love' detail near the hem, a blue denim pleated skirt, and clear platform high heels. Every detail from skin texture and fabric weave to wood grain flooring and background objects is rendered with extreme clarity. Behind her are sheer off-white curtains with visible texture, assorted green potted plants, a black abstract metal floor sculpture, and a subtle purple neon 'Love' sign in the backdrop. Natural high dynamic range lighting with realistic film grain, Sony A7R IV, 35mm lens, f/16 deep focus, hyper-realistic editorial photography, 4K RAW aesthetic.",
+    "title": "Sharp Deep-Focus Fashion Editorial",
+    "description": "A high-end editorial prompt using deep focus to capture every detail from subject to background objects without blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387559687_fqydhn_HJuwEw0bUAAqFW9.jpg",
+      "https://cms-assets.youmind.com/media/1780387559800_zncnd6_HJuwEy9bkAA5hQa.jpg",
+      "https://cms-assets.youmind.com/media/1780387559927_5skf69_HJuwEy3bUAAEw9j.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23566,
+    "content": "{\n  \"prompt\": \"Ultra-realistic luxury lifestyle portrait of a {argument name=\"subject\" default=\"beautiful young woman with long wavy platinum-blonde hair\"}, fair luminous skin, light green eyes, and soft natural glam makeup. She is seated elegantly on a cream-colored designer sofa inside an upscale modern café with warm wooden architecture, curved archways, floor-to-ceiling glass walls, and sophisticated interior design. She wears a {argument name=\"outfit\" default=\"fitted ivory ribbed athleisure set\"} consisting of a one-shoulder crop top and high-waisted leggings that create a sleek minimalist silhouette. A navy luxury baseball cap and premium black over-ear wireless headphones complete the look. Her hands gently rest on both sides of the headphones while maintaining calm direct eye contact with the camera. A {argument name=\"accessory\" default=\"designer monogram shoulder bag\"} with gold hardware sits beside her on the sofa. Natural daylight streams through the café, creating soft highlights, realistic shadows, and warm reflections on the wood surfaces. The atmosphere feels luxurious, relaxed, modern, and effortlessly stylish. Quiet luxury aesthetic, fashion influencer lifestyle, premium travel content, editorial photography, photorealistic skin texture, detailed hair strands, realistic fabric texture, luxury resort café ambiance, magazine-quality image.\",\n  \n  \"negative_prompt\": \"low quality, blurry, pixelated, bad anatomy, extra fingers, extra limbs, deformed hands, distorted face, crossed eyes, asymmetrical features, duplicate objects, unrealistic proportions, cartoon, anime, CGI, 3D render, plastic skin, oversaturated colors, harsh shadows, overexposed highlights, noisy image, grainy texture, watermark, logo, text, poor composition, low resolution, messy background, unnatural pose\",\n  \n  \"style\": {\n    \"genre\": \"luxury lifestyle editorial\",\n    \"mood\": \"calm, sophisticated, elegant, premium\",\n    \"lighting\": \"soft natural daylight\",\n    \"color_palette\": \"warm wood tones, ivory, beige, cream, navy blue, soft gold accents\",\n    \"aesthetic\": \"quiet luxury, modern café fashion, travel influencer, editorial portrait\"\n  },\n  \n  \"camera\": {\n    \"camera_model\": \"Sony A7R V\",\n    \"lens\": \"85mm f/1.4 GM\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 100,\n    \"shutter_speed\": \"1/250s\",\n    \"white_balance\": \"natural daylight\",\n    \"focus\": \"sharp focus on eyes and face\",\n    \"depth_of_field\": \"shallow\",\n    \"composition\": \"vertical portrait, centered subject, luxury lifestyle framing\"\n  },\n  \n  \"environment\": {\n    \"location\": \"luxury modern café\",\n    \"interior\": \"curved wooden architecture, glass walls, designer furniture, warm ambient tones\",\n    \"props\": [\n      \"designer handbag\",\n      \"wireless headphones\",\n      \"baseball cap\",\n      \"cream sofa\"\n    ]\n  },\n  \n  \"quality_tags\": [\n    \"photorealistic\",\n    \"ultra detailed\",\n    \"8k\",\n    \"HDR\",\n    \"realistic skin texture\",\n    \"luxury editorial\",\n    \"professional fashion photography\",\n    \"cinematic\"\n  ]\n}",
+    "title": "Luxury Lifestyle Editorial Cafe Portrait",
+    "description": "A complex JSON prompt for a luxury lifestyle portrait featuring a high-end cafe environment, premium fashion items, and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387569091_lbo4gq_HJuhQW_bQAA30Tu.jpg",
+      "https://cms-assets.youmind.com/media/1780387569082_iqclj3_HJuhQXAa8AAuqwx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23561,
+    "content": "{\n \"Modern_Sculpture_Monochrome_Triptych_9x16\",\n\"aspect_ratio\": \"9:16\",\n\"style\": \"{argument name=\"style aesthetic\" default=\"Minimalist monochrome fashion editorial inspired by modern sculpture aesthetics\"}\",\n\"composition\": {\n\"layout\": \"Three horizontal panels stacked vertically within a 9:16 canvas\",\n\"background\": \"Seamless grey-white studio backdrop with soft gradient falloff\",\n\"continuity_elements\": \"Minimal white crew-neck T-shirt and subtle gold necklace across all frames\"\n},\n\"subject\": {\n\"description\": \"{argument name=\"model\" default=\"Young male model with short textured dark hair, neatly edged groomed beard, symmetrical bone structure, defined cheekbones\"}\",\n\"expression_tone\": \"Calm, confident, introspective masculinity\",\n\"skin_detail\": \"Authentic skin pores, natural texture, no over-smoothing\"\n},\n\"frames\": [\n{\n\"frame_number\": 1,\n\"type\": \"Half-lit portrait\",\n\"pose\": \"Facing camera, one hand brushing casually through hair\",\n\"lighting\": {\n\"style\": \"Split lighting\",\n\"key_light_position\": \"Camera right at 45 degrees\",\n\"effect\": \"One side illuminated, opposite side fades into soft shadow\",\n\"contrast\": \"Medium-high contrast with controlled shadow rolloff\"\n},\n\"focus\": \"Bone structure and facial symmetry\"\n},\n{\n\"frame_number\": 2,\n\"type\": \"Close crop detail shot\",\n\"pose\": \"Neutral posture, frame tightly cropped\",\n\"lighting\": {\n\"style\": \"Soft directional window light\",\n\"direction\": \"Camera left\",\n\"quality\": \"Diffused natural light\"\n},\n\"focus\": \"Lips, beard texture, collarbone detail\",\n\"depth_of_field\": \"Shallow for background separation\"\n},\n{\n\"frame_number\": 3,\n\"type\": \"Subtle forward lean portrait\",\n\"pose\": \"Slight lean toward camera, shoulders relaxed\",\n\"expression\": \"Confident but calm eye contact\",\n\"lighting\": {\n\"style\": \"Balanced soft studio lighting\",\n\"highlight_detail\": \"Gold necklace catching subtle highlight reflections\"\n}\n}\n],\n\"camera_settings\": {\n\"camera_type\": \"High-end full-frame mirrorless\",\n\"lens\": \"50mm prime lens\",\n\"aperture\": \"f/2.0\",\n\"shutter_speed\": \"1/200\",\n\"iso\": \"100\",\n\"focus_mode\": \"Eye autofocus\",\n\"sharpness\": \"Premium editorial sharpness with natural detail retention\"\n},\n\"color_grading\": {\n\"mode\": \"Black and white conversion\",\n\"contrast_curve\": \"Balanced highlights with controlled shadow depth\",\n\"grain\": \"Subtle fine grain for magazine realism\",\n\"finish\": \"High-end commercial editorial polish\"\n},\n\"quality_tags\": [\n\"cinematic\",\n\"minimalist\",\n\"luxury editorial\",\n\"elegant masculinity\",\n\"modern sculpture aesthetic\",\n\"high detail\",\n\"professional studio photography\"\n]\n}\nRatio 4:5\nHighly realistic 8k quality",
+    "title": "Monochrome Fashion Editorial Triptych",
+    "description": "A sophisticated structured JSON prompt for generating a monochrome 3-panel vertical triptych focusing on minimalist fashion and masculine portraiture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387566539_2k6zew_HJug3TebUAAMXph.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23562,
+    "content": "A {argument name=\"subject\" default=\"handsome young adult male\"} exudes carefree summer energy sitting slightly right of center and leaning comfortably back onto warm gray lounge cushions. He is dressed in a {argument name=\"outfit\" default=\"highly textured warm cream knit polo with pushed-up sleeves and crisp white linen pants\"}, accessorized with a delicate pearl necklace. His tan skin glows, and his dark hair is styled in a natural, windswept textured quiff with subtle flyaways catching the light. His head is turned in profile to the left, his eyes relaxed and squinting slightly as he gazes thoughtfully out of frame, his face lit up by a broad, candid, open-mouth smile showing his upper teeth. His relaxed left hand rests naturally over his right hand in his lap, fingers gently draped over the bottom hand's loosely curled inward fingers, prominently displaying a silver watch with a bright, clear blue dial and matching strap. Beneath him in the foreground, pristine, smooth beige cushions fold naturally, catching deep cast shadows from his weight. Beyond the crisp foreground, the midground transitions into golden, uneven textured sand dotted with subtle ridges and footprints, curving toward a small, deep blue sliver of ocean visible at the center-left edge. The deep spatial depth concludes with a gently blurred background of towering rocky coastal hills and dunes covered in sparse dry vegetation, sloping downward toward the sweeping clear blue sky that fills the left side of the frame to create an asymmetric balance. Highly directional, hard natural golden sunlight blazes from a 45-degree angle on camera-left, creating a highly saturated, complementary color palette of warm creams, golden tans, and vibrant blues. The intense, single-source light preserves brilliant highlights on the left side of his face, left shoulder, nose, and a sharp specular gleam on the watch face, while casting dramatic, dense, deep black shadows with harsh, defined edges across the right side of his face, beneath his chin, and down the right side of his torso. Captured with realistic digital photography using a portrait lens at a wide aperture, the tack-sharp focus on the subject creates a medium depth of field that beautifully separates him from the softly blurred coastal backdrop. The straight-on perspective, completely free of film grain, mimics a clean, contemporary golden hour vacation editorial with enhanced warmth and high-contrast color grading to make the cool blues pop against the golden skin tones, all flawlessly framed in a 4:5 aspect ratio.",
+    "title": "Summer Beach Editorial Portrait",
+    "description": "A highly descriptive prompt for a carefree summer vacation portrait with golden hour lighting, capturing intricate details of clothing and environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387566998_c04uva_HJtoc94W4AQxJCJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23557,
+    "content": "Ultra-realistic stylish {argument name=\"subject\" default=\"fair young woman\"} with glowing fair skin, soft wavy brown hair, premium black sunglasses, glossy pink lips, {argument name=\"outfit\" default=\"oversized grey-white striped t-shirt\"}, elegant necklace, standing confidently on {argument name=\"setting\" default=\"empty highway road\"}, cinematic mountain background, soft natural daylight, luxury fashion vibe, detailed realistic skin texture, windy hair effect, shallow depth of field, DSLR portrait photography, aesthetic modern lifestyle look, ultra-detailed 4K masterpiece.9:16",
+    "title": "Highway Fashion DSLR Portrait",
+    "description": "A high-detail 4K prompt for a fashion lifestyle portrait on an empty highway road with a cinematic mountain backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387564910_akuvms_HJtTFylaYAAOxhZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23563,
+    "content": "A professional, high-end studio portrait of a {argument name=\"lookalike\" default=\"sharp-looking man resembling Cristiano Ronaldo\"}. He is wearing a sophisticated, {argument name=\"clothing\" default=\"dark charcoal textured blazer over a simple, well-fitted black crew-neck t-shirt\"}. On his wrist, he sports a luxury watch with a leather strap. His hair is neatly styled in a clean, short fade with a slight comb-over. He is captured in a three-quarter view, looking slightly off-camera to the side with a serious, confident expression. The setting is a dimly lit photography studio background with a dark gray backdrop, visible studio lighting equipment, softboxes, and subtle warm bokeh highlights in the background. The lighting is cinematic, utilizing a strong rim light that highlights his profile and contours, creating a dramatic, premium, and moody atmosphere.",
+    "title": "Premium Studio Celebrity Portrait",
+    "description": "A prompt for a professional, high-end studio portrait with dramatic cinematic lighting and a focused, confident expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387567814_bzdzto_HJs4wH6WMAQ4g7G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23553,
+    "content": "Ultra-realistic fashion editorial portrait, pixar-inspired 3D cute stylish person with exact facial identity from reference photo Wearing {argument name=\"outfit\" default=\"oversized creamy hoodie and matching oversized pant\"}, sitting casually and leaning confidently on {argument name=\"prop\" default=\"giant scrambled vertical 3D white letters spelling “PROMPTBIT”\"} in a clean minimalist studio. Relaxed confident pose, warm slight smile, natural proportions, realistic skin texture, soft cinematic studio lighting, ultra clean neutral gray background, high-end editorial photography aesthetic. Around the giant letters are multiple tiny {argument name=\"style\" default=\"chibi versions\"} of the same character in cute Pixar-style 3D design, scattered naturally on every letter and around the composition. Each chibi has different funny poses and expressions: thumbs up, peace sign, sunglasses cool pose, lying down, cheek pose, laughing, shy pose, playful wink, finger point, sitting casually. One chibi appears peeking from behind the character’s back and shoulder as if popping out mischievously. Composition balanced and dynamic, high detail, ultra sharp focus, soft shadows, glossy 3D typography, clean luxury studio atmosphere, playful yet premium visual style, realistic + stylized hybrid rendering, octane render quality, disney pixar inspired, cinematic depth of field, highly detailed textures, 8k masterpiece. Generate the image in 9:16 aspect ratio, face and body exactly same as uploaded image.",
+    "title": "Chibi Pixar-Style Studio Composition",
+    "description": "A playful hybrid prompt combining a realistic fashion editorial subject with multiple tiny 3D chibi versions of the same character in a Pixar-inspired style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387563066_dova6m_HJsbzJqWsAAEIA4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23552,
+    "content": "Ultra realistic full-body portrait 9:16 use uploaded face exactly, no face change. Stylish {argument name=\"character\" default=\"young character\"} with modern hairstyle, confident pose, looking away from camera. Outfit: {argument name=\"top\" default=\"oversized black-gold floral printed shirt\"} with subtle “PromptPixelRI” logo, white cargo pants, stylish shoes, modern wristwatch, small square dark sunglasses. Background: lush green foliage-covered resort, minimal luxury atmosphere, soft natural daylight.",
+    "title": "Luxury Resort Fashion Portrait",
+    "description": "A stylish full-body portrait prompt set in a lush resort, featuring an oversized floral shirt and a minimal luxury vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780387562463_zhe9gk_HJsZt8xXQAM4HfG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23388,
     "content": "Ultra-photorealistic full-length editorial fashion photograph, vertical 4:5, of an elegant young woman standing against a {argument name=\"background\" default=\"clean bright white seamless studio backdrop\"}. She wears a {argument name=\"outfit\" default=\"fitted white mini dress with a high mock-neck collar and a dramatic sculptural keyhole cutout at the chest\"}. A crisp contrasting black piping traces the collar, the keyhole, and the armholes in a single sinuous line, and wraps cleanly around the waist as a defined banded seam that cinches the silhouette. The dress is sleeveless, minimalist, and architectural, in a structured matte crepe, with a short hem ending mid-thigh. Dark brown hair pulled back into a sleek, severe center-parted low bun. Glowing skin with realistic texture, soft bronzed editorial makeup, strong full brows, glossy mauve lips, an intense direct gaze. One hand resting on the hip, posture tall and poised, long legs.\nLighting: bright soft high-key studio light, even and clean with subtle sculpting shadows along the body, crisp fabric edges. Shot on a medium-format camera, sharp focus, fine grain, luxury fashion-house campaign mood, minimalist and expensive.\nNegative: plastic skin, over-smoothed AI face, doll face, cartoon, 3D render, distorted hands, extra fingers, warped limbs, bad anatomy, cheap fabric, busy background, harsh shadows, watermark, text.",
     "title": "Minimalist White Dress Fashion Campaign",
