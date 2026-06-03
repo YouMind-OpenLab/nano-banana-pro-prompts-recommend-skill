@@ -10,12 +10,104 @@
     "needReferenceImages": false
   },
   {
-    "id": 23548,
-    "content": "A medium close-up portrait photograph captures a {argument name=\"subject\" default=\"young man\"} with distinct {argument name=\"eye color\" default=\"green\"} eyes and {argument name=\"hair style\" default=\"dark, curly\"} hair in dramatic, natural lighting from a rustic, multi-paned window. Strong, golden sunlight streams in from the upper-left, casting complex shadow patterns across his face and the rumpled, white linen button-down shirt he wears, with several top buttons undone. A prominent, textured shadow of the window frame creates leading lines across his right cheek. He stands on the darker side of the window, with his body turned slightly to the right, but his gaze is directed slightly off-camera to the left. The background is a mix of the weathered wooden window frame and dark, aged plaster. The focus is sharp on the man's face, with a shallow depth of field. The image has a warm, intimate, and introspective mood, with visible dust motes in the light. The composition is a vertical 2:3 ratio.",
-    "title": "Sunlit Rustic Window Portrait",
-    "description": "A detailed portrait prompt capturing a young man in natural, dramatic lighting by a rustic window, focusing on realistic textures and an introspective mood.",
+    "id": 23721,
+    "content": "Create an ultra premium studio portrait using the uploaded person’s REAL face, hairstyle, beard style, and facial identity. Do NOT copy the reference model’s facial features or hair. Preserve the uploaded person’s natural appearance completely.\n\nMatch only the EXACT sitting pose, body angle, hand placement, camera framing, composition, and relaxed posture from the reference image. Maintain the same modern editorial studio aesthetic and confident lifestyle vibe.\n\nDress the person in a luxurious {argument name=\"sweater color\" default=\"olive green\"} knitted sweater paired with tailored {argument name=\"trousers color\" default=\"beige\"} trousers. The background should be a smooth warm {argument name=\"backdrop style\" default=\"terracotta-to-soft sand gradient\"} studio backdrop that perfectly complements the outfit tones and creates a premium harmonious color palette.\n\nLighting should be soft professional studio lighting with subtle warm highlights, realistic shadows, cinematic depth, and clean luxury contrast. Keep the mood minimal, modern, stylish, and highly Instagram-worthy.\n\nUltra realistic skin texture, natural body proportions, premium fashion photography style, shallow depth of field, soft background blur, realistic fabric texture, luxury creator-brand photoshoot aesthetic.\n\nShot on Sony A7 IV, 50mm lens, f/2.2, photorealistic, ultra detailed, high-end color grading, editorial magazine quality, 8k.",
+    "title": "Premium Editorial Studio Portrait",
+    "description": "A sophisticated prompt for creating high-end studio portraits with a focus on preserving natural identity while applying professional magazine aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780387559979_drwqsi_HJyuz8hX0AAPUtj.jpg"
+      "https://cms-assets.youmind.com/media/1780474200962_4sh5jx_HJ0YIjmbIAAb3mG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23726,
+    "content": "Create a premium chibi sticker pack based on the uploaded photo of the {argument name=\"subject\" default=\"man\"}. Preserve his recognizable features: {argument name=\"features\" default=\"dark wavy hair, short beard, friendly face\"}, {argument name=\"outfit\" default=\"red football jersey, light-colored pants, red sneakers\"}, and smartwatch. Transform him into an adorable super-cute chibi character with a large head, expressive eyes, tiny body, soft shading, and clean cartoon illustration style.\n\nLayout & Style\n\nVertical sticker sheet format (4:5 ratio)\n\nClean white background\n\nEach sticker has a thick white die-cut border\n\nHigh-resolution digital illustration\n\nBright, cheerful colors\n\nCute doodles around stickers (hearts, stars, sparkles, question marks, motion lines)\n\nProfessional messaging-app sticker pack style\n\nConsistent character design across all stickers\n\nExpressions & Poses Create 15 separate chibi stickers:\n\n1. Waving with coffee ☀️ — “Good morning!”\n\n2. Laughing hard 😂 — “Whattt?”\n\n3. Thinking/confused 🤔 — “Huh?”\n\n4. Pointing seriously 👉 — “I’m reminding you!”\n\n5. Sleepy with droopy eyes 😴 — “So sleepy”\n\n6. Shocked with sparkling eyes 😲 — “Wow!”\n\n7. Holding approval clipboard ✅ — “Approved!”\n\n8. Double thumbs up 👍 — “Nice!”\n\n9. Winking and pointing 👉 — “Hey you!”\n\n10. Sneezing with tissue 🤧 — “Achoo!”\n\n11. Arms crossed, grumpy 😠 — “Angry!”\n\n12. Completely confused 🙃 — “Huh???”\n\n13. Sleeping with pillow 🌙 — “Good night :3”\n\n14. Hands on cheeks, adorable 🥺 — “Too cuteee”\n\n15. Wearing sunglasses 😎 — “Am I cool yet?!”\n\nArt Direction\n\nUltra-cute kawaii style\n\nSticker-pack quality suitable for WhatsApp, Telegram, LINE, Discord\n\nSoft highlights and blush on cheeks\n\nCrisp linework\n\nClean typography integrated into each sticker\n\nDynamic and varied poses\n\nCharming, wholesome, playful mood\n\nWhite die-cut border around every sticker\n\nNo background elements except sticker decorations\n\nStudio-quality illustration, highly detailed, polished, professional sticker design sheet.",
+    "title": "Custom Chibi Sticker Pack",
+    "description": "A comprehensive prompt for creating professional messaging-app sticker packs with adorable chibi characters based on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474203105_aaan2q_HJzzJHra0AARm_O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23709,
+    "content": "Ultra-realistic lifestyle portrait of a {argument name=\"hair style\" default=\"young woman with long straight copper-red hair and soft bangs\"}, standing in an elegant luxury lounge with rich dark walnut wood-paneled walls. She wears a {argument name=\"outfit\" default=\"form-fitting strapless black evening dress\"} and delicate gold jewelry. The subject is leaning slightly forward while blowing a kiss toward the camera with eyes gently closed, creating a playful, flirtatious, and confident expression. Warm ambient hotel lighting combined with direct smartphone flash photography creates crisp shadows, natural skin highlights, and a high-end social media aesthetic. Behind her is a framed artwork featuring lipstick kiss prints and romantic typography. Plush velvet chairs, polished dark furniture, and sophisticated interior décor enhance the upscale atmosphere. Shot at eye level with a 35mm lens, shallow depth of field, sharp focus on the subject, realistic skin texture, natural makeup, glossy hair, editorial fashion photography, luxury lifestyle aesthetic, photorealistic, HDR, ultra-detailed, 8K.",
+    "title": "Elegant Evening Lounge Portrait",
+    "description": "A high-end editorial fashion prompt featuring a young woman in a luxury lounge, utilizing smartphone flash effects for a realistic social media aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474193256_1949vb_HJznOH8bgAAwn5e.jpg",
+      "https://cms-assets.youmind.com/media/1780474192691_os5ee4_HJznPjNbYAAS8In.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23722,
+    "content": "{\n  \"Ultra-realistic high-end studio portrait of a confident man in his mid-30s. He has short dark brown hair swept neatly back with natural texture, a well-groomed reddish-brown trimmed beard, strong masculine facial features, defined jawline, expressive eyes, and healthy natural skin texture. He is dressed in a tailored luxury navy blue business suit with a crisp white dress shirt and a perfectly knotted dark navy silk tie. His posture is confident and professional, standing straight with shoulders relaxed, looking directly into the camera with a calm, serious, and authoritative expression. Dramatic cinematic studio lighting creates depth and dimension across the face, with soft highlights and subtle shadows emphasizing facial structure. Dark charcoal-to-black gradient background with a premium executive portrait aesthetic. Captured with a professional medium-format camera, 85mm portrait lens, shallow depth of field, razor-sharp focus on the eyes, ultra-detailed skin texture, realistic fabric details, natural color grading, luxury corporate branding style, magazine-quality photography, Forbes executive portrait aesthetic, premium business leader look, photorealistic, HDR, 8K resolution, extremely detailed, clean composition, elegant and timeless professional atmosphere.\",\n  \"negative_prompt\": \"cartoon, illustration, painting, anime, CGI, low resolution, blurry, soft focus, overexposed, underexposed, distorted face, asymmetrical eyes, bad anatomy, extra fingers, extra limbs, messy hair, exaggerated beard, smiling, casual clothing, wrinkles in suit, low-quality lighting, watermark, logo, text, cropped face, duplicate features, artificial skin, unrealistic proportions\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"photorealistic\",\n  \"quality\": \"ultra\",\n  \"lighting\": \"dramatic cinematic studio lighting\",\n  \"camera\": \"Medium Format Camera, 85mm Portrait Lens\",\n  \"resolution\": \"8K\"\n}",
+    "title": "Executive Studio Portrait",
+    "description": "A professional prompt for generating detailed, magazine-quality corporate portraits for business leaders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474201672_kf2w5u_HJzmNAiagAATJrv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23746,
+    "content": "A hyper-realistic, cinematic portrait of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy dark brown hair\"}, sitting on a {argument name=\"setting\" default=\"stone ledge overlooking a scenic European coastal village\"}. She is wearing a {argument name=\"outfit\" default=\"vintage, oversized knit Fair Isle sweater with intricate geometric patterns in shades of slate blue, rust online, cream, and beige, paired with white pants and chunky white sneakers\"}. She wears a faded, dark blue-grey denim baseball cap. The setting features a soft-focus background of rustic stone buildings and a calm blue sea under a bright, overcast sky. Shot on a professional DSLR camera, 85mm lens, f/1.4 aperture, natural diffused lighting, highly detailed skin texture, realistic pores, Douyin-style clean realism, 8K resolution, crisp focus on the subject.",
+    "title": "European Coastal Village Cinematic Portrait",
+    "description": "A hyper-realistic cinematic portrait of a young woman overlooking a European coastal village, featuring detailed knitwear and clean Douyin-style realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474215266_nsntqq_HJzCAfragAAktbZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23714,
+    "content": "Preserve as much of my image as possible and make it photorealistic",
+    "title": "Photorealistic Image Restoration Prompt",
+    "description": "A simple instruction designed to restore or enhance an existing image into a photorealistic version while maintaining original details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474196744_nk5loh_HJyywRUWQAAFIxs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23742,
+    "content": "An athletic young man stands casually facing the camera, his weight shifted as he leans slightly with level shoulders and legs crossed at the ankles. He exudes a confident yet relaxed energy with a subtle closed smile and relaxed eyes. His dark brown hair is cut into a tight fade on the sides and back, while the top, about two inches long, is styled upward and slightly forward into a textured quiff holding its volume with a matte finish. The hair texture exhibits natural clumping and organic imperfections, complete with a clean natural hairline and slight flyaways visible against the sky. He is dressed in an elegant retro resort-wear ensemble featuring a white short-sleeve shirt with two prominent vertical light blue stripes, paired with high-waisted, creamy off-white pleated trousers and light blue sneakers. A silver chain rests on his neck. His right hand is casually tucked into his front right trouser pocket, revealing only a sliver of his hand and a metallic watch on his wrist, while his left hand lightly grips a weathered dark gray wrought iron fence for balance, his fingers draped elegantly over the rounded cast-iron finial with silver rings visible on his index and pinky fingers, complemented by a silver bracelet on his left wrist. He is positioned along an outdoor lakeside promenade characterized by deep spatial depth, standing on a light gray and white mix gravel path. Directly behind him, extending from the mid-left to the right, is a classic, carved stone balustrade made of muted gray stone, exhibiting rough matte textures, dark water stains under the top rail, and patches of lichen and dirt accumulating in its weathered crevices. To the left midground, a thriving bush bursts with bright pink blossoms and lush green leaves growing through a support structure, situated near a weathered vintage black metal streetlamp with a glass lantern enclosure. Expanding into the right background is a vast expanse of pristine, deep blue lake water marked by gentle ripples, where a small dark motorboat glides in the distance. Above the water, a large sloping mountain range dotted with small distant shoreline structures fades gracefully into an atmospheric haze. Bathed in bright, warm golden natural sunlight originating from a single moderately directional source at the front-left, the scene is infused with a cheerful and sophisticated luxurious vacation mood. The lighting casts soft but defined gradual gray shadows onto the gravel path behind and to the right of the subject, creating raked horizontal shadow patterns from the balustrade while also defining the right side of the folds in his clothing. Preserved specular highlights gently kiss the left side of his face, his left shoulder, and the top rail of the stone balustrade, while ambient fill light ensures vibrant, medium contrast across the beautifully complementary cream and steel blue color palette. Captured through the lens of a full-frame digital camera using a 35mm lens at an aperture around f/5.6, the image maintains a straight-on perspective and a medium depth of field, keeping the subject tack sharp with no grain while the majestic mountainous background and water are slightly softened yet clearly legible. The aesthetic blends modern menswear editorial styles with clean travel influencer photography, finalized with post-processing that includes subtle color grading to enhance the blue and cream tones, a slight shadow lift to preserve details in the dark hair and iron fence, and an accentuation of the golden hour warmth radiating from the subject's skin, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Athletic Man Lakeside Resort Wear Portrait",
+    "description": "A detailed portrait of an athletic young man in retro resort wear standing along an outdoor lakeside promenade with golden sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474212919_gdhkf1_HJyy1CBWwAAYjWe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23548,
+    "content": "A medium close-up portrait photograph captures a {argument name=\"subject\" default=\"young man with distinct green eyes and dark, curly hair\"} in dramatic, natural lighting from a {argument name=\"setting\" default=\"rustic, multi-paned window\"}. Strong, golden sunlight streams in from the upper-left, casting complex shadow patterns across his face and the {argument name=\"outfit\" default=\"rumpled, white linen button-down shirt\"} he wears, with several top buttons undone. A prominent, textured shadow of the window frame creates leading lines across his right cheek. He stands on the darker side of the window, with his body turned slightly to the right, but his green-eyed gaze is directed slightly off-camera to the left. The background is a mix of the weathered wooden window frame and dark, aged plaster. The focus is sharp on the man's face, with a shallow depth of field. The image has a warm, intimate, and introspective mood, with visible dust motes in the light. The composition is a vertical 2:3 ratio.",
+    "title": "Introspective Sunlit Window Portrait",
+    "description": "A dramatic close-up of a young man with green eyes looking through a rustic window, characterized by strong golden sunlight and complex shadow patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474211641_b7v7jw_HJyuz8hX0AAPUtj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23708,
+    "content": "\"subject\": \"{argument name=\"subject\" default=\"young woman, dark hair with neon green highlights in messy bun, blue eyes, finger near face, rings and long nails\"}\", \"outfit\": \"{argument name=\"clothing\" default=\"oversized green tie-dye graphic sweatshirt, chunky silver chain necklace\"}\", \"setting\": \"{argument name=\"background\" default=\"olive green studio background\"}\", \"mood\": \"edgy, moody, alt-pop aesthetic\"",
+    "title": "Alt-Pop Celebrity Portrait Style",
+    "description": "An edgy and moody alt-pop aesthetic prompt inspired by Billie Eilish, featuring neon highlights and oversized fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474193251_ikjtdt_HJyJTAFaUAAZZzC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23711,
+    "content": "Professional studio portrait of a man in his mid-30s, short dark brown hair swept back, reddish-brown trimmed beard, wearing a navy blue suit with white dress shirt and dark navy tie, neutral serious expression, dark charcoal gradient background, dramatic studio lighting, photorealistic, sharp focus, high-end photography Professional studio portrait of a man in his late 20s to early 30s, short black hair slicked back with fade on sides, clean-shaven with olive/tan skin, wearing a dark charcoal suit with white dress shirt and silver-grey tie, subtle confident expression, dark brown wooden panel background, warm dramatic lighting, photorealistic, sharp focus, high-end editorial photography",
+    "title": "Professional Studio Male Portraits",
+    "description": "Clean and high-end studio portrait prompts for professional male headshots with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474194928_gn9gd1_HJx6etPbMAA5Xsk.jpg",
+      "https://cms-assets.youmind.com/media/1780474194806_ss2xex_HJx6etHbQAAm7SJ.jpg"
     ],
     "needReferenceImages": false
   },

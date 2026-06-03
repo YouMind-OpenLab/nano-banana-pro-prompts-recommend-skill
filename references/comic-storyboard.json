@@ -1,5 +1,76 @@
 [
   {
+    "id": 23725,
+    "content": "Ultra-photorealistic editorial collage arranged as a 5x3 backstage fashion week contact sheet. Fifteen photographs capture the same striking {argument name=\"subject\" default=\"young woman\"} throughout a hectic runway day with perfect identity consistency. Same facial structure, sharp jawline, expressive eyes, realistic skin texture, subtle luxury makeup, natural hair strands, identical appearance in every frame.\n\nShe wears a structured black tailored blazer over a minimalist silk outfit, paired with designer accessories and runway-ready styling. Hair is styled into a sleek fashion-week look.\n\nEach frame captures a different backstage moment:\n\n* Makeup artist making final touch-ups.\n* Reviewing looks in front of illuminated mirrors.\n* Walking through crowded backstage corridors.\n* Speaking with designers.\n* Adjusting jewelry.\n* Looking through garment racks.\n* Sitting quietly before the show.\n* Fast-paced candid moments between preparations.\n* Reflection shots through mirrors.\n* Runway entrance anticipation.\n* Close beauty portraits.\n* Walking beneath spotlights.\n* Looking over shoulder backstage.\n* Checking notes and schedules.\n* Final confident portrait before stepping onto the runway.\n\nEnvironment filled with makeup stations, bright vanity bulbs, clothing racks, photographers, assistants, models, and fashion industry energy.\n\nPhotography style: documentary fashion photography, magazine contact sheet aesthetic, realistic flash photography, Leica and medium-format camera look, authentic behind-the-scenes storytelling.\n\nColor palette: black, silver, cream, warm skin tones, bright backstage lighting.\n\nNegative Prompt:\nflowers, studio backdrop, fantasy, CGI, illustration, plastic skin, duplicate poses, bad anatomy, watermark, text, blurry faces.",
+    "title": "Fashion Week Backstage Contact Sheet",
+    "description": "Generates a professional 5x3 fashion contact sheet depicting various backstage moments during a fashion show with consistent character identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474203134_kdu04a_HJ0ndLpaYAcUQIL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23731,
+    "content": "A haunting dark fantasy portrait featuring a solitary hooded figure in long, flowing dark robes astride a majestic black horse. The figure's face is completely obscured by the deep hood, creating an air of mystery and ominous presence. The horse is sleek and powerful, rendered entirely in black tones with visible flowing mane and tail.\nThe setting is a dramatic mountain canyon or gorge with towering cliff walls rising on both sides, creating a natural frame that emphasizes the isolation and grandeur of the scene. The entire landscape is shrouded in thick, rolling mist and fog that swirls around the figure and horse, creating an ethereal, supernatural quality.\nAtmospheric and lighting characteristics:\nDense fog and mist that obscures the upper portions of the cliffs and fills the canyon\nMonochromatic color palette: Deep blacks, charcoal grays, and pale whites/silvers\nLow-key, cinematic lighting creating dramatic contrast and shadows\nOvercast, gloomy sky visible through the mist\nGround level perspective: Rocky, desolate terrain beneath the horse and rider\nVolumetric fog effects: Mist appears to move and flow, adding depth and atmosphere\nKey emotional and thematic elements:\nMysterious and ominous tone: The obscured figure suggests unknown intent\nSolitude and isolation: Single traveler in vast, forsaken landscape\nDark fantasy aesthetic: Medieval, mythological, or supernatural in nature\nCinematic drama: Resembles concept art or fantasy film imagery\nGothic mood: Melancholic, haunting, introspective darkness\nPhotography/art style: Dark fantasy concept art with cinematic lighting and atmospheric fog effects; reminiscent of medieval fantasy, witcher-style aesthetics, or gothic storytelling",
+    "title": "Haunting Dark Fantasy Rider",
+    "description": "A dramatic and moody dark fantasy prompt featuring a mysterious hooded figure on a black horse in a misty mountain canyon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474206402_4vs5b4_HJ0X6uSXIAAsepu.jpg",
+      "https://cms-assets.youmind.com/media/1780474206238_v1jhyq_HJ0X7T6XMAAyUS_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23749,
+    "content": "Generate a character sheet, {argument name=\"background color\" default=\"completely white background\"}, front, side, back, and expressions. No text. {argument name=\"aspect ratio\" default=\"16:9\"}",
+    "title": "Character Sheet Design Prompt",
+    "description": "A straightforward prompt for generating character reference sheets featuring multiple angles and expressions against a plain white background, ideal for maintaining character consistency in projects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474216535_deoonb_HJzouNEXMAAzDtQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23744,
+    "content": "A vertical watercolor wash anime illustration of a {argument name=\"subject\" default=\"young woman\"} with {argument name=\"hair style\" default=\"long, flowing brown hair adorned with a pink bow\"}, sitting gracefully on a rustic wooden bench. She is wearing a soft, pastel sage green dress patterned with delicate yellow wildflowers. She is focused on reading a vintage book titled \"{argument name=\"book title\" default=\"Le Chat\"}\", which she holds open in both hands. Curled up soundly asleep beside her on the bench is a fluffy ragdoll cat with a pink leash gently draped nearby. A small pink purse rests against the bench next to her. The entire scene is set beneath a large, blooming cherry blossom tree with soft pink petals drifting through the air. In the background, a cobblestone pathway, a vintage black lamppost, a storefront with a \"Le Chat\" hanging cat sign, and a chalkboard sign add a charming, European-style café vibe to the street. The overall style is soft and ethereal, featuring light watercolor textures, gentle bleeding colors, and a cozy, serene atmosphere.",
+    "title": "Watercolor Anime Girl Reading Under Cherry Blossoms",
+    "description": "A beautiful vertical watercolor anime illustration featuring a young woman reading a vintage book on a rustic bench with her cat, set under a blooming cherry blossom tree with a cozy European café vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474213857_fo9hsg_HJy_ziCW8AAVi8Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23712,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity. Create an ultra-realistic dark fantasy psychological portrait inside an old abandoned artist’s studio. The scene captures the same man (my face) standing beside a large canvas mounted on a wooden easel. He wears a slightly worn dark-blue denim shirt over a light beige T-shirt, sleeves rolled up, with traces of black paint splattered across his clothing and forearms. The atmosphere is tense and cinematic. The man suddenly turns his head over his shoulder with a startled, fearful expression, eyes widened as if sensing an unseen presence behind him. His posture is frozen in suspense. Emerging from the canvas is a terrifying living version of his painted self. The painted figure is partially breaking through the artwork, transforming from black ink, charcoal dust, liquid shadows, paint splashes, and smoky particles into a realistic human form. One dark ink-covered hand reaches out from the canvas and grips the man’s shoulder, creating a chilling supernatural moment. The painted doppelgänger should share the exact same face as the subject but appear monochromatic, weathered, ghostly, and formed from cracked charcoal textures, dripping paint, and shadow-like tendrils. Black ink fragments and particles swirl around the emergence point, creating the illusion that the painting itself has come alive. Environment details: cluttered painter’s workshop, scattered brushes, paint jars, unfinished canvases, antique wooden furniture, dust particles floating in the air, old framed artworks in the background, dramatic studio interior. Warm golden sunset light enters through a large window on the left side, contrasting with deep shadows throughout the room. Lighting: cinematic Rembrandt lighting, volumetric sun rays, moody contrast, warm amber highlights mixed with dark charcoal blacks, subtle rim light outlining both figures, realistic global illumination, atmospheric haze. Composition: medium shot, vertical portrait orientation, subject positioned slightly left of center, canvas and emerging figure on the right, shoulder-grab interaction as the focal point, shallow depth of field, highly detailed foreground and background separation. Style: hyper-realistic, cinematic horror realism, psychological thriller, dark fantasy, masterpiece photography, 8K resolution, HDR, ultra-detailed skin texture, realistic eyes, intricate paint splatter effects, dramatic storytelling, award-winning concept art, photorealistic rendering, Unreal Engine 5 quality, extraordinary detail, sharp focus, film-grade color grading. Negative prompt: cartoon, anime, illustration, low resolution, blurry face, distorted hands, extra fingers, duplicate people, unrealistic anatomy, oversaturated colors, CGI look, plastic skin, low detail, text, watermark, logo, cropped face, deformed features, mutated limbs, poor lighting, flat composition.",
+    "title": "Dark Fantasy Doppelganger Portrait",
+    "description": "A chilling dark fantasy prompt where a man's painted doppelgänger emerges from a canvas in an old artist's studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474195046_vxnev3_HJyT1VGbkAA2-Ce.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23743,
+    "content": "Medium shot. Our {argument name=\"subject\" default=\"beautiful mermaid\"} is in crystal clear water at depth. Around her swims a school of {argument name=\"companion\" default=\"tiny, semi-transparent fish that look as if they are made of glass and light\"}. Fish are everywhere. Some are close to the camera, almost in 3D. The mermaid, with a slight smile, reaches out her hand towards them. Sun rays pierce the water, creating moving patterns on her skin and tail. Her {argument name=\"detail\" default=\"pink strands\"} stand out brightly in the morning light. Preserve the style from the photo.",
+    "title": "Mermaid in Crystal Clear Underwater Kingdom",
+    "description": "A medium shot of a beautiful mermaid interacting with tiny semi-transparent fish in a sunlit underwater environment, maintaining high visual consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474213508_28v8hk_HJxnauuaEAA0nKV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23727,
+    "content": "A four-panel photo collage arranged in a 2x2 grid, featuring a single {argument name=\"subject description\" default=\"South Asian woman with long, dark, wavy hair, wearing a rust-orange kurta and a detailed patterned Ajrakh-style shawl\"}, adorned with a white plumeria flower and gold jhumka earrings. Each of the four panels depicts the woman with a different pose and an abstract, color-graded background texture representing a different season.The top-left panel shows her in a three-quarter turn, looking over her left shoulder with a smile, against a highly detailed, mosaic-like floral and botanical pattern background. The top-right panel shows a closer portrait of her looking to the side with her chin on her hand, against a soft, diffused abstract 'Spring' background of pastel greens, blush pinks, and blurred white blooms.The bottom-left panel shows her standing with arms spread wide, looking up, against a vibrant, saturated 'Autumn' background of gold, amber, and deep red leaf textures. The bottom-right panel shows her sitting on a mat on the ground, looking down and placing mustard flowers into a wicker basket, against a cool, muted 'Winter' background of frost-like blues, greys, and soft whites. The grid lines of the collage are clean and distinct, with consistent lighting across all panels.",
+    "title": "Four Seasons Portrait Collage",
+    "description": "A 2x2 grid collage depicting a single subject across four different seasonal themes with color-graded abstract backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474204498_1doquj_HJxUEuDawAAQDK1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23555,
     "content": "Use the exact same face from reference images and generate a image a {argument name=\"subject\" default=\"man\"} sits in a leather chair, his body rendered in hyper-real photography — but his {argument name=\"shadow effect\" default=\"shadow shadow cast on the wall behind him is a bold 2D cartoon character mid-action pose\"}, comic halftone dots and all, as if his shadow has a separate rebellious identity. The entire background is constructed from {argument name=\"background style\" default=\"torn vintage newspaper clippings, headline fragments, and classified ads layered in collage style\"}. His suit is patched with newspaper strips like armor. Moody single overhead spotlight. \"OzairAI\" printed small in the corner of one of the newspaper clippings like a byline. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
     "title": "Newspaper Collage Shadow Portrait",

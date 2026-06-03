@@ -1,5 +1,36 @@
 [
   {
+    "id": 23731,
+    "content": "A haunting dark fantasy portrait featuring a solitary hooded figure in long, flowing dark robes astride a majestic black horse. The figure's face is completely obscured by the deep hood, creating an air of mystery and ominous presence. The horse is sleek and powerful, rendered entirely in black tones with visible flowing mane and tail.\nThe setting is a dramatic mountain canyon or gorge with towering cliff walls rising on both sides, creating a natural frame that emphasizes the isolation and grandeur of the scene. The entire landscape is shrouded in thick, rolling mist and fog that swirls around the figure and horse, creating an ethereal, supernatural quality.\nAtmospheric and lighting characteristics:\nDense fog and mist that obscures the upper portions of the cliffs and fills the canyon\nMonochromatic color palette: Deep blacks, charcoal grays, and pale whites/silvers\nLow-key, cinematic lighting creating dramatic contrast and shadows\nOvercast, gloomy sky visible through the mist\nGround level perspective: Rocky, desolate terrain beneath the horse and rider\nVolumetric fog effects: Mist appears to move and flow, adding depth and atmosphere\nKey emotional and thematic elements:\nMysterious and ominous tone: The obscured figure suggests unknown intent\nSolitude and isolation: Single traveler in vast, forsaken landscape\nDark fantasy aesthetic: Medieval, mythological, or supernatural in nature\nCinematic drama: Resembles concept art or fantasy film imagery\nGothic mood: Melancholic, haunting, introspective darkness\nPhotography/art style: Dark fantasy concept art with cinematic lighting and atmospheric fog effects; reminiscent of medieval fantasy, witcher-style aesthetics, or gothic storytelling",
+    "title": "Haunting Dark Fantasy Rider",
+    "description": "A dramatic and moody dark fantasy prompt featuring a mysterious hooded figure on a black horse in a misty mountain canyon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474206402_4vs5b4_HJ0X6uSXIAAsepu.jpg",
+      "https://cms-assets.youmind.com/media/1780474206238_v1jhyq_HJ0X7T6XMAAyUS_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23726,
+    "content": "Create a premium chibi sticker pack based on the uploaded photo of the {argument name=\"subject\" default=\"man\"}. Preserve his recognizable features: {argument name=\"features\" default=\"dark wavy hair, short beard, friendly face\"}, {argument name=\"outfit\" default=\"red football jersey, light-colored pants, red sneakers\"}, and smartwatch. Transform him into an adorable super-cute chibi character with a large head, expressive eyes, tiny body, soft shading, and clean cartoon illustration style.\n\nLayout & Style\n\nVertical sticker sheet format (4:5 ratio)\n\nClean white background\n\nEach sticker has a thick white die-cut border\n\nHigh-resolution digital illustration\n\nBright, cheerful colors\n\nCute doodles around stickers (hearts, stars, sparkles, question marks, motion lines)\n\nProfessional messaging-app sticker pack style\n\nConsistent character design across all stickers\n\nExpressions & Poses Create 15 separate chibi stickers:\n\n1. Waving with coffee ☀️ — “Good morning!”\n\n2. Laughing hard 😂 — “Whattt?”\n\n3. Thinking/confused 🤔 — “Huh?”\n\n4. Pointing seriously 👉 — “I’m reminding you!”\n\n5. Sleepy with droopy eyes 😴 — “So sleepy”\n\n6. Shocked with sparkling eyes 😲 — “Wow!”\n\n7. Holding approval clipboard ✅ — “Approved!”\n\n8. Double thumbs up 👍 — “Nice!”\n\n9. Winking and pointing 👉 — “Hey you!”\n\n10. Sneezing with tissue 🤧 — “Achoo!”\n\n11. Arms crossed, grumpy 😠 — “Angry!”\n\n12. Completely confused 🙃 — “Huh???”\n\n13. Sleeping with pillow 🌙 — “Good night :3”\n\n14. Hands on cheeks, adorable 🥺 — “Too cuteee”\n\n15. Wearing sunglasses 😎 — “Am I cool yet?!”\n\nArt Direction\n\nUltra-cute kawaii style\n\nSticker-pack quality suitable for WhatsApp, Telegram, LINE, Discord\n\nSoft highlights and blush on cheeks\n\nCrisp linework\n\nClean typography integrated into each sticker\n\nDynamic and varied poses\n\nCharming, wholesome, playful mood\n\nWhite die-cut border around every sticker\n\nNo background elements except sticker decorations\n\nStudio-quality illustration, highly detailed, polished, professional sticker design sheet.",
+    "title": "Custom Chibi Sticker Pack",
+    "description": "A comprehensive prompt for creating professional messaging-app sticker packs with adorable chibi characters based on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474203105_aaan2q_HJzzJHra0AARm_O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23749,
+    "content": "Generate a character sheet, {argument name=\"background color\" default=\"completely white background\"}, front, side, back, and expressions. No text. {argument name=\"aspect ratio\" default=\"16:9\"}",
+    "title": "Character Sheet Design Prompt",
+    "description": "A straightforward prompt for generating character reference sheets featuring multiple angles and expressions against a plain white background, ideal for maintaining character consistency in projects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474216535_deoonb_HJzouNEXMAAzDtQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23553,
     "content": "Ultra-realistic fashion editorial portrait, pixar-inspired 3D cute stylish person with exact facial identity from reference photo Wearing {argument name=\"outfit\" default=\"oversized creamy hoodie and matching oversized pant\"}, sitting casually and leaning confidently on {argument name=\"prop\" default=\"giant scrambled vertical 3D white letters spelling “PROMPTBIT”\"} in a clean minimalist studio. Relaxed confident pose, warm slight smile, natural proportions, realistic skin texture, soft cinematic studio lighting, ultra clean neutral gray background, high-end editorial photography aesthetic. Around the giant letters are multiple tiny {argument name=\"style\" default=\"chibi versions\"} of the same character in cute Pixar-style 3D design, scattered naturally on every letter and around the composition. Each chibi has different funny poses and expressions: thumbs up, peace sign, sunglasses cool pose, lying down, cheek pose, laughing, shy pose, playful wink, finger point, sitting casually. One chibi appears peeking from behind the character’s back and shoulder as if popping out mischievously. Composition balanced and dynamic, high detail, ultra sharp focus, soft shadows, glossy 3D typography, clean luxury studio atmosphere, playful yet premium visual style, realistic + stylized hybrid rendering, octane render quality, disney pixar inspired, cinematic depth of field, highly detailed textures, 8k masterpiece. Generate the image in 9:16 aspect ratio, face and body exactly same as uploaded image.",
     "title": "Chibi Pixar-Style Studio Composition",

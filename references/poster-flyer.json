@@ -20,14 +20,80 @@
     "needReferenceImages": false
   },
   {
-    "id": 23567,
-    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"pale woman with platinum blonde hair, icy blue eyes\"}, wearing a white fur coat, standing in a frozen snowy landscape, breath visible in cold air, overcast soft light, dreamy and ethereal atmosphere, shallow DOF, color grade: {argument name=\"grading\" default=\"cold silver and white\"}, ultra-detailed, photorealistic",
-    "title": "Ethereal Frozen Landscape Portrait",
-    "description": "A cinematic prompt for a platinum blonde woman in a frozen landscape, featuring cold silver and white tones and ethereal atmosphere.",
+    "id": 23745,
+    "content": "Flat illustration: {argument name=\"subject\" default=\"fishing boat\"} at {argument name=\"time of day\" default=\"sunset\"}",
+    "title": "Fishing Boat Sunset Illustration",
+    "description": "A simple and moody flat illustration prompt of a fishing boat at sunset, used to compare different AI models.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780387569239_igyy0x_HJx9KoQbEAE1KvN.jpg",
-      "https://cms-assets.youmind.com/media/1780387569352_mtvqp2_HJx9KoOa4AAQs5H.jpg",
-      "https://cms-assets.youmind.com/media/1780387569291_yl79hu_HJx9KoPasAAuedG.jpg"
+      "https://cms-assets.youmind.com/media/1780474214247_4acpx6_HJlNJgrXYAAQT8r.png",
+      "https://cms-assets.youmind.com/media/1780474214295_su3xe9_HJlNKd6XMAUnF5I.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23733,
+    "content": "Ultra-photorealistic vertical 4:5 summer fashion mood-board collage, arranged as a clean 2x2 grid with four cohesive frames of the same {argument name=\"subject\" default=\"young woman\"} in a sunny Italian coastal setting. Strict face and identity consistency across all four panels: same facial structure, same warm olive sun-kissed skin tone, same long dark brown hair with soft sun-lightened ends, same natural-glam makeup, same elegant Mediterranean beauty. The entire collage is unified by a vivid yellow summer color palette.\n\nPlace one large vivid yellow orchid bloom in the exact center of the collage, overlapping the borders of all four panels as a decorative editorial focal element. The orchid should be photorealistic, sharp, elegant, and harmonize with the yellow styling.\n\nOverall mood: luxury Italian summer, Amalfi Coast atmosphere, warm golden Mediterranean sunlight, glowing realistic skin, soft natural shadows, crisp facial details, clean anatomy, realistic hands, premium phone-camera editorial photography. Color palette should include vivid lemon yellow, golden honey, warm cream, white linen, sea blue, pastel Italian buildings, green shutters, and honey-colored stone. True-to-life vivid color, not oversaturated, not washed out.\n\nTop left panel: close detail fashion shot of a flowing yellow chiffon dress catching the breeze and sunlight. Show soft translucent fabric movement, elegant pleats, delicate folds, and a glimpse of layered beaded jewelry. Artful cropped framing, luxury editorial style, sunlight passing through the chiffon, shallow depth of field, dreamy but realistic.\n\nTop right panel: the same woman leaning against a sunlit white terrace ledge overlooking the Amalfi-style coastline and deep blue sea. She wears a fitted yellow satin mini slip dress with thin straps and a soft cowl neckline. Her head is tilted slightly back toward the sun, eyes softly closed or half-closed, serene and radiant. Natural elegant pose, clean body proportions, realistic hands resting on the terrace, coastline and boats softly blurred in the background.\n\nBottom left panel: the same woman walking through a charming Italian old-town street with pastel buildings, green shutters, stone pavement, potted plants, and bougainvillea flowers. She wears a yellow halter top with a small white flower detail at the neckline and flowing white linen trousers. She carries a small woven shoulder bag and holds sunglasses in one hand. Candid walking pose, natural stride, correct anatomy, realistic legs and hands, soft sunlight filtering through the street.\n\nBottom right panel: close editorial portrait of the same woman reclining against warm honey-colored stone. She wears a yellow maxi dress with a subtle tonal floral print. Her expression is soft, confident, and sensual, looking toward the camera. Golden-hour glow on her face and skin, realistic pores, luminous but natural complexion, detailed fabric texture, intimate luxury magazine feel.\n\nCamera and lighting: premium",
+    "title": "Amalfi Coast Summer Fashion Collage",
+    "description": "A sophisticated 2x2 grid collage depicting a luxury Italian summer aesthetic with identity-consistent models and a floral focal point.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474207572_bgj5td_HJ0pIV0WsAAudtM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23748,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"appearance\": \"A young woman with a smooth, sharp facial features, and captivating brown eyes with warm tone makeup. She has a voluminous, perfectly styled dark blonde wavy haircut that frames her face beautifully.\",\n      \"reference_celebrity\": \"Emma Watson\",\n      \"expression\": \"Naturally smiling, calm, confident, and direct gaze looking straight into the camera with neutral yet powerful intensity.\",\n      \"physical_details\": \"Slender build, prominent collarbones, visible upper torso with a deep V-neck opening showing clean skin texture.\"\n    },\n    \"attire\": {\n      \"garment\": \"An avant-garde, high-fashion dress featuring a plunging deep V-neckline. The fabric is a complex, pink, black, white collage pattern made entirely of abstract playing card art and vibrant graphic elements.\",\n      \"styling\": \"The collar is structurally dramatic and rigid, flaring outward into sharp, geometric wing-like shapes covered in detailed artistic illustrations.\",\n      \"headpiece\": \"A crown made from a deck of playing cards\"\n    },\n    \"pose\": {\n      \"stance\": \"Sitting comfortably on the floor, facing the camera directly with a high-fashion runway attitude.\",\n      \"arms\": \"one hand running her hand through her hair, the other on her waist\"\n    },\n    \"setting\": {\n      \"environment\": \"A surreal, highly chaotic, and abstract background entirely themed around playing cards and graphic pop art.\",\n      \"background_details\": [\n        \"Giant, oversized playing cards scattered and tilted at dynamic angles\",\n        \"A large yellow card with black club symbols prominent on the upper right\",\n        \"Abstract splatters of bold red, orange, blue, and black geometric shapes\",\n        \"Graffiti-style street art and collage elements blending into a dense, non-realistic backdrop\"\n      ]\n    },\n    \"photography_style\": {\n      \"aesthetic\": \"High-end fashion editorial photography, surrealist pop-art fusion, sharp digital illustration realism\",\n      \"lighting\": \"Studio lighting, perfectly even and bright, casting minimal shadows to emphasize the vivid colors and complex patterns on the attire and background\",\n      \"composition\": \"Centered medium shot from the waist up, perfectly symmetrical composition, eye-level angle, deep focus ensuring both the subject and the intricate background details remain sharp and vibrant\"\n    }\n  }\n}\n--ar 9:16",
+    "title": "Playing Card Fashion Queen Editorial",
+    "description": "A surrealist high-fashion editorial prompt featuring a subject in an avant-garde dress made of playing card art, with a matching card deck crown.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474216174_2ooflw_HJ0ST6CXoAEfK40.jpg",
+      "https://cms-assets.youmind.com/media/1780474216136_gb810i_HJ0PhV8X0AAxyxk.jpg",
+      "https://cms-assets.youmind.com/media/1780474216205_kta5vy_HJ0PjK1XsAAcnwv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23738,
+    "content": "Impasto oil painting, {argument name=\"brush strokes\" default=\"thick palette knife brushstrokes\"}, highly textured canvas surface, expressive painterly rendering, visible paint buildup, {argument name=\"color palette\" default=\"vibrant yet harmonious color palette\"}, bold color blocking, contemporary {argument name=\"art style\" default=\"fine art portrait style\"}, rich tonal transitions, handcrafted oil-on-canvas aesthetic, dynamic brush textures, gallery-quality artwork, impressionistic realism, tactile paint texture, artistic light interplay, loose expressive strokes, museum-grade oil painting, modern impressionist technique, high-detail traditional painting.",
+    "title": "Impasto Oil Painting Portrait Style",
+    "description": "Generates a highly textured impasto oil painting featuring thick palette knife strokes and a vibrant color blocking aesthetic for a gallery-quality fine art portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474210359_u7fuln_HJzmqKTboAAorJX.jpg",
+      "https://cms-assets.youmind.com/media/1780474210345_9kc3zm_HJzmqdnbgAA1iw3.jpg",
+      "https://cms-assets.youmind.com/media/1780474210603_ydbe59_HJzmqbDawAAXC6N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23741,
+    "content": "A premium modern {argument name=\"design\" default=\"editorial collage poster design\"}. The background features four stacked rounded panels filled with high-contrast, black and white cinematic portraits of a {argument name=\"subject\" default=\"stylish young woman named Kinza wearing sunglasses\"} in different editorial fashion poses. Overlayed sharply in the foreground is a 3D-depth full-color cutout of the same woman, Kinza, wearing an {argument name=\"outfit\" default=\"oversized white shirt with tailored black pants and dark sunglasses\"}, striking a confident fashion pose. Clean minimal layout, soft shadows, intricate depth layering, professional poster composition, Vogue style, photorealistic, 8K resolution, cinematic lighting.",
+    "title": "Modern Editorial Fashion Collage Poster",
+    "description": "A premium editorial poster design featuring a central color cutout overlaying black and white cinematic fashion portraits in a collage layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474212288_2rusv0_HJyo1qaaIAA-eOM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23728,
+    "content": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"AURA\"}\" featuring a stunning woman with warm, olive skin and striking green-hazel eyes looking directly at the camera. Her dark hair is styled into an elegant, intricate braided updo, adorned with a delicate, bronze-toned filigree headpiece integrated with organic elements like moss, tiny dried flowers, and small glowing amber orbs. She wears a high-collared, cream-colored structured gown detailed with geometric bronze embroidery and transparent, terrarium-like glass pockets on the collar and shoulders that house miniature ecosystems of soil and dried flora. Her hand, featuring intricate bronze rings, rests gently near her collarbone. The overall aesthetic blends futuristic organic sci-fi with high-end sustainable luxury, set against a clean, off-white studio background with crisp, elegant typography overlaid on the sides.",
+    "title": "Organic Sci-Fi Magazine Cover",
+    "description": "Generates a high-fashion magazine cover titled 'AURA' featuring futuristic organic sci-fi attire with moss and amber elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474204670_cvzakt_HJygi-2XwAA22CH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23715,
+    "content": "Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus. A real-life {argument name=\"object\" default=\"EVERYDAY OBJECT\"} is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper. The {argument name=\"object role\" default=\"OBJECT\"} represents {argument name=\"scene context\" default=\"CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.\"}, cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way. Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.",
+    "title": "Real Object and Doodle Composite",
+    "description": "A creative template for blending real-life everyday objects into hand-drawn cartoon illustrations for artistic visual puns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780474196525_bzo22i_HJyXZGJWsAANjoS.jpg",
+      "https://cms-assets.youmind.com/media/1780474196492_v8tjxr_HJyXZI0XoAAnQLT.jpg",
+      "https://cms-assets.youmind.com/media/1780474196529_vs4j4u_HJyXZKQXQAAXqrN.jpg",
+      "https://cms-assets.youmind.com/media/1780474197532_v7z0gp_HJyXZOkXkAAsEcs.jpg"
     ],
     "needReferenceImages": false
   },
