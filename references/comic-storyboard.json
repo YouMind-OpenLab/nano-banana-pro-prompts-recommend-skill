@@ -1,5 +1,28 @@
 [
   {
+    "id": 23899,
+    "content": "A Renaissance-style oil painting portrait of an {argument name=\"subject\" default=\"elegant noblewoman with pale skin and an aristocratic bearing\"}, captured with oil on canvas textures and subtle craquelure. The woman is depicted in various poses within a classic scholar's study or library, featuring a background with a latticed window overlooking a garden, heavy drapes, a landscape tapestry, and a wooden table adorned with a terrestrial globe, a small golden griffin statue, and leather-bound books. Her intricate, elaborately braided and curled hair is adorned with delicate pearl strands and jeweled tiaras. She wears a series of luxurious, {argument name=\"dress colors\" default=\"heavy velvet gowns in deep emerald green, rich royal blue, and regal burgundy tones\"}. The dresses are heavily detailed with exquisite {argument name=\"embroidery\" default=\"gold and silver embroidery, pearl accents, embedded gemstones, lace ruffs, and high collars\"}, embodying the opulent fashion of high-born Renaissance royalty.",
+    "title": "Renaissance Noblewoman Oil Portrait",
+    "description": "An artistic prompt that simulates a Renaissance-style oil painting of a noblewoman, complete with historical textures and opulent attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560153410_dki4pv_HJ4iIkSXkAA8dAK.jpg",
+      "https://cms-assets.youmind.com/media/1780560153322_edtyv9_HJ4iCFoWEAAXKEo.jpg",
+      "https://cms-assets.youmind.com/media/1780560153383_pbu11m_HJ4iH69X0AAidqA.jpg",
+      "https://cms-assets.youmind.com/media/1780560154071_2zcq6y_HJ4iKzHXUAAmUAe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23882,
+    "content": "Anime graphic novel @ image illustration, hyper-detailed linework, cel-shading. High-angle bird's-eye view, looking down at a {argument name=\"subject\" default=\"confident man looking up\"}. Wearing {argument name=\"clothing\" default=\"round yellow-tinted glasses, open dark navy oversized jacket, loose white shirt, tan wide-leg trousers, brown boots, diagonal bag strap\"}. Wind-blown hair. {argument name=\"background\" default=\"Vivid electric yellow background with energy burst, floating shattered teal stone fragments, jagged yellow lightning fractures\"}. Flat overhead lighting, bold ink outlines, dynamic complementary color palette.",
+    "title": "Anime Graphic Novel Man Illustration",
+    "description": "An anime-style graphic novel prompt featuring a bird's-eye view of a character with dynamic lighting and bold ink outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560146477_qpuv14_HJ4aTVxXUAAho7A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23725,
     "content": "Ultra-photorealistic editorial collage arranged as a 5x3 backstage fashion week contact sheet. Fifteen photographs capture the same striking {argument name=\"subject\" default=\"young woman\"} throughout a hectic runway day with perfect identity consistency. Same facial structure, sharp jawline, expressive eyes, realistic skin texture, subtle luxury makeup, natural hair strands, identical appearance in every frame.\n\nShe wears a structured black tailored blazer over a minimalist silk outfit, paired with designer accessories and runway-ready styling. Hair is styled into a sleek fashion-week look.\n\nEach frame captures a different backstage moment:\n\n* Makeup artist making final touch-ups.\n* Reviewing looks in front of illuminated mirrors.\n* Walking through crowded backstage corridors.\n* Speaking with designers.\n* Adjusting jewelry.\n* Looking through garment racks.\n* Sitting quietly before the show.\n* Fast-paced candid moments between preparations.\n* Reflection shots through mirrors.\n* Runway entrance anticipation.\n* Close beauty portraits.\n* Walking beneath spotlights.\n* Looking over shoulder backstage.\n* Checking notes and schedules.\n* Final confident portrait before stepping onto the runway.\n\nEnvironment filled with makeup stations, bright vanity bulbs, clothing racks, photographers, assistants, models, and fashion industry energy.\n\nPhotography style: documentary fashion photography, magazine contact sheet aesthetic, realistic flash photography, Leica and medium-format camera look, authentic behind-the-scenes storytelling.\n\nColor palette: black, silver, cream, warm skin tones, bright backstage lighting.\n\nNegative Prompt:\nflowers, studio backdrop, fantasy, CGI, illustration, plastic skin, duplicate poses, bad anatomy, watermark, text, blurry faces.",
     "title": "Fashion Week Backstage Contact Sheet",

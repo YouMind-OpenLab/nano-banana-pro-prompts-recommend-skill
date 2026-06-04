@@ -1,5 +1,49 @@
 [
   {
+    "id": 23888,
+    "content": "8K ultra-realistic cinematic. Turn this photo into a {argument name=\"target\" default=\"character figure\"}. Behind it, place a box with the character's image printed on it, and a computer showing the blender modeling process on its screen. In front of the box, and a round plastic base with the character figure standing on it. Set the scene indoors",
+    "title": "Character Figure Product Photography Setup",
+    "description": "A prompt to transform a photo into a character figure unboxing scene, including packaging and 3D modeling screens.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560149336_xupf7x_HJ4wjUta8AAE5US.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23893,
+    "content": "Hyper-realistic miniature diorama of {argument name=\"location\" default=\"[TV LOCATION]\"}, the building fills 70% of the frame, shot from a close elevated isometric angle, tilt-shift lens blur on foreground and background creating a miniature toy effect, golden hour warm lighting, highly detailed scale model aesthetic, surrounding environment visible but soft and secondary, large prominent {argument name=\"logo\" default=\"[TV SHOW LOGO]\"} in the top-left corner taking up 30% of image width, photorealistic render, cinematic quality, 4K, 4:5 aspect ratio",
+    "title": "Hyper-Realistic Miniature Diorama Creator",
+    "description": "Generates a tilt-shift miniature toy effect of iconic locations, complete with warm golden hour lighting and custom show logos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560150925_4ncnp0_HJ4oWGTW0AEf_0X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23909,
+    "content": "A cinematic, hyper-realistic {argument name=\\\"theme\\\" default=\\\"cyberpunk soccer scene\\\"} set in a sprawling, rain-slicked futuristic metropolis at night. The environment features towering skyscrapers covered in massive glowing neon billboards, holographic displays, digital circuitry patterns etched into the ground, and flying cars streaking through the sky with light trails. A world-class professional {argument name=\\\"subject\\\" default=\\\"soccer player\\\"} is captured in a dynamic action pose—dribbling or kicking a soccer ball that surges with matching kinetic energy streaks and electrical currents. The player wears a custom futuristic tech-wear jersey adorned with glowing neon circuit patterns, their name, and number. The entire scene is unified by a distinct, vibrant {argument name=\\\"color scheme\\\" default=\\\"electric blue\\\"} that bathes the player and the city in a single dominant glowing light, creating a high-energy, sci-fi athletic aesthetic.",
+    "title": "Cyberpunk Futuristic Soccer Scene",
+    "description": "A high-energy prompt for a cyberpunk-themed soccer player in a rainy futuristic metropolis with neon accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560160396_iug2yc_HJ3-cWRWAAAJfky.jpg",
+      "https://cms-assets.youmind.com/media/1780560159800_5n89bh_HJ3-cPMWIAAk5nz.jpg",
+      "https://cms-assets.youmind.com/media/1780560159822_kfofz8_HJ3-cWYXgAIa5QG.jpg",
+      "https://cms-assets.youmind.com/media/1780560161384_08znf7_HJ3-de0XcAAUNI9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23886,
+    "content": "{\n \"task\": \"image_style_transfer_3d_character\",\n \"input\": {\n \"source_image\": \"USER_UPLOADED_IMAGE\",\n \"preserve_identity\": true,\n \"preserve_pose\": true,\n \"preserve_composition\": true\n },\n \"style_reference\": {\n \"render_style\": \"{argument name=\"render style\" default=\"stylized_3d_character\"}\",\n \"aesthetic\": \"{argument name=\"aesthetic\" default=\"soft_minimal_cartoon_3d\"}\",\n \"inspiration\": [\n \"pixar_like_but_more_minimal\",\n \"toy_figure_render\",\n \"clean_product_character_design\"\n ]\n },\n \"character_design\": {\n \"skin\": {\n \"material\": \"smooth_matte_plastic\",\n \"texture\": \"soft_uniform\",\n \"subsurface_scattering\": \"gentle\"\n },\n \"facial_features\": {\n \"eyes\": \"half_closed_bored_expression\",\n \"eyelids\": \"heavy\",\n \"nose\": \"rounded_simplified\",\n \"mouth\": \"flat_neutral\",\n \"ears\": \"simplified_rounded\"\n },\n \"emotion\": \"unimpressed_calm_bored\"\n },\n \"clothing\": {\n \"style\": \"minimal_streetwear\",\n \"details\": \"no_logos_no_patterns\",\n \"fabric\": \"soft_matte\"\n },\n \"accessories\": {\n \"headwear\": \"simple_baseball_cap_optional\",\n \"ear_accessories\": \"wireless_earbuds_optional\"\n },\n \"lighting\": {\n \"setup\": \"studio_softbox\",\n \"shadows\": \"very_soft\",\n \"contrast\": \"low\",\n \"highlights\": \"subtle\"\n },\n \"background\": {\n \"type\": \"solid_color\",\n \"color_palette\": [\n \"muted_pink\",\n \"pastel_tone\"\n ],\n \"gradient\": \"none\"\n },\n \"camera\": {\n \"angle\": \"front_facing\",\n \"framing\": \"medium_close_up\",\n \"lens\": \"50mm_equivalent\",\n \"distortion\": \"none\"\n },\n \"render_quality\": {\n \"resolution\": \"high\",\n \"edges\": \"clean\",\n \"noise\": \"none\",\n \"realism_balance\": \"stylized_over_realistic\"\n },\n \"output\": {\n \"consistency\": \"high\",\n \"style_strength\": \"strong\",\n \"photorealism\": false\n }\n}",
+    "title": "Minimalist 3D Character Style Transfer",
+    "description": "A JSON-based instruction for transforming an image into a stylized, minimalist 3D character with Pixar-inspired aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560148313_q59w1h_HJ2Yp_sXsAAcnY8.jpg",
+      "https://cms-assets.youmind.com/media/1780560148406_jybul3_HJ2Yp_OW4AA2N1B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23731,
     "content": "A haunting dark fantasy portrait featuring a solitary hooded figure in long, flowing dark robes astride a majestic black horse. The figure's face is completely obscured by the deep hood, creating an air of mystery and ominous presence. The horse is sleek and powerful, rendered entirely in black tones with visible flowing mane and tail.\nThe setting is a dramatic mountain canyon or gorge with towering cliff walls rising on both sides, creating a natural frame that emphasizes the isolation and grandeur of the scene. The entire landscape is shrouded in thick, rolling mist and fog that swirls around the figure and horse, creating an ethereal, supernatural quality.\nAtmospheric and lighting characteristics:\nDense fog and mist that obscures the upper portions of the cliffs and fills the canyon\nMonochromatic color palette: Deep blacks, charcoal grays, and pale whites/silvers\nLow-key, cinematic lighting creating dramatic contrast and shadows\nOvercast, gloomy sky visible through the mist\nGround level perspective: Rocky, desolate terrain beneath the horse and rider\nVolumetric fog effects: Mist appears to move and flow, adding depth and atmosphere\nKey emotional and thematic elements:\nMysterious and ominous tone: The obscured figure suggests unknown intent\nSolitude and isolation: Single traveler in vast, forsaken landscape\nDark fantasy aesthetic: Medieval, mythological, or supernatural in nature\nCinematic drama: Resembles concept art or fantasy film imagery\nGothic mood: Melancholic, haunting, introspective darkness\nPhotography/art style: Dark fantasy concept art with cinematic lighting and atmospheric fog effects; reminiscent of medieval fantasy, witcher-style aesthetics, or gothic storytelling",
     "title": "Haunting Dark Fantasy Rider",

@@ -10,6 +10,113 @@
     "needReferenceImages": false
   },
   {
+    "id": 23904,
+    "content": "Ultra realistic cinematic lakeside portrait photo of {argument name=\\\"person\\\" default=\\\"[REFERENCE PERSON]\\\"}, preserve the exact facial identity, facial structure, skin texture, hairstyle, eye shape, lips, and overall likeness from the reference image with extremely high identity accuracy. Scene composition identical to the reference scene: a beautiful woman sitting on the edge of a rustic wooden dock beside a calm lake during golden hour sunset, soft warm sunlight, natural reflections in the water, lush green reeds in the background, overhanging tree leaves at the top frame, shallow depth of field, creamy bokeh forest background. Subject pose: seated sideways on the dock with legs extended naturally over the water, looking downward softly toward an {argument name=\\\"animal\\\" default=\\\"orange ginger cat\\\"} beside her, relaxed elegant posture, candid feminine mood. Outfit: {argument name=\\\"clothing\\\" default=\\\"light pink floral summer dress\\\"} with thin straps, flowing fabric, delicate details, natural folds, realistic texture. Environment must remain almost identical to the original image: same wooden pier style, same lakeside atmosphere, same lighting direction, same framing, same cinematic composition, same peaceful aesthetic. Photography style: DSLR realism, 85mm portrait lens, f/1.8 aperture, ultra detailed skin, realistic hair strands, natural body proportions, soft shadows, cinematic color grading, photorealistic, high dynamic range, editorial fashion photography. Important: replace ONLY the woman’s identity with the exact reference person while keeping the background, pose, camera angle, lighting, dress style, cat, dock, and overall composition highly consistent with the original image. No stylization, no AI artifacts, no distorted anatomy, no extra fingers, no face asymmetry. Identity fidelity priority: extremely high. Background consistency priority: extremely high.",
+    "title": "Lakeside Portrait Identity Swap",
+    "description": "A highly detailed prompt for maintaining identity fidelity and scene consistency while generating a cinematic lakeside portrait with a cat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560157361_hkt236_HJ0AikZbMAAkpBK.jpg",
+      "https://cms-assets.youmind.com/media/1780560156059_md8x0a_HJ0AikPa4AA9WqO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23900,
+    "content": "{\n  \"prompt\": \"Ultra-realistic lifestyle portrait of a {argument name=\\\"subject\\\" default=\\\"young woman with long wavy red hair\\\"} sitting casually on a wooden riverside bench during golden hour. She wears a {argument name=\\\"outfit\\\" default=\\\"soft lavender velour tracksuit\\\"} (zip-up hoodie and joggers) with clean white sneakers. She is smiling warmly at the camera with her head resting gently on one hand. The scene takes place on a {argument name=\\\"location\\\" default=\\\"modern waterfront promenade\\\"} with cyclists and pedestrians in the background. A city skyline rises across the river, featuring a tall telecommunications tower. Warm sunset light creates beautiful rim lighting in her hair and long shadows across the pavement. Subtle film-burn effect along the left edge of the frame, shallow depth of field, natural skin texture, realistic facial features, editorial travel photography, candid urban lifestyle aesthetic, highly detailed, photorealistic.\",\n  \"negative_prompt\": \"blurry, low quality, distorted face, extra limbs, extra fingers, bad anatomy, overprocessed skin, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noise, duplicate people, cropped feet, unnatural pose\",\n  \"style\": \"photorealistic\",\n  \"camera\": {\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/2.0\",\n    \"angle\": \"slightly low eye-level portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \"lighting\": {\n    \"type\": \"golden hour sunlight\",\n    \"direction\": \"backlit with warm side fill\",\n    \"mood\": \"friendly, relaxed, cinematic\"\n  },\n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_position\": \"center foreground seated on bench\",\n    \"background\": \"riverfront promenade, cyclists, skyline, telecommunications tower\"\n  },\n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "title": "Realistic Redhead Lifestyle Portrait",
+    "description": "A detailed prompt for generating a photorealistic lifestyle portrait of a woman in a lavender tracksuit during golden hour at a riverfront.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560154170_o6efjj_HJ5YhfIbIAAUasc.jpg",
+      "https://cms-assets.youmind.com/media/1780560154238_e52fae_HJ5YhetawAA0KRj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23887,
+    "content": "Preserve as much of my image as possible and make it photorealistic",
+    "title": "Photorealistic Image Preservation Prompt",
+    "description": "A simple but effective prompt for Nano Banana to preserve image content while applying photorealistic enhancement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560148662_h20i5d_HJ5O_AcWoAAwGSx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23895,
+    "content": "Use the facial features from the reference image exactly.\nUltra-realistic iPhone portrait photo of a {argument name=\"subject\" default=\"young woman\"}, photographed on a city street at night. She has a defined jawline, striking eyes, long dark lashes, sharp brows, a small straight nose, and natural soft full lips. Voluminous dark brown wavy hair falls over her shoulders.\nShe wears a {argument name=\"outfit\" default=\"fitted black ribbed crop top, an oversized dark bomber jacket slipping naturally off one shoulder\"}, large gold hoop earrings, a black choker, and a delicate layered chain necklace.\nMakeup: Clear skin, perfectly groomed eyebrows, elegantly defined eyeliner, rosy peach blush, peach-brown lips, and highlighter to accentuate her features.\nShot as a medium close-up on an iPhone 16 Pro, vertical framing, slight angle toward the camera, direct eye contact, relaxed confident expression. Warm streetlights create soft golden highlights across her face and shoulder, while the background melts into natural amber bokeh from distant city lights. Real skin texture, visible pores, authentic lighting falloff, realistic fabric details, natural hair strands, shallow depth of field, candid editorial street photography.\n\nPhotorealistic, indistinguishable from a real photograph, DSLR-level detail, no CGI, no digital art look, no illustration, no painting, no anime, no beauty-filter effect, genuine smartphone camera realism.",
+    "title": "Ultra-Realistic Night Street Portrait",
+    "description": "An iPhone-style photography prompt that uses facial features from a reference to create an authentic nighttime urban portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560152056_52odln_HJ4cEI0WUAAL3VO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23896,
+    "content": "A photo collage showcasing diverse portraits of expressive young women with highly detailed, natural features, prominent blushing cheeks, and subtle freckles. The first is a {argument name=\"mood one\" default=\"joyful blonde girl with a wide, candid laugh\"} outdoors in soft sunlight. The second is a {argument name=\"mood two\" default=\"pensive girl with short, wavy auburn hair\"} resting her chin on her hand in front of a warm, blurry bookshelf backdrop. The third shows a {argument name=\"mood three\" default=\"serene girl with dark, curly hair\"} looking slightly away against a background of soft bokeh lights. The fourth features a smiling girl with a messy blonde updo tinged with pink highlights, flashing a peace sign outdoors. The fifth captures a calm woman with long, dark hair and closed eyes, smiling gently while resting her face on her hand in a cozy indoor setting. The final image shows an energetic girl with pigtails mid-jump, arms outstretched, screaming with pure excitement against a sunset sky. The entire collection has a cinematic, warm-toned, and hyper-realistic aesthetic with a soft focus.",
+    "title": "Diverse Portrait Mood Collage",
+    "description": "A comprehensive prompt for a photo collage featuring six different emotional portraits of women, ranging from joyful to pensive.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560152080_q4sdiv_HJ3mg6EWoAAmkou.jpg",
+      "https://cms-assets.youmind.com/media/1780560151737_malq0c_HJ3mg1GWIAAnjQ_.jpg",
+      "https://cms-assets.youmind.com/media/1780560151691_xsx3ej_HJ3mg6FWQAAGHyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23889,
+    "content": "A 3D digital illustration of a beautiful young girl with black hair tied up in a messy bun, sitting cross-legged against a solid pitch-black background. She is wearing large over-ear headphones, a stylish off-shoulder black sweatshirt, grey baggy sweatpants, and white sneakers. She is looking down at her smartphone with a soft, peaceful smile. Subtle white glowing music notes, a tiny heart, and abstract sound waves float gently around her. Dreamy anime aesthetic, soft cinematic lighting, ultra-clean details, 8K resolution. A hyper-realistic cinematic photo of a beautiful young girl with messy black hair tied in a high bun, sitting cross-legged. She is wearing a premium off-shoulder black knit sweater, relaxed-fit grey fleece joggers, and clean white leather sneakers. She wears large matte-black headphones, looking down at her phone with a gentle smile. Shot on an 85mm lens with a shallow depth of field against a minimalist dark studio background. Soft volumetric lighting highlighting her features, professional editorial fashion aesthetic, 8K resolution, photorealistic. A high-quality 3D digital illustration of a beautiful young girl with black hair in a messy bun, sitting cross-legged and smiling as she looks down at her smartphone. She is wearing large over-ear headphones, a stylish off-shoulder black sweatshirt, grey baggy sweatpants, and white sneakers. Floating around her head are subtle, glowing white line-art music notes, a small heart symbol, and abstract sound waves, all set against a solid pitch-black background. The art style is a blend of anime aesthetic with realistic lighting and texture, featuring very soft cinematic lighting and ultra-clean details. The resolution is 8K, captured in a square 1:1 aspect ratio.",
+    "title": "3D Anime Girl with Headphones",
+    "description": "A high-quality 3D digital illustration of a girl with headphones and floating musical notes against a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560149393_lqddlo_HJ3bA2yagAA-iOF.jpg",
+      "https://cms-assets.youmind.com/media/1780560149402_n4mvq0_HJ3bA4-a8AAkdAI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23910,
+    "content": "Recreate a vintage retro photo in a {argument name=\"style\" default=\"hyper-realistic\"} manner; completely preserve the original face (no changes). Use natural lighting, updated {argument name=\"colors\" default=\"vibrant colors\"}, and smooth, realistic skin textures to convert it into a modern high-quality digital portrait.",
+    "title": "Vintage Photo Digital Restoration",
+    "description": "An instruction to restore old, vintage, or damaged photographs into hyper-realistic modern digital portraits while preserving the original facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560162656_cddj5x_HJ3BekhbwAAdbYQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23908,
+    "content": "Generate a high-resolution professional ID photo with a {argument name=\"background\" default=\"clean white background\"}. The person is centered and well-lit, showing clear and natural skin texture. Soft, evenly distributed makeup subtly highlights facial features without looking unnatural. Dressed in {argument name=\"attire\" default=\"tidy business wear\"} with well-groomed hair and a {argument name=\"expression\" default=\"calm and confident\"} facial expression. The lighting is even without harsh shadows, ensuring a clear and natural appearance of the face.",
+    "title": "Professional ID Photo Generator",
+    "description": "A prompt for generating high-quality, professional identification photos with clean backgrounds and natural lighting, suitable for business or official use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560160497_xbsb5d_HJ3BeG6aAAAYYiv.jpg",
+      "https://cms-assets.youmind.com/media/1780560160494_iqgjsh_HJ3BeQKaoAAiirA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23881,
+    "content": "Full-body photograph of a smiling, attractive young woman with {argument name=\"hair style\" default=\"long, straight dark brown hair parted down the middle\"}, walking forward on a sun-dappled city sidewalk. She is wearing a {argument name=\"top\" default=\"light pink sleeveless top with delicate floral and butterfly embroidery\"}, tucked into fitted medium-wash blue skinny jeans secured with a thin black leather belt. She coordinates her outfit with white sneakers and carries a small white shoulder bag over her right arm.\n\n​The scene is captured from a straight-on eye-level angle, showing her in full motion. The background features a {argument name=\"location\" default=\"charming urban street with colonial-style white buildings, dark wrought-iron window grates, a small outdoor cafe with patrons blurred in the distance, lush green trees casting soft shadows, and a vintage silver sedan parked on the side of the road\"}.\n\n​Natural, bright afternoon sunlight filters through the tree canopy, creating a dappled light effect across the pavement and her clothes. Shot on a DSLR camera, 35mm lens, f/2.8 aperture for a subtle background blur, hyper-realistic skin texture, vivid colors, and a clean, candid lifestyle aesthetic.",
+    "title": "Woman Walking on City Sidewalk",
+    "description": "A detailed lifestyle prompt for generating a full-body photograph of a woman walking through a sun-lit city, captured with professional DSLR settings for a candid look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560146279_quv8ux_HJ2zDXtXkAAJXqr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23886,
+    "content": "{\n \"task\": \"image_style_transfer_3d_character\",\n \"input\": {\n \"source_image\": \"USER_UPLOADED_IMAGE\",\n \"preserve_identity\": true,\n \"preserve_pose\": true,\n \"preserve_composition\": true\n },\n \"style_reference\": {\n \"render_style\": \"{argument name=\"render style\" default=\"stylized_3d_character\"}\",\n \"aesthetic\": \"{argument name=\"aesthetic\" default=\"soft_minimal_cartoon_3d\"}\",\n \"inspiration\": [\n \"pixar_like_but_more_minimal\",\n \"toy_figure_render\",\n \"clean_product_character_design\"\n ]\n },\n \"character_design\": {\n \"skin\": {\n \"material\": \"smooth_matte_plastic\",\n \"texture\": \"soft_uniform\",\n \"subsurface_scattering\": \"gentle\"\n },\n \"facial_features\": {\n \"eyes\": \"half_closed_bored_expression\",\n \"eyelids\": \"heavy\",\n \"nose\": \"rounded_simplified\",\n \"mouth\": \"flat_neutral\",\n \"ears\": \"simplified_rounded\"\n },\n \"emotion\": \"unimpressed_calm_bored\"\n },\n \"clothing\": {\n \"style\": \"minimal_streetwear\",\n \"details\": \"no_logos_no_patterns\",\n \"fabric\": \"soft_matte\"\n },\n \"accessories\": {\n \"headwear\": \"simple_baseball_cap_optional\",\n \"ear_accessories\": \"wireless_earbuds_optional\"\n },\n \"lighting\": {\n \"setup\": \"studio_softbox\",\n \"shadows\": \"very_soft\",\n \"contrast\": \"low\",\n \"highlights\": \"subtle\"\n },\n \"background\": {\n \"type\": \"solid_color\",\n \"color_palette\": [\n \"muted_pink\",\n \"pastel_tone\"\n ],\n \"gradient\": \"none\"\n },\n \"camera\": {\n \"angle\": \"front_facing\",\n \"framing\": \"medium_close_up\",\n \"lens\": \"50mm_equivalent\",\n \"distortion\": \"none\"\n },\n \"render_quality\": {\n \"resolution\": \"high\",\n \"edges\": \"clean\",\n \"noise\": \"none\",\n \"realism_balance\": \"stylized_over_realistic\"\n },\n \"output\": {\n \"consistency\": \"high\",\n \"style_strength\": \"strong\",\n \"photorealism\": false\n }\n}",
+    "title": "Minimalist 3D Character Style Transfer",
+    "description": "A JSON-based instruction for transforming an image into a stylized, minimalist 3D character with Pixar-inspired aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560148313_q59w1h_HJ2Yp_sXsAAcnY8.jpg",
+      "https://cms-assets.youmind.com/media/1780560148406_jybul3_HJ2Yp_OW4AA2N1B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23721,
     "content": "Create an ultra premium studio portrait using the uploaded person’s REAL face, hairstyle, beard style, and facial identity. Do NOT copy the reference model’s facial features or hair. Preserve the uploaded person’s natural appearance completely.\n\nMatch only the EXACT sitting pose, body angle, hand placement, camera framing, composition, and relaxed posture from the reference image. Maintain the same modern editorial studio aesthetic and confident lifestyle vibe.\n\nDress the person in a luxurious {argument name=\"sweater color\" default=\"olive green\"} knitted sweater paired with tailored {argument name=\"trousers color\" default=\"beige\"} trousers. The background should be a smooth warm {argument name=\"backdrop style\" default=\"terracotta-to-soft sand gradient\"} studio backdrop that perfectly complements the outfit tones and creates a premium harmonious color palette.\n\nLighting should be soft professional studio lighting with subtle warm highlights, realistic shadows, cinematic depth, and clean luxury contrast. Keep the mood minimal, modern, stylish, and highly Instagram-worthy.\n\nUltra realistic skin texture, natural body proportions, premium fashion photography style, shallow depth of field, soft background blur, realistic fabric texture, luxury creator-brand photoshoot aesthetic.\n\nShot on Sony A7 IV, 50mm lens, f/2.2, photorealistic, ultra detailed, high-end color grading, editorial magazine quality, 8k.",
     "title": "Premium Editorial Studio Portrait",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 23892,
+    "content": "A full-length, straight-on studio photograph of the smiling {argument name=\"subject\" default=\"young woman with wavy brown hair and glasses\"} from image_9.png, standing in front of a clean, neutral {argument name=\"background color\" default=\"cream-colored\"} wall. She is wearing the identical outfit: a {argument name=\"top\" default=\"pink and white gingham peplum top with shoulder-tie straps and a scalloped white lace hem\"}, beige wide-leg linen trousers, and white low-top sneakers. She is carrying the same small straw crossbody bag. The pose and lighting are preserved from image_9.png. The background is minimalist, focusing entirely on the model and her attire.",
+    "title": "Minimalist Studio Fashion Portrait",
+    "description": "A studio photography prompt designed for fashion consistency, focusing on neutral backgrounds and precise outfit details based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560150781_xh95nv_HJ3DGgRXcAA4p4s.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23713,
     "content": "Hyper realistic edible version of uploaded product,preserve exact original shape, proportions and silhouette, product fully intact and uncut, surface transformed into soft matte mousse texture, natural sponge-like edible detailing, no glossy or shiny finish, subtle velvet spray coating, straight front view, eye-level camera angle, camera positioned directly in front of the product, centered symmetrical composition\nnatural soft daylight coming from a nearby window, realistic gentle shadows, placed on a wooden or beige marble table, soft neutral linen fabric background, bright natural lighting, not overexposed, shallow depth of field, macro lens photography, premium yet natural dessert styling, hand holding a simple spoon close to the surface but not cutting, ultra realistic, 8k high detailfinal image in 3:4.Turn the uploaded product into a hyper realistic edible cake, preserve exact shape and front view. Soft matte mousse texture, no gloss.Natural daylight setting.A spoon gently cuts one edge, surface breaks softly, inside reveals layered sponge cake and cream.Slow smooth motion, macro lens, ultra realistic.",
     "title": "Edible Product Transformation",

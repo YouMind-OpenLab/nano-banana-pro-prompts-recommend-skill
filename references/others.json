@@ -13,6 +13,28 @@
     "needReferenceImages": true
   },
   {
+    "id": 23907,
+    "content": "A cinematic, highly detailed dual portrait showcasing two distinct men captured in an identical moody, atmospheric setting. Both men are looking slightly away from the camera with pensive, intense expressions, positioned next to a rustic, sunlit window. Golden hour sunlight streams through the glass panes, casting sharp, textured shadows and a warm glow across their faces, hair, and clothing. They are both wearing matching, {argument name=\\\"outfit\\\" default=\\\"dark charcoal-colored button-down shirts\\\"}. The first man features {argument name=\\\"hair style 1\\\" default=\\\"wavy, styled dark hair\\\"}, a clean-shaven face with light stubble, sharp jawline features, and striking hazel-green eyes. The second man features {argument name=\\\"hair style 2\\\" default=\\\"short, neatly styled dark hair\\\"}, a full, well-groomed beard and mustache, and intense brown eyes. The background is dimly lit and dark, creating a dramatic, high-contrast chiaroscuro effect that emphasizes the hyper-realistic skin textures, fine facial details, and emotional depth of both subjects.",
+    "title": "Moody Dual Portrait at Golden Hour",
+    "description": "A dramatic, high-contrast prompt for a dual portrait of two men in matching dark shirts by a sunlit window.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560161143_cujhdu_HJ5jKGQWcAABASz.jpg",
+      "https://cms-assets.youmind.com/media/1780560159698_od6o4h_HJ5jKKRWkAAcnmy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23891,
+    "content": "A medium shot of a {argument name=\"subject\" default=\"young woman with wavy light brown hair and wispy bangs\"} standing on a rocky coastal cliff at sunset, looking directly into the camera with a calm, serene expression. She is wearing a {argument name=\"outerwear\" default=\"deep reddish-brown leather trench coat\"}, a dark blue sweater, and high-waisted white trousers with a brown belt. The background features a dramatic, churning ocean with white waves crashing against the cliffs, under a {argument name=\"sky\" default=\"vibrant sunset sky filled with deep purple and orange clouds\"}. In the distance, small stone statues are nestled into the cliffside, and a subtle artist signature block is visible on the right. The style seamlessly blends the cinematic, highly detailed realism of a photograph with the smooth shading, clean line art, and vibrant colors of a modern anime or digital illustration style.",
+    "title": "Anime Style Coastal Sunset Portrait",
+    "description": "A cinematic prompt that blends realistic photography with modern anime aesthetics to create a serene sunset portrait of a woman on a rocky cliff.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560150616_wmgub1_HJ44MR1WoAAnpvx.jpg",
+      "https://cms-assets.youmind.com/media/1780560150602_w0w0k8_HJ44M8VWEAAu88z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23385,
     "content": "A high-fashion, ultra-realistic portrait of a {argument name=\"subject\" default=\"beautiful young South Asian woman\"} standing confidently in a dramatic studio environment. She has long, voluminous black hair styled in soft waves, flawless skin, and subtle glamorous makeup. She wears stylish black sunglasses, an {argument name=\"outfit\" default=\"oversized beige-and-cream plaid button-up shirt with rolled sleeves, loose-fit light-wash baggy denim jeans with a silver chain accessory, and trendy white sneakers\"}.\nShe poses with one hand gently touching the back of her neck while looking slightly downward, creating a confident, mysterious, and editorial fashion mood.\nThe {argument name=\"background\" default=\"background features an abstract, organic black glossy structure resembling intertwined liquid branches or artistic resin formations spreading across a deep crimson-red backdrop\"}. The reflective black floor mirrors both the subject and the intricate background elements, enhancing the luxurious cinematic atmosphere.\nFull-body shot, centered composition, professional fashion photography, dramatic studio lighting, rich contrast, sharp focus, hyper-realistic skin texture, detailed fabric folds, glossy reflections, luxury editorial aesthetic, high-end magazine cover style, cinematic depth, ultra-detailed, photorealistic, 8K quality.",
     "title": "South Asian Fashion Editorial in Red Studio",

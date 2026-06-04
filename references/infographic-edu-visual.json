@@ -56,6 +56,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 23880,
+    "content": "Introduce the characters in the photo and generate an artistic photo of different perspectives of the {argument name=\"subject\" default=\"Chinese rural fields\"} in a {argument name=\"layout\" default=\"nine-square grid\"}. The background features {argument name=\"background details\" default=\"rice paddies, blue sky, and white clouds\"}, with a slightly blurred distant view. The characters are photographed from different angles, including distant, medium, and close-up views",
+    "title": "Rural Fields Multi-Perspective Grid",
+    "description": "An artistic prompt generating a nine-square grid layout of Chinese rural fields from various camera angles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560145231_oltsdz_HJ3unhkaoAEzb3G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23911,
+    "content": "Convert this image into an {argument name=\"format\" default=\"information visualization guide\"} describing this location.",
+    "title": "Image to Infographic Guide",
+    "description": "Transforms a visual image of a location into an informative infographic or visual guide describing that place.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780560163372_nepo00_HJ3Bf2XbgAExD8e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23393,
     "content": "- A premium beverage product photograph of a {argument name=\"fruit\" default=\"mango\"} smoothie in a tall transparent glass centered against a bright tropical yellow seamless studio background. The smoothie has a rich creamy mango texture with fresh mango slices garnish, condensation droplets, and vibrant color. Soft commercial lighting creates clean reflections and realistic shadows beneath the glass. Ultra-sharp focus, premium beverage advertisement style, hyper realistic, 8K.\nAspect Ratio: 1:1\n\nCreate a hyper-realistic exploded vertical infographic composition of a mango smoothie.\nTop → Bottom structure:\nCream Foam Layer (light airy cream texture)\n→ Mango Puree Layer (rich vibrant mango texture)\n→ Fresh Mango Chunks (juicy fruit detail)\n→ Ice Cube Layer (clear realistic ice texture)\n→ Glass Base (minimal transparent glass)\nPerfect alignment, tropical yellow background, soft realistic shadows, premium beverage infographic design.\nAdd clean infographic text labels with thin pointer lines using these exact labels:\n“Cream”\n“Mango Puree”\n“Mango”\n“Ice”\n“Glass”\nUltra-realistic drink detail, premium commercial photography, 8K.\nAspect Ratio: 1:1",
     "title": "Mango Smoothie Infographic and Commercial Photography",
