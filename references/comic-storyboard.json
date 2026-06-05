@@ -1,5 +1,16 @@
 [
   {
+    "id": 24075,
+    "content": "Contemporary anime illustration of a {argument name=\"subject\" default=\"confident young woman\"} shown from the waist up, windswept hair and expressive eyes, captured in a dramatic three-quarter pose. Fashion-forward {argument name=\"outfit style\" default=\"kimono-inspired streetwear with oversized sleeves, layered fabrics, and metallic accessories\"}. Floating around her are {argument name=\"elements\" default=\"symbolic elements including cherry blossoms, paper cranes, and celestial symbols\"}. Graffiti-inspired sketchwork, energetic brush pen strokes, ink drips, splatter effects, and free-flowing calligraphic lines blend with soft watercolor pastels. White gallery-style background with generous negative space. Rich comic sketch texture, handcrafted illustration feel, emotional storytelling atmosphere, exceptional detail, polished Japanese visual novel and artbook aesthetic, ultra-high quality, vertical format.",
+    "title": "Anime Streetwear Illustration",
+    "description": "A detailed anime-style prompt combining traditional kimono elements with modern streetwear and celestial symbols for a high-quality artbook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645917889_2fwaz9_HJ-n4yPbcAE1Ovp.jpg",
+      "https://cms-assets.youmind.com/media/1780645917920_acgcfi_HJ-n4yJaoAAmlnl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23899,
     "content": "A Renaissance-style oil painting portrait of an {argument name=\"subject\" default=\"elegant noblewoman with pale skin and an aristocratic bearing\"}, captured with oil on canvas textures and subtle craquelure. The woman is depicted in various poses within a classic scholar's study or library, featuring a background with a latticed window overlooking a garden, heavy drapes, a landscape tapestry, and a wooden table adorned with a terrestrial globe, a small golden griffin statue, and leather-bound books. Her intricate, elaborately braided and curled hair is adorned with delicate pearl strands and jeweled tiaras. She wears a series of luxurious, {argument name=\"dress colors\" default=\"heavy velvet gowns in deep emerald green, rich royal blue, and regal burgundy tones\"}. The dresses are heavily detailed with exquisite {argument name=\"embroidery\" default=\"gold and silver embroidery, pearl accents, embedded gemstones, lace ruffs, and high collars\"}, embodying the opulent fashion of high-born Renaissance royalty.",
     "title": "Renaissance Noblewoman Oil Portrait",

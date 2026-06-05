@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 24098,
+    "content": "Ultra-detailed cinematic portrait of a visionary young woman gazing upward in awe, her face illuminated by glowing mathematical equations, sacred geometry, scientific formulas, celestial maps, DNA helixes, and quantum symbols projected across her skin; piercing blue eyes reflecting infinite knowledge and curiosity, surrounded by a vast cosmic background filled with galaxies, nebulae, stars, and radiant energy fields. Hyper-realistic skin texture,￼ intricate luminous overlays, ethereal golden and blue lighting, futuristic science-meets-mysticism aesthetic, sharp focus, extraordinary detail, volumetric glow, depth and dimension, awe-inspiring atmosphere, masterpiece digital art, 8K ultra-high resolution, HDR, cinematic composition, perfect symmetry, vibrant colors, surreal intelligence visualization, photorealistic fantasy, award-winning concept art.￼",
+    "title": "Cosmic Science Visualization Portrait",
+    "description": "A surreal and visionary cinematic portrait featuring luminous scientific and mathematical overlays on a subject against a celestial cosmic background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645927437_rpl843_HJ-mX6obAAAHQGH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23909,
     "content": "A cinematic, hyper-realistic {argument name=\\\"theme\\\" default=\\\"cyberpunk soccer scene\\\"} set in a sprawling, rain-slicked futuristic metropolis at night. The environment features towering skyscrapers covered in massive glowing neon billboards, holographic displays, digital circuitry patterns etched into the ground, and flying cars streaking through the sky with light trails. A world-class professional {argument name=\\\"subject\\\" default=\\\"soccer player\\\"} is captured in a dynamic action pose—dribbling or kicking a soccer ball that surges with matching kinetic energy streaks and electrical currents. The player wears a custom futuristic tech-wear jersey adorned with glowing neon circuit patterns, their name, and number. The entire scene is unified by a distinct, vibrant {argument name=\\\"color scheme\\\" default=\\\"electric blue\\\"} that bathes the player and the city in a single dominant glowing light, creating a high-energy, sci-fi athletic aesthetic.",
     "title": "Cyberpunk Futuristic Soccer Scene",

@@ -21,14 +21,129 @@
     "needReferenceImages": true
   },
   {
-    "id": 23885,
-    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin tone, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity. Create an ultra-realistic anime-meets-fashion editorial portrait inspired by a premium {argument name=\"style\" default=\"Tokyo streetwear\"} campaign. The scene features me standing confidently at the center of a powerful gang-style lineup, surrounded by six elite anime-inspired characters. The composition resembles a luxury fashion magazine cover and high-end streetwear advertisement. I am positioned in the exact center, walking slightly forward with hands inside pockets, projecting confidence, leadership, dominance, and effortless charisma. My expression is calm, serious, and intimidating. My face remains fully realistic while all surrounding characters have highly detailed anime aesthetics. Outfit: {argument name=\"outfit\" default=\"long cream-white trench coat\"} with subtle embroidered black graphics, layered over a fitted black turtleneck and black luxury streetwear trousers. Multiple silver chain necklaces, rings, and accessories. Black leather belt with hanging chains. Premium black combat boots with reflective highlights. Surrounding me are six stylish anime delinquent characters arranged symmetrically: •Two crouching in the foreground •Two standing slightly behind me •Two positioned further back creating depth and hierarchy. Each character wears coordinated luxury Tokyo streetwear in black, cream, and silver tones, featuring bomber jackets, trench coats, layered necklaces, earrings, belts, straps, embroidered details, and polished combat boots. Environment: futuristic fashion runway meets underground Tokyo headquarters. Massive vertical illuminated panel behind the group creating a dramatic spotlight effect. Glossy reflective marble floor. Soft atmospheric haze. Cinematic depth. Premium editorial lighting. Lighting: luxury fashion campaign lighting, soft key light on face, subtle rim lighting, dramatic shadows, reflective highlights on clothing, high dynamic range, realistic skin reflections, premium studio photography quality. Color palette: black, ivory, cream, silver, charcoal gray, muted gold accents. Camera: low-angle full-body shot, 85mm lens, fashion editorial composition, centered symmetry, cinematic depth of field, sharp focus on me, background slightly softened. Quality: masterpiece, ultra detailed, 8K, hyper realistic, magazine-quality photography.",
-    "title": "Tokyo Streetwear Anime Editorial Lineup",
-    "description": "An ultra-realistic identity-preserving prompt that places the subject in a Tokyo streetwear campaign with anime-inspired characters.",
+    "id": 24086,
+    "content": "Use the attached image as the sole facial reference. STRICT IDENTITY PRESERVATION: Maintain the exact facial identity with maximum accuracy. Preserve facial structure, proportions, natural asymmetry, skin texture, hairstyle, hairline, eye shape, nose shape, lips, expression, and all unique facial characteristics. Do not beautify, stylize, age-shift, alter ethnicity, modify features, or reinterpret the face in any way. SCENE: A photorealistic {argument name=\"subject\" default=\"young woman\"} stands in a clean modern studio environment holding a smartphone vertically in front of her. The phone screen appears to have cracked open into a dimensional portal, creating a dramatic transition between the digital world and reality. From inside the screen, hundreds of tiny {argument name=\"doodle style\" default=\"black-ink doodle characters\"} burst into the real world. Miniature cartoon figures climb over the phone edges, swing from charging cables, ride paper airplanes, build tiny cities on nearby surfaces, chase each other across the floor, and interact with real-world objects in playful ways. Inside the smartphone exists a vibrant illustrated universe filled with hand-drawn doodle clouds, stars, rockets, floating hearts, ladders, comic speech bubbles, whimsical creatures, and miniature buildings. Many doodle elements are partially emerging from the screen, seamlessly blending illustration and reality. The woman remains completely photorealistic and reacts with curiosity, wonder, and amazement as the doodle world escapes the device. STYLE: Reality-meets-doodle visual illusion, photorealistic human subject combined with expressive black-ink line-art characters, ultra-detailed interactions, seamless transition between digital and physical worlds, luxury advertising photography, cinematic studio lighting, ultra-sharp focus, premium editorial aesthetic, clean composition, modern social-media campaign quality, whimsical imagination brought to life. COMPOSITION: 9:16 vertical format, full-body or three-quarter portrait, phone prominently featured in foreground, dynamic flow of doodle characters expanding outward into the scene, strong depth, clean negative space, scroll-stopping visual storytelling. MOOD: As if years of creativity, imagination, internet culture, sketches, ideas, and dreams have suddenly come alive and are escaping from the smartphone into the real world. Ultra realistic, high detail, commercial masterpiece, viral campaign quality.",
+    "title": "Reality-Meets-Doodle Portal Effect",
+    "description": "A complex identity-preserving prompt for Nano Banana that creates a surreal visual of hand-drawn doodles escaping from a photorealistic smartphone screen.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780560148084_u9c7j2_HJ8HZU5acAAfMOD.jpg"
+      "https://cms-assets.youmind.com/media/1780645922792_pqmib3_HKCFccDaAAAWumK.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 24094,
+    "content": "High-fashion editorial shot of a {argument name=\"subject\" default=\"man\"} leaning casually against the open scissor door of a {argument name=\"vehicle\" default=\"red supercar\"}. He wears a sleek all-black outfit with modern tailoring and chunky sneakers, exuding confidence and effortless dominance.\nMinimalist white backdrop by the futuristic luxury aesthetic.\nMood: fashion prestige, automotive power, urban cool. Keep original face and natural hair color unchanged",
+    "title": "High-Fashion Supercar Editorial",
+    "description": "A high-fashion editorial shot featuring a man and a luxury supercar against a minimalist futuristic backdrop, conveying prestige and urban cool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645925949_4urbfv_HJ-nMx5WUAAqOnX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24074,
+    "content": "{argument name=\"dish\" default=\"Skillet eggs\"}, overhead food photography",
+    "title": "Overhead Skillet Eggs Photography",
+    "description": "A specialized prompt for generating professional overhead food photography of a breakfast skillet, focusing on appetizing textures and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916598_n02e78_HJ6IfOYXMAMDSaB.png",
+      "https://cms-assets.youmind.com/media/1780645916405_lrz1h4_HJ6Ig8SW8AAugAZ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24081,
+    "content": "A breathtaking fashion portrait featuring the {argument name=\"face\" default=\"uploaded face\"} perfectly preserved. Behind her, swirling sculptural clouds of {argument name=\"smoke style\" default=\"illuminated smoke\"} form a gigantic artistic silhouette of her profile. She stands elegantly in a {argument name=\"studio\" default=\"minimalist studio\"} wearing a luxurious textured fashion ensemble. Soft golden and charcoal lighting interact with the smoke formations, creating an ethereal cinematic atmosphere. Ultra-realistic details, premium magazine-cover quality, artistic visual storytelling, luxury fashion campaign aesthetics, dramatic depth, subtle film grain, masterpiece composition, unforgettable editorial look.",
+    "title": "Smoke Silhouette Fashion Portrait",
+    "description": "A creative fashion portrait prompt that preserves an uploaded face while generating artistic smoke-based silhouettes in a luxury studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645920779_75h86i_HJ9_RecbIAAkAWX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24088,
+    "content": "Without changing my facial features or face. Create an Ultra-realistic cozy streetwear portrait which looks original. The model sits casually relaxed at an outdoor café in a {argument name=\"location\" default=\"London city with elegant stone architecture and wrought-iron details\"}. She wears an {argument name=\"clothing\" default=\"oversized beige 'Girlish' sweatshirt, chocolate brown cargo pant, and white New Balance sneakers\"}. A beige {argument name=\"accessory\" default=\"Prada crossbody pouch\"} adds a chic touch. Accessories: minimal jewelry, neutral manicure. Her skin glows and the sunlight adds a brightness to her flawless skin. 9:16 ratio, one single picture",
+    "title": "London Streetwear Lifestyle Portrait",
+    "description": "A photorealistic streetwear prompt for Nano Banana Pro that focuses on maintaining facial identity while generating a stylish outdoor cafe scene in London.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645922972_vzingw_HJ79ZCVXkAA_iL0.jpg",
+      "https://cms-assets.youmind.com/media/1780645922994_h1tp7y_HJ79Z4uWkAAspZo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24078,
+    "content": "Ultra-realistic beach portrait of a {argument name=\"subject\" default=\"young blonde woman\"} sitting gracefully on warm golden sand at sunset. She has long wavy sun-kissed blonde hair adorned with a {argument name=\"accessory\" default=\"white plumeria flower\"} tucked behind her ear, soft natural makeup, luminous skin, and a calm, captivating gaze directed toward the camera. She wears an {argument name=\"outfit\" default=\"elegant strapless ivory mini dress with subtle ruching and a decorative starfish accent\"}, layered gold necklaces, delicate bracelets, rings, and small hoop earrings. The setting is a tropical beach with gentle waves, dark volcanic rock formations, and distant islands silhouetted against a pastel sunset sky. Warm golden-hour lighting casts a soft glow across the scene, highlighting skin texture and creating cinematic depth. Luxury resort editorial photography, tropical fashion campaign, shallow depth of field, highly detailed, photorealistic, natural colors, premium magazine quality.",
+    "title": "Tropical Luxury Beach Portrait",
+    "description": "A comprehensive prompt for generating high-end tropical fashion campaign images at sunset, focusing on sand textures and volcanic rock backdrops.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645918318_mxg8lu_HJ9bwJvaAAAkpgs.jpg",
+      "https://cms-assets.youmind.com/media/1780645918313_pw8oom_HJ9bwUYaEAA4R2F.jpg",
+      "https://cms-assets.youmind.com/media/1780645918277_xw0k9i_HJ9bwZibUAAIXcQ.jpg",
+      "https://cms-assets.youmind.com/media/1780645919283_74wunm_HJ9bwclbcAAhruh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24080,
+    "content": "A {argument name=\"subject\" default=\"muscular adult male with a dark taper-fade haircut pushed back with natural volume and a thick beard\"} wears a {argument name=\"outfit\" default=\"fitted black t-shirt tucked into high-waisted, pleated dark espresso brown trousers secured by a black belt\"}. His face projects a confident, quiet luxury, with dark sunglasses obscuring his eyes, neutral eyebrows, and a relaxed, unsmiling mouth. Facing the camera and leaning his weight slightly to the right, his right hand is folded across his lower torso and tucked firmly underneath his left bicep, while his left arm is raised to upper chest level with the wrist slightly bent outward and fingers loosely curled in a deliberate pinch-like gesture, displaying a black-banded wristwatch. He leans confidently against the front side fender of a {argument name=\"vehicle\" default=\"pristine, glossy black luxury Maserati sedan\"} occupying the left foreground, its curved chassis showcasing sleek headlights, three signature side air vents, and chrome accents on the door handles and window trim. The man and vehicle are grounded on a solid cobblestone gray concrete street, while the slightly blurred right background reveals a medium-depth view of a weathered historical building facade made of matte, slightly textured plaster painted in a uniform sage green with warm undertones, featuring sharp white window frames whose glass reflects the opposite buildings. The scene is bathed in soft, moderate-intensity natural daylight diffused from above, casting soft, gradual gray drop shadows under the car and a subtle shadow of the man against the vehicle's chassis. Gentle specular highlights gleam along the car's glossy black curves, while subtle preserved highlights accentuate the subject's forehead and arm muscles, defining an analogous, moderately saturated color palette of deep blacks, earthy browns, and sage greens. Captured straight on as a tack-sharp, grain-free digital photograph in a clean editorial style evoking an Old Money aesthetic, the image utilizes an 85mm lens at an f/2.8 to f/4.0 aperture, an ISO of 100, and a 1/250s shutter speed, finished with subtle color grading that warms the earthy tones while reducing highlights to preserve the sleek reflections, naturally framed in a 4:5 aspect ratio.",
+    "title": "Old Money Editorial Fashion Portrait",
+    "description": "An extensive, highly detailed prompt for creating a luxury editorial-style photograph featuring a male subject with a Maserati, focusing on lighting, composition, and technical camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645920635_34akdw_HJ9IPOSWwAA7hWU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24091,
+    "content": "Ultra-realistic golden hour portrait of a {argument name=\"subject\" default=\"young woman\"} sitting in a {argument name=\"setting\" default=\"luxurious tropical cafe conservatory filled with large green tropical plants\"} and natural sunlight. She has long, soft, wavy reddish brown hair with wispy bangs that frame her face, a single loose strand falling across her cheek. A vibrant yellow hibiscus flower is tucked behind her left ear. She has fair smooth skin with a natural dewy glow, subtle freckles across the nose and cheeks, large hazel-green eyes enhanced with soft eyeliner and long lashes, softly flushed cheeks, glossy plump pink lips, delicate facial features, and an elegant feminine appearance. She is wearing a {argument name=\"outfit\" default=\"fitted strapless lime-yellow tube top\"} exposing her shoulders and collarbones. Around her neck are multiple layered gold necklaces featuring seashell-inspired pendants and delicate chains. She wears a gold round earring and a metallic gold cuff bracelet. The composition is a close-up selfie-style portrait shot from a slightly elevated angle, with her head gently tilted and eyes gazing directly into the camera. Warm late-afternoon sunlight creates dramatic highlights across her face, shoulders, and clothing, producing cinematic shadows and a dreamy tropical atmosphere. Background features a modern glass-roof indoor garden cafe with lush tropical foliage, soft bokeh, luxury resort vibes, shallow depth of field, natural lighting, photorealistic skin texture, ultra-detailed eyes, fashion photography, editorial beauty portrait, high-end lifestyle photography, 85mm lens, f/1.8, HDR, 8K resolution, masterpiece, extremely detailed.\n\nNegative Prompt:\nlow quality, blurry, out of focus, bad anatomy, extra fingers, extra limbs, asymmetrical eyes, distorted face, plastic skin, oversaturated colors, heavy makeup, cartoon, anime, CGI, 3D render, watermark, text, logo, duplicate accessories, cropped head, harsh shadows, overexposed highlights, noisy background, unrealistic proportions.\n\nAspect Ratio: 9:16\nStyle: Photorealistic / Fashion Editorial\nLighting: Golden Hour Natural Light\nCamera: 85mm Portrait Lens\nQuality: Ultra Detailed, 8K, HD",
+    "title": "Golden Hour Tropical Cafe Portrait",
+    "description": "An ultra-realistic fashion editorial prompt for Nano Banana Pro capturing a woman in a tropical conservatory during golden hour with intricate accessory details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923977_zzf8nd_HJ8iXEfW8AAsz1f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24072,
+    "content": "A high-resolution, ultra-detailed cinematic portrait of a {argument name=\"subject\" default=\"beautiful woman\"} looking into a {argument name=\"prop\" default=\"round vanity mirror surrounded by bright, warm glowing bulbs\"}. She is wearing a {argument name=\"outfit\" default=\"sharp, tailored yellow blazer over a crisp white dress shirt and a black necktie\"}, with subtle cufflink details visible. The lighting is cinematic with a soft bokeh effect in the background, creating high-contrast and professional studio quality. 8K resolution, elegant fashion photography style.",
+    "title": "Vanity Mirror Fashion Portrait",
+    "description": "A professional fashion photography prompt focusing on lighting and high-end styling, depicting a subject in a sharp blazer reflected in a glowing vanity mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916939_c75vj1_HJ8b9FuWoAE6fZQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24077,
+    "content": "A high-end UGC fashion campaign featuring a {argument name=\"subject\" default=\"young East Asian woman with long, sleek straight black hair\"}, showcasing a product. She is wearing a {argument name=\"outfit\" default=\"deep maroon knit cowl-neck short-sleeve top with elegant draped pleats on the shoulder and ruching on the sides, paired with white drawstring cargo shorts\"}.\nA multi-angle cinematic sequence style, showcasing both full-body lifestyle shots and close-up fabric textures. The setting is a {argument name=\"environment\" default=\"minimalist, modern aesthetic apartment with a cream-colored curved sofa, a large gold-rimmed standing mirror, and bright windows\"}. Soft, diffused natural morning sunlight illuminating the scene, casting gentle shadows.\nPhotorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 aperture, sharp focus on the fine texture of the burgundy fabric, clean color grading, 8K resolution.",
+    "title": "High-End UGC Fashion Campaign",
+    "description": "A sophisticated prompt for generating high-end fashion campaign imagery featuring a model in a modern minimalist setting with detailed focus on clothing textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645919757_0jpqt5_HJ8WQ9WbIAApkYy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23885,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin tone, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity.\n\nCreate an ultra-realistic anime-meets-fashion editorial portrait inspired by a premium Tokyo streetwear campaign. The scene features me standing confidently at the center of a powerful gang-style lineup, surrounded by six elite anime-inspired characters. The composition resembles a luxury fashion magazine cover and high-end streetwear advertisement.\n\nI am positioned in the exact center, walking slightly forward with hands inside pockets, projecting confidence, leadership, dominance, and effortless charisma. My expression is calm, serious, and intimidating. My face remains fully realistic while all surrounding characters have highly detailed anime aesthetics.\n\nOutfit: long cream-white trench coat with subtle embroidered black graphics, layered over a fitted black turtleneck and black luxury streetwear trousers. Multiple silver chain necklaces, rings, and accessories. Black leather belt with hanging chains. Premium black combat boots with reflective highlights.\n\nSurrounding me are six stylish anime delinquent characters arranged symmetrically:\n•Two crouching in the foreground\n•Two standing slightly behind me\n•Two positioned further back creating depth and hierarchy\n\nEach character wears coordinated luxury Tokyo streetwear in black, cream, and silver tones, featuring bomber jackets, trench coats, layered necklaces, earrings, belts, straps, embroidered details, and polished combat boots.\n\nEnvironment: futuristic fashion runway meets underground Tokyo headquarters. Massive vertical illuminated panel behind the group creating a dramatic spotlight effect. Glossy reflective marble floor. Soft atmospheric haze. Cinematic depth. Premium editorial lighting.\n\nLighting: luxury fashion campaign lighting, soft key light on face, subtle rim lighting, dramatic shadows, reflective highlights on clothing, high dynamic range, realistic skin reflections, premium studio photography quality.\n\nStyle: ultra-realistic fashion photography, luxury magazine cover, Tokyo streetwear aesthetic, anime-inspired gang leadership, cinematic storytelling, high-end advertising campaign, dark elegance, sophisticated rebel energy.\n\nColor palette: black, ivory, cream, silver, charcoal gray, muted gold accents.\n\nCamera: low-angle full-body shot, 85mm lens, fashion editorial composition, centered symmetry, cinematic depth of field, sharp focus on me, background slightly softened.\n\nQuality: masterpiece, ultra detailed, 8K, hyper realistic, magazine-quality photography, award-winning fashion campa",
+    "title": "Tokyo Streetwear Anime Leader Portrait",
+    "description": "An editorial fashion prompt that blends a realistic facial identity with a stylized Tokyo streetwear aesthetic, featuring an elite anime-inspired gang lineup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645924779_h9a724_HJ8HZU5acAAfMOD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24097,
+    "content": "A full-body fashion portrait of a {argument name=\"subject\" default=\"stylish young woman\"} standing confidently inside a {argument name=\"location\" default=\"modern minimalist clothing store\"}. She has long, soft wavy dark hair with light bangs, fair skin, and delicate features. She is wearing a fitted {argument name=\"outfit top\" default=\"light grey cropped zip-up hoodie\"}, wide-leg navy cargo pants with large side pockets, and chunky white sneakers. Her arms are crossed, giving a calm, confident attitude. The background features warm wooden interiors, clothing racks with neutral-toned outfits, soft ambient lighting, and a polished floor. Cinematic lighting, ultra-realistic, sharp focus, high detail, editorial fashion photography, 4K, depth of field.",
+    "title": "Minimalist Store Fashion Portrait",
+    "description": "A full-body editorial fashion portrait of a woman in a minimalist clothing store, featuring sharp focus and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645927302_7piitf_HJ8DE5JWsAAI0Kc.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 23879,

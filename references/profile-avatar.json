@@ -10,6 +10,79 @@
     "needReferenceImages": false
   },
   {
+    "id": 24089,
+    "content": "Use the uploaded face image as the primary identity reference. Preserve the exact facial features, face shape, eyes, nose, lips, hairstyle, skin texture, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions and natural facial details. Create an ultra-realistic cinematic portrait in {argument name=\"scene\" default=\"[SCENE]\"}. Luxury photography, dramatic lighting, shallow depth of field, realistic bokeh, HDR, professional color grading, ultra-detailed skin texture, photorealistic, 8K, masterpiece quality.\n\nNegative Prompt: cartoon, anime, CGI, painting, illustration, blurry, low quality, distorted face, extra limbs, bad anatomy, unrealistic eyes, plastic skin, beauty filter, watermark, logo, text, frame, identity drift.",
+    "title": "High-Fidelity Identity Portrait Template",
+    "description": "A comprehensive prompt template for Nano Banana Pro designed to maximize facial identity preservation while placing the subject in custom cinematic scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923742_jtym6r_HJ-_MO1aIAENY0d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24085,
+    "content": "A confident young adult male in his late twenties stands facing the camera with a relaxed posture, his shoulders at ease and his weight leaning slightly to the left against an unseen boat railing. He has light eyes, a subtle closed smile, and neutral eyebrows, maintaining a deliberately posed, direct gaze. His medium-length flow cut hair is swept back, reaching his mid-ear and upper nape, heavily textured with natural waves, wind exposure, and matte styling paste; the messy, undefined part and moderate volume are slightly flattened by the breeze, highlighting distinct organic frizz and stray flyaways against the dark night sky. He wears a {argument name=\"outfit\" default=\"high-contrast, fully unbuttoned white linen shirt\"}, his left arm extending down and out of frame, while his right arm rests tucked away, revealing only a gray wristband on his wrist. Above him in the foreground, the pristine, perfectly smooth matte off-white edge of a painted drywall boat canopy frames the top of the shot, while a new, ornate, curved baroque-style silver metallic piece enters the bottom left. Beyond the isolated subject, the expansive environment features {argument name=\"background\" default=\"deep blue-black choppy water in the midground\"}, its surface ripples catching faint light reflections. The deep spatial background is dominated by a majestic {argument name=\"landmark\" default=\"suspension bridge centered in the distance\"}, fully illuminated with vibrant vertical white light strips running down its cables, anchored by a dark, distant coastline densely dotted with warm golden-yellow and orange city lights. The breezy, energetic atmosphere of a night out on the water is defined by highly directional, bright, single-source artificial front lighting that perfectly mimics a direct camera flash. This hard light generates a dramatic, high contrast ratio, blowing out specular highlights on his forehead, the bridge of his nose, and the crisp folds of his white linen shirt, while carving harsh, deep black shadows with sharply defined edges under his chin, inside the shirt folds, and directly onto his bare chest from the collar. The cool-toned, complementary color palette effortlessly guides the eye from his brilliantly lit face and warm skin tone back toward the colorful bridge, leaving absolutely no ambient fill light to soften the dark night. Captured as a realistic digital photograph with clear influences from travel lifestyle nightlife imagery, the shot utilizes a straight-on perspective, boasting tack-sharp focus on the subject and noticeable digital noise grain across the deep background. The deep depth of field retains clarity across the entire seascape and cityscape, enhanced by contrast adjustments, a lowered black point, flash exposure compensation, and subtle color grading to boost the vivid background lights, with the entire composition ultimately framed in a 4:5 aspect ratio.",
+    "title": "Night Nautical Lifestyle Portrait",
+    "description": "A sophisticated lifestyle prompt for Nano Banana 2 featuring a male subject on a boat at night with complex lighting and background bridge details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645922231_0p0xxw_HJ-_GIvX0AEn1nt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24096,
+    "content": "Create a 4K ultra-detailed digital portrait painting based on the provided reference image.\n​A beautiful young woman shown from the shoulders up in a three-quarter view, looking slightly upward and to the right with a thoughtful, determined expression. The portrait must accurately match the subject’s identity, age, face, facial structure, proportions, hairstyle, hairline, and hair texture from the reference image.\n​The subject has tan skin, naturally styled, voluminous hair, bright, enhanced eye colour, a defined nose, and a prominent cheekbones.\n​Lighting: soft direct window light from the front illuminating the face, ears, and hair. Glossy painted highlight reflections on the forehead, nose bridge, cheekbones, chin, and lips, with defined specular highlights on individual hair strands to create a polished shine effect similar to editorial portrait painting. Subtle window-blind shadow bars fall across the face only. Hair strands catch the light with a natural shine.\n​Rendering quality: ultra-detailed 4K digital painting with strong emphasis on facial features, ear detail, skin texture, and individual hair strands.\n​Clothing: dark blue kurta shirt, minimally detailed but rendered with the same expressive acrylic brush strokes, painterly shading, color blending, and subtle highlight reflections as the face, including visible paint texture and stylized lighting accents on fabric folds.\n​Lower fade effect: the lower portion of the portrait gradually dissolves into painterly brush strokes, with the shoulders and clothing softly fading into abstract paint textures rather than ending with a hard edge. The transition blends smoothly into the background using loose acrylic strokes, soft opacity falloff, and scattered paint splashes, creating a natural artistic fade-out from the chest downward while keeping the face fully sharp and detailed.\n​Color palette: rich, saturated painterly tones with warm colors – burnt orange, terracotta, and peach – combined with deep navy and cool blue shadow accents. High color depth and contrast similar to modern editorial illustration.\n​Background: abstract painterly backdrop with a cream and beige base, layered orange and terracotta brush strokes, muted teal accents, splattered paint marks, and textured acrylic-style strokes.\n​Style: expressive acrylic and oil painting, modern editorial illustration, centered portrait composition. Add a very small, legible handwritten calligraphy signature '' floating above the subject's left shoulder, with clear, high-quality detail that perfectly matches the image layout.\n​Resolution: 4K, ultra-sharp focus, rich color grading.\nAspect ratio: 4:5.",
+    "title": "Ultra-Detailed Stylized Digital Portrait",
+    "description": "An expressive digital painting prompt that uses a reference image to create a high-detail portrait with acrylic textures and a stylized artistic fade.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645926129_tb0lf8_HJ-WwhFaoAAPMG4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24073,
+    "content": "A high-resolution, hyper-realistic cinematic portrait of a {argument name=\"subject\" default=\"woman's face\"} split down the middle by a vertical torn paper effect. On the left side, the image is in vibrant color, featuring warm skin tones, {argument name=\"color side details\" default=\"bright hazel eyes, and bold red lipstick\"}. On the right side, the image is in deep black and white, showing a tear streaming down the cheek. The lighting is dramatic and cinematic with soft bokeh, focusing on ultra-detailed skin textures. She is wearing {argument name=\"outfit\" default=\"a black high-neck sweater and a simple gold chain necklace\"}. 8K resolution, professional photography style.",
+    "title": "Cinematic Torn Paper Split Portrait",
+    "description": "A striking cinematic portrait featuring a vertical torn paper effect that divides a face between vibrant color and deep black and white, perfect for high-detail photography enthusiasts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916892_aoi834_HJ-CsA4boAEtWN1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24093,
+    "content": "Ultra-realistic lifestyle portrait of a beautiful young woman relaxing on a {argument name=\"furniture\" default=\"rustic wooden park bench\"} in a {argument name=\"setting\" default=\"serene nature setting\"} during golden hour. She is seated confidently with one arm casually resting along the back of the bench and the other hand resting gently on her raised knee, creating a relaxed yet stylish pose. Her expression is warm and approachable with a subtle, natural smile that radiates confidence and charm.",
+    "title": "Golden Hour Lifestyle Portrait",
+    "description": "A natural and warm lifestyle portrait of a young woman relaxing on a park bench during the golden hour, focusing on charm and realistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645924992_oazf5s_HJ9MMwtXgAAAFHE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24082,
+    "content": "{\n  \"subject\": {\n    \"name\": \"{argument name=\"name\" default=\"[NAME]\"}\",\n    \"pose\": \"standing, leaning casually against a washing machine\",\n    \"clothing\": {\n      \"top\": \"{argument name=\"top\" default=\"tight white cropped top\"}\",\n      \"bottom\": \"{argument name=\"bottom\" default=\"tight black athletic shorts with white piping on the edges\"}\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"messy bathroom\"\n  },\n  \"photography_style\": {\n    \"type\": \"everyday casual photo\",\n    \"camera_simulation\": \"iPhone camera\",\n    \"shot_type\": \"medium shot\",\n    \"quality\": \"low quality, slightly blurry, candid aesthetic\"\n  },\n  \"aspect_ratio\": \"9:16\"\n}",
+    "title": "Casual Bathroom Selfie Aesthetic",
+    "description": "A structured JSON-style prompt for creating a realistic, candid iPhone-style photo of a person in a casual setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645920855_lougc0_HJ8hDdbbIAEJD51.jpg",
+      "https://cms-assets.youmind.com/media/1780645920817_basmaa_HJ8hDhkbMAAhs6j.jpg",
+      "https://cms-assets.youmind.com/media/1780645920810_2vyit7_HJ8hDnkbEAApD9S.jpg",
+      "https://cms-assets.youmind.com/media/1780645921339_5xmgk8_HJ8hDstbsAAwnJe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24090,
+    "content": "Use the exact same face from the reference image and generate a Ultra-realistic environmental portrait of a {argument name=\"subject\" default=\"young man\"} standing casually with his back leaning against a simple aged beige wall. A traditional window is positioned beside him, adding architectural character to the scene. Above, a branch of {argument name=\"leaves\" default=\"vibrant orange autumn leaves\"} extends into the frame, with a few leaves gently drifting through the air. Warm sunlight filters through the foliage, creating natural dappled light patterns and soft shadows across the wall, ground, and subject. The man faces the camera directly, captured from a front-angle perspective in a full-body, wide-distance composition that showcases both the subject and surrounding environment. He has messy, tousled dark hair falling naturally across his forehead, with realistic texture and subtle movement. His expression is calm, confident, and effortlessly stylish. He wears relaxed {argument name=\"outfit\" default=\"beige wide-leg trousers, an oversized terracotta button-up shirt with sleeves casually rolled to the forearms, and clean modern sports sneakers\"}. The color palette is warm, earthy, and harmonious, complementing the autumn atmosphere. Natural sunlight illuminates the scene with realistic highlights, soft contrast, and cinematic depth. Highly detailed skin texture, authentic fabric folds, professional photography, shallow depth of field, ultra-sharp focus, realistic color grading, editorial lifestyle photography, captured on a high-end full portrait.",
+    "title": "Autumn Environmental Portrait",
+    "description": "A detailed environmental portrait prompt for Nano Banana Pro featuring a young man leaning against a wall with falling autumn leaves and sunlight patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923742_y6ua99_HJ8APpZasAA4sGy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23904,
     "content": "Ultra realistic cinematic lakeside portrait photo of {argument name=\\\"person\\\" default=\\\"[REFERENCE PERSON]\\\"}, preserve the exact facial identity, facial structure, skin texture, hairstyle, eye shape, lips, and overall likeness from the reference image with extremely high identity accuracy. Scene composition identical to the reference scene: a beautiful woman sitting on the edge of a rustic wooden dock beside a calm lake during golden hour sunset, soft warm sunlight, natural reflections in the water, lush green reeds in the background, overhanging tree leaves at the top frame, shallow depth of field, creamy bokeh forest background. Subject pose: seated sideways on the dock with legs extended naturally over the water, looking downward softly toward an {argument name=\\\"animal\\\" default=\\\"orange ginger cat\\\"} beside her, relaxed elegant posture, candid feminine mood. Outfit: {argument name=\\\"clothing\\\" default=\\\"light pink floral summer dress\\\"} with thin straps, flowing fabric, delicate details, natural folds, realistic texture. Environment must remain almost identical to the original image: same wooden pier style, same lakeside atmosphere, same lighting direction, same framing, same cinematic composition, same peaceful aesthetic. Photography style: DSLR realism, 85mm portrait lens, f/1.8 aperture, ultra detailed skin, realistic hair strands, natural body proportions, soft shadows, cinematic color grading, photorealistic, high dynamic range, editorial fashion photography. Important: replace ONLY the woman’s identity with the exact reference person while keeping the background, pose, camera angle, lighting, dress style, cat, dock, and overall composition highly consistent with the original image. No stylization, no AI artifacts, no distorted anatomy, no extra fingers, no face asymmetry. Identity fidelity priority: extremely high. Background consistency priority: extremely high.",
     "title": "Lakeside Portrait Identity Swap",

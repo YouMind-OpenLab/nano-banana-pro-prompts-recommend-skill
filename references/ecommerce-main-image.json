@@ -1,5 +1,25 @@
 [
   {
+    "id": 24077,
+    "content": "A high-end UGC fashion campaign featuring a {argument name=\"subject\" default=\"young East Asian woman with long, sleek straight black hair\"}, showcasing a product. She is wearing a {argument name=\"outfit\" default=\"deep maroon knit cowl-neck short-sleeve top with elegant draped pleats on the shoulder and ruching on the sides, paired with white drawstring cargo shorts\"}.\nA multi-angle cinematic sequence style, showcasing both full-body lifestyle shots and close-up fabric textures. The setting is a {argument name=\"environment\" default=\"minimalist, modern aesthetic apartment with a cream-colored curved sofa, a large gold-rimmed standing mirror, and bright windows\"}. Soft, diffused natural morning sunlight illuminating the scene, casting gentle shadows.\nPhotorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 aperture, sharp focus on the fine texture of the burgundy fabric, clean color grading, 8K resolution.",
+    "title": "High-End UGC Fashion Campaign",
+    "description": "A sophisticated prompt for generating high-end fashion campaign imagery featuring a model in a modern minimalist setting with detailed focus on clothing textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645919757_0jpqt5_HJ8WQ9WbIAApkYy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24097,
+    "content": "A full-body fashion portrait of a {argument name=\"subject\" default=\"stylish young woman\"} standing confidently inside a {argument name=\"location\" default=\"modern minimalist clothing store\"}. She has long, soft wavy dark hair with light bangs, fair skin, and delicate features. She is wearing a fitted {argument name=\"outfit top\" default=\"light grey cropped zip-up hoodie\"}, wide-leg navy cargo pants with large side pockets, and chunky white sneakers. Her arms are crossed, giving a calm, confident attitude. The background features warm wooden interiors, clothing racks with neutral-toned outfits, soft ambient lighting, and a polished floor. Cinematic lighting, ultra-realistic, sharp focus, high detail, editorial fashion photography, 4K, depth of field.",
+    "title": "Minimalist Store Fashion Portrait",
+    "description": "A full-body editorial fashion portrait of a woman in a minimalist clothing store, featuring sharp focus and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645927302_7piitf_HJ8DE5JWsAAI0Kc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23892,
     "content": "A full-length, straight-on studio photograph of the smiling {argument name=\"subject\" default=\"young woman with wavy brown hair and glasses\"} from image_9.png, standing in front of a clean, neutral {argument name=\"background color\" default=\"cream-colored\"} wall. She is wearing the identical outfit: a {argument name=\"top\" default=\"pink and white gingham peplum top with shoulder-tie straps and a scalloped white lace hem\"}, beige wide-leg linen trousers, and white low-top sneakers. She is carrying the same small straw crossbody bag. The pose and lighting are preserved from image_9.png. The background is minimalist, focusing entirely on the model and her attire.",
     "title": "Minimalist Studio Fashion Portrait",

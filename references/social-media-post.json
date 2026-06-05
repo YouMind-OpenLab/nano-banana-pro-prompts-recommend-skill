@@ -41,12 +41,248 @@
     "needReferenceImages": false
   },
   {
-    "id": 23885,
-    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin tone, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity. Create an ultra-realistic anime-meets-fashion editorial portrait inspired by a premium {argument name=\"style\" default=\"Tokyo streetwear\"} campaign. The scene features me standing confidently at the center of a powerful gang-style lineup, surrounded by six elite anime-inspired characters. The composition resembles a luxury fashion magazine cover and high-end streetwear advertisement. I am positioned in the exact center, walking slightly forward with hands inside pockets, projecting confidence, leadership, dominance, and effortless charisma. My expression is calm, serious, and intimidating. My face remains fully realistic while all surrounding characters have highly detailed anime aesthetics. Outfit: {argument name=\"outfit\" default=\"long cream-white trench coat\"} with subtle embroidered black graphics, layered over a fitted black turtleneck and black luxury streetwear trousers. Multiple silver chain necklaces, rings, and accessories. Black leather belt with hanging chains. Premium black combat boots with reflective highlights. Surrounding me are six stylish anime delinquent characters arranged symmetrically: •Two crouching in the foreground •Two standing slightly behind me •Two positioned further back creating depth and hierarchy. Each character wears coordinated luxury Tokyo streetwear in black, cream, and silver tones, featuring bomber jackets, trench coats, layered necklaces, earrings, belts, straps, embroidered details, and polished combat boots. Environment: futuristic fashion runway meets underground Tokyo headquarters. Massive vertical illuminated panel behind the group creating a dramatic spotlight effect. Glossy reflective marble floor. Soft atmospheric haze. Cinematic depth. Premium editorial lighting. Lighting: luxury fashion campaign lighting, soft key light on face, subtle rim lighting, dramatic shadows, reflective highlights on clothing, high dynamic range, realistic skin reflections, premium studio photography quality. Color palette: black, ivory, cream, silver, charcoal gray, muted gold accents. Camera: low-angle full-body shot, 85mm lens, fashion editorial composition, centered symmetry, cinematic depth of field, sharp focus on me, background slightly softened. Quality: masterpiece, ultra detailed, 8K, hyper realistic, magazine-quality photography.",
-    "title": "Tokyo Streetwear Anime Editorial Lineup",
-    "description": "An ultra-realistic identity-preserving prompt that places the subject in a Tokyo streetwear campaign with anime-inspired characters.",
+    "id": 24086,
+    "content": "Use the attached image as the sole facial reference. STRICT IDENTITY PRESERVATION: Maintain the exact facial identity with maximum accuracy. Preserve facial structure, proportions, natural asymmetry, skin texture, hairstyle, hairline, eye shape, nose shape, lips, expression, and all unique facial characteristics. Do not beautify, stylize, age-shift, alter ethnicity, modify features, or reinterpret the face in any way. SCENE: A photorealistic {argument name=\"subject\" default=\"young woman\"} stands in a clean modern studio environment holding a smartphone vertically in front of her. The phone screen appears to have cracked open into a dimensional portal, creating a dramatic transition between the digital world and reality. From inside the screen, hundreds of tiny {argument name=\"doodle style\" default=\"black-ink doodle characters\"} burst into the real world. Miniature cartoon figures climb over the phone edges, swing from charging cables, ride paper airplanes, build tiny cities on nearby surfaces, chase each other across the floor, and interact with real-world objects in playful ways. Inside the smartphone exists a vibrant illustrated universe filled with hand-drawn doodle clouds, stars, rockets, floating hearts, ladders, comic speech bubbles, whimsical creatures, and miniature buildings. Many doodle elements are partially emerging from the screen, seamlessly blending illustration and reality. The woman remains completely photorealistic and reacts with curiosity, wonder, and amazement as the doodle world escapes the device. STYLE: Reality-meets-doodle visual illusion, photorealistic human subject combined with expressive black-ink line-art characters, ultra-detailed interactions, seamless transition between digital and physical worlds, luxury advertising photography, cinematic studio lighting, ultra-sharp focus, premium editorial aesthetic, clean composition, modern social-media campaign quality, whimsical imagination brought to life. COMPOSITION: 9:16 vertical format, full-body or three-quarter portrait, phone prominently featured in foreground, dynamic flow of doodle characters expanding outward into the scene, strong depth, clean negative space, scroll-stopping visual storytelling. MOOD: As if years of creativity, imagination, internet culture, sketches, ideas, and dreams have suddenly come alive and are escaping from the smartphone into the real world. Ultra realistic, high detail, commercial masterpiece, viral campaign quality.",
+    "title": "Reality-Meets-Doodle Portal Effect",
+    "description": "A complex identity-preserving prompt for Nano Banana that creates a surreal visual of hand-drawn doodles escaping from a photorealistic smartphone screen.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780560148084_u9c7j2_HJ8HZU5acAAfMOD.jpg"
+      "https://cms-assets.youmind.com/media/1780645922792_pqmib3_HKCFccDaAAAWumK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24079,
+    "content": "{\"vibe_title_en\": \"Cyber Renaissance\", \"master_prompt\": \"A hyper-realistic, cinematic close-up portrait of The Protagonist depicted as a high-fashion cyborg aristocrat. The subject's face is flawlessly human with hyper-detailed skin pores and natural peach fuzz, but the cranium transitions seamlessly into complex, exposed mechanical components made of polished white ceramic, chrome, and intricate cabling. They are wearing delicate, rimless oversized glasses that catch the studio light with realistic refraction. A highly articulated, practical-effect robotic hand—crafted from white enamel and gold internal mechanisms—gently rests against the subject's jawline in a pensive, philosophical pose. The subject is dressed in a lavish, textured brocade jacket featuring heavy pink and gold floral embroidery, evoking 18th-century royal attire. The lighting is exquisite and soft, using a Rembrandt setup with a large modifier to create lustrous highlights on the metallic surfaces and dewy skin. Shot on a Hasselblad H6D-100c with a 120mm Macro lens to capture the microscopic contrast between biological skin and manufactured alloy. The aesthetic is 'Future-Vintage', utilizing Kodak Portra 160 film stock simulation for creamy tones and fine grain.\", \"meta\": {\"intent\": \"Editorial Fashion\", \"priorities\": \"Texture Contrast, Photorealism, Surrealism\", \"device_profile\": \"High-End Medium Format\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Close-up portrait, three-quarter angle\", \"layout\": \"Centered subject with negative space on the right\", \"camera_angle\": \"Eye-level\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Cybernetic Aristocrat\", \"demographics\": \"Ageless, ethereal\", \"face\": \"Flawless skin, glossy lips, pensive gaze\", \"hair\": \"Slicked back, transitioning into mechanical plating\", \"body\": \"Human face, robotic cranium and hand\", \"expression\": \"Contemplative, serene, slightly melancholic\", \"pose\": \"Hand resting gently on chin/jawline\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Brocade Jacket\", \"material\": \"Heavy Silk/Embroidery\", \"color\": \"White/Pink/Gold\", \"fit\": \"Structured, Haute Couture\"}], \"accessories\": [{\"item\": \"Rimless Glasses\", \"color\": \"Transparent/Silver\", \"material\": \"Glass/Titanium\", \"brand_style\": \"Futuristic Luxury\"}, {\"item\": \"Cyborg Plating\", \"color\": \"White/Chrome\", \"material\": \"Ceramic/Metal\", \"brand_style\": \"Industrial Design\"}]}, \"environment\": {\"setting\": \"Studio Void\", \"surfaces\": \"Atmospheric dust, soft velvet backdrop\", \"depth\": \"Shallow depth of field\", \"atmosphere\": \"Quiet, sterile but elegant\", \"lens_interaction\": \"Sharp focus on eyes/hand, creamy bokeh falloff\"}, \"lighting\": {\"key\": \"Softbox (Octobank) 45-degree angle\", \"fill\": \"White bounce card for shadow detail\", \"rim\": \"Cool white edge light on mechanical parts\", \"shadows\": \"Soft, diffused\", \"color_temperature\": \"5600K (Daylight balanced)\", \"sensor_flare\": \"Minimal, controlled bloom on highlights\"}, \"camera\": {\"lens_type\": \"Macro Prime\", \"focal_length\": \"120mm\", \"aperture\": \"f/4.0\", \"focus\": \"Critical focus on the eye and robotic fingertip\", \"sensor_format\": \"Medium Format (53.4 x 40.0mm)\", \"perspective_distortion\": \"None (flattering compression)\"}, \"post_processing\": {\"color\": \"Pastel luxury, metallic neutrals, soft pinks\", \"tonality\": \"High-key but with rich contrast in textures\", \"texture\": \"Fine organic grain overlay (Kodak Portra)\", \"digital_sharpening\": \"High frequency texture enhancement\", \"chromatic_aberration\": \"Negligible\"}, \"negative_specifications\": [\"cartoonish\", \"3d render look\", \"low resolution\", \"neon lights\", \"cyberpunk cliche\", \"plastic skin\", \"illustration\", \"anime style\"]}",
+    "title": "Cyber Renaissance Cyborg Aristocrat",
+    "description": "A complex 'Future-Vintage' prompt combining 18th-century royal attire with advanced cybernetic parts for a surreal, hyper-realistic fashion editorial.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645919261_2ofpmv_HJ_rmPYXUAEcxGH.jpg",
+      "https://cms-assets.youmind.com/media/1780645919214_c0q3qb_HJ_rmQSW0AAZhzS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24089,
+    "content": "Use the uploaded face image as the primary identity reference. Preserve the exact facial features, face shape, eyes, nose, lips, hairstyle, skin texture, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions and natural facial details. Create an ultra-realistic cinematic portrait in {argument name=\"scene\" default=\"[SCENE]\"}. Luxury photography, dramatic lighting, shallow depth of field, realistic bokeh, HDR, professional color grading, ultra-detailed skin texture, photorealistic, 8K, masterpiece quality.\n\nNegative Prompt: cartoon, anime, CGI, painting, illustration, blurry, low quality, distorted face, extra limbs, bad anatomy, unrealistic eyes, plastic skin, beauty filter, watermark, logo, text, frame, identity drift.",
+    "title": "High-Fidelity Identity Portrait Template",
+    "description": "A comprehensive prompt template for Nano Banana Pro designed to maximize facial identity preservation while placing the subject in custom cinematic scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923742_jtym6r_HJ-_MO1aIAENY0d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24085,
+    "content": "A confident young adult male in his late twenties stands facing the camera with a relaxed posture, his shoulders at ease and his weight leaning slightly to the left against an unseen boat railing. He has light eyes, a subtle closed smile, and neutral eyebrows, maintaining a deliberately posed, direct gaze. His medium-length flow cut hair is swept back, reaching his mid-ear and upper nape, heavily textured with natural waves, wind exposure, and matte styling paste; the messy, undefined part and moderate volume are slightly flattened by the breeze, highlighting distinct organic frizz and stray flyaways against the dark night sky. He wears a {argument name=\"outfit\" default=\"high-contrast, fully unbuttoned white linen shirt\"}, his left arm extending down and out of frame, while his right arm rests tucked away, revealing only a gray wristband on his wrist. Above him in the foreground, the pristine, perfectly smooth matte off-white edge of a painted drywall boat canopy frames the top of the shot, while a new, ornate, curved baroque-style silver metallic piece enters the bottom left. Beyond the isolated subject, the expansive environment features {argument name=\"background\" default=\"deep blue-black choppy water in the midground\"}, its surface ripples catching faint light reflections. The deep spatial background is dominated by a majestic {argument name=\"landmark\" default=\"suspension bridge centered in the distance\"}, fully illuminated with vibrant vertical white light strips running down its cables, anchored by a dark, distant coastline densely dotted with warm golden-yellow and orange city lights. The breezy, energetic atmosphere of a night out on the water is defined by highly directional, bright, single-source artificial front lighting that perfectly mimics a direct camera flash. This hard light generates a dramatic, high contrast ratio, blowing out specular highlights on his forehead, the bridge of his nose, and the crisp folds of his white linen shirt, while carving harsh, deep black shadows with sharply defined edges under his chin, inside the shirt folds, and directly onto his bare chest from the collar. The cool-toned, complementary color palette effortlessly guides the eye from his brilliantly lit face and warm skin tone back toward the colorful bridge, leaving absolutely no ambient fill light to soften the dark night. Captured as a realistic digital photograph with clear influences from travel lifestyle nightlife imagery, the shot utilizes a straight-on perspective, boasting tack-sharp focus on the subject and noticeable digital noise grain across the deep background. The deep depth of field retains clarity across the entire seascape and cityscape, enhanced by contrast adjustments, a lowered black point, flash exposure compensation, and subtle color grading to boost the vivid background lights, with the entire composition ultimately framed in a 4:5 aspect ratio.",
+    "title": "Night Nautical Lifestyle Portrait",
+    "description": "A sophisticated lifestyle prompt for Nano Banana 2 featuring a male subject on a boat at night with complex lighting and background bridge details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645922231_0p0xxw_HJ-_GIvX0AEn1nt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24092,
+    "content": "Ultra realistic cinematic lakeside portrait photo of {argument name=\"reference person\" default=\"[REFERENCE PERSON]\"}, preserve the exact facial identity, facial structure, skin texture, hairstyle, eye shape, lips, and overall likeness from the reference image with extremely high identity accuracy.\n\nScene composition identical to the reference scene: a beautiful woman sitting on the edge of a rustic wooden dock beside a calm lake during golden hour sunset, soft warm sunlight, natural reflections in the water, lush green reeds in the background, overhanging tree leaves at the top frame, shallow depth of field, creamy bokeh forest background.\n\nSubject pose: seated sideways on the dock with legs extended naturally over the water, looking downward softly toward an orange ginger cat beside her, relaxed elegant posture, candid feminine mood.\n\nOutfit: light pink floral summer dress with thin straps, flowing fabric, delicate details, natural folds, realistic texture.\n\nEnvironment must remain almost identical to the original image: same wooden pier style, same lakeside atmosphere, same lighting direction, same framing, same cinematic composition, same peaceful aesthetic.\n\nPhotography style: DSLR realism, 85mm portrait lens, f/1.8 aperture, ultra detailed skin, realistic hair strands, natural body proportions, soft shadows, cinematic color grading, photorealistic, high dynamic range, editorial fashion photography.\n\nImportant: replace ONLY the woman’s identity with the exact reference person while keeping the background, pose, camera angle, lighting, dress style, cat, dock, and overall composition highly consistent with the original image. No stylization, no AI artifacts, no distorted anatomy, no extra fingers, no face asymmetry.\n\nIdentity fidelity priority: extremely high. Background consistency priority: extremely high.",
+    "title": "Cinematic Lakeside Identity Portrait",
+    "description": "A high-fidelity portrait prompt designed to maintain exact facial identity and features while placing the subject in a peaceful cinematic lakeside setting during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645924525_1f6i7u_HJ0AbILbIAA5-0P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24094,
+    "content": "High-fashion editorial shot of a {argument name=\"subject\" default=\"man\"} leaning casually against the open scissor door of a {argument name=\"vehicle\" default=\"red supercar\"}. He wears a sleek all-black outfit with modern tailoring and chunky sneakers, exuding confidence and effortless dominance.\nMinimalist white backdrop by the futuristic luxury aesthetic.\nMood: fashion prestige, automotive power, urban cool. Keep original face and natural hair color unchanged",
+    "title": "High-Fashion Supercar Editorial",
+    "description": "A high-fashion editorial shot featuring a man and a luxury supercar against a minimalist futuristic backdrop, conveying prestige and urban cool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645925949_4urbfv_HJ-nMx5WUAAqOnX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24075,
+    "content": "Contemporary anime illustration of a {argument name=\"subject\" default=\"confident young woman\"} shown from the waist up, windswept hair and expressive eyes, captured in a dramatic three-quarter pose. Fashion-forward {argument name=\"outfit style\" default=\"kimono-inspired streetwear with oversized sleeves, layered fabrics, and metallic accessories\"}. Floating around her are {argument name=\"elements\" default=\"symbolic elements including cherry blossoms, paper cranes, and celestial symbols\"}. Graffiti-inspired sketchwork, energetic brush pen strokes, ink drips, splatter effects, and free-flowing calligraphic lines blend with soft watercolor pastels. White gallery-style background with generous negative space. Rich comic sketch texture, handcrafted illustration feel, emotional storytelling atmosphere, exceptional detail, polished Japanese visual novel and artbook aesthetic, ultra-high quality, vertical format.",
+    "title": "Anime Streetwear Illustration",
+    "description": "A detailed anime-style prompt combining traditional kimono elements with modern streetwear and celestial symbols for a high-quality artbook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645917889_2fwaz9_HJ-n4yPbcAE1Ovp.jpg",
+      "https://cms-assets.youmind.com/media/1780645917920_acgcfi_HJ-n4yJaoAAmlnl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24074,
+    "content": "{argument name=\"dish\" default=\"Skillet eggs\"}, overhead food photography",
+    "title": "Overhead Skillet Eggs Photography",
+    "description": "A specialized prompt for generating professional overhead food photography of a breakfast skillet, focusing on appetizing textures and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916598_n02e78_HJ6IfOYXMAMDSaB.png",
+      "https://cms-assets.youmind.com/media/1780645916405_lrz1h4_HJ6Ig8SW8AAugAZ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24095,
+    "content": "{argument name=\"subjects\" default=\"Two young women\"} with long, wavy, {argument name=\"hair color\" default=\"vibrant red hair\"} stand close together in a {argument name=\"environment\" default=\"lush green forest\"} during daytime, surrounded by tall trees and dense foliage under a bright sunny sky. The woman on the left has fair skin with freckles, blue eyes, and wears a fitted black sleeveless tank top paired with high-waisted beige leggings featuring a detailed dark snakeskin pattern; she stands with her body slightly turned while looking directly at the viewer with a neutral expression. The woman on the right, positioned slightly in front, has similar red hair with subtle purple-red highlights at the ends, blue eyes, and a warm smile showing her teeth; she wears a fitted bright yellow sleeveless tank top and matching beige snakeskin-patterned leggings, leaning her head affectionately against the other woman's shoulder while placing one hand near her thigh. Both have natural makeup and stand in a relaxed pose amid vibrant green grass and leaves, with soft natural lighting highlighting their hair and the outdoor environment. The image is a realistic, high-resolution photograph with sharp details and vibrant colors.",
+    "title": "Redhead Duo Forest Photography",
+    "description": "A detailed photographic prompt for two young women with vibrant red hair in a lush forest setting, featuring realistic textures and snakeskin-patterned attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645926105_d6s1nm_HJ-F6pIbYAAlMKP.jpg",
+      "https://cms-assets.youmind.com/media/1780645926068_8kz8ia_HJ-F7NOaEAAksfY.jpg",
+      "https://cms-assets.youmind.com/media/1780645926099_lcl7ad_HJ-F72ZbIAARMIx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24073,
+    "content": "A high-resolution, hyper-realistic cinematic portrait of a {argument name=\"subject\" default=\"woman's face\"} split down the middle by a vertical torn paper effect. On the left side, the image is in vibrant color, featuring warm skin tones, {argument name=\"color side details\" default=\"bright hazel eyes, and bold red lipstick\"}. On the right side, the image is in deep black and white, showing a tear streaming down the cheek. The lighting is dramatic and cinematic with soft bokeh, focusing on ultra-detailed skin textures. She is wearing {argument name=\"outfit\" default=\"a black high-neck sweater and a simple gold chain necklace\"}. 8K resolution, professional photography style.",
+    "title": "Cinematic Torn Paper Split Portrait",
+    "description": "A striking cinematic portrait featuring a vertical torn paper effect that divides a face between vibrant color and deep black and white, perfect for high-detail photography enthusiasts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916892_aoi834_HJ-CsA4boAEtWN1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24081,
+    "content": "A breathtaking fashion portrait featuring the {argument name=\"face\" default=\"uploaded face\"} perfectly preserved. Behind her, swirling sculptural clouds of {argument name=\"smoke style\" default=\"illuminated smoke\"} form a gigantic artistic silhouette of her profile. She stands elegantly in a {argument name=\"studio\" default=\"minimalist studio\"} wearing a luxurious textured fashion ensemble. Soft golden and charcoal lighting interact with the smoke formations, creating an ethereal cinematic atmosphere. Ultra-realistic details, premium magazine-cover quality, artistic visual storytelling, luxury fashion campaign aesthetics, dramatic depth, subtle film grain, masterpiece composition, unforgettable editorial look.",
+    "title": "Smoke Silhouette Fashion Portrait",
+    "description": "A creative fashion portrait prompt that preserves an uploaded face while generating artistic smoke-based silhouettes in a luxury studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645920779_75h86i_HJ9_RecbIAAkAWX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24088,
+    "content": "Without changing my facial features or face. Create an Ultra-realistic cozy streetwear portrait which looks original. The model sits casually relaxed at an outdoor café in a {argument name=\"location\" default=\"London city with elegant stone architecture and wrought-iron details\"}. She wears an {argument name=\"clothing\" default=\"oversized beige 'Girlish' sweatshirt, chocolate brown cargo pant, and white New Balance sneakers\"}. A beige {argument name=\"accessory\" default=\"Prada crossbody pouch\"} adds a chic touch. Accessories: minimal jewelry, neutral manicure. Her skin glows and the sunlight adds a brightness to her flawless skin. 9:16 ratio, one single picture",
+    "title": "London Streetwear Lifestyle Portrait",
+    "description": "A photorealistic streetwear prompt for Nano Banana Pro that focuses on maintaining facial identity while generating a stylish outdoor cafe scene in London.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645922972_vzingw_HJ79ZCVXkAA_iL0.jpg",
+      "https://cms-assets.youmind.com/media/1780645922994_h1tp7y_HJ79Z4uWkAAspZo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24078,
+    "content": "Ultra-realistic beach portrait of a {argument name=\"subject\" default=\"young blonde woman\"} sitting gracefully on warm golden sand at sunset. She has long wavy sun-kissed blonde hair adorned with a {argument name=\"accessory\" default=\"white plumeria flower\"} tucked behind her ear, soft natural makeup, luminous skin, and a calm, captivating gaze directed toward the camera. She wears an {argument name=\"outfit\" default=\"elegant strapless ivory mini dress with subtle ruching and a decorative starfish accent\"}, layered gold necklaces, delicate bracelets, rings, and small hoop earrings. The setting is a tropical beach with gentle waves, dark volcanic rock formations, and distant islands silhouetted against a pastel sunset sky. Warm golden-hour lighting casts a soft glow across the scene, highlighting skin texture and creating cinematic depth. Luxury resort editorial photography, tropical fashion campaign, shallow depth of field, highly detailed, photorealistic, natural colors, premium magazine quality.",
+    "title": "Tropical Luxury Beach Portrait",
+    "description": "A comprehensive prompt for generating high-end tropical fashion campaign images at sunset, focusing on sand textures and volcanic rock backdrops.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645918318_mxg8lu_HJ9bwJvaAAAkpgs.jpg",
+      "https://cms-assets.youmind.com/media/1780645918313_pw8oom_HJ9bwUYaEAA4R2F.jpg",
+      "https://cms-assets.youmind.com/media/1780645918277_xw0k9i_HJ9bwZibUAAIXcQ.jpg",
+      "https://cms-assets.youmind.com/media/1780645919283_74wunm_HJ9bwclbcAAhruh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24093,
+    "content": "Ultra-realistic lifestyle portrait of a beautiful young woman relaxing on a {argument name=\"furniture\" default=\"rustic wooden park bench\"} in a {argument name=\"setting\" default=\"serene nature setting\"} during golden hour. She is seated confidently with one arm casually resting along the back of the bench and the other hand resting gently on her raised knee, creating a relaxed yet stylish pose. Her expression is warm and approachable with a subtle, natural smile that radiates confidence and charm.",
+    "title": "Golden Hour Lifestyle Portrait",
+    "description": "A natural and warm lifestyle portrait of a young woman relaxing on a park bench during the golden hour, focusing on charm and realistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645924992_oazf5s_HJ9MMwtXgAAAFHE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24076,
+    "content": "Photorealistic portrait of a young woman with long wavy auburn-red hair and straight bangs, fair skin, calm confident expression, wearing a fitted light pink ribbed tank top with thin spaghetti straps and high-waisted cream athletic leggings, hand on waist, holding a black smartphone in other hand, standing in sunny arid landscape with dry brush and distant hills, natural daylight, shallow depth of field, sharp focus, lifestyle photography, warm color grading, 8K Ultra HD, shot on Canon EOS R5 with 85mm lens --ar 3:4 --style raw --s 200 --v 6.1 Photorealistic portrait of a young woman with long wavy auburn-red hair and bangs, fair skin, subtle freckles, looking back over left shoulder at camera, wearing light pink ribbed tank top with thin adjustable straps and cream high-waisted athletic leggings, holding dark smartphone, standing in sunlit arid setting with dry vegetation and hazy mountains, bright natural light, background bokeh, high detail, 8K Ultra HD, lifestyle photography, warm tones, professional camera --ar 3:4 --style raw --s 200 --v 6.1",
+    "title": "Arid Landscape Lifestyle Portrait",
+    "description": "A photorealistic lifestyle prompt for capturing natural daylight portraits in dry, hilly environments with a focus on specific camera settings and high-detail textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645917954_ya0aat_HJ8x8zKbkAAvEYp.jpg",
+      "https://cms-assets.youmind.com/media/1780645918218_a4lry6_HJ8x9K4aAAACN04.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24087,
+    "content": "\"subject\": \"{argument name=\"subject\" default=\"young woman, platinum blonde bob with bangs, blue eyes, tear on cheek, arms self-wrapped\"}\",\n  \"outfit\": \"oversized off-shoulder cream knit sweater\",\n  \"setting\": \"warm beige wooden background\",\n  \"mood\": \"melancholic, ethereal, soft editorial\"",
+    "title": "Melancholic Blonde Editorial Portrait",
+    "description": "A concise editorial prompt for Nano Banana Pro generating a melancholic portrait of a subject with a platinum blonde bob and ethereal lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645922822_17cel6_HJ8w3T4WwAA2Vpc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24091,
+    "content": "Ultra-realistic golden hour portrait of a {argument name=\"subject\" default=\"young woman\"} sitting in a {argument name=\"setting\" default=\"luxurious tropical cafe conservatory filled with large green tropical plants\"} and natural sunlight. She has long, soft, wavy reddish brown hair with wispy bangs that frame her face, a single loose strand falling across her cheek. A vibrant yellow hibiscus flower is tucked behind her left ear. She has fair smooth skin with a natural dewy glow, subtle freckles across the nose and cheeks, large hazel-green eyes enhanced with soft eyeliner and long lashes, softly flushed cheeks, glossy plump pink lips, delicate facial features, and an elegant feminine appearance. She is wearing a {argument name=\"outfit\" default=\"fitted strapless lime-yellow tube top\"} exposing her shoulders and collarbones. Around her neck are multiple layered gold necklaces featuring seashell-inspired pendants and delicate chains. She wears a gold round earring and a metallic gold cuff bracelet. The composition is a close-up selfie-style portrait shot from a slightly elevated angle, with her head gently tilted and eyes gazing directly into the camera. Warm late-afternoon sunlight creates dramatic highlights across her face, shoulders, and clothing, producing cinematic shadows and a dreamy tropical atmosphere. Background features a modern glass-roof indoor garden cafe with lush tropical foliage, soft bokeh, luxury resort vibes, shallow depth of field, natural lighting, photorealistic skin texture, ultra-detailed eyes, fashion photography, editorial beauty portrait, high-end lifestyle photography, 85mm lens, f/1.8, HDR, 8K resolution, masterpiece, extremely detailed.\n\nNegative Prompt:\nlow quality, blurry, out of focus, bad anatomy, extra fingers, extra limbs, asymmetrical eyes, distorted face, plastic skin, oversaturated colors, heavy makeup, cartoon, anime, CGI, 3D render, watermark, text, logo, duplicate accessories, cropped head, harsh shadows, overexposed highlights, noisy background, unrealistic proportions.\n\nAspect Ratio: 9:16\nStyle: Photorealistic / Fashion Editorial\nLighting: Golden Hour Natural Light\nCamera: 85mm Portrait Lens\nQuality: Ultra Detailed, 8K, HD",
+    "title": "Golden Hour Tropical Cafe Portrait",
+    "description": "An ultra-realistic fashion editorial prompt for Nano Banana Pro capturing a woman in a tropical conservatory during golden hour with intricate accessory details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923977_zzf8nd_HJ8iXEfW8AAsz1f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24082,
+    "content": "{\n  \"subject\": {\n    \"name\": \"{argument name=\"name\" default=\"[NAME]\"}\",\n    \"pose\": \"standing, leaning casually against a washing machine\",\n    \"clothing\": {\n      \"top\": \"{argument name=\"top\" default=\"tight white cropped top\"}\",\n      \"bottom\": \"{argument name=\"bottom\" default=\"tight black athletic shorts with white piping on the edges\"}\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"messy bathroom\"\n  },\n  \"photography_style\": {\n    \"type\": \"everyday casual photo\",\n    \"camera_simulation\": \"iPhone camera\",\n    \"shot_type\": \"medium shot\",\n    \"quality\": \"low quality, slightly blurry, candid aesthetic\"\n  },\n  \"aspect_ratio\": \"9:16\"\n}",
+    "title": "Casual Bathroom Selfie Aesthetic",
+    "description": "A structured JSON-style prompt for creating a realistic, candid iPhone-style photo of a person in a casual setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645920855_lougc0_HJ8hDdbbIAEJD51.jpg",
+      "https://cms-assets.youmind.com/media/1780645920817_basmaa_HJ8hDhkbMAAhs6j.jpg",
+      "https://cms-assets.youmind.com/media/1780645920810_2vyit7_HJ8hDnkbEAApD9S.jpg",
+      "https://cms-assets.youmind.com/media/1780645921339_5xmgk8_HJ8hDstbsAAwnJe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24072,
+    "content": "A high-resolution, ultra-detailed cinematic portrait of a {argument name=\"subject\" default=\"beautiful woman\"} looking into a {argument name=\"prop\" default=\"round vanity mirror surrounded by bright, warm glowing bulbs\"}. She is wearing a {argument name=\"outfit\" default=\"sharp, tailored yellow blazer over a crisp white dress shirt and a black necktie\"}, with subtle cufflink details visible. The lighting is cinematic with a soft bokeh effect in the background, creating high-contrast and professional studio quality. 8K resolution, elegant fashion photography style.",
+    "title": "Vanity Mirror Fashion Portrait",
+    "description": "A professional fashion photography prompt focusing on lighting and high-end styling, depicting a subject in a sharp blazer reflected in a glowing vanity mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645916939_c75vj1_HJ8b9FuWoAE6fZQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24099,
+    "content": "A series of warm, cinematic autumn portraits featuring a {argument name=\"subject\" default=\"woman with wavy, shoulder-length brown hair\"}, a soft smile, and a gentle expression. She is wearing a {argument name=\"outfit\" default=\"vibrant, emerald-green long-sleeved knit sweater\"} paired with dark blue jeans. The setting is a {argument name=\"location\" default=\"serene park during golden hour\"}, with the background beautifully blurred into a soft bokeh of rich orange, yellow, and brown autumn foliage. In some compositions, she interacts gracefully with large, moss-covered tree trunks—leaning against them, touching the textured bark, or resting at the base of a tree surrounded by fallen autumn leaves while holding a multi-colored leaf. Other shots include tight close-ups, focusing on her resting her chin on her hands, showcasing a subtle gold ring on her finger. The lighting is soft and directional, creating a warm glow around her hair and casting a cozy, peaceful mood throughout the entire scene.",
+    "title": "Autumn Cinematic Portrait Series",
+    "description": "A series of warm, cinematic portraits of a woman in an emerald-green sweater, set against a blurred autumn park background with rich bokeh effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645928471_ykdbhx_HJ8YIPiXwAEPz9o.jpg",
+      "https://cms-assets.youmind.com/media/1780645927069_umsggq_HJ8XYqFXIAAcLKT.jpg",
+      "https://cms-assets.youmind.com/media/1780645927038_7a46x0_HJ8ZEa7XoAA1POS.jpg",
+      "https://cms-assets.youmind.com/media/1780645927570_dppbxt_HJ8WwH1WAAAlklv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23885,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin tone, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity.\n\nCreate an ultra-realistic anime-meets-fashion editorial portrait inspired by a premium Tokyo streetwear campaign. The scene features me standing confidently at the center of a powerful gang-style lineup, surrounded by six elite anime-inspired characters. The composition resembles a luxury fashion magazine cover and high-end streetwear advertisement.\n\nI am positioned in the exact center, walking slightly forward with hands inside pockets, projecting confidence, leadership, dominance, and effortless charisma. My expression is calm, serious, and intimidating. My face remains fully realistic while all surrounding characters have highly detailed anime aesthetics.\n\nOutfit: long cream-white trench coat with subtle embroidered black graphics, layered over a fitted black turtleneck and black luxury streetwear trousers. Multiple silver chain necklaces, rings, and accessories. Black leather belt with hanging chains. Premium black combat boots with reflective highlights.\n\nSurrounding me are six stylish anime delinquent characters arranged symmetrically:\n•Two crouching in the foreground\n•Two standing slightly behind me\n•Two positioned further back creating depth and hierarchy\n\nEach character wears coordinated luxury Tokyo streetwear in black, cream, and silver tones, featuring bomber jackets, trench coats, layered necklaces, earrings, belts, straps, embroidered details, and polished combat boots.\n\nEnvironment: futuristic fashion runway meets underground Tokyo headquarters. Massive vertical illuminated panel behind the group creating a dramatic spotlight effect. Glossy reflective marble floor. Soft atmospheric haze. Cinematic depth. Premium editorial lighting.\n\nLighting: luxury fashion campaign lighting, soft key light on face, subtle rim lighting, dramatic shadows, reflective highlights on clothing, high dynamic range, realistic skin reflections, premium studio photography quality.\n\nStyle: ultra-realistic fashion photography, luxury magazine cover, Tokyo streetwear aesthetic, anime-inspired gang leadership, cinematic storytelling, high-end advertising campaign, dark elegance, sophisticated rebel energy.\n\nColor palette: black, ivory, cream, silver, charcoal gray, muted gold accents.\n\nCamera: low-angle full-body shot, 85mm lens, fashion editorial composition, centered symmetry, cinematic depth of field, sharp focus on me, background slightly softened.\n\nQuality: masterpiece, ultra detailed, 8K, hyper realistic, magazine-quality photography, award-winning fashion campa",
+    "title": "Tokyo Streetwear Anime Leader Portrait",
+    "description": "An editorial fashion prompt that blends a realistic facial identity with a stylized Tokyo streetwear aesthetic, featuring an elite anime-inspired gang lineup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645924779_h9a724_HJ8HZU5acAAfMOD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24084,
+    "content": "Ultra-realistic cinematic rainy-day portrait collage of a {argument name=\"subject\" default=\"young man\"} on an empty wet roadway during monsoon weather. The composition features three versions of the same man blended into one dramatic scene. A giant close-up portrait dominates the cloudy sky in the background, showing the man gazing upward with a calm, hopeful smile. In the foreground, the man sits casually on the curb beside a {argument name=\"vehicle\" default=\"sleek black street motorcycle\"}, resting his chin on his hand in a thoughtful pose. Another full-body version of him walks confidently down the center of the rain-soaked road with one hand in his pocket. He has {argument name=\"features\" default=\"short curly black hair, a neatly trimmed beard, expressive eyes\"}, and wears a black oversized hoodie, light gray cargo pants, gray-and-white sneakers, and a black smartwatch. Raindrops are visible on his clothing and face. The environment features a deserted tree-lined avenue after rainfall, reflective asphalt, glowing streetlights, dramatic storm clouds, soft mist, wet road reflections, lush green foliage, and subtle bokeh lights in the distance. The motorcycle's headlight casts a warm glow onto the wet pavement. Professional photography, cinematic color grading, ultra-sharp focus, HDR, realistic skin texture, natural lighting, depth of field, volumetric atmosphere, moody monsoon aesthetic, emotional storytelling, highly detailed, 8K resolution, Photoshop-style photo manipulation, Instagram portrait edit, masterpiece quality.",
+    "title": "Cinematic Rainy Day Portrait Collage",
+    "description": "A complex cinematic prompt for Nano Banana 2 that creates a multi-layered collage of a subject in a rainy monsoon environment with a motorcycle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645921735_kbyjxg_HJ8EhlobgAAyfC2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24090,
+    "content": "Use the exact same face from the reference image and generate a Ultra-realistic environmental portrait of a {argument name=\"subject\" default=\"young man\"} standing casually with his back leaning against a simple aged beige wall. A traditional window is positioned beside him, adding architectural character to the scene. Above, a branch of {argument name=\"leaves\" default=\"vibrant orange autumn leaves\"} extends into the frame, with a few leaves gently drifting through the air. Warm sunlight filters through the foliage, creating natural dappled light patterns and soft shadows across the wall, ground, and subject. The man faces the camera directly, captured from a front-angle perspective in a full-body, wide-distance composition that showcases both the subject and surrounding environment. He has messy, tousled dark hair falling naturally across his forehead, with realistic texture and subtle movement. His expression is calm, confident, and effortlessly stylish. He wears relaxed {argument name=\"outfit\" default=\"beige wide-leg trousers, an oversized terracotta button-up shirt with sleeves casually rolled to the forearms, and clean modern sports sneakers\"}. The color palette is warm, earthy, and harmonious, complementing the autumn atmosphere. Natural sunlight illuminates the scene with realistic highlights, soft contrast, and cinematic depth. Highly detailed skin texture, authentic fabric folds, professional photography, shallow depth of field, ultra-sharp focus, realistic color grading, editorial lifestyle photography, captured on a high-end full portrait.",
+    "title": "Autumn Environmental Portrait",
+    "description": "A detailed environmental portrait prompt for Nano Banana Pro featuring a young man leaning against a wall with falling autumn leaves and sunlight patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780645923742_y6ua99_HJ8APpZasAA4sGy.jpg"
     ],
     "needReferenceImages": true
   },
