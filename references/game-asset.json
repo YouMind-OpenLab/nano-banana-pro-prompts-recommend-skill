@@ -1,5 +1,15 @@
 [
   {
+    "id": 24226,
+    "content": "Whimsical miniature world depiction of a {argument name=\"location\" default=\"luxury hotel lobby\"} in an artistic {argument name=\"style\" default=\"arborpunk\"} style.",
+    "title": "Miniature Luxury Hotel Lobby",
+    "description": "A creative prompt that depicts a whimsical miniature world version of a luxury hotel lobby in an artistic arborpunk style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780730535652_20y3px_HKEAQuna0AAJj0F.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23888,
     "content": "8K ultra-realistic cinematic. Turn this photo into a {argument name=\"target\" default=\"character figure\"}. Behind it, place a box with the character's image printed on it, and a computer showing the blender modeling process on its screen. In front of the box, and a round plastic base with the character figure standing on it. Set the scene indoors",
     "title": "Character Figure Product Photography Setup",

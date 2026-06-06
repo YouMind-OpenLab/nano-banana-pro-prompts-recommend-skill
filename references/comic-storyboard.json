@@ -1,5 +1,17 @@
 [
   {
+    "id": 24223,
+    "content": "{argument name=\"style\" default=\"High-contrast vintage ink illustration\"}, {argument name=\"aesthetic\" default=\"retro noir graphic novel\"} aesthetic, bold monochrome rendering with dominant black ink and off-white tones, strong silhouette emphasis, rough expressive brush strokes combined with dry-brush texture, heavy grain and paper noise, distressed print effect, halftone and ink bleed imperfections, hand-drawn cross-hatching and scratchy linework, gritty analog print style, screenprint/poster-like finish, limited color palette with striking flat background (solid {argument name=\"background color\" default=\"red\"} or bold single color), dramatic negative space usage, cinematic composition with layered collage structure, mixed scale elements (oversized upper figure + smaller narrative scene below), editorial illustration style, mid-20th century pulp magazine influence, slightly abstracted anatomy with exaggerated wrinkles and texture, raw imperfect edges, splatter and ink blot accents, matte finish with minimal gloss, high visual tension, stark lighting with deep shadows and blown highlights, minimal gradients (mostly flat tones), distressed typography integration feel (optional), vintage propaganda/poster vibe Important addition (to keep face/object consistent & usable for other objects): preserve original facial structure, maintain exact proportions and identity, no distortion on main subject, style applied only to rendering and environment, consistent facial integrity, modular composition, subject-agnostic style, adaptable to any central object without altering its form.",
+    "title": "Vintage Noir Ink Illustration",
+    "description": "A gritty, high-contrast illustration prompt in a retro noir graphic novel style, featuring bold silhouettes, ink bleed effects, and a striking solid background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780730533572_rhjs4q_HKBtIYOWAAAgUEl.jpg",
+      "https://cms-assets.youmind.com/media/1780730533311_t6z51u_HKBtIXuXsAI7osP.jpg",
+      "https://cms-assets.youmind.com/media/1780730533471_7in11u_HKBtIbiW8AICMuU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24075,
     "content": "Contemporary anime illustration of a {argument name=\"subject\" default=\"confident young woman\"} shown from the waist up, windswept hair and expressive eyes, captured in a dramatic three-quarter pose. Fashion-forward {argument name=\"outfit style\" default=\"kimono-inspired streetwear with oversized sleeves, layered fabrics, and metallic accessories\"}. Floating around her are {argument name=\"elements\" default=\"symbolic elements including cherry blossoms, paper cranes, and celestial symbols\"}. Graffiti-inspired sketchwork, energetic brush pen strokes, ink drips, splatter effects, and free-flowing calligraphic lines blend with soft watercolor pastels. White gallery-style background with generous negative space. Rich comic sketch texture, handcrafted illustration feel, emotional storytelling atmosphere, exceptional detail, polished Japanese visual novel and artbook aesthetic, ultra-high quality, vertical format.",
     "title": "Anime Streetwear Illustration",
