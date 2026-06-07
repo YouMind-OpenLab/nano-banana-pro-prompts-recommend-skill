@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 24363,
+    "content": "A 3D shadowbox display version of 11054.jpg. The \"ONE PIECE\" typography at the top is rendered as thick, raised 3D stone-textured letters with prominent drop shadows. The central woman is fully multi-dimensional, casting a realistic, soft shadow onto the textured background behind her to create a distinct layer of depth. The sketches, manga panels, and \"WANTED\" poster in the background are subtly embossed and debossed into the concrete wall texture. The entire image is enclosed in an ornate wooden shadowbox frame, with directional top-down studio lighting that emphasizes the deep, tangible layers and physical depth. A 3D shadowbox display version of 11055.jpg. The \"DRAGON BALL\" typography at the top is transformed into heavy, weathered, 3D metallic block letters that cast distinct drop shadows onto the background. The central woman is a realistic, lifelike figure stepping forward, creating physical depth and separation from the wall behind her. The entire composition is encased within a rustic wooden shadowbox frame with soft, warm LED strip lighting running along the inner edges, casting dynamic shadows and accentuating the multi-layered, three-dimensional pop-out effect.",
+    "title": "3D Shadowbox Manga Display",
+    "description": "Transform existing images into a multi-layered 3D shadowbox display with stone textures and realistic depth effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818179771_a8c3x7_HKIPddqa4AAoZwh.jpg",
+      "https://cms-assets.youmind.com/media/1780818180414_8ecbmc_HKIPdi8b0AArchZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23907,
     "content": "A cinematic, highly detailed dual portrait showcasing two distinct men captured in an identical moody, atmospheric setting. Both men are looking slightly away from the camera with pensive, intense expressions, positioned next to a rustic, sunlit window. Golden hour sunlight streams through the glass panes, casting sharp, textured shadows and a warm glow across their faces, hair, and clothing. They are both wearing matching, {argument name=\\\"outfit\\\" default=\\\"dark charcoal-colored button-down shirts\\\"}. The first man features {argument name=\\\"hair style 1\\\" default=\\\"wavy, styled dark hair\\\"}, a clean-shaven face with light stubble, sharp jawline features, and striking hazel-green eyes. The second man features {argument name=\\\"hair style 2\\\" default=\\\"short, neatly styled dark hair\\\"}, a full, well-groomed beard and mustache, and intense brown eyes. The background is dimly lit and dark, creating a dramatic, high-contrast chiaroscuro effect that emphasizes the hyper-realistic skin textures, fine facial details, and emotional depth of both subjects.",
     "title": "Moody Dual Portrait at Golden Hour",

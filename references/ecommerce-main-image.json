@@ -1,5 +1,26 @@
 [
   {
+    "id": 24378,
+    "content": "A professional fashion studio photoshoot of a {argument name=\"subject\" default=\"young East Asian woman\"} with a sleek, chin-length bob haircut, showcasing a modern {argument name=\"style\" default=\"monochromatic sage green outfit\"}. She is wearing a tailored sage green button-up vest paired with matching high-waisted, wide-leg trousers, and has a textured, oversized sage green wool trench coat draped elegantly over her shoulders. Her accessories include layered gold chain necklaces with a key pendant, delicate gold bracelets, and chunky cream-colored strappy fisherman sandals. The scene is shot against a minimalist, muted soft mint-green backdrop, capturing a clean, sophisticated, and contemporary aesthetic. The prompt should generate a collection of full-body and three-quarter shots from multiple angles: standing confidently with one hand in her pocket, sitting relaxed on a simple wooden block crate against a textured wall, and a dynamic mid-shot capturing her smiling while adjusting the lapels of her draped coat. The lighting is soft and even, highlighting the clean tailoring, textures of the fabrics, and an elegant, calm expression.",
+    "title": "Sage Green Monochrome Fashion Lookbook",
+    "description": "A professional fashion studio shoot featuring a modern monochromatic outfit in sage green with a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818186639_ii6gbq_HKI60mUXgAAur67.jpg",
+      "https://cms-assets.youmind.com/media/1780818186656_l5tqaz_HKI60qxW0AA26tJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24369,
+    "content": "A high-quality, professional fashion photography shot of a model wearing an elegant, {argument name=\"dress style\" default=\"floor-length sky-blue Pakistani maxi gown\"}. The dress features {argument name=\"details\" default=\"intricate silver floral embroidery, sequins, and beadwork\"} along the side panel and hem. The neckline has a distinctive cutout design adorned with silver embellishments. The fabric is a light, flowing tulle or chiffon. The model has an elegant updo hairstyle with small floral hair accessories, dangling earrings, and a matching bracelet. The background is a {argument name=\"background\" default=\"soft, blurred studio setting with light blue and white flowers\"}. Cinematic lighting, luxurious atmosphere, 8k resolution, highly detailed fabric textures.",
+    "title": "Pakistani Maxi Gown Fashion",
+    "description": "Elegant studio fashion photography featuring intricate traditional Pakistani embroidery and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818183213_t743v6_HKGimf8WgAAGyyh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24077,
     "content": "A high-end UGC fashion campaign featuring a {argument name=\"subject\" default=\"young East Asian woman with long, sleek straight black hair\"}, showcasing a product. She is wearing a {argument name=\"outfit\" default=\"deep maroon knit cowl-neck short-sleeve top with elegant draped pleats on the shoulder and ruching on the sides, paired with white drawstring cargo shorts\"}.\nA multi-angle cinematic sequence style, showcasing both full-body lifestyle shots and close-up fabric textures. The setting is a {argument name=\"environment\" default=\"minimalist, modern aesthetic apartment with a cream-colored curved sofa, a large gold-rimmed standing mirror, and bright windows\"}. Soft, diffused natural morning sunlight illuminating the scene, casting gentle shadows.\nPhotorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 aperture, sharp focus on the fine texture of the burgundy fabric, clean color grading, 8K resolution.",
     "title": "High-End UGC Fashion Campaign",

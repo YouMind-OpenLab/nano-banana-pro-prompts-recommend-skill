@@ -1,5 +1,15 @@
 [
   {
+    "id": 24399,
+    "content": "A photorealistic mid-century modern interior scene featuring a young girl sitting naturally on a sculptural {argument name=\"furniture\" default=\"cream boucle sofa\"}. The girl has long, softly curled dark hair and is wearing a {argument name=\"outfit\" default=\"light green floral traditional outfit\"} with a sheer dupatta. She is centered in the frame, looking calmly at the camera with a gentle smile.\nThe interior is designed in authentic mid-century modern style: clean lines, warm natural wood tones, and minimalist architecture. Include a wooden coffee table with stacked design books, a ceramic bowl, and subtle decor. A brass arc floor lamp stands beside the sofa. In the background, a modern fireplace with textured stone or brick wall, and a framed abstract artwork.\nLarge floor-to-ceiling windows allow bright, cinematic natural sunlight to flood the room, casting soft shadows and highlighting textures—fabric, wood grain, and stone surfaces. Add indoor plants for warmth and realism.\nColor palette: warm neutrals, beige, tan, soft browns, muted greens.\nLighting: soft golden-hour sunlight, editorial interior photography style.\nCamera: eye-level shot, shallow depth of field, 50mm lens, ultra-detailed, high dynamic range.\nStyle: high-end editorial interior photography, ultra-realistic, natural skin tones, fine textures, no artificial or CGI look.",
+    "title": "Mid-Century Modern Interior Girl Portrait",
+    "description": "A high-end interior photography prompt featuring a young girl in traditional floral attire seated in an authentic mid-century modern living room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818198315_l8aznp_HKF-ZHqbAAARbCf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23407,
     "content": "Portrait of a young woman sitting cross-legged on a {argument name=\"furniture\" default=\"modern gray sofa\"} in a bright contemporary living room, holding a {argument name=\"object\" default=\"gaming controller\"} and playfully sticking out her tongue at the camera. Long dark brown wavy hair, natural makeup, expressive blue eyes, casual black tie-front crop top and black leggings, layered gold necklaces. Soft natural daylight streaming through large windows, cozy {argument name=\"decor\" default=\"pink faux-fur blanket\"} draped over the couch, bouquet of pink roses on a side table, elegant crystal chandelier overhead, modern staircase in the background. Pink neon wall sign glowing behind her, relaxed playful mood, candid home interior photography, shallow depth of field, realistic skin texture, high detail, Sony A7R V, 50mm lens, f/1.8, cinematic lighting, ultra-realistic, editorial lifestyle photography, clean luxury apartment aesthetic, 8K quality.",
     "title": "Playful Luxury Apartment Gaming Portrait",

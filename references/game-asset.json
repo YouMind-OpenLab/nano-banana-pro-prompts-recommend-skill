@@ -1,5 +1,35 @@
 [
   {
+    "id": 24395,
+    "content": "Create highly detailed, whimsical 3D rendering of a {argument name=\"subject\" default=\"miniature Chibi cute girl\"} sitting atop {argument name=\"object\" default=\"mocha frappe cup\"}, cute pose. A close-up, first-person perspective, a realistic female hand holds the cup and a phone in other hand, camera app is open, phone screen display live snapshot of the scene. Soft warm lighting, gentle bokeh, blurred cozy room background, shallow depth of field, 8K UHD.",
+    "title": "Whimsical Chibi Mocha Frappe Cup",
+    "description": "A whimsical 3D rendering prompt featuring a cute chibi girl sitting on a mocha frappe cup, presented as a first-person phone snapshot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818197370_qal1mb_HKI2GwHWgAAQ1Nv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24408,
+    "content": "Overall redraw and optimization of the image without changing the {argument name=\"original composition\" default=\"original composition\"}, {argument name=\"character pose\" default=\"character pose\"}, character design, original lighting effects, and lens relationship. Maintain the {argument name=\"illustration style\" default=\"2.5D Japanese illustration style\"}, but reconstruct the frame for a cleaner, more unified visual output. Perform global readjustment of color and lighting on the existing image so that the overall light and shadow relationship follows a single, stable lighting logic. Use a soft, uniform primary light source, avoiding layered shadows and fractured color blocks caused by multiple light sources. Shadow edges should transition naturally without hard boundaries or blocky filling. Unify material representation, ensuring continuous gradient structures in the color transitions of skin, hair, and clothing, reducing local noise, color block accumulation, and non-continuous shadow areas. Avoid any mosaic, dirty spots, or cloud-like color structures. The overall style should be within the high-quality 2.5D animation illustration range, with a slight sense of volume and soft spatial depth, but without introducing realistic skin textures, pore details, or photographic sharpening effects. Retain a moderate hand-painted feel and smooth color gradations. Reduce local high-frequency detail interference, avoid over-sharpened edges and excessive texture enhancement, and give the picture a clean visual fluidity and unified color rhythm. Keep character outlines and hair structures continuous, smooth, and consistent, avoiding edge jitter, breakage, or granular jaggedness. Lines should resemble stable hand-drawn animation line art rather than boundaries formed by local sharpening or noise stacking. Outline changes should transition smoothly without local 'jumps' or irregular fluctuations. Overall reduce microscopic contrast and local sharpening tendencies, keeping edge transitions soft for visual fusion. Avoid knife-cut hard edges or overly clear separation at the boundaries of skin, hair, and clothing. Highlights and shadows should be connected by flexible gradients rather than sharp-line structures. The overall look should be 'clear but not sharp,' retaining physical recognition while suppressing pixel-level sharpening marks. The final output should be a clear, soft, high-quality 2.5D illustration without regional contamination, featuring a stable lighting system, continuous line structures, and natural gradient transitions.",
+    "title": "2.5D Illustration Cleanup and Enhancement",
+    "description": "A detailed optimization prompt for refining 2.5D illustrations. It fixes artifacts, uneven coloring, and over-sharpening while preserving the original character design and composition. Ideal for high-definition redrawing and achieving a clean, anime-style finish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818203705_2gtaxo_HKGqev5aYAAogoK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24412,
+    "content": "{argument name=\"location\" default=\"Abyss, bottomless pit, deep chasm\"}\n\n{argument name=\"event\" default=\"Painting of a UFO falling\"}\n\n{argument name=\"style\" default=\"Cyberpunk\"}",
+    "title": "UFO Crash in the Abyss (Cyberpunk)",
+    "description": "A cinematic prompt describing a UFO crashing into a dark abyss with a cyberpunk art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780818205959_g4wnbf_HKGI7_wbgAAXxrs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24226,
     "content": "Whimsical miniature world depiction of a {argument name=\"location\" default=\"luxury hotel lobby\"} in an artistic {argument name=\"style\" default=\"arborpunk\"} style.",
     "title": "Miniature Luxury Hotel Lobby",
