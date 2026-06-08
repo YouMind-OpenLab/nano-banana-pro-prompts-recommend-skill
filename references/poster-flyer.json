@@ -20,12 +20,22 @@
     "needReferenceImages": false
   },
   {
-    "id": 24371,
-    "content": "A warm, affectionate {argument name=\"style\" default=\"illustration\"} on a {argument name=\"background color\" default=\"light beige\"}, subtly textured background filled with a playful scatter of different food items—like steaming bowls, plates of appetizers, desserts, fruits, and drinks—surrounding colorful, handwritten text in the center. The text, in a whimsical, slightly uneven cursive font, reads \"{argument name=\"quote\" default=\"I'm so glad you exist so we can eat good food together.\"}\" Each word is a different bright, cheerful color, with soft shadows and gentle outlines to make the letters pop while preserving a handmade, imperfect feel. The composition feels cozy and inviting, with a harmonious layout that radiates warmth, love, and togetherness.  Suitable as poster art.",
-    "title": "Warm Food Illustration with Handwritten Quote",
-    "description": "A cozy and inviting illustration featuring a variety of food items surrounding a colorful handwritten message about sharing meals together.",
+    "id": 24573,
+    "content": "{argument name=\"date\" default=\"June 7th\"} {argument name=\"event\" default=\"Horse Racing Yasuda Kinen\"} 1600 meters, 1600 Battle of Sekigahara, {argument name=\"style\" default=\"cyberpunk\"}",
+    "title": "Cyberpunk Historical Horse Racing",
+    "description": "A unique prompt combining modern horse racing at the Yasuda Kinen with historical battle elements in a cyberpunk style.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780818183893_1vw97e_HKH0ChOX0AAFTL0.jpg"
+      "https://cms-assets.youmind.com/media/1780905990335_ckyiyt_HKMDNmBa8AAErJj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24371,
+    "content": "A warm, affectionate illustration on a light beige, subtly textured background filled with a playful scatter of {argument name=\"food items\" default=\"steaming bowls, plates of appetizers, desserts, fruits, and drinks\"}—surrounding colorful, handwritten text in the center. The text, in a whimsical, slightly uneven cursive font, reads \"{argument name=\"quote\" default=\"I'm so glad you exist so we can eat good food together.\"}\" Each word is a different bright, cheerful color, with soft shadows and gentle outlines to make the letters pop while preserving a handmade, imperfect feel. The composition feels cozy and inviting, with a harmonious layout that radiates warmth, love, and togetherness. Suitable as {argument name=\"art style\" default=\"poster art\"}.",
+    "title": "Whimsical Food Quote Illustration",
+    "description": "A warm and cozy illustration prompt featuring a playful scatter of food items surrounding a colorful handwritten quote about sharing meals, designed for a handmade look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780905990457_bycwk6_HKH0ChOX0AAFTL0.jpg"
     ],
     "needReferenceImages": false
   },

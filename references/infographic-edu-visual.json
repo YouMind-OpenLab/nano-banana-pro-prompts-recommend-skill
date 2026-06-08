@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 24561,
+    "content": "a detailed layout of {argument name=\"subject\" default=\"various beetles and insects\"} created in a {argument name=\"style\" default=\"soft pastel chalk art style\"}, with subtle chalk dust and textured paper grain visible. Harmonious, gently blended colors on a {argument name=\"background\" default=\"lime-green background\"}, arranged in a precise knolling style grid of hand-drawn beetles and insects, with one large, intricately rendered beetle in the center acting as the focal point, high-resolution illustration, clean negative space, top-down view.",
+    "title": "Pastel Chalk Insect Knolling",
+    "description": "A top-down chalk art illustration of various insects and beetles in a grid layout on a lime-green background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780905983936_3w3qrl_HKIEo3HWIAAIUwY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24381,
     "content": "A beautiful, watercolor-style lifestyle mood board and illustration collage capturing the essence of travel, craftsmanship, and European aesthetic. The central figure is a {argument name=\"subject\" default=\"handsome young man with wavy brown hair, a light beard, wearing a green field jacket\"}. He is carrying a leather-trimmed canvas duffel bag and holding a water bottle. Surrounding him are various artistic vignettes: a man taking a photograph, a scenic panoramic sketch of {argument name=\"location\" default=\"Florence, Italy\"}, the same young man at a cafe, and a French leather shop. The artwork features elegant handwritten script titles like \"Journey of a Craftsman\" and \"Explore the Textures,\" paired with bullet points emphasizing artisanal details. The overall color palette consists of earthy tones, greens, browns, and warm watercolor washes on an off-white paper texture background.",
     "title": "European Travel Lifestyle Moodboard",

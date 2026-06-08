@@ -1,5 +1,15 @@
 [
   {
+    "id": 24572,
+    "content": "A {argument name=\"setting\" default=\"neon megacity transit control nexus\"} in an {argument name=\"style\" default=\"artistic cyberpunk style\"}",
+    "title": "Artistic Cyberpunk Neon Megacity",
+    "description": "A prompt for generating a futuristic cyberpunk scene featuring a neon-lit transit control nexus within a sprawling megacity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780905989849_hezwee_HKOMptmaUAAX72n.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24399,
     "content": "A photorealistic mid-century modern interior scene featuring a young girl sitting naturally on a sculptural {argument name=\"furniture\" default=\"cream boucle sofa\"}. The girl has long, softly curled dark hair and is wearing a {argument name=\"outfit\" default=\"light green floral traditional outfit\"} with a sheer dupatta. She is centered in the frame, looking calmly at the camera with a gentle smile.\nThe interior is designed in authentic mid-century modern style: clean lines, warm natural wood tones, and minimalist architecture. Include a wooden coffee table with stacked design books, a ceramic bowl, and subtle decor. A brass arc floor lamp stands beside the sofa. In the background, a modern fireplace with textured stone or brick wall, and a framed abstract artwork.\nLarge floor-to-ceiling windows allow bright, cinematic natural sunlight to flood the room, casting soft shadows and highlighting textures—fabric, wood grain, and stone surfaces. Add indoor plants for warmth and realism.\nColor palette: warm neutrals, beige, tan, soft browns, muted greens.\nLighting: soft golden-hour sunlight, editorial interior photography style.\nCamera: eye-level shot, shallow depth of field, 50mm lens, ultra-detailed, high dynamic range.\nStyle: high-end editorial interior photography, ultra-realistic, natural skin tones, fine textures, no artificial or CGI look.",
     "title": "Mid-Century Modern Interior Girl Portrait",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 24572,
+    "content": "A {argument name=\"setting\" default=\"neon megacity transit control nexus\"} in an {argument name=\"style\" default=\"artistic cyberpunk style\"}",
+    "title": "Artistic Cyberpunk Neon Megacity",
+    "description": "A prompt for generating a futuristic cyberpunk scene featuring a neon-lit transit control nexus within a sprawling megacity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780905989849_hezwee_HKOMptmaUAAX72n.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24395,
     "content": "Create highly detailed, whimsical 3D rendering of a {argument name=\"subject\" default=\"miniature Chibi cute girl\"} sitting atop {argument name=\"object\" default=\"mocha frappe cup\"}, cute pose. A close-up, first-person perspective, a realistic female hand holds the cup and a phone in other hand, camera app is open, phone screen display live snapshot of the scene. Soft warm lighting, gentle bokeh, blurred cozy room background, shallow depth of field, 8K UHD.",
     "title": "Whimsical Chibi Mocha Frappe Cup",
