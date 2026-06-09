@@ -1,5 +1,48 @@
 [
   {
+    "id": 24726,
+    "content": "Transform the {argument name=\"subject\" default=\"uploaded photo\"} into a {argument name=\"style\" default=\"cute childlike crayon drawing\"} while keeping the original pose, composition, clothing, expressions, and background. Use {argument name=\"texture\" default=\"colorful wax-crayon and colored-pencil textures\"}, messy scribbles, shaky outlines, and uneven coloring on textured paper. Simplify the faces into adorable cartoon-style characters with big eyes and rosy cheeks. Keep the mountains, lake, trees, clouds, and sky in a playful hand-drawn style. Add a small rounded-corner reference photo inset in the bottom-right corner showing the original image, with a white border and subtle shadow. Vibrant colors, charming, funny, handmade, high-detail crayon artwork.",
+    "title": "Photo to Crayon Drawing",
+    "description": "Transforms a standard photograph into a cute, childlike crayon drawing while preserving composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990828835_yi3dyy_HKTM4pEa8AArTKB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24721,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"name\": \"{argument name=\"subject\" default=\"[NAME]\"}\",\n      \"expression\": \"Soft and subtle smile\",\n      \"hair\": {\n        \"style\": \"{argument name=\"hair style\" default=\"Side ponytail\"}\",\n        \"accessory\": \"Black and purple butterfly hair clip positioned on the right side\",\n        \"details\": \"Fine, textured strands framing the face\"\n      },\n      \"makeup\": \"Soft, natural makeup\"\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"Fitted shiny purple mini dress\"}\",\n      \"sleeves\": \"Long sleeves\",\n      \"neckline\": \"Deep V-neck\",\n      \"fabric\": \"Smooth, elegant fabric\",\n      \"fit\": \"Figure-enhancing silhouette\"\n    },\n    \"pose\": {\n      \"position\": \"Seated elegantly in a large armchair\",\n      \"posture\": \"Slightly reclined with a relaxed posture\",\n      \"left_arm\": \"Resting on the armrest\",\n      \"right_arm\": \"Raised, forming a small finger-heart gesture\",\n      \"legs\": \"Crossed at the knees, extending toward the lower-right corner of the frame\"\n    },\n    \"setting\": {\n      \"location\": \"Indoor nighttime environment\",\n      \"furniture\": {\n        \"chair\": \"Large ornate white velvet armchair with a dark wooden frame\"\n      },\n      \"background\": {\n        \"right_side\": \"Dark wooden bookshelves filled with books\",\n        \"left_side\": \"Window revealing a dark night sky with tree silhouettes\"\n      }\n    },\n    \"props\": [\n      \"Ornate white velvet armchair\",\n      \"Black and purple butterfly hair clip\",\n      \"Two lit candles in brass candlesticks on a side table to the left\",\n      \"Dark wooden bookshelf filled with books\"\n    ],\n    \"lighting\": {\n      \"key_light\": \"Warm candlelight acting as the primary soft light source\",\n      \"rim_light\": \"Subtle rim light separating the subject from the background\",\n      \"effect\": \"Defined highlights on the skin, legs, and contours of the armchair\"\n    },\n    \"mood\": {\n      \"atmosphere\": \"Calm, intimate, and cozy nighttime ambiance\"\n    },\n    \"technical\": {\n      \"shot_type\": \"Full medium shot\",\n      \"camera_angle\": \"Eye-level\",\n      \"lens\": \"50mm\",\n      \"aperture\": \"f/1.8\",\n      \"depth_of_field\": \"Soft background bokeh\",\n      \"style\": \"Cinematic nighttime portrait photography\",\n      \"quality\": \"RAW 8K photography, rich natural textures, perfectly balanced exposure\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+    "title": "Intimate Nighttime Portrait in Purple Dress",
+    "description": "A complex structured prompt for a cinematic nighttime portrait of a woman in a purple dress, featuring detailed lighting and setting descriptions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990826855_d7z438_HKTMzEsa0AAolXO.jpg",
+      "https://cms-assets.youmind.com/media/1780990826843_ar67fe_HKTMzNaaoAAKoIU.jpg",
+      "https://cms-assets.youmind.com/media/1780990826840_gvivs9_HKTM0NOaAAAq1YS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24704,
+    "content": "An illustration of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy dark brown hair\"}, looking directly at the viewer with a {argument name=\"expression\" default=\"gentle, sweet smile\"}. She is holding a large, abundant bouquet of {argument name=\"flowers\" default=\"white daisies with red centers\"}. She is wearing a light-colored, possibly light yellow, airy dress with long, slightly puffy sleeves. The artwork is presented on a lined notebook paper background, adorned with hand-drawn style elements like a sun, question marks, hearts, leaves, flowers, and text bubbles like 'SUNNY!', 'PRETTY!', and 'FLOWERS!'. The overall style is a charming, detailed digital illustration with a fresh and lovely touch. The photo should have vvp written in cursive on the upper corner. High definition, bright, cheerful colors, and a playful, artistic aesthetic.",
+    "title": "Lined Paper Illustration of Woman with Daisies",
+    "description": "A charming digital illustration of a young woman holding a bouquet of daisies, presented on a notebook paper background with playful hand-drawn elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990819621_9movjb_HKQ1SxlasAAm1nK.jpg",
+      "https://cms-assets.youmind.com/media/1780990819428_wxtyjk_HKQ1S12a4AAV5zJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24719,
+    "content": "Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic black-and-white cinematic portrait of {argument name=\"subject\" default=\"the same man\"} sitting in the {argument name=\"setting\" default=\"back seat of a luxury car at night\"}. He wears a {argument name=\"clothing\" default=\"dark tailored suit\"}, white shirt, loosened tie, and sunglasses. He leans slightly forward with one elbow on his knee, holding a cigarette near the open car window, smoke drifting outside. His expression is silent, tired, powerful, and cinematic. Background: blurred city lights through rain-covered car windows, leather seats, reflections on glass, night traffic bokeh. Lighting: noir black-and-white contrast, soft side light across face, deep shadows, film grain, luxury crime-drama mood. Composition: vertical 4:5, intimate close-up from the front passenger angle. No text, no logo, no watermark.",
+    "title": "Cinematic Noir Luxury Car Portrait",
+    "description": "A high-contrast black-and-white cinematic prompt designed to preserve facial identity from a reference image while placing the subject in a luxury crime-drama setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990825404_unypxi_HKL5aoUXsAAxhdC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24372,
     "content": "Noon. A {argument name=\"creature\" default=\"mermaid\"} is sitting on a large, sun-warmed boulder in the middle of a shallow and fast-flowing river. Her tail, shimmering in the sun, wraps around the stone and goes into the swirling water. In her palms lies a small {argument name=\"bird\" default=\"kingfisher\"} with an obviously damaged wing. Her head is tilted, her face is focused and full of compassion, and her fingers touch the bird very gently, as if transferring healing energy to it. Butterflies fly around, attracted by the tranquility of the scene.// Style: {argument name=\"style\" default=\"Cinematic photography\"}, light fantasy. Optics: 50mm f/1.8. Light: Bright but diffused daylight, creating highlights on the water and scales. Details: Ultra-high detail of the bird's feathers, textures of the wet stone, a focused facial expression, and a \"frozen\" motion effect of the water around the stone.",
     "title": "Mermaid Healing an Injured Bird",

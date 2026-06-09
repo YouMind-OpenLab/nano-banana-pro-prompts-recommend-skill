@@ -1,5 +1,37 @@
 [
   {
+    "id": 24712,
+    "content": "A surreal, photorealistic portrait of {argument name=\"character\" default=\"[User Face/Character]\"} standing naturally in a textured knit sweater. The head is seamlessly attached to the body. Surrounding the head is a large, transparent spherical bubble acting as a diorama. Inside this circular space is a highly detailed, miniature {argument name=\"theme\" default=\"[Subject/Theme]\"} environment, complete with tiny intricate props, rich lighting, and a tiny miniature version of the character. The main character's head sits naturally in the center of this spherical room. Cinematic volumetric lighting, sharp focus on the miniature details, minimal soft-gradient background. 8k, masterpiece",
+    "title": "Surreal Miniature Universe Bubble Portrait",
+    "description": "A unique prompt that transforms a portrait into a surreal diorama, where the subject's head is encased in a transparent bubble containing a miniature world.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990822267_5yq8zj_HKUJLZgWwAA7_0m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24735,
+    "content": "The wings are composed of {argument name=\"material\" default=\"mother-of-pearl\"} wings, iridescent shell surface wings, pearlescent reflections on the wings, overlapping mother-of-pearl plates on the wings, layered decorative plates on the wings, wing-inspired plate work, decorative feather structure, stacked decorative plates on the wings, layered plate structure of the wings, luxurious decorative craftsmanship on the wings, three-dimensional layered details on the wings, and elegant decorative composition of the wings.",
+    "title": "Mother-of-Pearl Iridescent Wings",
+    "description": "A highly detailed prompt for generating complex, iridescent wings with mother-of-pearl plates and decorative textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990832715_l5cu95_HKS0YsTakAA7Y78.jpg",
+      "https://cms-assets.youmind.com/media/1780990832686_9fgoas_HKS0arzaIAADmti.jpg",
+      "https://cms-assets.youmind.com/media/1780990832676_956dbo_HKS0arwb0AAiWcR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24708,
+    "content": "Photorealistic portrait of a {argument name=\"subject\" default=\"young man\"}(keep the facial features unchanged as uploaded image), exact facial identity preserved, beard, sharp jawline. (Outfit) Wearing {argument name=\"outfit\" default=\"all-black streetwear, black oversized hoodie with minimal text, loose black wide-leg pants, dark sneakers, luxury black sunglasses\"}.Pose) Head raised straight, dominant stance, shoulders squared, one hand relaxed near pocket, other hand slightly clenched, facing forward. (Supernatural Element) A massive {argument name=\"creature\" default=\"black smoke demon\"} standing directly behind him, glowing white eyes aligned above man's head, thick realistic smoke wrapping around shoulders and arms, smoke texture ultra-realistic, no cartoon style. (Environment) Minimal indoor background, dark wall, empty space, grey concrete floor. (Lighting) Dramatic low-key lightingsoft front light on face, deep shadows, cinematic high contrast. (Tech Specs) 8k resolution, aspect ratio 3:4, shot on 35mm lens, hyper-realistic, highly detailed texture. Negative Prompt: cartoon, anime, illustration, painting, 3d render, distorted face, changing face, reshaping face, beauty filter, smile, bright background, sunlight, car, city, messy, blur, noise, watermark, text, bad hands, extra fingers. Adjusting goggles with soft smile. Background is busy street.",
+    "title": "Supernatural Streetwear Portrait with Smoke Demon",
+    "description": "A cinematic portrait prompt combining urban streetwear with a supernatural black smoke demon entity in a minimalist environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990820966_7643r2_HKSTfOQbUAAYoRB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24572,
     "content": "A {argument name=\"setting\" default=\"neon megacity transit control nexus\"} in an {argument name=\"style\" default=\"artistic cyberpunk style\"}",
     "title": "Artistic Cyberpunk Neon Megacity",

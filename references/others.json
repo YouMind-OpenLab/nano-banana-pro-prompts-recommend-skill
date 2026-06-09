@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 24732,
+    "content": "Exterior of a grand railway station in an {argument name=\"style\" default=\"artistic sandalpunk style\"}",
+    "title": "Sandalpunk Railway Station",
+    "description": "A prompt for generating an artistic exterior view of a grand railway station in a unique sandalpunk style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990831677_0e1kco_HKTW84da8AAzjCv.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24363,
     "content": "A 3D shadowbox display version of 11054.jpg. The \"ONE PIECE\" typography at the top is rendered as thick, raised 3D stone-textured letters with prominent drop shadows. The central woman is fully multi-dimensional, casting a realistic, soft shadow onto the textured background behind her to create a distinct layer of depth. The sketches, manga panels, and \"WANTED\" poster in the background are subtly embossed and debossed into the concrete wall texture. The entire image is enclosed in an ornate wooden shadowbox frame, with directional top-down studio lighting that emphasizes the deep, tangible layers and physical depth. A 3D shadowbox display version of 11055.jpg. The \"DRAGON BALL\" typography at the top is transformed into heavy, weathered, 3D metallic block letters that cast distinct drop shadows onto the background. The central woman is a realistic, lifelike figure stepping forward, creating physical depth and separation from the wall behind her. The entire composition is encased within a rustic wooden shadowbox frame with soft, warm LED strip lighting running along the inner edges, casting dynamic shadows and accentuating the multi-layered, three-dimensional pop-out effect.",
     "title": "3D Shadowbox Manga Display",

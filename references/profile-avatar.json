@@ -10,6 +10,91 @@
     "needReferenceImages": false
   },
   {
+    "id": 24705,
+    "content": "Photorealistic portrait of {argument name=\"subject\" default=\"beautiful Indian woman like Alia Bhatt\"}, wet dark hair, sitting on wooden bench in {argument name=\"setting\" default=\"lush green forest\"}. Wearing {argument name=\"outfit\" default=\"tight white one-piece swimsuit\"}, gold hoop earrings, gold necklace and stacked bangles. Arms resting on bench back, looking at viewer. Deer and fox in background, sunlight through trees, god rays. Ultra realistic, 8k, cinematic lighting, sharp details.",
+    "title": "Cinematic Forest Portrait",
+    "description": "A photorealistic prompt for an Indian woman in a lush forest setting with cinematic lighting and wildlife in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990819351_4pagjm_HKT3N6AWsAE1JNY.jpg",
+      "https://cms-assets.youmind.com/media/1780990819735_tfu2by_HKT3N6CX0AAn70w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24714,
+    "content": "Young woman in uploaded image close-up, wearing {argument name=\"outfit\" default=\"white oversized shirt layered with orange-red plaid sleeve\"} underneath, hand resting on cheek, soft smile. Wavy black hair, orange-red glossy lips, warm nostalgic glow, blurred evening city lights behind her, {argument name=\"aesthetic\" default=\"90s film aesthetic\"}, Kodak grain, warm amber-red color cast, shallow depth of field.",
+    "title": "90s Film Aesthetic Portrait Transformation",
+    "description": "A nostalgic prompt that stylizes a reference image into a 90s film aesthetic with warm amber tones and Kodak grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990823207_qfc85d_HKS4TPEawAA9Ryq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24722,
+    "content": "A highly detailed portrait of a beautiful young woman with fair skin, {argument name=\"hair\" default=\"long voluminous wavy fiery red hair\"} cascading over her shoulders, and striking blue eyes, sitting elegantly on a smooth gray stone floor. She has a neutral, poised facial expression with soft natural makeup and is looking directly at the viewer. Her pose is relaxed yet graceful, with one arm raised and hand resting behind her head, the other hand placed on the floor for support, legs bent and positioned comfortably in front. She is wearing a {argument name=\"outfit\" default=\"form-fitting white ribbed sleeveless top with a deep neckline and matching white full-length leggings\"}. Adorned with delicate silver-colored anklets on both ankles featuring small charms, multiple thin silver bracelets on her right wrist, and light white manicure and pedicure. The background features an {argument name=\"background\" default=\"ornate classical wall with intricate floral and leaf patterns in soft beige and gray tones on marble-like panels\"}, creating a luxurious and artistic indoor setting with soft even lighting that highlights textures and details. Photorealistic, high resolution, cinematic composition.",
+    "title": "Elegant Redhead Portrait in Classical Interior",
+    "description": "A photorealistic prompt for a detailed portrait of a woman with red hair in a luxurious indoor setting with classical architectural details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990826175_o7veo6_HKSzxWPbYAA97IW.jpg",
+      "https://cms-assets.youmind.com/media/1780990826196_zcpyyz_HKSzxYfbkAAgt58.jpg",
+      "https://cms-assets.youmind.com/media/1780990826268_o012r2_HKSzxfVaUAAvWSx.jpg",
+      "https://cms-assets.youmind.com/media/1780990827046_3gqjhp_HKSzx5tagAA8Zkv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24701,
+    "content": "Cinematic portrait of the female subject from the uploaded reference image, maintaining 100% exact facial identity, features, and expression. She is standing in a {argument name=\"setting\" default=\"dreamy pink fountain grass field\"} during golden hour. Body slightly turned sideways, looking back over her shoulder with a soft natural smile and calm, elegant expression. Wearing a {argument name=\"outfit\" default=\"black embroidered boho top\"}, light blue jeans, silver earrings, and a bracelet. Long wavy hair softly flowing in the wind. Fluffy pink fountain grass in the foreground and background with a heavy, creamy bokeh blur. DSLR photography, 85mm lens, f/1.8, shallow depth of field, soft natural lighting, cinematic color grading, ultra-detailed skin texture, realistic hair strands. Candid photography style. Composition, head angle, hand placement, and body posture are strictly identical to the reference sample image. Hyper-realistic, 8K UHD, ultra-sharp subject focus, {argument name=\"aspect ratio\" default=\"image ratio 4:5\"}.",
+    "title": "Cinematic Portrait in Pink Grass Field",
+    "description": "A cinematic portrait prompt designed to maintain exact facial identity from a reference image, set in a dreamy golden hour field of pink fountain grass.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990817236_cqpr9g_HKSV7mhbgAAdY5z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24700,
+    "content": "A young woman with {argument name=\"skin details\" default=\"fair skin covered in light freckles\"} stands barefoot in a modern bathroom shower area, her long wavy reddish-brown hair wet and cascading over her shoulders and back as if just after a shower. She has striking light-colored eyes and a gentle expression while looking directly at the viewer. She is wrapped modestly in a {argument name=\"towel style\" default=\"yellow and white horizontally striped towel\"} with fringed edges that covers her from her chest down to mid-thigh, holding the top of the towel securely with both hands near her collarbone. Her skin has visible water droplets, and she stands on a {argument name=\"bath mat\" default=\"beige bath mat\"} with white borders placed on light-colored tiled flooring in front of a glass-enclosed shower stall featuring metal fixtures, a handheld showerhead, and neutral beige tiled walls in the background. The lighting is bright and even, creating a clean, serene atmosphere.",
+    "title": "Serene Bathroom Shower Portrait",
+    "description": "A photorealistic prompt for generating a serene image of a woman with freckles in a modern bathroom, featuring detailed water droplets and a clean, bright atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990817215_k7qbtd_HKSVlnQasAA904n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24702,
+    "content": "A candid, realistic close-up portrait of a {argument name=\"subject\" default=\"young Filipina woman\"}, capturing the raw, natural aesthetic of analog film photography. The image features authentic film grain, slight softness, natural textures, and realistic light quality typical of an analog point-and-shoot camera. The subject stands on a sunlit city street, looking directly into the camera with a casual, natural expression and a slight head tilt. She has natural glass skin with a subtle glow from direct sunlight. Her makeup is fresh and natural, featuring {argument name=\"makeup style\" default=\"pink blush applied high on her cheeks and across the bridge of her nose (Igari blush style)\"}, long neatly curled eyelashes, pink matte lips. Her long dark chestnut-brown hair falls in large natural waves. She wears a {argument name=\"accessory\" default=\"navy-blue baseball cap\"} with a small white logo on the front. She is dressed in a slim-fit white tank top paired with an oversized light-grey jacket worn open and naturally slipping off one shoulder. The background shows a detailed urban sidewalk scene with lush green trees casting dappled shade and strong sunlight highlights. The background remains naturally detailed without heavy bokeh. Direct daylight from above and slightly in front creates strong contrast.",
+    "title": "Analog Film Filipina Portrait",
+    "description": "A detailed prompt recreating the aesthetic of analog film photography, featuring a young Filipina woman on a sunlit city street with natural textures and film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990818364_c2sei6_HKSIGi1WYAANwSv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24706,
+    "content": "Raw UGC smartphone photo, 9:16 vertical, 4K look. Full-body shot of a curvy woman in her mid-30s with warm neutral skin tone, standing against a {argument name=\"background color\" default=\"vivid red\"} background. Wet, messy dark brown hair, natural skin texture with visible pores and realistic details. Wearing a {argument name=\"outfit\" default=\"tight black short-sleeve romper\"}, gold necklace, hoop earrings, and bangles. {argument name=\"pose\" default=\"Arms crossed\"}, slight forward lean, direct confident gaze. Bright natural lighting with realistic shadows and highlights. Shot on iPhone 16 Pro, 24mm f/1.8, candid style with natural grain. No cartoon, anime, CGI, beauty filters, airbrushing, text, watermark, extra limbs, blur, or oversaturation. 1080×1920.",
+    "title": "Candid Smartphone Portrait of Woman",
+    "description": "A detailed prompt for creating a realistic, vertical smartphone-style photograph of a woman against a vibrant red background, emphasizing natural skin textures and a candid iPhone 16 Pro look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990816567_l6psax_HKRhUxJXsAADy_c.jpg",
+      "https://cms-assets.youmind.com/media/1780990817248_vt5iuj_HKRhUxGXkAAdkpU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24710,
+    "content": "A hyper-realistic cinematic full upper-body portrait of a man seated and leaning forward with both hands clasped together resting in front of him, elbows on knees in a powerful, composed, and commanding pose. Wearing an all-black long-sleeve henley shirt and dark trousers, a luxury black chronograph watch on the left wrist. Studio dark background — pure deep black with near-invisible shadow detail, low-key dramatic lighting with a single soft key light source hitting the face and forearms from slightly above and to the side, creating sharp contrast between illuminated skin and dark clothing that almost disappears into the background. Ultra-detailed skin texture on hands and forearms with visible veins. The gaze is direct, intense, and unwavering — looking straight into the camera with calm dominance. Photorealistic 8K studio portrait photography, shot on Canon EF 85mm f/1.2L lens, shallow depth of field with background falling into pure black. Color palette is near-monochromatic — deep blacks, cool shadows, and warm neutral skin tones only. Mood is powerful, mysterious, and quietly dominant — like a CEO, a villain, or an elite operator.\nUse the exact facial structure, features, and likeness from the provided reference image — including face shape, eyes, nose, jawline, and stubble. Apply only the above lighting, pose, wardrobe, and studio style to the reference face without altering any facial characteristics.",
+    "title": "Powerful Studio Portrait with Low-Key Lighting",
+    "description": "A dramatic, high-contrast studio portrait of a man in a commanding pose, emphasizing realistic skin textures and a minimalist black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990822047_79hby3_HKQn6xnXkAAlayh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24571,
     "content": "A {argument name=\"mood\" default=\"moody black-and-white portrait photo\"} of a {argument name=\"subject\" default=\"man sitting near a window with horizontal blinds\"}, through which sunlight filters dramatically across his face and body. The man has a thoughtful, introspective expression, resting one arm casually on his head. His hair is softly highlighted by the stripes of light and shadow that create a cinematic contrast across the frame. He wears a {argument name=\"clothing\" default=\"dark button-up shirt\"}, blending subtly with the shadowed background. The atmosphere feels intimate and contemplative, evoking quiet emotion and artistic solitude.",
     "title": "Moody Black and White Portrait",

@@ -20,6 +20,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 24734,
+    "content": "FIFA World Cup {argument name=\"year\" default=\"2026\"} {argument name=\"country\" default=\"country\"} identity system.",
+    "title": "FIFA World Cup 2026 Identity System",
+    "description": "A prompt designed to generate a comprehensive visual identity system for the FIFA World Cup 2026 branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990832704_ezr2lm_HKTQWUWaMAET_-N.jpg",
+      "https://cms-assets.youmind.com/media/1780990832827_aac9a1_HKTzkxsawAA3t9E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24718,
+    "content": "The accompanying portrait illustration, rendered in an expressive painterly style, incorporates loose, expressive oil brushstrokes. The color palette is warm, using {argument name=\"colors\" default=\"creamy ivories and reds\"}, and soft golden afternoon light. The detailed narrative of the scene is depicted in an elegant line illustration style with clean ink contours and layered depth. The atmospheric composition, inspired by {argument name=\"artist\" default=\"Alex Ros's\"} illustrations, is combined with the raw, semi-abstract textures of the portrait.\nThe painterly surface treatment features visible feather strokes, dry brushstrokes, the rough grain of the canvas, spontaneously applied pigment, and energetic abstract background marks. Soft, diffuse lighting is contrasted with sharp, warm highlights and subtle reflective light. The expressive strokes are organic around the focal area, with controlled realism in the depiction of the face but surrounded by chaotic gestural marks and dynamic paint strokes. The clean precision and emotional loose expressionism of the portrait.\nThe overall atmosphere is cinematic, serene, artistic, and slightly melancholy—a blend of contemporary gallery oil portraiture. The stylized realism, rich atmospheric depth, and subtle shadow transitions  smooth, textured impasto accents, subtle European animation influences, and a sophisticated blend of illustrations.",
+    "title": "Expressive Painterly Oil Portrait Illustration",
+    "description": "A artistic prompt for an expressive oil painting style portrait with loose brushstrokes and a cinematic, slightly melancholy atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990825599_9bf7hz_HKTBMnhaEAAoQXA.jpg",
+      "https://cms-assets.youmind.com/media/1780990825616_vgugha_HKTBMnhbEAABToR.jpg",
+      "https://cms-assets.youmind.com/media/1780990825628_ezaf80_HKTBMtAbQAA6CMS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24727,
+    "content": "A highly detailed, {argument name=\"art style\" default=\"stylized illustration of a majestic West Indian manatee carrying a quaint coastal village on its back, rendered in a clean, modern vector-art style\"}. The {argument name=\"subject\" default=\"manatee\"} is predominantly {argument name=\"color palette\" default=\"soft blue and white with intricate, swirling patterns in shimmering gold and deep navy blue along its body and tail\"}, giving it an ornate, almost ceremonial appearance. On its broad back rest several small, crisp white houses with steep, dark slate roofs, tiny windows glowing warmly, clustered around a tall lighthouse painted in bold black and gold stripes with a radiant beacon shining outward. The manatee gently floats in a calm, abstract suggestion of water at the bottom edge, while its tail fin is elaborately decorated with blue filigree patterns. The background is a plain, light beige color with subtle grain for texture, creating a serene, minimalist backdrop that makes the manatee and village stand out in sharp contrast.",
+    "title": "Majestic Manatee Village Illustration",
+    "description": "A stylized, detailed vector illustration of a manatee carrying a coastal village on its back.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780990829200_6ezk6p_HKSISX8XIAAUmUI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24573,
     "content": "{argument name=\"date\" default=\"June 7th\"} {argument name=\"event\" default=\"Horse Racing Yasuda Kinen\"} 1600 meters, 1600 Battle of Sekigahara, {argument name=\"style\" default=\"cyberpunk\"}",
     "title": "Cyberpunk Historical Horse Racing",
