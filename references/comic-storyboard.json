@@ -1,5 +1,25 @@
 [
   {
+    "id": 24859,
+    "content": "{argument name=\"character name\" default=\"Aldric\"}, a battle-worn medieval knight with {argument name=\"hair style\" default=\"wet shoulder-length dark hair\"}, scarred face, realistic steel armor covered in mud and rain, holding a bloodstained longsword, standing face to face with a {argument name=\"monster type\" default=\"terrifying forest wraith\"}, creature made of twisted bark, dead leaves and living darkness, glowing red eyes, crimson cracks glowing beneath its body, dark rainy forest, heavy rainfall, muddy ground, cinematic dark fantasy, dramatic lighting, ultra realistic, photorealistic, movie still, shallow depth of field, intense confrontation, atmospheric fog, epic fantasy, masterpiece.",
+    "title": "Battle-Worn Knight vs Forest Wraith",
+    "description": "A highly detailed cinematic dark fantasy prompt depicting a knight in mud-covered steel armor facing a creature of bark and darkness in a rainy forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078029676_bopu6g_HKW355-WQAA7bSf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24867,
+    "content": "Title:\n{argument name=\"title\" default=\"The Big Pass-off\"}\n\nGorenger (Super Sentai)\nRugby ball\n\nExplosion\n\nLike Armageddon...",
+    "title": "Four-Panel Manga with Sentai and Rugby",
+    "description": "A creative prompt for generating a 4-panel manga featuring a Super Sentai team, a rugby ball, and a dramatic explosion like Armageddon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078033192_mgzn1c_HKVmgV8a0AAWhr2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24726,
     "content": "Transform the {argument name=\"subject\" default=\"uploaded photo\"} into a {argument name=\"style\" default=\"cute childlike crayon drawing\"} while keeping the original pose, composition, clothing, expressions, and background. Use {argument name=\"texture\" default=\"colorful wax-crayon and colored-pencil textures\"}, messy scribbles, shaky outlines, and uneven coloring on textured paper. Simplify the faces into adorable cartoon-style characters with big eyes and rosy cheeks. Keep the mountains, lake, trees, clouds, and sky in a playful hand-drawn style. Add a small rounded-corner reference photo inset in the bottom-right corner showing the original image, with a white border and subtle shadow. Vibrant colors, charming, funny, handmade, high-detail crayon artwork.",
     "title": "Photo to Crayon Drawing",

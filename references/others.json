@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 24862,
+    "content": "A caravan navigation chamber in an artistic {argument name=\"style\" default=\"sandalpunk\"} style.",
+    "title": "Artistic Sandalpunk Caravan Navigation Chamber",
+    "description": "A detailed prompt for generating a caravan navigation chamber designed in a unique sandalpunk aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078031995_5ew0jr_HKYd9TZbkAAg8bZ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24732,
     "content": "Exterior of a grand railway station in an {argument name=\"style\" default=\"artistic sandalpunk style\"}",
     "title": "Sandalpunk Railway Station",

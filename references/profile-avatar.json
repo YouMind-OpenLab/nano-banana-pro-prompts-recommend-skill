@@ -10,6 +10,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 24855,
+    "content": "Convert this into a portrait of a {argument name=\"subject gender\" default=\"man\"} in {argument name=\"clothing style\" default=\"trendy streetwear with oversized hoodie, ripped jeans, and sneakers\"}. Place him {argument name=\"pose\" default=\"leaning casually against a graffiti wall\"} with natural daylight and a shallow depth-of-field effect for an edgy, Instagram worthy look. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.",
+    "title": "Streetwear Identity Reference",
+    "description": "A prompt to convert a reference photo into a trendy streetwear portrait while maintaining 100% facial accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078028317_5o6oz3_HKZONQjW4AAgNNu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24861,
+    "content": "A dramatic, high-contrast black and white portrait of a {argument name=\"subject\" default=\"handsome man\"} with short, wavy dark hair and a well-groomed stubble beard. He is wearing classic {argument name=\"accessory\" default=\"round dark sunglasses\"} and a sharp, textured {argument name=\"clothing\" default=\"black wool overcoat\"}. Instead of looking over his shoulder, he is captured in a pensive, three-quarter side profile view, with one hand raised, fingers gently touching his chin in a thoughtful pose. The lighting is strong side-lighting (chiaroscuro) that sharply defines his jawline, facial features, and the texture of his coat, casting deep shadows. The background is a completely solid, matte black studio backdrop, creating a moody, sophisticated, and cinematic atmosphere. Cinematic film grain, sharp focus on the face.",
+    "title": "Cinematic Male B&W Studio Portrait",
+    "description": "A dramatic, high-contrast monochrome portrait prompt for Nano Banana Pro, focusing on sharp textures, moody lighting, and sophisticated composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078030848_kvgy9v_HKYEo5caAAAQzyL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24860,
+    "content": "A vertical, black and white studio portrait of {argument name=\"subject\" default=\"Sydney Sweeney\"}, captured in a classic and sophisticated pose. She is seated on a {argument name=\"furniture\" default=\"rustic wooden stool\"}, angled slightly to the side while looking directly at the camera with a warm, elegant smile. Her long, wavy blonde hair is styled with soft, natural volume, framing her face beautifully. She is wearing a {argument name=\"clothing\" default=\"cozy, dark-textured turtleneck sweater\"} paired with tailored black trousers. Her posture is relaxed yet refined, with one arm resting gently on her raised knee, showcasing simple rings on her fingers. The background features a textured, dark studio backdrop with subtle lighting gradients, creating a timeless and intimate editorial aesthetic.",
+    "title": "Sydney Sweeney B&W Studio Portrait",
+    "description": "A sophisticated studio portrait prompt designed for Nano Banana Pro, capturing a high-end editorial look with classic styling and soft lighting gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078029719_e9bcqa_HKWEz0fXMAAUFVj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24848,
+    "content": "Use {argument name=\"facial reference\" default=\"my uploaded face image\"} as the primary identity reference. Preserve my exact facial identity with high fidelity. Create an ultra-stylized portrait in {argument name=\"art style\" default=\"black ink-splash graffiti style\"}, wearing dark sunglasses, detailed neck tattoos, and a {argument name=\"clothing\" default=\"black hooded jacket\"}. High-contrast cinematic lighting, dripping paint effects, monochrome black-and-white aesthetic, modern streetwear vibe, off-white background, ultra-detailed digital artwork.",
+    "title": "Black Ink-Splash Graffiti Stylized Portrait",
+    "description": "An ultra-stylized portrait prompt that combines high-fidelity facial identity preservation with a black ink-splash graffiti aesthetic and high-contrast cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078024353_e44ijy_HKV_v0ubYAAQMUM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24705,
     "content": "Photorealistic portrait of {argument name=\"subject\" default=\"beautiful Indian woman like Alia Bhatt\"}, wet dark hair, sitting on wooden bench in {argument name=\"setting\" default=\"lush green forest\"}. Wearing {argument name=\"outfit\" default=\"tight white one-piece swimsuit\"}, gold hoop earrings, gold necklace and stacked bangles. Arms resting on bench back, looking at viewer. Deer and fox in background, sunlight through trees, god rays. Ultra realistic, 8k, cinematic lighting, sharp details.",
     "title": "Cinematic Forest Portrait",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 24859,
+    "content": "{argument name=\"character name\" default=\"Aldric\"}, a battle-worn medieval knight with {argument name=\"hair style\" default=\"wet shoulder-length dark hair\"}, scarred face, realistic steel armor covered in mud and rain, holding a bloodstained longsword, standing face to face with a {argument name=\"monster type\" default=\"terrifying forest wraith\"}, creature made of twisted bark, dead leaves and living darkness, glowing red eyes, crimson cracks glowing beneath its body, dark rainy forest, heavy rainfall, muddy ground, cinematic dark fantasy, dramatic lighting, ultra realistic, photorealistic, movie still, shallow depth of field, intense confrontation, atmospheric fog, epic fantasy, masterpiece.",
+    "title": "Battle-Worn Knight vs Forest Wraith",
+    "description": "A highly detailed cinematic dark fantasy prompt depicting a knight in mud-covered steel armor facing a creature of bark and darkness in a rainy forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078029676_bopu6g_HKW355-WQAA7bSf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24712,
     "content": "A surreal, photorealistic portrait of {argument name=\"character\" default=\"[User Face/Character]\"} standing naturally in a textured knit sweater. The head is seamlessly attached to the body. Surrounding the head is a large, transparent spherical bubble acting as a diorama. Inside this circular space is a highly detailed, miniature {argument name=\"theme\" default=\"[Subject/Theme]\"} environment, complete with tiny intricate props, rich lighting, and a tiny miniature version of the character. The main character's head sits naturally in the center of this spherical room. Cinematic volumetric lighting, sharp focus on the miniature details, minimal soft-gradient background. 8k, masterpiece",
     "title": "Surreal Miniature Universe Bubble Portrait",

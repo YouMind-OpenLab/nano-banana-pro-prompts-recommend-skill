@@ -20,13 +20,57 @@
     "needReferenceImages": false
   },
   {
-    "id": 24734,
-    "content": "FIFA World Cup {argument name=\"year\" default=\"2026\"} {argument name=\"country\" default=\"country\"} identity system.",
-    "title": "FIFA World Cup 2026 Identity System",
-    "description": "A prompt designed to generate a comprehensive visual identity system for the FIFA World Cup 2026 branding.",
+    "id": 24864,
+    "content": "Collage of a {argument name=\"subject\" default=\"lunar goddess\"}, moon, mysterious, magical. collage with hand drawn ornaments and doodles. Use {argument name=\"color scheme\" default=\"whites, blues, silver colors\"}",
+    "title": "Mystical Lunar Goddess Collage",
+    "description": "A creative collage-style prompt featuring a mystical lunar goddess, combining hand-drawn ornaments and doodles with a specific cool-toned color palette.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780990832704_ezr2lm_HKTQWUWaMAET_-N.jpg",
-      "https://cms-assets.youmind.com/media/1780990832827_aac9a1_HKTzkxsawAA3t9E.jpg"
+      "https://cms-assets.youmind.com/media/1781078030910_yn3vnu_HKXf3qlboAAqGjo.jpg",
+      "https://cms-assets.youmind.com/media/1781078030912_gpwmgk_HKXgd7SbgAAsbNF.jpg",
+      "https://cms-assets.youmind.com/media/1781078030874_048ui0_HKXggnoaUAA2AEu.jpg",
+      "https://cms-assets.youmind.com/media/1781078031768_fwiquv_HKXgoTQa8AERvfi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24852,
+    "content": "A high-fashion editorial collage of a stylish East Asian woman at a {argument name=\"location\" default=\"scenic park\"} during a {argument name=\"time\" default=\"golden hour sunset\"}, lifestyle aesthetic. Outfit: She is wearing an elegant sage green wrap blouse with rolled-up sleeves, high-waisted wide-leg white trousers, white sneakers, and a tan leather crossbody bag. Visuals & Poses: A multi-panel grid showcasing different angles; a full-body shot walking gracefully by a riverbank, a medium shot sitting cross-legged on the lush green grass, a back-view showing the silhouette against the sunset, and a close-up mirror selfie capturing her soft makeup and wavy light-brown hair illuminated by warm sunlight. Lighting & Atmosphere: Soft chiaroscuro effect, dreamy golden hour glow, cinematic warm backlighting, serene and candid mood. Camera Specs: Shot on an 85mm f/1.8 lens, high-fidelity, photorealistic, Vogue magazine aesthetic, intricate details, 8k resolution --ar 2:3 --stylize 250",
+    "title": "Editorial Sage Green Park Fashion",
+    "description": "Multi-angle collage of an East Asian woman in high-fashion streetwear at a park during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078026579_woe2a1_HKXNEWTbEAAnNoe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24866,
+    "content": "{argument name=\"title\" default=\"Using Experience\"}, {argument name=\"style\" default=\"Light novel cover style\"}",
+    "title": "Light Novel Style Comic Cover",
+    "description": "Generates a comic illustration in the style of a light novel cover with a custom theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078033112_hk8y34_HKXKhOQaIAAOWH2.jpg",
+      "https://cms-assets.youmind.com/media/1781078033091_g61pvc_HKXKhgtaMAAO5cF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24853,
+    "content": "A high-fashion editorial collage of a stylish East Asian woman at a {argument name=\"setting\" default=\"scenic park\"} during a {argument name=\"time of day\" default=\"golden hour sunset\"}, lifestyle aesthetic. Outfit: She is wearing an {argument name=\"outfit description\" default=\"elegant sage green wrap blouse with rolled-up sleeves, high-waisted wide-leg white trousers, white sneakers, and a tan leather crossbody bag\"}. Visuals & Poses: A multi-panel grid showcasing different angles; a full-body shot walking gracefully by a riverbank, a medium shot sitting cross-legged on the lush green grass, a back-view showing the silhouette against the sunset, and a close-up mirror selfie capturing her soft makeup and wavy light-brown hair illuminated by warm sunlight. Lighting & Atmosphere: Soft chiaroscuro effect, dreamy golden hour glow, cinematic warm backlighting, serene and candid mood. Camera Specs: Shot on an 85mm f/1.8 lens, high-fidelity, photorealistic, Vogue magazine aesthetic, intricate details, 8k resolution --ar 2:3 --stylize 250",
+    "title": "High Fashion Golden Hour Collage",
+    "description": "A sophisticated multi-panel editorial collage of a woman in sage green fashion at a park during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078026322_ahq4y2_HKXAVB9bUAAlt30.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24734,
+    "content": "{argument name=\"event\" default=\"FIFA World Cup 2026\"} {argument name=\"scope\" default=\"country\"} identity system.",
+    "title": "FIFA World Cup 2026 Identity System",
+    "description": "A design prompt for creating a comprehensive visual identity and branding system for the 2026 FIFA World Cup, suitable for country-specific applications.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078034159_5dbb34_HKTQWUWaMAET_-N.jpg",
+      "https://cms-assets.youmind.com/media/1781078034131_gqys29_HKTzkxsawAA3t9E.jpg"
     ],
     "needReferenceImages": false
   },

@@ -21,6 +21,100 @@
     "needReferenceImages": true
   },
   {
+    "id": 24858,
+    "content": "Ultra-realistic editorial portrait of a {argument name=\"subject\" default=\"young woman with long voluminous copper-red hair\"} sitting gracefully on a polished herringbone parquet floor inside an {argument name=\"location\" default=\"elegant Parisian apartment\"}. She is adjusting her hair with both hands while seated beside a cream-colored striped sofa. Wearing a {argument name=\"outfit\" default=\"soft dusty-rose cardigan with pearl buttons, a white ribbed mini skirt, ivory cable-knit knee-high socks, and pale pink satin ballet pointe shoes\"}. Warm golden sunlight streams through tall French windows, creating soft highlights in her hair and long cinematic shadows across the wooden floor. Ornate Parisian architecture with decorative moldings, carved marble fireplace, high ceilings, and luxurious classical interiors. Delicate natural makeup, porcelain skin, thoughtful expression, romantic ballet aesthetic, luxury fashion editorial, French elegance, photorealistic, ultra-detailed, premium magazine photography, timeless feminine atmosphere.",
+    "title": "Parisian Apartment Editorial Portrait",
+    "description": "A luxury fashion editorial prompt for Nano Banana Pro featuring a woman in a Parisian apartment with golden hour sunlight and a romantic ballet aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078029681_tmek4o_HKYAeszbYAAlasa.jpg",
+      "https://cms-assets.youmind.com/media/1781078029601_60kpf9_HKYAgt-aYAApLdb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24850,
+    "content": "Ultra-realistic lifestyle portrait of a {argument name=\"subject\" default=\"young blonde woman\"} leaning casually against a {argument name=\"furniture\" default=\"white quartz kitchen island\"} in a {argument name=\"setting\" default=\"modern luxury apartment\"}. Hair styled in a soft messy bun with loose face-framing strands, luminous glass skin, natural makeup, subtle rosy lips, and a calm, dreamy expression. Wearing an oversized cream knit sweater that drapes off one shoulder, revealing a thin black camisole strap underneath. Delicate silver necklace, cozy minimalist fashion, effortless elegance. Bright contemporary kitchen with matte black cabinetry, white marble countertops, stainless steel appliances, warm under-cabinet lighting, and large windows providing soft natural daylight. Scandinavian-inspired interior design, clean aesthetic, premium finishes, warm neutral tones. Professional lifestyle photography, luxury home editorial, authentic candid moment, realistic skin texture, soft highlights, shallow depth of field, photorealistic, premium influencer aesthetic, high-end social media content, ultra detailed, 8K quality.",
+    "title": "Luxury Kitchen Lifestyle Portrait",
+    "description": "A comprehensive lifestyle prompt for a high-end kitchen setting, detailing lighting, camera settings, and material finishes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078025478_f08wxi_HKX95PBbIAAotTR.jpg",
+      "https://cms-assets.youmind.com/media/1781078025483_wer29e_HKX95PCbMAAtGjJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24868,
+    "content": "Fashion editorial photo of a {argument name=\"subject\" default=\"woman\"} standing",
+    "title": "Fashion Editorial Woman Photo",
+    "description": "A high-end fashion editorial style prompt designed for generating portraits with an artistic attitude, optimized for use with reference photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078034168_qeyy29_HKX9xHQakAEXjg3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24849,
+    "content": "A beautiful young {argument name=\"subject\" default=\"South Asian woman\"} standing gracefully on a {argument name=\"location\" default=\"rooftop terrace in an urban cityscape\"}, wearing a {argument name=\"outfit\" default=\"pastel sky-blue embroidered salwar kameez with intricate floral patterns and matching dupatta\"}, long wavy dark hair flowing naturally, soft elegant makeup, calm confident expression, full-body portrait, walking gently toward the camera, modern city buildings blurred in the background, stainless steel railing, natural daylight, creamy bokeh, realistic skin texture, fashion photography.",
+    "title": "Urban South Asian Fashion Portrait",
+    "description": "A detailed fashion photography prompt for a graceful portrait of a woman in traditional South Asian attire set against a modern urban cityscape with soft bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078025123_1c05u9_HKXZqZTaoAA5yQW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24852,
+    "content": "A high-fashion editorial collage of a stylish East Asian woman at a {argument name=\"location\" default=\"scenic park\"} during a {argument name=\"time\" default=\"golden hour sunset\"}, lifestyle aesthetic. Outfit: She is wearing an elegant sage green wrap blouse with rolled-up sleeves, high-waisted wide-leg white trousers, white sneakers, and a tan leather crossbody bag. Visuals & Poses: A multi-panel grid showcasing different angles; a full-body shot walking gracefully by a riverbank, a medium shot sitting cross-legged on the lush green grass, a back-view showing the silhouette against the sunset, and a close-up mirror selfie capturing her soft makeup and wavy light-brown hair illuminated by warm sunlight. Lighting & Atmosphere: Soft chiaroscuro effect, dreamy golden hour glow, cinematic warm backlighting, serene and candid mood. Camera Specs: Shot on an 85mm f/1.8 lens, high-fidelity, photorealistic, Vogue magazine aesthetic, intricate details, 8k resolution --ar 2:3 --stylize 250",
+    "title": "Editorial Sage Green Park Fashion",
+    "description": "Multi-angle collage of an East Asian woman in high-fashion streetwear at a park during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078026579_woe2a1_HKXNEWTbEAAnNoe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24853,
+    "content": "A high-fashion editorial collage of a stylish East Asian woman at a {argument name=\"setting\" default=\"scenic park\"} during a {argument name=\"time of day\" default=\"golden hour sunset\"}, lifestyle aesthetic. Outfit: She is wearing an {argument name=\"outfit description\" default=\"elegant sage green wrap blouse with rolled-up sleeves, high-waisted wide-leg white trousers, white sneakers, and a tan leather crossbody bag\"}. Visuals & Poses: A multi-panel grid showcasing different angles; a full-body shot walking gracefully by a riverbank, a medium shot sitting cross-legged on the lush green grass, a back-view showing the silhouette against the sunset, and a close-up mirror selfie capturing her soft makeup and wavy light-brown hair illuminated by warm sunlight. Lighting & Atmosphere: Soft chiaroscuro effect, dreamy golden hour glow, cinematic warm backlighting, serene and candid mood. Camera Specs: Shot on an 85mm f/1.8 lens, high-fidelity, photorealistic, Vogue magazine aesthetic, intricate details, 8k resolution --ar 2:3 --stylize 250",
+    "title": "High Fashion Golden Hour Collage",
+    "description": "A sophisticated multi-panel editorial collage of a woman in sage green fashion at a park during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078026322_ahq4y2_HKXAVB9bUAAlt30.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24857,
+    "content": "A high-fashion editorial photograph featuring {argument name=\"subject\" default=\"two elegant women\"} posing against a minimalist, brutalist architectural backdrop made of textured, light gray concrete pillars and built-in geometric gold accents. In the foreground, a woman with slicked-back hair stands in profile, looking back over her shoulder towards the camera; she wears a sleek, floor-length silk or satin gown in a {argument name=\"first gown color\" default=\"deep burgundy wine color\"}. In the background, elevated on a concrete block, a second woman with a chic bob haircut poses dynamically, wearing a dramatic, structured {argument name=\"second gown color\" default=\"charcoal gray gown\"} with an asymmetrical one-shoulder neckline, a single long sleeve, intricate draping, and a high thigh slit. The lighting is soft and natural, emphasizing the sharp angles of the architecture, the luxurious textures of the dresses, and a rustic desert plant or agave in the corner, creating a sophisticated and avant-garde atmosphere.",
+    "title": "Brutalist Architecture High Fashion Editorial",
+    "description": "A sophisticated fashion editorial prompt for Nano Banana Pro featuring models in silk gowns against a minimalist concrete and gold architectural backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078028368_33ykcf_HKWwd7XXcAApuK_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24854,
+    "content": "Photorealistic portrait of {argument name=\"subject\" default=\"beautiful Indian woman like Janhvi Kapoor\"}, wet dark hair, standing in ocean water at {argument name=\"time\" default=\"sunset\"}. Wearing {argument name=\"outfit\" default=\"shiny metallic silver one-piece swimsuit\"}, multiple silver bangles. Arms raised behind head, water splashing around her, looking at viewer. Golden hour lighting, ultra realistic, 8k, sharp details --ar 3:4",
+    "title": "Golden Hour Ocean Portrait",
+    "description": "A photorealistic portrait of an Indian woman standing in ocean water at sunset in a metallic swimsuit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078027169_aubf4i_HKWs00bWUAASC2m.jpg",
+      "https://cms-assets.youmind.com/media/1781078027192_s5oqyw_HKWs00bWcAAzNhx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24863,
+    "content": "Medium shot of a {argument name=\"subject\" default=\"young woman\"} as in <user portrait>, low height spring summer casual fashion, {argument name=\"clothing\" default=\"oversized sheer white shirt\"} worn open over a light pink satin camisole, high-waisted dark blue wide denim, delicate white sandals, small metallic shoulder bag, playfully putting her index finger near her cheek, shows amusement at the clothes, airy neutral styling, natural candid posture, transparent fresh mood, realistic Japanese fashion photography, vertical full-body composition. The background is a black brick wall with a strict 2D frontal view of a store front in the form of a {argument name=\"mural style\" default=\"hand-drawn colourful pastel / minimalist hand-drawn white\"} chalk drawing. In a {argument name=\"location\" default=\"Shimokitazawa side street\"}. There are also some drawn objects that she can interact with, like leaning on a cafe table. Japan street style. camera capturing the strict frontal view of the wall.\nnegative prompt: angled shot, angled view",
+    "title": "Japanese Fashion Chalk Mural Portrait",
+    "description": "A unique prompt for Nano Banana Pro that places a realistic fashion subject in front of a flat, 2D chalk drawing background, blending photography with illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781078030914_j4imbn_HKVKS6hbcAAjXmE.jpg",
+      "https://cms-assets.youmind.com/media/1781078031722_1bq394_HKVKUa7bMAAXwod.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24709,
     "content": "A candid, hyper-realistic indoor café scene featuring a young woman sitting at a dark wooden table, facing forward behind an open silver laptop (Apple MacBook with glowing logo). She has fair skin, soft facial features, and light brown hair tied loosely in a messy bun with a few strands falling naturally around her face. She is wearing a simple oversized dark gray sweatshirt, giving a relaxed and casual look.￼\n\nHer expression is playful and slightly mischievous, sticking her tongue out subtly while looking directly toward the camera. Her posture is slightly leaned forward, elbows resting near the table, suggesting a relaxed working or studying moment. The setting is a cozy, dimly lit café corner with warm ambient lighting and smooth brown walls in the background, creating a minimalist and intimate atmosphere. The lighting is soft and diffused, casting gentle shadows and enhancing skin tones naturally.￼\n\nOn the table: * In the foreground, a white ceramic cup filled with coffee sits on a matching saucer, slightly off-center, closest to the camera, with smooth reflections on the surface. * To the left, a second laptop (partially visible) is open, showing a colorful interface on the screen. * Near the center-left, a small rectangular purple card lies flat on the table. * A white cup and saucer are also visible behind the main laptop, suggesting another drink.￼\n\n* On the right side, there is a folded dark textured fabric or bag resting near the edge of the table. * Additional subtle objects like napkins and small items are scattered naturally, enhancing realism. Composition: * Shot from a slightly low, eye-level perspective across the table, creating depth. * Foreground (coffee cup) slightly blurred with shallow depth of field. * Midground (laptop and subject) in sharp focus. * Background softly blurred. Style & quality:￼\n\n* ultra photorealistic, candid photography style * natural lighting, warm tones * shallow depth of field, soft bokeh * realistic textures (skin, fabric, wood, ceramic) * high dynamic range, 8K detail * no over-editing, authentic lifestyle aesthetic￼",
     "title": "Candid Café Lifestyle Scene",
@@ -32,12 +126,12 @@
   },
   {
     "id": 24734,
-    "content": "FIFA World Cup {argument name=\"year\" default=\"2026\"} {argument name=\"country\" default=\"country\"} identity system.",
+    "content": "{argument name=\"event\" default=\"FIFA World Cup 2026\"} {argument name=\"scope\" default=\"country\"} identity system.",
     "title": "FIFA World Cup 2026 Identity System",
-    "description": "A prompt designed to generate a comprehensive visual identity system for the FIFA World Cup 2026 branding.",
+    "description": "A design prompt for creating a comprehensive visual identity and branding system for the 2026 FIFA World Cup, suitable for country-specific applications.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780990832704_ezr2lm_HKTQWUWaMAET_-N.jpg",
-      "https://cms-assets.youmind.com/media/1780990832827_aac9a1_HKTzkxsawAA3t9E.jpg"
+      "https://cms-assets.youmind.com/media/1781078034159_5dbb34_HKTQWUWaMAET_-N.jpg",
+      "https://cms-assets.youmind.com/media/1781078034131_gqys29_HKTzkxsawAA3t9E.jpg"
     ],
     "needReferenceImages": false
   },
@@ -173,11 +267,11 @@
   },
   {
     "id": 24724,
-    "content": "A professional, hyper-realistic fashion portrait of a {argument name=\"ethnicity\" default=\"beautiful South Asian woman\"} sitting gracefully on a woven wicker chair in an {argument name=\"setting\" default=\"elegant outdoor garden setting\"}. She is wearing a {argument name=\"outfit\" default=\"luxurious, pastel lavender-lilac raw silk shalwar kameez\"}. The outfit features delicate, intricate metallic gold floral embroidery along the V-neckline, the cuffs of the three-quarter sleeves, and the hems of her straight-cut trousers. She is draped in a matching sheer organza dupatta with a beautifully embroidered border that flows softly over her lap and down to the floor. Her long, dark wavy hair is styled in a sophisticated half-up, half-down look, framing her face perfectly. She has a soft, serene smile, looking directly at the camera with her chin resting gently on her hand. Her makeup is flawless and fresh, with soft rosy cheeks and a muted berry-red lip color that highlights natural skin texture and hyper-detailed pores (Douyin realism). She is accessorized with elegant silver dangling earrings, a delicate thin silver necklace, a classic silver chain watch on her left wrist, and strappy, glittering silver low-heel sandals. The background is a beautifully blurred, lush green rooftop terrace or balcony garden with vibrant pink rose bushes in soft focus (bokeh effect). The lighting is soft, natural daylight, creating a bright, clean, and premium lifestyle aesthetic. Captured on a professional DSLR camera, 85mm lens, f/1.4 aperture, cinematic lighting, 8K resolution, clean composition, no watermarks.",
-    "title": "South Asian Garden Fashion Portrait",
-    "description": "A luxurious fashion portrait of a South Asian woman in a lilac silk shalwar kameez sitting in a garden.",
+    "content": "A professional, hyper-realistic fashion portrait of a {argument name=\"subject\" default=\"beautiful South Asian woman\"} sitting gracefully on a {argument name=\"furniture\" default=\"woven wicker chair\"} in an {argument name=\"setting\" default=\"elegant outdoor garden setting\"}. \n\nShe is wearing a luxurious, pastel lavender-lilac raw silk shalwar kameez. The outfit features delicate, intricate metallic gold floral embroidery along the V-neckline, the cuffs of the three-quarter sleeves, and the hems of her straight-cut trousers. She is draped in a matching sheer organza dupatta with a beautifully embroidered border that flows softly over her lap and down to the floor. \n\nHer long, dark wavy hair is styled in a sophisticated half-up, half-down look, framing her face perfectly. She has a soft, serene smile, looking directly at the camera with her chin resting gently on her hand. Her makeup is flawless and fresh, with soft rosy cheeks and a muted berry-red lip color that highlights natural skin texture and hyper-detailed pores (Douyin realism).\n\nShe is accessorized with elegant silver dangling earrings, a delicate thin silver necklace, a classic silver chain watch on her left wrist, and strappy, glittering silver low-heel sandals. \n\nThe background is a beautifully blurred, lush green rooftop terrace or balcony garden with vibrant pink rose bushes in soft focus (bokeh effect). The lighting is soft, natural daylight, creating a bright, clean, and premium lifestyle aesthetic. Captured on a professional DSLR camera, 85mm lens, f/1.4 aperture, cinematic lighting, 8K resolution, clean composition, no watermarks.",
+    "title": "South Asian Fashion Portrait",
+    "description": "A professional hyper-realistic fashion prompt for a woman in traditional silk attire within a lush garden setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780990827875_8p4wmy_HKQcOeobAAAoH2A.jpg"
+      "https://cms-assets.youmind.com/media/1781078025057_0n6pbe_HKQcOeobAAAoH2A.jpg"
     ],
     "needReferenceImages": false
   },
