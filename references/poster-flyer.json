@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 25014,
+    "content": "A professional fashion collage showcasing six {argument name=\"theme\" default=\"elegant high-fashion gowns\"}, presented in a 2x3 grid layout. The designs feature a mix of bold colors, architectural elements, and intricate textures, each modeled in a contemporary or minimalist architectural setting:\n​Top Left: A vibrant royal blue dress featuring structured, sculptural draping and peplum-style folds at the waist, accented with subtle metallic hardware details.\n​Top Right: A flowing, sleeveless terracotta orange gown with a deep V-neckline and a tiered, multi-layered pleated maxi skirt.\n​Middle Left: A striking deep purple gown showcasing an avant-garde, fan-like pleated architectural cape element extending from the back and shoulder.\n​Middle Right: A one-shoulder fitted maxi dress adorned with an intricate, geometric tribal-inspired pattern in shades of black, olive green, and cream.\n​Bottom Left: A sleek, minimalist emerald green column dress featuring a high mock neckline and a sharp, diagonal mesh cutout across the chest.\n​Bottom Right: A dramatic metallic charcoal grey gown featuring voluminous, cascading ruffles along a one-shoulder neckline and trailing down the skirt.\n​The overall aesthetic is editorial and sophisticated, emphasizing modern tailoring, clean lines, and high-end evening wear design against textured concrete and neutral backdrops.",
+    "title": "Architectural High-Fashion Gown Collage",
+    "description": "A professional fashion collage prompt for generating a grid of six elegant gowns, each set in minimalist architectural backgrounds with distinct textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165160050_lsagsr_HKdDbH3WcAAohJP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24864,
     "content": "Collage of a {argument name=\"subject\" default=\"lunar goddess\"}, moon, mysterious, magical. collage with hand drawn ornaments and doodles. Use {argument name=\"color scheme\" default=\"whites, blues, silver colors\"}",
     "title": "Mystical Lunar Goddess Collage",

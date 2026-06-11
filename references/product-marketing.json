@@ -21,6 +21,80 @@
     "needReferenceImages": true
   },
   {
+    "id": 25008,
+    "content": "In the penthouse:\nUltra-realistic 4K close-up of a stylish man (same face), wearing a {argument name=\"outfit\" default=\"midnight navy velvet suit with ivory shirt\"} and top buttons open. He leans casually against a beveled mirror in a {argument name=\"setting\" default=\"luxury penthouse with marble floors\"} and golden ambient light. City skyline at twilight glows softly behind. Wearing sunglasses, silver watch, black ring, and chain. Cinematic lighting, high-fashion editorial style, ultra-premium Instagram aesthetic. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.\nIn the car:\nA stylish man sits confidently in the driver’s seat of a {argument name=\"vehicle\" default=\"sleek black luxury car\"}, looking out the open window with a composed and thoughtful expression. He wears a partially unbuttoned white satin shirt that catches the warm golden-hour light. The lighting is natural and cinematic, with soft sunlight highlighting the textures of his shirt and the car’s polished metallic surface. The background shows an urban setting with hints of street structures and soft blur, keeping the focus on the subject. Keep original face.",
+    "title": "Luxury Penthouse and Car Editorial",
+    "description": "A high-fashion prompt set for creating ultra-realistic lifestyle images of a man in a luxury penthouse and a luxury vehicle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165155769_rsymvq_HKeRRWMXIAAdSjv.jpg",
+      "https://cms-assets.youmind.com/media/1781165156501_nx497h_HKeRRWKW0AA5V_e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25017,
+    "content": "Photorealistic outdoor portrait of a joyful young woman playing in a shallow forest river. She wears a vibrant {argument name=\"outfit color\" default=\"mustard yellow\"} {argument name=\"outfit type\" default=\"cotton silk half-saree\"} with a rich temple border in green, gold, and maroon, paired with a matching mustard yellow puff-sleeve blouse. A deep maroon silk dupatta is draped over one shoulder. Minimal gold jewelry, small jhumka earrings, a thin gold chain with a pendant, and simple gold bangles. Long, wavy open hair cascading down, with natural dewy makeup. Candid pose crouching at the water's edge, leaning forward and playfully splashing water with one hand while holding her skirt with the other, a bright smile looking into the distance. Lush green forest background, clear shallow river with visible stones, {argument name=\"lighting\" default=\"golden hour natural light\"} reflecting on water, with droplets frozen mid-air. Cinematic nature photography, dynamic motion, vibrant colors, nostalgic and carefree mood, 8k, 50mm lens, photorealistic, editorial style --ar 3:4",
+    "title": "Joyful Forest River Saree Portrait",
+    "description": "A cinematic nature prompt for a woman in a vibrant saree splashing water in a lush forest during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161865_llob3v_HKdU4rgbwAAHXSu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25018,
+    "content": "{ \"prompt\": \"Ultra-realistic luxury fitness mirror selfie of a young {argument name=\\\"hair color\\\" default=\\\"blonde\\\"} woman seated on a black workout bench inside a {argument name=\\\"gym style\\\" default=\\\"premium modern gym\\\"}. Long wavy {argument name=\\\"hair style\\\" default=\\\"platinum-blonde\\\"} hair, natural makeup, clear glowing skin, soft neutral expression, and athletic yet elegant appearance. Wearing a fitted {argument name=\\\"outfit\\\" default=\\\"ivory athletic romper\\\"} with a sleek minimalist design. Holding a smartphone while taking a mirror selfie. High-end fitness center featuring mirrored walls, black flooring, cable machines, weight racks, dumbbells, and designer gym equipment. Contemporary architectural ceiling lights create clean geometric reflections throughout the space. Professional wellness campaign photography, luxury activewear advertisement, photorealistic skin texture, realistic reflections, premium fitness influencer aesthetic, ultra detailed, natural color grading, high-end commercial photography, sophisticated wellness lifestyle.\", \"negative_prompt\": \"blurry, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic body proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered gym, warped mirror reflections, duplicate equipment, overexposed highlights, harsh shadows\", \"style\": \"photorealistic\", \"camera\": { \"type\": \"smartphone camera\", \"lens\": \"26mm\", \"aperture\": \"f/1.8\", \"iso\": 100, \"angle\": \"mirror selfie perspective\", \"depth_of_field\": \"moderate\" }, \"lighting\": { \"type\": \"modern gym ambient lighting\", \"direction\": \"soft overhead illumination\", \"mood\": \"luxury, clean, wellness-focused\" }, \"composition\": { \"framing\": \"vertical full-body portrait\", \"subject_position\": \"centered on workout bench\", \"background\": \"premium gym with mirrors, cable machines, and dumbbell racks\" }, \"quality\": { \"resolution\": \"8k\", \"detail\": \"ultra high\", \"realism\": \"maximum\" } }",
+    "title": "Luxury Fitness Gym Selfie",
+    "description": "A detailed photorealistic prompt for a high-end wellness campaign featuring an athletic woman in a modern gym.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161845_b94zx6_HKdLH18b0AAAtuc.jpg",
+      "https://cms-assets.youmind.com/media/1781165161873_1yaz7y_HKdLH2Ca0AAF32W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25014,
+    "content": "A professional fashion collage showcasing six {argument name=\"theme\" default=\"elegant high-fashion gowns\"}, presented in a 2x3 grid layout. The designs feature a mix of bold colors, architectural elements, and intricate textures, each modeled in a contemporary or minimalist architectural setting:\n​Top Left: A vibrant royal blue dress featuring structured, sculptural draping and peplum-style folds at the waist, accented with subtle metallic hardware details.\n​Top Right: A flowing, sleeveless terracotta orange gown with a deep V-neckline and a tiered, multi-layered pleated maxi skirt.\n​Middle Left: A striking deep purple gown showcasing an avant-garde, fan-like pleated architectural cape element extending from the back and shoulder.\n​Middle Right: A one-shoulder fitted maxi dress adorned with an intricate, geometric tribal-inspired pattern in shades of black, olive green, and cream.\n​Bottom Left: A sleek, minimalist emerald green column dress featuring a high mock neckline and a sharp, diagonal mesh cutout across the chest.\n​Bottom Right: A dramatic metallic charcoal grey gown featuring voluminous, cascading ruffles along a one-shoulder neckline and trailing down the skirt.\n​The overall aesthetic is editorial and sophisticated, emphasizing modern tailoring, clean lines, and high-end evening wear design against textured concrete and neutral backdrops.",
+    "title": "Architectural High-Fashion Gown Collage",
+    "description": "A professional fashion collage prompt for generating a grid of six elegant gowns, each set in minimalist architectural backgrounds with distinct textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165160050_lsagsr_HKdDbH3WcAAohJP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25020,
+    "content": "{argument name=\"style\" default=\"80s retro action figure\"}",
+    "title": "Retro 80s Action Figure Aesthetic",
+    "description": "A prompt instruction for generating character images that look like vintage action figures with realistic paint wear and damage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165163474_9y3ovd_HKc80V5aEAAO_mj.jpg",
+      "https://cms-assets.youmind.com/media/1781165163535_rm3cyn_HKc80VybkAEEuN_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25007,
+    "content": "A {argument name=\"subject\" default=\"beautiful young woman\"} standing in a {argument name=\"setting\" default=\"lush flower garden\"} during a bright sunny afternoon, surrounded by vibrant orange and pink blossoms and rich green foliage. Natural soft daylight, realistic skin with visible pores and subtle imperfections, healthy complexion, authentic facial features, natural lips, detailed eyes with realistic catchlights, long dark brown hair flowing naturally. {argument name=\"clothing\" default=\"Light blue cable-knit sweater, white mini skirt\"}, quilted gray shoulder bag, vintage silver camera hanging from her hand. Shallow depth of field, creamy bokeh background, professional DSLR photography, 85mm lens, f/1.8, ultra-sharp focus on the face, cinematic color grading, high dynamic range, realistic shadows and highlights, editorial fashion photography, premium lifestyle magazine quality. Avoid plastic skin, beauty-filter look, over-smoothing, AI-generated appearance, exaggerated makeup, distorted anatomy, extra fingers, altered clothing, changed accessories, face swapping, age changes, cartoon style, CGI look, waxy texture. Maintain exact likeness and natural human realism. 8K ultra-detailed, photorealistic, natural colors.",
+    "title": "Realistic Editorial Garden Portrait",
+    "description": "A highly detailed prompt for a photorealistic editorial fashion shot of a woman in a lush flower garden with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165156425_mvlxym_HKcx75XacAAz3RO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25010,
+    "content": "Ultra-realistic {argument name=\"product name\" default=\"[BISCUIT NAME]\"} biscuits stacked dynamically in mid-air, slightly broken to reveal rich texture, creamy filling / buttery layers visible, dramatic milk splash forming artistic curves around the biscuits, soft biscuit crumbs suspended in air, glossy milk droplets frozen in motion, {argument name=\"background\" default=\"dark studio gradient background\"}, cinematic professional lighting, macro food photography, ultra-sharp focus, high contrast, premium luxury commercial advertisement style, dramatic splash effect, hyper-detailed textures, photorealistic, 8K ultra-high resolution\nAspect ratio {argument name=\"aspect ratio\" default=\"3:4\"}",
+    "title": "Macro Luxury Biscuit Milk Splash",
+    "description": "A commercial food photography prompt for generating high-detail images of biscuits with dynamic milk splashes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165157861_nidqfn_HKbsM0SbkAAiGTg.jpg",
+      "https://cms-assets.youmind.com/media/1781165157728_0kes3r_HKbsM0Ua4AAr7g_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24858,
     "content": "Ultra-realistic editorial portrait of a {argument name=\"subject\" default=\"young woman with long voluminous copper-red hair\"} sitting gracefully on a polished herringbone parquet floor inside an {argument name=\"location\" default=\"elegant Parisian apartment\"}. She is adjusting her hair with both hands while seated beside a cream-colored striped sofa. Wearing a {argument name=\"outfit\" default=\"soft dusty-rose cardigan with pearl buttons, a white ribbed mini skirt, ivory cable-knit knee-high socks, and pale pink satin ballet pointe shoes\"}. Warm golden sunlight streams through tall French windows, creating soft highlights in her hair and long cinematic shadows across the wooden floor. Ornate Parisian architecture with decorative moldings, carved marble fireplace, high ceilings, and luxurious classical interiors. Delicate natural makeup, porcelain skin, thoughtful expression, romantic ballet aesthetic, luxury fashion editorial, French elegance, photorealistic, ultra-detailed, premium magazine photography, timeless feminine atmosphere.",
     "title": "Parisian Apartment Editorial Portrait",

@@ -41,6 +41,148 @@
     "needReferenceImages": false
   },
   {
+    "id": 25008,
+    "content": "In the penthouse:\nUltra-realistic 4K close-up of a stylish man (same face), wearing a {argument name=\"outfit\" default=\"midnight navy velvet suit with ivory shirt\"} and top buttons open. He leans casually against a beveled mirror in a {argument name=\"setting\" default=\"luxury penthouse with marble floors\"} and golden ambient light. City skyline at twilight glows softly behind. Wearing sunglasses, silver watch, black ring, and chain. Cinematic lighting, high-fashion editorial style, ultra-premium Instagram aesthetic. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.\nIn the car:\nA stylish man sits confidently in the driver’s seat of a {argument name=\"vehicle\" default=\"sleek black luxury car\"}, looking out the open window with a composed and thoughtful expression. He wears a partially unbuttoned white satin shirt that catches the warm golden-hour light. The lighting is natural and cinematic, with soft sunlight highlighting the textures of his shirt and the car’s polished metallic surface. The background shows an urban setting with hints of street structures and soft blur, keeping the focus on the subject. Keep original face.",
+    "title": "Luxury Penthouse and Car Editorial",
+    "description": "A high-fashion prompt set for creating ultra-realistic lifestyle images of a man in a luxury penthouse and a luxury vehicle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165155769_rsymvq_HKeRRWMXIAAdSjv.jpg",
+      "https://cms-assets.youmind.com/media/1781165156501_nx497h_HKeRRWKW0AA5V_e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25023,
+    "content": "a little cockroach with the text: {argument name=\"text\" default=\"skin care will make me beautiful\"}",
+    "title": "Cockroach Skincare Meme",
+    "description": "A humorous prompt for creating an image of a cockroach with custom skincare-themed text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165164888_3889ob_HKdjKatXIAElHHY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25019,
+    "content": "Attached portrait. The facial structure and likeness are 100% true to the reference. Art Style: A stunning {argument name=\"art style\" default=\"expressionist digital painting\"}, combining stylized realism with a raw, artistic touch. It uses bold, purposeful brushstrokes and a thick impasto texture. Lighting & Color: A dramatic double-exposure lighting effect. Strong, warm {argument name=\"warm light color\" default=\"orange\"} light illuminates one side of the face, creating an intense highlight, while contrasting, cool {argument name=\"cool light color\" default=\"electric blue\"} light hits the opposite side. The color palette features deep shadows, vibrant orange, turquoise, light blue, white, and gray. Technique: The composition features messy, loose sketch lines and rough charcoal outlines visible beneath the paint. The edges are fragmented with abstract blocks of color, giving the work a bold, \"unfinished\" look. The background is abstract and minimalist, allowing the textured brushstrokes to stand out. Somber, modern, and atmospheric.",
+    "title": "Expressionist Double Exposure Face Painting",
+    "description": "An artistic prompt for creating an expressionist digital painting using dramatic double-exposure lighting with warm orange and cool blue tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161894_mcgrxp_HKdhweFa4AA1kF8.jpg",
+      "https://cms-assets.youmind.com/media/1781165161904_jq1dwh_HKdhwmjacAAprIy.jpg",
+      "https://cms-assets.youmind.com/media/1781165161869_8d7byb_HKdh1gjbgAAurHC.jpg",
+      "https://cms-assets.youmind.com/media/1781165162635_yxmy1e_HKdhw0nawAA4RCs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25011,
+    "content": "A series of black and white professional studio portraits featuring a {argument name=\"subject\" default=\"young man\"} with styled, {argument name=\"hair style\" default=\"wavy hair\"} and distinctive dimples, dressed in a {argument name=\"outfit\" default=\"sharp, dark textured blazer\"}, a crisp white button-up dress shirt with an open collar, dark trousers, and a thin chain necklace. The collection includes variations in his pose against a soft, textured studio backdrop: one showing him looking off-camera to the side while standing with a hand in his pocket, another sitting comfortably on a wooden stool with his hand resting on his thigh, a direct head-on shot looking confidently into the camera, and an alternate standing pose adjusting his jacket. The lighting remains soft and consistent throughout, emphasizing clean details like his leather-strap watch and his warm, engaging smile.",
+    "title": "Classic Black and White Male Studio Portraits",
+    "description": "A detailed prompt for generating a series of professional black and white studio portraits of a man, featuring various poses and consistent soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165157955_e4uzva_HKde5dwWQAAjlIS.jpg",
+      "https://cms-assets.youmind.com/media/1781165157930_4zqdxh_HKde5d8XQAAOhPo.jpg",
+      "https://cms-assets.youmind.com/media/1781165158060_gly5rc_HKde5d4WsAAbSNS.jpg",
+      "https://cms-assets.youmind.com/media/1781165158766_j3ic3o_HKde5g3W0AAIycF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25017,
+    "content": "Photorealistic outdoor portrait of a joyful young woman playing in a shallow forest river. She wears a vibrant {argument name=\"outfit color\" default=\"mustard yellow\"} {argument name=\"outfit type\" default=\"cotton silk half-saree\"} with a rich temple border in green, gold, and maroon, paired with a matching mustard yellow puff-sleeve blouse. A deep maroon silk dupatta is draped over one shoulder. Minimal gold jewelry, small jhumka earrings, a thin gold chain with a pendant, and simple gold bangles. Long, wavy open hair cascading down, with natural dewy makeup. Candid pose crouching at the water's edge, leaning forward and playfully splashing water with one hand while holding her skirt with the other, a bright smile looking into the distance. Lush green forest background, clear shallow river with visible stones, {argument name=\"lighting\" default=\"golden hour natural light\"} reflecting on water, with droplets frozen mid-air. Cinematic nature photography, dynamic motion, vibrant colors, nostalgic and carefree mood, 8k, 50mm lens, photorealistic, editorial style --ar 3:4",
+    "title": "Joyful Forest River Saree Portrait",
+    "description": "A cinematic nature prompt for a woman in a vibrant saree splashing water in a lush forest during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161865_llob3v_HKdU4rgbwAAHXSu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25018,
+    "content": "{ \"prompt\": \"Ultra-realistic luxury fitness mirror selfie of a young {argument name=\\\"hair color\\\" default=\\\"blonde\\\"} woman seated on a black workout bench inside a {argument name=\\\"gym style\\\" default=\\\"premium modern gym\\\"}. Long wavy {argument name=\\\"hair style\\\" default=\\\"platinum-blonde\\\"} hair, natural makeup, clear glowing skin, soft neutral expression, and athletic yet elegant appearance. Wearing a fitted {argument name=\\\"outfit\\\" default=\\\"ivory athletic romper\\\"} with a sleek minimalist design. Holding a smartphone while taking a mirror selfie. High-end fitness center featuring mirrored walls, black flooring, cable machines, weight racks, dumbbells, and designer gym equipment. Contemporary architectural ceiling lights create clean geometric reflections throughout the space. Professional wellness campaign photography, luxury activewear advertisement, photorealistic skin texture, realistic reflections, premium fitness influencer aesthetic, ultra detailed, natural color grading, high-end commercial photography, sophisticated wellness lifestyle.\", \"negative_prompt\": \"blurry, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic body proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered gym, warped mirror reflections, duplicate equipment, overexposed highlights, harsh shadows\", \"style\": \"photorealistic\", \"camera\": { \"type\": \"smartphone camera\", \"lens\": \"26mm\", \"aperture\": \"f/1.8\", \"iso\": 100, \"angle\": \"mirror selfie perspective\", \"depth_of_field\": \"moderate\" }, \"lighting\": { \"type\": \"modern gym ambient lighting\", \"direction\": \"soft overhead illumination\", \"mood\": \"luxury, clean, wellness-focused\" }, \"composition\": { \"framing\": \"vertical full-body portrait\", \"subject_position\": \"centered on workout bench\", \"background\": \"premium gym with mirrors, cable machines, and dumbbell racks\" }, \"quality\": { \"resolution\": \"8k\", \"detail\": \"ultra high\", \"realism\": \"maximum\" } }",
+    "title": "Luxury Fitness Gym Selfie",
+    "description": "A detailed photorealistic prompt for a high-end wellness campaign featuring an athletic woman in a modern gym.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161845_b94zx6_HKdLH18b0AAAtuc.jpg",
+      "https://cms-assets.youmind.com/media/1781165161873_1yaz7y_HKdLH2Ca0AAF32W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25007,
+    "content": "A {argument name=\"subject\" default=\"beautiful young woman\"} standing in a {argument name=\"setting\" default=\"lush flower garden\"} during a bright sunny afternoon, surrounded by vibrant orange and pink blossoms and rich green foliage. Natural soft daylight, realistic skin with visible pores and subtle imperfections, healthy complexion, authentic facial features, natural lips, detailed eyes with realistic catchlights, long dark brown hair flowing naturally. {argument name=\"clothing\" default=\"Light blue cable-knit sweater, white mini skirt\"}, quilted gray shoulder bag, vintage silver camera hanging from her hand. Shallow depth of field, creamy bokeh background, professional DSLR photography, 85mm lens, f/1.8, ultra-sharp focus on the face, cinematic color grading, high dynamic range, realistic shadows and highlights, editorial fashion photography, premium lifestyle magazine quality. Avoid plastic skin, beauty-filter look, over-smoothing, AI-generated appearance, exaggerated makeup, distorted anatomy, extra fingers, altered clothing, changed accessories, face swapping, age changes, cartoon style, CGI look, waxy texture. Maintain exact likeness and natural human realism. 8K ultra-detailed, photorealistic, natural colors.",
+    "title": "Realistic Editorial Garden Portrait",
+    "description": "A highly detailed prompt for a photorealistic editorial fashion shot of a woman in a lush flower garden with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165156425_mvlxym_HKcx75XacAAz3RO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25012,
+    "content": "Use uploaded photo as exact face reference, 100% face match. {argument name=\"outfit\" default=\"Elegant white embroidered salwar suit\"} with matching dupatta, standing pose, one hand touching hair, soft smile, {argument name=\"setting\" default=\"outdoor modern garden setting\"}, {argument name=\"lighting\" default=\"golden hour lighting\"}, natural candid look, realistic skin texture, photorealistic, DSLR photography, ultra-detailed, 4K, vertical 9:16.",
+    "title": "Elegant Indian Salwar Suit Portrait",
+    "description": "Creates a photorealistic portrait of a woman in an elegant embroidered salwar suit, optimized for face reference matching and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165158896_8sbmr1_HKcAjtlW8AATgJj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25021,
+    "content": "{argument name=\"subject\" default=\"Me\"} walking through the {argument name=\"location\" default=\"Hall of Mirrors in the Palace of Versailles\"}",
+    "title": "Walking in the Hall of Mirrors",
+    "description": "A prompt for generating an image of a character walking through the famous Hall of Mirrors in the Palace of Versailles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165164103_hn07db_HKb3RA-bUAAoKTu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25016,
+    "content": "A dramatic, low-key studio portrait of a {argument name=\"subject\" default=\"handsome man with styled, wavy dark brown hair\"} and short stubble beard, looking directly into the camera. He is wearing {argument name=\"accessories\" default=\"round, thin-framed sunglasses with tinted blue lenses\"}, a {argument name=\"outfit\" default=\"black t-shirt with a subtle white athletic logo\"} on the right chest, a silver chain necklace, and a silver luxury sports watch with a blue dial. He is {argument name=\"pose\" default=\"posing with his hand resting thoughtfully under his chin\"}, showcasing a silver chain bracelet on his wrist. Intense, cinematic key lighting from the side highlights his facial features and arm texture, contrasting sharply against a solid, pitch-black background. High-fashion photography style, sharp focus, 8k resolution, moody atmosphere.",
+    "title": "Moody Male Studio Portrait with Sunglasses",
+    "description": "A dramatic, low-key studio portrait of a man wearing tinted blue sunglasses, featuring intense cinematic key lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165160840_th4v9a_HKbvRtqawAAplyr.jpg",
+      "https://cms-assets.youmind.com/media/1781165160406_1l7dsx_HKbvRtrbAAAaTar.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25006,
+    "content": "Portrait of a young woman with {argument name=\"hair style\" default=\"short black bob haircut\"}, intense and slightly dreamy expression, large expressive eyes looking up, glossy lips, pale skin with subtle freckles, wearing {argument name=\"accessory\" default=\"oversized futuristic metallic rose-gold headphones\"}, black turtleneck sweater, {argument name=\"background color\" default=\"vibrant orange-red background\"}, cinematic lighting, soft rim light, dramatic color contrast, highly detailed skin texture, realistic yet slightly stylized, cyberpunk aesthetic, moody atmosphere, sharp focus, 8k, photorealistic rendering.",
+    "title": "Cyberpunk Bob Portrait Comparison",
+    "description": "A cyberpunk-inspired portrait prompt used to compare the output quality between Nano Banana 2 and Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165156424_440od2_HKbk-E2a8AEBTFp.jpg",
+      "https://cms-assets.youmind.com/media/1781165156419_64tqtb_HKbk-LdaQAAYwGb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25009,
+    "content": "Young woman in uploaded image, {argument name=\"clothing\" default=\"denim overall dress\"}, {argument name=\"hair\" default=\"medium length black hair with bangs\"}, hands folded on lap, sitting at indoor bar, {argument name=\"lighting\" default=\"dark moody interior red accent lighting\"}, slightly looking away, candid night out mood, urban casual style.",
+    "title": "Moody Bar Night Style Transformation",
+    "description": "A prompt for transforming a reference image into a candid nighttime shot at a bar with moody red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165157712_al2qnc_HKbVHbAacAA6mFB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25015,
+    "content": "Hyperrealistic 8K photograph of a {argument name=\"subject\" default=\"human figure\"} composed of instant photographic prints layered on a {argument name=\"background\" default=\"dark, distressed, slate-textured, modern minimalist background\"}. The figure, displaying the reference face, is meticulously assembled from approximately 20 separate photographs showing a {argument name=\"clothing\" default=\"fucsia patterned T-shirt\"}. Two hands reach out to adjust the photos; one hand pinches the corner of a print, revealing a subtle ring. Cinematic studio lighting, soft shadows, and 3D depth. Cool and warm color palette, muted and desaturated. Medium shot, eye level, natural proportions.",
+    "title": "Layered Instant Print Human Figure Art",
+    "description": "An artistic prompt for creating a human figure composed of layered photographic prints, set against a dark distressed slate background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165160119_itc25j_HKbGsH4a4AA-5gu.jpg",
+      "https://cms-assets.youmind.com/media/1781165160240_i9z9ie_HKbGsP8akAAy471.jpg",
+      "https://cms-assets.youmind.com/media/1781165160111_rg2bsm_HKbGsWEbAAEsF_B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24855,
     "content": "Convert this into a portrait of a {argument name=\"subject gender\" default=\"man\"} in {argument name=\"clothing style\" default=\"trendy streetwear with oversized hoodie, ripped jeans, and sneakers\"}. Place him {argument name=\"pose\" default=\"leaning casually against a graffiti wall\"} with natural daylight and a shallow depth-of-field effect for an edgy, Instagram worthy look. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.",
     "title": "Streetwear Identity Reference",

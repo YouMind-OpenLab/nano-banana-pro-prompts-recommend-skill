@@ -1,5 +1,26 @@
 [
   {
+    "id": 25013,
+    "content": "A cinematic, medium close-up shot of a {argument name=\"subject\" default=\"young woman\"} as in <<<image_1>>> standing in profile, gently resting her forehead against the metallic black visor of an off-white, {argument name=\"helmet type\" default=\"mobile suit pilot helmet\"} held in her gloved hands. She wears a {argument name=\"outfit\" default=\"detailed, futuristic white mobile suit pilot suit\"} with subtle signs of wear and tear, including scuffs and grime textures. The lighting is soft, cool, and diffused, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 85mm lens with a shallow depth of field, focusing sharply on her face and the texture of the helmet, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Loose messy hair style. Visor should have no reflection of the photographer.",
+    "title": "Sci-Fi Mobile Suit Pilot Portrait",
+    "description": "A cinematic sci-fi portrait of a young woman holding a pilot helmet, focusing on hyper-realistic textures and a melancholic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165159272_98ij8n_HKeLEl2acAAvNL0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25020,
+    "content": "{argument name=\"style\" default=\"80s retro action figure\"}",
+    "title": "Retro 80s Action Figure Aesthetic",
+    "description": "A prompt instruction for generating character images that look like vintage action figures with realistic paint wear and damage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165163474_9y3ovd_HKc80V5aEAAO_mj.jpg",
+      "https://cms-assets.youmind.com/media/1781165163535_rm3cyn_HKc80VybkAEEuN_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24859,
     "content": "{argument name=\"character name\" default=\"Aldric\"}, a battle-worn medieval knight with {argument name=\"hair style\" default=\"wet shoulder-length dark hair\"}, scarred face, realistic steel armor covered in mud and rain, holding a bloodstained longsword, standing face to face with a {argument name=\"monster type\" default=\"terrifying forest wraith\"}, creature made of twisted bark, dead leaves and living darkness, glowing red eyes, crimson cracks glowing beneath its body, dark rainy forest, heavy rainfall, muddy ground, cinematic dark fantasy, dramatic lighting, ultra realistic, photorealistic, movie still, shallow depth of field, intense confrontation, atmospheric fog, epic fantasy, masterpiece.",
     "title": "Battle-Worn Knight vs Forest Wraith",

@@ -10,6 +10,84 @@
     "needReferenceImages": false
   },
   {
+    "id": 25019,
+    "content": "Attached portrait. The facial structure and likeness are 100% true to the reference. Art Style: A stunning {argument name=\"art style\" default=\"expressionist digital painting\"}, combining stylized realism with a raw, artistic touch. It uses bold, purposeful brushstrokes and a thick impasto texture. Lighting & Color: A dramatic double-exposure lighting effect. Strong, warm {argument name=\"warm light color\" default=\"orange\"} light illuminates one side of the face, creating an intense highlight, while contrasting, cool {argument name=\"cool light color\" default=\"electric blue\"} light hits the opposite side. The color palette features deep shadows, vibrant orange, turquoise, light blue, white, and gray. Technique: The composition features messy, loose sketch lines and rough charcoal outlines visible beneath the paint. The edges are fragmented with abstract blocks of color, giving the work a bold, \"unfinished\" look. The background is abstract and minimalist, allowing the textured brushstrokes to stand out. Somber, modern, and atmospheric.",
+    "title": "Expressionist Double Exposure Face Painting",
+    "description": "An artistic prompt for creating an expressionist digital painting using dramatic double-exposure lighting with warm orange and cool blue tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165161894_mcgrxp_HKdhweFa4AA1kF8.jpg",
+      "https://cms-assets.youmind.com/media/1781165161904_jq1dwh_HKdhwmjacAAprIy.jpg",
+      "https://cms-assets.youmind.com/media/1781165161869_8d7byb_HKdh1gjbgAAurHC.jpg",
+      "https://cms-assets.youmind.com/media/1781165162635_yxmy1e_HKdhw0nawAA4RCs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25011,
+    "content": "A series of black and white professional studio portraits featuring a {argument name=\"subject\" default=\"young man\"} with styled, {argument name=\"hair style\" default=\"wavy hair\"} and distinctive dimples, dressed in a {argument name=\"outfit\" default=\"sharp, dark textured blazer\"}, a crisp white button-up dress shirt with an open collar, dark trousers, and a thin chain necklace. The collection includes variations in his pose against a soft, textured studio backdrop: one showing him looking off-camera to the side while standing with a hand in his pocket, another sitting comfortably on a wooden stool with his hand resting on his thigh, a direct head-on shot looking confidently into the camera, and an alternate standing pose adjusting his jacket. The lighting remains soft and consistent throughout, emphasizing clean details like his leather-strap watch and his warm, engaging smile.",
+    "title": "Classic Black and White Male Studio Portraits",
+    "description": "A detailed prompt for generating a series of professional black and white studio portraits of a man, featuring various poses and consistent soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165157955_e4uzva_HKde5dwWQAAjlIS.jpg",
+      "https://cms-assets.youmind.com/media/1781165157930_4zqdxh_HKde5d8XQAAOhPo.jpg",
+      "https://cms-assets.youmind.com/media/1781165158060_gly5rc_HKde5d4WsAAbSNS.jpg",
+      "https://cms-assets.youmind.com/media/1781165158766_j3ic3o_HKde5g3W0AAIycF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25012,
+    "content": "Use uploaded photo as exact face reference, 100% face match. {argument name=\"outfit\" default=\"Elegant white embroidered salwar suit\"} with matching dupatta, standing pose, one hand touching hair, soft smile, {argument name=\"setting\" default=\"outdoor modern garden setting\"}, {argument name=\"lighting\" default=\"golden hour lighting\"}, natural candid look, realistic skin texture, photorealistic, DSLR photography, ultra-detailed, 4K, vertical 9:16.",
+    "title": "Elegant Indian Salwar Suit Portrait",
+    "description": "Creates a photorealistic portrait of a woman in an elegant embroidered salwar suit, optimized for face reference matching and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165158896_8sbmr1_HKcAjtlW8AATgJj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25021,
+    "content": "{argument name=\"subject\" default=\"Me\"} walking through the {argument name=\"location\" default=\"Hall of Mirrors in the Palace of Versailles\"}",
+    "title": "Walking in the Hall of Mirrors",
+    "description": "A prompt for generating an image of a character walking through the famous Hall of Mirrors in the Palace of Versailles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165164103_hn07db_HKb3RA-bUAAoKTu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25016,
+    "content": "A dramatic, low-key studio portrait of a {argument name=\"subject\" default=\"handsome man with styled, wavy dark brown hair\"} and short stubble beard, looking directly into the camera. He is wearing {argument name=\"accessories\" default=\"round, thin-framed sunglasses with tinted blue lenses\"}, a {argument name=\"outfit\" default=\"black t-shirt with a subtle white athletic logo\"} on the right chest, a silver chain necklace, and a silver luxury sports watch with a blue dial. He is {argument name=\"pose\" default=\"posing with his hand resting thoughtfully under his chin\"}, showcasing a silver chain bracelet on his wrist. Intense, cinematic key lighting from the side highlights his facial features and arm texture, contrasting sharply against a solid, pitch-black background. High-fashion photography style, sharp focus, 8k resolution, moody atmosphere.",
+    "title": "Moody Male Studio Portrait with Sunglasses",
+    "description": "A dramatic, low-key studio portrait of a man wearing tinted blue sunglasses, featuring intense cinematic key lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165160840_th4v9a_HKbvRtqawAAplyr.jpg",
+      "https://cms-assets.youmind.com/media/1781165160406_1l7dsx_HKbvRtrbAAAaTar.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25006,
+    "content": "Portrait of a young woman with {argument name=\"hair style\" default=\"short black bob haircut\"}, intense and slightly dreamy expression, large expressive eyes looking up, glossy lips, pale skin with subtle freckles, wearing {argument name=\"accessory\" default=\"oversized futuristic metallic rose-gold headphones\"}, black turtleneck sweater, {argument name=\"background color\" default=\"vibrant orange-red background\"}, cinematic lighting, soft rim light, dramatic color contrast, highly detailed skin texture, realistic yet slightly stylized, cyberpunk aesthetic, moody atmosphere, sharp focus, 8k, photorealistic rendering.",
+    "title": "Cyberpunk Bob Portrait Comparison",
+    "description": "A cyberpunk-inspired portrait prompt used to compare the output quality between Nano Banana 2 and Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165156424_440od2_HKbk-E2a8AEBTFp.jpg",
+      "https://cms-assets.youmind.com/media/1781165156419_64tqtb_HKbk-LdaQAAYwGb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25009,
+    "content": "Young woman in uploaded image, {argument name=\"clothing\" default=\"denim overall dress\"}, {argument name=\"hair\" default=\"medium length black hair with bangs\"}, hands folded on lap, sitting at indoor bar, {argument name=\"lighting\" default=\"dark moody interior red accent lighting\"}, slightly looking away, candid night out mood, urban casual style.",
+    "title": "Moody Bar Night Style Transformation",
+    "description": "A prompt for transforming a reference image into a candid nighttime shot at a bar with moody red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781165157712_al2qnc_HKbVHbAacAA6mFB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24855,
     "content": "Convert this into a portrait of a {argument name=\"subject gender\" default=\"man\"} in {argument name=\"clothing style\" default=\"trendy streetwear with oversized hoodie, ripped jeans, and sneakers\"}. Place him {argument name=\"pose\" default=\"leaning casually against a graffiti wall\"} with natural daylight and a shallow depth-of-field effect for an edgy, Instagram worthy look. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.",
     "title": "Streetwear Identity Reference",
