@@ -1,5 +1,39 @@
 [
   {
+    "id": 25130,
+    "content": "{argument name=\"character name\" default=\"Aldric\"} standing his ground in a {argument name=\"setting\" default=\"rain-soaked dead forest\"}, sword held firmly with both hands, feet planted in the mud, facing a {argument name=\"enemy\" default=\"massive dark humanoid creature\"} charging directly toward him at full speed, monstrous figure made of shadow, mud and rotting cloth, glowing red eyes, enormous momentum, with aldric  sword almost plunging into the monster's stomach, taking advantage of the momentum . Cinematic dark fantasy, dramatic atmosphere, realistic medieval armor, fog, tension before impact, low angle shot, ultra realistic, movie still",
+    "title": "Cinematic Dark Fantasy Battle",
+    "description": "A dramatic medieval fantasy movie still capturing a knight facing a charging shadow creature in a rain-soaked forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251723499_2jd502_HKhpOkMXoAAkq24.jpg",
+      "https://cms-assets.youmind.com/media/1781251723566_9yghhh_HKhpE9HWYAAdI6M.jpg",
+      "https://cms-assets.youmind.com/media/1781251723652_4w5dmk_HKhpL0mXcAABqVr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25126,
+    "content": "A split-panel or side-by-side portrait of a {argument name=\"subject\" default=\"woman with wavy, light brown hair\"} styled half-up, wearing a {argument name=\"clothing\" default=\"cozy black knit sweater\"} and a layered silver and gold chain necklace. In the first view, she is captured in a candid three-quarter profile, resting her chin on her hand with a joyful, beaming smile, looking slightly off-camera. In the second view, she looks directly at the camera with a playful, mischievous expression, crinkling her nose and gently biting her lower lip. Both shots share a {argument name=\"background\" default=\"warm, natural indoor setting\"} with soft lighting, a blurred bookshelf, and a textured brick wall in the background, maintaining perfect facial and stylistic consistency across both expressions.",
+    "title": "Dual Expression Split-Panel Portrait",
+    "description": "A dual-panel portrait showcasing consistent character facial features with two different expressions: a beaming smile and a playful nose-crinkling look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721964_pkxg5t_HKgs_OYW4AAWp9F.jpg",
+      "https://cms-assets.youmind.com/media/1781251721952_mdh049_HKgs_Q4WMAABr3O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25128,
+    "content": "Ultra-detailed monochrome pencil sketch illustration featuring a {argument name=\"character\" default=\"charismatic young man\"} portrayed through multiple perspectives in a cinematic character-study composition. At the center, a smiling front-facing portrait wearing a {argument name=\"accessory\" default=\"knitted beanie\"}, casual bomber jacket, and t-shirt, rendered with highly detailed facial features, expressive eyes, realistic beard texture, and intricate cross-hatching shading. Behind him, two large mirrored side-profile portraits face opposite directions, creating a dramatic symmetrical layout that symbolizes reflection, memory, and personal growth.\nThe background consists of a {argument name=\"setting\" default=\"minimalist urban cityscape\"} with modern buildings, streets, trees, and subtle architectural line art fading into soft watercolor-style gray washes. At the bottom of the composition, a smaller full-body figure of the same man sits alone on a park bench in the middle of a quiet city street, holding a notebook and appearing deep in thought.\nDrawn in a premium graphite and ink style on textured white paper, with precise linework, delicate sketch strokes, realistic proportions, detailed hair rendering, and subtle shadows. The artwork blends portraiture, storytelling, and emotional symbolism, creating a thoughtful, inspirational visual narrative. High contrast black-and-white tones, elegant composition, professional editorial illustration, concept-art quality, ultra-sharp details, clean background, masterpiece, 8K resolution.",
+    "title": "Cinematic Monochrome Character Study",
+    "description": "A complex pencil sketch illustration featuring multiple perspectives of a single character in an urban setting, blending portraiture and storytelling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251722911_wgaozl_HKf9P82W4AEEQE3.jpg",
+      "https://cms-assets.youmind.com/media/1781251722943_qo2w26_HKf9RGKXUAAkNDD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25013,
     "content": "A cinematic, medium close-up shot of a {argument name=\"subject\" default=\"young woman\"} as in <<<image_1>>> standing in profile, gently resting her forehead against the metallic black visor of an off-white, {argument name=\"helmet type\" default=\"mobile suit pilot helmet\"} held in her gloved hands. She wears a {argument name=\"outfit\" default=\"detailed, futuristic white mobile suit pilot suit\"} with subtle signs of wear and tear, including scuffs and grime textures. The lighting is soft, cool, and diffused, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 85mm lens with a shallow depth of field, focusing sharply on her face and the texture of the helmet, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Loose messy hair style. Visor should have no reflection of the photographer.",
     "title": "Sci-Fi Mobile Suit Pilot Portrait",

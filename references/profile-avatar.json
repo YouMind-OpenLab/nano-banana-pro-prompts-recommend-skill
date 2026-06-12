@@ -10,6 +10,78 @@
     "needReferenceImages": false
   },
   {
+    "id": 25123,
+    "content": "A vertical, close-up color portrait of a {argument name=\"subject\" default=\"young Korean woman\"} with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks. Her {argument name=\"hair color\" default=\"dark, reddish-brown wavy hair\"} cascades down, with a single thick strand draped across the front of her face, partially obscuring her cheek. Her hand is raised in the lower right foreground, gently pulling and holding that strand of hair. She wears a {argument name=\"outfit\" default=\"simple black tank top\"}, and the background features a softly blurred, warm out-of-focus stone archway surrounded by lush green foliage under bright, natural outdoor lighting.",
+    "title": "Cute Korean Woman Soft Portrait",
+    "description": "A vertical close-up portrait of a Korean woman with an endearing expression, featuring soft outdoor lighting and lush foliage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721070_jekh4h_HKkfavLXYAAv7_z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25136,
+    "content": "Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRAIT. A beautiful woman with long {argument name=\"hair color\" default=\"brown\"} hair, {argument name=\"hair style\" default=\"half-updo\"}, wearing a {argument name=\"clothing color\" default=\"black\"} traditional Pakistani dress (shalwar kameez) with bright maroon scalloped trim along the edges of the dupatta and sleeves. She has light makeup, including pink lipstick and blush, and is smiling subtly while looking to her right. The background is simple. face keep same.",
+    "title": "Pakistani Traditional Dress Cinematic Portrait",
+    "description": "A cinematic portrait prompt designed to maintain facial features from an uploaded photo while applying a traditional Pakistani aesthetic with specific clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251726647_qjiaqm_HKjXNufX0AAhjDm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25103,
+    "content": "An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily textured dark hair featuring a messy fringe brushed forward. He is dressed in a heavy double-breasted deep black wool overcoat worn open to reveal a bright, thin white crewneck t-shirt and a subtle dark metallic chain necklace resting lightly against his chest. His left hand is relaxed and tucked inside his front left pants pocket, exposing a gleaming silver link-bracelet watch on his wrist against the dark trouser fabric. He is situated in a shallow studio environment just in front of a weathered matte plaster wall featuring rough, uneven texturing and mottled dark charcoal patches that create a grungy stone effect, rendered slightly blurred by the shallow depth of field. The scene is enveloped in a cool, desaturated, high-contrast monochromatic palette primarily composed of deep blacks that visually isolate his skin tones and the bright off-white of his shirt. A highly directional, single dominant soft studio light shines from the front and slightly above, casting dramatic, deep black shadows with soft gradual edges under his chin that heavily cloak his dark coat and seamlessly fade into the murky background. Specular highlights are precisely preserved on his forehead, the bridge of his nose, his cheekbones, and the soft draped folds of his white t-shirt, establishing a somber, cinematic, and deeply moody atmosphere. The portrait is captured as a realistic digital photograph using an 85mm lens at f/1.8 to ensure a tack-sharp focus on his piercing eyes and facial hair while melting the background into obscurity, featuring moody editorial fashion influences, intentional film grain, crushed blacks, slightly cooled shadows, and lifted midtones, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Moody studio male portrait",
+    "description": "An editorial fashion portrait prompt for a man in a black overcoat, featuring high-contrast studio lighting and a gritty stone wall background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251712778_uvi925_HKjDU8dXkAAOZK-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25143,
+    "content": "Native 4K vertical ultra-realistic half-body portrait, an adult East Asian woman in her {argument name=\"visual age\" default=\"early 20s\"}, standing {argument name=\"scene\" default=\"by a bedroom window\"}, morning sunlight shining into the room, messy long black hair, natural makeup, gentle and confident eyes, real skin texture, visible pores, slight freckles, {argument name=\"outfit\" default=\"white V-neck camisole with a light cardigan\"}, elegant upper body curves, golden sunlight through sheer curtains, hair strands with bright rim light, mottled window shadows on the face and collarbone, strong light and shadow contrast, film photography texture, natural grain, no beauty filter, high-end sexy, not revealing, no text, no watermark",
+    "title": "Realistic Woman Portrait with Freckles",
+    "description": "A hyper-realistic 4K portrait of a young woman standing by a window in morning sunlight, capturing natural skin textures and a nostalgic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251729335_qczc57_HKiBKYaaUAA16A1.jpg",
+      "https://cms-assets.youmind.com/media/1781251729333_j6v13c_HKiBNz9bUAAq3js.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25138,
+    "content": "minimalist, elegant single continuous line art illustration of a {argument name=\"subject\" default=\"bee\"} surrounded by delicate {argument name=\"background\" default=\"flowers\"}, centered on a clean white background; below the bee, the word '{argument name=\"text\" default=\"Kind\"}' in flowing cursive script, balanced composition, thin black lines, high contrast, modern minimal design suitable for logo or tattoo",
+    "title": "Minimalist Line Art Bee Illustration",
+    "description": "An elegant single-line art prompt for creating minimalist floral and insect illustrations, suitable for logos or tattoo designs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251727663_wrtlp6_HKhklBVXMAAPjhw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25110,
+    "content": "Reference Face Preservation: Keep the exact facial identity from the reference image with no facial modifications, no identity blending, and no changes to facial structure, proportions, or natural features. Create an ultra-realistic 8K portrait of a young woman in her 20s wearing a {argument name=\"clothing\" default=\"fitted ribbed off-the-shoulder top in creamy white\"}, exposing her shoulders and collarbones, paired with a delicate {argument name=\"jewelry\" default=\"gold chain necklace and a chunky green hoop earring\"}. Captured as a high-angle selfie on a {argument name=\"location\" default=\"rooftop or balcony\"} during blue hour, with a deep blue sky, soft clouds, silhouettes of tropical trees, and distant urban architecture in the background. She is looking upward and slightly away from the camera with a candid, relaxed expression and slightly parted lips. Long voluminous dark-brown hair falls in soft wavy layers with natural flyaway strands and gentle wind movement. Modern beauty editorial makeup featuring luminous skin, gray contact lenses, long separated lashes, rosy blush across cheeks and nose, and glossy natural lips. Soft evening light, realistic skin texture, visible pores, subtle shadows, DSLR photography, shallow depth of field, cinematic color grading, luxury social-media aesthetic, ultra-sharp focus, photorealistic, masterpiece quality.",
+    "title": "Blue Hour Rooftop Selfie",
+    "description": "An ultra-realistic 8K portrait prompt optimized for face preservation, set during the blue hour with a dreamy urban background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251715849_cjlnvv_HKgeVmlXcAAdLWE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25128,
+    "content": "Ultra-detailed monochrome pencil sketch illustration featuring a {argument name=\"character\" default=\"charismatic young man\"} portrayed through multiple perspectives in a cinematic character-study composition. At the center, a smiling front-facing portrait wearing a {argument name=\"accessory\" default=\"knitted beanie\"}, casual bomber jacket, and t-shirt, rendered with highly detailed facial features, expressive eyes, realistic beard texture, and intricate cross-hatching shading. Behind him, two large mirrored side-profile portraits face opposite directions, creating a dramatic symmetrical layout that symbolizes reflection, memory, and personal growth.\nThe background consists of a {argument name=\"setting\" default=\"minimalist urban cityscape\"} with modern buildings, streets, trees, and subtle architectural line art fading into soft watercolor-style gray washes. At the bottom of the composition, a smaller full-body figure of the same man sits alone on a park bench in the middle of a quiet city street, holding a notebook and appearing deep in thought.\nDrawn in a premium graphite and ink style on textured white paper, with precise linework, delicate sketch strokes, realistic proportions, detailed hair rendering, and subtle shadows. The artwork blends portraiture, storytelling, and emotional symbolism, creating a thoughtful, inspirational visual narrative. High contrast black-and-white tones, elegant composition, professional editorial illustration, concept-art quality, ultra-sharp details, clean background, masterpiece, 8K resolution.",
+    "title": "Cinematic Monochrome Character Study",
+    "description": "A complex pencil sketch illustration featuring multiple perspectives of a single character in an urban setting, blending portraiture and storytelling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251722911_wgaozl_HKf9P82W4AEEQE3.jpg",
+      "https://cms-assets.youmind.com/media/1781251722943_qo2w26_HKf9RGKXUAAkNDD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25019,
     "content": "Attached portrait. The facial structure and likeness are 100% true to the reference. Art Style: A stunning {argument name=\"art style\" default=\"expressionist digital painting\"}, combining stylized realism with a raw, artistic touch. It uses bold, purposeful brushstrokes and a thick impasto texture. Lighting & Color: A dramatic double-exposure lighting effect. Strong, warm {argument name=\"warm light color\" default=\"orange\"} light illuminates one side of the face, creating an intense highlight, while contrasting, cool {argument name=\"cool light color\" default=\"electric blue\"} light hits the opposite side. The color palette features deep shadows, vibrant orange, turquoise, light blue, white, and gray. Technique: The composition features messy, loose sketch lines and rough charcoal outlines visible beneath the paint. The edges are fragmented with abstract blocks of color, giving the work a bold, \"unfinished\" look. The background is abstract and minimalist, allowing the textured brushstrokes to stand out. Somber, modern, and atmospheric.",
     "title": "Expressionist Double Exposure Face Painting",

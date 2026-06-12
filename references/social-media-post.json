@@ -41,6 +41,336 @@
     "needReferenceImages": false
   },
   {
+    "id": 25144,
+    "content": "{\n\"subject\": {\n\"gender\": \"{argument name=\"gender\" default=\"Female\"}\",\n\"facial_features\": \"Fair skin, sharp jawline, playful expression, smiling with one eye closed in a wink, soft pink lip gloss, subtle makeup\",\n\"hair\": \"Long, dark brown to black hair, slightly messy, with wavy textures cascading over her shoulders\",\n\"body_shape\": \"Hourglass figure, prominent bust, slender waist, curvy hips, well-defined legs\",\n\"pose\": \"Seated on a transparent chair, legs crossed, leaning slightly forward, one hand resting down on the edge of the chair\",\n\"clothing\": \"{argument name=\"clothing description\" default=\"A strapless, tight-fitting mini dress wrapped entirely in yellow DHL Express packing tape with the red logo repeating across the material\"}\",\n\"accessories\": \"Thin silver chain necklace, small gold hoop earrings\"\n},\n\"environment\": {\n\"setting\": \"{argument name=\"setting\" default=\"Indoor room\"}\",\n\"background_elements\": [\n\"A red poster on the wall to the left featuring text reading 'Matrix Glitch'\",\n\"A shelf or rack on the upper right with magazine covers or print-outs, one showing a black-and-white portrait with the word 'DUST'\",\n\"A pink translucent lamp visible on the left side\",\n\"A modern transparent acrylic or glass chair\"\n]\n},\n\"photography_and_quality\": {\n\"style\": \"4K HD photo, high-resolution portrait\",\n\"lighting\": \"Direct flash photography, creating slight highlights on the skin and casting soft shadows on the background wall\",\n\"camera_angle\": \"Eye-level, vertical orientation, medium-shot\",\n\"color_palette\": \"Dominant yellow and red from the dress, contrasted with neutral wall tones and fair skin tones\",\n\"texture\": \"Glossy texture on the tape dress, smooth skin, sharp detail in hair strands and facial features\"\n}\n}",
+    "title": "DHL Packing Tape Mini Dress Portrait",
+    "description": "A highly detailed, structured prompt for generating a fashion portrait of a model wearing a unique dress made of DHL packing tape in a modern interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251730326_5bz3ki_HKlu9VuaYAAj-Th.jpg",
+      "https://cms-assets.youmind.com/media/1781251730282_d63r1v_HKlu9Vyb0AAkPeF.jpg",
+      "https://cms-assets.youmind.com/media/1781251730321_xse3zk_HKlu9VrbcAELk0F.jpg",
+      "https://cms-assets.youmind.com/media/1781251730945_t7n0hk_HKlu9VbbgAAm5Bw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25123,
+    "content": "A vertical, close-up color portrait of a {argument name=\"subject\" default=\"young Korean woman\"} with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks. Her {argument name=\"hair color\" default=\"dark, reddish-brown wavy hair\"} cascades down, with a single thick strand draped across the front of her face, partially obscuring her cheek. Her hand is raised in the lower right foreground, gently pulling and holding that strand of hair. She wears a {argument name=\"outfit\" default=\"simple black tank top\"}, and the background features a softly blurred, warm out-of-focus stone archway surrounded by lush green foliage under bright, natural outdoor lighting.",
+    "title": "Cute Korean Woman Soft Portrait",
+    "description": "A vertical close-up portrait of a Korean woman with an endearing expression, featuring soft outdoor lighting and lush foliage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721070_jekh4h_HKkfavLXYAAv7_z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25139,
+    "content": "Subtle blurry low quality close-up amateur iPhone shot of a stunning young {argument name=\"celebrity\" default=\"Megan Fox\"} eating {argument name=\"food\" default=\"souvlaki and choriatiki\"} at a fancy crowded restaurant in {argument name=\"location\" default=\"Athens\"} near parthenon wearing a total white goddess unbuttoned dress while laughing and talking watching directly in camera in a chill night.",
+    "title": "Amateur iPhone Restaurant Shot",
+    "description": "An amateur-style iPhone photo prompt capturing a candid moment of a celebrity at a restaurant, focusing on realistic low-quality textures for authenticity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251727074_t9nvk2_HKj2z2vWsAAEsOH.jpg",
+      "https://cms-assets.youmind.com/media/1781251727078_x7rxd0_HKj2z8rWQAAhP9n.jpg",
+      "https://cms-assets.youmind.com/media/1781251727081_xfkzb1_HKj20BYWcAAXqcC.jpg",
+      "https://cms-assets.youmind.com/media/1781251727937_1o15nd_HKj20KVWAAApyG3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25116,
+    "content": "“A photorealistic portrait of a beautiful young woman with olive skin, shoulder-length wavy dark brown hair, and subtle makeup, standing confidently in a large empty {argument name=\"location\" default=\"sports stadium\"} under dramatic overcast skies. She wears a fitted {argument name=\"top\" default=\"white ribbed tank top\"}, blue denim jeans, gold hoop earrings, layered gold necklaces with heart pendants, and gold bangles. Soft natural light, cinematic composition, sharp details.”",
+    "title": "Young Woman in Sports Stadium Portrait",
+    "description": "A photorealistic portrait prompt of a young woman in a sports stadium, emphasizing soft natural light and a cinematic composition under overcast skies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251718479_vfl83x_HKj2duvXoAAbui4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25107,
+    "content": "Dramatic wide portrait of {argument name=\"subject\" default=\"IMAGE1\"} sitting casually on wooden floor completely surrounded by large roaring flames and thick smoke, wearing a {argument name=\"top\" default=\"sleeveless shirt\"}, wearing dark baggy pants and {argument name=\"footwear\" default=\"white sneakers (Nike Dunk style)\"}, silver chain necklace, small earring, looking calmly and directly into camera, fire blazing on all sides in background, nighttime black sky, smoke filling frame, hyper-real editorial photography.",
+    "title": "Dramatic Fire Editorial Portrait",
+    "description": "A striking hyper-realistic editorial prompt featuring a subject surrounded by flames and smoke, creating a cinematic and intense visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251714864_0csrh5_HKjp1ubWUAADLc4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25109,
+    "content": "use my reference photo, transfer the face from the photo without changing it, preserve exact identity, facial features, body proportions and natural skin tone with 100% similarity. Ultra-realistic {argument name=\"location\" default=\"luxury yacht photo\"}, vertical 3:4. Close waist-up crop only, no full body, no legs visible. Camera directly above from a dramatic top-down angle over the edge of a moving yacht. Woman occupies the right side, leaning backward over the stainless-steel railing toward the sea, both arms extended and gripping the rail, shoulders pulled back, chest lifted, head tilted up, intense confident gaze into camera.Left side filled with vivid turquoise seawater and powerful white foam wake from the yacht. Right edge shows teak deck and polished metal railing. Asymmetrical composition, ocean dominates.Elegant {argument name=\"outfit\" default=\"long black strapless dress\"}, smooth matte fabric, no straps, no sleeves, no hardware, no embellishments, deep sweetheart neckline, fitted corset-style upper body, clean luxury silhouette.\nHair styling only: {argument name=\"hair style\" default=\"soft waves swept completely to one side by strong sea wind\"}, voluminous flowing movement, glossy texture, several wind-blown strands across forehead, cheeks and cat-eye eyeliner, feline gaze, long lashes, glossy lips with transparent gloss and darker lip contour. Natural daylight over open water, no flash, realistic sea reflections. Shot on iPhone 16 Pro Max, subtle grain, no HDR",
+    "title": "Luxury Yacht Top-Down Portrait",
+    "description": "A high-end fashion prompt designed to use a reference photo for face preservation, placing the subject on a moving luxury yacht with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251715453_5ml7c0_HKjnmILbAAAO8re.jpg",
+      "https://cms-assets.youmind.com/media/1781251715459_qs1god_HKjnmMNaMAAO2UP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25136,
+    "content": "Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRAIT. A beautiful woman with long {argument name=\"hair color\" default=\"brown\"} hair, {argument name=\"hair style\" default=\"half-updo\"}, wearing a {argument name=\"clothing color\" default=\"black\"} traditional Pakistani dress (shalwar kameez) with bright maroon scalloped trim along the edges of the dupatta and sleeves. She has light makeup, including pink lipstick and blush, and is smiling subtly while looking to her right. The background is simple. face keep same.",
+    "title": "Pakistani Traditional Dress Cinematic Portrait",
+    "description": "A cinematic portrait prompt designed to maintain facial features from an uploaded photo while applying a traditional Pakistani aesthetic with specific clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251726647_qjiaqm_HKjXNufX0AAhjDm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25137,
+    "content": "\"A quirky and intimate POV lifestyle photograph taken from the inside of a washing machine looking out at {argument name=\"subject\" default=\"Sydney Sweeney\"}. She has an intense, direct gaze, natural makeup, and messy, slightly {argument name=\"hair state\" default=\"wet-looking\"} hair. She is leaning forward, framing the circular opening of the washing machine drum, with her right foot resting on the bottom edge of the opening. Her right arm rests on her right knee, and her left arm is crossed over it as she looks straight into the camera lens. She is wearing an oversized, loose-fitting, {argument name=\"clothing color\" default=\"light yellow\"} short-sleeve button-up tunic with delicate embroidery, left unbuttoned at the bottom. The background reveals a bright laundry room with white shelves, a second white washing machine, and colorful liquid laundry detergent bottles bearing the name 'Giulia'. The scene features soft, bright, and diffused indoor studio lighting that flatters the subject with delicate highlights on her skin and hair, leaving minimal, soft shadows for a clean, professional, and naturally elegant look. Shot on an iPhone 17 Pro Max main wide-angle lens, high resolution, 8k, accurate white balance. --ar 9:16\"",
+    "title": "Washing Machine POV Lifestyle Photography",
+    "description": "A unique lifestyle photography prompt utilizing a washing machine interior point-of-view to frame a subject, creating an intimate and quirky atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251727290_um9xpe_HKjQbpTW0AEjCun.jpg",
+      "https://cms-assets.youmind.com/media/1781251727285_m08vlo_HKjQbnfWUAAfEhz.jpg",
+      "https://cms-assets.youmind.com/media/1781251727359_f5qeip_HKjQbufWcAAo-eN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25103,
+    "content": "An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily textured dark hair featuring a messy fringe brushed forward. He is dressed in a heavy double-breasted deep black wool overcoat worn open to reveal a bright, thin white crewneck t-shirt and a subtle dark metallic chain necklace resting lightly against his chest. His left hand is relaxed and tucked inside his front left pants pocket, exposing a gleaming silver link-bracelet watch on his wrist against the dark trouser fabric. He is situated in a shallow studio environment just in front of a weathered matte plaster wall featuring rough, uneven texturing and mottled dark charcoal patches that create a grungy stone effect, rendered slightly blurred by the shallow depth of field. The scene is enveloped in a cool, desaturated, high-contrast monochromatic palette primarily composed of deep blacks that visually isolate his skin tones and the bright off-white of his shirt. A highly directional, single dominant soft studio light shines from the front and slightly above, casting dramatic, deep black shadows with soft gradual edges under his chin that heavily cloak his dark coat and seamlessly fade into the murky background. Specular highlights are precisely preserved on his forehead, the bridge of his nose, his cheekbones, and the soft draped folds of his white t-shirt, establishing a somber, cinematic, and deeply moody atmosphere. The portrait is captured as a realistic digital photograph using an 85mm lens at f/1.8 to ensure a tack-sharp focus on his piercing eyes and facial hair while melting the background into obscurity, featuring moody editorial fashion influences, intentional film grain, crushed blacks, slightly cooled shadows, and lifted midtones, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Moody studio male portrait",
+    "description": "An editorial fashion portrait prompt for a man in a black overcoat, featuring high-contrast studio lighting and a gritty stone wall background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251712778_uvi925_HKjDU8dXkAAOZK-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25135,
+    "content": "Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: {argument name=\"aesthetic\" default=\"Black and White Film Noir\"}. SCENE: Woman looking into a {argument name=\"prop\" default=\"cracked vintage mirror\"}. OUTFIT: {argument name=\"clothing\" default=\"Black lace dress\"}. POSE: Touching the glass with one finger, intense gaze. LIGHTING: Single hard light source creating deep shadows. BACKGROUND: Dark, moody bedroom. CAMERA: 35mm monochrome film. IMAGE QUALITY: Sharp detail, high contrast.",
+    "title": "Film Noir Cracked Mirror Portrait",
+    "description": "A high-contrast black and white film noir prompt featuring a woman interacting with a cracked vintage mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251726425_pcvrd0_HKithgwbIAA9-k-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25112,
+    "content": "Ultra-realistic whimsical birthday portrait of a young blonde woman kneeling on a black leather sofa in a dimly lit cozy apartment. She wears a delicate ivory satin slip dress with a tiny lavender floral print and lace trim, paired with oversized plush gray bunny ears featuring soft pink inner lining. Holding a small pastel birthday cake decorated with lavender butterflies, floral frosting details, and a single lit candle. Warm candlelight illuminates her face and dress, creating a soft golden glow and a dramatic bunny-ear shadow cast on the wall behind her. Natural makeup, luminous skin, soft blonde hair with curtain bangs, dreamy expression, cottagecore-inspired aesthetic, intimate birthday celebration atmosphere, storybook mood, cinematic lighting, realistic skin texture, highly detailed fabric and fur textures, photorealistic lifestyle photography, magical and cozy evening ambiance. Negative prompt: blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, over-retouched face, cartoon, anime, CGI, painting, watermark, text, logo, duplicate candles, malformed cake, distorted bunny ears, cluttered background, harsh shadows, overexposed highlights, noisy image. Style: photorealistic. Camera: full-frame mirrorless, 85mm portrait lens, f/1.8, iso 400, side-profile editorial portrait, shallow depth of field. Lighting: candlelight with soft ambient fill, warm side lighting, whimsical, dreamy, intimate. Composition: vertical portrait, kneeling on sofa holding birthday cake, minimal wall with dramatic bunny-ear shadow. Quality: 8k, ultra high, maximum.",
+    "title": "Whimsical Bunny Ear Portrait",
+    "description": "An intimate and cozy birthday celebration prompt featuring warm candlelight and a cottagecore aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251716445_pza9a8_HKisa-1boAAMboX.jpg",
+      "https://cms-assets.youmind.com/media/1781251716482_kgweo2_HKisa-da0AAA5bT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25122,
+    "content": "Ultra-realistic romantic cottagecore portrait of a {argument name=\"subject\" default=\"young woman\"} with long wavy {argument name=\"hair color\" default=\"copper-red\"} hair reclining gracefully on a rain-kissed wooden garden deck surrounded by lush greenery. She wears a delicate ivory sundress with a tiny floral print, fitted bodice, off-shoulder sleeves, and a soft feminine silhouette. Natural makeup, porcelain skin with subtle dew-like highlights, soft pink lips, and an introspective gaze. Beside her sits a {argument name=\"item\" default=\"woven wicker basket filled with ripe peaches\"}, with a few peaches scattered across the wet wooden planks. Flowing white sheer curtains hang around an outdoor garden pavilion, gently moving in a light breeze. Overcast summer daylight creates soft diffused lighting and rich natural colors. Romantic countryside aesthetic, cottagecore editorial, dreamy garden atmosphere, realistic skin texture, premium fashion photography, shallow depth of field, cinematic composition, photorealistic, ultra detailed, luxury lifestyle campaign, storybook mood, 8K quality.",
+    "title": "Cottagecore Garden Peach Portrait",
+    "description": "A dreamy cottagecore portrait of a woman in a lush garden with peaches, emphasizing soft overcast lighting and romantic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251720814_xje43r_HKirUona0AAWcxp.jpg",
+      "https://cms-assets.youmind.com/media/1781251720835_2xuvsf_HKirUotbQAAxK6x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25134,
+    "content": "{\n  \"prompt\": \"Ultra-realistic whimsical birthday portrait of a {argument name=\"subject\" default=\"young red-haired woman\"} sitting on a black leather sofa in a cozy dimly lit apartment. She wears a {argument name=\"outfit\" default=\"delicate ivory floral satin slip dress\"} with lavender lace trim and oversized fluffy gray bunny ears with soft pink inner lining. Holding a small {argument name=\"cake\" default=\"pastel lavender birthday cake\"} decorated with butterflies, piped frosting details, and two lit candles. Warm candlelight illuminates her face, creating a soft intimate glow and gentle shadows on the wall behind her. Relaxed expression, natural makeup, porcelain skin, romantic cottagecore aesthetic, dreamy birthday celebration atmosphere, cozy evening indoors, cinematic lighting, photorealistic skin texture, highly detailed fabric and fur textures, premium lifestyle photography, magical storybook mood, ultra realistic, 8k quality.\",\n  \n  \"negative_prompt\": \"blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, over-retouched face, cartoon, anime, CGI, painting, watermark, text, logo, harsh shadows, overexposed highlights, noisy image, cluttered background, duplicate candles, malformed cake, distorted bunny ears\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"full-frame mirrorless\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 400,\n    \"angle\": \"three-quarter seated portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"candlelight and warm ambient lighting\",\n    \"direction\": \"soft front-side illumination\",\n    \"mood\": \"cozy, whimsical, dreamy, intimate\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_position\": \"seated on sofa holding birthday cake\",\n    \"background\": \"minimalist apartment interior with candles and soft shadows\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "title": "Whimsical Birthday Bunny Ears Portrait",
+    "description": "A dreamy, cottagecore-inspired birthday portrait of a woman wearing bunny ears and holding a lavender cake in a candlelit room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251726017_3ccoxg_HKiq6U8boAAPYso.jpg",
+      "https://cms-assets.youmind.com/media/1781251725942_lzjtzn_HKiq6U1aYAATjOP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25121,
+    "content": "{ \"scene\": { \"setting\": \"modern clinical training laboratory\", \"background\": \"clean medical laboratory environment with professional equipment, examination units, overhead clinical lighting, workstations and healthcare training facilities, organized and sterile atmosphere with softly blurred background details\", \"lighting\": \"bright clinical indoor lighting with balanced exposure, soft highlights on skin, realistic reflections from medical equipment, even illumination across the face and uniform, natural shadows creating a professional workplace atmosphere\" }, \"subject\": { \"type\": \"female\", \"pose\": \"seated at a clinical workstation, leaning slightly forward toward the camera, one arm resting naturally on the desk while the other extends toward the foreground, shoulders relaxed, upper body angled slightly to the side, creating a candid selfie-style composition\", \"expression\": \"confident and composed expression with slightly parted lips, relaxed facial muscles and direct engaging gaze toward the camera\", \"face\": \"Use uploaded reference image, keep identity exact, natural facial proportions, realistic skin texture with visible pores and subtle imperfections, soft highlights across cheeks, forehead and nose bridge, Glossy Lips\", \"hair\": \"Use uploaded reference image, keep identity exact, hair styled in a sleek high ponytail, smooth texture with natural shine, realistic individual strands and subtle loose sections framing the face\", \"eyes\": \"Use uploaded reference image, keep identity exact, natural eye color with soft reflections from overhead clinical lighting, detailed iris texture and realistic catchlights\", \"skin\": \"Glossy wet natural fair skin tone with realistic texture, subtle tonal variations, authentic lighting interaction, visible pores and natural imperfections preserved\" }, \"clothing\": { \"outfit\": \"professional {argument name=\\\"scrub color\\\" default=\\\"light green\\\"} medical scrub top with short sleeves, clean tailored fit, smooth healthcare uniform fabric with realistic folds and natural draping, authentic clinical workplace styling\", \"accessories\": \"minimal delicate necklace, subtle bracelet, disposable medical examination glove on one hand\" }, \"environment_details\": { \"props\": \"medical workstation, stainless steel clinical tray, healthcare equipment, examination units, laboratory furniture and professional training tools\", \"textures\": \"smooth scrub fabric texture, polished stainless steel surfaces, realistic skin detail, natural hair strands, matte medical equipment finishes and clinical workspace materials\" }, \"camera\": { \"angle\": \"slightly elevated selfie perspective\", \"framing\": \"tight upper-body portrait composition focusing on face, shoulders and workplace environment\", \"focus\": \"sharp focus on subject with softly blurred medical laboratory background\", \"lens\": \"portrait lens with natural depth of field\" }, \"style\": \"photorealistic\" }",
+    "title": "Medical Laboratory Training Portrait",
+    "description": "A detailed clinical laboratory prompt designed for identity preservation using a reference image, featuring a subject in medical scrubs at a workstation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251719599_vlbnn8_HKiqRQXaUAA8WVA.jpg",
+      "https://cms-assets.youmind.com/media/1781251719579_7psdwu_HKiqR7_bkAAjpPk.jpg",
+      "https://cms-assets.youmind.com/media/1781251719576_ksroit_HKiqSgDasAADhC0.jpg",
+      "https://cms-assets.youmind.com/media/1781251720224_fpnhf9_HKiqTE4bgAAllO5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25131,
+    "content": "A series of aesthetic portrait photographs showcasing a cheerful {argument name=\"subject\" default=\"young woman with auburn hair\"} styled in a half-up bun, strolling through a lush, vibrant {argument name=\"setting\" default=\"botanical garden\"}. She wears a striking {argument name=\"clothing\" default=\"red short-sleeved maxi dress\"} adorned with a dense pattern of small blue, yellow, and white flowers, cinched at the waist with a braided brown leather belt, and paired with clean white sneakers. Shielding herself with an open, matching red-and-white floral print umbrella, she is captured from various angles: walking gracefully down a stone pathway, smiling warmly directly at the camera, and offering a playful over-the-shoulder glance. The background is softly blurred, filled with blooming pink and white flower bushes, dense green foliage, and a rustic wooden bridge in the distance, creating a bright, whimsical, and charming summer atmosphere.",
+    "title": "Cottagecore Botanical Garden Stroll",
+    "description": "A whimsical series of aesthetic portraits featuring a woman in a floral maxi dress strolling through a vibrant botanical garden.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251724111_ofo6b7_HKibeghW4AAg9SZ.jpg",
+      "https://cms-assets.youmind.com/media/1781251724104_92yqrg_HKibek3WoAAq4Ti.jpg",
+      "https://cms-assets.youmind.com/media/1781251724238_b127gd_HKibe1ZW0AAtzuD.jpg",
+      "https://cms-assets.youmind.com/media/1781251724765_cao1p9_HKibfRgWIAAbnEO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25141,
+    "content": "A live TV broadcast screenshot from a {argument name=\"sporting event\" default=\"FIFA World Cup 2026\"} match on FOX Sports, crowd reaction cut. Telephoto camera from across the stadium zooms in on a spectator: a {argument name=\"spectator description\" default=\"gorgeous Asian woman in her 20s, long black hair, perfect features, stunning figure in a tight low-cut top\"}, standing in the front row of the stands. Strong telephoto compression — the bottom edge of the frame shows a soft blurred band of green pitch and LED ad boards, heat-haze shimmer from the long lens. Around her, out-of-focus fans wave national flags. She laughs and cheers, unaware she is on camera. Authentic FOX Sports World Cup broadcast graphics: scorebug top-left with team abbreviations and match clock, {argument name=\"competition logo\" default=\"FIFA World Cup 26 logo\"}, small network watermark in the corner, 16:9. Shot looks exactly like a paused 1080i TV frame — broadcast color grading, slight motion blur on waving flags, MPEG compression artifacts, faint interlacing lines.",
+    "title": "FIFA World Cup TV Broadcast Simulation",
+    "description": "A specialized prompt to generate a realistic 1080i TV broadcast frame from the FIFA World Cup, complete with network graphics, lens compression, and authentic artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251728926_m380xt_HKiQZbBWYAMrmV5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25118,
+    "content": "A stunning collage showcasing a {argument name=\"subject\" default=\"young East Asian woman\"} with long, flowing dark hair and a classic, elegant appearance. She is wearing a sophisticated {argument name=\"dress\" default=\"royal blue velvet evening gown\"} featuring long sleeves and a sweetheart neckline. The image compiles five different shots: a close-up portrait of her resting her chin on her hands, showcasing intricate silver necklaces, statement layered hoop earrings, and delicate rings; a full-length front view of her standing poised; a full-length side-profile view highlighting the sleek silhouette of the dress; a seated profile shot where she holds a vintage-style handheld fan; and a dramatic close-up focusing on her rings as her hand rests against a stone pillar. The entire composition has a clean, minimalist studio background in soft white and grey tones, emphasizing a luxury jewelry or fashion editorial aesthetic.",
+    "title": "Royal Blue Velvet Fashion Collage",
+    "description": "A detailed fashion editorial prompt for a multi-shot collage featuring an East Asian woman in a royal blue velvet evening gown with high-end jewelry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251718788_56va2y_HKiNFpbXgAAjyoi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25143,
+    "content": "Native 4K vertical ultra-realistic half-body portrait, an adult East Asian woman in her {argument name=\"visual age\" default=\"early 20s\"}, standing {argument name=\"scene\" default=\"by a bedroom window\"}, morning sunlight shining into the room, messy long black hair, natural makeup, gentle and confident eyes, real skin texture, visible pores, slight freckles, {argument name=\"outfit\" default=\"white V-neck camisole with a light cardigan\"}, elegant upper body curves, golden sunlight through sheer curtains, hair strands with bright rim light, mottled window shadows on the face and collarbone, strong light and shadow contrast, film photography texture, natural grain, no beauty filter, high-end sexy, not revealing, no text, no watermark",
+    "title": "Realistic Woman Portrait with Freckles",
+    "description": "A hyper-realistic 4K portrait of a young woman standing by a window in morning sunlight, capturing natural skin textures and a nostalgic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251729335_qczc57_HKiBKYaaUAA16A1.jpg",
+      "https://cms-assets.youmind.com/media/1781251729333_j6v13c_HKiBNz9bUAAq3js.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25104,
+    "content": "STYLE: Old Money Aesthetic. SCENE: {argument name=\"subject\" default=\"Woman\"} on a vintage grass tennis court. OUTFIT: {argument name=\"clothing\" default=\"White pleated tennis skirt, knitted sweater vest\"}. PROP: A vintage wooden tennis racket. POSE: Leaning against the net, looking at the camera, sun-kissed skin. LIGHTING: {argument name=\"lighting\" default=\"Bright midday sun\"}. BACKGROUND: Green grass and white court lines. CAMERA: Professional sports photography style, sharp focus. IMAGE QUALITY: 8K, realistic sweat beads.",
+    "title": "Old money tennis aesthetic portrait",
+    "description": "Generates a high-quality sports-editorial portrait of a subject on a vintage tennis court using an 'Old Money' fashion style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251713506_iv2ysi_HKh-9vbacAAalq6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25106,
+    "content": "STYLE: Dark Academia Aesthetic. SCENE: {argument name=\"subject\" default=\"Woman\"} in a vintage library. OUTFIT: {argument name=\"clothing\" default=\"Brown plaid blazer, white turtleneck, silver glasses\"}. ACCESSORIES: Small pearl earrings. POSE: Standing on a library ladder, holding an open book, looking down at the camera. LIGHTING: {argument name=\"lighting\" default=\"Dust motes dancing in sunbeams from a high window\"}. BACKGROUND: Floor-to-ceiling wooden bookshelves. CAMERA: DSLR, 35mm, film grain. IMAGE QUALITY: 8K resolution, realistic paper texture.",
+    "title": "Dark academia library portrait",
+    "description": "An atmospheric prompt for a subject in a vintage library setting, featuring floor-to-ceiling bookshelves and cinematic sunbeam lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251713995_kh2mip_HKhbVZ_XQAA7VvP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25127,
+    "content": "A vibrant, medium close-up shot of a cheerful {argument name=\"subject\" default=\"young woman with long, curly blonde hair\"} streaked with subtle hints of purple, smiling broadly at an outdoor festival evening market. Her face features intricate glitter and gemstone makeup artistry above and around her sparkling eyes. She is dressed in {argument name=\"outfit style\" default=\"fantasy-inspired attire\"}, complete with detailed metallic shoulder armor featuring a prominent ammonite fossil, intricate filigree, and chainmail accents. In one hand, adorned with multiple ornate rings and stacked silver bangles, she holds a detailed silver staff topped with a large, multi-faceted crystal cluster glowing with {argument name=\"glow colors\" default=\"purple and green hues\"}. The background is beautifully blurred into warm bokeh lights from festive string lamps illuminating a bustling market street filled with colorful stalls and festival-goers at dusk.",
+    "title": "Fantasy Festival Fantasy Portrait",
+    "description": "A vibrant medium close-up of a young woman at an evening market, featuring elaborate gemstone makeup and fantasy warrior attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251722469_abf7ba_HKhVo3tXwAAzfZv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25115,
+    "content": "A medium scale portrait of a {argument name=\"subject\" default=\"confident young adult male\"} standing straight-on, leaning slightly to his left with perfectly level shoulders. He features short dark hair with meticulously preserved natural texture and sunlit highlights, a neatly groomed light beard, relaxed eyebrows, a direct gaze, and a subtle closed-mouth smile. He is dressed in a {argument name=\"outfit\" default=\"crisp bright white unbuttoned linen shirt and navy shorts\"}. His deliberately posed yet relaxed left hand rests casually on a polished metal boat railing with his fingers gently draped over the cylindrical bar, while his right hand rests near his upper right thigh, the thumb and index finger lightly gripping the black frames of his sunglasses. Immediately in the foreground, the metal boat railing showcases a gleaming stainless steel top rail supported by pristine, thick white rope netting woven into symmetric diamond patterns. The midground expands into a vast, {argument name=\"setting\" default=\"deep azure blue sea\"} characterized by gentle ripples and an immense depth of field, with a small, slightly worn white-hulled vessel moored faintly to the distant left. The deep background rises into a dominant coastline of rugged, uneven terrain completely covered in dense forest green pine trees sloping gracefully down to meet the water. Highly directional, bright, and hard natural sunlight from directly above bathes the scene in a warm, golden, sun-drenched summer holiday aesthetic that exudes an energetic, cheerful, and luxurious mood. This intense single-source illumination creates a highly saturated, high-contrast, split-complementary color palette prominently featuring ocean blues, crisp whites, and forest greens. Harsh, defined, deep black shadows are cast tightly beneath his neck, along his jawline, deep within the folds of the white linen shirt, and directly under the boat railing, while intense specular highlights are vividly preserved across the bridge of his nose, the top shoulders of his shirt, and shimmering brilliantly across the expansive water surface. Captured straight-on as tack-sharp, grain-free realistic digital travel and lifestyle photography utilizing a full-frame mirrorless camera equipped with a 35mm to 50mm lens. The deep depth of field at f/5.6 or f/8 effortlessly maintains the clarity of the sprawling landscape, while an ISO of 100 and a rapid 1/1000s shutter speed impeccably freeze the water's surface ripples. Post-processing involves high-contrast color grading with crushed blacks for profound shadow definition, pristine sharpening on the subject and marine reflections, and intensely boosted saturation throughout the blues and greens, entirely framed in a 4:5 aspect ratio.",
+    "title": "Luxury Nautical Lifestyle Portrait",
+    "description": "A detailed travel and lifestyle prompt featuring a male subject on a yacht with high-contrast, sun-drenched lighting and a deep azure sea.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251717433_j8ow32_HKhOTliXgAABp4L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25108,
+    "content": "Ultra realistic cinematic travel portrait 9:16, a {argument name=\"subject\" default=\"beautiful young woman\"} sitting comfortably inside a {argument name=\"transport\" default=\"luxury bus\"} beside the large window, looking outside at {argument name=\"view\" default=\"lush green mountains and colorful flowers\"}. In the background seats, other passengers (girls) are properly seated on their bus seats, creating a natural and realistic atmosphere. Soft sunlight streaming through the window, peaceful travel mood, realistic reflections on glass, natural pose. Dreamy cinematic atmosphere, HDR, DSLR 8K. Negative: standing people, floating reflections, blur, distortion, low quality.",
+    "title": "Luxury Bus Travel Portrait",
+    "description": "A cinematic travel prompt capturing a serene moment inside a luxury bus, featuring realistic reflections and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251715080_7awct8_HKhLCZWXoAAJEGl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25120,
+    "content": "A hyper-realistic Kodak Portra 400 style photograph, dreamy soft aesthetic, warm natural sunlight, {argument name=\"location\" default=\"nostalgic Korean café atmosphere\"}, vertical composition 9:16. A beautiful young woman crouching gracefully in front of a large round gold-framed mirror placed outdoors on a pebble-covered courtyard. She is taking a mirror selfie with her smartphone, looking at the screen with a gentle smile and relaxed expression. Subject Details: Young woman with fair glowing skin, soft natural makeup, subtle peach blush, glossy pink lips, delicate eyeliner, bright expressive eyes. Long light brown wavy hair styled with soft curtain bangs and loose romantic curls cascading over her shoulders. Feminine and youthful appearance. Outfit: Oversized {argument name=\"shirt color\" default=\"pastel lavender\"} T-shirt with a small daisy flower illustration and subtle Korean typography on the chest, loose comfortable fit with naturally folded sleeves. High-waisted pleated {argument name=\"skirt color\" default=\"butter-yellow\"} midi skirt with soft flowing fabric. White crew socks and clean white canvas sneakers. Soft pink shoulder tote bag hanging naturally by her side. Pose & Expression: Squatting comfortably with knees together, one arm resting naturally on her leg while holding a smartphone for a mirror selfie. Relaxed shoulders, soft smile, candid lifestyle photography feel, natural body language, effortless charm. Foreground: Two transparent plastic cups of iced latte with visible ice cubes and paper straws, soft condensation on the cups. Elegant pink tote bags placed casually beside the mirror. Shallow depth of field creating creamy foreground bokeh and dreamy highlights. Midground: Large circular gold-framed mirror reflecting the woman perfectly. Detailed gravel stones, warm sunlight illuminating her outfit, soft shadows, realistic reflections, cinematic depth. Potted plants surrounding the mirror creating a cozy lifestyle atmosphere. Background: Aesthetic Korean-style café exterior with cream-colored walls, large wooden-framed windows, wooden hanging signboard with Korean lettering, lush climbing ivy vines covering parts of the building, multiple potted plants and flowers, quiet pedestrian alleyway, warm afternoon sunlight filtering through trees. Soft golden-hour glow, beautiful natural shadows, dreamy bokeh foliage. Photography Style: Kodak Portra 400 film photography, dreamy soft focus, creamy highlights, warm pastel tones, cinematic lifestyle editorial, realistic skin texture, natural color grading, subtle film grain, shallow depth of field, environmental portrait, ultra-detailed, photorealistic, high dynamic range, authentic candid moment, cozy Korean café aesthetic, magazine-quality photography, 85mm lens, f/1.8, soft sunlight, atmospheric depth, elegant composition, foreground-midground-background layering, highly aesthetic and immersive scene. Negative Prompt: anime, illustration, cartoon, CGI, 3D render, painting, low resolution, blurry face, distorted hands, extra fingers, duplicate objects, overprocessed skin",
+    "title": "Kodak Portra Style Korean Cafe Selfie",
+    "description": "A dreamy, film-style prompt capturing a mirror selfie in a cozy Korean cafe courtyard during golden hour, with detailed environmental elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251719900_p07q8j_HKg8URcaIAALoI1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25132,
+    "content": "A {argument name=\"subject\" default=\"stylish young man\"} sitting relaxed in a {argument name=\"setting\" default=\"vintage laundromat\"}, talking on a corded landline phone wearing black sunglasses, loose blue jeans, and white Nike sneakers, {argument name=\"aesthetic\" default=\"90s retro aesthetic\"}, tiled wall background, red linoleum floor, old washing machine beside him, editorial streetwear campaign style, cinematic lighting, moody tones, fashion photography with soft shadows, 65mm film look, high detail realism. Photorealism.",
+    "title": "90s Retro Laundromat Streetwear",
+    "description": "A 90s retro aesthetic editorial streetwear prompt featuring a man talking on a corded phone in a vintage laundromat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251724927_9fwrzv_HKgx_JzbcAAgN-_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25126,
+    "content": "A split-panel or side-by-side portrait of a {argument name=\"subject\" default=\"woman with wavy, light brown hair\"} styled half-up, wearing a {argument name=\"clothing\" default=\"cozy black knit sweater\"} and a layered silver and gold chain necklace. In the first view, she is captured in a candid three-quarter profile, resting her chin on her hand with a joyful, beaming smile, looking slightly off-camera. In the second view, she looks directly at the camera with a playful, mischievous expression, crinkling her nose and gently biting her lower lip. Both shots share a {argument name=\"background\" default=\"warm, natural indoor setting\"} with soft lighting, a blurred bookshelf, and a textured brick wall in the background, maintaining perfect facial and stylistic consistency across both expressions.",
+    "title": "Dual Expression Split-Panel Portrait",
+    "description": "A dual-panel portrait showcasing consistent character facial features with two different expressions: a beaming smile and a playful nose-crinkling look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721964_pkxg5t_HKgs_OYW4AAWp9F.jpg",
+      "https://cms-assets.youmind.com/media/1781251721952_mdh049_HKgs_Q4WMAABr3O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25110,
+    "content": "Reference Face Preservation: Keep the exact facial identity from the reference image with no facial modifications, no identity blending, and no changes to facial structure, proportions, or natural features. Create an ultra-realistic 8K portrait of a young woman in her 20s wearing a {argument name=\"clothing\" default=\"fitted ribbed off-the-shoulder top in creamy white\"}, exposing her shoulders and collarbones, paired with a delicate {argument name=\"jewelry\" default=\"gold chain necklace and a chunky green hoop earring\"}. Captured as a high-angle selfie on a {argument name=\"location\" default=\"rooftop or balcony\"} during blue hour, with a deep blue sky, soft clouds, silhouettes of tropical trees, and distant urban architecture in the background. She is looking upward and slightly away from the camera with a candid, relaxed expression and slightly parted lips. Long voluminous dark-brown hair falls in soft wavy layers with natural flyaway strands and gentle wind movement. Modern beauty editorial makeup featuring luminous skin, gray contact lenses, long separated lashes, rosy blush across cheeks and nose, and glossy natural lips. Soft evening light, realistic skin texture, visible pores, subtle shadows, DSLR photography, shallow depth of field, cinematic color grading, luxury social-media aesthetic, ultra-sharp focus, photorealistic, masterpiece quality.",
+    "title": "Blue Hour Rooftop Selfie",
+    "description": "An ultra-realistic 8K portrait prompt optimized for face preservation, set during the blue hour with a dreamy urban background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251715849_cjlnvv_HKgeVmlXcAAdLWE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25124,
+    "content": "Ultra-realistic spring morning portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} sitting barefoot on a {argument name=\"setting\" default=\"wooden window seat\"} beside a large open window, holding a small white blossom in her hand. {argument name=\"hair color\" default=\"Soft wavy black\"} shoulder-length hair with a delicate flower tucked behind her ear, natural glass-like skin texture, subtle makeup, realistic facial proportions, gentle dreamy expression, {argument name=\"outfit\" default=\"oversized pastel pink-and-lilac knitted cardigan\"} draped over a white camisole and loose cream lounge pants. Outside the window, lush cherry blossom trees in full bloom create a dreamy pink bokeh background. Warm golden sunlight streams through sheer lace curtains, casting soft natural shadows and highlights across the room. Cozy cottage-inspired interior with wooden details, small potted flowers, pastel cushions, peaceful spring atmosphere. Photorealistic, cinematic lifestyle photography, shallow depth of field, soft focus background, HDR lighting, highly detailed skin and hair strands, authentic fabric textures, natural color grading, magazine editorial quality, 85mm lens, f/1.8, 8K resolution, masterpiece, serene and elegant mood, no plastic skin, no CGI look, realistic hands and feet, natural facial features, high-detail eyes, premium photography.*",
+    "title": "Spring Window Seat Cardigan Portrait",
+    "description": "A serene spring morning portrait of a woman on a window seat, featuring knit textures, cherry blossoms, and golden sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721575_4bbvy1_HKgbpo5asAAllyD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25113,
+    "content": ":Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Analog Film Aesthetic. SCENE: {argument name=\"scene\" default=\"Woman looking out of a foggy cafe window\"}. OUTFIT: {argument name=\"outfit\" default=\"Oversized beige knit sweater\"}. ACCESSORIES: Small pearl studs. POSE: Chin resting on hand, reflection visible on the glass. LIGHTING: {argument name=\"lighting\" default=\"Cool, moody blue light from outside, warm yellow light inside\"}. BACKGROUND: Blurred street lights through rain. CAMERA: 35mm film style, subtle grain. IMAGE QUALITY: High detail, realistic condensation on glass.",
+    "title": "Cafe Window Analog Film",
+    "description": "A moody analog film aesthetic prompt capturing a reflective moment at a cafe window with cool blue lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251717282_zbmcfw_HKgYei7XwAA5lLg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25125,
+    "content": "A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A {argument name=\"subject\" default=\"beautiful young woman\"} with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says \"Life is GREAT!!\".\n\nSitting right next to her at a rustic, weathered wooden dining table is a {argument name=\"pet\" default=\"gorgeous Golden Retriever\"}, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a {argument name=\"food item\" default=\"vibrant green garden salad\"}, a matte pink protein shaker bottle, and a neatly folded newspaper. \n\nThe background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.",
+    "title": "Cozy Morning Lifestyle Portrait",
+    "description": "A high-fidelity 8K lifestyle portrait of a young woman enjoying breakfast in a sunlit kitchen, featuring a warm aesthetic with a Golden Retriever companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721877_6mrv60_HKgK-G0bkAAHyqU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25117,
+    "content": "A real young woman smiling, wearing {argument name=\"outfit\" default=\"lavender turtleneck top, oversized navy blue corduroy jacket, wide-leg grey trousers\"}, navy sneakers, cat-eye sunglasses, holding a white coffee mug, standing in front of a large detailed pencil sketch drawing of herself on a white wall, sketching tools and open notebook scattered on the floor, pencils and sharpener visible, creative art studio aesthetic, hyperrealistic photography meets pencil art concept, full body shot, bright white background, 8K --ar 2:3 --style raw --q 2",
+    "title": "Woman Sketching in Art Studio",
+    "description": "A unique concept prompt combining hyperrealistic photography with pencil art, featuring a woman standing in front of a large sketch of herself in a creative studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251718690_cznikw_HKgG4uHa0AAyzRi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25008,
     "content": "In the penthouse:\nUltra-realistic 4K close-up of a stylish man (same face), wearing a {argument name=\"outfit\" default=\"midnight navy velvet suit with ivory shirt\"} and top buttons open. He leans casually against a beveled mirror in a {argument name=\"setting\" default=\"luxury penthouse with marble floors\"} and golden ambient light. City skyline at twilight glows softly behind. Wearing sunglasses, silver watch, black ring, and chain. Cinematic lighting, high-fashion editorial style, ultra-premium Instagram aesthetic. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.\nIn the car:\nA stylish man sits confidently in the driver’s seat of a {argument name=\"vehicle\" default=\"sleek black luxury car\"}, looking out the open window with a composed and thoughtful expression. He wears a partially unbuttoned white satin shirt that catches the warm golden-hour light. The lighting is natural and cinematic, with soft sunlight highlighting the textures of his shirt and the car’s polished metallic surface. The background shows an urban setting with hints of street structures and soft blur, keeping the focus on the subject. Keep original face.",
     "title": "Luxury Penthouse and Car Editorial",

@@ -56,6 +56,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 25140,
+    "content": "{argument name=\"car\" default=\"Chevrolet Corvette\"} designed in {argument name=\"location\" default=\"East Germany\"} by Trabant engineers in {argument name=\"era\" default=\"1957\"}, retro GDR automotive design, socialist industrial aesthetics, realistic alternate history",
+    "title": "GDR Alternate History Car Design",
+    "description": "A conceptual design prompt for an alternate history automotive mashup, blending iconic American car models with Socialist industrial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251728390_576hrf_HKkCITCWMAEsNke.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25133,
+    "content": "{argument name=\"subject\" default=\"Alligator\"} lurking in a {argument name=\"setting\" default=\"swamp\"} at {argument name=\"time\" default=\"dusk\"}",
+    "title": "Alligator in Swamp Wildlife Photo",
+    "description": "A wildlife-style prompt for an alligator lurking in a swamp at dusk, usable for horror movie poster aesthetics or realistic photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251724797_czvqqf_HKc-ITKW8AEJHpO.png",
+      "https://cms-assets.youmind.com/media/1781251724844_3wz1mb_HKc-JdNXUAAsHrx.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25105,
+    "content": "Ultra-detailed Neo-Parametric Editorial Illustration, combining elegant painterly character rendering with futuristic architectural blueprint aesthetics. Refined flowing linework, intricate cross-hatching, contour mapping, technical drafting overlays, geometric construction grids, engineering schematics, dimensional annotations, organic parametric curves, layered wireframe structures, subtle topographic patterns, intelligent negative space composition. Soft cinematic lighting with warm golden highlights balanced by cool gray-blue technical elements. Delicate skin-like shading transitions, luminous depth, atmospheric perspective, premium magazine illustration quality. Harmonious blend of artistic realism and scientific visualization, featuring highly controlled line density, precision ink detailing, transparent design diagrams, flowing structural rhythms, sophisticated visual hierarchy. Muted ivory, warm beige, champagne gold, graphite gray, steel blue, and soft slate palette. Clean luxury aesthetic, intellectual futuristic mood, museum-quality craftsmanship, elegant complexity, ultra-sharp details, high-end concept art, 8K masterpiece. Hyper-detailed Parametric Renaissance Fusion, where organic forms emerge from engineering blueprints and computational design structures. Elegant realistic rendering fused with mathematical line networks, contour meshes, drafting grids, architectural annotations, generative curves, topological flow lines, technical sketch layers, precision pen-and-ink detailing, intelligent wireframe geometry, scientific visualization aesthetics. Warm cinematic glow illuminating soft volumetric forms against sophisticated monochromatic technical frameworks. Rich micro-details, layered transparency effects, flowing construction diagrams, luxury editorial illustration, visionary futurism meets classical artistry, highly refined craftsmanship, intricate line architecture, museum-grade visual sophistication, ultra-premium 8K artwork. 60% realistic and cinematic editorial illustration. 40% parametric blueprint, wireframe, and engineering drawing. COLOR: (champagne, beige, steel blue, graphite).",
+    "title": "Neo-parametric architectural illustration",
+    "description": "A sophisticated prompt that blends realistic character rendering with futuristic engineering schematics and blueprint aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251713408_9ricqa_HKgyIIbXIAA3p01.jpg",
+      "https://cms-assets.youmind.com/media/1781251713439_x4l54c_HKgyINuWoAAUJFw.jpg",
+      "https://cms-assets.youmind.com/media/1781251713423_xp0xs9_HKgyISXXQAAbg01.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24561,
     "content": "a detailed layout of {argument name=\"subject\" default=\"various beetles and insects\"} created in a {argument name=\"style\" default=\"soft pastel chalk art style\"}, with subtle chalk dust and textured paper grain visible. Harmonious, gently blended colors on a {argument name=\"background\" default=\"lime-green background\"}, arranged in a precise knolling style grid of hand-drawn beetles and insects, with one large, intricately rendered beetle in the center acting as the focal point, high-resolution illustration, clean negative space, top-down view.",
     "title": "Pastel Chalk Insect Knolling",

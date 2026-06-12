@@ -20,6 +20,81 @@
     "needReferenceImages": false
   },
   {
+    "id": 25114,
+    "content": "Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an {argument name=\"outfit\" default=\"oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers\"}. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera. Massive bold typography in the background reading: {argument name=\"background text\" default=\"I AM A CREATOR\"}. Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth. Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy. Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding. Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed. Small text in bottom left: \"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE\" \"ESTD. 2024\" Face preservation priority: maximum. Identity consistency: maximum. Text accuracy: high. Poster design quality: luxury fashion campaign level.",
+    "title": "Luxury Streetwear Fashion Editorial Poster",
+    "description": "A high-end fashion editorial prompt featuring a model in luxury streetwear. The design incorporates bold typography and professional studio lighting for a magazine-cover aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251717732_hq4jdl_HKjuB7KbEAAijkG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25142,
+    "content": "9:16 vertical version, high-precision 3D CG oriental fantasy female character portrait, 3D CG oriental fantasy beauty portrait, anime-style 3D CG character art, semi-realistic 3D character render. Composition is from the thighs to the upper body. The main subject is a clearly adult young oriental fantasy woman, visual age about {argument name=\"visual age\" default=\"20–26 years old\"}. The overall temperament is cool, ethereal, delicate, and quiet, with the mysterious and high-end feel of an aquatic spirit in the rain. This is not a flat illustration but a high-completion 3D CG character render, with exquisite modeling, realistic materials, cinematic cold soft light, and a high-end virtual character poster texture. The character has an exquisite oriental beautiful face, a small and smooth oval face, cool white and delicate skin with a slight translucency and soft coloring, and delicate water droplets and wet reflections on the skin surface. The eyes are slender and clear, the pupil color is {argument name=\"pupil color\" default=\"ice blue-green\"}, the pupils have a transparent glass feel and detailed highlights, the eyes are slightly lowered, quiet, detached, and slightly fragile. Eyelashes are long, eye makeup is clean and restrained, the bridge of the nose is delicate and straight, the lips are soft, the lip color is low-saturation nude pink, the lips are slightly parted, and the expression is calm and charming. The hairstyle is a short blue-black gradient hair, the main colors are deep black and navy blue, the ends have cool blue highlights, the hairstyle is short layered wavy short hair, one side of the forehead hair falls naturally to cover part of the cheek, the top has a braided structure, the hair strands are wet, light, and delicate, with high-precision modeling and smooth luster. Wearing exquisite blue crystal geometric earrings and metal ear cuffs to enhance the oriental fantasy and water element temperament. Wearing a white high-neck decorative collar and cyan gemstone tassel details on the neck, exquisite and high-end. The clothing is an exquisite oriental fantasy water-themed formal dress, the upper body wearing a white light, wet-looking satin tight-fitting long dress, the fabric is soft and draped, with delicate highlights and slight translucency, the chest and torso lines are expressed in a restrained and elegant way. The outer layer is a loose white shirt-style light gauze wrap, naturally sliding down to the arms and waist, forming layered folds and a flowing feel, enhancing the casual and dreamy atmosphere. Black lace-edged shorts details can be seen at the waist and hips, as a light gothic touch in the overall styling, making the picture more layered and exquisite, but the whole remains high-end, restrained, and not vulgar. The character pose is elegantly standing sideways, the body showing a smooth S-shaped curve, shoulders and neck stretched, back and waistline naturally extending, head slightly lowered and turned to the side, eyes looking down, overall posture quiet, light, and restrained. Arms hanging down naturally, fingers slender, the posture is like a moment of standing quietly in the rain, highlighting the profile, shoulder and neck, back, waist and hip lines, and the exquisite expression of the wet material of the clothing. The background is adjusted to an exquisite oriental fantasy water scene, the overall tone is {argument name=\"main color tone\" default=\"cool white, ice blue, light gray\"}. The background is a hazy rain curtain, light mist, and looming oriental fantasy building outlines, which can integrate distant blurred pavilions, stone steps, pool edges, or ethereal palace outlines to create a high-end fantasy space feel. There are dynamic water splashes, water flow arcs, and transparent crystal-like splashing effects around the character, like decorative ripples condensed from water elements, the background is moderately blurred, transparent and ethereal without being overwhelming. The lighting uses a combination of cool white main light and soft backlight, overall a high-key low-saturation cinematic lighting for a rainy day. There are delicate wet highlights on the face, collarbone, shoulders, back, arms, and legs, and slight rim light on the hair edges and water splash edges. White fabric, lace, metal, gemstones, water droplets, and water splashes all have realistic and clear material feedback. The overall picture is clean, transparent, cold and glamorous, dreamy, and highly refined, with a high-end collectible 3D CG oriental fantasy character poster texture. high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic wet hair strands, translucent wet fabric, crystal water splash effects, delicate lace details, elegant oriental fantasy styling, aquatic spirit atmosphere, volumetric light, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait",
+    "title": "3D CG Oriental Fantasy Beauty",
+    "description": "A highly detailed 3D CG illustration of an ethereal oriental fantasy female character in a rainy environment, featuring realistic textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251729007_tnvg0v_HKi8e3OaMAAO9aa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25135,
+    "content": "Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: {argument name=\"aesthetic\" default=\"Black and White Film Noir\"}. SCENE: Woman looking into a {argument name=\"prop\" default=\"cracked vintage mirror\"}. OUTFIT: {argument name=\"clothing\" default=\"Black lace dress\"}. POSE: Touching the glass with one finger, intense gaze. LIGHTING: Single hard light source creating deep shadows. BACKGROUND: Dark, moody bedroom. CAMERA: 35mm monochrome film. IMAGE QUALITY: Sharp detail, high contrast.",
+    "title": "Film Noir Cracked Mirror Portrait",
+    "description": "A high-contrast black and white film noir prompt featuring a woman interacting with a cracked vintage mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251726425_pcvrd0_HKithgwbIAA9-k-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25129,
+    "content": "Ultra-detailed watercolor fine-art illustration, vibrant full-color watercolor rendering with {argument name=\"color palette\" default=\"royal purple, violet, lavender, indigo\"} deep navy blue, plum, magenta, soft mauve, and subtle silver-gray accents. Rich layered watercolor washes with translucent pigment blooms, luminous color glazing, organic wet-on-wet blending, expressive paint splashes, dripping watercolor effects, and textured ink spatters. Highly refined painterly realism combined with contemporary mixed-media illustration. Sharp facial detailing contrasted against loose abstract watercolor backgrounds. Elegant graphite sketch lines, architectural construction marks, geometric drafting overlays, and artistic handwritten notes integrated into the composition. Atmospheric white negative space, soft ambient lighting, subtle rim light tinted with violet hues, deep color depth, premium editorial illustration aesthetic, gallery-quality digital watercolor masterpiece, sophisticated artistic composition, expressive brushwork, refined texture layering, dynamic color diffusion, luxurious contemporary watercolor art style.",
+    "title": "Atmospheric Watercolor AI Illustration",
+    "description": "A gallery-quality watercolor fine-art illustration featuring rich purple tones and sophisticated mixed-media textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251723089_1pnpx8_HKib5_4boAAptEO.jpg",
+      "https://cms-assets.youmind.com/media/1781251723557_wd4ei9_HKib6BebcAAlFNS.jpg",
+      "https://cms-assets.youmind.com/media/1781251723163_v18te6_HKib6JSbcAAzai6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25111,
+    "content": "Textured oil painting in the {argument name=\"style\" default=\"Cubist style of Pablo Picasso\"} of {argument name=\"subject\" default=\"3 pirates\"}, using interlocking geometric shapes. {argument name=\"colors\" default=\"Dark earthy shades\"}.",
+    "title": "Cubist Pirate Oil Painting",
+    "description": "A creative artistic prompt for a textured oil painting of pirates in the cubist style of Pablo Picasso.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251716117_4yu5sd_HKhme0NXYAE1IWK.jpg",
+      "https://cms-assets.youmind.com/media/1781251716143_4jdort_HKhme_pXAAEXzqW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25138,
+    "content": "minimalist, elegant single continuous line art illustration of a {argument name=\"subject\" default=\"bee\"} surrounded by delicate {argument name=\"background\" default=\"flowers\"}, centered on a clean white background; below the bee, the word '{argument name=\"text\" default=\"Kind\"}' in flowing cursive script, balanced composition, thin black lines, high contrast, modern minimal design suitable for logo or tattoo",
+    "title": "Minimalist Line Art Bee Illustration",
+    "description": "An elegant single-line art prompt for creating minimalist floral and insect illustrations, suitable for logos or tattoo designs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251727663_wrtlp6_HKhklBVXMAAPjhw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25105,
+    "content": "Ultra-detailed Neo-Parametric Editorial Illustration, combining elegant painterly character rendering with futuristic architectural blueprint aesthetics. Refined flowing linework, intricate cross-hatching, contour mapping, technical drafting overlays, geometric construction grids, engineering schematics, dimensional annotations, organic parametric curves, layered wireframe structures, subtle topographic patterns, intelligent negative space composition. Soft cinematic lighting with warm golden highlights balanced by cool gray-blue technical elements. Delicate skin-like shading transitions, luminous depth, atmospheric perspective, premium magazine illustration quality. Harmonious blend of artistic realism and scientific visualization, featuring highly controlled line density, precision ink detailing, transparent design diagrams, flowing structural rhythms, sophisticated visual hierarchy. Muted ivory, warm beige, champagne gold, graphite gray, steel blue, and soft slate palette. Clean luxury aesthetic, intellectual futuristic mood, museum-quality craftsmanship, elegant complexity, ultra-sharp details, high-end concept art, 8K masterpiece. Hyper-detailed Parametric Renaissance Fusion, where organic forms emerge from engineering blueprints and computational design structures. Elegant realistic rendering fused with mathematical line networks, contour meshes, drafting grids, architectural annotations, generative curves, topological flow lines, technical sketch layers, precision pen-and-ink detailing, intelligent wireframe geometry, scientific visualization aesthetics. Warm cinematic glow illuminating soft volumetric forms against sophisticated monochromatic technical frameworks. Rich micro-details, layered transparency effects, flowing construction diagrams, luxury editorial illustration, visionary futurism meets classical artistry, highly refined craftsmanship, intricate line architecture, museum-grade visual sophistication, ultra-premium 8K artwork. 60% realistic and cinematic editorial illustration. 40% parametric blueprint, wireframe, and engineering drawing. COLOR: (champagne, beige, steel blue, graphite).",
+    "title": "Neo-parametric architectural illustration",
+    "description": "A sophisticated prompt that blends realistic character rendering with futuristic engineering schematics and blueprint aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251713408_9ricqa_HKgyIIbXIAA3p01.jpg",
+      "https://cms-assets.youmind.com/media/1781251713439_x4l54c_HKgyINuWoAAUJFw.jpg",
+      "https://cms-assets.youmind.com/media/1781251713423_xp0xs9_HKgyISXXQAAbg01.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25014,
     "content": "A professional fashion collage showcasing six {argument name=\"theme\" default=\"elegant high-fashion gowns\"}, presented in a 2x3 grid layout. The designs feature a mix of bold colors, architectural elements, and intricate textures, each modeled in a contemporary or minimalist architectural setting:\n​Top Left: A vibrant royal blue dress featuring structured, sculptural draping and peplum-style folds at the waist, accented with subtle metallic hardware details.\n​Top Right: A flowing, sleeveless terracotta orange gown with a deep V-neckline and a tiered, multi-layered pleated maxi skirt.\n​Middle Left: A striking deep purple gown showcasing an avant-garde, fan-like pleated architectural cape element extending from the back and shoulder.\n​Middle Right: A one-shoulder fitted maxi dress adorned with an intricate, geometric tribal-inspired pattern in shades of black, olive green, and cream.\n​Bottom Left: A sleek, minimalist emerald green column dress featuring a high mock neckline and a sharp, diagonal mesh cutout across the chest.\n​Bottom Right: A dramatic metallic charcoal grey gown featuring voluminous, cascading ruffles along a one-shoulder neckline and trailing down the skirt.\n​The overall aesthetic is editorial and sophisticated, emphasizing modern tailoring, clean lines, and high-end evening wear design against textured concrete and neutral backdrops.",
     "title": "Architectural High-Fashion Gown Collage",

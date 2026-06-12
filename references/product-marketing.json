@@ -21,6 +21,116 @@
     "needReferenceImages": true
   },
   {
+    "id": 25144,
+    "content": "{\n\"subject\": {\n\"gender\": \"{argument name=\"gender\" default=\"Female\"}\",\n\"facial_features\": \"Fair skin, sharp jawline, playful expression, smiling with one eye closed in a wink, soft pink lip gloss, subtle makeup\",\n\"hair\": \"Long, dark brown to black hair, slightly messy, with wavy textures cascading over her shoulders\",\n\"body_shape\": \"Hourglass figure, prominent bust, slender waist, curvy hips, well-defined legs\",\n\"pose\": \"Seated on a transparent chair, legs crossed, leaning slightly forward, one hand resting down on the edge of the chair\",\n\"clothing\": \"{argument name=\"clothing description\" default=\"A strapless, tight-fitting mini dress wrapped entirely in yellow DHL Express packing tape with the red logo repeating across the material\"}\",\n\"accessories\": \"Thin silver chain necklace, small gold hoop earrings\"\n},\n\"environment\": {\n\"setting\": \"{argument name=\"setting\" default=\"Indoor room\"}\",\n\"background_elements\": [\n\"A red poster on the wall to the left featuring text reading 'Matrix Glitch'\",\n\"A shelf or rack on the upper right with magazine covers or print-outs, one showing a black-and-white portrait with the word 'DUST'\",\n\"A pink translucent lamp visible on the left side\",\n\"A modern transparent acrylic or glass chair\"\n]\n},\n\"photography_and_quality\": {\n\"style\": \"4K HD photo, high-resolution portrait\",\n\"lighting\": \"Direct flash photography, creating slight highlights on the skin and casting soft shadows on the background wall\",\n\"camera_angle\": \"Eye-level, vertical orientation, medium-shot\",\n\"color_palette\": \"Dominant yellow and red from the dress, contrasted with neutral wall tones and fair skin tones\",\n\"texture\": \"Glossy texture on the tape dress, smooth skin, sharp detail in hair strands and facial features\"\n}\n}",
+    "title": "DHL Packing Tape Mini Dress Portrait",
+    "description": "A highly detailed, structured prompt for generating a fashion portrait of a model wearing a unique dress made of DHL packing tape in a modern interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251730326_5bz3ki_HKlu9VuaYAAj-Th.jpg",
+      "https://cms-assets.youmind.com/media/1781251730282_d63r1v_HKlu9Vyb0AAkPeF.jpg",
+      "https://cms-assets.youmind.com/media/1781251730321_xse3zk_HKlu9VrbcAELk0F.jpg",
+      "https://cms-assets.youmind.com/media/1781251730945_t7n0hk_HKlu9VbbgAAm5Bw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25114,
+    "content": "Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an {argument name=\"outfit\" default=\"oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers\"}. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera. Massive bold typography in the background reading: {argument name=\"background text\" default=\"I AM A CREATOR\"}. Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth. Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy. Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding. Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed. Small text in bottom left: \"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE\" \"ESTD. 2024\" Face preservation priority: maximum. Identity consistency: maximum. Text accuracy: high. Poster design quality: luxury fashion campaign level.",
+    "title": "Luxury Streetwear Fashion Editorial Poster",
+    "description": "A high-end fashion editorial prompt featuring a model in luxury streetwear. The design incorporates bold typography and professional studio lighting for a magazine-cover aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251717732_hq4jdl_HKjuB7KbEAAijkG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25109,
+    "content": "use my reference photo, transfer the face from the photo without changing it, preserve exact identity, facial features, body proportions and natural skin tone with 100% similarity. Ultra-realistic {argument name=\"location\" default=\"luxury yacht photo\"}, vertical 3:4. Close waist-up crop only, no full body, no legs visible. Camera directly above from a dramatic top-down angle over the edge of a moving yacht. Woman occupies the right side, leaning backward over the stainless-steel railing toward the sea, both arms extended and gripping the rail, shoulders pulled back, chest lifted, head tilted up, intense confident gaze into camera.Left side filled with vivid turquoise seawater and powerful white foam wake from the yacht. Right edge shows teak deck and polished metal railing. Asymmetrical composition, ocean dominates.Elegant {argument name=\"outfit\" default=\"long black strapless dress\"}, smooth matte fabric, no straps, no sleeves, no hardware, no embellishments, deep sweetheart neckline, fitted corset-style upper body, clean luxury silhouette.\nHair styling only: {argument name=\"hair style\" default=\"soft waves swept completely to one side by strong sea wind\"}, voluminous flowing movement, glossy texture, several wind-blown strands across forehead, cheeks and cat-eye eyeliner, feline gaze, long lashes, glossy lips with transparent gloss and darker lip contour. Natural daylight over open water, no flash, realistic sea reflections. Shot on iPhone 16 Pro Max, subtle grain, no HDR",
+    "title": "Luxury Yacht Top-Down Portrait",
+    "description": "A high-end fashion prompt designed to use a reference photo for face preservation, placing the subject on a moving luxury yacht with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251715453_5ml7c0_HKjnmILbAAAO8re.jpg",
+      "https://cms-assets.youmind.com/media/1781251715459_qs1god_HKjnmMNaMAAO2UP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25137,
+    "content": "\"A quirky and intimate POV lifestyle photograph taken from the inside of a washing machine looking out at {argument name=\"subject\" default=\"Sydney Sweeney\"}. She has an intense, direct gaze, natural makeup, and messy, slightly {argument name=\"hair state\" default=\"wet-looking\"} hair. She is leaning forward, framing the circular opening of the washing machine drum, with her right foot resting on the bottom edge of the opening. Her right arm rests on her right knee, and her left arm is crossed over it as she looks straight into the camera lens. She is wearing an oversized, loose-fitting, {argument name=\"clothing color\" default=\"light yellow\"} short-sleeve button-up tunic with delicate embroidery, left unbuttoned at the bottom. The background reveals a bright laundry room with white shelves, a second white washing machine, and colorful liquid laundry detergent bottles bearing the name 'Giulia'. The scene features soft, bright, and diffused indoor studio lighting that flatters the subject with delicate highlights on her skin and hair, leaving minimal, soft shadows for a clean, professional, and naturally elegant look. Shot on an iPhone 17 Pro Max main wide-angle lens, high resolution, 8k, accurate white balance. --ar 9:16\"",
+    "title": "Washing Machine POV Lifestyle Photography",
+    "description": "A unique lifestyle photography prompt utilizing a washing machine interior point-of-view to frame a subject, creating an intimate and quirky atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251727290_um9xpe_HKjQbpTW0AEjCun.jpg",
+      "https://cms-assets.youmind.com/media/1781251727285_m08vlo_HKjQbnfWUAAfEhz.jpg",
+      "https://cms-assets.youmind.com/media/1781251727359_f5qeip_HKjQbufWcAAo-eN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25122,
+    "content": "Ultra-realistic romantic cottagecore portrait of a {argument name=\"subject\" default=\"young woman\"} with long wavy {argument name=\"hair color\" default=\"copper-red\"} hair reclining gracefully on a rain-kissed wooden garden deck surrounded by lush greenery. She wears a delicate ivory sundress with a tiny floral print, fitted bodice, off-shoulder sleeves, and a soft feminine silhouette. Natural makeup, porcelain skin with subtle dew-like highlights, soft pink lips, and an introspective gaze. Beside her sits a {argument name=\"item\" default=\"woven wicker basket filled with ripe peaches\"}, with a few peaches scattered across the wet wooden planks. Flowing white sheer curtains hang around an outdoor garden pavilion, gently moving in a light breeze. Overcast summer daylight creates soft diffused lighting and rich natural colors. Romantic countryside aesthetic, cottagecore editorial, dreamy garden atmosphere, realistic skin texture, premium fashion photography, shallow depth of field, cinematic composition, photorealistic, ultra detailed, luxury lifestyle campaign, storybook mood, 8K quality.",
+    "title": "Cottagecore Garden Peach Portrait",
+    "description": "A dreamy cottagecore portrait of a woman in a lush garden with peaches, emphasizing soft overcast lighting and romantic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251720814_xje43r_HKirUona0AAWcxp.jpg",
+      "https://cms-assets.youmind.com/media/1781251720835_2xuvsf_HKirUotbQAAxK6x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25121,
+    "content": "{ \"scene\": { \"setting\": \"modern clinical training laboratory\", \"background\": \"clean medical laboratory environment with professional equipment, examination units, overhead clinical lighting, workstations and healthcare training facilities, organized and sterile atmosphere with softly blurred background details\", \"lighting\": \"bright clinical indoor lighting with balanced exposure, soft highlights on skin, realistic reflections from medical equipment, even illumination across the face and uniform, natural shadows creating a professional workplace atmosphere\" }, \"subject\": { \"type\": \"female\", \"pose\": \"seated at a clinical workstation, leaning slightly forward toward the camera, one arm resting naturally on the desk while the other extends toward the foreground, shoulders relaxed, upper body angled slightly to the side, creating a candid selfie-style composition\", \"expression\": \"confident and composed expression with slightly parted lips, relaxed facial muscles and direct engaging gaze toward the camera\", \"face\": \"Use uploaded reference image, keep identity exact, natural facial proportions, realistic skin texture with visible pores and subtle imperfections, soft highlights across cheeks, forehead and nose bridge, Glossy Lips\", \"hair\": \"Use uploaded reference image, keep identity exact, hair styled in a sleek high ponytail, smooth texture with natural shine, realistic individual strands and subtle loose sections framing the face\", \"eyes\": \"Use uploaded reference image, keep identity exact, natural eye color with soft reflections from overhead clinical lighting, detailed iris texture and realistic catchlights\", \"skin\": \"Glossy wet natural fair skin tone with realistic texture, subtle tonal variations, authentic lighting interaction, visible pores and natural imperfections preserved\" }, \"clothing\": { \"outfit\": \"professional {argument name=\\\"scrub color\\\" default=\\\"light green\\\"} medical scrub top with short sleeves, clean tailored fit, smooth healthcare uniform fabric with realistic folds and natural draping, authentic clinical workplace styling\", \"accessories\": \"minimal delicate necklace, subtle bracelet, disposable medical examination glove on one hand\" }, \"environment_details\": { \"props\": \"medical workstation, stainless steel clinical tray, healthcare equipment, examination units, laboratory furniture and professional training tools\", \"textures\": \"smooth scrub fabric texture, polished stainless steel surfaces, realistic skin detail, natural hair strands, matte medical equipment finishes and clinical workspace materials\" }, \"camera\": { \"angle\": \"slightly elevated selfie perspective\", \"framing\": \"tight upper-body portrait composition focusing on face, shoulders and workplace environment\", \"focus\": \"sharp focus on subject with softly blurred medical laboratory background\", \"lens\": \"portrait lens with natural depth of field\" }, \"style\": \"photorealistic\" }",
+    "title": "Medical Laboratory Training Portrait",
+    "description": "A detailed clinical laboratory prompt designed for identity preservation using a reference image, featuring a subject in medical scrubs at a workstation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251719599_vlbnn8_HKiqRQXaUAA8WVA.jpg",
+      "https://cms-assets.youmind.com/media/1781251719579_7psdwu_HKiqR7_bkAAjpPk.jpg",
+      "https://cms-assets.youmind.com/media/1781251719576_ksroit_HKiqSgDasAADhC0.jpg",
+      "https://cms-assets.youmind.com/media/1781251720224_fpnhf9_HKiqTE4bgAAllO5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25118,
+    "content": "A stunning collage showcasing a {argument name=\"subject\" default=\"young East Asian woman\"} with long, flowing dark hair and a classic, elegant appearance. She is wearing a sophisticated {argument name=\"dress\" default=\"royal blue velvet evening gown\"} featuring long sleeves and a sweetheart neckline. The image compiles five different shots: a close-up portrait of her resting her chin on her hands, showcasing intricate silver necklaces, statement layered hoop earrings, and delicate rings; a full-length front view of her standing poised; a full-length side-profile view highlighting the sleek silhouette of the dress; a seated profile shot where she holds a vintage-style handheld fan; and a dramatic close-up focusing on her rings as her hand rests against a stone pillar. The entire composition has a clean, minimalist studio background in soft white and grey tones, emphasizing a luxury jewelry or fashion editorial aesthetic.",
+    "title": "Royal Blue Velvet Fashion Collage",
+    "description": "A detailed fashion editorial prompt for a multi-shot collage featuring an East Asian woman in a royal blue velvet evening gown with high-end jewelry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251718788_56va2y_HKiNFpbXgAAjyoi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25104,
+    "content": "STYLE: Old Money Aesthetic. SCENE: {argument name=\"subject\" default=\"Woman\"} on a vintage grass tennis court. OUTFIT: {argument name=\"clothing\" default=\"White pleated tennis skirt, knitted sweater vest\"}. PROP: A vintage wooden tennis racket. POSE: Leaning against the net, looking at the camera, sun-kissed skin. LIGHTING: {argument name=\"lighting\" default=\"Bright midday sun\"}. BACKGROUND: Green grass and white court lines. CAMERA: Professional sports photography style, sharp focus. IMAGE QUALITY: 8K, realistic sweat beads.",
+    "title": "Old money tennis aesthetic portrait",
+    "description": "Generates a high-quality sports-editorial portrait of a subject on a vintage tennis court using an 'Old Money' fashion style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251713506_iv2ysi_HKh-9vbacAAalq6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25132,
+    "content": "A {argument name=\"subject\" default=\"stylish young man\"} sitting relaxed in a {argument name=\"setting\" default=\"vintage laundromat\"}, talking on a corded landline phone wearing black sunglasses, loose blue jeans, and white Nike sneakers, {argument name=\"aesthetic\" default=\"90s retro aesthetic\"}, tiled wall background, red linoleum floor, old washing machine beside him, editorial streetwear campaign style, cinematic lighting, moody tones, fashion photography with soft shadows, 65mm film look, high detail realism. Photorealism.",
+    "title": "90s Retro Laundromat Streetwear",
+    "description": "A 90s retro aesthetic editorial streetwear prompt featuring a man talking on a corded phone in a vintage laundromat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251724927_9fwrzv_HKgx_JzbcAAgN-_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25125,
+    "content": "A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A {argument name=\"subject\" default=\"beautiful young woman\"} with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says \"Life is GREAT!!\".\n\nSitting right next to her at a rustic, weathered wooden dining table is a {argument name=\"pet\" default=\"gorgeous Golden Retriever\"}, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a {argument name=\"food item\" default=\"vibrant green garden salad\"}, a matte pink protein shaker bottle, and a neatly folded newspaper. \n\nThe background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.",
+    "title": "Cozy Morning Lifestyle Portrait",
+    "description": "A high-fidelity 8K lifestyle portrait of a young woman enjoying breakfast in a sunlit kitchen, featuring a warm aesthetic with a Golden Retriever companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781251721877_6mrv60_HKgK-G0bkAAHyqU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25008,
     "content": "In the penthouse:\nUltra-realistic 4K close-up of a stylish man (same face), wearing a {argument name=\"outfit\" default=\"midnight navy velvet suit with ivory shirt\"} and top buttons open. He leans casually against a beveled mirror in a {argument name=\"setting\" default=\"luxury penthouse with marble floors\"} and golden ambient light. City skyline at twilight glows softly behind. Wearing sunglasses, silver watch, black ring, and chain. Cinematic lighting, high-fashion editorial style, ultra-premium Instagram aesthetic. Identity Reference: Attached Photo, Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize.\nIn the car:\nA stylish man sits confidently in the driver’s seat of a {argument name=\"vehicle\" default=\"sleek black luxury car\"}, looking out the open window with a composed and thoughtful expression. He wears a partially unbuttoned white satin shirt that catches the warm golden-hour light. The lighting is natural and cinematic, with soft sunlight highlighting the textures of his shirt and the car’s polished metallic surface. The background shows an urban setting with hints of street structures and soft blur, keeping the focus on the subject. Keep original face.",
     "title": "Luxury Penthouse and Car Editorial",
