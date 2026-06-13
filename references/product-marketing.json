@@ -21,6 +21,81 @@
     "needReferenceImages": true
   },
   {
+    "id": 25306,
+    "content": "A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [{argument name=\"style\" default=\"luxury/fashion\"}] advertisement for [{argument name=\"brand\" default=\"BRAND_NAME\"}], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by the design, with no surrounding external setting or background visible.\nThe main, overall surface texture is a clean, fibrous, grainy [{argument name=\"paper color\" default=\"OUTER_PAPER_COLOR\"}] paper. Embedded centrally is a perfectly sharp, clean-edged, and mathematically straight square window cutout, revealing a smooth, matte stark white background. The inner edges of this square are perfectly clean, straight, and sharp, with absolutely zero tearing, roughness, or frayed edges.\n\nSeated on a sleek dark metal chair within this clean square frame is a model embodying the ultimate high-fashion [BRAND_ESTHETIC] aesthetic. The model has [CHARACTER_DESCRIPTION_AND_OUTFIT]. The upper body is contained within the frame, posed with one hand resting near the hair or face. The portrait is rendered with absolute realism, completely avoiding any artificial smoothing; the face exhibits natural skin texture, visible pores, and fine details, while the garments show rich contrast between the distinct fabric weaves, folds, and metallic reflections of the hardware. A distinct, soft, grainy drop shadow from the right frame edge falls across the character's right side, partially obscuring them and creating depth. The legs break dramatically through the bottom edge of the clean frame, extending into the foreground on the grainy [OUTER_PAPER_COLOR] paper surface. One leg is bent with the foot resting firmly right on the bottom ledge of the inner frame, while the left leg is dramatically closer to the camera, creating an extreme 3D pop-out effect with realistic low-angle foreshortening.\n\nTypography and Graphics:\n- Bottom-left corner: A detailed multi-line block of fine-print typography printed in clean [TEXT_COLOR] ink, reading: [EDITORIAL_OR_BRAND_TEXT]\n- Right side (Vertical, Massive Text): The word [WORD] printed in an elegant, [FONT_STYLE] luxury fashion font using a striking, [BIG_TEXT_COLOR}] ink. To ensure maximum scale, this vertical text is engineered with a full-vertical span that extends edge-to-edge from the absolute bottom edge of the paper to the absolute top edge of the paper, completely filling the vertical right margin from top to bottom leaving only a very tight, minimal, and identical amount of equal negative space on its top, left, and bottom margins to look intentionally integrated. The text exhibits a subtle, shallow letterpress debossed effect into the paper fibers.\n- Bottom-right corner: A detailed commercial barcode graphic with fine serial numbers printed in clean white.\n\nThe lighting is intense, dramatic, and directional studio lighting, highlighting natural skin texture, clothing fabric grains, and the metallic hardware against the matte paper. The perspective is a low-angle shot, looking up to enhance t",
+    "title": "Fashion editorial pop-out poster",
+    "description": "A technical prompt for a 3D pop-out luxury fashion advertisement that breaks the frame, featuring high-fidelity analog film textures and specific typography layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336388161_9hscbo_HKo_jVoWMAAvLUk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25285,
+    "content": "Photorealistic luxury fashion editorial portrait of a woman, used reference image face, used reference image color hair, and reference image eye color. Wearing an elegant flowing {argument name=\"dress color\" default=\"pastel blush pink\"} one-shoulder chiffon goddess gown with dramatic train, pleated fabric, cinched waist and high slit. Standing in a bright spring meadow surrounded by tall golden grass beneath a large blooming cherry blossom tree covered in soft pink flowers. Wind gently moving her hair and dress. Extremely bright high-key daylight photography, vibrant colors, luminous glowing skin, radiant sunlight, dreamy romantic atmosphere, luxury fashion campaign aesthetic, magazine-cover quality, cinematic depth of field, ultra realistic skin texture, premium editorial photography, vivid spring colors, bright pastel palette, highly saturated yet natural colors, 8k masterpiece, luxury feminine elegance, ethereal fairytale mood.",
+    "title": "Luxury Fashion Editorial Spring Portrait",
+    "description": "A prompt for generating high-end fashion magazine portraits of women in elegant chiffon gowns set within a blooming cherry blossom meadow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336378484_1yblzn_HKoy-X4aYAAQ06c.jpg",
+      "https://cms-assets.youmind.com/media/1781336377836_41qt3r_HKoy_SYasAAz988.jpg",
+      "https://cms-assets.youmind.com/media/1781336378541_3fdk2k_HKozAsEbMAA0DVl.jpg",
+      "https://cms-assets.youmind.com/media/1781336378822_f2xdmg_HKozBnrbsAAIlT7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25293,
+    "content": "A stunning black and white studio portrait of [uploaded person]. Eye-level medium shot, framed from the waist up. The subject is standing with his arms casually but firmly crossed over his chest. He is looking downward and slightly off-camera to the left with a calm, contemplative posture. He is wearing a {argument name=\"clothing\" default=\"dark, heavy-textured waffle-knit long-sleeve sweater\"} and a delicate silver chain necklace with a small pendant. He is wearing a {argument name=\"accessory\" default=\"classic analog watch with a light dial and leather strap\"} on the lower arm. The background is a stark, graphic vertical split: pure white on the left half and pure deep black on the right half. High-end commercial hotography, monochrome masterpiece. Soft but dramatic directional studio lighting originating from the left, highlighting the textures of the clothing and skin while casting natural, smooth shadows on the right side. Crisp focus, hyper-realistic, 8k resolution, cinematic composition.",
+    "title": "Monochrome Studio Split Portrait",
+    "description": "A high-end black and white studio portrait prompt with a dramatic vertical split background and waffle-knit texture detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336382611_z2ravk_HKoanQjWMAEY4G2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25287,
+    "content": "A sharp, low-angle candid photograph of a man use image for face reference outdoors under bright, harsh daylight, looking slightly to the left. He is wearing a sharp {argument name=\"clothing\" default=\"navy blue tailored blazer\"} over a dark t-shirt, modern rimless sunglasses with slight reflections, a prominent {argument name=\"watch\" default=\"white luxury watch\"} on his wrist, and a small {argument name=\"accessory\" default=\"diamond stud earring\"}. In his hand, he holds a marker, captured mid-action as if signing an autograph for a crowd of fans blurry in the background holding up smartphones and memorabilia. Cinematic depth of field, sharp focus on his profile, realistic skin texture, overhead concrete architectural canopy structure. --ar 1:1 --style raw --v 6.0",
+    "title": "Candid Signature Portrait",
+    "description": "A low-angle photograph prompt for a man signing an autograph under harsh sunlight, featuring realistic textures and cinematic depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336379834_ys03h7_HKoNynfbIAAtjqg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25298,
+    "content": "A {argument name=\"subject\" default=\"young adult male with an athletic build\"} stands on the left side of the frame, facing the camera with a calm, serious expression, a closed neutral mouth, and a direct gaze. His hair is short on the sides and about two to three inches on top, styled pushed back with a natural right-side bias, featuring a matte texture that highlights natural growth patterns, slight waves, and minor flyaways. He is dressed in an {argument name=\"outfit\" default=\"unbuttoned, light blue and white vertically striped button-down shirt\"} with dark sunglasses hooked casually onto the placket, paired with rolled-up white chinos and brown suede loafers. Both of his hands are tucked deep into his front pants pockets to frame his waist, with his relaxed thumbs resting outside and lying flat against the pocket seams. He stands straight-on with level shoulders upon a light warm gray floor made of solid, large-format smooth concrete slabs with subtle seam lines. Stretching across the center-right midground is a pristine infinity pool framed by perfectly smooth, matte light gray concrete coping, its bright cyan blue water perfectly still and reflecting the sky overhead. The deep background reveals a majestic forested hill in the top right, heavily populated with thriving olive green deciduous and evergreen trees, all set beneath a clear sky that transitions smoothly from light blue to a pale, warm pink and orange near the horizon. Warm, golden-hour sunlight bathes the scene from a 45-degree angle on the right, providing bright, soft, moderately directional illumination that establishes a {argument name=\"mood\" default=\"serene, luxurious, and relaxed evening mood\"}. This single natural light source creates bright, preserved highlights on the right side of the man's face, his right shoulder, and the glassy surface of the pool, while casting soft-edged, gray-toned shadows across the left side of his face and body that trail slightly out to the left on the ground. The split-complementary color palette perfectly balances the heavy subject on the left with the bright open space on the right. Captured as a realistic, tack-sharp digital photograph with a 35mm or 50mm lens on a full-frame camera at f/4 to f/5.6 to achieve a medium depth of field, the image separates the subject while preserving rich background details. The composition features a clean, grain-free luxury travel and men's lifestyle aesthetic, enhanced by subtle post-processing that gently boosts contrast, color-grades the vibrant pool and golden foliage, lifts shadows in the dense trees, and applies minimal skin retouching, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Luxury Men's Lifestyle Pool Portrait",
+    "description": "A high-end men's lifestyle digital photograph featuring an athletic male at a luxury villa with an infinity pool during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336384263_rdu8jw_HKoHPTPXUAACGOL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25302,
+    "content": "Ultra-realistic studio portrait photography, confident fashion model wearing a {argument name=\"outfit\" default=\"plain black polo shirt\"}, waist-up composition, looking slightly upward and away from camera, strong cinematic expression, {argument name=\"background\" default=\"vibrant fiery orange-to-red gradient background\"}, intense golden rim light glowing around hair and shoulders, dramatic backlighting, soft beauty key light on face, high contrast lighting, flawless skin texture, sharp facial details, luxury commercial advertising style, premium apparel campaign, clean minimal composition, warm color grading, professional studio setup, shallow depth of field, 85mm lens, f/2.0, ultra-detailed, HDR, photorealistic, magazine-quality, symmetrical framing, bold and powerful mood, high-end fashion editorial, 8K resolution.",
+    "title": "Studio portrait with fiery gradient background",
+    "description": "A professional studio portrait prompt featuring a fashion model against a vibrant orange-to-red gradient, emphasizing dramatic lighting and high-end commercial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336386503_igksmc_HKnpJNga4AAJ03L.jpg",
+      "https://cms-assets.youmind.com/media/1781336386210_qjdx9v_HKnpJ4ea0AA16sl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25284,
+    "content": "A studio editorial fashion portrait of a woman shot from a low angle, available in two stylistic versions: a {argument name=\"style\" default=\"high-contrast black and white\"} version and a {argument name=\"color tone\" default=\"warm-toned color\"} version with a soft cream background. The model has her hair pulled back sleekly and looks directly forward with a calm expression. Dramatic, graphic vertical shadows cast across the left side of her face and down her neck. She wears a minimalist black ribbed tank top with a houndstooth patterned blazer draped asymmetrically over her right shoulder, leaving the other shoulder bare. The composition focuses on sharp lighting, clean backgrounds, and a high-fashion, minimalist aesthetic.",
+    "title": "Minimalist Shadow Play Fashion Portrait",
+    "description": "A high-fashion studio editorial prompt focusing on minimalist styling and dramatic vertical shadows across the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336378557_3ssaoe_HKl0cSyXcAA-Z63.jpg",
+      "https://cms-assets.youmind.com/media/1781336378547_ilv3ti_HKl0eWsXMAALg1w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25144,
     "content": "{\n\"subject\": {\n\"gender\": \"{argument name=\"gender\" default=\"Female\"}\",\n\"facial_features\": \"Fair skin, sharp jawline, playful expression, smiling with one eye closed in a wink, soft pink lip gloss, subtle makeup\",\n\"hair\": \"Long, dark brown to black hair, slightly messy, with wavy textures cascading over her shoulders\",\n\"body_shape\": \"Hourglass figure, prominent bust, slender waist, curvy hips, well-defined legs\",\n\"pose\": \"Seated on a transparent chair, legs crossed, leaning slightly forward, one hand resting down on the edge of the chair\",\n\"clothing\": \"{argument name=\"clothing description\" default=\"A strapless, tight-fitting mini dress wrapped entirely in yellow DHL Express packing tape with the red logo repeating across the material\"}\",\n\"accessories\": \"Thin silver chain necklace, small gold hoop earrings\"\n},\n\"environment\": {\n\"setting\": \"{argument name=\"setting\" default=\"Indoor room\"}\",\n\"background_elements\": [\n\"A red poster on the wall to the left featuring text reading 'Matrix Glitch'\",\n\"A shelf or rack on the upper right with magazine covers or print-outs, one showing a black-and-white portrait with the word 'DUST'\",\n\"A pink translucent lamp visible on the left side\",\n\"A modern transparent acrylic or glass chair\"\n]\n},\n\"photography_and_quality\": {\n\"style\": \"4K HD photo, high-resolution portrait\",\n\"lighting\": \"Direct flash photography, creating slight highlights on the skin and casting soft shadows on the background wall\",\n\"camera_angle\": \"Eye-level, vertical orientation, medium-shot\",\n\"color_palette\": \"Dominant yellow and red from the dress, contrasted with neutral wall tones and fair skin tones\",\n\"texture\": \"Glossy texture on the tape dress, smooth skin, sharp detail in hair strands and facial features\"\n}\n}",
     "title": "DHL Packing Tape Mini Dress Portrait",
@@ -30,6 +105,47 @@
       "https://cms-assets.youmind.com/media/1781251730282_d63r1v_HKlu9Vyb0AAkPeF.jpg",
       "https://cms-assets.youmind.com/media/1781251730321_xse3zk_HKlu9VrbcAELk0F.jpg",
       "https://cms-assets.youmind.com/media/1781251730945_t7n0hk_HKlu9VbbgAAm5Bw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25288,
+    "content": "A high-resolution, full-body fashion portrait of the exact same man from {argument name=\"reference id\" default=\"11719.png\"}, maintaining his distinct facial features, dark hair, neatly trimmed beard, and intense expression. He is not wearing sunglasses, fully revealing his eyes. He is wearing the {argument name=\"jersey\" default=\"dark navy blue France FIFA World Cup jersey\"} featuring a subtle, intricate pattern woven into the fabric, a gold national crest, and a gold number 10 on the front. He is styled with a silver chain necklace and a silver luxury watch, leaning confidently against a {argument name=\"background element\" default=\"concrete barrier\"} inside a modern football stadium. The background features a large stadium screen displaying \"FIFA WORLD CUP\" and the French flag under bright evening stadium lighting, captured in a crisp, professional commercial photography style.",
+    "title": "France World Cup Fashion Portrait",
+    "description": "A high-resolution fashion portrait of a man in a France national jersey inside a stadium, utilizing face reference for consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336380189_674g34_HKlttdbbgAAxiNU.jpg",
+      "https://cms-assets.youmind.com/media/1781336380114_1kcucr_HKlttbpboAAmdnG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25300,
+    "content": "5-panel vertical cinematic portrait strip of a {argument name=\"subject\" default=\"beautiful young East Asian woman (20–24)\"}, warm wheatish skin, long silky dark hair flowing naturally, striking magenta-pink lips, subtle makeup, minimal accessories. She wears an {argument name=\"outfit\" default=\"elegant white pearl-embroidered corset crop top paired with a flowing white maxi skirt\"} with a graceful front slit, blending modern and ethnic-fusion fashion. Set inside a {argument name=\"background\" default=\"lush enchanted forest\"} with tall slender tree trunks, soft wild grass, moss-covered ground, delicate ferns, and layers of rich greenery. Gentle overcast daylight filters through the canopy, creating dreamy diffused lighting with a fresh green ambient glow. Each panel captures a different cinematic pose and expression, natural movement in the hair and skirt, shallow depth of field, ultra-realistic skin texture, vibrant colors, atmospheric perspective, editorial fashion photography, luxury magazine aesthetic, 4K HDR, masterpiece quality, highly detailed, vertical multi-frame strip composition. -- ar 4:5",
+    "title": "Enchanted Forest Fashion Portrait Strip",
+    "description": "A vertical multi-frame strip capturing an East Asian woman in an enchanted forest wearing a pearl corset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336385194_ithd9a_HKlQ1NLaMAAzgGN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25301,
+    "content": "Use 100% face and body structure from attached reference to create a Ultra-realistic fashion magazine close-up portrait of a beautiful young woman wearing an oversized premium {argument name=\"shirt color\" default=\"red\"} t-shirt featuring the bold white caption \"{argument name=\"caption\" default=\"WHATEVER\"}\" printed across the front in large modern typography. She is styled with a clean {argument name=\"hat style\" default=\"white baseball cap\"} and sleek black Ray-Ban-style sunglasses positioned slightly below her eyes for a trendy editorial fashion look.",
+    "title": "Fashion magazine portrait with red t-shirt",
+    "description": "A high-fashion editorial close-up of a young woman wearing a red graphic t-shirt and sunglasses, designed to maintain specific facial and body structures from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336385370_yag505_HKioaFjWEAAczug.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25299,
+    "content": "A cinematic, hyper-realistic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with dark hair tied up in a loose, casual bun, with a few stray strands framing her face. She has clear skin, warm brown eyes, and a neutral, calm expression. She is wearing {argument name=\"eyewear\" default=\"thick, transparent neon-yellow clear-frame glasses\"}. Glowing, golden-yellow mathematical and physics equations, symbols, and formulas are projected directly onto her face, forehead, cheek, and the lenses of her glasses, casting a subtle warm light on her skin. She is dressed in a {argument name=\"outfit\" default=\"bright, vibrant yellow puffer jacket with a hood\"}, which also has faint, glowing math formulas patterned across the fabric. The background is a soft, dreamlike, out-of-focus bokeh of cool teal and blue lights, creating a striking color contrast with her warm yellow attire. Shot with a professional DSLR, 85mm lens, f/1.4 aperture, shallow depth of field, 3D Pixar-style digital art realism, clean studio lighting, high-end commercial aesthetic, 16k resolution.",
+    "title": "Math Projection Portrait in Neon Yellow",
+    "description": "A cinematic portrait of an East Asian woman with glowing math equations projected onto her face, wearing a neon yellow puffer jacket.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336385091_l8k81x_HKlHwCEasAALBPu.jpg"
     ],
     "needReferenceImages": false
   },

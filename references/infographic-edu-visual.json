@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 25309,
+    "content": "Please summarize the {argument name=\"subject\" default=\"Zabi family from Gundam Origin\"} in an {argument name=\"style\" default=\"infographic style\"}.",
+    "title": "Gundam Origin Infographic Generation",
+    "description": "A prompt designed to create an infographic summary of the Zabi family from Gundam Origin, testing the model's ability to organize complex character information visually.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336389547_4ks6y9_HKmng28a8AAucIT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25140,
     "content": "{argument name=\"car\" default=\"Chevrolet Corvette\"} designed in {argument name=\"location\" default=\"East Germany\"} by Trabant engineers in {argument name=\"era\" default=\"1957\"}, retro GDR automotive design, socialist industrial aesthetics, realistic alternate history",
     "title": "GDR Alternate History Car Design",

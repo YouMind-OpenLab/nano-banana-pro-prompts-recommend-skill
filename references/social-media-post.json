@@ -41,6 +41,194 @@
     "needReferenceImages": false
   },
   {
+    "id": 25286,
+    "content": "A close-up studio portrait of a beautiful woman with striking {argument name=\"eye color\" default=\"hazel-green eyes\"} and light freckles dusting her nose and cheeks. She has vibrant, wavy {argument name=\"hair color\" default=\"auburn hair\"} neatly styled to one side, with a large, {argument name=\"flower type\" default=\"vivid magenta-pink camellia flower\"} tucked behind her right ear. Her makeup is flawless and bold, featuring an olive-green winged eyeliner that complements her eyes, and a deep matte burgundy lipstick on her well-defined lips. She looks directly into the camera with a confident, serene expression. Her bare shoulders are partially visible, draped in a dark forest green off-the-shoulder fabric. The lighting is soft and cinematic, casting gentle shadows that define her facial features against a dark, moody teal background.",
+    "title": "Auburn Portrait with Camellia Flower",
+    "description": "A close-up studio portrait featuring a woman with auburn hair and a vibrant camellia flower, focusing on striking eye details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336379736_fn15i0_HKrU-GcWUAAuZj0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25311,
+    "content": "Beautiful fantasy woman with {argument name=\"hair style\" default=\"long flowing hair\"}, inspired by gothic rose aesthetics, sitting gracefully on a giant red crystal apple. Luxurious crimson rose gown with ruby crystal decorations, elegant sleeves, sparkling gemstones, dark fantasy palace atmosphere, black and red color palette, intricate details, majestic queen vibe, highly detailed illustration, masterpiece, twitter post composition, square format.",
+    "title": "Gothic Rose Fantasy Queen Portrait",
+    "description": "A detailed prompt for generating a majestic fantasy queen wearing a crimson rose gown and sitting on a giant red crystal apple throne, set in a dark palace.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336390204_ra6rjb_HKpbyH5asAAhaKa.jpg",
+      "https://cms-assets.youmind.com/media/1781336390292_0sv20p_HKpbzSJa4AAWmJF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25285,
+    "content": "Photorealistic luxury fashion editorial portrait of a woman, used reference image face, used reference image color hair, and reference image eye color. Wearing an elegant flowing {argument name=\"dress color\" default=\"pastel blush pink\"} one-shoulder chiffon goddess gown with dramatic train, pleated fabric, cinched waist and high slit. Standing in a bright spring meadow surrounded by tall golden grass beneath a large blooming cherry blossom tree covered in soft pink flowers. Wind gently moving her hair and dress. Extremely bright high-key daylight photography, vibrant colors, luminous glowing skin, radiant sunlight, dreamy romantic atmosphere, luxury fashion campaign aesthetic, magazine-cover quality, cinematic depth of field, ultra realistic skin texture, premium editorial photography, vivid spring colors, bright pastel palette, highly saturated yet natural colors, 8k masterpiece, luxury feminine elegance, ethereal fairytale mood.",
+    "title": "Luxury Fashion Editorial Spring Portrait",
+    "description": "A prompt for generating high-end fashion magazine portraits of women in elegant chiffon gowns set within a blooming cherry blossom meadow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336378484_1yblzn_HKoy-X4aYAAQ06c.jpg",
+      "https://cms-assets.youmind.com/media/1781336377836_41qt3r_HKoy_SYasAAz988.jpg",
+      "https://cms-assets.youmind.com/media/1781336378541_3fdk2k_HKozAsEbMAA0DVl.jpg",
+      "https://cms-assets.youmind.com/media/1781336378822_f2xdmg_HKozBnrbsAAIlT7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25294,
+    "content": "\"THE DEVOTED\" (Finished {argument name=\"player\" default=\"Messi\"} Mural + Artist) Aspect ratio: 1:1 (square) A hyper-realistic cinematic photograph, shot on Canon EOS R5, RF 35mm f/1.4L lens, ISO 320, shallow depth of field focused on the wall. Real-life street photography aesthetic — NOT 3D render, NOT CGI, NOT digital illustration. This is a real photo of a real painted mural on a real concrete wall. MAIN SUBJECT — THE MURAL (primary focus, fills most of the frame): A massive, masterfully hand-painted street mural of {argument name=\"player\" default=\"Lionel Messi\"}, depicted from the front, chest-up, facing the viewer directly. He wears the {argument name=\"team jersey\" default=\"Argentina sky-blue and white striped #10 national team jersey\"}. His expression is calm and quietly confident — the gentle, humble gaze he is known for, slight hint of a smile, his recognizable features rendered with loving accuracy: the beard, the warm brown eyes, the swept brown hair. The mural is painted in a realistic portrait style with visible artistic craft — confident brush strokes, subtle spray-paint gradients in the shading, slight paint drips at the lower edges, the concrete wall texture showing through in places. Sky-blue and gold accent tones radiate softly behind his portrait like a halo of national pride, with \"2026\" painted in elegant numerals at the bottom corner of the mural. SECONDARY ELEMENT — THE ARTIST (left side of frame, NOT the focus, slightly soft in depth of field): A young woman stands on the left, seen entirely from behind, looking up at her finished mural. She has long dark hair tied in a loose, messy bun with a paintbrush stuck through it, wearing denim overalls covered in sky-blue and white paint smears over a white t-shirt, paint-flecked sneakers, a brush still hanging from one relaxed hand. Her posture is quiet pride — weight on one hip, head tilted slightly upward, taking in her work. She is small in scale against the towering mural, emphasizing the artwork's size. SETTING & LIGHT: An urban alley wall in late golden-hour light, warm sun raking across the wall from the left, bringing out the mural's paint texture. A few paint cans and a folded ladder at the wall's base. Subtle long shadows. Cinematic teal-orange grade, fine film grain. MOOD: Devotion, craft, and quiet triumph — a talented street artist's tribute to her idol. NEGATIVE INSTRUCTIONS: NOT 3D, NOT CGI, NOT cartoon, the mural is clearly painted artwork (not a pasted photograph), no distorted facial features on the mural, the woman's face is never visible, no other people, no text other than \"2026\", no watermark, no logos, no deformed hands, no plastic skin.",
+    "title": "Messi World Cup 2026 Street Mural",
+    "description": "A hyper-realistic cinematic photograph of a hand-painted street mural featuring Lionel Messi for the 2026 World Cup, including an artist figure for scale.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336382796_3238uo_HKoayQdbEAAd7eh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25293,
+    "content": "A stunning black and white studio portrait of [uploaded person]. Eye-level medium shot, framed from the waist up. The subject is standing with his arms casually but firmly crossed over his chest. He is looking downward and slightly off-camera to the left with a calm, contemplative posture. He is wearing a {argument name=\"clothing\" default=\"dark, heavy-textured waffle-knit long-sleeve sweater\"} and a delicate silver chain necklace with a small pendant. He is wearing a {argument name=\"accessory\" default=\"classic analog watch with a light dial and leather strap\"} on the lower arm. The background is a stark, graphic vertical split: pure white on the left half and pure deep black on the right half. High-end commercial hotography, monochrome masterpiece. Soft but dramatic directional studio lighting originating from the left, highlighting the textures of the clothing and skin while casting natural, smooth shadows on the right side. Crisp focus, hyper-realistic, 8k resolution, cinematic composition.",
+    "title": "Monochrome Studio Split Portrait",
+    "description": "A high-end black and white studio portrait prompt with a dramatic vertical split background and waffle-knit texture detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336382611_z2ravk_HKoanQjWMAEY4G2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25287,
+    "content": "A sharp, low-angle candid photograph of a man use image for face reference outdoors under bright, harsh daylight, looking slightly to the left. He is wearing a sharp {argument name=\"clothing\" default=\"navy blue tailored blazer\"} over a dark t-shirt, modern rimless sunglasses with slight reflections, a prominent {argument name=\"watch\" default=\"white luxury watch\"} on his wrist, and a small {argument name=\"accessory\" default=\"diamond stud earring\"}. In his hand, he holds a marker, captured mid-action as if signing an autograph for a crowd of fans blurry in the background holding up smartphones and memorabilia. Cinematic depth of field, sharp focus on his profile, realistic skin texture, overhead concrete architectural canopy structure. --ar 1:1 --style raw --v 6.0",
+    "title": "Candid Signature Portrait",
+    "description": "A low-angle photograph prompt for a man signing an autograph under harsh sunlight, featuring realistic textures and cinematic depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336379834_ys03h7_HKoNynfbIAAtjqg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25298,
+    "content": "A {argument name=\"subject\" default=\"young adult male with an athletic build\"} stands on the left side of the frame, facing the camera with a calm, serious expression, a closed neutral mouth, and a direct gaze. His hair is short on the sides and about two to three inches on top, styled pushed back with a natural right-side bias, featuring a matte texture that highlights natural growth patterns, slight waves, and minor flyaways. He is dressed in an {argument name=\"outfit\" default=\"unbuttoned, light blue and white vertically striped button-down shirt\"} with dark sunglasses hooked casually onto the placket, paired with rolled-up white chinos and brown suede loafers. Both of his hands are tucked deep into his front pants pockets to frame his waist, with his relaxed thumbs resting outside and lying flat against the pocket seams. He stands straight-on with level shoulders upon a light warm gray floor made of solid, large-format smooth concrete slabs with subtle seam lines. Stretching across the center-right midground is a pristine infinity pool framed by perfectly smooth, matte light gray concrete coping, its bright cyan blue water perfectly still and reflecting the sky overhead. The deep background reveals a majestic forested hill in the top right, heavily populated with thriving olive green deciduous and evergreen trees, all set beneath a clear sky that transitions smoothly from light blue to a pale, warm pink and orange near the horizon. Warm, golden-hour sunlight bathes the scene from a 45-degree angle on the right, providing bright, soft, moderately directional illumination that establishes a {argument name=\"mood\" default=\"serene, luxurious, and relaxed evening mood\"}. This single natural light source creates bright, preserved highlights on the right side of the man's face, his right shoulder, and the glassy surface of the pool, while casting soft-edged, gray-toned shadows across the left side of his face and body that trail slightly out to the left on the ground. The split-complementary color palette perfectly balances the heavy subject on the left with the bright open space on the right. Captured as a realistic, tack-sharp digital photograph with a 35mm or 50mm lens on a full-frame camera at f/4 to f/5.6 to achieve a medium depth of field, the image separates the subject while preserving rich background details. The composition features a clean, grain-free luxury travel and men's lifestyle aesthetic, enhanced by subtle post-processing that gently boosts contrast, color-grades the vibrant pool and golden foliage, lifts shadows in the dense trees, and applies minimal skin retouching, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Luxury Men's Lifestyle Pool Portrait",
+    "description": "A high-end men's lifestyle digital photograph featuring an athletic male at a luxury villa with an infinity pool during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336384263_rdu8jw_HKoHPTPXUAACGOL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25313,
+    "content": "Whimsical {argument name=\"subject\" default=\"miniature world\"} depiction of a {argument name=\"location\" default=\"celestial archive rotunda\"} in an artistic {argument name=\"style\" default=\"sandalpunk\"} style.",
+    "title": "Celestial Archive Sandalpunk Miniature",
+    "description": "A detailed prompt for generating a whimsical miniature world featuring a celestial archive rotunda in a unique sandalpunk style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336391510_w8ldgq_HKn_tMba4AAD7QQ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25302,
+    "content": "Ultra-realistic studio portrait photography, confident fashion model wearing a {argument name=\"outfit\" default=\"plain black polo shirt\"}, waist-up composition, looking slightly upward and away from camera, strong cinematic expression, {argument name=\"background\" default=\"vibrant fiery orange-to-red gradient background\"}, intense golden rim light glowing around hair and shoulders, dramatic backlighting, soft beauty key light on face, high contrast lighting, flawless skin texture, sharp facial details, luxury commercial advertising style, premium apparel campaign, clean minimal composition, warm color grading, professional studio setup, shallow depth of field, 85mm lens, f/2.0, ultra-detailed, HDR, photorealistic, magazine-quality, symmetrical framing, bold and powerful mood, high-end fashion editorial, 8K resolution.",
+    "title": "Studio portrait with fiery gradient background",
+    "description": "A professional studio portrait prompt featuring a fashion model against a vibrant orange-to-red gradient, emphasizing dramatic lighting and high-end commercial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336386503_igksmc_HKnpJNga4AAJ03L.jpg",
+      "https://cms-assets.youmind.com/media/1781336386210_qjdx9v_HKnpJ4ea0AA16sl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25304,
+    "content": "{\"vibe_title_en\": \"Porcelain Predator\", \"master_prompt\": \"A hyper-realistic, cinematic portrait of The Protagonist. SURREAL PRACTICAL EFFECT: The subject is claustrophobically framed by dozens of blank, hyper-tactile, life-sized white porcelain masks suspended in mid-air via invisible wire, creating an impossible, floating wall of lifeless faces. FRAMING: Shot strictly 'Through the Element', the camera peers through a narrow, jagged gap between the cold, plaster faces in the extreme foreground, throwing them into a creamy optical blur. NARRATIVE: The Calculated Menace. The Protagonist exhibits a quiet, controlled power, waiting perfectly still in the center with a predatory posture, making sharp, unblinking, focused eye contact with the lens. WARDROBE: An ornate, high-necked, densely woven white lace collar with intricate micro-stitching that merges seamlessly with the texture of the surrounding plaster. SETTING: A forgotten subterranean sculptor's archive, smelling of damp stone, thick with microscopic chalk dust motes dancing in the dead air. LIGHTING: Intense low-key Chiaroscuro. A single, harsh, directional beam of light slices through the pitch-black room, casting deep, dramatic shadows over the subject's face while striking the irises to create piercing, pinpoint catchlights. CAMERA: Hasselblad H6D-100c, HC 100mm f/2.2 lens for a razor-thin depth of field. FILM: Kodak Portra 400 pushed +1, heavily desaturated to a strict palette of bone white, ash, and pure black. Focus on authentic skin textures, hyper-detailed pores, physical light refraction on the eyes, and raw analog imperfections. NO NEON.\", \"meta\": { \"intent\": \"Surreal editorial portrait focusing on psychological tension and practical effects\", \"priorities\": \"Predatory gaze, extreme depth of field through foreground masks, harsh chiaroscuro lighting\", \"device_profile\": \"High-resolution OLED displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Center-weighted, claustrophobic framing framed heavily by extreme foreground elements\", \"layout\": \"Subject's eyes locked in the absolute center, surrounded by a tight, suffocating vignette of out-of-focus porcelain masks\", \"camera_angle\": \"Eye-level, intimate and confrontational close-up\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, ethereal yet grounded\", \"face\": \"Symmetrical, sharp bone structure partially obscured by deep shadow, intense predatory gaze\", \"hair\": \"Pulled tightly back, completely hidden by the high collar and the encroaching masks\", \"body\": \"Rigid, taut, perfectly still\", \"expression\": \"Calculated menace, cold, patient, and intensely focused\", \"pose\": \"Deadpan stillness, holding breath, a posture of predatory waiting\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked ruffled collar\", \"material\": \"Antique intricate stiff lace\", \"color\": \"Bone white\", \"fit\": \"Tight, suffocatingly high, blending into the jawline\" } ], \"accessories\": [ { \"item\": \"Suspended classical masks\", \"color\": \"Chalk white\", \"material\": \"Matte plaster and porcelain\", \"brand_style\": \"Anonymous, blank theatrical molds\" } ] }, \"environment\": { \"setting\": \"Subterranean plaster-cast archive\", \"surfaces\": \"Smooth cold porcelain, porous chalk, rough damp stone in the unseen background\", \"depth\": \"Extremely shallow, defined by cascading layers of floating masks from foreground to immediate background\", \"atmosphere\": \"Heavy, cold, filled with suspended chalk dust catching the single light beam\", \"lens_interaction\": \"Shooting through the negative space between immediate foreground masks, causing heavy optical blurring on the edges of the frame\" }, \"lighting\": { \"key\": \"Harsh directional side-light slicing through the darkness like a blade\", \"fill\": \"None, allowing deep, crushing shadows\", \"rim\": \"Faint silver micro-rim on the edges of the porcelain masks\", \"shadows\": \"Pitch black, high-contrast chiaroscuro, hiding parts of the subject's face\", \"color_temperature\": \"Cool, 4500K, clinical and stark\", \"sensor_flare\": \"None, highly controlled studio flag lighting\" }, \"camera\": { \"lens_type\": \"Medium telephoto prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack-sharp strictly on the subject's irises and eyelashes\", \"sensor_format\": \"Medium Format (Hasselblad)\", \"perspective_distortion\": \"Zero compression, highly intimate, flattening the distance between the masks and the face\" }, \"post_processing\": { \"color\": \"Heavily desaturated ivory, pale flesh tones, and deep charcoal\", \"tonality\": \"High-contrast, stark transitions from blinding white to pure black\", \"texture\": \"Fine silver-halide film grain, hyper-detailed skin pores, matte plaster texture\", \"digital_sharpening\": \"Subtle, preserving the organic analog softness on the out-of-focus elements\", \"chromatic_aberration\": \"Negligible, maintaining optical perfection in the center\" }, \"negative_specifications\": [ \"Neon\", \"Smiling\", \"Warm lighting\", \"Cyberpunk\", \"Cluttered background\", \"Modern clothing\", \"CGI look\", \"Plastic skin\", \"Flat lighting\", \"Digital illustration\", \"Fantasy magic\" ] }",
+    "title": "Surreal porcelain mask portrait",
+    "description": "A complex, structured prompt in JSON format for a hyper-realistic surreal portrait featuring floating porcelain masks and dramatic chiaroscuro lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336386574_hcj8qn_HKnfDbFX0AAbgx3.jpg",
+      "https://cms-assets.youmind.com/media/1781336386625_so0t7s_HKnfDj1XIAA0z22.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25291,
+    "content": "An ultra-realistic cinematic portrait of a beautiful young girl with {argument name=\"hair style\" default=\"long dark hair\"}, glowing fair skin, natural glossy lips, and a dreamy closed-eye expression. She is captured in a graceful pose with one hand gently touching her face. She wears black wired earphones, a black choker necklace, an {argument name=\"outfit\" default=\"oversized white floral shirt with soft blue patterns\"}, a white inner t-shirt, and light pastel loose pants. The scene is illuminated by {argument name=\"lighting\" default=\"warm golden-hour sunset light\"}, with dramatic window-blind shadows falling across her face and clothing. The dark, moody background features vintage vinyl album covers—including Fleetwood Mac’s 'Rumours', Paul Simon’s 'Graceland', The Drums, Cigarettes After Sex, Night Tempo, and Joji—displayed on a black wall. The image features deep cinematic shadows, a cozy nostalgic vibe, ultra-detailed skin textures, realistic messy hair strands, soft orange-pink ambient glow, high-contrast photography, a dreamy atmosphere, shallow depth of field, and an emotional mood. 8K, ultra-HD, portrait.",
+    "title": "Nostalgic Vinyl Bedroom Portrait",
+    "description": "A cinematic portrait prompt featuring a girl with earphones in a room decorated with vintage vinyl albums, lit by golden sunset light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336381451_we89j9_HKnRXM0acAAdaXn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25295,
+    "content": "An ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"beautiful young girl\"} with {argument name=\"hair style\" default=\"long dark hair\"}, glowing fair skin, natural glossy lips, and a dreamy closed-eye expression. She is captured in a graceful pose with one hand gently touching her face. She wears black wired earphones, a black choker necklace, an {argument name=\"clothing\" default=\"oversized white floral shirt\"} with soft blue patterns, a white inner t-shirt, and light pastel loose pants. The scene is illuminated by warm golden-hour sunset light, with dramatic window-blind shadows falling across her face and clothing. The dark, moody background features vintage vinyl album covers—including Fleetwood Mac’s 'Rumours', Paul Simon’s 'Graceland', The Drums, Cigarettes After Sex, Night Tempo, and Joji—displayed on a black wall. The image features deep cinematic shadows, a cozy nostalgic vibe, ultra-detailed skin textures, realistic messy hair strands, soft orange-pink ambient glow, high-contrast photography, a dreamy atmosphere, shallow depth of field, and an emotional mood. 8K, ultra-HD, portrait.",
+    "title": "Cinematic Sunset Portrait with Vinyl Background",
+    "description": "A nostalgic cinematic portrait of a girl in golden hour light with vintage vinyl album covers in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336383284_f7n0lm_HKm9TlAaQAABPsQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25303,
+    "content": "A young woman with {argument name=\"hair color\" default=\"auburn hair\"} tied up in a messy bun, wearing a {argument name=\"hat\" default=\"beige visor\"}, stands on a mountain hiking trail and turns back over her shoulder toward the camera with a warm smile; she wears a color-block windbreaker jacket in dusty rose, sage green, and slate blue, paired with rose-pink hiking leggings, and carries a large teal and black trekking backpack with a water bottle tucked in the side mesh pocket and a black hip belt fastened around her waist; her hands grip the backpack straps near her chest; the background features a sweeping alpine landscape with layered green hills, dramatic gray mountain peaks, patches of wildflowers along the trail, and a bright blue sky filled with fluffy white clouds; natural golden daylight illuminates the scene, shot in a realistic outdoor lifestyle photography style with crisp detail, vibrant colors, shallow depth of field on the background, vertical 9:16 aspect ratio.",
+    "title": "Alpine hiking lifestyle photography",
+    "description": "A natural outdoor lifestyle prompt for a woman hiker in a color-block windbreaker on a scenic mountain trail with wildflowers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336386798_se3kuc_HKmvZv0WkAAjXcu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25308,
+    "content": "A vertical three-panel composite poster celebrating the FIFA World Cup 2026, featuring different professional female soccer players in the official {argument name=\"team kit\" default=\"red and green Portugal national team kit\"}.\n​The top panel shows a player with curly dark hair standing tall and holding a soccer ball in an open, empty modern stadium under a bright daylight sky, positioned next to a large metallic wall displaying the golden words \"THE BEAUTIFUL GAME\" and \"{argument name=\"event title\" default=\"FIFA WORLD CUP 2026\"}\" alongside the official trophy on a pedestal.\n​The middle panel captures a close-up profile shot of a different player with short blonde hair looking determinedly over her shoulder, set against a stadium player tunnel and grandstands adorned with international flags, featuring the text \"O JOGO CONTINUA 2026\" above the entrance.\n​The bottom panel depicts the first player sitting confidently on a concrete block in an urban plaza at dusk with a city skyline in the background, resting her foot on a soccer ball, accompanied by bold golden text that reads \"NOSSA PAÍS. NOSSO SONHO. PORTUGAL 2026\" and a stylized 26 logo. The entire image has a dramatic, cinematic, and professional sports photography aesthetic with rich tones and realistic lighting.",
+    "title": "Portugal World Cup 2026 poster",
+    "description": "A cinematic three-panel sports photography composite celebrating Portugal's 2026 World Cup journey with female soccer players.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336389118_6uv806_HKmsU_yW8AA7C75.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25312,
+    "content": "{argument name=\"theme\" default=\"The death cries of old media\"}\n\nWhat happened at that time...\n\n{argument name=\"style\" default=\"Cyberpunk\"}",
+    "title": "Cyberpunk Old Media Death Cries",
+    "description": "A thematic prompt focused on the dramatic 'death cries' of traditional media set within a gritty cyberpunk world.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336390995_2zn6ie_HKmoOLWa8AAD5nl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25307,
+    "content": "A professional photography collection of a happy young couple posing during a beautiful autumn photoshoot on a forest path. The man has short curly dark hair and wears a {argument name=\"mens outfit\" default=\"textured mustard-yellow sweater\"} over a plaid button-down shirt with grey jeans and brown leather boots. The woman has long wavy dark hair and wears a {argument name=\"womens outfit\" default=\"teal green cable-knit sweater\"} over a purple plaid shirt, paired with dark slim-fit pants and brown leather ankle boots. The imagery captures two distinct poses in a {argument name=\"setting\" default=\"scenic autumn setting\"}: one where they stand close together in a warm embrace smiling directly at the camera, and another where they walk hand-in-hand down a gravel trail, looking at each other and laughing naturally. Both scenes feature a beautifully blurred background filled with vibrant golden, orange, and green fall foliage, bathed in warm, soft-focus sunlight.",
+    "title": "Autumn couple photoshoot in forest",
+    "description": "A professional photography prompt capturing a happy couple in an autumn forest setting, featuring vibrant foliage and warm sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336387935_owvp0f_HKmdZsrXcAAiZN2.jpg",
+      "https://cms-assets.youmind.com/media/1781336387946_gv66da_HKmdZyzWwAApqjt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25305,
+    "content": "A medium full-length shot of a cheerful young {argument name=\"ethnicity\" default=\"East Asian woman\"} with shoulder-length dark hair and bangs, smiling brightly and waving her hand toward the camera. She is standing in a cozy, warm-toned cafe, leaning slightly against a prominent wooden support pillar. She is wearing a {argument name=\"outfit\" default=\"cream-colored knit cardigan over a white high-neck top\"}, blue jeans, and carrying a {argument name=\"accessory\" default=\"canvas tote bag\"} over her shoulder with one hand casually tucked into her cardigan pocket. The background is a softly blurred, inviting coffee shop interior featuring rich wooden floors, shelves filled with books, small potted green plants, and warm ambient lighting. In the out-of-focus background, a barista is working behind a wooden counter while other patrons sit at tables, creating a lively yet relaxing, comforting atmosphere.",
+    "title": "Cozy cafe interior portrait",
+    "description": "A bright and inviting prompt for a young woman waving in a warm-toned cafe with rich wooden details and ambient lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336387881_fek4sf_HKmH-D-WMAA6Sre.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25284,
+    "content": "A studio editorial fashion portrait of a woman shot from a low angle, available in two stylistic versions: a {argument name=\"style\" default=\"high-contrast black and white\"} version and a {argument name=\"color tone\" default=\"warm-toned color\"} version with a soft cream background. The model has her hair pulled back sleekly and looks directly forward with a calm expression. Dramatic, graphic vertical shadows cast across the left side of her face and down her neck. She wears a minimalist black ribbed tank top with a houndstooth patterned blazer draped asymmetrically over her right shoulder, leaving the other shoulder bare. The composition focuses on sharp lighting, clean backgrounds, and a high-fashion, minimalist aesthetic.",
+    "title": "Minimalist Shadow Play Fashion Portrait",
+    "description": "A high-fashion studio editorial prompt focusing on minimalist styling and dramatic vertical shadows across the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336378557_3ssaoe_HKl0cSyXcAA-Z63.jpg",
+      "https://cms-assets.youmind.com/media/1781336378547_ilv3ti_HKl0eWsXMAALg1w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25144,
     "content": "{\n\"subject\": {\n\"gender\": \"{argument name=\"gender\" default=\"Female\"}\",\n\"facial_features\": \"Fair skin, sharp jawline, playful expression, smiling with one eye closed in a wink, soft pink lip gloss, subtle makeup\",\n\"hair\": \"Long, dark brown to black hair, slightly messy, with wavy textures cascading over her shoulders\",\n\"body_shape\": \"Hourglass figure, prominent bust, slender waist, curvy hips, well-defined legs\",\n\"pose\": \"Seated on a transparent chair, legs crossed, leaning slightly forward, one hand resting down on the edge of the chair\",\n\"clothing\": \"{argument name=\"clothing description\" default=\"A strapless, tight-fitting mini dress wrapped entirely in yellow DHL Express packing tape with the red logo repeating across the material\"}\",\n\"accessories\": \"Thin silver chain necklace, small gold hoop earrings\"\n},\n\"environment\": {\n\"setting\": \"{argument name=\"setting\" default=\"Indoor room\"}\",\n\"background_elements\": [\n\"A red poster on the wall to the left featuring text reading 'Matrix Glitch'\",\n\"A shelf or rack on the upper right with magazine covers or print-outs, one showing a black-and-white portrait with the word 'DUST'\",\n\"A pink translucent lamp visible on the left side\",\n\"A modern transparent acrylic or glass chair\"\n]\n},\n\"photography_and_quality\": {\n\"style\": \"4K HD photo, high-resolution portrait\",\n\"lighting\": \"Direct flash photography, creating slight highlights on the skin and casting soft shadows on the background wall\",\n\"camera_angle\": \"Eye-level, vertical orientation, medium-shot\",\n\"color_palette\": \"Dominant yellow and red from the dress, contrasted with neutral wall tones and fair skin tones\",\n\"texture\": \"Glossy texture on the tape dress, smooth skin, sharp detail in hair strands and facial features\"\n}\n}",
     "title": "DHL Packing Tape Mini Dress Portrait",
@@ -52,6 +240,69 @@
       "https://cms-assets.youmind.com/media/1781251730945_t7n0hk_HKlu9VbbgAAm5Bw.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25288,
+    "content": "A high-resolution, full-body fashion portrait of the exact same man from {argument name=\"reference id\" default=\"11719.png\"}, maintaining his distinct facial features, dark hair, neatly trimmed beard, and intense expression. He is not wearing sunglasses, fully revealing his eyes. He is wearing the {argument name=\"jersey\" default=\"dark navy blue France FIFA World Cup jersey\"} featuring a subtle, intricate pattern woven into the fabric, a gold national crest, and a gold number 10 on the front. He is styled with a silver chain necklace and a silver luxury watch, leaning confidently against a {argument name=\"background element\" default=\"concrete barrier\"} inside a modern football stadium. The background features a large stadium screen displaying \"FIFA WORLD CUP\" and the French flag under bright evening stadium lighting, captured in a crisp, professional commercial photography style.",
+    "title": "France World Cup Fashion Portrait",
+    "description": "A high-resolution fashion portrait of a man in a France national jersey inside a stadium, utilizing face reference for consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336380189_674g34_HKlttdbbgAAxiNU.jpg",
+      "https://cms-assets.youmind.com/media/1781336380114_1kcucr_HKlttbpboAAmdnG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25283,
+    "content": "An ultra-stylistic cinematic portrait illustration that blends design, tactical aesthetics, and expressive fine art sketching. The characters are rendered 100% faithful to the objects depicted, with semi-realistic facial anatomy, strong likeness preservation, and highly detailed brushwork. A bold blend of graphic design and emotional storytelling, combining sharp geometric shapes with loose, expressive strokes. The clothing is true to life!\nThe dominant high-contrast color palette features intense full-field {argument name=\"primary color\" default=\"dark orange\"}, deep black, warm ivory, soft beige, and subtle golden yellow highlights. A dynamic interplay between the hard-edged digital painting and the impressive sketch textures. Layered brushstrokes, ink splatters, rough concept art marks, scribbled lines, and abstract paint fragments are seamlessly integrated into the composition.\nStrong cinematic lighting with warm golden highlights on the skin, deep shadow modeling, and dramatic tonal separations. Rich layers of texture include paper grain, worn print effects, worn poster surfaces, and graphic design imperfections.  The bottom section appears unfinished, with impressive strokes that thin out at the bottom and blend into the background.\nThe face is painted with soft, realistic skin rendering, expressive eyes, natural reflections, detailed hair strands, and artistic color transitions. A sumptuous, emotionally charged, visually striking illustration, a masterpiece of modern art. 9:16 vertical. 8K.",
+    "title": "Cinematic Tactical Sketch Portrait",
+    "description": "An ultra-stylistic portrait prompt that blends tactical design aesthetics with fine art sketching, featuring high-contrast colors and heavy texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336378508_vu21lq_HKls52wWUAAt_Q3.jpg",
+      "https://cms-assets.youmind.com/media/1781336378495_6emfev_HKls55MWYAABQE5.jpg",
+      "https://cms-assets.youmind.com/media/1781336378498_5v65al_HKls56jXwAAArnw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25297,
+    "content": "A vertical collage of three {argument name=\"style\" default=\"YZK photos\"}. Using the uploaded selfie as the ONLY and exclusive face reference, keep the facial features, and facial structure exactly the same as the reference image. The character poses against a neutral light background. A girl with a beautiful, voluminous hairstyle, seemingly styled with a brush, wearing foxy makeup and pronounced, angled lashes. In the first photo, she's very close to the camera, looking at it with one eye and winking. In the second photo, she's turned away, her head coquettishly turned toward the lens, her hairstyle slightly covering her face, but not too much. In the third photo, she's looking very close to the lens, her hair to the side, thus covering her left eye, pouting and looking forward. Close-up and medium shot, minimalist composition, vintage digital texture, slight blur, glamorous atmosphere. Photo taken on {argument name=\"device\" default=\"iPhone 17 Pro Max\"} with flash.",
+    "title": "Y2K Portrait Collage from Face Reference",
+    "description": "A vertical collage of three Y2K-style photos generated from a single face reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336383888_6lcjyo_HKlr84_WUAEevTx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25289,
+    "content": "Ultra-realistic indoor beauty selfie portrait, stunning young woman, flawless porcelain skin with realistic texture and subtle natural pores, luminous complexion, large expressive dark brown eyes with glossy reflections, long curled eyelashes, softly defined brows, small refined nose, full soft pink lips slightly parted, natural youthful beauty, gentle dreamy expression. Long silky jet-black hair cascading over the shoulders and chest, slightly tousled with loose wispy strands falling across the face, natural bedhead aesthetic, realistic hair strand detail, glossy highlights.\n\nFitted {argument name=\"clothing item\" default=\"light heather-gray ribbed camisole tank top\"} with thin straps, soft stretch-knit fabric, casual loungewear styling, minimalist wardrobe aesthetic, comfortable everyday fashion.\n\nIntimate close-up selfie framing from chest upward, direct eye contact with camera, relaxed shoulders, natural posture, candid personal portrait, slight head tilt, effortless elegance, authentic social-media photography style.\n\nCozy {argument name=\"setting\" default=\"bedroom interior\"}, lived-in personal space, wardrobe and hanging clothes visible in soft background blur, desk with personal items and cosmetics, posters on wall, casual apartment atmosphere, realistic home setting, authentic lifestyle environment.\n\nIntense {argument name=\"lighting type\" default=\"natural morning sunlight\"} streaming through a nearby window, strong directional backlight and side light, luminous overexposed highlights along hair and shoulders, bright sun rays illuminating the face, soft glow effect, realistic lens flare artifacts, high dynamic range lighting, ethereal sun-kissed atmosphere, delicate shadow transitions, cinematic natural illumination.\n\n Ultra-photorealistic realism, shallow depth of field, sharp focus on eyes and facial features, realistic skin rendering, natural color grading, soft cool-white daylight tones, high-detail facial textures, candid beauty portrait, Korean-inspired lifestyle photography aesthetic, editorial social-media portrait, atmospheric realism, masterpiece, ultra-detailed, HDR, 8K resolution, professional-quality image, authentic natural beauty, crisp focus, cinematic mood, volumetric sunlight, realistic optical effects.",
+    "title": "Ultra-Realistic Bedroom Selfie",
+    "description": "An extremely detailed prompt for a high-quality indoor beauty selfie with natural morning sunlight and professional-grade skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336380959_qn2odw_HKlkkseakAADSDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25292,
+    "content": "Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a luxury walk-in closet. OUTFIT: {argument name=\"dress\" default=\"Satin emerald green slip dress\"}. PROP: Holding a {argument name=\"phone\" default=\"Titanium iPhone 17 Pro Max\"} with triple-lens detail visible. POSE: Standing in front of a mirror, subtle smile, one hand on the hip. LIGHTING: normal, BACKGROUND: Designer bags and soft-lit shelves. CAMERA: Mobile photography style, sharp focus. IMAGE QUALITY: 8K, realistic skin.",
+    "title": "Luxury Mirror Selfie Portrait",
+    "description": "A mobile photography-style prompt for a mirror selfie in a luxury closet, featuring precise face locking and modern aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336382283_ahyfxz_HKlQpLpbMAAy-po.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25301,
+    "content": "Use 100% face and body structure from attached reference to create a Ultra-realistic fashion magazine close-up portrait of a beautiful young woman wearing an oversized premium {argument name=\"shirt color\" default=\"red\"} t-shirt featuring the bold white caption \"{argument name=\"caption\" default=\"WHATEVER\"}\" printed across the front in large modern typography. She is styled with a clean {argument name=\"hat style\" default=\"white baseball cap\"} and sleek black Ray-Ban-style sunglasses positioned slightly below her eyes for a trendy editorial fashion look.",
+    "title": "Fashion magazine portrait with red t-shirt",
+    "description": "A high-fashion editorial close-up of a young woman wearing a red graphic t-shirt and sunglasses, designed to maintain specific facial and body structures from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336385370_yag505_HKioaFjWEAAczug.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25123,

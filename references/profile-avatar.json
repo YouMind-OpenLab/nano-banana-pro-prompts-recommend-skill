@@ -10,6 +10,47 @@
     "needReferenceImages": false
   },
   {
+    "id": 25286,
+    "content": "A close-up studio portrait of a beautiful woman with striking {argument name=\"eye color\" default=\"hazel-green eyes\"} and light freckles dusting her nose and cheeks. She has vibrant, wavy {argument name=\"hair color\" default=\"auburn hair\"} neatly styled to one side, with a large, {argument name=\"flower type\" default=\"vivid magenta-pink camellia flower\"} tucked behind her right ear. Her makeup is flawless and bold, featuring an olive-green winged eyeliner that complements her eyes, and a deep matte burgundy lipstick on her well-defined lips. She looks directly into the camera with a confident, serene expression. Her bare shoulders are partially visible, draped in a dark forest green off-the-shoulder fabric. The lighting is soft and cinematic, casting gentle shadows that define her facial features against a dark, moody teal background.",
+    "title": "Auburn Portrait with Camellia Flower",
+    "description": "A close-up studio portrait featuring a woman with auburn hair and a vibrant camellia flower, focusing on striking eye details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336379736_fn15i0_HKrU-GcWUAAuZj0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25311,
+    "content": "Beautiful fantasy woman with {argument name=\"hair style\" default=\"long flowing hair\"}, inspired by gothic rose aesthetics, sitting gracefully on a giant red crystal apple. Luxurious crimson rose gown with ruby crystal decorations, elegant sleeves, sparkling gemstones, dark fantasy palace atmosphere, black and red color palette, intricate details, majestic queen vibe, highly detailed illustration, masterpiece, twitter post composition, square format.",
+    "title": "Gothic Rose Fantasy Queen Portrait",
+    "description": "A detailed prompt for generating a majestic fantasy queen wearing a crimson rose gown and sitting on a giant red crystal apple throne, set in a dark palace.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336390204_ra6rjb_HKpbyH5asAAhaKa.jpg",
+      "https://cms-assets.youmind.com/media/1781336390292_0sv20p_HKpbzSJa4AAWmJF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25305,
+    "content": "A medium full-length shot of a cheerful young {argument name=\"ethnicity\" default=\"East Asian woman\"} with shoulder-length dark hair and bangs, smiling brightly and waving her hand toward the camera. She is standing in a cozy, warm-toned cafe, leaning slightly against a prominent wooden support pillar. She is wearing a {argument name=\"outfit\" default=\"cream-colored knit cardigan over a white high-neck top\"}, blue jeans, and carrying a {argument name=\"accessory\" default=\"canvas tote bag\"} over her shoulder with one hand casually tucked into her cardigan pocket. The background is a softly blurred, inviting coffee shop interior featuring rich wooden floors, shelves filled with books, small potted green plants, and warm ambient lighting. In the out-of-focus background, a barista is working behind a wooden counter while other patrons sit at tables, creating a lively yet relaxing, comforting atmosphere.",
+    "title": "Cozy cafe interior portrait",
+    "description": "A bright and inviting prompt for a young woman waving in a warm-toned cafe with rich wooden details and ambient lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336387881_fek4sf_HKmH-D-WMAA6Sre.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25289,
+    "content": "Ultra-realistic indoor beauty selfie portrait, stunning young woman, flawless porcelain skin with realistic texture and subtle natural pores, luminous complexion, large expressive dark brown eyes with glossy reflections, long curled eyelashes, softly defined brows, small refined nose, full soft pink lips slightly parted, natural youthful beauty, gentle dreamy expression. Long silky jet-black hair cascading over the shoulders and chest, slightly tousled with loose wispy strands falling across the face, natural bedhead aesthetic, realistic hair strand detail, glossy highlights.\n\nFitted {argument name=\"clothing item\" default=\"light heather-gray ribbed camisole tank top\"} with thin straps, soft stretch-knit fabric, casual loungewear styling, minimalist wardrobe aesthetic, comfortable everyday fashion.\n\nIntimate close-up selfie framing from chest upward, direct eye contact with camera, relaxed shoulders, natural posture, candid personal portrait, slight head tilt, effortless elegance, authentic social-media photography style.\n\nCozy {argument name=\"setting\" default=\"bedroom interior\"}, lived-in personal space, wardrobe and hanging clothes visible in soft background blur, desk with personal items and cosmetics, posters on wall, casual apartment atmosphere, realistic home setting, authentic lifestyle environment.\n\nIntense {argument name=\"lighting type\" default=\"natural morning sunlight\"} streaming through a nearby window, strong directional backlight and side light, luminous overexposed highlights along hair and shoulders, bright sun rays illuminating the face, soft glow effect, realistic lens flare artifacts, high dynamic range lighting, ethereal sun-kissed atmosphere, delicate shadow transitions, cinematic natural illumination.\n\n Ultra-photorealistic realism, shallow depth of field, sharp focus on eyes and facial features, realistic skin rendering, natural color grading, soft cool-white daylight tones, high-detail facial textures, candid beauty portrait, Korean-inspired lifestyle photography aesthetic, editorial social-media portrait, atmospheric realism, masterpiece, ultra-detailed, HDR, 8K resolution, professional-quality image, authentic natural beauty, crisp focus, cinematic mood, volumetric sunlight, realistic optical effects.",
+    "title": "Ultra-Realistic Bedroom Selfie",
+    "description": "An extremely detailed prompt for a high-quality indoor beauty selfie with natural morning sunlight and professional-grade skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336380959_qn2odw_HKlkkseakAADSDu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25123,
     "content": "A vertical, close-up color portrait of a {argument name=\"subject\" default=\"young Korean woman\"} with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks. Her {argument name=\"hair color\" default=\"dark, reddish-brown wavy hair\"} cascades down, with a single thick strand draped across the front of her face, partially obscuring her cheek. Her hand is raised in the lower right foreground, gently pulling and holding that strand of hair. She wears a {argument name=\"outfit\" default=\"simple black tank top\"}, and the background features a softly blurred, warm out-of-focus stone archway surrounded by lush green foliage under bright, natural outdoor lighting.",
     "title": "Cute Korean Woman Soft Portrait",

@@ -1,5 +1,36 @@
 [
   {
+    "id": 25290,
+    "content": "Watercolor: {argument name=\"scene\" default=\"waiting at a rainy train station\"}",
+    "title": "Rainy Train Station Watercolor",
+    "description": "A simple watercolor prompt for a rainy train station, comparing different model variants.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336381061_9c18yf_HKi3DEEXkAA6ewj.png",
+      "https://cms-assets.youmind.com/media/1781336381108_y2j617_HKi3ENCXYAACmBP.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25300,
+    "content": "5-panel vertical cinematic portrait strip of a {argument name=\"subject\" default=\"beautiful young East Asian woman (20–24)\"}, warm wheatish skin, long silky dark hair flowing naturally, striking magenta-pink lips, subtle makeup, minimal accessories. She wears an {argument name=\"outfit\" default=\"elegant white pearl-embroidered corset crop top paired with a flowing white maxi skirt\"} with a graceful front slit, blending modern and ethnic-fusion fashion. Set inside a {argument name=\"background\" default=\"lush enchanted forest\"} with tall slender tree trunks, soft wild grass, moss-covered ground, delicate ferns, and layers of rich greenery. Gentle overcast daylight filters through the canopy, creating dreamy diffused lighting with a fresh green ambient glow. Each panel captures a different cinematic pose and expression, natural movement in the hair and skirt, shallow depth of field, ultra-realistic skin texture, vibrant colors, atmospheric perspective, editorial fashion photography, luxury magazine aesthetic, 4K HDR, masterpiece quality, highly detailed, vertical multi-frame strip composition. -- ar 4:5",
+    "title": "Enchanted Forest Fashion Portrait Strip",
+    "description": "A vertical multi-frame strip capturing an East Asian woman in an enchanted forest wearing a pearl corset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336385194_ithd9a_HKlQ1NLaMAAzgGN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25296,
+    "content": "A cinematic, dutch angle, full body shot of a {argument name=\"subject\" default=\"young woman\"} as in <<<image_1>>> cooly walking in profile, one hand holding an off-white, {argument name=\"prop\" default=\"mobile suit pilot helmet\"} with metallic black visor. She wears a tight, detailed, {argument name=\"outfit\" default=\"futuristic white mobile suit pilot suit\"} with subtle signs of wear and tear, including scuffs and grime textures. Cooly gazing at the camera. The lighting is soft, cool, and diffused, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 35mm lens with a shallow depth of field, focusing sharply on her face and body, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Straight long hair parted in the middle hair style. Visor should have no reflection of the photographer",
+    "title": "Futuristic Space Pilot Cinematic Shot",
+    "description": "A cinematic sci-fi portrait of a female pilot in a futuristic suit holding a helmet, using an image reference for consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336383804_bgwq3i_HKknahcbwAAWudC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25130,
     "content": "{argument name=\"character name\" default=\"Aldric\"} standing his ground in a {argument name=\"setting\" default=\"rain-soaked dead forest\"}, sword held firmly with both hands, feet planted in the mud, facing a {argument name=\"enemy\" default=\"massive dark humanoid creature\"} charging directly toward him at full speed, monstrous figure made of shadow, mud and rotting cloth, glowing red eyes, enormous momentum, with aldric  sword almost plunging into the monster's stomach, taking advantage of the momentum . Cinematic dark fantasy, dramatic atmosphere, realistic medieval armor, fog, tension before impact, low angle shot, ultra realistic, movie still",
     "title": "Cinematic Dark Fantasy Battle",

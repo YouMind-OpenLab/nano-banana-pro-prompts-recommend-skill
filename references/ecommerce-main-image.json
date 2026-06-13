@@ -1,5 +1,15 @@
 [
   {
+    "id": 25292,
+    "content": "Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a luxury walk-in closet. OUTFIT: {argument name=\"dress\" default=\"Satin emerald green slip dress\"}. PROP: Holding a {argument name=\"phone\" default=\"Titanium iPhone 17 Pro Max\"} with triple-lens detail visible. POSE: Standing in front of a mirror, subtle smile, one hand on the hip. LIGHTING: normal, BACKGROUND: Designer bags and soft-lit shelves. CAMERA: Mobile photography style, sharp focus. IMAGE QUALITY: 8K, realistic skin.",
+    "title": "Luxury Mirror Selfie Portrait",
+    "description": "A mobile photography-style prompt for a mirror selfie in a luxury closet, featuring precise face locking and modern aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781336382283_ahyfxz_HKlQpLpbMAAy-po.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25010,
     "content": "Ultra-realistic {argument name=\"product name\" default=\"[BISCUIT NAME]\"} biscuits stacked dynamically in mid-air, slightly broken to reveal rich texture, creamy filling / buttery layers visible, dramatic milk splash forming artistic curves around the biscuits, soft biscuit crumbs suspended in air, glossy milk droplets frozen in motion, {argument name=\"background\" default=\"dark studio gradient background\"}, cinematic professional lighting, macro food photography, ultra-sharp focus, high contrast, premium luxury commercial advertisement style, dramatic splash effect, hyper-detailed textures, photorealistic, 8K ultra-high resolution\nAspect ratio {argument name=\"aspect ratio\" default=\"3:4\"}",
     "title": "Macro Luxury Biscuit Milk Splash",
