@@ -1,5 +1,25 @@
 [
   {
+    "id": 25446,
+    "content": "full body character sheet, front view, side view, back view, {argument name=\"character role\" default=\"Archive Recovery Operative\"}, realistic sci fi, {argument name=\"armor color\" default=\"white and dark gray\"} tactical armor, industrial design, armored trench coat, blue vertical visor helmet, reinforced chest armor, utility belts, retrieval equipment, non military aesthetic, futuristic recovery unit, highly detailed, clean white background, ultra realistic image , realistic, real life.",
+    "title": "Archive Recovery Operative Character Sheet",
+    "description": "A comprehensive prompt for a sci-fi character design sheet, showing front, side, and back views of a recovery operative in tactical armor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424051793_bqtprz_HKuz485WUAAVbHj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25475,
+    "content": "A cinematic, dutch angle, full body shot of a {argument name=\"subject\" default=\"young woman\"} as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, {argument name=\"outfit\" default=\"futuristic white mobile suit pilot suit\"} with subtle signs of wear and tear, including scuffs and grime textures. The lighting is {argument name=\"lighting\" default=\"soft, cool, and diffused\"}, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 35mm lens with a shallow depth of field, focusing sharply on her face and body, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Loose messy hair style. Visor should have no reflection of the photographer. Lazily gazing at the camera.",
+    "title": "Futuristic Mobile Suit Pilot",
+    "description": "A cinematic Dutch angle shot of a young woman donning a sci-fi pilot suit, featuring melancholic lighting and hyper-realistic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424064326_au4qs1_HKqGyNeacAArkgV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25290,
     "content": "Watercolor: {argument name=\"scene\" default=\"waiting at a rainy train station\"}",
     "title": "Rainy Train Station Watercolor",

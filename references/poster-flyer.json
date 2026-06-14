@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 25470,
+    "content": "A high-fashion, editorial photography capture of {argument name=\"subjects\" default=\"two elegant models\"} posing against a dramatic architectural backdrop made of large, weathered copper panels. The background features a mix of warm, brushed copper and sections with a green, oxidized verdigris patina. On the left, a model with sleek, slicked-back hair looks over her shoulder at the camera, wearing a sophisticated, floor-length silk satin gown in a {argument name=\"color 1\" default=\"warm champagne gold\"} color with an asymmetrical, structured neckline. On the right, the second model stands on a slightly raised platform, wearing a sleeveless, {argument name=\"color 2\" default=\"rust-orange\"} gown featuring a finely pleated, tiered ruffled skirt that cascades down. She has a classic bob hairstyle and rests her hands gently against the curved copper wall. Lush green Monstera and tropical plants in matching copper planters frame the scene, adding a natural touch. The lighting is warm and cinematic, casting soft shadows and highlighting the rich textures of the fabric and the metallic walls.",
+    "title": "Copper Wall High Fashion Gowns",
+    "description": "An editorial photography prompt featuring models in silk satin and pleated gowns against a weathered copper architectural backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424062445_oyb3za_HKq_CxQW4AAcHIt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25443,
+    "content": "Create a {argument name=\"style\" default=\"premium anime-style typographic poster\"}. Accurately recreate the person's face and features based on the reference photo. Show her in a stylish side-walking pose with a modern, high-fashion outfit and a confident expression. Place \"{argument name=\"main text\" default=\"AI VISUAL EDITOR\"}\" in huge, bold English typography behind the subject, using textured orange letters on a dark vintage background. \n\nAdd professional-themed text on the left side:\n\"AI VISUAL EDITOR is more than a career. It is passion, discipline, growth, and impact. Every challenge builds expertise, every step creates success. Focused on progress. Driven by purpose.\"\n\nSubtly integrate the branding handle \"{argument name=\"handle\" default=\"AIwithkinza\"}\" on the clothing. Include the signature watermark \"Kinza 💫\" subtly in the bottom corner of the design. Premium poster aesthetic, cinematic lighting, clean composition, grain texture, ultra-detailed digital illustration, 4K, 9:16 aspect ratio.",
+    "title": "Premium Anime Typographic Poster",
+    "description": "A sophisticated prompt for creating high-fashion anime-style posters with bold typography and cinematic lighting, ideal for brand visuals or stylized character portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424050516_5cv5d2_HKqi-xzbgAAF78S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25306,
     "content": "A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [{argument name=\"style\" default=\"luxury/fashion\"}] advertisement for [{argument name=\"brand\" default=\"BRAND_NAME\"}], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by the design, with no surrounding external setting or background visible.\nThe main, overall surface texture is a clean, fibrous, grainy [{argument name=\"paper color\" default=\"OUTER_PAPER_COLOR\"}] paper. Embedded centrally is a perfectly sharp, clean-edged, and mathematically straight square window cutout, revealing a smooth, matte stark white background. The inner edges of this square are perfectly clean, straight, and sharp, with absolutely zero tearing, roughness, or frayed edges.\n\nSeated on a sleek dark metal chair within this clean square frame is a model embodying the ultimate high-fashion [BRAND_ESTHETIC] aesthetic. The model has [CHARACTER_DESCRIPTION_AND_OUTFIT]. The upper body is contained within the frame, posed with one hand resting near the hair or face. The portrait is rendered with absolute realism, completely avoiding any artificial smoothing; the face exhibits natural skin texture, visible pores, and fine details, while the garments show rich contrast between the distinct fabric weaves, folds, and metallic reflections of the hardware. A distinct, soft, grainy drop shadow from the right frame edge falls across the character's right side, partially obscuring them and creating depth. The legs break dramatically through the bottom edge of the clean frame, extending into the foreground on the grainy [OUTER_PAPER_COLOR] paper surface. One leg is bent with the foot resting firmly right on the bottom ledge of the inner frame, while the left leg is dramatically closer to the camera, creating an extreme 3D pop-out effect with realistic low-angle foreshortening.\n\nTypography and Graphics:\n- Bottom-left corner: A detailed multi-line block of fine-print typography printed in clean [TEXT_COLOR] ink, reading: [EDITORIAL_OR_BRAND_TEXT]\n- Right side (Vertical, Massive Text): The word [WORD] printed in an elegant, [FONT_STYLE] luxury fashion font using a striking, [BIG_TEXT_COLOR}] ink. To ensure maximum scale, this vertical text is engineered with a full-vertical span that extends edge-to-edge from the absolute bottom edge of the paper to the absolute top edge of the paper, completely filling the vertical right margin from top to bottom leaving only a very tight, minimal, and identical amount of equal negative space on its top, left, and bottom margins to look intentionally integrated. The text exhibits a subtle, shallow letterpress debossed effect into the paper fibers.\n- Bottom-right corner: A detailed commercial barcode graphic with fine serial numbers printed in clean white.\n\nThe lighting is intense, dramatic, and directional studio lighting, highlighting natural skin texture, clothing fabric grains, and the metallic hardware against the matte paper. The perspective is a low-angle shot, looking up to enhance t",
     "title": "Fashion editorial pop-out poster",
@@ -359,19 +379,6 @@
     "description": "Generates a high-fashion magazine cover titled 'AURA' featuring futuristic organic sci-fi attire with moss and amber elements.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780474204670_cvzakt_HJygi-2XwAA22CH.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 23715,
-    "content": "Creative composite photograph, 9:16 vertical aspect ratio, clean minimalist white background, studio lighting, high detail, sharp focus. A real-life {argument name=\"object\" default=\"EVERYDAY OBJECT\"} is physically placed and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration. The drawing is simple, expressive line art with minimal shading, like a quick sketch on paper. The {argument name=\"object role\" default=\"OBJECT\"} represents {argument name=\"scene context\" default=\"CLEVER PART OF THE SCENE - e.g. hair, weapon, body part, clothing, etc.\"}, cleverly completing the visual pun or concept. The cartoon character interacts dynamically with the object in a humorous, meaningful, or surprising way. Photorealistic object + bold black line drawing style, perfect seamless blend between real object and illustration, clean negative space, artistic and witty concept, high quality product photography mixed with doodle art.",
-    "title": "Real Object and Doodle Composite",
-    "description": "A creative template for blending real-life everyday objects into hand-drawn cartoon illustrations for artistic visual puns.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780474196525_bzo22i_HJyXZGJWsAANjoS.jpg",
-      "https://cms-assets.youmind.com/media/1780474196492_v8tjxr_HJyXZI0XoAAnQLT.jpg",
-      "https://cms-assets.youmind.com/media/1780474196529_vs4j4u_HJyXZKQXQAAXqrN.jpg",
-      "https://cms-assets.youmind.com/media/1780474197532_v7z0gp_HJyXZOkXkAAsEcs.jpg"
     ],
     "needReferenceImages": false
   },

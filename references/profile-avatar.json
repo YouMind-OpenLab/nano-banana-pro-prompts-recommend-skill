@@ -10,6 +10,52 @@
     "needReferenceImages": false
   },
   {
+    "id": 25458,
+    "content": "A professional {argument name=\"style\" default=\"black and white studio portrait\"} of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a {argument name=\"outfit\" default=\"simple black t-shirt and dark pants with a white patterned belt\"}, seated and leaning forward over a wooden stool. The composition captures an intense, direct gaze toward the camera with a subtle, confident expression. In one variation, he poses thoughtfully with his index finger lightly touching his chin, while in an alternative stance, his hand shifts slightly higher, resting gently near his collarbone. The lighting is soft and directional, casting subtle shadows that emphasize his athletic build, strong jawline, and the defined texture of his arms, all set against a {argument name=\"background\" default=\"clean, neutral gray studio backdrop\"}.",
+    "title": "Black and White Male Studio Portrait",
+    "description": "A professional monochromatic studio portrait of a man with sharp features, featuring soft directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424056887_7bl8tc_HKtXJT7WkAEwZ8j.jpg",
+      "https://cms-assets.youmind.com/media/1781424056876_t6qf0h_HKtXJVTXoAAlwIL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25450,
+    "content": "A full-length studio portrait of a confident, smiling woman with {argument name=\"hair style\" default=\"long, wavy brown hair\"}, posing against a {argument name=\"background\" default=\"clean, minimalist white background\"}. She is elegantly dressed in a {argument name=\"outfit\" default=\"tailored white pantsuit\"}, consisting of a structured blazer, a crisp button-down shirt, and wide-leg trousers. Her look is accessorized with a delicate necklace, small earrings, and a ring. In one variation, she stands gracefully while wearing a classic black wide-brimmed fedora hat, holding a second matching black hat down by her side, completed with black pointed shoes. In another variation, she is seated comfortably on a modern, armless white leather chair, legs elegantly crossed, wearing sleek black high-heeled pumps. The lighting is soft and even, highlighting her sophisticated fashion, bright expression, and professional yet stylish demeanor.",
+    "title": "Elegant White Pantsuit Studio Portrait",
+    "description": "A sophisticated prompt for a full-length studio portrait of a woman in a white pantsuit against a minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424052903_0jq773_HKs53PfWgAEW2VW.jpg",
+      "https://cms-assets.youmind.com/media/1781424052955_xhwufo_HKs53TJXQAA4Gyn.jpg",
+      "https://cms-assets.youmind.com/media/1781424052922_ecxgm6_HKs53QfXQAAxpKU.jpg",
+      "https://cms-assets.youmind.com/media/1781424053733_k45av3_HKs53QrWwAA3jyY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25467,
+    "content": "Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry.\n\nA dramatic luxury executive studio portrait. The subject wears a {argument name=\"attire\" default=\"perfectly tailored black blazer/amerikana\"} with structured shoulders, sharp lapels, and a {argument name=\"shirt\" default=\"crisp white inner shirt\"}. The overall appearance feels powerful, expensive, sophisticated, and editorial while maintaining the clean structure of a professional passport-style portrait.\n\nPose: {argument name=\"pose\" default=\"front-facing studio pose\"}, shoulders softly squared toward the camera, chin slightly lowered, eyes looking directly into the lens, calm but commanding expression, relaxed lips, strong presence, elegant confidence, and natural authority.\n\nMakeup: full glam modern luxury beauty makeup. Korean glass-skin complexion with visible pores and glossy healthy shine. Bronze-champagne eyeshadow blended with soft taupe depth, luminous champagne shimmer on the center lids and inner corners, lifted eyeliner, dramatic wispy lashes, softly defined lower lashes, feathered brows, sculpted contour, bright under-eye, warm bronzed blush, and glossy rose-beige lips with rich reflective shine. Makeup feels expensive, feminine, dramatic, and editorial without becoming overly dark or gothic.\n\nSkin rendering: ultra-luminous Korean glass skin with realistic pore visibility. Individual pores remain visible across cheeks, nose, forehead, and around the mouth. Fine peach fuzz, realistic under-eye texture, tiny skin variations, and authentic epidermal detail remain visible. Skin appears hydrated, plump, reflective, dimensional, and alive. Strong glossy highlights on the cheekbones, nose bridge, forehead, eyelids, collarbone, and lips. No beauty-filter smoothing. No pore reduction. No airbrushed finish.\n\nHairstyle: modern luxury salon blowout. Long dark hair with soft face-framing layers concentrated around the front sections only. Smooth polished finish, healthy shine, subtle crown volume, luxurious movement, and expensive editorial styling. The back remains long and sleek. Elegant, modern, and fashionable.\n\nLighting: dramatic luxury beauty lighting. A strong soft key light from front-left creates luminous glossy highlights across the face while preserving visible skin texture and pores. The opposite side of the face remains slightly darker for dimension. Subtle rim lighting around the hair and shoulders creates separation from the white background. The lighting emphasizes cheekbones, jawline, eyes, lips, and glossy skin.\n\nBackground: pure white luxury studio backdrop with subtle tonal depth. Clean, bright, timeless, and premium. The contrast between the white background and black blazer creates a striking executive beauty portrait aesthetic.\n\nCamera rendering: ultra-high-resolution professional beauty portrait captured with medium-format camera realism. Clinical sharpness on eyes, lashes, brows, lips,",
+    "title": "Luxury Executive Studio Portrait",
+    "description": "A sophisticated executive portrait prompt focusing on professional attire, high-end makeup details, and clinical photographic sharpness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424060290_2jgevq_HKs5qJObkAAgDl1.jpg",
+      "https://cms-assets.youmind.com/media/1781424060256_wcqcep_HKs5qGgaoAAb5AG.jpg",
+      "https://cms-assets.youmind.com/media/1781424060297_shafwt_HKs5qGSbMAAX6s6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25459,
+    "content": "Ultra-realistic studio portrait of a man matching the reference face exactly, seated on a {argument name=\"seating\" default=\"low modern matte-black cube block\"} instead of a wooden stool. He leans slightly forward with elbows resting loosely on thighs, hands softly clasped, gaze slightly off-camera for a thoughtful executive vibe.\nSame outfit: charcoal textured blazer, taupe premium tee, {argument name=\"trousers\" default=\"espresso tailored trousers\"}, off-white minimalist sneakers.\nStudio lighting setup: {argument name=\"lighting\" default=\"soft overhead diffused key light with subtle side fill\"}, creating sculpted cheekbones and controlled shadow under jawline. Faint edge light for subject separation. Background: smooth gradient from deep slate grey to charcoal.\nFocus razor sharp on eyes, shallow depth of field, realistic fabric folds at elbows and knees, natural skin pores visible, no over-retouching, premium magazine editorial style, ultra high resolution.\nNegative prompt: glossy skin, artificial HDR, harsh facial shadows, busy background.",
+    "title": "Executive Studio Portrait",
+    "description": "An ultra-realistic image-to-image studio portrait prompt designed to match a reference face exactly in a premium editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424057329_52fha7_HKsCz1ba8AA8dbf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25286,
     "content": "A close-up studio portrait of a beautiful woman with striking {argument name=\"eye color\" default=\"hazel-green eyes\"} and light freckles dusting her nose and cheeks. She has vibrant, wavy {argument name=\"hair color\" default=\"auburn hair\"} neatly styled to one side, with a large, {argument name=\"flower type\" default=\"vivid magenta-pink camellia flower\"} tucked behind her right ear. Her makeup is flawless and bold, featuring an olive-green winged eyeliner that complements her eyes, and a deep matte burgundy lipstick on her well-defined lips. She looks directly into the camera with a confident, serene expression. Her bare shoulders are partially visible, draped in a dark forest green off-the-shoulder fabric. The lighting is soft and cinematic, casting gentle shadows that define her facial features against a dark, moody teal background.",
     "title": "Auburn Portrait with Camellia Flower",
@@ -18,6 +64,38 @@
       "https://cms-assets.youmind.com/media/1781336379736_fn15i0_HKrU-GcWUAAuZj0.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25461,
+    "content": "Ultra-realistic portrait of a {argument name=\"subject\" default=\"young woman\"} with a warm, friendly smile, looking directly at the camera. She has long, straight dark hair with a smooth natural shine, light green eyes, and soft, clear skin with natural makeup. She is wearing round, thin metal-framed glasses and a {argument name=\"outfit\" default=\"black fitted top layered under a brown plaid pinafore dress\"}. She is holding a smartphone with both hands at chest level.\nThe setting is a {argument name=\"environment\" default=\"cozy indoor environment with a softly blurred bookshelf in the background\"}, creating a warm and calm atmosphere. Lighting is soft and natural, coming from the front, highlighting facial features with gentle shadows. Cinematic depth of field, sharp focus on the subject, highly detailed skin texture, professional photography, 85mm lens, f/1.8, ultra HD, realistic color grading.",
+    "title": "Cozy Indoor Portrait with Plaid Pinafore",
+    "description": "A professional portrait prompt for a young woman in a cozy indoor setting, highlighting detailed textures and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424057789_ee96e5_HKrBJ1-WcAEc1u4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25451,
+    "content": "A joyful young woman in her late teens or twenties with a soft rounded oval face, {argument name=\"skin tone\" default=\"warm light-medium skin tone\"}, natural skin texture, subtle redness, and visible imperfections, wearing a simple {argument name=\"headscarf color\" default=\"black\"} headscarf wrapped closely around her face. She is taking an extreme close-up smartphone selfie, her face filling nearly the entire frame. One hand is raised above her forehead to shield her eyes from bright sunlight. She wears a genuine closed-mouth smile, with expressive eyes partially closed from the sun, creating a warm, authentic, and approachable presence.\n\nCaptured outdoors on a rooftop or terrace during golden hour, with a clear blue sky, subtle roofline structures, and distant urban silhouettes softly visible in the background. Direct golden-hour sunlight illuminates her face from the front-side angle, creating glowing sun-kissed skin, warm amber highlights, and soft shadows cast by her hand and headscarf.\n\nShot with a front-facing smartphone camera using a wide-angle selfie perspective, deep depth of field, entire face in focus, moderate sharpness, realistic selfie distortion, intimate personal framing, very little negative space. Natural golden-hour color grading with warm tones, golden peach highlights, warm beige skin tones, sky-blue accents, soft coral undertones, and deep black fabric. High realism, minimal retouching, almost no skin smoothing, preserved skin texture, natural clarity, genuine emotion, authentic social media lifestyle portrait, spontaneous candid moment, modern smartphone photography, warm, carefree, optimistic, playful atmosphere.",
+    "title": "Golden Hour Smartphone Selfie with Headscarf",
+    "description": "An ultra-realistic prompt for a smartphone selfie of a young woman in a headscarf during golden hour, emphasizing natural skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424053501_uzct0x_HKqr0h5a0AAqzCy.jpg",
+      "https://cms-assets.youmind.com/media/1781424053674_efoe1b_HKqr1IxbcAAz-A5.jpg",
+      "https://cms-assets.youmind.com/media/1781424053387_v908gr_HKqr1sAaAAAKtaD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25469,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity.\n\nCreate a cinematic aesthetic male portrait collage inspired by the reference image. Make a {argument name=\"layout\" default=\"5-panel editorial layout\"} featuring only me in different stylish poses.\n\nTop left: close-up side profile looking away, soft confident expression, wearing a clean white t-shirt and minimal chain.\nTop right: low-angle portrait looking upward, wearing a black open-collar shirt, relaxed confident vibe.\nBottom center: seated pose on a chair, one hand near face, wearing a black button-up shirt, calm thoughtful expression.\nSide panels: dramatic black-and-white profile shots with fashion magazine style.\n\nKeep my natural hairstyle but enhance it with {argument name=\"hair style\" default=\"textured messy volume\"}. Add cinematic street photography lighting, dark moody tones, high contrast, film grain, subtle scratches, luxury fashion editorial aesthetic.\n\nAdd handwritten typography elements like {argument name=\"text\" default=\"“Never look back”\"} and “Collect moments, not things” in a stylish red and white brush script.\nUltra-realistic photography, professional portrait shoot, 4K detail, Instagram aesthetic.",
+    "title": "Cinematic Male Editorial Collage",
+    "description": "A multi-panel editorial layout prompt for creating a cinematic male portrait collage with specific poses and stylistic typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424062078_3uui2l_HKqTYpLaMAAPYPN.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25311,

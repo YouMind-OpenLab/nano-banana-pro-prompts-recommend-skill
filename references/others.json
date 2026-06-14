@@ -13,6 +13,47 @@
     "needReferenceImages": true
   },
   {
+    "id": 25444,
+    "content": "{argument name=\"subject\" default=\"Urban strawberry garden\"}, anime illustration",
+    "title": "Urban Anime Garden Illustration",
+    "description": "An anime-style prompt for generating scenic illustrations of urban gardens featuring strawberries, suitable for vibrant and artistic environmental concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424050466_347v43_HKsoFZ0XAAA9CG5.png",
+      "https://cms-assets.youmind.com/media/1781424050131_5ttykb_HKsoGTtWsAAYL09.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25452,
+    "content": "A highly detailed cinematic portrait of a beautiful {argument name=\"subject\" default=\"Korean girl\"} standing near a {argument name=\"location\" default=\"crystal-clear river in a peaceful mountain valley\"}. She has soft natural makeup, long silky black hair flowing in the wind, and is wearing a {argument name=\"outfit\" default=\"light elegant summer dress\"}. Surroundings are lush green mountains, misty atmosphere, golden sunlight reflecting on the water, ultra realistic, 8K, shallow depth of field, dreamy and serene mood, soft cinematic lighting, nature photography style.",
+    "title": "Cinematic Korean River Portrait",
+    "description": "A serene, highly detailed portrait of a woman in a mountain valley near a crystal-clear river.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424054728_7tjmik_HKsDxTFXkAA0QXm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25448,
+    "content": "Recreate upload image into a detailed {argument name=\"art type\" default=\"embroidery textile art\"}, needlepoint style, {argument name=\"texture\" default=\"intricate thread texture\"}, visible stitches, yarn colors, cotton fabric backing texture, tactile and cozy feel, artisan craftsmanship.",
+    "title": "Detailed Embroidery Textile Art",
+    "description": "A style-transformation prompt that turns any uploaded image into intricate embroidery textile art with visible thread textures and stitches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424052179_m41qvt_HKro76-awAAhX47.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25455,
+    "content": "A medium close-up, eye-level portrait of a {argument name=\"subject\" default=\"man\"} shown in a three-quarter profile facing right, holding a {argument name=\"accessory\" default=\"distinctive accessory\"}. He has dark messy hair, paired with a dense, sharply groomed full beard. He is wearing thick-rimmed, dark acetate sunglasses, a {argument name=\"outfit\" default=\"tailored matte black blazer\"}, and a deep plum-colored crewneck t-shirt. In his left hand, he holds up an oval, bright yellow mask featuring a simple black smiley face line, circular eye holes backed with black mesh, and realistic, weathered dark scuff marks across the surface. The lighting is soft and natural, emphasizing the textures of his hair and the contours of his profile against a smoothly blurred, neutral-toned outdoor background.",
+    "title": "Man with Smiley Mask Portrait",
+    "description": "A medium close-up portrait of a bearded man holding a weathered yellow smiley face mask.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781424055854_d4yrp3_HKqx-JkaEAAQIAo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25310,
     "content": "Ultra-detailed surrealist portrait painting blending classical romanticism, dreamlike naturalism, and cinematic fantasy realism. Human subjects rendered with graceful realism and poetic elegance, featuring luminous skin, refined anatomy, expressive eyes, and delicate emotional presence. Rich painterly brushwork combined with extraordinary natural textures creates a timeless fine-art aesthetic that feels both realistic and otherworldly.\n\nDeep atmospheric color palette dominated by {argument name=\"primary colors\" default=\"celestial teal, stormy cyan, midnight blue\"}, oxidized turquoise, muted emerald, moonlit silver, and subtle warm amber accents. Dramatic color harmony balances cool environmental tones with warm focal highlights, creating visual tension and emotional depth. Colors feel organically illuminated, as though emerging from a dream or forgotten myth.\n\nMasterful old-world oil painting techniques enhanced by contemporary cinematic rendering. Soft volumetric lighting, atmospheric perspective, glowing edge illumination, delicate color diffusion, and subtle luminous haze create immense depth and visual richness. Every surface contains intricate texture work, layered pigments, soft glazing effects, and nuanced tonal transitions.\nOrganic compositional storytelling inspired by {argument name=\"environment\" default=\"enchanted forests, celestial landscapes\"}, and surreal nature imagery. Flowing botanical forms, twisting branches, floating leaves, atmospheric clouds, and natural decorative elements frame the subject harmoniously. The environment feels alive, immersive, and emotionally symbolic rather than merely realistic.\n\nSkin is rendered with luminous translucency, subtle reflected colors, delicate shadow gradients, and painterly softness. Hair is highly detailed with flowing strands, natural movement, atmospheric highlights, and intricate texture variation. Clothing and surrounding elements exhibit rich tactile detail, balancing realism with artistic interpretation.\nDramatic sky-inspired backgrounds featuring monumental cloud formations, ethereal mist, soft atmospheric glow, painterly depth, and dreamlike environmental storytelling. The entire scene is infused with a sense of wonder, serenity, mystery, and visual poetry.\nMuseum-quality fine-art realism, cinematic fantasy portraiture, romantic surrealism, atmospheric storytelling, masterful oil painting aesthetics, ultra-rich color depth, poetic visual narrative, dreamlike naturalism, elegant composition, extraordinary texture detail, emotionally evocative, timeless masterpiece, gallery-grade artwork.\n\nKeyword:\nsurreal romantic realism, cinematic fantasy portrait, dreamlike naturalism, atmospheric oil painting, celestial color palette, monumental clouds, enchanted nature aesthetics, luminous skin rendering, painterly realism, poetic storytelling, gallery-quality illustration, ultra-detailed fine art, mystical atmosphere, old master painting techniques, visual poetry. -- ar 4:5",
     "title": "Surrealist romantic oil painting",
