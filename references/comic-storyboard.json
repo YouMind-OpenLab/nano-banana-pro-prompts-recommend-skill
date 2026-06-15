@@ -1,5 +1,55 @@
 [
   {
+    "id": 25609,
+    "content": "Location: {argument name=\"location\" default=\"post-apocalyptic desert area\"}\nWeather: {argument name=\"weather\" default=\"night, starry sky\"}\nLighting: {argument name=\"lighting\" default=\"Hollywood blue + bonfire reflections\"}\nEmphasize the rifle's luster, and conversely, suppress the eye highlights slightly.",
+    "title": "Post-Apocalyptic Desert Night Scene",
+    "description": "A detailed scene description for a character in a post-apocalyptic desert at night under a starry sky, with specific lighting instructions for cinematic contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512149538_z1gah3_HKz9tf1WMAAMtzx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25571,
+    "content": "A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward over his bowed forehead in heavy clumps. A full thick dark beard covers his jaw and chin. His face is tilted down at roughly a 45-degree angle, showing mostly the top and side of his head, his powerful thick neck, and broad bare shoulders filling the lower frame. His skin is drenched in rain and sweat, glistening intensely. His face and neck show visible battle damage — multiple small cuts, lacerations, and blood streaks across the forehead, brow, cheek, and shoulder, skin reddened and bruised from impact. Rain falls visibly around him — individual rain streaks caught sharp against the background, hitting his skin and hair and scattering into fine mist. The background is a blurred cool grey-green misty environment — suggesting an outdoor arena, rainy battlefield, or open fight setting — with diffused white light sources creating a hazy atmospheric glow behind him. The lighting is dramatic and cinematic — a cool blue-grey ambient light wraps the scene while a subtle warmer tone catches the skin highlights on the brow ridge, nose, cheekbone, and shoulder. Color palette: deep charcoal black, cool grey-green, muted olive, warm blood-red accents, wet skin highlights. Art style: hyper-realistic dark cinematic concept art or video game cutscene quality — The Last of Us / God of War aesthetic, extreme surface detail on skin, hair, and water, volumetric rain atmosphere, 8K.\nUse the provided face reference image — preserve the exact facial bone structure, nose shape, jawline, beard pattern, skin tone, and overall facial identity of the reference subject. Apply the battle damage, rain, and exhaustion treatment on top while keeping the core facial identity completely recognizable.",
+    "title": "Battle-Worn Fighter Portrait",
+    "description": "A hyper-realistic cinematic prompt for a battle-hardened male fighter drenched in rain and sweat, emphasizing intense surface detail and atmospheric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512130516_mpfwhc_HKzChyXWAAApPcc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25574,
+    "content": "(Face will be provided by uploaded reference image):\n\nA breathtaking cinematic portrait of a {argument name=\"character\" default=\"rugged Old West gunslinger\"}, using the exact facial features, identity, hairstyle, skin tone, and facial structure from the uploaded reference image, standing alone on a dusty frontier street in the fading glow of sunset. His weathered dark-brown leather duster coat flows gently in the desert wind, layered over a finely detailed frontier vest, faded linen shirt, antique gun belt, engraved silver buckle, and worn cowboy boots covered in trail dust. His expression is calm, confident, and legendary, carrying the presence of a man whose name is whispered across frontier towns.\n\nBehind him stretches an authentic 1880s western settlement, lined with wooden saloons, horse stables, trading posts, hitching rails, oil lanterns, wagons, and weather-beaten storefronts. Golden sunlight pours through the street, creating dramatic long shadows across the dusty ground while dust particles drift through the air, illuminated by warm cinematic light. A magnificent chestnut horse waits nearby, saddle decorated with intricate leather craftsmanship and aged brass details.\n\nThe scene feels like a frame from an epic western masterpiece, combining the grandeur of classic frontier cinema with luxury editorial photography. Every detail is rendered with extraordinary realism: authentic leather textures, realistic fabric folds, weathered wood grain, subtle skin texture, visible pores, lifelike eyes, natural facial shadows, and perfectly balanced cinematic color grading. The atmosphere evokes freedom, adventure, mystery, and timeless frontier legend.\n\nUltra-realistic photography, medium-format camera, Hasselblad quality, cinematic western masterpiece, Sergio Leone-inspired composition, dramatic sunset lighting, volumetric sunlight, atmospheric dust, shallow depth of field, ultra-detailed textures, authentic 19th-century frontier styling, rugged masculine elegance, photorealistic skin rendering, award-winning photography, luxury fashion editorial meets Wild West cinema, epic environmental storytelling, masterpiece composition, HDR, global illumination, natural color palette, 8K ultra-detailed, visually stunning, legendary western hero aesthetic.",
+    "title": "Cinematic Wild West Gunslinger",
+    "description": "A cinematic prompt for an Old West gunslinger portrait, focusing on authentic 19th-century textures and dramatic sunset lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512132572_wue46o_HKxIMqLaEAAugWI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25610,
+    "content": "An {argument name=\"subject\" default=\"old astronaut\"} sitting in an {argument name=\"setting\" default=\"old futuristic bar\"}., wide shot, shot on anamorphic 35mm lens, horizontal blue lens flares, Rembrandt lighting, chiaroscuro effect, high contrast shadows, in the visual style of {argument name=\"director style\" default=\"Christopher Nolan\"}, IMAX scale, high contrast tone, cinematic cinematography, highly detailed, photorealistic render, 8k resolution, color graded --ar 21:9",
+    "title": "Old Astronaut in Futuristic Bar",
+    "description": "A cinematic prompt featuring an elderly astronaut in a futuristic bar setting, utilizing anamorphic lenses and dramatic lighting for a Christopher Nolan style output.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512150036_e3ikk3_HKvpMBDX0AE0JHk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25602,
+    "content": "A collection of {argument name=\"subject\" default=\"six white dogs\"} with bold {argument name=\"outline style\" default=\"black outlines\"} are scattered across a plain, bright white background, evenly spaced to create a balanced composition. Each dog is depicted in a different playful pose—running, jumping, rolling over, sitting, wagging its tail, and play-bowing—captured mid-motion for a lively feel. The illustration style is simple and cartoonish with a loose, hand-drawn quality, clean linework, and minimal shading, using only black outlines on white shapes for a crisp, graphic look. The overall {argument name=\"mood\" default=\"lighthearted and cheerful\"}, like sketches from a children’s picture book or a minimalist comic strip.",
+    "title": "Minimalist Dog Sketch Clipart",
+    "description": "A clean, minimalist clipart sheet prompt featuring playful sketches of white dogs with bold black outlines on a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512146488_x5nm62_HKsifYOXwAAWpiM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25446,
     "content": "full body character sheet, front view, side view, back view, {argument name=\"character role\" default=\"Archive Recovery Operative\"}, realistic sci fi, {argument name=\"armor color\" default=\"white and dark gray\"} tactical armor, industrial design, armored trench coat, blue vertical visor helmet, reinforced chest armor, utility belts, retrieval equipment, non military aesthetic, futuristic recovery unit, highly detailed, clean white background, ultra realistic image , realistic, real life.",
     "title": "Archive Recovery Operative Character Sheet",

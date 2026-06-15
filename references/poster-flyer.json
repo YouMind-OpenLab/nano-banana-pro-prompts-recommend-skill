@@ -20,6 +20,83 @@
     "needReferenceImages": false
   },
   {
+    "id": 25578,
+    "content": "masterpiece, realistic photo, landscape, {argument name=\"flower type\" default=\"Low-angle hydrangeas\"}, {argument name=\"background\" default=\"misty peaks\"}, {argument name=\"color palette\" default=\"deep purple\"}, garden path, overcast dawn",
+    "title": "Misty Hydrangea Garden Landscape",
+    "description": "A landscape photography prompt capturing a misty garden path filled with deep purple hydrangeas under an overcast dawn sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512134144_8ino7u_HKze-DzakAAt3kF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25575,
+    "content": "Ultra-realistic photorealistic portrait of {argument name=\"player name\" default=\"[Player Full Name]\"}'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin texture, pores, sweat, realistic football panels and seams, dramatic cinematic lighting, sharp focus, white seamless background, 9:16 aspect ratio, professional studio photography, 4k resolution.",
+    "title": "Soccer Ball Portrait Hybrid",
+    "description": "A creative prompt for generating a hybrid portrait where a player's face is stitched into a soccer ball, featuring realistic leather and skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512132016_ehc2bc_HKyw57BWsAALgCw.jpg",
+      "https://cms-assets.youmind.com/media/1781512132022_yvxm3g_HKyw58OWwAAmZmV.jpg",
+      "https://cms-assets.youmind.com/media/1781512132161_or2jre_HKyw59xXQAA4gOo.jpg",
+      "https://cms-assets.youmind.com/media/1781512132894_bva16c_HKyw5-NW8AAGoBF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25585,
+    "content": "Use face and hair style from attached photo\nsubjec : Photorealistic high-fashion editorial portrait of a {argument name=\"subject\" default=\"beautiful young Asian woman\"} holding a {argument name=\"item\" default=\"ADIDAS TRIONDA 2026 soccer ball\"}\npose: looking to camera from her shoulder\nshoot tecnic: 3/4 body shoot on behid camera dutch style 35° left angle with Nikon D780 85mm f/2.8\nmake up : Slightly pink blush with pink lips looks cute and beautiful\noutfit : random fitted crop top {argument name=\"clothing\" default=\"national team home jersey\"} with the random number Countries that participate in the 2026 World Cup and distressed light blue denim short\nbackground : Dark moody studio background with \"26 FIFA WORLD CUP\" typography illuminated in subtle blue light\nCinematic studio lighting, cool blue rim lighting, gritty cinematic detail, shallow depth of field, sharp focus.",
+    "title": "Asian Woman World Cup Portrait",
+    "description": "A high-fashion editorial portrait prompt that recreates an Asian woman wearing a national team jersey and holding a soccer ball, utilizing reference features for consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512137245_11so2i_HKxy90GagAA906U.jpg",
+      "https://cms-assets.youmind.com/media/1781512137238_7s9ts2_HKxy9z9b0AA4mtM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25586,
+    "content": "A 2x2 grid of four individual realistic portrait photos of {argument name=\"subjects\" default=\"young children\"} wearing official {argument name=\"jersey style\" default=\"national football team jerseys\"} for the {argument name=\"event\" default=\"2026 World Cup\"}. Each panel includes an official-style 2026 World Cup logo in the top corner.\n\n- Top Left: A smiling Afro-Latino boy with curly hair, wearing the yellow Brazil jersey against a dark teal background.\n- Top Right: A young Caucasian boy with short brown hair, looking slightly to the side, wearing the navy blue France jersey against an ochre background.\n- Bottom Left: A laughing young boy with messy brown hair, wearing the red Spain jersey against a blurred stadium background.\n- Bottom Right: A young Caucasian boy with a clean-shaven face and no facial hair, wearing a teal baseball cap backwards and the light blue and white striped Argentina jersey against a plain white background.",
+    "title": "World Cup Children Football Portraits",
+    "description": "Creates a grid of realistic portraits featuring children from various backgrounds wearing official 2026 World Cup jerseys.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512137684_vg1w8q_HKv4Iv0bcAArcxv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25607,
+    "content": "Cyberpunk\non a sign\n{argument name=\"sign text\" default=\"Traces of the Gods\"}",
+    "title": "Cyberpunk Sign with Custom Text",
+    "description": "A cyberpunk-themed prompt that features specific Japanese text appearing on a neon sign, designed for the Nano Banana Pro model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512148956_ybk1ea_HKvz0E7awAAa1jc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25600,
+    "content": "Generates a portrait photos with a {argument name=\"style\" default=\"retro Hong Kong style\"}. The overall style features a negative-like texture, low saturation, noise, and motion blur. Clothing: {argument name=\"outfit\" default=\"Random retro Hong Kong style outfits and accessories\"}. Makeup: Hong Kong retro makeup, primarily using earth tones for eyeshadow. A light brown base is applied across the entire eyelid, then a darker brown is used to intensify the crease. A blackish-brown is blended along the lash line to enhance the eye makeup. The lashes are defined and separated. The lips have a matte finish and a creamy-brown lipstick. Random {argument name=\"setting\" default=\"Hong Kong street scenes\"} with natural poses: turning the head behind the camera, posing, not looking at the camera, looking at the camera, tilting the head back and closing the eyes, etc. The motion blur of the bustling traffic blends seamlessly with the portrait. The aspect ratio is 9:16, with the portrait positioned in the lower half of the image and the scenery in the upper half. Correctly shaped fingers, hands, and limbs are required; distorted or missing shapes are prohibited. Characters should blend seamlessly into the scene and atmosphere, creating a relaxed ambiance. Hair should be flowing in the wind, conveying a travel-like and lifelike feel. Movements and expressions should be healthy and natural. The use of well-known brand logos and trademarks is prohibited.",
+    "title": "Retro Hong Kong Style Portrait",
+    "description": "A detailed photography prompt designed to generate nostalgic Hong Kong street scenes featuring cinematic motion blur and a vintage film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512144932_vwili6_HKvrQM7akAAmkSq.jpg",
+      "https://cms-assets.youmind.com/media/1781512144939_wkq12y_HKvrQWXbUAAmldG.jpg",
+      "https://cms-assets.youmind.com/media/1781512144991_m8truo_HKvrQjaaUAA5hKP.jpg",
+      "https://cms-assets.youmind.com/media/1781512145674_bykffo_HKvrQpxboAALr_O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25602,
+    "content": "A collection of {argument name=\"subject\" default=\"six white dogs\"} with bold {argument name=\"outline style\" default=\"black outlines\"} are scattered across a plain, bright white background, evenly spaced to create a balanced composition. Each dog is depicted in a different playful pose—running, jumping, rolling over, sitting, wagging its tail, and play-bowing—captured mid-motion for a lively feel. The illustration style is simple and cartoonish with a loose, hand-drawn quality, clean linework, and minimal shading, using only black outlines on white shapes for a crisp, graphic look. The overall {argument name=\"mood\" default=\"lighthearted and cheerful\"}, like sketches from a children’s picture book or a minimalist comic strip.",
+    "title": "Minimalist Dog Sketch Clipart",
+    "description": "A clean, minimalist clipart sheet prompt featuring playful sketches of white dogs with bold black outlines on a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512146488_x5nm62_HKsifYOXwAAWpiM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25470,
     "content": "A high-fashion, editorial photography capture of {argument name=\"subjects\" default=\"two elegant models\"} posing against a dramatic architectural backdrop made of large, weathered copper panels. The background features a mix of warm, brushed copper and sections with a green, oxidized verdigris patina. On the left, a model with sleek, slicked-back hair looks over her shoulder at the camera, wearing a sophisticated, floor-length silk satin gown in a {argument name=\"color 1\" default=\"warm champagne gold\"} color with an asymmetrical, structured neckline. On the right, the second model stands on a slightly raised platform, wearing a sleeveless, {argument name=\"color 2\" default=\"rust-orange\"} gown featuring a finely pleated, tiered ruffled skirt that cascades down. She has a classic bob hairstyle and rests her hands gently against the curved copper wall. Lush green Monstera and tropical plants in matching copper planters frame the scene, adding a natural touch. The lighting is warm and cinematic, casting soft shadows and highlighting the rich textures of the fabric and the metallic walls.",
     "title": "Copper Wall High Fashion Gowns",
@@ -429,6 +506,17 @@
     "description": "A fantasy-themed prompt for horse racing visuals using the Nano Banana Pro image model.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780301411549_vwdo1s_HJnCuNoa0AAfJc5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25606,
+    "content": "A bold Neo-Constructivist typographic brand advertisement poster for “{argument name=\"brand name\" default=\"BRAND NAME\"}”. The composition is a full-bleed, portrait-format graphic design piece that fuses extreme typographic-as-architecture with 2 to 3 iconic hero products of {argument name=\"brand name\" default=\"BRAND NAME\"} embedded directly into the layout.\nThe letters of “{argument name=\"brand name\" default=\"BRAND NAME\"}” are massively oversized, fragmented, and cropped at the edges of the frame, functioning as giant abstract geometric building blocks. The letterforms are modular, maze-like, and interlocking — constructed from rounded rectangles, angular channels, and tight negative-space gaps. The entire composition is a strict grid-structured layout divided into rectangular zones.\nHERO PRODUCTS: 2 to 3 of {argument name=\"brand name\" default=\"BRAND NAME\"}’s most iconic, recognizable products are placed within dedicated rectangular grid zones inside the composition. The products are rendered in a flat, high-contrast, graphic illustration style — NOT photographic. They are silhouetted, simplified into bold flat shapes, and colored using only the brand’s official color palette. The products sit inside clearly defined rectangular or square cells within the grid, framed by the surrounding typographic mass. Each product occupies its own zone — one product per cell — with clean hard edges. The products feel architectural and structural, as if they are part of the typographic grid itself, not floating decorations. Examples: for Nike — a side-profile Air Max sneaker silhouette, a jersey, and a sports bag; for Coca-Cola — a glass bottle, a can, and a glass with ice; for Apple — an iPhone, MacBook, and AirPods; for McDonald’s — a burger, fries box, and a drink cup.\nThe products are rendered WITHOUT any background within their cell — just a flat solid brand color fill behind each product silhouette, so they integrate cleanly into the poster’s color system. Product details are reduced to essential bold outlines and flat fill areas — no gradients, no shadows, no photorealism. They should look like vintage product icons or stamp illustrations.\nColor palette is strictly limited to THREE colors from {argument name=\"brand name\" default=\"BRAND NAME\"}’s official brand identity: {argument name=\"primary color\" default=\"PRIMARY COLOR\"} for the dominant typographic mass and letterforms, {argument name=\"accent color\" default=\"SECONDARY COLOR\"} for product silhouettes and the single bold geometric accent shape (a perfect circle or bold stripe), and {argument name=\"background color\" default=\"BACKGROUND COLOR\"} as the deep solid background. All fills are 100% flat. No gradients, no tints, no textures on the products themselves.\nSomewhere along the left or right vertical edge, the brand name “{argument name=\"brand name\" default=\"BRAND NAME\"}” is typeset in large, bold, condensed sans-serif capital letters rotated 90 degrees in the accent color, anchoring the composition as a vertical label. At least one perfect geometric circle in the accent color appears in the upper zone of the composition as a structural element.\nThe overall aesthetic references Soviet Constructivism (Rodchenko, El Lissitzky), 1970s Swiss Internat",
+    "title": "Neo-Constructivist Typographic Brand Poster",
+    "description": "A sophisticated prompt for creating bold, Soviet-style constructivist brand posters using architectural typography and flat product silhouettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512148333_rxd3wg_HJj6_m9a0AAjWS5.jpg",
+      "https://cms-assets.youmind.com/media/1781512148320_mdorhr_HJj6_fSacAA-ImT.jpg"
     ],
     "needReferenceImages": false
   },

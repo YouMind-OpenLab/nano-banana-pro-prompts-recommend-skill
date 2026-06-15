@@ -1,5 +1,25 @@
 [
   {
+    "id": 25609,
+    "content": "Location: {argument name=\"location\" default=\"post-apocalyptic desert area\"}\nWeather: {argument name=\"weather\" default=\"night, starry sky\"}\nLighting: {argument name=\"lighting\" default=\"Hollywood blue + bonfire reflections\"}\nEmphasize the rifle's luster, and conversely, suppress the eye highlights slightly.",
+    "title": "Post-Apocalyptic Desert Night Scene",
+    "description": "A detailed scene description for a character in a post-apocalyptic desert at night under a starry sky, with specific lighting instructions for cinematic contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512149538_z1gah3_HKz9tf1WMAAMtzx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25571,
+    "content": "A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward over his bowed forehead in heavy clumps. A full thick dark beard covers his jaw and chin. His face is tilted down at roughly a 45-degree angle, showing mostly the top and side of his head, his powerful thick neck, and broad bare shoulders filling the lower frame. His skin is drenched in rain and sweat, glistening intensely. His face and neck show visible battle damage — multiple small cuts, lacerations, and blood streaks across the forehead, brow, cheek, and shoulder, skin reddened and bruised from impact. Rain falls visibly around him — individual rain streaks caught sharp against the background, hitting his skin and hair and scattering into fine mist. The background is a blurred cool grey-green misty environment — suggesting an outdoor arena, rainy battlefield, or open fight setting — with diffused white light sources creating a hazy atmospheric glow behind him. The lighting is dramatic and cinematic — a cool blue-grey ambient light wraps the scene while a subtle warmer tone catches the skin highlights on the brow ridge, nose, cheekbone, and shoulder. Color palette: deep charcoal black, cool grey-green, muted olive, warm blood-red accents, wet skin highlights. Art style: hyper-realistic dark cinematic concept art or video game cutscene quality — The Last of Us / God of War aesthetic, extreme surface detail on skin, hair, and water, volumetric rain atmosphere, 8K.\nUse the provided face reference image — preserve the exact facial bone structure, nose shape, jawline, beard pattern, skin tone, and overall facial identity of the reference subject. Apply the battle damage, rain, and exhaustion treatment on top while keeping the core facial identity completely recognizable.",
+    "title": "Battle-Worn Fighter Portrait",
+    "description": "A hyper-realistic cinematic prompt for a battle-hardened male fighter drenched in rain and sweat, emphasizing intense surface detail and atmospheric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781512130516_mpfwhc_HKzChyXWAAApPcc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25446,
     "content": "full body character sheet, front view, side view, back view, {argument name=\"character role\" default=\"Archive Recovery Operative\"}, realistic sci fi, {argument name=\"armor color\" default=\"white and dark gray\"} tactical armor, industrial design, armored trench coat, blue vertical visor helmet, reinforced chest armor, utility belts, retrieval equipment, non military aesthetic, futuristic recovery unit, highly detailed, clean white background, ultra realistic image , realistic, real life.",
     "title": "Archive Recovery Operative Character Sheet",
