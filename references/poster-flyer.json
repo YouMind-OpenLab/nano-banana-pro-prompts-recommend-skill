@@ -20,6 +20,27 @@
     "needReferenceImages": false
   },
   {
+    "id": 25751,
+    "content": "{argument name=\"location\" default=\"Sistine Chapel\"} Michelangelo's \"{argument name=\"work\" default=\"The Last Judgment\"}\"",
+    "title": "Sistine Chapel Last Judgment Style",
+    "description": "Generates an image reminiscent of Michelangelo's masterpiece 'The Last Judgment' in the Sistine Chapel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598287908_sc2ji6_HK20SXsbcAAJp1S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25737,
+    "content": "PHOTO OF A {argument name=\"subject\" default=\"CONFIDENT, ELEGANT WOMAN WEARING A BLACK ZIP-UP JACKET, BLACK FITTED PANTS, AND BLACK LEATHER BOOTS\"}, SITTING RELAXED AND RECLINED ON A {argument name=\"furniture\" default=\"MODERN THIN METAL-FRAME CHAIR IN A MINIMALIST STUDIO\"}. SHE IS LEANING BACK WITH HER LEGS STRETCHED FORWARD, ONE HAND RESTING ON THE CHAIR ARM AND THE OTHER ON HER THIGH, LOOKING TO THE SIDE WITH A CALM, COMPOSED EXPRESSION. {argument name=\"lighting\" default=\"DRAMATIC FULL-SCENE RED LIGHTING\"} ILLUMINATES THE ENTIRE SET, WITH BOTH THE BACKGROUND AND FLOOR BATHED IN AN INTENSE SATURATED RED GLOW. HIGH-CONTRAST CINEMATIC LIGHTING, SUBTLE SHADOWS, ULTRA-REALISTIC DETAILS, SHARP FOCUS, LUXURY EDITORIAL FASHION PHOTOGRAPHY, CLEAN MINIMALIST COMPOSITION, PREMIUM MAGAZINE COVER AESTHETIC, POWERFUL YET SOPHISTICATED PRESENCE, 8K, HYPER-REALISTIC.",
+    "title": "Red Lit Editorial Fashion Portrait",
+    "description": "A high-contrast cinematic fashion portrait of a woman in black attire set against a saturated red studio environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598281685_ys6fxh_HK05zjEasAAfa4Z.jpg",
+      "https://cms-assets.youmind.com/media/1781598281776_4yw327_HK05zjAakAAlC3p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25578,
     "content": "masterpiece, realistic photo, landscape, {argument name=\"flower type\" default=\"Low-angle hydrangeas\"}, {argument name=\"background\" default=\"misty peaks\"}, {argument name=\"color palette\" default=\"deep purple\"}, garden path, overcast dawn",
     "title": "Misty Hydrangea Garden Landscape",

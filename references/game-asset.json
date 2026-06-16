@@ -1,5 +1,26 @@
 [
   {
+    "id": 25753,
+    "content": "Replace {argument name=\"original object\" default=\"the simple arrangement of rectangular parallelepipeds\"} with {argument name=\"new subject\" default=\"a group of buildings\"} while keeping the UI as it is.",
+    "title": "Structural Image Inpainting Prompt",
+    "description": "An image transformation prompt used to replace simple blocks with complex buildings while keeping the UI elements static.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598288853_6wujdv_HK3O0sTa4AAtR04.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25743,
+    "content": "A meticulously detailed steampunk portrait of a {argument name=\"subject\" default=\"young woman\"} shown from the chest up, centered in a vertical composition. She has pale porcelain skin with subtle freckles, striking turquoise-blue eyes, and soft natural makeup. Her hair is a voluminous {argument name=\"hair color\" default=\"pastel pink\"} updo, loosely gathered into an intricate messy bun with wispy strands escaping around her face, creating a delicate yet rebellious appearance. She wears an elaborate brass and bronze mechanical headpiece fused with industrial engineering and Victorian aesthetics. The headgear features polished gears, rivets, miniature lenses, pressure valves, copper tubing, metallic spikes, and a large circular glowing optical device positioned above her forehead, emitting a cool cyan light. A smaller illuminated lens and precision-crafted mechanical components add complexity and realism. A delicate metallic heart-shaped ornament with filigree detailing decorates her cheek. Her outfit consists of a richly textured burgundy leather jacket with a dramatic raised collar, visible stitching, metal studs, buckles, straps, and layered steampunk machinery attached to the shoulder. Brass mechanisms, articulated joints, cables, and engraved metallic plates merge seamlessly with the garment. The lighting is cinematic and atmospheric, combining cool teal ambient illumination with warm copper highlights, emphasizing textures, depth, and reflective surfaces. The background is softly blurred, suggesting the interior of an advanced retro-futuristic airship or industrial laboratory with circular metallic structures and faint machinery silhouettes. Ultra-realistic rendering, extraordinary craftsmanship, razor-sharp focus on the face, shallow depth of field, highly detailed skin texture, premium materials, volumetric lighting, subtle particles floating in the air, masterpiece quality, dramatic mood, luxury steampunk fashion, photorealistic, 8K, HDR, flawless composition",
+    "title": "Steampunk Pastel Pink Portrait",
+    "description": "A highly detailed steampunk portrait of a woman with pastel pink hair and intricate mechanical headgear, set against a retro-futuristic background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598284404_bzlplg_HK2-jJsW0AA9Ny0.jpg",
+      "https://cms-assets.youmind.com/media/1781598283981_zexgyv_HK2-7SPWIAAPlyX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25609,
     "content": "Location: {argument name=\"location\" default=\"post-apocalyptic desert area\"}\nWeather: {argument name=\"weather\" default=\"night, starry sky\"}\nLighting: {argument name=\"lighting\" default=\"Hollywood blue + bonfire reflections\"}\nEmphasize the rifle's luster, and conversely, suppress the eye highlights slightly.",
     "title": "Post-Apocalyptic Desert Night Scene",
@@ -686,6 +707,16 @@
       "https://cms-assets.youmind.com/media/1778915255288_3qpoq7_HIUrm_dXEAALj_H.jpg",
       "https://cms-assets.youmind.com/media/1778915255315_tr6xz0_HIUrnC6WQAApWG9.jpg",
       "https://cms-assets.youmind.com/media/1778915255239_12syby_HIUrnFuWkAAcAug.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25742,
+    "content": "Dark gothic alley at night, wet brick wall and rain-soaked pavement reflecting a dim street lamp. Heavy fog drifts slowly through the alley. A pale elegant vampire woman in a long black coat and dark red dress leans against the wall, motionless and mysterious. Cinematic horror lighting, dramatic shadows, shallow depth of field, ultra-realistic, 35mm film look, film grain, volumetric fog.\nThe camera begins at her black leather boots and performs a slow cinematic vertical dolly shot upward, moving smoothly from her feet → legs → waist → shoulders → lips → eyes. Suspense builds as the camera rises.\nWhen the camera reaches her face, she slowly tilts her head and gives a cold villain smile. Her long sharp vampire fangs slide into view, fresh blood dripping slowly from the tips. Her eyes glow subtly in the darkness.\nShe whispers softly: “Welcome to the night…”\nImmediately after, she lets out a quiet sinister villain laugh as the fog thickens and the lighting darkens.\nThe scene begins to slowly fade to black, while the camera continues pushing forward into an extreme close-up, zooming closer and closer until the camera enters her mouth, ending in darkness.\nStyle keywords: cinematic horror, gothic vampire, slow camera movement, dramatic lighting, suspenseful, photorealistic, moody atmosphere, shallow depth of field, film grain, volumetric fog.",
+    "title": "Gothic Vampire Cinematic Scene",
+    "description": "A dark cinematic horror prompt featuring an elegant vampire in a rainy gothic alley with dramatic lighting and suspenseful transitions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598283531_xe3h1a_HILC3lbXwAAnmHS.jpg"
     ],
     "needReferenceImages": false
   },

@@ -1,5 +1,25 @@
 [
   {
+    "id": 25752,
+    "content": "Greek mythology {argument name=\"person\" default=\"Hercules playing the harp\"} wearing a {argument name=\"decoration\" default=\"laurel wreath\"} on his head",
+    "title": "Mythological Hercules with Harp",
+    "description": "Creates a realistic cinematic image of the Greek hero Hercules playing a harp and wearing a laurel wreath.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598288548_iidrfm_HK4bnpPa0AAUAsN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25749,
+    "content": "A clean professional storyboard sheet on a {argument name=\"background color\" default=\"warm cream background\"}, {argument name=\"style\" default=\"retro 1990s anime style\"}, laid out as a grid of 8 panels (4 per row, 2 rows) with a bold black title header",
+    "title": "90s Retro Anime Storyboard",
+    "description": "Creates a professional storyboard grid in a classic 1990s anime style, perfect for visual narrative planning and character reference sheets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598287304_l4vukg_HK1uuQIakAAh9Z4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25609,
     "content": "Location: {argument name=\"location\" default=\"post-apocalyptic desert area\"}\nWeather: {argument name=\"weather\" default=\"night, starry sky\"}\nLighting: {argument name=\"lighting\" default=\"Hollywood blue + bonfire reflections\"}\nEmphasize the rifle's luster, and conversely, suppress the eye highlights slightly.",
     "title": "Post-Apocalyptic Desert Night Scene",
@@ -1231,6 +1251,16 @@
     "description": "A creative prompt simulating the POV of a fish looking at an approaching whale through a fisheye lens.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1778743488433_79lpv1_HILzCxFXQAAGNKO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25742,
+    "content": "Dark gothic alley at night, wet brick wall and rain-soaked pavement reflecting a dim street lamp. Heavy fog drifts slowly through the alley. A pale elegant vampire woman in a long black coat and dark red dress leans against the wall, motionless and mysterious. Cinematic horror lighting, dramatic shadows, shallow depth of field, ultra-realistic, 35mm film look, film grain, volumetric fog.\nThe camera begins at her black leather boots and performs a slow cinematic vertical dolly shot upward, moving smoothly from her feet → legs → waist → shoulders → lips → eyes. Suspense builds as the camera rises.\nWhen the camera reaches her face, she slowly tilts her head and gives a cold villain smile. Her long sharp vampire fangs slide into view, fresh blood dripping slowly from the tips. Her eyes glow subtly in the darkness.\nShe whispers softly: “Welcome to the night…”\nImmediately after, she lets out a quiet sinister villain laugh as the fog thickens and the lighting darkens.\nThe scene begins to slowly fade to black, while the camera continues pushing forward into an extreme close-up, zooming closer and closer until the camera enters her mouth, ending in darkness.\nStyle keywords: cinematic horror, gothic vampire, slow camera movement, dramatic lighting, suspenseful, photorealistic, moody atmosphere, shallow depth of field, film grain, volumetric fog.",
+    "title": "Gothic Vampire Cinematic Scene",
+    "description": "A dark cinematic horror prompt featuring an elegant vampire in a rainy gothic alley with dramatic lighting and suspenseful transitions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598283531_xe3h1a_HILC3lbXwAAnmHS.jpg"
     ],
     "needReferenceImages": false
   },

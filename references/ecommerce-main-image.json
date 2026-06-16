@@ -1,5 +1,39 @@
 [
   {
+    "id": 25750,
+    "content": "Ultra-realistic street fashion portrait of a young woman with {argument name=\"hair color\" default=\"long straight copper-red hair\"} standing on a city sidewalk in front of a modern boutique storefront. She wears {argument name=\"summer outfit\" default=\"a black baseball cap, a fitted white ribbed tank top layered over a pastel mint-and-cream striped camisole, and relaxed striped summer shorts in soft pastel tones\"}. Holding a pair of blue-tinted sunglasses in both hands while carrying a {argument name=\"bag description\" default=\"cream-and-forest-green designer duffel bag\"}. Natural makeup, luminous skin, soft pink lips, and a calm confident expression. Contemporary lifestyle aesthetic, casual summer fashion, clean girl style, premium streetwear lookbook. Behind her is a stylish design store with large glass windows, warm interior lighting, minimalist home decor displays, clothing racks, and modern retail architecture. Soft natural daylight, realistic reflections on glass, authentic urban atmosphere, photorealistic skin texture, editorial fashion photography, premium lifestyle campaign, highly detailed, luxury shopping district aesthetic, 8K quality.",
+    "title": "Urban Summer Streetwear Fashion Portrait",
+    "description": "A highly detailed prompt for creating professional street style fashion photography featuring a young woman with copper-red hair in an urban boutique setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598285395_z67ocw_HK3S0PabQAAlbl3.jpg",
+      "https://cms-assets.youmind.com/media/1781598286941_fkh5si_HK3S0PQbYAA0SNG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25740,
+    "content": "An ultra-premium cinematic advertisement for {argument name=\"brand\" default=\"Nano Banana Pro\"}. A luxurious golden tea cup sits elegantly beneath a flowing river-fed water tap in a pristine mountain stream. Crystal-clear water pours into the cup in slow motion, creating mesmerizing splashes and sparkling droplets. The {argument name=\"logo\" default=\"Nano Banana Pro logo\"} is subtly engraved on the cup, glowing with a warm golden light. Surrounded by smooth river stones, lush greenery, and misty morning atmosphere. Dramatic cinematic lighting, volumetric sun rays, hyper-realistic water physics, macro details, luxury product-commercial style, shallow depth of field, 8K HDR, photorealistic textures, high-end brand campaign, slow-motion splash effects, reflections on polished metal, award-winning advertising photography, cinematic color grading, masterpiece quality, ultra-detailed.",
+    "title": "Luxury Golden Tea Cup Mountain Stream",
+    "description": "A luxury brand campaign prompt featuring a golden tea cup in a pristine mountain stream with slow-motion water physics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598282809_b9o11n_HK2lbBfXEAEQzqt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25738,
+    "content": "A premium {argument name=\"confectionery\" default=\"golden toffee\"} suspended in mid air above a mirror polished black surface, the moment of impact creating an enormous explosion of {argument name=\"liquid\" default=\"molten caramel, liquid gold splashing outward in slow motion\"}, thousands of sparkling sugar crystals floating through the air like diamonds, {argument name=\"lighting\" default=\"dramatic studio lighting\"}, ultra realistic textures, luxury confectionery advertisement, cinematic depth of field, macro photography, hyper detailed reflections, 16K masterpiece, food photography award winner.",
+    "title": "Exploding Molten Caramel Confectionery",
+    "description": "A high-end food advertisement prompt depicting a golden toffee impact with liquid gold splashes and sugar crystals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598281138_6ys9f7_HK2Msh7asAAHf3-.jpg",
+      "https://cms-assets.youmind.com/media/1781598281193_wqpgqr_HK2Msh0bMAAsiG3.jpg",
+      "https://cms-assets.youmind.com/media/1781598281449_mhw9oi_HK2Msh6bUAAD5wE.jpg",
+      "https://cms-assets.youmind.com/media/1781598281755_5f8bjs_HK2Mshyb0AA8G8X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25292,
     "content": "Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a luxury walk-in closet. OUTFIT: {argument name=\"dress\" default=\"Satin emerald green slip dress\"}. PROP: Holding a {argument name=\"phone\" default=\"Titanium iPhone 17 Pro Max\"} with triple-lens detail visible. POSE: Standing in front of a mirror, subtle smile, one hand on the hip. LIGHTING: normal, BACKGROUND: Designer bags and soft-lit shelves. CAMERA: Mobile photography style, sharp focus. IMAGE QUALITY: 8K, realistic skin.",
     "title": "Luxury Mirror Selfie Portrait",

@@ -41,6 +41,80 @@
     "needReferenceImages": false
   },
   {
+    "id": 25755,
+    "content": "A young woman with {argument name=\"hair style\" default=\"long, dark wavy hair\"} takes a selfie in a white-tiled bathroom, smiling softly with a {argument name=\"face mask\" default=\"green clay face mask\"} applied to her cheeks, forehead, and chin (lips left bare and glossy). A {argument name=\"sticker\" default=\"pink hibiscus flower digital sticker\"} is placed near her ear/hair. She wears a plain white crew-neck t-shirt, lit by soft natural window light from the left, with subway tile walls and a mirror visible in the background.",
+    "title": "Clay Face Mask Bathroom Selfie",
+    "description": "A detailed prompt for generating a realistic selfie of a woman wearing a green clay face mask in a bathroom setting, featuring soft natural lighting and a digital sticker.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598289533_6y5tp4_HK69_GwaoAAPmQR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25736,
+    "content": "A straight-on medium shot features a {argument name=\"subject\" default=\"young Caucasian man\"} with striking, model-like facial features, standing confidently outdoors in front of a large, {argument name=\"background\" default=\"modern white yacht docked in a marina\"}. He wears a {argument name=\"clothing\" default=\"sheer, lightweight light blue linen shirt unbuttoned at the collar, casually tucked into loose-fitting, white, flowy cotton trousers\"} that have a slightly crumpled texture. The man sports dark sunglasses. Both hands are tucked into his pockets, and he gives a relaxed, confident demeanor. The setting includes calm blue-green water, a concrete dock, a dramatic sky filled with cumulus clouds, and distant hills dusted with greenery. The lighting is bright and natural, casting strong shadows and making the scene feel leisurely and summery. The color palette is dominated by soft whites, pale blues, and aqua tones. The image appears to be a sharp, high-resolution digital photograph with minimal distortion and deep focus, contributing to the upscale, aspirational, and carefree mood.",
+    "title": "Aspirational Marina Yacht Portrait",
+    "description": "An upscale, high-resolution digital photograph of a man standing in front of a modern yacht at a marina under natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598280735_61kgh7_HK4Tz5AX0AA4SVL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25747,
+    "content": "A candid, serious profile shot of a {argument name=\"subject\" default=\"male subject\"} leaning casually into the left side of the frame, his relaxed posture supported by shoulders angled naturally. His hair is meticulously styled with three to four inches on top blending into a sharp tapered fade on the sides and back, held in place by a medium-hold pomade that catches subtle highlights along natural comb lines, while a few slight, organic flyaways escape at the crown. He is dressed in a {argument name=\"clothing\" default=\"black long-sleeve knit shirt and cream trousers\"}, his face partially shielded by translucent-frame sunglasses as he gazes away with a neutral, relaxed expression. His left hand rests organically on the top edge of a glass railing with the wrist slightly bent, while his right hand rests comfortably beside it with gently curled fingers adorned by a gold link bracelet and two gold rings. He leans against a pristine, warm gray matte concrete walkway ledge dotted with thriving, manicured green shrubs, observing the deep spatial expanse of the scene before him. In the pristine teal-blue midground waterway, a moving speedboat carves a white wake beneath a red and white flag, passing an anchored, weathered traditional brown wooden dhow with white trim on the right. The background rises majestically into a dominant {argument name=\"building\" default=\"red terracotta high-rise building\"} characterized by distinctive tiered architecture and geometric windows, flanked by various sand-colored resort structures. The serene and contemplative urban evening is bathed in soft, diffused, single-source light cascading neutrally from above, casting short, soft-edged gray shadows gently beneath his jawline and arms while catching delicate highlights on the sheen of his hair product, sunglass frames, and the rippling water below. The cool, moderately saturated split-complementary color palette beautifully contrasts the deep black of his knitwear against the sweeping teal water, warm terracotta skyline, and warm beige accents. Captured straight-on via crisp digital photography using a 50mm lens at f/4.0, ISO 400, and a 1/250s shutter speed to achieve a medium depth of field and tack-sharp focus with a whisper of realistic digital noise, the image is refined by a modern luxury lifestyle aesthetic featuring subtle teal and orange color grading, gently lifted shadows, and clean natural skin retouching, all framed in a 9:16 aspect ratio.",
+    "title": "Urban Waterfront Male Portrait",
+    "description": "A complex prompt for a realistic profile photo of a man leaning on a railing by a waterway with a terracotta high-rise background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598286112_a6qbm1_HK3q2CUWwAAikKv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25739,
+    "content": "Ultra-realistic flash photography portrait of a young {argument name=\"hair color\" default=\"blonde\"} woman standing in a cozy bedroom at night. Extremely long straight platinum-blonde hair, silky texture, center part, holding sections of her hair out to both sides playfully. Soft pink lips, clear blue eyes, natural makeup, luminous skin with realistic texture and subtle blush. Wearing a matching cream-colored floral lounge set consisting of a fitted long-sleeve cropped cardigan and high-waisted shorts with delicate tiny flower prints. Layered gold necklaces with a small cross pendant. Direct flash aesthetic creating crisp shadows and a candid early-2000s digital camera vibe. Modern bedroom with {argument name=\"wall color\" default=\"sage-green\"} walls, white plantation shutters, wooden nightstand, skincare products, hairbrush, and personal items visible in the background. Authentic bedroom selfie atmosphere, lifestyle photography, realistic skin texture, casual home aesthetic, photorealistic, highly detailed, social media influencer style, premium lifestyle campaign.",
+    "title": "Blonde Bedroom Flash Portrait",
+    "description": "A realistic flash photography prompt for a young woman in a cozy bedroom setting, capturing a candid early-2000s digital camera aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598281762_1iznr3_HK3bnFZbUAAULeB.jpg",
+      "https://cms-assets.youmind.com/media/1781598282207_el5taw_HK3bnFZbgAANAub.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25754,
+    "content": "Imitating a {argument name=\"subject\" default=\"model\"} from a favorite {argument name=\"medium\" default=\"magazine\"}",
+    "title": "Magazine Model Portrait Style",
+    "description": "A prompt designed to recreate the look and feel of a favorite magazine model's portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598288445_z8fcg2_HK2PvnLa4AA4nrI.jpg",
+      "https://cms-assets.youmind.com/media/1781598288493_c3zfdi_HK2PvnNaoAAFpVu.jpg",
+      "https://cms-assets.youmind.com/media/1781598288491_opfhw6_HK2PvnLbQAAQ45K.jpg",
+      "https://cms-assets.youmind.com/media/1781598289045_l9j9zo_HK2Pvmia4AAAKB_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25745,
+    "content": "A handsome male in his {argument name=\"age\" default=\"mid-30s\"} with an athletic build stands in a confident, deliberately posed stance, his direct gaze meeting the lens with a sophisticated, neutral expression. His {argument name=\"hair description\" default=\"medium-length, wavy brown hair\"} is pushed back, revealing natural texture and subtle strands caught in the sun. He is dressed in casual elegance, wearing {argument name=\"outfit\" default=\"a fitted, dark charcoal grey button-down shirt with rolled-up sleeves, sharply tailored bright white trousers, and tan suede slip-on loafers\"}. His body is gently angled, weight resting comfortably to the left as his right shoulder leans against a massive stone structure, with one leg casually crossed over the other at the ankle. Both hands are relaxed in front of his waist, loosely clasping the left and right sides of a pair of dark sunglasses, with his fingers lightly gripping the frame. He is anchored in an ancient Mediterranean historical site, specifically leaning against a dominant, highly weathered square pillar in the left foreground constructed of large, irregular, porous grey stone blocks complete with deeply pitted surfaces and visible rough masonry joints. The mid-level spatial depth reveals an earthy tan and brown floor of irregular cobblestones and flat stone slabs. To the right midground sits a worn, rectangular cut-stone block bench with subtle panel details, and just behind it, a classic aged stone archway frames a brightly sunlit, heavily textured interior wall crafted from raw stone and plaster. The scene is bathed in hard, highly directional natural sunlight cascading from the front-left and slightly elevated, creating a warm, energetic, and sun-drenched atmosphere. This intense, golden single-source light sculpts high-contrast, harsh-edged, deep black shadows, deliberately casting the man's silhouette directly onto the rough stone pillar behind his right side and across the cobblestone ground. Bright, preserved highlights strike his left cheek, his left shoulder, the crisp folds of his white trousers, and the vivid ochre and yellow-orange textured earth of the distant arched wall, establishing a split-complementary palette that beautifully contrasts the cool stone greys with warm, vibrant accents. Captured as a photorealistic, tack-sharp digital editorial travel lifestyle portrait using a 50mm lens with a deep depth of field, ensuring both the subject and the architectural background remain perfectly in focus. The aesthetic features a high contrast curve to emphasize the dramatic interplay of hard light and deep shadow, along with a saturation boost on the warm golden and ochre tones to create distinct color separation and emphasize the raw, porous textures of the masonry and clothing fabrics, all perfectly framed in a 4:5 aspect ratio.",
+    "title": "Mediterranean Historic Site Male Portrait",
+    "description": "A comprehensive prompt for a high-contrast, sun-drenched editorial portrait of a man leaning against ancient stone architecture in a Mediterranean setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598285118_k9ao9u_HK1sFciW4AAEQ3I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25746,
+    "content": "Use the provided face reference as strict identity guidance. Exact facial resemblance to the reference image, identity locked. Same eye shape, same eyelids, same nose bridge, same nose tip, same lip shape, same jawline, same chin, same facial proportions. No facial modification, no beautification, no face morphing. Facial accuracy is the highest priority. Hair: {argument name=\"hair color\" default=\"Very long, straight dark chocolate brown hair\"}. Naturally falls over both shoulders and chest. Slightly messy with random loose strands across the face. Pose & Expression (ULTRA STRICT — MUST MATCH EXACTLY): Recreate the exact body position from the reference image: Upper body rotated about 30–45 degrees, Left shoulder slightly forward, Head tilted slightly toward the left side, Chin slightly lowered, Eyes looking directly into camera. Expression: Closed lips, slightly pressed/pouty, Corners of lips subtly downturned, Relaxed, calm, slightly shy expression. Arms & Cat Position: One arm wrapped under the cat’s body for support, The other hand gently holding the cat from the side/front, Cat positioned slightly to the right side of frame, Cat slightly blurred due to motion. Lighting: Night indoor setting. Soft frontal light focused on face, Background darker and dim, Soft bloom/glow concentrated on face only. Image Style: Low-resolution, heavily blurred, grainy snapshot. Slight motion blur, Visible noise and compression artifacts. Background: {argument name=\"indoor location\" default=\"Dark, warm indoor apartment at night\"}. Ceiling, AC vent, curtains barely visible and heavily blurred. Clothing: {argument name=\"clothing\" default=\"White tank top, thin straps\"}, texture lost due to blur. Overall Feel: Candid, imperfect, intimate night snapshot. Exact pose replication, soft pout expression, dreamy low-fi aesthetic.",
+    "title": "Low-Fi Candid Night Snapshot with Cat",
+    "description": "A detailed instruction set for replicating a specific pose and face from a reference image to create a dreamy, low-resolution night snapshot of a woman holding a cat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781598285404_o3du5z_HK1lMsCbcAAKsGB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25578,
     "content": "masterpiece, realistic photo, landscape, {argument name=\"flower type\" default=\"Low-angle hydrangeas\"}, {argument name=\"background\" default=\"misty peaks\"}, {argument name=\"color palette\" default=\"deep purple\"}, garden path, overcast dawn",
     "title": "Misty Hydrangea Garden Landscape",
