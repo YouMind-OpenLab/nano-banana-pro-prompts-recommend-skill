@@ -21,6 +21,58 @@
     "needReferenceImages": true
   },
   {
+    "id": 25858,
+    "content": "Ultra-realistic elegant dinner portrait of a {argument name=\"subject\" default=\"woman\"} seated in a {argument name=\"setting\" default=\"luxurious restaurant booth\"}, refined beauty, flawless porcelain skin with natural glow, sophisticated updo hairstyle with soft face-framing strands, delicate makeup, expressive eyes, subtle pink blush, glossy lips, wearing a {argument name=\"outfit\" default=\"strapless champagne-beige dress\"}, sparkling earrings, luxury bracelet, graceful pose with hand near face, warm ambient restaurant lighting, wooden interior, wine glass on the table, intimate fine-dining atmosphere, true-to-life color palette, realistic skin texture, detailed eyes, authentic reflections on glassware, cinematic depth of field, professional DSLR photography, photorealistic, ultra-detailed, natural shadows, high-end fashion editorial style, realistic highlights, 8k resolution, sharp focus.",
+    "title": "Elegant Fine Dining Portrait",
+    "description": "A high-end fashion editorial prompt for a woman in a strapless champagne dress at a luxurious restaurant, with cinematic depth and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684776653_ea8ywf_HK9ZvxPaYAAOJIC.jpg",
+      "https://cms-assets.youmind.com/media/1781684775491_uj9na9_HK9ZwGLbQAEVJEZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25861,
+    "content": "Ultra-realistic summer beach portrait of a young woman with long wavy copper-red hair standing beneath a wooden beach pavilion during golden hour. Wearing a wide-brim woven straw sunhat with a decorative bow, small gold hoop earrings, delicate bracelets, and a subtle gold necklace. She wears a red-and-white gingham camisole with lace trim layered beneath light-wash denim overalls worn with one strap casually undone. Warm smile, natural freckles, luminous skin, soft natural makeup, and bright expressive eyes. Behind her are stacked blue surfboards, white sand dunes, beach grass, and a sunlit coastline. Golden-hour sunlight creates warm highlights in her hair and soft shadows across the scene. Coastal cottage aesthetic, beach vacation fashion, lifestyle editorial photography, realistic skin texture, photorealistic, highly detailed, premium travel campaign, wholesome summer atmosphere, natural color grading, 8K quality. Style: photorealistic. Camera: full-frame mirrorless, 50mm lens, f/2.0 aperture, ISO 100, eye-level lifestyle portrait, shallow depth of field. Lighting: golden hour natural sunlight, soft front-side illumination, warm, cheerful, coastal summer mood. Composition: vertical portrait framing, subject centered beneath beach pavilion, background with blue surfboards, sandy beach, dunes, and oceanfront scenery. Quality: 8k resolution, ultra high detail, maximum realism. Negative prompt: blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, malformed hands, duplicate surfboards, cluttered background, overexposed highlights, harsh shadows, noisy image.",
+    "title": "Golden Hour Beach Portrait",
+    "description": "A warm, photorealistic prompt for a woman at the beach during golden hour, wearing gingham and denim near a surfboard display.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684777685_0cvi0o_HK84hnDaYAAecds.jpg",
+      "https://cms-assets.youmind.com/media/1781684777657_uw2dhc_HK84hnEaIAAoZHW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25863,
+    "content": "A creative full-body lifestyle portrait of an athletic model sitting inside a metal shopping cart overflowing with bright yellow tennis balls. The model is wearing a {argument name=\"brand\" default=\"Nike\"} {argument name=\"clothing color\" default=\"fluorescent green\"} tank top and matching shorts, creating a strong, high-contrast pop against the surroundings. The model is leaning back comfortably in the cart with a {argument name=\"expression\" default=\"calm, neutral, slightly serious expression\"}, lips closed, no smile, conveying a relaxed but confident mood. The scene is set on a professional vivid blue concrete tennis court with sharp white lines under a clear, bright blue sky. A tennis racket is leaning against the side of the shopping cart, and several more tennis balls are scattered across the court surface. In the background, there are blurred tennis court bleachers and green trees. Lighting is bright, direct natural sunlight, creating crisp shadows and strong highlights. Color grading is vibrant and punchy, with high saturation, strong contrast, and clean color separation. Shot with a 35mm lens for a natural perspective, f/2.8 aperture to slightly blur the background while keeping the model and the cart in sharp focus. High-resolution photography, athletic fashion style, high energy, commercial sports editorial vibe. Negative prompts: desaturated colors, muted tones, flat lighting, low contrast, washed out colors, cinematic dull grading, pastel tones, smile, smiling, open-mouth smile",
+    "title": "Tennis Court Lifestyle Portrait",
+    "description": "A high-contrast, vibrant lifestyle portrait of an athletic model in a unique setting surrounded by yellow tennis balls.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684778297_n2trjk_HK8hRwUXQAA0NTp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25871,
+    "content": "a rectangular shaped vacuum sealed transparent plastic bag, studio product shot, filled tightly with {argument name=\"object\" default=\"soft squishy neoprene kitten-shaped toys\"}, on a {argument name=\"background\" default=\"solid black background\"}, some kitten toys clearly visible and pressed against the plastic while others are distorted and squished deeper inside the bag, subtle reflections and highlights on the plastic surface, high detail, sharp focus, dramatic softbox lighting emphasizing textures and depth",
+    "title": "Vacuum Sealed Toy Photography",
+    "description": "A studio product shot of soft toys packed inside a vacuum-sealed plastic bag, emphasizing realistic textures and reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684782153_2vzpgr_HK7T3TTXUAACV9f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25873,
+    "content": "A {argument name=\"subject\" default=\"beautiful young woman\"} with an intense yet soft gaze looking directly into the camera. Pose: The photo is taken from a top-down overhead angle (flat lay perspective). The woman is lying on her back in a {argument name=\"setting\" default=\"lush green meadow filled with small white daisy flowers\"}. Her long, thick, healthy wavy black hair is spread widely around her, decorated with several real daisy flowers carefully placed throughout her hair for an aesthetic touch. Expression & Hands: Her facial expression is calm, elegant, and confident. One hand rests gracefully on her stomach, while the other is slightly raised near her chest, gently holding a small daisy flower with perfectly natural, anatomically correct hand positioning. Outfit: She is wearing a {argument name=\"clothing\" default=\"premium satin halter-neck dress in soft pastel yellow (pale lime tone)\"}. The fabric has a luxurious silk sheen that softly reflects light, highlighting smooth folds and an expensive, high-end texture. Accessories: She wears small minimalist sparkling earrings visible on the left ear, partially hidden by her hair, and an elegant thin gold bracelet on her left wrist. Environment & Props: Background: A rich green meadow filled with hundreds of small white daisies with yellow centers growing naturally. Additional props: At the upper right side of the subject, there is a premium woven straw tote bag with dark brown leather straps and a white fabric lining. Near the bag lies a fresh bouquet of pink roses and complementary flowers, enhancing a luxurious haute couture picnic aesthetic. Lighting & Technical Quality: Soft natural daylight evenly illuminates the scene, creating a natural glow on the face without harsh shadows. A subtle rim light defines the contours of the body and hair, elegantly separating her from the grassy background. High-fashion editorial photography style, shot with an 85mm lens for sharp yet natural portrait detail. Ultra-realistic skin texture showing fine pores, soft blush on the cheeks, and precise winged eyeliner makeup without any CGI look. The image has cinematic shallow depth of field, ultra-high clarity (8K resolution), and a subtle fine analog film grain for a premium, elegant aesthetic.",
+    "title": "Haute Couture Picnic Portrait",
+    "description": "An elegant top-down editorial shot of a woman lying in a daisy meadow, featuring high-fashion styling and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684783221_vwh1r9_HK7cgICboAExyTQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25736,
     "content": "A straight-on medium shot features a {argument name=\"subject\" default=\"young Caucasian man\"} with striking, model-like facial features, standing confidently outdoors in front of a large, {argument name=\"background\" default=\"modern white yacht docked in a marina\"}. He wears a {argument name=\"clothing\" default=\"sheer, lightweight light blue linen shirt unbuttoned at the collar, casually tucked into loose-fitting, white, flowy cotton trousers\"} that have a slightly crumpled texture. The man sports dark sunglasses. Both hands are tucked into his pockets, and he gives a relaxed, confident demeanor. The setting includes calm blue-green water, a concrete dock, a dramatic sky filled with cumulus clouds, and distant hills dusted with greenery. The lighting is bright and natural, casting strong shadows and making the scene feel leisurely and summery. The color palette is dominated by soft whites, pale blues, and aqua tones. The image appears to be a sharp, high-resolution digital photograph with minimal distortion and deep focus, contributing to the upscale, aspirational, and carefree mood.",
     "title": "Aspirational Marina Yacht Portrait",

@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 25862,
+    "content": "A cinematic close-up portrait capturing a calm and introspective mood. Soft {argument name=\"lighting\" default=\"blue-gray\"} lighting highlights her glowing skin, refined facial features, and elegant {argument name=\"makeup\" default=\"Douyin-inspired\"} makeup. Long {argument name=\"hair color\" default=\"ash-brown\"} hair with natural loose strands frames her face beautifully, while the navy-blue shirt and white AirPods add a modern, sophisticated touch. The ultra-realistic details, cool color grading, and emotional atmosphere create a timeless and visually captivating portrait.",
+    "title": "Introspective Cinematic Portrait",
+    "description": "A cinematic close-up portrait designed to capture a calm and introspective mood with elegant makeup and sophisticated lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684777944_5hbdqa_HK6WE9AW4AAwdIQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25739,
     "content": "Ultra-realistic flash photography portrait of a young {argument name=\"hair color\" default=\"blonde\"} woman standing in a cozy bedroom at night. Extremely long straight platinum-blonde hair, silky texture, center part, holding sections of her hair out to both sides playfully. Soft pink lips, clear blue eyes, natural makeup, luminous skin with realistic texture and subtle blush. Wearing a matching cream-colored floral lounge set consisting of a fitted long-sleeve cropped cardigan and high-waisted shorts with delicate tiny flower prints. Layered gold necklaces with a small cross pendant. Direct flash aesthetic creating crisp shadows and a candid early-2000s digital camera vibe. Modern bedroom with {argument name=\"wall color\" default=\"sage-green\"} walls, white plantation shutters, wooden nightstand, skincare products, hairbrush, and personal items visible in the background. Authentic bedroom selfie atmosphere, lifestyle photography, realistic skin texture, casual home aesthetic, photorealistic, highly detailed, social media influencer style, premium lifestyle campaign.",
     "title": "Blonde Bedroom Flash Portrait",

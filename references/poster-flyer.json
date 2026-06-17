@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 25860,
+    "content": "Ultra aesthetic streetwear girl collage poster, black and gray moody background, three different poses (selfie pose, back pose, sitting pose), {argument name=\"top\" default=\"oversized white jersey shirt\"}, {argument name=\"bottom\" default=\"gray cargo pants\"}, black sunglasses, {argument name=\"accessory\" default=\"gray cap\"}, long black hair, soft white skin, trendy Korean fashion, dark urban atmosphere, glowing orange HUD elements, floating typography, cinematic lighting, depth of field, luxury street style, high contrast, TikTok edit style, CapCut template aesthetic, premium poster design, photorealistic, ultra detailed, 9:16 vertical composition.",
+    "title": "Urban Streetwear Girl Collage",
+    "description": "An aesthetic streetwear collage prompt featuring three different poses against a moody urban background with HUD elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684776943_oghr3h_HK6gnyGbcAAksDm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25751,
     "content": "{argument name=\"location\" default=\"Sistine Chapel\"} Michelangelo's \"{argument name=\"work\" default=\"The Last Judgment\"}\"",
     "title": "Sistine Chapel Last Judgment Style",

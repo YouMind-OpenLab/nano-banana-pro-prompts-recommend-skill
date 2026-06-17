@@ -41,12 +41,168 @@
     "needReferenceImages": false
   },
   {
+    "id": 25875,
+    "content": "{argument name=\"style\" default=\"Cyberpunk\"} Look at the sign! {argument name=\"sign text\" default=\"Vested interests = critical condition?\"}",
+    "title": "Cyberpunk Signboard Social Commentary",
+    "description": "A cyberpunk-themed prompt used with Nano Banana Pro to create imagery featuring specific text on a sign, reflecting on social or political themes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684783946_dguk36_HK-JdzbbcAAyT1X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25858,
+    "content": "Ultra-realistic elegant dinner portrait of a {argument name=\"subject\" default=\"woman\"} seated in a {argument name=\"setting\" default=\"luxurious restaurant booth\"}, refined beauty, flawless porcelain skin with natural glow, sophisticated updo hairstyle with soft face-framing strands, delicate makeup, expressive eyes, subtle pink blush, glossy lips, wearing a {argument name=\"outfit\" default=\"strapless champagne-beige dress\"}, sparkling earrings, luxury bracelet, graceful pose with hand near face, warm ambient restaurant lighting, wooden interior, wine glass on the table, intimate fine-dining atmosphere, true-to-life color palette, realistic skin texture, detailed eyes, authentic reflections on glassware, cinematic depth of field, professional DSLR photography, photorealistic, ultra-detailed, natural shadows, high-end fashion editorial style, realistic highlights, 8k resolution, sharp focus.",
+    "title": "Elegant Fine Dining Portrait",
+    "description": "A high-end fashion editorial prompt for a woman in a strapless champagne dress at a luxurious restaurant, with cinematic depth and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684776653_ea8ywf_HK9ZvxPaYAAOJIC.jpg",
+      "https://cms-assets.youmind.com/media/1781684775491_uj9na9_HK9ZwGLbQAEVJEZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25861,
+    "content": "Ultra-realistic summer beach portrait of a young woman with long wavy copper-red hair standing beneath a wooden beach pavilion during golden hour. Wearing a wide-brim woven straw sunhat with a decorative bow, small gold hoop earrings, delicate bracelets, and a subtle gold necklace. She wears a red-and-white gingham camisole with lace trim layered beneath light-wash denim overalls worn with one strap casually undone. Warm smile, natural freckles, luminous skin, soft natural makeup, and bright expressive eyes. Behind her are stacked blue surfboards, white sand dunes, beach grass, and a sunlit coastline. Golden-hour sunlight creates warm highlights in her hair and soft shadows across the scene. Coastal cottage aesthetic, beach vacation fashion, lifestyle editorial photography, realistic skin texture, photorealistic, highly detailed, premium travel campaign, wholesome summer atmosphere, natural color grading, 8K quality. Style: photorealistic. Camera: full-frame mirrorless, 50mm lens, f/2.0 aperture, ISO 100, eye-level lifestyle portrait, shallow depth of field. Lighting: golden hour natural sunlight, soft front-side illumination, warm, cheerful, coastal summer mood. Composition: vertical portrait framing, subject centered beneath beach pavilion, background with blue surfboards, sandy beach, dunes, and oceanfront scenery. Quality: 8k resolution, ultra high detail, maximum realism. Negative prompt: blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, malformed hands, duplicate surfboards, cluttered background, overexposed highlights, harsh shadows, noisy image.",
+    "title": "Golden Hour Beach Portrait",
+    "description": "A warm, photorealistic prompt for a woman at the beach during golden hour, wearing gingham and denim near a surfboard display.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684777685_0cvi0o_HK84hnDaYAAecds.jpg",
+      "https://cms-assets.youmind.com/media/1781684777657_uw2dhc_HK84hnEaIAAoZHW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25869,
+    "content": "{\n  \"prompt\": \"A photorealistic portrait of a beautiful young woman in her early 20s with shoulder-length straight reddish-brown hair parted in the middle, fair skin, subtle makeup with winged eyeliner, lying relaxed in bed propped against pillows. She is wearing a black spaghetti strap camisole top that accentuates her figure. She is holding an open white paperback book titled ' HOT STORIES ' with both hands, gently turning a page, eyes looking down at the pages with a soft, focused expression. The bed has a gray duvet with white geometric diamond pattern and white sheets. In the background there is a modern wooden headboard with warm ambient LED lighting underneath, a rust-colored velvet pillow, and small decorative figurines on a shelf. Soft cozy bedroom lighting, warm tones, intimate atmosphere, highly detailed, cinematic composition, natural skin texture, realistic fabric details, 8k resolution\",\n  \"negative_prompt\": \"blurry, low quality, deformed hands, extra limbs, text artifacts, watermark, cartoon, anime, overexposed, underexposed, plastic skin, heavy makeup, distorted face\",\n  \"parameters\": {\n    \"style\": \"photorealistic\",\n    \"lighting\": \"warm ambient, soft bedroom lighting\",\n    \"aspect_ratio\": \"9:16\",\n    \"quality\": \"high\",\n    \"model\": \"grok-imagine\"\n  }\n}",
+    "title": "Cozy Bedroom Reading Portrait",
+    "description": "A high-quality photorealistic prompt for a woman reading a book in a cozy, warm-lit bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684780716_nieqyh_HK8yEEEbUAEDIu2.jpg",
+      "https://cms-assets.youmind.com/media/1781684780696_18sx18_HK8yEIja8AAAlOz.jpg",
+      "https://cms-assets.youmind.com/media/1781684780755_2l2o8h_HK8yEO8bwAAb6Er.jpg",
+      "https://cms-assets.youmind.com/media/1781684781514_89p1n6_HK8yEd0aYAA7KOX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25863,
+    "content": "A creative full-body lifestyle portrait of an athletic model sitting inside a metal shopping cart overflowing with bright yellow tennis balls. The model is wearing a {argument name=\"brand\" default=\"Nike\"} {argument name=\"clothing color\" default=\"fluorescent green\"} tank top and matching shorts, creating a strong, high-contrast pop against the surroundings. The model is leaning back comfortably in the cart with a {argument name=\"expression\" default=\"calm, neutral, slightly serious expression\"}, lips closed, no smile, conveying a relaxed but confident mood. The scene is set on a professional vivid blue concrete tennis court with sharp white lines under a clear, bright blue sky. A tennis racket is leaning against the side of the shopping cart, and several more tennis balls are scattered across the court surface. In the background, there are blurred tennis court bleachers and green trees. Lighting is bright, direct natural sunlight, creating crisp shadows and strong highlights. Color grading is vibrant and punchy, with high saturation, strong contrast, and clean color separation. Shot with a 35mm lens for a natural perspective, f/2.8 aperture to slightly blur the background while keeping the model and the cart in sharp focus. High-resolution photography, athletic fashion style, high energy, commercial sports editorial vibe. Negative prompts: desaturated colors, muted tones, flat lighting, low contrast, washed out colors, cinematic dull grading, pastel tones, smile, smiling, open-mouth smile",
+    "title": "Tennis Court Lifestyle Portrait",
+    "description": "A high-contrast, vibrant lifestyle portrait of an athletic model in a unique setting surrounded by yellow tennis balls.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684778297_n2trjk_HK8hRwUXQAA0NTp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25859,
+    "content": "Ultra-realistic dark aesthetic bedroom photo collage, 2x2 grid layout featuring the same {argument name=\"subject\" default=\"young woman\"} in four different candid poses. Soft grunge emo-girl vibe, {argument name=\"hair\" default=\"messy long black hair\"} partially covering her face, round black glasses, {argument name=\"clothing\" default=\"oversized black sweatshirt\"}, pale skin, tired dreamy expression. Top left: lying on a white pillow in a dark room, face partially hidden behind sleeve, looking toward camera. Top right: sitting in darkness, hand covering mouth, messy hair, moody introspective pose. Bottom left: extreme close-up portrait, hair falling across face, soft lips visible, cinematic shallow depth of field. Bottom right: mirror selfie holding black smartphone, oversized black graphic t-shirt, one hand in hair, dim bedroom background. Lighting: very low light, bluish-grey tones, subtle phone flash illumination, soft shadows, grainy digital camera texture, slight motion blur, nostalgic 2000s webcam aesthetic. Style: dark academia, soft grunge, goth-inspired, melancholic mood, Tumblr aesthetic, indie bedroom photography, authentic candid moments, natural imperfections, muted colors, realistic skin texture, cinematic atmosphere. Camera: handheld smartphone photography, high ISO grain, flash photography, shallow depth of field, realistic lens imperfections. Color grading: desaturated blacks, cool blue-grey shadows, faded contrast, moody night-time atmosphere.",
+    "title": "Dark Grunge Emo Girl Collage",
+    "description": "A prompt for a 2x2 grid layout of a young woman with a dark, moody aesthetic, featuring 2000s webcam and grunge elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684776707_f5nvna_HK8NuEXbkAAd1f7.jpg",
+      "https://cms-assets.youmind.com/media/1781684776290_v3s34x_HK8NuGKboAAFHtf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25867,
+    "content": "Beautiful young {argument name=\"ethnicity\" default=\"Japanese\"} girl with long silky black hair and soft wispy bangs, large expressive dark eyes, fair glowing skin, delicate facial features, natural pink lips, subtle blush, and a calm innocent expression. Wearing a {argument name=\"clothing\" default=\"fitted black t-shirt and a red backpack\"} over one shoulder. Standing {argument name=\"setting\" default=\"outdoors beside a warm beige wall with green leaves casting soft shadows\"}. Bright midday sunlight creating natural highlights on her hair and face, gentle breeze moving loose strands of hair, casual school-day aesthetic, Korean/Japanese street photography vibe, realistic skin texture, soft natural makeup, candid portrait, photorealistic, ultra-detailed, DSLR quality, shallow depth of field, clean composition, vibrant natural colors, youthful and dreamy atmosphere, 85mm lens, high-resolution editorial portrait, 8K.",
+    "title": "Japanese School Girl Portrait",
+    "description": "A detailed portrait of a young Japanese girl with a school-day aesthetic, featuring soft lighting and a candid street photography vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684780743_cp9fex_HK7mCuXXoAExwzu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25873,
+    "content": "A {argument name=\"subject\" default=\"beautiful young woman\"} with an intense yet soft gaze looking directly into the camera. Pose: The photo is taken from a top-down overhead angle (flat lay perspective). The woman is lying on her back in a {argument name=\"setting\" default=\"lush green meadow filled with small white daisy flowers\"}. Her long, thick, healthy wavy black hair is spread widely around her, decorated with several real daisy flowers carefully placed throughout her hair for an aesthetic touch. Expression & Hands: Her facial expression is calm, elegant, and confident. One hand rests gracefully on her stomach, while the other is slightly raised near her chest, gently holding a small daisy flower with perfectly natural, anatomically correct hand positioning. Outfit: She is wearing a {argument name=\"clothing\" default=\"premium satin halter-neck dress in soft pastel yellow (pale lime tone)\"}. The fabric has a luxurious silk sheen that softly reflects light, highlighting smooth folds and an expensive, high-end texture. Accessories: She wears small minimalist sparkling earrings visible on the left ear, partially hidden by her hair, and an elegant thin gold bracelet on her left wrist. Environment & Props: Background: A rich green meadow filled with hundreds of small white daisies with yellow centers growing naturally. Additional props: At the upper right side of the subject, there is a premium woven straw tote bag with dark brown leather straps and a white fabric lining. Near the bag lies a fresh bouquet of pink roses and complementary flowers, enhancing a luxurious haute couture picnic aesthetic. Lighting & Technical Quality: Soft natural daylight evenly illuminates the scene, creating a natural glow on the face without harsh shadows. A subtle rim light defines the contours of the body and hair, elegantly separating her from the grassy background. High-fashion editorial photography style, shot with an 85mm lens for sharp yet natural portrait detail. Ultra-realistic skin texture showing fine pores, soft blush on the cheeks, and precise winged eyeliner makeup without any CGI look. The image has cinematic shallow depth of field, ultra-high clarity (8K resolution), and a subtle fine analog film grain for a premium, elegant aesthetic.",
+    "title": "Haute Couture Picnic Portrait",
+    "description": "An elegant top-down editorial shot of a woman lying in a daisy meadow, featuring high-fashion styling and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684783221_vwh1r9_HK7cgICboAExyTQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25865,
+    "content": "Create a high-definition, High quality, highly detailed image of this person in the above image in 4:5 aspect ratio, with 8k resulation with glossy lighting, ,Use the uploaded reference image as the primary identity anchor. Preserve the exact facial structure, bone proportions, skin tone, eye shape, eyebrows, nose, lips, and overall likeness with absolute precision. Do not alter identity under any circumstances.Create a vertical portrait of a women with {argument name=\"hair style\" default=\"black wavy hair\"} is captured in a serene, outdoor setting surrounded by {argument name=\"flowers\" default=\"vibrant purple jacaranda blossoms\"}. She is smiling softly while looking towards camera. The Dress: She is wearing a {argument name=\"clothing\" default=\"full sleeve floor-length maxi dress\"}. The fabric is a deep, vivid purple featuring a pattern of large white polka dots. The dress has a modest round neckline and a fitted bodice that transitions into a flowing skirt.Footwear: She is wearing simple, solid-colored purple flats that match her dress. The Bench: She is seated on a wooden park bench painted in a matching shade of light purple. Pose: She is sitting in profile, turned toward the right side of the frame. Her body is angled, with her legs extended slightly forward.vibrant colours Activities: She is holding a purple mug in both hands near her chest and is positioned next to an open book that is resting on the bench seat beside her.",
+    "title": "Jacaranda Garden Portrait with Reference",
+    "description": "Generates a detailed 8K portrait of a person in a serene garden with purple blossoms, using a reference image to maintain precise identity features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684779308_iwhxpg_HK7Th1QasAA35Zh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25755,
     "content": "A young woman with {argument name=\"hair style\" default=\"long, dark wavy hair\"} takes a selfie in a white-tiled bathroom, smiling softly with a {argument name=\"face mask\" default=\"green clay face mask\"} applied to her cheeks, forehead, and chin (lips left bare and glossy). A {argument name=\"sticker\" default=\"pink hibiscus flower digital sticker\"} is placed near her ear/hair. She wears a plain white crew-neck t-shirt, lit by soft natural window light from the left, with subway tile walls and a mirror visible in the background.",
     "title": "Clay Face Mask Bathroom Selfie",
     "description": "A detailed prompt for generating a realistic selfie of a woman wearing a green clay face mask in a bathroom setting, featuring soft natural lighting and a digital sticker.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1781598289533_6y5tp4_HK69_GwaoAAPmQR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25860,
+    "content": "Ultra aesthetic streetwear girl collage poster, black and gray moody background, three different poses (selfie pose, back pose, sitting pose), {argument name=\"top\" default=\"oversized white jersey shirt\"}, {argument name=\"bottom\" default=\"gray cargo pants\"}, black sunglasses, {argument name=\"accessory\" default=\"gray cap\"}, long black hair, soft white skin, trendy Korean fashion, dark urban atmosphere, glowing orange HUD elements, floating typography, cinematic lighting, depth of field, luxury street style, high contrast, TikTok edit style, CapCut template aesthetic, premium poster design, photorealistic, ultra detailed, 9:16 vertical composition.",
+    "title": "Urban Streetwear Girl Collage",
+    "description": "An aesthetic streetwear collage prompt featuring three different poses against a moody urban background with HUD elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684776943_oghr3h_HK6gnyGbcAAksDm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25862,
+    "content": "A cinematic close-up portrait capturing a calm and introspective mood. Soft {argument name=\"lighting\" default=\"blue-gray\"} lighting highlights her glowing skin, refined facial features, and elegant {argument name=\"makeup\" default=\"Douyin-inspired\"} makeup. Long {argument name=\"hair color\" default=\"ash-brown\"} hair with natural loose strands frames her face beautifully, while the navy-blue shirt and white AirPods add a modern, sophisticated touch. The ultra-realistic details, cool color grading, and emotional atmosphere create a timeless and visually captivating portrait.",
+    "title": "Introspective Cinematic Portrait",
+    "description": "A cinematic close-up portrait designed to capture a calm and introspective mood with elegant makeup and sophisticated lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684777944_5hbdqa_HK6WE9AW4AAwdIQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25868,
+    "content": "A high-quality, 2:3 aspect ratio portrait of a {argument name=\"subject\" default=\"young woman with clear green eyes and light brown hair\"}, leaning her cheek gently against her left hand in a casual selfie pose. She is wearing a {argument name=\"clothing\" default=\"soft pink V-neck knit sweater\"}, a small pink bow hair clip on the side of her hair, and a delicate thin gold chain necklace featuring a small, subtle letter \"N\" pendant. She has a warm, gentle smile, clear sharp facial features with zero blur, soft Douyin-style makeup featuring a prominent pink rosy blush on her cheeks, and a subtle lip gloss. The scene is illuminated by warm, golden hour sunlight streaming in from a window, casting soft shadows. The background is a {argument name=\"background\" default=\"cozy, decorated bedroom with polaroid photos and green vine fairy lights hanging on a white wall to the left, a dark wooden door in the center, and a glowing neon pink heart mirror on the right\"}. 90s film grain aesthetic, Kodak Portra 400 vibes, clean focus on the face, photorealistic, 8k resolution. --ar 2:3",
+    "title": "Cozy Bedroom Selfie Portrait",
+    "description": "A warm, 90s film-style selfie of a young woman in a cozy bedroom during golden hour, featuring soft knit textures and nostalgic aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684780904_9tvz7f_HK6MQmWagAAyXTy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25864,
+    "content": "(Cinematic Masculine Portrait) Aspect ratio: 3:4 (vertical) A hyper-realistic candid cinematic photograph, shot on Canon EOS R5, RF 85mm f/1.2L lens, ISO 640, shallow depth of field, available-light editorial photography. Real-life photography aesthetic — NOT 3D render, NOT CGI, NOT digital illustration. A real photo of a real man. SUBJECT: A {argument name=\"subject\" default=\"strikingly handsome, athletic, muscular man in his early 30s\"}, Mediterranean features, strong defined jawline with light stubble, dark damp hair pushed back, intense thoughtful expression with his gaze directed off to the side (not at the camera). Captured candidly, as if caught mid-thought. WARDROBE: A {argument name=\"wardrobe\" default=\"fitted white dress shirt, soaked from rain and clinging to his muscular chest\"}, shoulders, and arms — sleeves rolled to the forearms, top buttons open revealing the upper centerline of his chest. Slightly disheveled in a magnetic way. SETTING: Standing under a narrow awning on a moody city street at night, rain pouring just behind him, neon signage glowing in soft bokeh — {argument name=\"lighting colors\" default=\"warm amber and cool teal lights\"} reflecting off the wet pavement and his damp skin. Cinematic, atmospheric, alive. LIGHTING: Dramatic low-key cinematic lighting — a warm key light carving his features and physique from the side, cool rim light from the neon behind separating him from the dark rainy backdrop, water droplets catching highlights on his skin and hair. GRADE & MOOD: Rich teal-orange blockbuster grade, deep contrast, fine film grain, shallow focus. Mood: brooding, magnetic, cinematic — like a frame pulled from a moody thriller. NEGATIVE INSTRUCTIONS: NOT 3D, NOT CGI, NOT cartoon, NOT airbrushed, NOT plastic/waxy skin, real photographic skin texture with visible pores, natural muscular anatomy (not exaggerated), no deformed hands, no extra fingers, no text, no watermark, no logos, real-life realism.",
+    "title": "Rainy Night Cinematic Masculine Portrait",
+    "description": "A brooding, high-contrast cinematic portrait of a man in a rainy city street at night, featuring dramatic neon lighting and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684779321_wmyktx_HK6IGTpaIAAvkRv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25872,
+    "content": "A full-body photograph of a young woman standing inside a stadium and {argument name=\"activity\" default=\"kissing the golden Football World Cup trophy\"}. She is wearing {argument name=\"team jersey\" default=\"Argentina football team's blue and white striped jersey (number 10)\"} and matching trousers, with AFA logo and Adidas logo attached. Her brown hair has a high ponytail and she is holding the trophy with a smile. A huge, packed stadium is seen in the background, in which the spectators are wearing {argument name=\"fans clothing\" default=\"Argentina's striped jerseys\"}. The roof of the stadium is modern and brightly lit. Some empty plastic seats are placed in the front and a water bottle is lying on the floor. It is night time and the stadium is completely illuminated.",
+    "title": "World Cup Victory Portrait",
+    "description": "A cinematic celebration shot of a woman in a football jersey holding the World Cup trophy inside a brightly lit stadium at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684782858_yscvqp_HK5230SWQAAZ24z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25866,
+    "content": "\"subject\": \"{argument name=\"subject details\" default=\"young woman, long brown hair with bangs, subtle gaze, heart drop earrings, cross charm\"}\",\n  \"outfit\": \"{argument name=\"clothing outfit\" default=\"blush pink fitted polo top, blue plaid mini skirt, white sneakers\"}\",\n  \"setting\": \"{argument name=\"background setting\" default=\"classroom, wood locker and whiteboard background\"}\",\n  \"mood\": \"preppy, soft, school-girl aesthetic\"",
+    "title": "Preppy Classroom Portrait Aesthetic",
+    "description": "A structured school-girl aesthetic prompt featuring specific clothing items and a classroom setting for a soft, curated look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg"
     ],
     "needReferenceImages": false
   },
@@ -4579,6 +4735,17 @@
       "https://cms-assets.youmind.com/media/1779780736955_d6t93g_HJMMu3FXcAAN-aW.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25874,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"version\": \"1.0\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"Use uploaded reference image, keep identity exact\",\n      \"appearance\": {\n        \"face\": \"Soft natural feminine features with minimal no-makeup makeup look, realistic skin texture, subtle rosy cheeks, hydrated lips, authentic under-eye softness, natural morning skin tone, detailed pores and delicate facial highlights\",\n        \"hair\": \"Soft slightly messy morning hairstyle spread naturally across white pillow, silky texture, loose strands framing face, realistic volume and natural shine\",\n        \"expression\": \"Sleepy playful expression with puckered lips and side-eye glance, relaxed candid morning selfie energy\"\n      },\n      \"body\": {\n        \"type\": \"Slim natural feminine proportions\"\n      }\n    },\n    \"clothing\": {\n      \"outfit\": {\n        \"details\": [\n          \"{argument name=\"outfit\" default=\"Minimal white ribbed tank top\"}\",\n          \"Soft lightweight fabric texture\",\n          \"Thin shoulder straps\",\n          \"Relaxed cozy sleepwear aesthetic\"\n        ]\n      }\n    },\n    \"pose\": {\n      \"details\": [\n        \"Lying comfortably on white bed sheets\",\n        \"One arm extended naturally holding phone for selfie perspective\",\n        \"Other hand lightly covering lips\",\n        \"Head resting softly on pillow\",\n        \"Relaxed upper body posture\",\n        \"Natural candid bedroom selfie composition\"\n      ]\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"location\" default=\"Minimal luxury bedroom\"}\",\n      \"background\": [\n        \"Soft white pillows\",\n        \"White cotton bedding\",\n        \"Clean cozy bed aesthetic\",\n        \"Bright airy morning atmosphere\",\n        \"Minimal neutral interior tones\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Ultra realistic natural morning daylight\",\n      \"style\": \"Soft luxury lifestyle photography\",\n      \"effects\": [\n        \"Natural diffused window light\",\n        \"Soft realistic skin shadows\",\n        \"Bright clean white balance\",\n        \"Subtle facial highlights\",\n        \"Authentic daylight reflections\",\n        \"Soft airy bedroom mood\",\n        \"Balanced exposure with realistic depth\"\n      ]\n    },\n    \"camera\": {\n      \"angle\": \"Top-down selfie angle\",\n      \"framing\": \"Medium close-up vertical composition\",\n      \"focus\": \"Sharp realistic focus on face with soft bedding details\",\n      \"style\": \"Ultra realistic candid morning photography\"\n    },\n    \"watermark\": {\n      \"details\": [\n        \"Small subtle watermark text 'Glena jenner'\",\n        \"Placed softly near lower corner edge\",\n        \"Elegant transparent font\",\n        \"Low-opacity luxury copyright style\"\n      ]\n    },\n    \"mood\": [\n      \"{argument name=\"mood\" default=\"Soft, Cozy, Morning aesthetic\"}\"\n    ],\n    \"quality\": {\n      \"render\": \"Ultra photorealistic 8k\",\n      \"details\": [\n        \"Natural skin realism\"\n      ]\n    }\n  }\n}",
+    "title": "Candid Morning Bedroom Selfie",
+    "description": "A highly detailed JSON-formatted prompt for generating authentic morning selfies in a bedroom setting, focusing on natural lighting and realistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781684783262_eldpgb_HJMCAWNaUAA-0CS.jpg",
+      "https://cms-assets.youmind.com/media/1781684783285_tdvvez_HJMCBL6bsAAyGHY.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 22490,
