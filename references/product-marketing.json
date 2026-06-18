@@ -21,6 +21,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 25975,
+    "content": "Elegant {argument name=\"bottle color\" default=\"yellow\"} skincare bottle with crystal pump, surrounded by sliced {argument name=\"ingredient\" default=\"lemons\"}, sparkling water droplets and transparent bubbles, minimal luxury background with {argument name=\"lighting\" default=\"soft sunlight rays\"}, glossy podium, fresh summer mood, hyper realistic beauty advertising, premium commercial photography, 8K.",
+    "title": "Luxury Lemon Skincare Product Photography",
+    "description": "A product photography prompt for luxury skincare, featuring vibrant citrus accents and elegant lighting for a fresh summer advertising aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770017583_qhtxdv_HK-5AiQbsAAq01T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25858,
     "content": "Ultra-realistic elegant dinner portrait of a {argument name=\"subject\" default=\"woman\"} seated in a {argument name=\"setting\" default=\"luxurious restaurant booth\"}, refined beauty, flawless porcelain skin with natural glow, sophisticated updo hairstyle with soft face-framing strands, delicate makeup, expressive eyes, subtle pink blush, glossy lips, wearing a {argument name=\"outfit\" default=\"strapless champagne-beige dress\"}, sparkling earrings, luxury bracelet, graceful pose with hand near face, warm ambient restaurant lighting, wooden interior, wine glass on the table, intimate fine-dining atmosphere, true-to-life color palette, realistic skin texture, detailed eyes, authentic reflections on glassware, cinematic depth of field, professional DSLR photography, photorealistic, ultra-detailed, natural shadows, high-end fashion editorial style, realistic highlights, 8k resolution, sharp focus.",
     "title": "Elegant Fine Dining Portrait",

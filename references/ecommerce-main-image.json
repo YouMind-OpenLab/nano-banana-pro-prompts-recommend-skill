@@ -1,5 +1,15 @@
 [
   {
+    "id": 25975,
+    "content": "Elegant {argument name=\"bottle color\" default=\"yellow\"} skincare bottle with crystal pump, surrounded by sliced {argument name=\"ingredient\" default=\"lemons\"}, sparkling water droplets and transparent bubbles, minimal luxury background with {argument name=\"lighting\" default=\"soft sunlight rays\"}, glossy podium, fresh summer mood, hyper realistic beauty advertising, premium commercial photography, 8K.",
+    "title": "Luxury Lemon Skincare Product Photography",
+    "description": "A product photography prompt for luxury skincare, featuring vibrant citrus accents and elegant lighting for a fresh summer advertising aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770017583_qhtxdv_HK-5AiQbsAAq01T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25871,
     "content": "a rectangular shaped vacuum sealed transparent plastic bag, studio product shot, filled tightly with {argument name=\"object\" default=\"soft squishy neoprene kitten-shaped toys\"}, on a {argument name=\"background\" default=\"solid black background\"}, some kitten toys clearly visible and pressed against the plastic while others are distorted and squished deeper inside the bag, subtle reflections and highlights on the plastic surface, high detail, sharp focus, dramatic softbox lighting emphasizing textures and depth",
     "title": "Vacuum Sealed Toy Photography",

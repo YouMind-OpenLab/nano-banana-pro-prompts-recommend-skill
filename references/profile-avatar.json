@@ -10,6 +10,39 @@
     "needReferenceImages": false
   },
   {
+    "id": 25979,
+    "content": "Maintain the original aspect ratio and use professional photo restoration techniques to super-resolve and repair this image to {argument name=\"resolution\" default=\"4K Ultra HD (3840x2160)\"}. Remove blur, noise, scratches, stains, creases, and compression artifacts. Restore and enhance skin texture, pores, hair strands, fabric textures, and edge sharpness. Restore natural and realistic colors, accurate lighting, and depth to generate a photo quality similar to that of a {argument name=\"camera style\" default=\"professional DSLR camera\"}. Keep all content, composition, and style of the original image completely unchanged, aiming for extreme realism without artistic stylization, making it a crystal-clear high-definition photo while maintaining 100% original composition and authenticity.",
+    "title": "4K Realistic Photo Restoration",
+    "description": "A comprehensive restoration prompt for upscaling images to 4K quality, removing noise and artifacts while enhancing skin textures and hair details to professional DSLR standards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770020271_rjyj4t_HLAWScIbgAALpsa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25980,
+    "content": "{argument name=\"subject\" default=\"close-up to mid body photo of a young woman\"} walking alone at an {argument name=\"setting\" default=\"outdoor evening event\"}, surrounded by warm decorative lights and a softly blurred crowd in the background, nighttime atmosphere with cinematic bokeh,\n\nsubject: use reference image face,",
+    "title": "Cinematic Evening Event Portrait",
+    "description": "A photography prompt for generating a detailed portrait of a woman at a nighttime event, featuring cinematic bokeh and warm atmospheric lighting. It allows for identity preservation using a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770019940_l464rg_HLAK4tJa8AEu_Hi.jpg",
+      "https://cms-assets.youmind.com/media/1781770019975_8h32g8_HLAK5WLakAA1Ktr.jpg",
+      "https://cms-assets.youmind.com/media/1781770019982_oht5n6_HLAK6ORaYAARaB5.jpg",
+      "https://cms-assets.youmind.com/media/1781770020731_mvfoii_HLAK7E7bwAAmTqB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25977,
+    "content": "A {argument name=\"portrait style\" default=\"cyberpunk\"} portrait based on the uploaded reference photo recreated exactly in the same composition and perspective as the reference image] [the person from the uploaded image positioned in a close-up low-angle portrait with head slightly tilted upward, serious confident expression, maintaining the same facial identity and proportions from the uploaded reference photo] [urban neon city environment at night with soft blurred {argument name=\"neon colors\" default=\"pink, cyan and red\"} neon signs creating atmospheric bokeh] [wearing a modern oversized winter jacket in warm {argument name=\"jacket color\" default=\"mustard orange\"} tones with realistic fabric texture and soft inner lining, combined with a dark knitted beanie] [round reflective sunglasses with golden-orange mirrored lenses reflecting futuristic city buildings and neon streets exactly like the reference image] [ultra-realistic cinematic photography style] [strong shallow depth of field keeping extreme focus on face and glasses while background melts into colorful neon blur] [dramatic neon lighting casting pink and cyan highlights across the face, beard and jacket, creating high contrast cinematic mood] [skin texture highly detailed with realistic pores, subtle beard texture and natural facial shadows] [minimal but visually powerful composition inspired by futuristic fashion editorials and blade runner aesthetics] [dominant colors: neon pink, cyan blue, warm orange, deep black and golden reflections] [realistic lens compression, subtle chromatic aberration, cinematic glow around neon lights and soft volumetric atmosphere] [exact same framing and emotional energy as the reference image, maintaining realism and premium editorial quality] [no text, no logo, no watermark, no extra accessories, no visual clutter] [vertical 3:4 composition, ultra sharp focus on face and glasses, 8k cinematic quality, realistic dslr photography] [hyper-detailed textures, realistic reflections inside lenses, cinematic skin rendering, depth of field, volumetric neon lighting, extreme realism",
+    "title": "Cyberpunk Identity Preservation Portrait",
+    "description": "A sophisticated prompt for creating a cyberpunk-themed portrait that retains the facial identity and composition of a reference photo with vibrant neon accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770018636_0tiyr9_HK-9vM3bcAAjezb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25755,
     "content": "A young woman with {argument name=\"hair style\" default=\"long, dark wavy hair\"} takes a selfie in a white-tiled bathroom, smiling softly with a {argument name=\"face mask\" default=\"green clay face mask\"} applied to her cheeks, forehead, and chin (lips left bare and glossy). A {argument name=\"sticker\" default=\"pink hibiscus flower digital sticker\"} is placed near her ear/hair. She wears a plain white crew-neck t-shirt, lit by soft natural window light from the left, with subway tile walls and a mirror visible in the background.",
     "title": "Clay Face Mask Bathroom Selfie",

@@ -20,6 +20,29 @@
     "needReferenceImages": false
   },
   {
+    "id": 25976,
+    "content": "A contemporary expressive {argument name=\"art style\" default=\"oil painting\"} style with bold, dynamic brushwork and semi-abstract realism. Visible, confident brush strokes in layered patches and broken color blocks, blending figurative portraiture with painterly abstraction. Rich warm palette dominated by {argument name=\"color palette\" default=\"peach, golden beige, soft amber, rose pink, muted magenta, and deep burgundy\"}, contrasted with subtle cool accents of olive green and desaturated teal. Loose, gestural application with thick and thin strokes interwoven, creating a sense of movement and spontaneity. Edges shift between soft blended transitions and sharp painterly marks. Light is {argument name=\"lighting\" default=\"warm and diffused\"}, creating glowing skin tones with luminous highlights. Background and subject merge through color harmony and directional strokes, giving a slightly impressionistic, unfinished yet intentional aesthetic. Textural depth resembling oil on canvas, with visible layering and painterly surface variation.",
+    "title": "Expressive Oil Painting Portrait",
+    "description": "Generates a contemporary oil painting with bold brushwork and a warm color palette, blending semi-abstract realism with traditional painterly textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770018030_h0i8i0_HK_slxNbsAAmBeF.jpg",
+      "https://cms-assets.youmind.com/media/1781770018356_i662s8_HK_sl0vbwAA8U7B.jpg",
+      "https://cms-assets.youmind.com/media/1781770018024_6835jy_HK_sl_za0AEU6se.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25974,
+    "content": "Create a surreal studio portrait of a {argument name=\"subject\" default=\"man\"} from an attached photo with a large-size photorealistic human head attached to the tiny body of a {argument name=\"reference object\" default=\"LEGO minifigure\"}. Keep your clothing style identical to the reference: classic LEGO torso, LEGO legs, LEGO arms. A human head should be disproportionately huge (on the scale of a \"dummy\"), with a detailed skin texture and disheveled natural hair. Pose: One hand pulls back the lower lip, exposing teeth in a playful, slightly chaotic expression. The picture was taken from a spectacular low angle with a slight fisheye distortion to accentuate the face. Minimal studio background with a {argument name=\"background\" default=\"pale mint/sky blue gradient\"}. Bright direct flash lighting with clear shadows and glossy highlights. The composition should be absurd, but at the same time clean, combining toy photography and the aesthetics of a fashionable portrait. Maintain a visible contrast between the realistic head and the plastic LEGO body. Over-detailed face, soft pastel color scheme, editorial surrealism, modern Internet aesthetics, collectible energy of the figure, concentrated composition.",
+    "title": "Surreal LEGO Minifigure Human Portrait",
+    "description": "An editorial surrealism prompt that blends toy photography with realistic portraiture, creating an absurd yet high-quality LEGO minifigure character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770017411_7ecvak_HK_aK9fawAAr_gJ.jpg",
+      "https://cms-assets.youmind.com/media/1781770017339_nclyyz_HK_aLOga8AAcluc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25860,
     "content": "Ultra aesthetic streetwear girl collage poster, black and gray moody background, three different poses (selfie pose, back pose, sitting pose), {argument name=\"top\" default=\"oversized white jersey shirt\"}, {argument name=\"bottom\" default=\"gray cargo pants\"}, black sunglasses, {argument name=\"accessory\" default=\"gray cap\"}, long black hair, soft white skin, trendy Korean fashion, dark urban atmosphere, glowing orange HUD elements, floating typography, cinematic lighting, depth of field, luxury street style, high contrast, TikTok edit style, CapCut template aesthetic, premium poster design, photorealistic, ultra detailed, 9:16 vertical composition.",
     "title": "Urban Streetwear Girl Collage",

@@ -41,6 +41,71 @@
     "needReferenceImages": false
   },
   {
+    "id": 25978,
+    "content": "Ultra-realistic candid indoor portrait of a {argument name=\"subject\" default=\"young woman\"} sitting at a {argument name=\"setting\" default=\"wooden study desk\"} in a cozy dorm room or bedroom. She wears a fitted {argument name=\"clothing\" default=\"pink-and-white striped T-shirt\"} and has long dark hair loosely tied back, with a few soft strands framing her face. Resting her chin on both hands, she gazes directly into the camera with a calm, slightly bored, thoughtful expression. The desk is covered with an open spiral notebook filled with handwritten notes, scattered pens and pencils, small printed photos, books, and potted plants. A wooden bookshelf filled with books stands beside her, while blurred posters and personal decorations hang on the wall in the background. Captured with a vintage film camera aesthetic, warm ambient indoor lighting, natural skin texture, subtle grain, soft shadows, shallow depth of field, realistic colors, documentary-style photography, intimate student-life atmosphere, authentic candid moment, highly detailed, photorealistic, 35mm film look, Kodak Portra color grading, soft focus background, vertical composition, 8K resolution.",
+    "title": "Candid Indoor Student Life Portrait",
+    "description": "A warm, documentary-style prompt for a realistic indoor portrait of a student at a desk, featuring vintage film aesthetics and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770019236_m1gocc_HLCEWMSb0AE7wnw.jpg",
+      "https://cms-assets.youmind.com/media/1781770018963_1f11i2_HLCEWO3bUAAx087.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25979,
+    "content": "Maintain the original aspect ratio and use professional photo restoration techniques to super-resolve and repair this image to {argument name=\"resolution\" default=\"4K Ultra HD (3840x2160)\"}. Remove blur, noise, scratches, stains, creases, and compression artifacts. Restore and enhance skin texture, pores, hair strands, fabric textures, and edge sharpness. Restore natural and realistic colors, accurate lighting, and depth to generate a photo quality similar to that of a {argument name=\"camera style\" default=\"professional DSLR camera\"}. Keep all content, composition, and style of the original image completely unchanged, aiming for extreme realism without artistic stylization, making it a crystal-clear high-definition photo while maintaining 100% original composition and authenticity.",
+    "title": "4K Realistic Photo Restoration",
+    "description": "A comprehensive restoration prompt for upscaling images to 4K quality, removing noise and artifacts while enhancing skin textures and hair details to professional DSLR standards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770020271_rjyj4t_HLAWScIbgAALpsa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25980,
+    "content": "{argument name=\"subject\" default=\"close-up to mid body photo of a young woman\"} walking alone at an {argument name=\"setting\" default=\"outdoor evening event\"}, surrounded by warm decorative lights and a softly blurred crowd in the background, nighttime atmosphere with cinematic bokeh,\n\nsubject: use reference image face,",
+    "title": "Cinematic Evening Event Portrait",
+    "description": "A photography prompt for generating a detailed portrait of a woman at a nighttime event, featuring cinematic bokeh and warm atmospheric lighting. It allows for identity preservation using a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770019940_l464rg_HLAK4tJa8AEu_Hi.jpg",
+      "https://cms-assets.youmind.com/media/1781770019975_8h32g8_HLAK5WLakAA1Ktr.jpg",
+      "https://cms-assets.youmind.com/media/1781770019982_oht5n6_HLAK6ORaYAARaB5.jpg",
+      "https://cms-assets.youmind.com/media/1781770020731_mvfoii_HLAK7E7bwAAmTqB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25974,
+    "content": "Create a surreal studio portrait of a {argument name=\"subject\" default=\"man\"} from an attached photo with a large-size photorealistic human head attached to the tiny body of a {argument name=\"reference object\" default=\"LEGO minifigure\"}. Keep your clothing style identical to the reference: classic LEGO torso, LEGO legs, LEGO arms. A human head should be disproportionately huge (on the scale of a \"dummy\"), with a detailed skin texture and disheveled natural hair. Pose: One hand pulls back the lower lip, exposing teeth in a playful, slightly chaotic expression. The picture was taken from a spectacular low angle with a slight fisheye distortion to accentuate the face. Minimal studio background with a {argument name=\"background\" default=\"pale mint/sky blue gradient\"}. Bright direct flash lighting with clear shadows and glossy highlights. The composition should be absurd, but at the same time clean, combining toy photography and the aesthetics of a fashionable portrait. Maintain a visible contrast between the realistic head and the plastic LEGO body. Over-detailed face, soft pastel color scheme, editorial surrealism, modern Internet aesthetics, collectible energy of the figure, concentrated composition.",
+    "title": "Surreal LEGO Minifigure Human Portrait",
+    "description": "An editorial surrealism prompt that blends toy photography with realistic portraiture, creating an absurd yet high-quality LEGO minifigure character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770017411_7ecvak_HK_aK9fawAAr_gJ.jpg",
+      "https://cms-assets.youmind.com/media/1781770017339_nclyyz_HK_aLOga8AAcluc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25977,
+    "content": "A {argument name=\"portrait style\" default=\"cyberpunk\"} portrait based on the uploaded reference photo recreated exactly in the same composition and perspective as the reference image] [the person from the uploaded image positioned in a close-up low-angle portrait with head slightly tilted upward, serious confident expression, maintaining the same facial identity and proportions from the uploaded reference photo] [urban neon city environment at night with soft blurred {argument name=\"neon colors\" default=\"pink, cyan and red\"} neon signs creating atmospheric bokeh] [wearing a modern oversized winter jacket in warm {argument name=\"jacket color\" default=\"mustard orange\"} tones with realistic fabric texture and soft inner lining, combined with a dark knitted beanie] [round reflective sunglasses with golden-orange mirrored lenses reflecting futuristic city buildings and neon streets exactly like the reference image] [ultra-realistic cinematic photography style] [strong shallow depth of field keeping extreme focus on face and glasses while background melts into colorful neon blur] [dramatic neon lighting casting pink and cyan highlights across the face, beard and jacket, creating high contrast cinematic mood] [skin texture highly detailed with realistic pores, subtle beard texture and natural facial shadows] [minimal but visually powerful composition inspired by futuristic fashion editorials and blade runner aesthetics] [dominant colors: neon pink, cyan blue, warm orange, deep black and golden reflections] [realistic lens compression, subtle chromatic aberration, cinematic glow around neon lights and soft volumetric atmosphere] [exact same framing and emotional energy as the reference image, maintaining realism and premium editorial quality] [no text, no logo, no watermark, no extra accessories, no visual clutter] [vertical 3:4 composition, ultra sharp focus on face and glasses, 8k cinematic quality, realistic dslr photography] [hyper-detailed textures, realistic reflections inside lenses, cinematic skin rendering, depth of field, volumetric neon lighting, extreme realism",
+    "title": "Cyberpunk Identity Preservation Portrait",
+    "description": "A sophisticated prompt for creating a cyberpunk-themed portrait that retains the facial identity and composition of a reference photo with vibrant neon accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770018636_0tiyr9_HK-9vM3bcAAjezb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25973,
+    "content": "Portrait of {argument name=\"subject\" default=\"Sydney Sweeney\"} sitting cross-legged on a grassy hill, smiling softly and looking to the right. She has a messy low bun with a {argument name=\"hair accessory\" default=\"daisy\"} behind her ear and wears {argument name=\"clothing\" default=\"a white t-shirt, an open pastel pink zip-up hoodie, and grey sweatpants\"}. The background features a sweeping view of green valleys, sharp snow-capped mountains, and a bright blue sky with fluffy clouds. Natural soft daylight, high-end lifestyle photography, sharp focus, 9:16 aspect ratio.",
+    "title": "Sydney Sweeney Lifestyle Portrait",
+    "description": "A prompt for generating a serene lifestyle portrait of a celebrity sitting on a grassy hill, ideal for natural light photography and scenic backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781770016722_5b7om2_HK-yUsiagAA4Szl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25875,
     "content": "{argument name=\"style\" default=\"Cyberpunk\"} Look at the sign! {argument name=\"sign text\" default=\"Vested interests = critical condition?\"}",
     "title": "Cyberpunk Signboard Social Commentary",
