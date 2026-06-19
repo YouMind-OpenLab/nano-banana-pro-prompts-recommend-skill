@@ -1,5 +1,15 @@
 [
   {
+    "id": 26082,
+    "content": "Using the uploaded image, keep the exact real face, hairstyle, and skin tone unchanged. Fashion photography of a stylish {argument name=\"subject\" default=\"male model\"} sitting casually on a soft textured {argument name=\"furniture\" default=\"beanbag chair\"}, working on a {argument name=\"device\" default=\"MacBook Pro 20\"}...",
+    "title": "Male Model Fashion Photography Edit",
+    "description": "An image-to-image transformation prompt that converts a reference photo into a high-end fashion shot of a male model working on a laptop while seated on a beanbag.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781857322969_m2vm3f_HLF2BMpWwAAEVhO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25975,
     "content": "Elegant {argument name=\"bottle color\" default=\"yellow\"} skincare bottle with crystal pump, surrounded by sliced {argument name=\"ingredient\" default=\"lemons\"}, sparkling water droplets and transparent bubbles, minimal luxury background with {argument name=\"lighting\" default=\"soft sunlight rays\"}, glossy podium, fresh summer mood, hyper realistic beauty advertising, premium commercial photography, 8K.",
     "title": "Luxury Lemon Skincare Product Photography",

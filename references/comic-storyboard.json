@@ -1,5 +1,15 @@
 [
   {
+    "id": 26083,
+    "content": "Ultra-realistic stylized sketchbook collage illustration of a young modern man named ‘{argument name=\"character name\" default=\"Orion\"}’ presented in a premium cinematic character design sheet layout. Multiple dynamic portraits, expressions, poses, and lifestyle moments arranged across a clean white sketchbook background. Main character,sharp jawline, light beard stubble, expressive eyes behind {argument name=\"eyewear\" default=\"black round glasses\"}, confident soft smile, and fashionable {argument name=\"style\" default=\"casual streetwear styling\"}.",
+    "title": "Cinematic Character Design Sketchbook Sheet",
+    "description": "A creative sketchbook collage layout for a cinematic character design, featuring multiple expressions and poses of a modern man in streetwear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781857322964_r25r4h_HLFcaTfaEAAhFBj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25752,
     "content": "Greek mythology {argument name=\"person\" default=\"Hercules playing the harp\"} wearing a {argument name=\"decoration\" default=\"laurel wreath\"} on his head",
     "title": "Mythological Hercules with Harp",
