@@ -41,6 +41,160 @@
     "needReferenceImages": false
   },
   {
+    "id": 26190,
+    "content": "A straight-on, full-body shot displays a {argument name=\"subject\" default=\"man\"}, casually leaning against the front grille of a {argument name=\"car\" default=\"white classic Mercedes-Benz convertible\"}. He sports a {argument name=\"outfit\" default=\"beige long-sleeve knit polo shirt\"} with the sleeves rolled to the forearms and relaxed-fit, high-waisted white pleated linen trousers. His ensemble is complemented by dark brown leather loafers and he accessorizes with square-lensed sunglasses and a wristwatch with a metallic band, contributing to a suave, affluent aesthetic. The background reveals an exterior stone building in golden afternoon or early evening sunlight, with climbing foliage and deep shadows creating a warm, luxurious atmosphere. The setting is elegantly Mediterranean, with an impression of ended or approaching leisure. The vintage car’s emblem is in sharp detail, occupying the foreground. The overall color palette is dominated by soft creams, sun-warmed sand, and deep ogre shadows. Captured using a digital or high-quality film camera with moderate depth of field, the subject is crisply in focus and the image exhibits rich, dense shadows, volumetric sunlight, and a mood which is nostalgic and aspirational.",
+    "title": "Mediterranean Vintage Car Portrait",
+    "description": "A sophisticated prompt for generating a high-quality portrait of a well-dressed man leaning against a classic Mercedes-Benz in warm, golden Mediterranean sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941370303_9j7ozy_HLNEnyeWkAAeATv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26203,
+    "content": "Use the uploaded face image to preserve the person's facial identity with absolute accuracy (100% identity retention), maintaining precise facial shape, bone structure, forehead, eyebrows, eyes, nose, lips, ears, jawline, hairstyle, hairline, facial hair, skin tone, skin texture, age, and natural expression, without beautifying or altering the individual. Create a high-end Gen-Z fashion editorial portrait of the same person sitting casually on a perfectly cylindrical {argument name=\"theme color\" default=\"matte purple\"} ottoman, leaning slightly forward with elbows resting naturally on thighs and hands loosely clasped, showing effortless confidence and a modern attitude while making direct eye contact with the camera. The subject should wear an oversized luxury monochrome purple trench coat over a matching purple crew-neck t-shirt, loose-fit white trousers, high-quality white and purple designer sneakers, and a sophisticated stainless steel watch. Place the subject in a seamless monochrome purple studio where the floor and background are the same rich {argument name=\"theme color\" default=\"matte purple\"}, following a clean minimalist aesthetic with no extra props or distractions. Use high-end professional fashion studio lighting to illuminate the scene, with a large softbox slightly above and to the left of the camera, complemented by subtle fill light and soft cinematic shadows that sculpt facial contours while preserving realistic skin texture and high-end fabric details. Capture the image in a perfect {argument name=\"aspect ratio\" default=\"4:5\"} portrait composition, with the full body and shoes completely visible, centered composition, shot with an {argument name=\"lens\" default=\"85mm\"} medium format portrait lens, shallow depth of field, ultra-sharp focus, surreal skin pores, luxury editorial color grading, Apple-style minimalism, Vogue advertising quality, commercial photography, HDR, and photorealistic 8K resolution. Negative prompt: different people, identity changed, face swap, altered facial features, beautified face, different hairstyle, incorrect facial hair, asymmetrical face, distorted anatomy, extra fingers, missing fingers, duplicate limbs, deformed hands, blurry image, low quality, low resolution, cartoon, anime, CGI, illustration, plastic skin, overly smooth skin, fisheye lens, wide-angle distortion, cluttered background, text, watermark, logo, cropped shoes, cropped body, artifacts.",
+    "title": "High-Fidelity Gen-Z Fashion Editorial Portrait",
+    "description": "A sophisticated prompt for generating high-end fashion portraits with 100% identity retention from an uploaded image, featuring a minimalist monochrome studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941377395_jitjl3_HLM5CGmaAAAr0iT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26187,
+    "content": "A cartoonish skull with {argument name=\"tooth detail\" default=\"gold teeth\"} and a cracked forehead is positioned in the foreground, tilted to the left. Behind it, a rainbow arches upwards, with a black star centered within its arc. The background is a solid {argument name=\"background color\" default=\"pastel pink\"}, and a wavy green line runs along the bottom edge of the image.",
+    "title": "Cartoon Skull with Gold Teeth",
+    "description": "A vibrant, cartoonish illustration of a skull with golden details against a pastel rainbow background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941368291_e0vx4r_HLBqy42XUAAkXLA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26199,
+    "content": "A confident {argument name=\"subject\" default=\"young adult male\"} stands facing the camera in a posed, sophisticated portrait, his weight leaning slightly to the left with level shoulders. He has a dense, dark brown-black neatly trimmed box beard and a modern haircut with tapered sides and a {argument name=\"hairstyle\" default=\"two-to-three-inch textured quiff\"} pushed upward and mostly swept forward. The naturally straight hair features a slightly off-center right part and is styled with a matte paste to create volume and separation without shine, distinctly showing natural imperfections like slight frizz on the extreme edges, minor flyaways, and unequal clumping. His expression is self-assured with a neutral mouth, direct gaze, and relaxed eyebrows. He wears a short-sleeve pitch-black polo shirt and charcoal grey trousers. His left hand rests lightly on a slanted, pristine polished tubular steel boat railing in the foreground, revealing a leather-strap watch. His right hand is in his pocket. This is a layered scene, leading into a deep, thriving marina midground where the pitch-black water forms fluid ripples that intensely reflect bright golden-yellow and white city lights. To the right, a massive curved high-rise building glows with warm golden interior lights across dense horizontal balconies, balancing the asymmetric composition. On the left, a brightly lit passenger boat moves across the water channel, backed by a background cluster of tall, rectangular dark glass skyscrapers exhibiting vertical lines, cooler cyan architectural accents, and rooftop construction lighting against the deep night sky. The energetic, cosmopolitan atmosphere features a highly saturated, warm, and high-contrast complementary color profile heavily emphasizing pitch black, warm gold, charcoal grey, and neon blue. A bright, soft, and continuous frontal fill light illuminates the subject, leaving soft, gradual gray shadows under his chin, behind his trouser folds, and beneath the railing, while preserved specular highlights glisten on his forehead, nose tip, arms, the metallic railing, and the water surface. Captured as realistic digital photography with a straight-on perspective, the image channels low-light smartphone portraiture aesthetics, featuring slightly soft sharpness, characteristic digital noise, a deep depth of field, and post-processing that boosts city light saturation and applies a high-contrast curve, all smoothly framed in a 3:4 aspect ratio.",
+    "title": "Nighttime Marina Fashion Portrait",
+    "description": "A detailed nighttime portrait prompt of a male model in a marina setting with glowing city lights and reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941376402_p3dqwf_HLMY8nuXQAAxAYd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26188,
+    "content": "A high-quality, realistic portrait of a young woman wearing a {argument name=\"hijab color\" default=\"dark brown\"} hijab, styled neatly. She is wearing a matching {argument name=\"sweatshirt color\" default=\"dark brown\"} sweatshirt with light-colored side stripes and a small embroidered crest on the chest, paired with faded grey baggy jeans. On her head, she wears a {argument name=\"hat style\" default=\"washed-grey baseball cap\"}. She is sitting on concrete steps with her hand gently resting under her chin, looking directly at the camera with a friendly, subtle smile. The background is a simple, industrial-style grey metal mesh gate. The lighting is soft and natural, emphasizing a clean, casual, and trendy streetwear aesthetic. High resolution, clear focus, professional photography style.",
+    "title": "Streetwear Hijab Portrait",
+    "description": "A high-quality realistic portrait of a woman in trendy streetwear including a hijab and baseball cap.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941369448_b879jz_HLMXvTiaMAAiRll.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26185,
+    "content": "Photorealistic fashion portrait of a beautiful young woman wearing a {argument name=\"outfit color\" default=\"luxurious chocolate brown\"} {argument name=\"clothing item\" default=\"satin hijab\"} elegantly draped with soft folds around her head and shoulders, matching tight long-sleeved brown top, high-waisted beige trousers with slim brown leather belt. She holds dark sunglasses gracefully in her hands and carries a large glossy brown leather tote bag with embossed logo on her shoulder. Confident pose leaning against a {argument name=\"background\" default=\"white textured wall\"} with strong dramatic palm leaf shadows cast across the wall and her figure. Bright natural golden sunlight, high contrast, cinematic lighting, flawless makeup with defined eyebrows and lashes, elegant three-quarter view, professional photography, ultra detailed, sharp focus, 8k photorealistic.",
+    "title": "Photorealistic Hijab Fashion Portrait",
+    "description": "A high-detail prompt for creating a professional fashion portrait featuring a model in a chocolate brown satin hijab with cinematic outdoor lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941368188_6st0h4_HLLf_H_a8AAzVbb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26197,
+    "content": "A candid, photo journalistic style portrait photograph of {argument name=\"subject\" default=\"actress Sydney Sweeney\"}, seated on rough stone steps. She is posing with her hand to her chin, making eye contact with the camera. Sweeney wears an {argument name=\"outfit\" default=\"oversized blue-and-white pinstriped button-down shirt-dress\"}, red socks, and red leather sandals. To her left is a {argument name=\"accessory\" default=\"cream-colored Gucci Dionysus top-handle handbag\"} featuring a prominent red bow and detailed floral embroidery. She is in a lush, tropical garden environment, surrounded by green foliage, tropical plants, and yellow flowering bushes. The foreground has blurred out-of-focus yellow rose blooms. The lighting is soft, natural daylight.",
+    "title": "Photojournalistic Tropical Garden Portrait",
+    "description": "A candid-style portrait prompt featuring Sydney Sweeney in a lush tropical setting wearing a striped shirt-dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941375066_4csifn_HLKp1-sawAARuW2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26196,
+    "content": "A {argument name=\"subject\" default=\"young adult male model\"} stands in a medium shot with his body turned at a relaxed 45-degree angle, wearing a {argument name=\"outfit\" default=\"crisp white button-down shirt\"} with an unbuttoned collar. His dark gray hair is cut in a three to four inch swept-back wavy taper grazing his nape, styled straight back with natural root lift, medium-hold product, and a slight glossy sheen, featuring coarse natural waves and visible flyaways that organically break the silhouette. His facial expression is serious and posed, with slightly furrowed eyebrows, slightly squinting eyes looking away from the camera, and a closed neutral mouth. His right hand is raised near his waist in an organic, mid-air casual gesture with fingers loosely curved, adorned with a ring and a rectangular tank watch, establishing a natural visual hierarchy from his face down to the collar and relaxed hand. He is isolated outdoors against a pristine, shallow depth-of-field background consisting of a blurred, hazy horizon of water that transitions into an open atmospheric space. This environment forms a perfectly smooth, matte pure white to light gray gradient with no distinct edges. Bathed in moderately directional, single-source natural daylight from a 45-degree side angle, the scene embraces a monochromatic black and white color profile with medium contrast and neutral temperature. The high-key soft light with ambient fill casts short, soft-edged gray shadows under his jaw, along the right side of his face, and deep within the folds of his shirt, while bright, blown-out highlights illuminate his nose bridge, his relaxed shoulders, and the entirely overexposed background. The mood is sophisticated, calm, and dramatically timeless, evoking a classic cinematic feel. Captured as a realistic digital photograph echoing 90s minimalist editorial fashion photography, the image is rendered tack sharp on the subject's face and watch using an {argument name=\"lens\" default=\"85mm lens\"} at f/2.8, 1/500s, and ISO 100, finalized with a strict black and white conversion, lifted blacks, and subtle film grain, framed in a 3:4 aspect ratio utilizing an asymmetric rule of thirds composition.",
+    "title": "90s Minimalist Editorial Fashion Portrait",
+    "description": "A sophisticated black and white portrait prompt of a male model with natural lighting and a high-key minimalist background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941374940_ohvn9k_HLKT_1_WYAAklYo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26184,
+    "content": "A surreal macro world where miniature workers assemble a giant {argument name=\"brand\" default=\"Pepsi\"} can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded {argument name=\"brand\" default=\"Pepsi\"} platform. Hyper-realistic reflections, cinematic lighting, playful scene.",
+    "title": "Miniature Workers Giant Soda Can",
+    "description": "A surreal macro scene of miniature workers assembling a giant branded soda can with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941366676_5zq7ih_HLKAsYmbkAAzz4S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26195,
+    "content": "Ultra-realistic IMAX-quality Netflix-style underwater fantasy romance portrait, 9:16 vertical composition. A happy young couple gently floating hand-in-hand above a breathtaking {argument name=\"scenery\" default=\"underwater flower garden\"} filled with colorful coral blossoms, swaying sea grass, and glowing aquatic plants. Crystal-clear sapphire-blue water surrounds them as golden sunlight streams through the surface, creating mesmerizing caustic patterns across their faces and the ocean floor. Tiny tropical fish swim gracefully around them, while delicate air bubbles drift upward through the magical scene.The young man wears a {argument name=\"male outfit\" default=\"fitted black t-shirt\"}, his curly dark hair moving naturally with the water currents, thin round glasses catching subtle reflections of sunlight. His expression shows pure wonder and happiness, a warm smile on his face as he looks toward the woman beside him.The young woman wears an {argument name=\"female outfit\" default=\"elegant white sleeveless top\"} with flowing black high-waisted bottoms. Her long dark-brown wavy hair spreads beautifully through the water like silk ribbons. Her flawless skin is illuminated by soft underwater light, and her expression radiates joy, laughter, and deep affection as she gazes back at him.They float effortlessly in a relaxed pose, fingers intertwined, creating a romantic emotional connection. Around them, colorful coral formations, glowing jellyfish in the distance, shimmering particles, schools of exotic fish, and sparkling oxygen bubbles add depth and life to the underwater paradise.Cinematic underwater lighting, dreamlike atmosphere, ultra-detailed textures, realistic water physics, premium Hollywood color grading, deep ocean blues, emerald greens, glowing turquoise highlights, HDR quality, crystal-clear visibility, award-winning editorial photography, 35mm cinematic lens, f/1.8, shallow depth of field, masterpiece realism, immersive storytelling, luxury visual aesthetic, magical underwater dreamscape, ultra-sharp focus, volumetric light rays, breathtaking fantasy romance.",
+    "title": "Underwater Fantasy Romance Portrait",
+    "description": "A highly detailed cinematic prompt for a romantic couple floating in a magical underwater flower garden with sunlight rays and tropical fish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941373711_jp0dsv_HLJ_xsCbUAAC4QG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26204,
+    "content": "Create a {argument name=\"festival\" default=\"Dragon Boat\"} Festival greeting image, requiring the use of an uploaded photo, wearing {argument name=\"clothing\" default=\"Hanfu\"}, with high-definition exquisite makeup, a smiling face, and {argument name=\"festival\" default=\"Dragon Boat\"} elements. The greeting should use Chinese regular script '{argument name=\"greeting\" default=\"Wishing you health and peace during the Dragon Boat Festival\"}'.",
+    "title": "Dragon Boat Festival Portrait Greeting",
+    "description": "A prompt designed for the Dragon Boat Festival that places a person from an uploaded photo into traditional Hanfu attire with festive elements and a stylized greeting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941377775_02fyat_HLJ7WSNbgAEjdST.jpg",
+      "https://cms-assets.youmind.com/media/1781941377763_pkaxnj_HLJ7WSJbQAA-THb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26193,
+    "content": "A dramatic black and white full-body photograph of a {argument name=\"subject\" default=\"sharp-dressed, handsome man with styled wavy hair and a short beard\"}, wearing round dark sunglasses, a {argument name=\"clothing\" default=\"black turtleneck sweater, and tailored black trousers\"}. He is standing tall in a {argument name=\"setting\" default=\"dimly lit, sophisticated vintage bar or pub\"}, leaning one hand casually on the back of an elegant, curved wooden bistro chair. He is striking a confident pose with his legs elegantly crossed at the ankles. The background features warm accent lighting, a classic wooden bar counter with glass bottles, patterned wallpaper, and a large arched window. The mood is cinematic, moody, and highly detailed, captured in a crisp monochrome aesthetic.",
+    "title": "Monochrome Vintage Bar Gentleman",
+    "description": "A moody black and white portrait of a man in a turtleneck, leaning on a bistro chair in a sophisticated vintage bar setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941373575_ipr2s2_HLJbMGyagAEOven.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26198,
+    "content": "Using the uploaded face image, preserve the person's facial identity with absolute accuracy (100% identity preservation), maintaining the exact face shape, bone structure, forehead, eyebrows, eyes, nose, lips, ears, jawline, hairstyle, hairline, facial hair, skin tone, complexion, age, and natural expression without beautifying or altering the individual. Create an ultra-premium Gen-Z fashion editorial portrait of the same person seated casually on a {argument name=\"furniture\" default=\"perfectly cylindrical matte purple ottoman\"}, leaning slightly forward with elbows resting naturally on the thighs and hands loosely clasped together, projecting effortless confidence and modern attitude while making direct eye contact with the camera. Dress the subject in an {argument name=\"outfit\" default=\"oversized luxury monochromatic purple trench coat layered over a matching purple crew-neck t-shirt\"}, relaxed-fit white trousers, premium white and purple designer sneakers, and a sophisticated stainless steel wristwatch. Place the subject inside a seamless {argument name=\"background\" default=\"monochromatic purple studio\"} where both the floor and background are the same rich matte purple with a clean minimalist aesthetic and no additional props or distractions. Illuminate the scene using high-end professional fashion studio lighting with a large softbox positioned slightly above and to camera left, complemented by subtle fill lighting and gentle cinematic shadows that sculpt the face while preserving realistic skin texture and premium fabric details. Capture the image in a perfectly balanced 4:5 vertical composition with the full body and shoes visible, centered framing, shot using an 85mm medium-format portrait lens with shallow depth of field, ultra-sharp focus, hyper-realistic skin pores, luxury editorial color grading, Apple-style minimalism, Vogue campaign quality, commercial advertising photography, HDR, photorealistic 8K resolution. Negative prompt: different person, identity change, face swap, altered facial features, beautified face, different hairstyle, incorrect facial hair, asymmetrical face, distorted anatomy, extra fingers, missing fingers, duplicate limbs, bad hands, blurry image, low quality, low resolution, cartoon, anime, CGI, illustration, plastic skin, oversmoothed skin, fisheye lens, wide-angle distortion, cluttered background, text, watermark, logo, cropped shoes, cropped body, artifacts.",
+    "title": "Monochromatic Purple Fashion Editorial",
+    "description": "A premium fashion editorial prompt for identity preservation in a monochromatic purple studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941375076_2chy2s_HLJXo8EbYAAgjWg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26186,
+    "content": "Photorealistic close-up selfie of an adorable young woman, face filling most of the frame, head slightly tilted with cheek resting inside a {argument name=\"hoodie style\" default=\"cozy cream oversized hoodie\"} sleeve. Long silky hair with {argument name=\"hair style\" default=\"soft curtain bangs\"} covering one eye, big expressive eyes with winged eyeliner, fluffy lashes, natural glowing skin, dusty pink lips, gentle pout, sweet and cute expression. Hoodie slipping off one shoulder, visible collarbone. Warm indoor lighting, soft beige-gray blurred background, shallow depth of field, ultra-detailed eye focus, realistic hair texture, cozy aesthetic, authentic webcam selfie vibe, muted pastel tones, high realism,portrait.",
+    "title": "Cozy Hoodie Selfie Portrait",
+    "description": "A photorealistic and cute close-up selfie of a woman in an oversized hoodie with a warm, aesthetic vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941367996_pted15_HLJNacQakAAljS4.jpg",
+      "https://cms-assets.youmind.com/media/1781941367947_usuv9t_HLJNbXobYAEZu4Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26189,
+    "content": "Using the reference image, create an ultra-realistic vertical smartphone selfie of an {argument name=\"subject\" default=\"adult woman\"} in a {argument name=\"setting\" default=\"luxury marble bathroom\"} after a shower. Preserve the same facial structure, natural expression, wet slicked-back hair, soft bare-faced makeup look, realistic skin texture, water droplets on the face, shoulders, and collarbone, and the {argument name=\"clothing item\" default=\"red towel\"} wrapped securely around the chest. The background should show a high-end glass shower with white marble walls, chrome fixtures, soft bathroom lighting, mirror reflections, and a clean spa-like atmosphere. Keep the composition close-up from chest to head, slightly high selfie angle, natural phone camera perspective, realistic lighting, detailed pores, soft highlights on wet skin, candid luxury lifestyle aesthetic, photorealistic, 9:16 vertical format, high resolution.\nNegative prompt:\nnudity, exposed chest, explicit pose, sexualized expression, heavy makeup, plastic skin, over-smoothed face, distorted anatomy, extra fingers, warped shoulders, blurry face, low resolution, cartoon, CGI, watermark, text, unrealistic bathroom, harsh shadows.",
+    "title": "Realistic Spa Bathroom Selfie",
+    "description": "A highly detailed prompt for an ultra-realistic smartphone selfie in a luxury marble bathroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941369663_gsprnh_HLHl-bgXAAA_pZW.jpg",
+      "https://cms-assets.youmind.com/media/1781941369694_m6j2rt_HLHl-auWMAAI_UU.jpg",
+      "https://cms-assets.youmind.com/media/1781941369887_wvtqyw_HLHl-aeWQAAeSt8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26090,
     "content": "{\"vibe_title_en\": \"Glacial Avant-Garde\", \"master_prompt\": \"Medium format 105mm beauty portrait of The Protagonist. The face remains perfectly calm, stoic, and neutral, gazing directly into the lens. The facial features are sharply defined and entirely unhidden, acting as the anchor of the shot. The face is dramatically framed by a surreal, high-budget practical effect: a complex, sculptural high-collar made of massive, razor-sharp physical ice blocks, intricate silver chains, raw pearls, and pale blue frost-feathers acting as avant-garde armor. The subject is situated in an overwhelmingly dense and cluttered surreal glacial artisan's workshop. The foreground and out-of-focus background are completely saturated with stacks of ice core samples, shattered optical glass prisms, antique brass navigational tools coated in thick frost, and scattered crystal debris. Shot on Hasselblad H6D-100c, 105mm f/2.8 lens for a shallow depth of field. High-contrast, clean cinematic lighting with cool color temperatures. A piercing key light emphasizes natural skin texture, micro-pores, and the specular highlights refracting through the ice. Cinematic volumetric frosty haze in the air. Shot on Kodak Portra 400 film stock, displaying authentic analog grain and physical weight. NO NEON.\", \"meta\": {\"intent\": \"Surreal Editorial Beauty\", \"priorities\": \"Micro-Texture, Facial Clarity, Environmental Clutter\", \"device_profile\": \"High-Resolution Display\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Tight head-and-shoulders shot, subject perfectly centered to emphasize symmetry\", \"layout\": \"Subject dominant in foreground, highly dense and chaotic blurred background\", \"camera_angle\": \"Eye-level, straight-on perspective\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Avant-Garde Stoic\", \"demographics\": \"Universal/Androgynous\", \"face\": \"Symmetrical, tack-sharp features, highly detailed skin pores and natural imperfections\", \"hair\": \"Pulled back tightly, textured with subtle frost\", \"body\": \"Statuesque posture, bare shoulders contrasting with heavy garments\", \"expression\": \"Calm, neutral, stoic, piercing direct gaze\", \"pose\": \"Still, facing forward, framed by complex icy structures without being obscured\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Sculptural high-collar bodice\", \"material\": \"Pale blue silk interwoven with synthetic frost-feathers\", \"color\": \"Pale icy blue\", \"fit\": \"Rigid, architectural, and complex\"}], \"accessories\": [{\"item\": \"Floating face-framing collar\", \"color\": \"Translucent cyan and crystalline white\", \"material\": \"Physical ice blocks and glass shards\", \"brand_style\": \"Surrealist Haute Couture\"}, {\"item\": \"Heavy layered necklaces\", \"color\": \"Silver, white, and clear\", \"material\": \"Raw pearls, silver chains, and crystal beads\", \"brand_style\": \"Maximalist Artisan\"}]}, \"environment\": {\"setting\": \"Chaotic Glacial Artisan's Workshop\", \"surfaces\": \"Shattered ice, frosted brass, wet glass, scattered pearls\", \"depth\": \"Shallow depth of field (f/2.8), background heavily cluttered but softly blurred\", \"atmosphere\": \"Freezing, filled with volumetric frosty haze and floating dust motes\", \"lens_interaction\": \"Complex bokeh generated by light refracting through background ice prisms\"}, \"lighting\": {\"key\": \"Crisp, cool-toned optical snoot highlighting the face with clinical precision\", \"fill\": \"Soft blue ambient bounce from surrounding ice structures\", \"rim\": \"Sharp silver rim light separating shoulders and ice edges from the dark background\", \"shadows\": \"Deep, cool-toned, high contrast for maximum facial definition\", \"color_temperature\": \"6000K (Cool/Daylight)\", \"sensor_flare\": \"Subtle organic light leak from specular highlights on the ice\"}, \"camera\": {\"lens_type\": \"Prime Beauty Telephoto\", \"focal_length\": \"105mm\", \"aperture\": \"f/2.8\", \"focus\": \"Tack-sharp focus locked on the eyes and lips\", \"sensor_format\": \"Medium Format Digital (Hasselblad)\", \"perspective_distortion\": \"Zero distortion, telephoto compression\"}, \"post_processing\": {\"color\": \"Cool, desaturated blues and crisp whites retaining natural, warm skin tones\", \"tonality\": \"High-end editorial contrast with deep blacks and luminous highlights\", \"texture\": \"Fine analog film grain (Kodak Portra 400 push-processed) maintaining hyper-detailed skin pores\", \"digital_sharpening\": \"None, strictly relying on superior optical lens sharpness\", \"chromatic_aberration\": \"Minimal, present only at the extreme edges of refracted ice blocks\"}, \"negative_specifications\": [\"neon\", \"flat lighting\", \"minimalist background\", \"empty space\", \"hidden facial features\", \"obscured face\", \"CGI look\", \"cartoon\", \"digital illustration\", \"plastic skin\"]}",
     "title": "Glacial Avant-Garde Beauty Portrait",
@@ -141,6 +295,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 26192,
+    "content": "A high-fidelity, hyper-realistic lifestyle portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} sitting at an {argument name=\"setting\" default=\"outdoor café table\"}, 8k resolution, vertical 9:16 aspect ratio. She has long, wavy, flowing brown hair, soft elegant facial features, and hazel eyes with a gentle, serene expression, softly resting her cheek on her left hand. She is wearing an {argument name=\"outfit\" default=\"exquisite cream-colored long-sleeve dress made of intricate, detailed floral lace embroidery\"}. She is adorned with luxury jewelry: a multi-layered pearl necklace with brilliant blue sapphire drops, matching pearl and sapphire bracelets on her wrists, and elegant dangling earrings. In front of her on a textured marble table, there is a modern sleek smartphone lying flat and a ceramic cup filled with hot black tea with visible delicate steam rising from it. The background features a softly blurred outdoor terrace with vibrant pink blooming flowers on a green bush and a modern glass window structure. Shallow depth of field, natural soft lighting, cinematic photography style.",
+    "title": "Elegant Lace Dress Cafe Portrait",
+    "description": "A hyper-realistic lifestyle portrait of a woman in an intricate lace dress sitting at an outdoor terrace with luxury jewelry and hazel eyes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941372105_a6yd65_HLF24R6WQAE6INe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26082,
     "content": "Using the uploaded image, keep the exact real face, hairstyle, and skin tone unchanged. Fashion photography of a stylish {argument name=\"subject\" default=\"male model\"} sitting casually on a soft textured {argument name=\"furniture\" default=\"beanbag chair\"}, working on a {argument name=\"device\" default=\"MacBook Pro 20\"}...",
     "title": "Male Model Fashion Photography Edit",
@@ -162,12 +326,12 @@
   },
   {
     "id": 26086,
-    "content": "A hyper-realistic full-body portrait of a {argument name=\"gender\" default=\"cute young woman\"} crouching in a narrow urban alleyway, hugging a giant fluffy pink Pikachu-inspired plush toy. She is wearing an {argument name=\"clothing\" default=\"oversized pastel pink hoodie dress decorated with adorable kawaii patches, hearts, bows, stars, and cute character-inspired badges\"}, paired with white crew socks and clean white sneakers. She is smiling warmly at the camera while holding a {argument name=\"accessory\" default=\"shiny pink heart-shaped accessory\"} in one hand. Long soft brown hair, natural makeup, youthful appearance.\n\nThe alley is lined with red brick walls on both sides, creating cinematic depth and perspective. Multiple floating pink Pikachu-inspired creatures and other adorable pastel fantasy characters hover around her in mid-air. Colorful pink and white confetti rains throughout the scene, with playful comic-style doodles, speech bubbles, hearts, stars, sparkles, bows, exclamation marks, and question marks scattered around. Bright cheerful atmosphere, dreamy pastel pink color palette, magical fantasy feeling.\n\nUltra-detailed fluffy fur texture on the plush toy, realistic skin texture, soft natural daylight, shallow depth of field, creamy bokeh background, dynamic composition, centered framing, high-end DSLR photography, 85mm lens, f/1.8, cinematic lighting, HDR, vibrant colors, sharp focus, masterpiece, ultra realistic, 8K, photorealistic, cute kawaii aesthetic, joyful celebration mood, luxury fashion photography, whimsical pink wonderland vibe.\n\nNegative Prompt:\nlow quality, blurry, distorted face, extra fingers, extra limbs, bad anatomy, cropped, duplicate characters, watermark, text, logo, oversaturated, noisy image, deformed hands, mutated body, out of frame, low resolution, ugly face, cartoon style, poorly drawn details, motion blur, dull colors, messy composition, flat lighting.",
-    "title": "Kawaii Alleyway Portrait with Giant Pikachu",
-    "description": "A detailed prompt for creating a whimsical urban scene featuring a young woman in a pastel hoodie with a giant Pikachu plushie and magical floating creatures.",
+    "content": "A hyper-realistic full-body portrait of a {argument name=\"subject\" default=\"cute young woman\"} crouching in a narrow urban alleyway, hugging a {argument name=\"plush toy\" default=\"giant fluffy pink Pikachu-inspired plush toy\"}. She is wearing an oversized {argument name=\"clothing\" default=\"pastel pink hoodie dress decorated with adorable kawaii patches\"}, paired with white crew socks and clean white sneakers. She is smiling warmly at the camera while holding a shiny pink heart-shaped accessory in one hand. Long soft brown hair, natural makeup, youthful appearance.\n\nThe alley is lined with red brick walls on both sides, creating cinematic depth and perspective. Multiple floating pink Pikachu-inspired creatures and other adorable pastel fantasy characters hover around her in mid-air. Colorful pink and white confetti rains throughout the scene, with playful comic-style doodles, speech bubbles, hearts, stars, sparkles, bows, exclamation marks, and question marks scattered around. Bright cheerful atmosphere, dreamy pastel pink color palette, magical fantasy feeling.\n\nUltra-detailed fluffy fur texture on the plush toy, realistic skin texture, soft natural daylight, shallow depth of field, creamy bokeh background, dynamic composition, centered framing, high-end DSLR photography, 85mm lens, f/1.8, cinematic lighting, HDR, vibrant colors, sharp focus, masterpiece, ultra realistic, 8K, photorealistic, cute kawaii aesthetic, joyful celebration mood, luxury fashion photography, whimsical pink wonderland vibe.\n\nNegative Prompt:\nlow quality, blurry, distorted face, extra fingers, extra limbs, bad anatomy, cropped, duplicate characters, watermark, text, logo, oversaturated, noisy image, deformed hands, mutated body, out of frame, low resolution, ugly face, cartoon style, poorly drawn details, motion blur, dull colors, messy composition, flat lighting.",
+    "title": "Kawaii Pastel Pikachu Alleyway",
+    "description": "A hyper-realistic and whimsical prompt for a young woman in a pastel hoodie with various cute patches, surrounded by floating Pikachu-inspired creatures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781857324185_1ox24s_HLFnOmqa0AAKSoc.jpg",
-      "https://cms-assets.youmind.com/media/1781857324215_abqnbw_HLFnPpTa8AAwslN.jpg"
+      "https://cms-assets.youmind.com/media/1781941371785_hjd7xz_HLFnOmqa0AAKSoc.jpg",
+      "https://cms-assets.youmind.com/media/1781941371800_9p8l6a_HLFnPpTa8AAwslN.jpg"
     ],
     "needReferenceImages": false
   },

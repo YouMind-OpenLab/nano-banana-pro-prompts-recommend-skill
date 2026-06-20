@@ -20,6 +20,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 26195,
+    "content": "Ultra-realistic IMAX-quality Netflix-style underwater fantasy romance portrait, 9:16 vertical composition. A happy young couple gently floating hand-in-hand above a breathtaking {argument name=\"scenery\" default=\"underwater flower garden\"} filled with colorful coral blossoms, swaying sea grass, and glowing aquatic plants. Crystal-clear sapphire-blue water surrounds them as golden sunlight streams through the surface, creating mesmerizing caustic patterns across their faces and the ocean floor. Tiny tropical fish swim gracefully around them, while delicate air bubbles drift upward through the magical scene.The young man wears a {argument name=\"male outfit\" default=\"fitted black t-shirt\"}, his curly dark hair moving naturally with the water currents, thin round glasses catching subtle reflections of sunlight. His expression shows pure wonder and happiness, a warm smile on his face as he looks toward the woman beside him.The young woman wears an {argument name=\"female outfit\" default=\"elegant white sleeveless top\"} with flowing black high-waisted bottoms. Her long dark-brown wavy hair spreads beautifully through the water like silk ribbons. Her flawless skin is illuminated by soft underwater light, and her expression radiates joy, laughter, and deep affection as she gazes back at him.They float effortlessly in a relaxed pose, fingers intertwined, creating a romantic emotional connection. Around them, colorful coral formations, glowing jellyfish in the distance, shimmering particles, schools of exotic fish, and sparkling oxygen bubbles add depth and life to the underwater paradise.Cinematic underwater lighting, dreamlike atmosphere, ultra-detailed textures, realistic water physics, premium Hollywood color grading, deep ocean blues, emerald greens, glowing turquoise highlights, HDR quality, crystal-clear visibility, award-winning editorial photography, 35mm cinematic lens, f/1.8, shallow depth of field, masterpiece realism, immersive storytelling, luxury visual aesthetic, magical underwater dreamscape, ultra-sharp focus, volumetric light rays, breathtaking fantasy romance.",
+    "title": "Underwater Fantasy Romance Portrait",
+    "description": "A highly detailed cinematic prompt for a romantic couple floating in a magical underwater flower garden with sunlight rays and tropical fish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941373711_jp0dsv_HLJ_xsCbUAAC4QG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26204,
+    "content": "Create a {argument name=\"festival\" default=\"Dragon Boat\"} Festival greeting image, requiring the use of an uploaded photo, wearing {argument name=\"clothing\" default=\"Hanfu\"}, with high-definition exquisite makeup, a smiling face, and {argument name=\"festival\" default=\"Dragon Boat\"} elements. The greeting should use Chinese regular script '{argument name=\"greeting\" default=\"Wishing you health and peace during the Dragon Boat Festival\"}'.",
+    "title": "Dragon Boat Festival Portrait Greeting",
+    "description": "A prompt designed for the Dragon Boat Festival that places a person from an uploaded photo into traditional Hanfu attire with festive elements and a stylized greeting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941377775_02fyat_HLJ7WSNbgAEjdST.jpg",
+      "https://cms-assets.youmind.com/media/1781941377763_pkaxnj_HLJ7WSJbQAA-THb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26201,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person. Create a hyper-realistic cinematic portrait inspired by the reference image: a close-up dramatic half-face composition where one side of my face is naturally visible and the other side dissolves into {argument name=\"effect particles\" default=\"dark particles, dust, and flying black birds\"}. The effect should look like my face is transforming into smoke and fragments, blending into the atmosphere. Keep my realistic facial features sharp and detailed, with intense eyes, textured skin, natural lighting, and a dark moody cinematic atmosphere. Add a {argument name=\"background\" default=\"stormy cloudy background\"}, high contrast, deep shadows, and a premium movie poster style. Ultra-realistic photography, 8K detail, professional portrait photography, dramatic visual effects.",
+    "title": "Cinematic Face Dissolve Effect",
+    "description": "A dramatic cinematic portrait prompt where half of the subject's face dissolves into particles and flying birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941376492_6oi4x5_HLJpyFPbYAA4heC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26088,
     "content": "A dynamic futuristic sportswear advertising campaign featuring a {argument name=\"subject\" default=\"young male basketball athlete\"}, captured from an extreme low-angle 18mm wide-angle lens perspective. The athlete is seated in a powerful pose while gripping a large matte-black basketball in the foreground, creating dramatic perspective distortion with an oversized hand and ball dominating the frame. He wears a premium {argument name=\"jacket colors\" default=\"color-blocked sports windbreaker jacket in vibrant pink, teal, and black\"}, paired with dark athletic shorts, white crew socks, and black basketball sneakers. His face is turned upward with a confident, inspired expression.\nThe environment is a {argument name=\"court style\" default=\"stylized futuristic basketball court designed entirely in vibrant pink and coral gradients\"}, featuring smooth curved architecture, circular court markings, abstract geometric shapes, and clean sports-branding aesthetics. Neon-green 3D energy ribbons emerge from and wrap around the basketball, flowing dynamically across the floor and through the scene, creating a sense of speed, power, and motion. Bold graphic design elements, sweeping curves, and modern commercial sports poster composition fill the background.\nUltra-realistic sports fashion photography, premium athletic advertising, Nike-style campaign aesthetic, dramatic depth, cinematic composition, vibrant color contrast, clean studio lighting, glossy surfaces, volumetric light, high-detail textures, sharp focus, energetic atmosphere, futuristic branding, magazine-cover quality, hyper-realistic, HDR, 8K, professional commercial photography, award-winning sports advertisement.\nNegative Prompt:\nlow quality, blurry, pixelated, bad anatomy, deformed hands, extra fingers, extra limbs, duplicate body parts, distorted face, cropped subject, text, watermark, logo, oversaturated skin, poor lighting, motion blur, noise, artifacts, low contrast, unrealistic proportions, out of frame\n\nGenerate image\nAspect ratio 3:4",
     "title": "Futuristic Sports Campaign Perspective",

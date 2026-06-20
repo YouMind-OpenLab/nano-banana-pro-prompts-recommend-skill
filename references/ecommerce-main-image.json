@@ -1,5 +1,25 @@
 [
   {
+    "id": 26200,
+    "content": "Premium rose-colored bottle with gold cap placed on layered marble podium, surrounded by blooming pink roses and silky fabric waves, floating bubbles, luxury perfume advertisement style, cinematic lighting, soft shadows, ultra realistic skincare campaign, high-end aesthetic.",
+    "title": "Rose Gold Perfume Advertisement",
+    "description": "A luxury skincare campaign prompt featuring a rose-colored bottle on a marble podium with roses and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941376253_wd8jy8_HLL_X5yaIAA0lE1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26194,
+    "content": "2x2 grid, do this for 4 AI inferred themes and shapes Anchor: A perfectly organized top-down knolling flat-lay of every object associated with {argument name=\"theme\" default=\"a Surfer / a Baker / Tokyo / the 1980s\"} ::4 Macro Shape: Objects arranged so their collective outline forms the silhouette of {argument name=\"silhouette\" default=\"a wave / a chef's hat / Mount Fuji\"} — order within, meaning at the edge. Infer 20–30 fitting items ::5 Composition: Strict 90° grid alignment, even spacing, generous margin ::3 Material Physics: Real objects, soft studio shadows, consistent matte finish ::2 Illumination: Flat overhead softbox, no glare ::2 Render Stack: Knolling photography, organized-neatly aesthetic, product flat-lay ::1 Negative: [tilted objects, overlap, mess, motion blur, duplicate items, off-theme objects] :: -1",
+    "title": "Themed Knolling Flat-Lay Grid",
+    "description": "A technical grid prompt for creating perfectly organized top-down knolling photography of items that collectively form a specific silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941373581_vejcq0_HK-5lMlXkAAV8zn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26082,
     "content": "Using the uploaded image, keep the exact real face, hairstyle, and skin tone unchanged. Fashion photography of a stylish {argument name=\"subject\" default=\"male model\"} sitting casually on a soft textured {argument name=\"furniture\" default=\"beanbag chair\"}, working on a {argument name=\"device\" default=\"MacBook Pro 20\"}...",
     "title": "Male Model Fashion Photography Edit",

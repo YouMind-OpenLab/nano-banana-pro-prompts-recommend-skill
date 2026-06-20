@@ -1,5 +1,15 @@
 [
   {
+    "id": 26202,
+    "content": "Aircraft Appearance: {argument name=\"armor\" default=\"streamlined and futuristic white\"} armor with a {argument name=\"energy core\" default=\"blue\"} glowing energy core embedded within. Lightning Charging: A moment where intense lightning strikes the aircraft's antenna from dark clouds to absorb energy. Snow Collection and Cooling: A special suction port (cyclone structure) at the bottom of the aircraft swirling up snow and ice particles from the ground or upper atmosphere like a tornado, compressing and self-cooling them to ultra-low temperatures inside. Background: {argument name=\"background\" default=\"A view of the frozen Arctic circle spreading below\"} and the gradient of outer space above.",
+    "title": "Weather Control Mecha Concept Art",
+    "description": "A detailed descriptive prompt for a futuristic sci-fi mecha designed for weather control, featuring lightning energy absorption and ice particle collection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781941377915_ntfsvn_HLJOwRoaMAAY0Zw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26083,
     "content": "Ultra-realistic stylized sketchbook collage illustration of a young modern man named ‘{argument name=\"character name\" default=\"Orion\"}’ presented in a premium cinematic character design sheet layout. Multiple dynamic portraits, expressions, poses, and lifestyle moments arranged across a clean white sketchbook background. Main character,sharp jawline, light beard stubble, expressive eyes behind {argument name=\"eyewear\" default=\"black round glasses\"}, confident soft smile, and fashionable {argument name=\"style\" default=\"casual streetwear styling\"}.",
     "title": "Cinematic Character Design Sketchbook Sheet",
