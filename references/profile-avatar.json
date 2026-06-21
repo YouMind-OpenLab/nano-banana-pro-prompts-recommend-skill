@@ -10,6 +10,83 @@
     "needReferenceImages": false
   },
   {
+    "id": 26325,
+    "content": "{\n  \"prompt\": \"Ultra-realistic cozy lifestyle selfie of {argument name=\\\"subject\\\" default=\\\"a young blonde woman reclining on a deep navy corduroy bean bag chair\\\"} in a bright modern apartment. Long naturally wavy blonde hair with soft volume, clear-framed eyeglasses with subtle window reflections, luminous skin with realistic pores, minimal makeup, soft pink lips, and expressive blue eyes. Wearing a fitted light-gray camisole with thin straps. One hand resting casually in her hair while looking directly at the camera. Soft natural daylight streaming through large windows creates gentle highlights and a calm atmosphere. Neutral-toned interior with light wood herringbone flooring, textured gray cushion, and minimalist Scandinavian-inspired decor. Authentic candid social media aesthetic, realistic skin texture, photorealistic, highly detailed, cozy home lifestyle photography, clean girl aesthetic, natural color grading, premium influencer content, 8K quality.\",\n  \n  \"negative_prompt\": \"blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered background, warped glasses, duplicate reflections, overexposed highlights, harsh shadows\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"smartphone camera\",\n    \"lens\": \"26mm wide angle\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 100,\n    \"angle\": \"high-angle handheld selfie\",\n    \"depth_of_field\": \"moderate\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"natural window light\",\n    \"direction\": \"soft overhead-side illumination\",\n    \"mood\": \"calm, cozy, relaxed\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical selfie portrait\",\n    \"subject_position\": \"reclining on navy corduroy bean bag\",\n    \"background\": \"minimalist apartment with herringbone wood flooring and soft furnishings\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "title": "Cozy Lifestyle Bean Bag Selfie",
+    "description": "A detailed photorealistic prompt for a relaxed indoor selfie with a focus on skin texture and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028905821_alou6q_HLRpR_SbQAAaVad.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26303,
+    "content": "Hyper-realistic macro cinematic photograph featuring the subject, using the uploaded face as strict reference. The subject holds a crystal drinking glass filled with glowing {argument name=\"primary color\" default=\"color1\"} and {argument name=\"secondary color\" default=\"color2\"} light. Inside the glass is a miniature World Cup stadium packed with {argument name=\"nation\" default=\"NATION\"} supporters. Tiny fireworks explode above the miniature pitch, and a professional world cup-style soccer ball lies at the center circle, clearly round, not a rugby ball. Luxury macro photography, realistic glass refraction, cinematic lighting, ultra-detailed miniature world.",
+    "title": "Miniature World Cup Stadium in Glass",
+    "description": "A detailed cinematic prompt for generating a macro photograph of a subject holding a crystal glass that contains a miniature World Cup stadium with fans and fireworks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028894946_p79f0j_HLREvrhXIAAMD1P.jpg",
+      "https://cms-assets.youmind.com/media/1782028896074_fy0ceb_HLRFIohWQAAiFqd.jpg",
+      "https://cms-assets.youmind.com/media/1782028896348_tcv502_HLRE-5ZWQAAQR9c.jpg",
+      "https://cms-assets.youmind.com/media/1782028895697_579z2z_HLREkdnWQAALl1N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26307,
+    "content": "Ultra-realistic close-up smartphone selfie of a {argument name=\"subject\" default=\"stunning young woman lying in bed\"}, captured from a slightly tilted angle. Her face fills most of the frame, partially wrapped in a soft white duvet that gently covers one side of her face. She has flawless porcelain skin, naturally full glossy pink lips, large expressive deep-brown eyes with long curled eyelashes, and a dreamy, contemplative gaze looking slightly upward. Delicate wisps of {argument name=\"hair color\" default=\"chestnut-brown hair\"} fall across her face, creating an intimate and effortless beauty. Soft wavy brown hair spreads across a cream-colored pillow with subtle floral textures.\nWarm {argument name=\"lighting\" default=\"golden morning sunlight\"} streams through a nearby window, casting gentle shadows and natural highlights across the duvet and her skin. The lighting is soft, diffused, and cinematic, emphasizing realistic skin texture, glossy lips, and sparkling catchlights in the eyes. The atmosphere feels calm, cozy, romantic, and emotionally captivating. Shallow depth of field, ultra-detailed facial features, natural beauty photography, luxury lifestyle aesthetic, candid bedroom moment, high-end editorial quality, photorealistic, 8K resolution, HDR, masterpiece composition, soft neutral color palette, viral social-media portrait.\nNegative Prompt:\nlow quality, blurry, overprocessed skin, heavy makeup, exaggerated facial features, distorted eyes, extra fingers, duplicate features, cartoon, CGI, painting, illustration, harsh shadows, oversaturated colors, grainy image, watermark, text, logo, cropped face, unnatural pose, artificial lighting, bad anatomy, low resolution.",
+    "title": "Hyper-Realistic Morning Bed Selfie",
+    "description": "Generates an intimate, ultra-realistic close-up selfie of a woman in bed, capturing soft morning light and detailed facial textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028898937_0kukwm_HLQkCKUbMAAuyQm.jpg",
+      "https://cms-assets.youmind.com/media/1782028898946_ibhrjd_HLQkCTLacAAs17i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26327,
+    "content": "Recreate old antique photos with hyper-realism; completely preserve the original face without any changes. Use a modern high-quality digital portrait with updated vibrant colors and smooth, realistic skin textures.",
+    "title": "Vintage Photo Restoration and Enhancement",
+    "description": "Transforms old antique photos into realistic high-quality digital portraits while preserving the original facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028907000_r80lq8_HLPN7xGaQAAMyqY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26326,
+    "content": "Create a professionally shot, high-resolution {argument name=\"ID type\" default=\"ID card\"} photo with a clean white background. The subject is centered with ample lighting, natural skin tone, and soft, even makeup. The subject wears neat {argument name=\"clothing style\" default=\"business\"} attire, with a tidy hairstyle and a confident, composed expression. The lighting is even without harsh shadows, ensuring the face is presented clearly and naturally.",
+    "title": "Professional High-Resolution ID Photo",
+    "description": "A prompt for creating clean, professional-quality ID photos with centered composition and natural lighting, ideal for business or official use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028906257_7ytl5t_HLPN7PgagAArlFL.jpg",
+      "https://cms-assets.youmind.com/media/1782028906218_1jap34_HLPN7XtbwAA1wnU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26312,
+    "content": "Create an ultra-realistic cinematic portrait featuring a beautiful {argument name=\"subject\" default=\"Muslim woman wearing a flowing black abaya and matching black hijab\"}, with an {argument name=\"attire detail\" default=\"elegant dark paisley-patterned shawl\"} draped gracefully over her shoulders. She stands calmly, gazing slightly away from the camera with a wise, serene expression. The scene is illuminated with dramatic chiaroscuro lighting, where a soft warm key light highlights her face while the background remains in deep cinematic shadows. Behind her is a {argument name=\"background\" default=\"luxurious dark textured wall decorated with softly blurred Arabic calligraphy glowing in rich gold and crimson tones\"}. Capture photorealistic skin texture, realistic fabric folds, intricate paisley embroidery, soft depth of field, warm cinematic color grading, premium editorial fashion photography, ultra-detailed 8K resolution, HDR, masterpiece composition, museum-quality portrait, elegant Islamic aesthetic, vertical 9:16 full-screen mobile wallpaper.",
+    "title": "Chiaroscuro Muslim Woman Portrait",
+    "description": "An elegant portrait featuring a Muslim woman in a black abaya with dramatic chiaroscuro lighting and a background of golden Arabic calligraphy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028900537_ivll0o_HLO9MBwaUAE9fMy.jpg",
+      "https://cms-assets.youmind.com/media/1782028900667_j8n008_HLO9MrXaMAA-PSJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26320,
+    "content": "Use the attached reference photo as the subject. Maintain the exact facial features, face shape, skin tone, hairstyle, and unique characteristics of the person in the reference image. Close-up portrait, head slightly tilted, natural confident expression, sharp focus on the eyes, clean and elegant pose, wearing simple solid-color clothing matching the reference photo, {argument name=\"background\" default=\"vibrant solid color gradient background\"} (choose: {argument name=\"colors\" default=\"orange-red / emerald green / royal blue / deep purple\"}), strong {argument name=\"lighting\" default=\"hard directional studio light from the front-top angle\"}, dramatic shadow falling across part of the face and neck, high contrast between lit and shadowed areas, sharp defined shadow edge, warm or cool color grading depending on background choice, photorealistic skin texture with natural highlights and fine details, glowing healthy skin tone, shot on Canon EOS R5, 50mm f/1.8 lens, sharp focus on face, slightly soft blurred background, ultra-high resolution, 8K, editorial fashion campaign aesthetic, bold, clean, and confident mood",
+    "title": "Hard Studio Light Editorial Portrait",
+    "description": "A professional editorial fashion portrait using strong directional studio lighting to create dramatic shadows and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028903818_r7t1fy_HLOm-QNa0AAqD8M.jpg",
+      "https://cms-assets.youmind.com/media/1782028903816_hspki4_HLOm_AZa4AAbXXw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26203,
     "content": "Use the uploaded face image to preserve the person's facial identity with absolute accuracy (100% identity retention), maintaining precise facial shape, bone structure, forehead, eyebrows, eyes, nose, lips, ears, jawline, hairstyle, hairline, facial hair, skin tone, skin texture, age, and natural expression, without beautifying or altering the individual. Create a high-end Gen-Z fashion editorial portrait of the same person sitting casually on a perfectly cylindrical {argument name=\"theme color\" default=\"matte purple\"} ottoman, leaning slightly forward with elbows resting naturally on thighs and hands loosely clasped, showing effortless confidence and a modern attitude while making direct eye contact with the camera. The subject should wear an oversized luxury monochrome purple trench coat over a matching purple crew-neck t-shirt, loose-fit white trousers, high-quality white and purple designer sneakers, and a sophisticated stainless steel watch. Place the subject in a seamless monochrome purple studio where the floor and background are the same rich {argument name=\"theme color\" default=\"matte purple\"}, following a clean minimalist aesthetic with no extra props or distractions. Use high-end professional fashion studio lighting to illuminate the scene, with a large softbox slightly above and to the left of the camera, complemented by subtle fill light and soft cinematic shadows that sculpt facial contours while preserving realistic skin texture and high-end fabric details. Capture the image in a perfect {argument name=\"aspect ratio\" default=\"4:5\"} portrait composition, with the full body and shoes completely visible, centered composition, shot with an {argument name=\"lens\" default=\"85mm\"} medium format portrait lens, shallow depth of field, ultra-sharp focus, surreal skin pores, luxury editorial color grading, Apple-style minimalism, Vogue advertising quality, commercial photography, HDR, and photorealistic 8K resolution. Negative prompt: different people, identity changed, face swap, altered facial features, beautified face, different hairstyle, incorrect facial hair, asymmetrical face, distorted anatomy, extra fingers, missing fingers, duplicate limbs, deformed hands, blurry image, low quality, low resolution, cartoon, anime, CGI, illustration, plastic skin, overly smooth skin, fisheye lens, wide-angle distortion, cluttered background, text, watermark, logo, cropped shoes, cropped body, artifacts.",
     "title": "High-Fidelity Gen-Z Fashion Editorial Portrait",

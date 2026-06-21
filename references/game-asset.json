@@ -1,5 +1,25 @@
 [
   {
+    "id": 26314,
+    "content": "Illustration of a {argument name=\"subject\" default=\"girl\"}, medium-length {argument name=\"hair color\" default=\"red\"} hair, red eyes, wearing a {argument name=\"outfit\" default=\"kimono\"}. Drawn with smooth lines, clean coloring, and cell shading. High-speed sword action scene, sharply swinging a sword towards the viewer. Strong forced perspective with the katana looming large in the foreground. Mid-slash motion. Emphasizing the twist of the torso, forward shift of gravity, with her hair and clothing flowing dramatically due to inertia to convey a sense of speed and momentum. Vibrant glowing energy flows from the sword, tracing a large arc. The character, sword, and glowing trajectory are the main subjects. Serious expression, strong contrast, beautiful face. 3:4",
+    "title": "Anime Action Girl in Kimono",
+    "description": "An action-oriented anime illustration prompt featuring a red-haired girl in a kimono, emphasizing dynamic motion, energy effects, and strong perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028901405_bb2z0t_HLQijMXW4AAzJXl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26304,
+    "content": "She sharply fills out a {argument name=\"uniform top\" default=\"crisp dress white formal uniform top with blue and gold trim\"} and a stiff high navy blue collar. Commander epaulets. Two crowded rows of hanging full ribbon medals are on her left chest, topped by a {argument name=\"badge\" default=\"red falling meteor badge with a set of golden wings\"}. Collar pins and shoulder patches have red meteors on them, the shoulder patches with a black space field and the meteor entering a blue planet's atmosphere. She has a gold and red braided shoulder cord on her right shoulder. Her {argument name=\"skirt\" default=\"long navy skirt falls to mid-calf with a white side stripe running its full length, slit strategically for movement\"}. White knee-high boots with a low polished heel complete the uniform.",
+    "title": "Female Dress White Uniform Detail",
+    "description": "A complex prompt for generating a detailed female military dress uniform, focusing on medals, patches, and specific character features like hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028897980_4pr54d_HLQgXmvWMAA-FDX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26202,
     "content": "Aircraft Appearance: {argument name=\"armor\" default=\"streamlined and futuristic white\"} armor with a {argument name=\"energy core\" default=\"blue\"} glowing energy core embedded within. Lightning Charging: A moment where intense lightning strikes the aircraft's antenna from dark clouds to absorb energy. Snow Collection and Cooling: A special suction port (cyclone structure) at the bottom of the aircraft swirling up snow and ice particles from the ground or upper atmosphere like a tornado, compressing and self-cooling them to ultra-low temperatures inside. Background: {argument name=\"background\" default=\"A view of the frozen Arctic circle spreading below\"} and the gradient of outer space above.",
     "title": "Weather Control Mecha Concept Art",

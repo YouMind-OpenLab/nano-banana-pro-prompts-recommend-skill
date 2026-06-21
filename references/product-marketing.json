@@ -21,6 +21,108 @@
     "needReferenceImages": true
   },
   {
+    "id": 26323,
+    "content": "{\n  \"prompt\": \"Ultra-realistic lifestyle portrait of {argument name=\\\"subject\\\" default=\\\"a young woman with long wavy copper-red hair\\\"} sitting comfortably on a modern charcoal-gray sofa inside a luxury high-rise apartment at night. Soft natural freckles, luminous skin with realistic texture, minimal makeup, warm smile, and bright expressive eyes. Wearing a {argument name=\\\"outfit\\\" default=\\\"fitted emerald-green ribbed long-sleeve crop top with a deep V-neckline, black fitted shorts\\\"}, and a delicate silver cross necklace. Relaxed seated pose with one arm resting beneath her chin and legs folded comfortably on the sofa. Floor-to-ceiling windows reveal a city skyline with blue evening lights and urban reflections. Warm interior lighting from the apartment creates a cozy cinematic atmosphere, balancing the cool tones from the city outside. Contemporary luxury apartment aesthetic, realistic skin texture, lifestyle editorial photography, photorealistic, highly detailed, premium social media content, modern interior design, natural color grading, cozy evening mood, 8K quality.\",\n  \n  \"negative_prompt\": \"blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, cluttered room, warped furniture, duplicate features, overexposed highlights, harsh shadows, noisy image, malformed hands\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"full-frame mirrorless\",\n    \"lens\": \"50mm\",\n    \"aperture\": \"f/2.0\",\n    \"iso\": 400,\n    \"angle\": \"eye-level lifestyle portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"warm apartment ambient lighting\",\n    \"direction\": \"soft front-side illumination\",\n    \"mood\": \"cozy, modern, evening luxury\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_position\": \"centered on sofa\",\n    \"background\": \"luxury apartment interior with floor-to-ceiling windows and city lights\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "title": "Ultra-Realistic High-Rise Luxury Portrait",
+    "description": "A comprehensive photorealistic prompt for generating a lifestyle portrait of a young woman in a luxury high-rise apartment at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028904760_b9z0r0_HLRqkcIbgAAVqRu.jpg",
+      "https://cms-assets.youmind.com/media/1782028904788_x5iu2w_HLRqkcJaUAAEpdv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26316,
+    "content": "A {argument name=\"subject\" default=\"young man\"} dressed in a {argument name=\"outfit\" default=\"crisp white linen outfit\"} stands positioned to the left of center, turned at a 45-degree angle to the left with his weight casually leaning to that side and his shoulders visibly relaxed. His hair is cut with a precise one-to-two guard fade on the sides and leaves about two to three inches of length on top, styled forward into a textured fringe that showcases a natural texture complete with subtle flyaways and a matte product finish, perfectly complementing his neatly groomed short beard. His expression is serious and poised, featuring neutral eyebrows and a relaxed mouth, as his gaze drifts away to the left. His relaxed left hand rests flat against the smooth, pristine warm golden wood of the balcony handrail, while his right hand holds a smartphone at waist level with the index finger resting gently along the edge of the device, a silver bracelet visible on his wrist. He stands on a floor of light grey tiles laid out in a staggered rectangular pattern behind a transparent glass balcony barrier secured by clean metal frames spanning the foreground. Beyond the balcony, a slightly soft, deep-set midground reveals a {argument name=\"background\" default=\"hillside resort overlooking dense, thriving forest green pine and deciduous trees\"} to the left and center, contrasted by pristine modern architectural villas with flat roofs and large windows to the right. Smooth, matte warm gray and tan paneled concrete walls feature clean architectural lines and recessed windows, completing the pristine residential environment. The calm, relaxed evening resort atmosphere is brought to life by a single, soft, natural warm golden light source striking from a strict 90-degree angle to the right. This moderately directional lighting leaves striking, preserved highlights sweeping across the right side of his face, right arm, and shoulder, while casting soft, gradual gray shadows seamlessly onto the left side of his body and across the tiled floor, balanced perfectly by present ambient fill light. This medium-contrast, analogous color palette beautifully balances the dominant neutral whites, forest greens, warm greys, and golden wood accents. Captured as a realistic digital lifestyle photograph straight on with a 50mm lens at f/4.0, 1/200s, and ISO 100, the image utilizes a medium depth of field to keep the subject tack sharp while gently softening the background. Post-processed with warm color grading, enhanced greens, and highlight protection, the composition adheres elegantly to the rule of thirds with asymmetric balance, entirely framed in a 3:4 aspect ratio.",
+    "title": "Resort Balcony Lifestyle Portrait",
+    "description": "A highly technical prompt for a realistic digital lifestyle photograph of a young man on a luxury resort balcony at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028902560_x9fg4s_HLRav0qWgAAhgfI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26310,
+    "content": "{argument name=\"product\" default=\"Elegant blush pink bottle\"} surrounded by {argument name=\"elements\" default=\"cherry blossom petals floating in air, soap bubbles reflecting soft pink light\"}, glossy podium, premium Japanese beauty advertisement style, {argument name=\"mood\" default=\"dreamy cinematic atmosphere\"}, ultra realistic, luxury skincare campaign.",
+    "title": "Cherry Blossom Beauty Campaign",
+    "description": "Dreamy cinematic product shot for a luxury skincare campaign featuring cherry blossoms and soap bubbles in soft pink lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028899996_e97e7o_HLREkjYasAAZGPQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26308,
+    "content": "Ultra-realistic fair {argument name=\"subject\" default=\"handsome young Indian man\"} sitting on a modern minimalist bench, {argument name=\"outfit\" default=\"white oversized sweatshirt, pastel lime cargo pants, matching sneakers\"}, stylish hairstyle, soft smile, {argument name=\"background\" default=\"luxury neon green studio background\"}, smooth gradient lighting, clean aesthetic, realistic skin texture, premium fashion photography, shallow depth of field, soft glow, high-end editorial look, ultra-detailed, 16K, masterpiece, --ar 4:5 ratio",
+    "title": "Minimalist Indian Male Streetwear",
+    "description": "A high-end fashion photography prompt for a stylish young Indian man in oversized streetwear against a neon green gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028899219_blbc2g_HLQF86BW0AAk7CM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26309,
+    "content": "{argument name=\"product\" default=\"Premium green bottle\"} placed on stone podium, surrounded by {argument name=\"surroundings\" default=\"matcha powder clouds, green tea leaves and creamy foam\"}, Japanese spa aesthetic, {argument name=\"composition\" default=\"minimal luxury composition\"}, soft natural lighting, highly realistic skincare advertisement, 8K.",
+    "title": "Matcha Skincare Product Ad",
+    "description": "A luxury skincare advertisement prompt featuring a product bottle on a stone podium surrounded by matcha powder and tea leaves in a Japanese spa aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028899182_v0b03t_HLP-DxuakAA2AOk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26311,
+    "content": "A {argument name=\"subject\" default=\"confident male\"} stands full-scale in the center of the composition, dressed in stylish {argument name=\"attire\" default=\"summer menswear featuring a dominant cream polo and beige trousers\"}. He faces the camera straight-on with relaxed shoulders and his weight comfortably shifted, displaying a subtle, posed smile with his eyes entirely hidden by stylish sunglasses. His deliberately posed left hand is tucked casually into his trouser pocket to reveal a wristwatch, while his relaxed right hand holds a small ice cream cone perfectly at chest height. He stands grounded on a pinkish-grey stone dock characterized by a tactile cobblestone texture. In the deep midground to his right rests a mildly worn, small white boat equipped with an outboard motor and wrapped in a navy blue canvas cover, secured by thick mooring lines. The {argument name=\"background\" default=\"deep spatial background sweeps upward to reveal dominant, weathered historic buildings\"} constructed of patchy, matte-painted plaster in pastel yellow, pink, and green, intricately detailed with classic shuttered windows and nestled just below mountain trees. The scene radiates a cheerful, vibrant, and effortlessly relaxing summer vacation vibe, bathed in bright, highly directional natural sunlight striking from a precise 45-degree side angle. This single source of warm, golden hard light establishes a medium contrast, casting short, gray, harsh-edged shadows strictly beneath the subject and his facial features, while meticulously preserving bright specular highlights across his face, his shoulder, and the boat cover, all softened subtly by a gentle ambient fill. Captured as a realistic digital photograph inspired by clean Instagram lifestyle travel photography, the composition boasts tack-sharp focus, highly saturated complementary colors, and zero film grain across a deep depth of field. Executed with camera settings of f/8, 1/500s, and ISO 100 under a daylight white balance, the image features pristine post-processing with vibrant color grading, recovered highlights, and slightly lifted shadows, all flawlessly framed in a 4:5 aspect ratio.",
+    "title": "Summer Men's Lifestyle Photography",
+    "description": "A highly detailed lifestyle photo prompt of a man in summer attire on a cobblestone dock, featuring complex lighting and background architectural details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028900168_rugctd_HLPhEWrWUAE81F9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26329,
+    "content": "A hyper-realistic 3D square display of {argument name=\"city\" default=\"Istanbul\"}; the bottom shows an excavated terrain structure of rocks, roots, and soil layers. The top features a fairy-tale city landscape containing iconic buildings, architecture, and cultural elements of {argument name=\"city\" default=\"Istanbul\"}. Modern and concise text for '{argument name=\"city\" default=\"Istanbul\"}' is naturally integrated into the composition. DSLR photo quality, clear and vivid magical realism aesthetics. Dimensions: 1080x1080.",
+    "title": "3D Miniature City Diorama",
+    "description": "Generates a magical realism 3D square diorama of a city with architectural landmarks and geological layers below the surface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028907405_rfo1g1_HLPN9P-aUAAEbLo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26321,
+    "content": "{\n  \"prompt\": {\n    \"subject\": \"{argument name=\"couple\" default=\"A stylish couple standing together, posing in front of a luxury car.\"}\",\n    \"man_details\": {\n      \"appearance\": \"Young man with dark hair, well-groomed beard, wearing square-shaped black sunglasses.\",\n      \"clothing\": \"Wearing a tailored black blazer, black button-up shirt, and black trousers.\"\n    },\n    \"woman_details\": {\n      \"appearance\": \"Young woman with long dark wavy hair, wearing stylish sunglasses.\",\n      \"clothing\": \"Wearing a form-fitting sleeveless black dress with a side slit and thin-strap high heels.\"\n    },\n    \"setting\": {\n      \"location\": \"An elegant outdoor stone-paved walkway outside a building with arched architecture and warm ambient lighting.\",\n      \"background\": \"Stunning mountain range under a {argument name=\"sky\" default=\"dramatic sunset sky with golden and orange clouds\"}.\",\n      \"lighting\": \"Warm, golden hour lighting with soft evening atmosphere and string lights glowing on the building terrace.\"\n    },\n    \"foreground\": {\n      \"vehicle\": \"{argument name=\"car\" default=\"A modern black BMW sedan\"} parked directly behind the couple with headlights illuminated.\"\n    },\n    \"style_and_quality\": {\n      \"resolution\": \"4k\",\n      \"style\": \"Photorealistic, high-end fashion photography, cinematic lighting, sharp focus, professional color grading\"\n    }\n  }\n}",
+    "title": "Fashion Photography Couple with Luxury Car",
+    "description": "A high-end fashion portrait of a stylish couple in black formal wear posing in front of a modern luxury car during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028903647_5jd0ln_HLO5rSTbgAAeyLa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26320,
+    "content": "Use the attached reference photo as the subject. Maintain the exact facial features, face shape, skin tone, hairstyle, and unique characteristics of the person in the reference image. Close-up portrait, head slightly tilted, natural confident expression, sharp focus on the eyes, clean and elegant pose, wearing simple solid-color clothing matching the reference photo, {argument name=\"background\" default=\"vibrant solid color gradient background\"} (choose: {argument name=\"colors\" default=\"orange-red / emerald green / royal blue / deep purple\"}), strong {argument name=\"lighting\" default=\"hard directional studio light from the front-top angle\"}, dramatic shadow falling across part of the face and neck, high contrast between lit and shadowed areas, sharp defined shadow edge, warm or cool color grading depending on background choice, photorealistic skin texture with natural highlights and fine details, glowing healthy skin tone, shot on Canon EOS R5, 50mm f/1.8 lens, sharp focus on face, slightly soft blurred background, ultra-high resolution, 8K, editorial fashion campaign aesthetic, bold, clean, and confident mood",
+    "title": "Hard Studio Light Editorial Portrait",
+    "description": "A professional editorial fashion portrait using strong directional studio lighting to create dramatic shadows and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028903818_r7t1fy_HLOm-QNa0AAqD8M.jpg",
+      "https://cms-assets.youmind.com/media/1782028903816_hspki4_HLOm_AZa4AAbXXw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26301,
+    "content": "Close-up surreal fashion portrait of a young woman seated on a transparent acrylic throne, in a minimalist studio with a warm golden beige seamless background, long {argument name=\"hair color\" default=\"red\"} hair braided with tiny crystal beads, soft freckles, glossy lips, wearing a cream faux-fur Y2K bolero and a satin slip dress, behind her a giant translucent {argument name=\"guardian animal\" default=\"lion head\"} made of light and golden mist, subtly floating like a guardian spirit, small snow particles rising instead of falling, clean composition, shallow depth of field, studio lighting with a strong but soft key light from one side and a gentle backlight outlining the lion shape, hyper realistic, high fashion beauty shot, 8k, clean surreal Narnia-inspired Y2K aesthetic\n\nPose & angle:\nShe sits angled to the side, torso turned toward the camera, one elbow resting on the arm of the acrylic throne, fingertips lightly touching her chin.\n\nTight close-up/medium close shot from slightly below eye level, emphasizing her face, hair details, and the glowing lion head behind",
+    "title": "Surreal Fashion Portrait with Guardian Spirit",
+    "description": "A high-fashion surreal portrait prompt of a young woman on an acrylic throne with a translucent lion guardian made of light and mist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028896245_9gnbg1_HLOSjaEbcAAkyXG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26190,
     "content": "A straight-on, full-body shot displays a {argument name=\"subject\" default=\"man\"}, casually leaning against the front grille of a {argument name=\"car\" default=\"white classic Mercedes-Benz convertible\"}. He sports a {argument name=\"outfit\" default=\"beige long-sleeve knit polo shirt\"} with the sleeves rolled to the forearms and relaxed-fit, high-waisted white pleated linen trousers. His ensemble is complemented by dark brown leather loafers and he accessorizes with square-lensed sunglasses and a wristwatch with a metallic band, contributing to a suave, affluent aesthetic. The background reveals an exterior stone building in golden afternoon or early evening sunlight, with climbing foliage and deep shadows creating a warm, luxurious atmosphere. The setting is elegantly Mediterranean, with an impression of ended or approaching leisure. The vintage car’s emblem is in sharp detail, occupying the foreground. The overall color palette is dominated by soft creams, sun-warmed sand, and deep ogre shadows. Captured using a digital or high-quality film camera with moderate depth of field, the subject is crisply in focus and the image exhibits rich, dense shadows, volumetric sunlight, and a mood which is nostalgic and aspirational.",
     "title": "Mediterranean Vintage Car Portrait",

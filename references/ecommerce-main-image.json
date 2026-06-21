@@ -1,5 +1,25 @@
 [
   {
+    "id": 26310,
+    "content": "{argument name=\"product\" default=\"Elegant blush pink bottle\"} surrounded by {argument name=\"elements\" default=\"cherry blossom petals floating in air, soap bubbles reflecting soft pink light\"}, glossy podium, premium Japanese beauty advertisement style, {argument name=\"mood\" default=\"dreamy cinematic atmosphere\"}, ultra realistic, luxury skincare campaign.",
+    "title": "Cherry Blossom Beauty Campaign",
+    "description": "Dreamy cinematic product shot for a luxury skincare campaign featuring cherry blossoms and soap bubbles in soft pink lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028899996_e97e7o_HLREkjYasAAZGPQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26309,
+    "content": "{argument name=\"product\" default=\"Premium green bottle\"} placed on stone podium, surrounded by {argument name=\"surroundings\" default=\"matcha powder clouds, green tea leaves and creamy foam\"}, Japanese spa aesthetic, {argument name=\"composition\" default=\"minimal luxury composition\"}, soft natural lighting, highly realistic skincare advertisement, 8K.",
+    "title": "Matcha Skincare Product Ad",
+    "description": "A luxury skincare advertisement prompt featuring a product bottle on a stone podium surrounded by matcha powder and tea leaves in a Japanese spa aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782028899182_v0b03t_HLP-DxuakAA2AOk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26200,
     "content": "Premium rose-colored bottle with gold cap placed on layered marble podium, surrounded by blooming pink roses and silky fabric waves, floating bubbles, luxury perfume advertisement style, cinematic lighting, soft shadows, ultra realistic skincare campaign, high-end aesthetic.",
     "title": "Rose Gold Perfume Advertisement",
