@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 26405,
+    "content": "{argument name=\"subject\" default=\"A jungle-overgrown temple courtyard\"} in an artistic {argument name=\"style\" default=\"stonepunk\"} style.",
+    "title": "Stonepunk Overgrown Temple Courtyard",
+    "description": "An artistic stonepunk-style image featuring a jungle-overgrown temple courtyard with intricate stonework.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117039744_t6lzq9_HLWPY5_bMAAF9A7.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25444,
     "content": "{argument name=\"subject\" default=\"Urban strawberry garden\"}, anime illustration",
     "title": "Urban Anime Garden Illustration",

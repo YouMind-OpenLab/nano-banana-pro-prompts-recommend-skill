@@ -10,6 +10,71 @@
     "needReferenceImages": false
   },
   {
+    "id": 26400,
+    "content": "Use the uploaded photo only for facial identity and overall appearance. Create a premium black-and-white studio portrait of the same person seated slightly forward toward the camera in a confident yet relaxed pose. Elbows resting on the knees, hands loosely clasped together, creating natural depth and a strong editorial presence.\nThe subject wears a {argument name=\"outfit\" default=\"fitted black ribbed knit sweater\"} with a clean luxury aesthetic. Direct eye contact with the camera, calm yet intense expression, strong jawline, defined facial features, natural skin texture, and a confident masculine presence. Hair is neatly styled with a clean fade on the sides and textured volume on top. Small diamond stud earrings in both ears.\nPhotographed at eye level with an 85mm portrait lens for a premium fashion-editorial look. Soft studio lighting from the front and slightly from the side creates gentle shadows and realistic facial definition without harsh contrast. {argument name=\"backdrop\" default=\"Seamless light-gray studio backdrop\"} with a subtle gradient, completely clean and distraction-free.\nHigh-end fashion campaign aesthetic, luxury magazine portrait, timeless monochrome tones, ultra-realistic details, cinematic depth, premium retouching, sharp focus on the eyes, elegant composition, professional studio photography, 8K ultra-realism, {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio.",
+    "title": "Luxury Editorial B&W Portrait Transformation",
+    "description": "A sophisticated prompt designed to transform a reference photo into a high-end black-and-white studio editorial portrait with cinematic depth and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117036837_0nyalc_HLWFa-WaMAA8Rax.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26404,
+    "content": "A series of professional, elegant studio portraits capturing a {argument name=\"subject\" default=\"young East Asian woman\"} with long, wavy dark hair. She is wearing a {argument name=\"clothing\" default=\"sleeveless, high-neck black lace dress\"}, a delicate beaded bracelet, and a classic wristwatch. She sits comfortably on a {argument name=\"setting\" default=\"rustic, vintage wooden bench against a deep, textured solid black fabric backdrop\"}. The lighting is soft and directional, creating a warm and intimate fine art mood. The collection showcases a variety of natural expressions and poses: one image features her smiling warmly directly into the camera; another shows her looking off-camera to the right with a bright smile while lightly resting her chin on her hand; a third captures a gentle, thoughtful downcast smile with her chin resting on her fist; and the final portrait displays a subtle, serene expression as she glances off-camera to her right with her hands resting gently on her lap.",
+    "title": "Elegant Studio Portraits of a Woman",
+    "description": "A detailed prompt for generating professional studio portraits of a woman on a wooden bench, focusing on a black lace dress and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117038313_17c7e9_HLWEOBqXAAA1eKL.jpg",
+      "https://cms-assets.youmind.com/media/1782117038352_ucnto4_HLWEOElWEAApDxg.jpg",
+      "https://cms-assets.youmind.com/media/1782117038349_shu6le_HLWEON-WYAAxEVn.jpg",
+      "https://cms-assets.youmind.com/media/1782117038991_tijh2k_HLWEOUmXQAA_xQX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26406,
+    "content": "Create A 8K Ultra realistic young beautiful woman with {argument name=\"hair style\" default=\"dark brown long weavy hair in a messy bun, or relaxing hair\"}, Smooth glowing clearly fair skin, natural glowing fresh look light makeup, pink matte shining lipstick, glossy matching nails . She is wearing {argument name=\"outfit\" default=\"emerald blue button-up shirt and black pants with sneakers\"}, multiple dynamic poses including smiling close-up and full body standing on {argument name=\"setting\" default=\"a floating wooden platform\"}, dramatic blue water splash effects, artistic composite portrait, light blue background, highly detailed cinematic style. Vertical 9.16",
+    "title": "Cinematic Water Splash Woman Portrait",
+    "description": "A comprehensive prompt for creating a high-resolution, ultra-realistic portrait of a woman in a cinematic setting with dynamic water splash effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117040005_kkvw2y_HLVXFmfbcAAyAiu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26401,
+    "content": "A medium shot of a handsome man with {argument name=\"hair style\" default=\"styled brown hair\"} and a neat beard, looking directly at the camera with a confident expression. He is wearing a {argument name=\"clothing\" default=\"clean white t-shirt\"} featuring a small black swoosh logo on the left chest, a simple silver chain necklace with a small rectangular pendant, and a dark luxury watch on his wrist. The background is a {argument name=\"background\" default=\"softly blurred office or study room\"} with warm indoor lighting, showing hints of a wooden bookshelf and potted plants. Photorealistic, soft depth of field, high detail, studio lighting.",
+    "title": "Professional Studio Male Portrait",
+    "description": "A prompt for generating a photorealistic medium shot of a handsome man in an office setting with studio lighting and high facial detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117037888_jpgeop_HLVVGz6bMAA6MeN.jpg",
+      "https://cms-assets.youmind.com/media/1782117037724_arer3f_HLVVG2-a4AAmyxG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26403,
+    "content": "Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a {argument name=\"subject\" default=\"young woman with shoulder-length wavy hair (dark roots, lighter ends)\"} wearing {argument name=\"glasses\" default=\"round thin metal-frame glasses\"}: Bright neon heart-shaped reflections visible in both lenses. She faces slightly left while looking forward, with a soft natural smile and one hand resting lightly against her lips and chin, black nail polish visible. Wearing a {argument name=\"clothing\" default=\"dark gray denim jacket over a black top\"}. Strong red-pink neon light glows from the left edge of the frame, blending with cool blue and magenta lighting across her face, hair, glasses, hand, and clothing Subject positioned slightly right of center. Eye-level handheld smartphone shot with natural framing.",
+    "title": "Neon Smartphone Portrait",
+    "description": "A detailed prompt for generating a candid, ultra-realistic smartphone portrait with vibrant neon lighting and heart-shaped lens reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117038722_nd6kff_HLUEekEaEAAr5iU.jpg",
+      "https://cms-assets.youmind.com/media/1782117038794_tlaql7_HLUEepebsAEfQMi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26395,
+    "content": "Create a powerful black-and-white cinematic portrait using my uploaded photo. Preserve my facial identity 100% with accurate facial structure, skin texture, hairstyle, beard, and expression. {argument name=\"pose and setting\" default=\"Show me standing beneath a single dramatic overhead spotlight in a dark studio\"}, captured from a {argument name=\"angle\" default=\"left-side profile angle\"} while looking downward with a {argument name=\"expression\" default=\"calm, intense, introspective expression\"}. Deep shadows fade into a pure black background, creating a mysterious and luxurious atmosphere. High-contrast monochrome grading, dramatic chiaroscuro lighting, subtle rim light around the hair and shoulders, ultra-realistic skin details, visible fabric texture on the t-shirt, natural muscle definition, sharp focus on the face, soft falloff into darkness. Professional fashion-editorial photography, luxury magazine cover aesthetic, cinematic mood, volumetric light beam, shallow depth of field, film grain, masterpiece composition, award-winning portrait photography, hyper-realistic, 8K, HDR, ultra-detailed, premium Netflix-series poster quality.",
+    "title": "Cinematic Black and White Portrait Transformation",
+    "description": "A prompt designed to transform an uploaded photo into a powerful, high-contrast monochrome portrait with professional studio lighting and realistic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117035877_oqhlxy_HLT0CzVbsAAJLEj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26325,
     "content": "{\n  \"prompt\": \"Ultra-realistic cozy lifestyle selfie of {argument name=\\\"subject\\\" default=\\\"a young blonde woman reclining on a deep navy corduroy bean bag chair\\\"} in a bright modern apartment. Long naturally wavy blonde hair with soft volume, clear-framed eyeglasses with subtle window reflections, luminous skin with realistic pores, minimal makeup, soft pink lips, and expressive blue eyes. Wearing a fitted light-gray camisole with thin straps. One hand resting casually in her hair while looking directly at the camera. Soft natural daylight streaming through large windows creates gentle highlights and a calm atmosphere. Neutral-toned interior with light wood herringbone flooring, textured gray cushion, and minimalist Scandinavian-inspired decor. Authentic candid social media aesthetic, realistic skin texture, photorealistic, highly detailed, cozy home lifestyle photography, clean girl aesthetic, natural color grading, premium influencer content, 8K quality.\",\n  \n  \"negative_prompt\": \"blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered background, warped glasses, duplicate reflections, overexposed highlights, harsh shadows\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"smartphone camera\",\n    \"lens\": \"26mm wide angle\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 100,\n    \"angle\": \"high-angle handheld selfie\",\n    \"depth_of_field\": \"moderate\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"natural window light\",\n    \"direction\": \"soft overhead-side illumination\",\n    \"mood\": \"calm, cozy, relaxed\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical selfie portrait\",\n    \"subject_position\": \"reclining on navy corduroy bean bag\",\n    \"background\": \"minimalist apartment with herringbone wood flooring and soft furnishings\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
     "title": "Cozy Lifestyle Bean Bag Selfie",

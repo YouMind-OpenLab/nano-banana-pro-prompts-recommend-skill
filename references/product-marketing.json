@@ -21,6 +21,47 @@
     "needReferenceImages": true
   },
   {
+    "id": 26400,
+    "content": "Use the uploaded photo only for facial identity and overall appearance. Create a premium black-and-white studio portrait of the same person seated slightly forward toward the camera in a confident yet relaxed pose. Elbows resting on the knees, hands loosely clasped together, creating natural depth and a strong editorial presence.\nThe subject wears a {argument name=\"outfit\" default=\"fitted black ribbed knit sweater\"} with a clean luxury aesthetic. Direct eye contact with the camera, calm yet intense expression, strong jawline, defined facial features, natural skin texture, and a confident masculine presence. Hair is neatly styled with a clean fade on the sides and textured volume on top. Small diamond stud earrings in both ears.\nPhotographed at eye level with an 85mm portrait lens for a premium fashion-editorial look. Soft studio lighting from the front and slightly from the side creates gentle shadows and realistic facial definition without harsh contrast. {argument name=\"backdrop\" default=\"Seamless light-gray studio backdrop\"} with a subtle gradient, completely clean and distraction-free.\nHigh-end fashion campaign aesthetic, luxury magazine portrait, timeless monochrome tones, ultra-realistic details, cinematic depth, premium retouching, sharp focus on the eyes, elegant composition, professional studio photography, 8K ultra-realism, {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio.",
+    "title": "Luxury Editorial B&W Portrait Transformation",
+    "description": "A sophisticated prompt designed to transform a reference photo into a high-end black-and-white studio editorial portrait with cinematic depth and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117036837_0nyalc_HLWFa-WaMAA8Rax.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26396,
+    "content": "{argument name=\"setting\" default=\"Campus smoothie truck beside a colorful outdoor study lawn\"}, {argument name=\"subject\" default=\"young beautiful adult Korean woman\"}, idol-level beauty, visually perfect balanced proportion, charming direct gaze, crystal-clear symmetrical eyes, luminous dewy skin, soft peach-pink makeup, glossy coral lips, silky milk-brown high ponytail with loose face-framing strands, {argument name=\"clothing\" default=\"fitted white cropped baby tee, light lavender oversized short-sleeve shirt, high-waist washed denim pleated mini skirt\"}, sheer ivory ankle socks, glossy pastel-blue platform sneakers, tiny heart hoop earrings, beaded phone strap, slim silver bracelet, one hand lightly holding a clear fruit smoothie, other hand tucked naturally near skirt pocket, relaxed playful model pose with one knee softly bent, medium-distance slightly low editorial angle, bright youthful campus atmosphere, clean midday sunlight, fresh lemon-blue film filter, ultra-detailed 8K lifestyle photography, razor-sharp facial clarity, realistic skin texture",
+    "title": "Korean Woman at Campus Smoothie Truck",
+    "description": "A highly detailed lifestyle photography prompt for generating a stylish Korean woman at a campus smoothie truck, emphasizing fashion, lighting, and perfect proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117035871_81poum_HLUnl3oacAAfFoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26402,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person.\\n\\nCreate a hyper-realistic cinematic black-and-white fashion portrait inspired by the reference image: a luxury editorial scene where I am lying diagonally on a {argument name=\"floor surface\" default=\"giant black-and-white chessboard floor\"}. Surround me with {argument name=\"props\" default=\"oversized chess pieces (king, queen, pawns)\"} placed dramatically around the board. Add a {argument name=\"texture\" default=\"cracked marble/chessboard texture with realistic fractures\"} spreading across the squares.\\n\\nI am wearing an elegant tailored light-colored suit with a dark shirt underneath, luxury watch, and polished shoes. Pose me confidently in a relaxed lying position with one arm resting naturally and a powerful calm expression.\\n\\nStyle: high-fashion magazine photography, surreal luxury aesthetic, dramatic studio lighting, deep shadows, monochrome tones, ultra-realistic skin texture, cinematic contrast, 8K detail, professional editorial photography.\\n\\nMaintain my face identity exactly in every detail. Make it look like a real photograph, not AI-generated.",
+    "title": "Editorial Black and White Chessboard Fashion Portrait",
+    "description": "A high-fashion magazine style prompt for creating a hyper-realistic black-and-white portrait of a subject on a giant chessboard with dramatic studio lighting and luxury detailing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117038084_qw2rnw_HLTrZMIaoAA6SuS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26397,
+    "content": "Ultra-realistic candid lifestyle photograph of a {argument name=\"subject\" default=\"young East Asian woman\"} {argument name=\"activity\" default=\"washing dishes\"} in a {argument name=\"location\" default=\"cozy home kitchen\"} during daytime. She has fair skin, delicate facial features, and black hair loosely tied in a messy bun with soft strands framing her face. Wearing a fitted white tank top and a pastel striped apron, she stands beside a stainless-steel sink, gently scrubbing a large white plate covered in soap suds. Natural daylight streams through a large louvered glass window on the left, creating soft highlights and subtle shadows across the scene. Water runs from a chrome faucet into the sink, with dish soap bottles, sponges, and kitchen utensils visible in the foreground. Behind her are wooden kitchen cabinets, a dish drying rack filled with plates, a rice cooker, plastic food containers, and a family calendar on the cabinet door, adding a lived-in domestic atmosphere. Documentary-style composition, authentic household setting, realistic textures, clean neutral color palette, shallow depth of field, soft ambient lighting, candid moment, everyday life photography, high detail, natural skin texture, photorealistic, 35mm lens, vertical composition, lifestyle editorial quality, warm and peaceful mood.",
+    "title": "Candid Kitchen Lifestyle Portrait",
+    "description": "A high-quality prompt for generating a photorealistic lifestyle scene of a person washing dishes in a sunlit, authentic home kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782117034464_zc1irm_HLTQioGbsAArUMv.jpg",
+      "https://cms-assets.youmind.com/media/1782117035930_f5d8c1_HLTQiojasAAC2o6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26323,
     "content": "{\n  \"prompt\": \"Ultra-realistic lifestyle portrait of {argument name=\\\"subject\\\" default=\\\"a young woman with long wavy copper-red hair\\\"} sitting comfortably on a modern charcoal-gray sofa inside a luxury high-rise apartment at night. Soft natural freckles, luminous skin with realistic texture, minimal makeup, warm smile, and bright expressive eyes. Wearing a {argument name=\\\"outfit\\\" default=\\\"fitted emerald-green ribbed long-sleeve crop top with a deep V-neckline, black fitted shorts\\\"}, and a delicate silver cross necklace. Relaxed seated pose with one arm resting beneath her chin and legs folded comfortably on the sofa. Floor-to-ceiling windows reveal a city skyline with blue evening lights and urban reflections. Warm interior lighting from the apartment creates a cozy cinematic atmosphere, balancing the cool tones from the city outside. Contemporary luxury apartment aesthetic, realistic skin texture, lifestyle editorial photography, photorealistic, highly detailed, premium social media content, modern interior design, natural color grading, cozy evening mood, 8K quality.\",\n  \n  \"negative_prompt\": \"blurry, low quality, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, cluttered room, warped furniture, duplicate features, overexposed highlights, harsh shadows, noisy image, malformed hands\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"full-frame mirrorless\",\n    \"lens\": \"50mm\",\n    \"aperture\": \"f/2.0\",\n    \"iso\": 400,\n    \"angle\": \"eye-level lifestyle portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"warm apartment ambient lighting\",\n    \"direction\": \"soft front-side illumination\",\n    \"mood\": \"cozy, modern, evening luxury\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_position\": \"centered on sofa\",\n    \"background\": \"luxury apartment interior with floor-to-ceiling windows and city lights\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"realism\": \"maximum\"\n  }\n}",
     "title": "Ultra-Realistic High-Rise Luxury Portrait",
