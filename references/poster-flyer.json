@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 26480,
+    "content": "Ultra-realistic monochrome editorial portrait of {argument name=\"subject\" default=\"Arthur Ferreira\"}, preserving exact facial identity, natural skin texture, dark short curly hair with volume, thick eyebrows with slit on right eyebrow, centered close-up composition, wearing futuristic premium {argument name=\"eyewear\" default=\"reflective sports visor sunglasses\"}, oversized avant-garde {argument name=\"outfit\" default=\"black fashion garment\"} with structured collar, white minimalist studio background, dramatic high contrast lighting, sharp facial details, shallow depth of field, subtle vignette, luxury Nike campaign aesthetic, premium fashion editorial style, hyper realistic skin texture, cinematic monochrome tones, ultra detailed 8k",
+    "title": "Monochrome Avant-Garde Fashion Portrait",
+    "description": "A high-fashion, monochrome editorial prompt for a sharp portrait with dramatic lighting and futuristic accessories, mimicking a luxury brand campaign.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200278826_2snaxw_HLbG6iGbAAAXmIz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26395,
     "content": "Create a powerful black-and-white cinematic portrait using my uploaded photo. Preserve my facial identity 100% with accurate facial structure, skin texture, hairstyle, beard, and expression. {argument name=\"pose and setting\" default=\"Show me standing beneath a single dramatic overhead spotlight in a dark studio\"}, captured from a {argument name=\"angle\" default=\"left-side profile angle\"} while looking downward with a {argument name=\"expression\" default=\"calm, intense, introspective expression\"}. Deep shadows fade into a pure black background, creating a mysterious and luxurious atmosphere. High-contrast monochrome grading, dramatic chiaroscuro lighting, subtle rim light around the hair and shoulders, ultra-realistic skin details, visible fabric texture on the t-shirt, natural muscle definition, sharp focus on the face, soft falloff into darkness. Professional fashion-editorial photography, luxury magazine cover aesthetic, cinematic mood, volumetric light beam, shallow depth of field, film grain, masterpiece composition, award-winning portrait photography, hyper-realistic, 8K, HDR, ultra-detailed, premium Netflix-series poster quality.",
     "title": "Cinematic Black and White Portrait Transformation",

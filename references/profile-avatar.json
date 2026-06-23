@@ -10,6 +10,58 @@
     "needReferenceImages": false
   },
   {
+    "id": 26479,
+    "content": "1:1 exact face from photo. Low-angle close-up, POV. Girl applying {argument name=\"makeup item\" default=\"lip gloss\"}, sultry gaze. {argument name=\"outfit\" default=\"Black corset\"}, {argument name=\"accessory\" default=\"gold chain\"}, voluminous messy hair. Screen light, dark background, deep shadows, iPhone 16 style, subtle grain.",
+    "title": "Sultry Close-Up Portrait with POV Angle",
+    "description": "A high-contrast close-up prompt for creating a moody, filmic portrait of a woman applying makeup, featuring dramatic lighting and a modern smartphone camera aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200278004_thj6jq_HLbworvXEAE7zAJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26489,
+    "content": "Please create a 2026-quality digital animation-style color image that faithfully reproduces the line art and composition of the illustration. Reproduce the character's color scheme with {argument name=\"character color scheme\" default=\"blonde hair, fair skin, blue eyes, and clothing consisting of a white jacket and a black button-down shirt\"}. The background should be {argument name=\"background\" default=\"black\"}, and the lighting should be {argument name=\"lighting\" default=\"a light source from diagonally above with dim light\"}, along with added highlights. Please reproduce with a 1:1 aspect ratio and adjust the color tone to create a tense mood.",
+    "title": "High-Quality Anime Style Colorization",
+    "description": "A detailed prompt for colorizing a character line art drawing in a modern digital anime style, focusing on specific lighting and character details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200282374_tks798_HLbWq3raEAEYfVb.jpg",
+      "https://cms-assets.youmind.com/media/1782200282362_6drocn_HLbWrfbaAAAsjip.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26486,
+    "content": "Masterpiece minimalist {argument name=\"subject\" default=\"Korean editorial portrait of a young woman\"} with fair porcelain skin, a heart-shaped oval face, large almond-shaped dark brown eyes, and soft direct eye contact. She wears subtle Korean clean beauty makeup with a thin lifted winged eyeliner, soft pink blush, and muted rose gradient lips. Her deep black silky hair is styled in a loose low messy bun with delicate face-framing strands and a center part.\n\nShe is dressed in a {argument name=\"outfit\" default=\"deep navy knit sweater featuring a light blue and white striped Peter Pan collar\"}, creating a refined preppy academic aesthetic. Front-facing pose, relaxed shoulders, calm and composed expression, youthful elegance, soft natural confidence.\n\nPhotographed in a minimalist studio setting against a {argument name=\"background\" default=\"clean off-white background\"}. Soft front-facing diffused studio lighting with very low contrast and gentle shadows creates a polished beauty editorial look. Centered head-and-shoulders composition with strong symmetry and a timeless portrait aesthetic.\n\nShot as instant film photography with an 85mm lens at f/2.8, moderately shallow depth of field, sharp focus on the eyes and facial features, soft film texture, fine grain, and authentic Polaroid-style rendering. Framed within a thick white instant-film border surrounded by generous white negative space. Clean pastel color grading with porcelain white, deep navy, soft blue, rose pink, and rich black tones. Korean beauty editorial style, minimalist portrait photography, delicate academic fashion campaign aesthetic, premium portrait photography, cinematic realism, highly detailed facial features, elegant and timeless.",
+    "title": "Minimalist Korean Beauty Editorial",
+    "description": "A clean, minimalist portrait prompt styled as instant film photography, featuring a young woman in refined academic fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200281346_mssebr_HLZpRGjaQAAh9kl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26481,
+    "content": "Edit the photo of the woman into a medium-shot portrait of a beautiful young woman.\n\nShe has straight light brown hair styled half-up, with the remaining hair flowing naturally to her shoulders. Soft wispy bangs cover part of her forehead, while loose strands on both sides gently frame her face.\n\nMakeup: Soft Korean-inspired pink makeup featuring subtle pink-peach eyeshadow, naturally curled eyelashes, a light soft pink blush, delicate highlights on the cheekbones and bridge of the nose, and glossy soft pink lipstick.\n\nOutfit: She is wearing an {argument name=\"dress type\" default=\"ivory white maxi dress\"} with thin shoulder straps, paired with an open-knit {argument name=\"cardigan color\" default=\"pastel pink\"} cardigan.\n\nExpression & Pose: She gently cups both cheeks with her palms while smiling with her eyes closed. Her head is slightly tilted to one side, creating a cute, sweet, and playful expression.\n\nBackground & Lighting: The background is a {argument name=\"background\" default=\"textured cement or concrete wall\"}. The most prominent visual element is dramatic dappled sunlight filtering through tree leaves or branches, casting organic leaf-shaped shadows across the wall, her face, and her clothing.\n\nColor Grading & Mood:\n\n- Moody, cinematic, and slightly vintage, resembling an analog film photograph.\n- Overall cool-toned color palette.\n- Shadows on the wall have a subtle teal/cyan-blue tint, creating strong contrast with the warm sunlight illuminating the wall and her face.\n- High contrast between the pastel pink cardigan and the bright sunlight, while keeping the cardigan's pink tone slightly muted and matte to enhance the faded film aesthetic.\n- Maintain a natural skin tone, but slightly reduce its saturation so it blends harmoniously with the cool, calm cinematic look.\n\nAspect Ratio: 9:16.",
+    "title": "Vintage Film Style Korean Portrait",
+    "description": "A detailed instruction for generating a soft, cinematic portrait with dappled sunlight and vintage film color grading, ideal for a sweet and playful aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200279380_4wdd0i_HLZD6H9XwAEHRvo.jpg",
+      "https://cms-assets.youmind.com/media/1782200277951_zp07di_HLZD59yWEAAnpP4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26488,
+    "content": "Ultra-realistic ethereal fantasy portrait of a breathtaking {argument name=\"subject\" default=\"young woman\"} with {argument name=\"skin type\" default=\"delicate porcelain skin\"}, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers. The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, {argument name=\"aesthetic\" default=\"fairycore aesthetic\"}, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.",
+    "title": "Ultra-Realistic Ethereal Fantasy Portrait",
+    "description": "A comprehensive prompt for generating a breathtaking ethereal fantasy portrait. It features a young woman with delicate skin and floral accessories, set in a dreamy enchanted garden with soft morning light and cinematic quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200281835_70ce95_HLXNCO0aYAAYW5I.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26400,
     "content": "Use the uploaded photo only for facial identity and overall appearance. Create a premium black-and-white studio portrait of the same person seated slightly forward toward the camera in a confident yet relaxed pose. Elbows resting on the knees, hands loosely clasped together, creating natural depth and a strong editorial presence.\nThe subject wears a {argument name=\"outfit\" default=\"fitted black ribbed knit sweater\"} with a clean luxury aesthetic. Direct eye contact with the camera, calm yet intense expression, strong jawline, defined facial features, natural skin texture, and a confident masculine presence. Hair is neatly styled with a clean fade on the sides and textured volume on top. Small diamond stud earrings in both ears.\nPhotographed at eye level with an 85mm portrait lens for a premium fashion-editorial look. Soft studio lighting from the front and slightly from the side creates gentle shadows and realistic facial definition without harsh contrast. {argument name=\"backdrop\" default=\"Seamless light-gray studio backdrop\"} with a subtle gradient, completely clean and distraction-free.\nHigh-end fashion campaign aesthetic, luxury magazine portrait, timeless monochrome tones, ultra-realistic details, cinematic depth, premium retouching, sharp focus on the eyes, elegant composition, professional studio photography, 8K ultra-realism, {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio.",
     "title": "Luxury Editorial B&W Portrait Transformation",
@@ -81,6 +133,18 @@
     "description": "A detailed photorealistic prompt for a relaxed indoor selfie with a focus on skin texture and natural lighting.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782028905821_alou6q_HLRpR_SbQAAaVad.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26483,
+    "content": "{\"composition\":\"Tight close-up selfie-style shot focusing on her face, upper body, playful cherry pose, and stylish outfit.\",\"details\":{\"clothing\":\"{argument name=\\\"clothing\\\" default=\\\"Emerald-green and white sleeveless crop tank top with thin straps, stylish side-cut detailing, small embroidered gold 'Love' detail on the hem.\\\"}\",\"environment\":\"{argument name=\\\"environment\\\" default=\\\"Modern colorful room with soft pink and blue gradient lighting.\\\"}\",\"props\":\"{argument name=\\\"props\\\" default=\\\"Glossy red cherries.\\\"}\",\"woman\":\"Ana de Armas, elegant beauty styling, confident playful expression.\"},\"image_description\":\"A highly detailed, photorealistic close-up portrait of Ana de Armas with silky brunette hair, warm luminous skin, expressive hazel eyes, and glamorous makeup. She playfully holds glossy red cherries near her mouth while looking confidently at the camera. She wears an emerald-green and white themed tank top.\",\"modifications\":{\"additions\":[\"Large decorative emerald-themed banner in the background.\",\"Small embroidered gold 'Love' detail on the tank top.\"]},\"style\":\"Photorealistic lifestyle photography, vibrant ambient lighting, realistic textures, luxury casual aesthetic.\",\"technical\":{\"aspect_ratio\":\"portrait\",\"resolution\":\"8K\"}}",
+    "title": "Photorealistic Celebrity Portrait with Cherries",
+    "description": "A detailed prompt for generating a high-quality, photorealistic close-up portrait of a celebrity in a playful pose involving glossy cherries and stylized lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782200279692_wqxe2s_HLRmp5fbIAANn1M.jpg",
+      "https://cms-assets.youmind.com/media/1782200279728_gesanb_HLRmqaFakAACHJR.jpg",
+      "https://cms-assets.youmind.com/media/1782200279696_z2pt4i_HLRmq6MacAA53do.jpg"
     ],
     "needReferenceImages": false
   },
