@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 26567,
+    "content": "Ultra-realistic black-and-white editorial studio portrait of a {argument name=\"subject and pose\" default=\"confident woman sitting casually on a modern folding chair. Relaxed fashion pose\"}, {argument name=\"outfit\" default=\"black blazer, fitted dark t-shirt, flared jeans, chunky sneakers\"}, clean monochrome styling. Minimal white seamless studio backdrop surrounded by {argument name=\"street art elements\" default=\"hand-drawn graffiti doodles, lightning bolts, arrows, spirals, abstract symbols, motivational typography, and street-art elements in black, white, and soft orange accents\"}. Include phrases such as \"DREAM BIG\", \"CREATE\", and \"STAY TRUE\" integrated naturally into the composition. High-contrast fashion photography, cinematic studio lighting, realistic skin texture, premium editorial aesthetic, sharp focus, luxury magazine quality, modern street-art influence, balanced composition, subtle shadows, expressive urban energy, ultra-detailed, photorealistic, 8K quality.",
+    "title": "Monochrome Editorial Street Art Portrait",
+    "description": "A high-contrast black-and-white fashion portrait featuring a woman on a folding chair, surrounded by abstract hand-drawn street art elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782286585673_z42qmq_HLZOKUnaoAAQ4sD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26480,
     "content": "Ultra-realistic monochrome editorial portrait of {argument name=\"subject\" default=\"Arthur Ferreira\"}, preserving exact facial identity, natural skin texture, dark short curly hair with volume, thick eyebrows with slit on right eyebrow, centered close-up composition, wearing futuristic premium {argument name=\"eyewear\" default=\"reflective sports visor sunglasses\"}, oversized avant-garde {argument name=\"outfit\" default=\"black fashion garment\"} with structured collar, white minimalist studio background, dramatic high contrast lighting, sharp facial details, shallow depth of field, subtle vignette, luxury Nike campaign aesthetic, premium fashion editorial style, hyper realistic skin texture, cinematic monochrome tones, ultra detailed 8k",
     "title": "Monochrome Avant-Garde Fashion Portrait",
@@ -155,6 +165,16 @@
     "description": "A prompt for generating a luxury magazine cover style photo on a cruise ship, with a focus on identity preservation and cinematic lighting.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1781857328167_rpmqu4_HLHEgRQaMAU98HQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26568,
+    "content": "Professional luxury football poster, 4:5 ratio. Entire frame filled with a premium luxury paper textured wall. Large number \"{argument name=\"jersey number\" default=\"[Player Jersey Number]\"}\" precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: colorful balloons, golden confetti, subtle white flowers, elegant celebration arrangement, premium styling. {argument name=\"player name\" default=\"[Name Of Player]\"} with preserved reference facial features, wearing {argument name=\"national team\" default=\"[National Team Name]\"} national team jersey number [Player Jersey Number], celebrating naturally with football. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Dramatic cinematic golden sunlight from one side, sharp rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: [Name Of Player], [National Team Name], [Your Caption Here]. Clean minimalist layout, luxury sports magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no fake lighting, no AI artifacts.",
+    "title": "3D Footballer Wall Sculpture Poster",
+    "description": "A high-end sports poster prompt featuring a 3D effect of a player breaking out of a carved wall number, styled for luxury sports magazines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782286585679_4hk795_HLBvoO-aoAAutIO.jpg"
     ],
     "needReferenceImages": true
   },

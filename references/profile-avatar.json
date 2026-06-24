@@ -20,6 +20,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 26566,
+    "content": "A close-up portrait of a {argument name=\"subject\" default=\"young male sitting centrally and facing the camera straight on with level shoulders and a centered weight distribution\"}. He wears a {argument name=\"clothing\" default=\"light grey hoodie and dark charcoal sunglasses that hide his eyes\"}, maintaining a serious and candid expression with a neutral mouth and relaxed eyebrows. He is situated inside a pristine car interior surrounded by a smooth, matte, dark charcoal grey fabric headliner detailing a grab handle and sun visor edge. A black leather headrest sits in the left midground beside a visible seatbelt, while directly above in the top center, an open sunroof reveals the sky. Through the window in the right background, slightly blurred thriving green hills and a guardrail are visible. {argument name=\"atmosphere\" default=\"An energetic, warm, sunny road trip vibe permeates the scene\"}, driven by a bright, highly directional single source of natural hard light streaming from above. This golden lighting creates high contrast with zero ambient fill, casting deep black, short shadows with harsh defined edges under his chin, nose, and beside his face. Intense blown-out highlights form a brilliant sun flare at the top of the frame and leave sharp specular reflections on his forehead and sunglasses. Captured as tack sharp, grain-free digital photography reflecting a clean social media lifestyle aesthetic, the image utilizes a mobile camera style with a fast shutter, high dynamic range, and a warm color grade. A medium depth of field ensures the interior remains crisp while the exterior softens, guiding the visual hierarchy symmetrically from the top sun flare down to the subject's face, all naturally framed in a 9:16 aspect ratio.",
+    "title": "Cinematic Car Interior Male Portrait",
+    "description": "A sharp digital photography style portrait of a male in a car interior, utilizing high-contrast natural lighting and a warm social media aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782286585159_cbiqot_HLbhhmQWcAAqoJ8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26489,
     "content": "Please create a 2026-quality digital animation-style color image that faithfully reproduces the line art and composition of the illustration. Reproduce the character's color scheme with {argument name=\"character color scheme\" default=\"blonde hair, fair skin, blue eyes, and clothing consisting of a white jacket and a black button-down shirt\"}. The background should be {argument name=\"background\" default=\"black\"}, and the lighting should be {argument name=\"lighting\" default=\"a light source from diagonally above with dim light\"}, along with added highlights. Please reproduce with a 1:1 aspect ratio and adjust the color tone to create a tense mood.",
     "title": "High-Quality Anime Style Colorization",

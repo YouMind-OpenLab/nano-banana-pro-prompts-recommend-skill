@@ -1,5 +1,15 @@
 [
   {
+    "id": 26570,
+    "content": "Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship. {argument name=\"base device\" default=\"WATER GLASS\"} device serves as the central base of the composition. From within or above this device, a miniature interpretation of the selected {argument name=\"location\" default=\"NEW YORK\"} emerges naturally, forming a compact, self contained world.\nThe scene highlights recognizable landmarks, terrain features, or symbolic structures associated with the {argument name=\"location\" default=\"NEW YORK\"}, arranged harmoniously and rendered with precise detail. Miniature roads, pathways, environmental elements, and tiny human figures interact naturally with the Nano Banana Pro, reinforcing its presence as the foundation of the world.\nUse cinematic lighting, soft highlights, reflections on premium surfaces, and selective depth-of-field blur to create a magical, dreamlike, ultra realistic promotional atmosphere. Emphasize the product’s premium materials, sleek design, and futuristic aesthetic,Image size 4 5..",
+    "title": "3D Miniature Diorama of New York City",
+    "description": "An ultra-realistic promotional prompt for creating a stylized miniature 3D diorama of New York City landmarks emerging from a central device.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782286586856_qt7g7z_HLdt7loXwAACvWO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26314,
     "content": "Illustration of a {argument name=\"subject\" default=\"girl\"}, medium-length {argument name=\"hair color\" default=\"red\"} hair, red eyes, wearing a {argument name=\"outfit\" default=\"kimono\"}. Drawn with smooth lines, clean coloring, and cell shading. High-speed sword action scene, sharply swinging a sword towards the viewer. Strong forced perspective with the katana looming large in the foreground. Mid-slash motion. Emphasizing the twist of the torso, forward shift of gravity, with her hair and clothing flowing dramatically due to inertia to convey a sense of speed and momentum. Vibrant glowing energy flows from the sword, tracing a large arc. The character, sword, and glowing trajectory are the main subjects. Serious expression, strong contrast, beautiful face. 3:4",
     "title": "Anime Action Girl in Kimono",
