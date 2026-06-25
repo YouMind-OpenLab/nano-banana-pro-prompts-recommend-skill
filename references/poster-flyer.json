@@ -20,6 +20,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 26642,
+    "content": "Create a premium birthday tribute poster for {argument name=\"athlete\" default=\"Lionel Messi\"}. Ultra-realistic sports photography, celebrating {argument name=\"athlete\" default=\"Messi\"}'s birthday. {argument name=\"athlete\" default=\"Messi\"} wearing the {argument name=\"team\" default=\"Argentina national team\"} jersey (sky blue and white stripes, number 10), standing proudly in a packed stadium atmosphere.\n\n{argument name=\"athlete\" default=\"Messi\"} is smiling warmly with both arms raised high in celebration, acknowledging the crowd. Detailed tattoos visible on one arm, blue captain's armband, realistic facial features, authentic athlete physique. Bright stadium floodlights, cheering fans, Argentina flags waving in the background, cinematic depth of field and emotional victory atmosphere.\n\nInclude elegant birthday poster typography:\n\n\"HAPPY BIRTHDAY LEO {argument name=\"athlete\" default=\"MESSI\"}\"\n\nSubtitle:\n\n\"{argument name=\"subtitle\" default=\"THE GREATEST OF ALL TIME\"}\"\n\nLuxury sports editorial style, premium magazine cover aesthetic, realistic jersey fabric, dramatic lighting, photorealistic skin texture, vibrant colors, confetti falling through the air, ultra-detailed, 8K quality, masterpiece sports poster.\n\nNegative Prompt: blurry face, extra fingers, distorted hands, bad anatomy, low quality, cropped body, watermark, logo, text artifacts, cartoon style, AI artifacts.",
+    "title": "Lionel Messi Birthday Tribute Poster",
+    "description": "A cinematic and ultra-realistic prompt for creating a premium sports tribute poster for Lionel Messi, featuring stadium lighting and Argentina national team details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782372812337_vuilog_HLkh-pSXwAAtCxy.jpg",
+      "https://cms-assets.youmind.com/media/1782372812279_yac7gc_HLkh-pfXUAA3s7J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26567,
     "content": "Ultra-realistic black-and-white editorial studio portrait of a {argument name=\"subject and pose\" default=\"confident woman sitting casually on a modern folding chair. Relaxed fashion pose\"}, {argument name=\"outfit\" default=\"black blazer, fitted dark t-shirt, flared jeans, chunky sneakers\"}, clean monochrome styling. Minimal white seamless studio backdrop surrounded by {argument name=\"street art elements\" default=\"hand-drawn graffiti doodles, lightning bolts, arrows, spirals, abstract symbols, motivational typography, and street-art elements in black, white, and soft orange accents\"}. Include phrases such as \"DREAM BIG\", \"CREATE\", and \"STAY TRUE\" integrated naturally into the composition. High-contrast fashion photography, cinematic studio lighting, realistic skin texture, premium editorial aesthetic, sharp focus, luxury magazine quality, modern street-art influence, balanced composition, subtle shadows, expressive urban energy, ultra-detailed, photorealistic, 8K quality.",
     "title": "Monochrome Editorial Street Art Portrait",

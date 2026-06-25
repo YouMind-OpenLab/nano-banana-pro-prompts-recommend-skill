@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 26641,
+    "content": "A vertical, over-the-shoulder portrait of a {argument name=\"subject\" default=\"young woman\"} with a {argument name=\"hairstyle\" default=\"classic black bob haircut\"}. She is looking back toward the camera with a serious, captivating expression. She wears an elegant, high-neck, {argument name=\"dress\" default=\"navy blue shimmery dress\"} featuring a texture that catches the light like fine glitter. The background is a moody, dimly lit room with ornate navy blue damask wallpaper, featuring a dark carved wood frame and subtle classical decor pieces on a surface behind her, creating a sophisticated and atmospheric setting.",
+    "title": "Elegant woman in glittery navy dress",
+    "description": "A sophisticated prompt creating a vertical portrait of a woman in a shimmering navy dress set within a moody, classically decorated room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782372809872_4q93zb_HLl1vKCXgAASCos.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26640,
+    "content": "A close-up, high-contrast black and white portrait of a {argument name=\"subject\" default=\"man\"} looking directly into the camera with an intense expression. He has thick, voluminous messy dark hair, a neatly trimmed beard, and a mustache. He is wearing {argument name=\"eyewear\" default=\"dark aviator-style sunglasses\"} with a double bridge bar, which he lowers slightly down his nose with his right hand, peering directly over the top rims. On the ring finger of his right hand, he wears a prominent {argument name=\"accessory\" default=\"square signet ring\"} with a dark center inlay. He is dressed in a dark button-up shirt, left open at the collar to reveal a hint of his chest. The background is a dark, out-of-focus brick wall with faint horizontal lines. The lighting is soft and directional, coming from the front-top oblique angle, highlighting his forehead, nose bridge, and knuckles while leaving the rest of the scene in deep shadow.",
+    "title": "High-contrast black and white intense male portrait",
+    "description": "A striking prompt for generating a high-contrast black and white portrait of a man with a beard and sunglasses, focusing on intense expressions and dramatic directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782372809922_wnuhh0_HLlTHrmW4AAyu9V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26479,
     "content": "1:1 exact face from photo. Low-angle close-up, POV. Girl applying {argument name=\"makeup item\" default=\"lip gloss\"}, sultry gaze. {argument name=\"outfit\" default=\"Black corset\"}, {argument name=\"accessory\" default=\"gold chain\"}, voluminous messy hair. Screen light, dark background, deep shadows, iPhone 16 style, subtle grain.",
     "title": "Sultry Close-Up Portrait with POV Angle",
