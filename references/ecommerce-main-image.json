@@ -1,5 +1,17 @@
 [
   {
+    "id": 26726,
+    "content": "A main e-commerce image for {argument name=\"product\" default=\"wireless noise-canceling headphones\"}, featuring a {argument name=\"style\" default=\"minimalist style\"} and a {argument name=\"background color\" default=\"white background\"}, highlighting the product with added selling point copy and icons, suitable for e-commerce platforms.",
+    "title": "Minimalist Headphone E-commerce Product Photo",
+    "description": "A professional prompt for creating clean, e-commerce ready product images for wireless headphones with a minimalist aesthetic and a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782460097714_no38br_HLoUcx5XcAA8m4Y.jpg",
+      "https://cms-assets.youmind.com/media/1782460097781_ljki8p_HLoUcuVXEAAYGdh.jpg",
+      "https://cms-assets.youmind.com/media/1782460097790_1iq0hr_HLoUcw5WAAAIfrz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26310,
     "content": "{argument name=\"product\" default=\"Elegant blush pink bottle\"} surrounded by {argument name=\"elements\" default=\"cherry blossom petals floating in air, soap bubbles reflecting soft pink light\"}, glossy podium, premium Japanese beauty advertisement style, {argument name=\"mood\" default=\"dreamy cinematic atmosphere\"}, ultra realistic, luxury skincare campaign.",
     "title": "Cherry Blossom Beauty Campaign",

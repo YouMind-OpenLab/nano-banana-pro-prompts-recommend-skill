@@ -10,6 +10,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 26725,
+    "content": "Ultra-realistic dramatic portrait of a {argument name=\"subject\" default=\"man or woman\"} (from uploaded image), messy hair over one eye, wearing a black turtleneck, centered with an intense stare. Bright sharp horizontal red light highlights only the eyes and reflects on the gray wall; rest in deep shadow. Moody, minimalist, cinematic",
+    "title": "Dramatic Red Light Portrait",
+    "description": "A moody and cinematic portrait prompt featuring a subject with intense red horizontal lighting on the eyes and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782460097149_5ki9xm_HLp1NrJWEAE8Fqx.jpg",
+      "https://cms-assets.youmind.com/media/1782460097080_jpa9vc_HLp1Pt-XkAA_ytY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26718,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person.\n\nCreate a hyper-realistic dark cinematic collage portrait inspired by the reference image. Make a moody black-and-white/low-saturation aesthetic with a gritty film texture. Create a scrapbook-style layout with multiple torn paper photo frames of me in different poses and moments.\n\nMain center portrait: a close-up portrait of me wearing a {argument name=\"clothing\" default=\"black hoodie\"} and {argument name=\"accessory\" default=\"dark sunglasses\"}, looking serious and calm, shot at night with dramatic shadows and soft street lighting.\n\nSurrounding collage elements:\n•{argument name=\"setting\" default=\"night street\"} photos with wet roads and city lights\n•side profile portrait wearing sunglasses\n•sitting alone outdoors at night, reflective mood\n•close-up smoking-style pose (no visible cigarette if needed)\n•dark abstract shadows and grainy photographs\n•torn paper edges, tape marks, handwritten notes, old journal aesthetic\n•small handwritten quotes and emotional text elements like:\n“no expectations, no disappointments”\n“it’s 2am again and I’m still thinking about everything”\n“good music, bad days”\n“nobody understands”\n“empty inside”\n\nStyle: luxury streetwear editorial + dark aesthetic + emotional diary collage.\nLighting: cinematic night photography, high contrast, deep blacks, soft highlights.\nTexture: vintage film grain, scratched paper, realistic imperfections.\nMake it look like a real photographed magazine collage, not AI-generated. Maintain my face identity consistently in every frame.",
+    "title": "Dark Cinematic Diary Collage",
+    "description": "A sophisticated prompt for creating hyper-realistic, dark cinematic collage portraits with a scrapbook aesthetic. It maintains facial identity while blending multiple torn-paper frames into a moody, low-saturation luxury streetwear editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782460093403_4ja3kj_HLoicCCbsAAfTcZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26720,
+    "content": "Create an ultra-realistic cinematic dark portrait using the exact face from the uploaded reference image. Over-the-shoulder composition, camera positioned slightly behind the subject at a {argument name=\"camera angle\" default=\"45–90 degree side profile angle\"}, facing right. {argument name=\"background color\" default=\"Deep black\"} background with dramatic high-contrast lighting. Strong white rim light tracing the outline of the hair, forehead, nose, lips, beard, and sharp jawline. Thick textured hair with natural volume, highly detailed skin pores, realistic facial texture, subtle beard stubble, premium fashion-editorial look. Round {argument name=\"accessory\" default=\"silver-rimmed sunglasses\"} with realistic reflections and studio light highlights. Moody luxury atmosphere, cinematic poster style, shallow depth of field, ultra-sharp focus on the face, professional color grading, volumetric lighting, photorealistic shadows, luxury magazine cover quality, 8K HDR, masterpiece photography, premium male model aesthetic.",
+    "title": "Cinematic Dark Profile Male Portrait",
+    "description": "A high-fashion editorial prompt for creating ultra-realistic dark portraits with high-contrast rim lighting and facial feature preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782460094829_yclwk5_HLoQhF2agAAis1I.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26641,
     "content": "A vertical, over-the-shoulder portrait of a {argument name=\"subject\" default=\"young woman\"} with a {argument name=\"hairstyle\" default=\"classic black bob haircut\"}. She is looking back toward the camera with a serious, captivating expression. She wears an elegant, high-neck, {argument name=\"dress\" default=\"navy blue shimmery dress\"} featuring a texture that catches the light like fine glitter. The background is a moody, dimly lit room with ornate navy blue damask wallpaper, featuring a dark carved wood frame and subtle classical decor pieces on a surface behind her, creating a sophisticated and atmospheric setting.",
     "title": "Elegant woman in glittery navy dress",
