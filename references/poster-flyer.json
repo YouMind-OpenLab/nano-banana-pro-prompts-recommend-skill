@@ -20,6 +20,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 26823,
+    "content": "{\n  \"title\": \"{argument name=\"title\" default=\"The King Returns\"}\",\n  \"image_description\": \"{argument name=\"image description\" default=\"An ancient king walks into his abandoned kingdom after 1000 years. Giant statues are broken and covered with vines.\"}\",\n  \"setting\": {\n    \"location\": \"Forgotten Kingdom\",\n    \"weather\": \"Morning Mist\"\n  },\n  \"mood\": [\"Historical\", \"Epic\", \"Melancholic\"],\n  \"style\": \"{argument name=\"style\" default=\"Ridley Scott inspired historical cinema\"}\"\n}",
+    "title": "Ancient King's Return to Abandoned Kingdom",
+    "description": "An epic, melancholic scene description in a structured format, depicting an ancient king returning to a vine-covered, ruined kingdom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545113346_susp6y_HLwH3yQagAAeA1y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26824,
+    "content": "A {argument name=\"subject\" default=\"confident young woman with shoulder-length wavy brown hair\"} wearing a {argument name=\"clothing\" default=\"plain white oversized t-shirt and small gold hoop earrings\"}, standing in the middle of a busy urban street surrounded by tall skyscrapers, low-angle portrait, cinematic composition. {argument name=\"aesthetic style\" default=\"Vibrant cyberpunk aesthetic with neon magenta, lime green, and cyan graffiti-style hand-drawn scribbles\"} outlining her silhouette and clothing. Abstract holographic chrome floating objects, translucent geometric shapes, RGB glitch effect, chromatic aberration, dreamy haze, analog film grain, light leaks, vibrant color grading, surreal digital art mixed with realistic photography, editorial fashion campaign, ultra-detailed, sharp facial features, shallow depth of field, high contrast, 8K, premium magazine cover, futuristic streetwear vibe.",
+    "title": "Cyberpunk Urban Fashion Portrait",
+    "description": "A detailed prompt for a vibrant cyberpunk-themed editorial portrait, combining realistic photography with surreal digital art elements and glitch effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545114206_an99nj_HLusfbsbMAAP_cp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26828,
+    "content": "Ultra-realistic editorial sports-fashion campaign featuring {argument name=\"subjects\" default=\"a young man and young woman\"} wearing {argument name=\"clothing\" default=\"authentic Portugal national football jerseys\"} inside a {argument name=\"setting\" default=\"gritty industrial locker room\"}. The man sits confidently on the cold concrete floor in the foreground, leaning slightly forward with clasped hands, while the woman relaxes effortlessly on a worn steel locker-room bench in the background. Both have intense, serious expressions, creating a powerful sense of determination and quiet confidence. Raw concrete walls, distressed metal lockers, scattered football gear, worn boots, subtle moisture on the floor, and cinematic industrial textures enhance the atmosphere. Dramatic Rembrandt lighting with soft volumetric rays, deep shadows, cool grey tones contrasted by the vivid red Portugal jerseys. Luxury streetwear styling, modern football culture aesthetic, Vogue Sports editorial, Nike campaign quality, premium fashion photography, shallow depth of field, razor-sharp facial details, natural skin texture, realistic fabric folds, ultra-detailed embroidery, lifelike proportions, subtle film grain, HDR, 85mm lens, f/1.8, full-frame camera, high dynamic range, rich contrast, photorealistic, hyper-realistic, masterpiece, 8K, award-winning commercial photography, cinematic composition, magazine cover quality, no text, no watermark, no logos except jersey crest.",
+    "title": "Industrial Football Locker Room Campaign",
+    "description": "A high-end editorial sports-fashion prompt featuring models in Portugal national jerseys within a gritty industrial locker room setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545116101_u8bdf4_HLtTijTaIAA38_e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26718,
     "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person.\n\nCreate a hyper-realistic dark cinematic collage portrait inspired by the reference image. Make a moody black-and-white/low-saturation aesthetic with a gritty film texture. Create a scrapbook-style layout with multiple torn paper photo frames of me in different poses and moments.\n\nMain center portrait: a close-up portrait of me wearing a {argument name=\"clothing\" default=\"black hoodie\"} and {argument name=\"accessory\" default=\"dark sunglasses\"}, looking serious and calm, shot at night with dramatic shadows and soft street lighting.\n\nSurrounding collage elements:\n•{argument name=\"setting\" default=\"night street\"} photos with wet roads and city lights\n•side profile portrait wearing sunglasses\n•sitting alone outdoors at night, reflective mood\n•close-up smoking-style pose (no visible cigarette if needed)\n•dark abstract shadows and grainy photographs\n•torn paper edges, tape marks, handwritten notes, old journal aesthetic\n•small handwritten quotes and emotional text elements like:\n“no expectations, no disappointments”\n“it’s 2am again and I’m still thinking about everything”\n“good music, bad days”\n“nobody understands”\n“empty inside”\n\nStyle: luxury streetwear editorial + dark aesthetic + emotional diary collage.\nLighting: cinematic night photography, high contrast, deep blacks, soft highlights.\nTexture: vintage film grain, scratched paper, realistic imperfections.\nMake it look like a real photographed magazine collage, not AI-generated. Maintain my face identity consistently in every frame.",
     "title": "Dark Cinematic Diary Collage",

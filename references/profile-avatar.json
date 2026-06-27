@@ -10,6 +10,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 26825,
+    "content": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"man leaning forward with his chin resting on his crossed hands\"} placed atop a professional {argument name=\"musical instrument\" default=\"electronic music keyboard\"}. His hands wear multiple silver rings. The keyboard keys are clearly visible in the foreground with sharp texture.\nShot at eye level with a 50mm lens, shallow depth of field, sharp focus on the face.\nLighting is dramatic and cinematic, not soft: strong directional backlight behind the subject, creating a glowing halo through dense volumetric fog. High contrast lighting with deep shadows and bright highlights on the face and hands. Subtle front fill light only to preserve facial details.\nThe background is a {argument name=\"background color\" default=\"rich, intense orange and golden gradient\"} with high saturation and luminous glow, resembling heated air or fire-like atmosphere. The fog catches the backlight, creating a vivid, radiant diffusion.\nColor grading is cinematic with high contrast, deep blacks, and strong color density. No washed-out tones.",
+    "title": "Cinematic Music Producer Portrait",
+    "description": "A dramatic portrait prompt of a musician with high-contrast lighting and a warm, glowing background, designed to be used with a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545114886_6mm326_HLxHpkqXoAAsbrS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26821,
+    "content": "A hyper-realistic portrait photo from waist to head of me (use reference photo), wearing a {argument name=\"outfit\" default=\"high coat and a formal suit\"}. I'm standing sideways, my right hand raised and opening the fist while wearing {argument name=\"accessories\" default=\"black leather gloves\"}. My head is slightly lifted, following the direction of my raised palm. From my palm, a {argument name=\"creature\" default=\"black raven\"} emerges, fully formed from swirling ashes and smoke, with its lower body still composed of dust and smoke. Many other ravens I've created are flying around me, forming a chaotic yet natural swarm with varied wing positions and angles; some even perch on my shoulders. Feathers scatter in the wind. The wind blows from below, lifting my coat collar and slightly tousling my hair. My expression is intense yet calm as I summon the ravens. Apply a subtle grain or texture filter to enhance realism. The composition is seamless, with depth in the background, ensuring all elements - figure, coat, ravens, smoke, and feathers - appear integrated and naturally interacting with light and atmosphere. Dramatic, cinematic lighting emphasizes shadows, highlights, and details.",
+    "title": "Raven Summoner Cinematic Portrait",
+    "description": "A dramatic, cinematic prompt where a subject in formal attire summons a raven from smoke and ashes, designed for use with a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545112757_fcf0jv_HLwAa0zWUAAdR_-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26822,
+    "content": "A beautiful young {argument name=\"ethnicity\" default=\"East Asian woman\"} with a {argument name=\"hairstyle\" default=\"short platinum blonde bob haircut\"}, fair porcelain skin, soft natural makeup, and delicate facial features, sitting in a {argument name=\"setting\" default=\"modern minimalist home office\"} at a wooden desk. She is wearing a fitted white sleeveless top with elegant high-waisted cream wide-leg trousers that completely cover both legs, creating a modest yet stylish look. One hand rests on the keyboard while the other points toward the computer monitor as she looks slightly upward with a calm, thoughtful expression. A black ergonomic office chair, desktop computer, white shelves, books, small decorations, and soft wall art decorate the cozy workspace. Natural daylight streams through the window, mixed with warm indoor ambient lighting. Authentic handheld iPhone 16 Pro camera photo, casual smartphone photography, slightly wide-angle lens, subtle perspective distortion, realistic skin texture, unposed candid moment, full-body shot, vertical 3:4 composition, ultra-realistic, high detail, no AI look, no excessive beauty filter, DSLR-quality realism but unmistakably captured on an iPhone.",
+    "title": "Minimalist Home Office Portrait",
+    "description": "Creates a hyper-realistic, candid iPhone-style photo of an East Asian woman working in a minimalist home office with natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545113275_7vdufu_HLuOuVNaAAIqFV5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26833,
+    "content": "A cinematic, magazine-cover quality portrait of a {argument name=\"ethnicity\" default=\"young South Asian woman\"} with long, flowing dark hair, wearing an {argument name=\"outfit\" default=\"elegant black long-sleeved top\"}. She is gently holding a {argument name=\"pet\" default=\"fluffy, long-haired white Persian cat\"}, looking at it with a soft, affectionate expression. Dramatic rim lighting from behind beautifully illuminates the edges of her hair and the cat's soft fur, creating a glowing halo effect. Subtle mist or fine dust particles are caught in the sharp backlight against a stark, pitch-black background. Shot on an 85mm lens at f/1.8, shallow depth of field, intense cinematic bokeh, hyper-realistic textures, 8K resolution, editorial fashion style. --ar 4:5",
+    "title": "Cinematic Woman and Cat Portrait",
+    "description": "A high-resolution editorial fashion style prompt creating a cinematic portrait of a woman with a fluffy Persian cat under dramatic rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545119012_mmyxsf_HLtbhi2bMAAvRZT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26831,
+    "content": "Ultra-realistic candid smartphone photograph, 9:16 vertical.\nUse the attached image only as a strong visual inspiration for general facial proportions and vibe,\nwhile ensuring the generated subject remains fully original, non-identifiable, and not a face copy.\nScene\nNighttime on a quiet {argument name=\"location\" default=\"Tokyo city sidewalk\"} beside a building with white ceramic tile walls.\nThe subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.\nPoses & Gestures (combined naturally)\nThe subject reacts instinctively to being photographed:\nturning her head back mid-walk as if surprised,\nraising one hand close to the lens to partially block the camera,\n{argument name=\"expression\" default=\"shy, restrained smile forming as she suppresses laughter\"},\nbody angled in half-profile while continuing to walk forward,\nmotion carries her slightly out of frame, imperfect framing.\nExpressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.\nCamera & Motion\nShot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.\nLighting\nFlash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.\nBackground\nWhite ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.\nMood\nCandid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.\nImage Quality\nExtremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.\nNegative Prompt\nanime, illustration, painting, stylized,\nstudio lighting, beauty lighting, soft portrait,\nsharp focus, clean face, perfect anatomy, smooth skin,\nfashion editorial, posed portrait, cinematic grading, film still,\ntripod shot, professional photography,\nidentity match, face copy, real person replication",
+    "title": "Candid Night Smartphone Photography",
+    "description": "A comprehensive prompt for Nano Banana Pro that replicates the aesthetic of a raw, blurry, flash-lit night photograph taken on a smartphone in a city environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545117851_npubhm_HLqn9U_aMAAV5-8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26725,
     "content": "Ultra-realistic dramatic portrait of a {argument name=\"subject\" default=\"man or woman\"} (from uploaded image), messy hair over one eye, wearing a black turtleneck, centered with an intense stare. Bright sharp horizontal red light highlights only the eyes and reflects on the gray wall; rest in deep shadow. Moody, minimalist, cinematic",
     "title": "Dramatic Red Light Portrait",
@@ -206,6 +256,19 @@
       "https://cms-assets.youmind.com/media/1782200279692_wqxe2s_HLRmp5fbIAANn1M.jpg",
       "https://cms-assets.youmind.com/media/1782200279728_gesanb_HLRmqaFakAACHJR.jpg",
       "https://cms-assets.youmind.com/media/1782200279696_z2pt4i_HLRmq6MacAA53do.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26829,
+    "content": "Ultra-realistic studio portrait of a {argument name=\"subject\" default=\"young woman\"} with fair skin and subtle freckles, {argument name=\"hair style\" default=\"long straight jet-black hair\"} with full bangs, large brown eyes, and bold matte red lipstick. She is leaning slightly forward toward the camera with both hands resting on her knees, maintaining direct eye contact and a neutral, confident expression. She wears a {argument name=\"outfit\" default=\"form-fitting deep red long-sleeve scoop-neck top\"} and fitted blue skinny jeans. Clean light-gray seamless studio background. Soft professional beauty lighting with even illumination, natural skin texture, sharp facial details, realistic hair strands, high-end fashion photography, shallow depth of field, centered composition, photorealistic, ultra-detailed, 8K resolution.",
+    "title": "Realistic Jenna Ortega Studio Portrait",
+    "description": "A comprehensive prompt for generating a high-fashion, 8K resolution studio portrait featuring Jenna Ortega with precise lighting and technical camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545116402_djc3mt_HLRflPXXUAANINf.jpg",
+      "https://cms-assets.youmind.com/media/1782545116266_105cf2_HLRflPYXsAArIGv.jpg",
+      "https://cms-assets.youmind.com/media/1782545116212_mhcjxo_HLRflQHWQAAac_P.jpg",
+      "https://cms-assets.youmind.com/media/1782545116904_fias1u_HLRflPlXwAAlAQm.jpg"
     ],
     "needReferenceImages": false
   },

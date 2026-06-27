@@ -21,6 +21,56 @@
     "needReferenceImages": true
   },
   {
+    "id": 26824,
+    "content": "A {argument name=\"subject\" default=\"confident young woman with shoulder-length wavy brown hair\"} wearing a {argument name=\"clothing\" default=\"plain white oversized t-shirt and small gold hoop earrings\"}, standing in the middle of a busy urban street surrounded by tall skyscrapers, low-angle portrait, cinematic composition. {argument name=\"aesthetic style\" default=\"Vibrant cyberpunk aesthetic with neon magenta, lime green, and cyan graffiti-style hand-drawn scribbles\"} outlining her silhouette and clothing. Abstract holographic chrome floating objects, translucent geometric shapes, RGB glitch effect, chromatic aberration, dreamy haze, analog film grain, light leaks, vibrant color grading, surreal digital art mixed with realistic photography, editorial fashion campaign, ultra-detailed, sharp facial features, shallow depth of field, high contrast, 8K, premium magazine cover, futuristic streetwear vibe.",
+    "title": "Cyberpunk Urban Fashion Portrait",
+    "description": "A detailed prompt for a vibrant cyberpunk-themed editorial portrait, combining realistic photography with surreal digital art elements and glitch effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545114206_an99nj_HLusfbsbMAAP_cp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26826,
+    "content": "Create an ultra-realistic luxury lifestyle fashion portrait in a vertical 4:5 composition, inspired by the refined elegance of Mediterranean editorials and premium designer eyewear campaigns. The image should embody quiet luxury, effortless sophistication, and contemporary masculine style, capturing the atmosphere of an international luxury commercial advertisement. Feature a lean, athletic Mediterranean-European man between {argument name=\"age range\" default=\"26 and 34\"} years old with a strong angular oval face, defined masculine jawline, prominent square chin, and warm olive-beige skin with natural pores and a soft matte finish illuminated by warm Mediterranean sunlight. His expression is calm, thoughtful, reserved, and quietly confident, with slightly relaxed lips and his gaze directed away from the camera. His eyes remain hidden behind classic rectangular sunglasses featuring premium matte black acetate frames and polarized charcoal-black lenses with subtle daylight reflections, making the eyewear the hero element of the composition. His hair is medium-length dark chocolate brown with naturally textured soft wavy curls, full volume around the crown, and a slightly wind-swept appearance. A short, well-groomed designer stubble enhances the masculine aesthetic while preserving a natural editorial look. Style him in a {argument name=\"clothing\" default=\"tailored black fine-gauge merino wool or premium cotton knit sweater\"} with a high crew neck, reflecting understated luxury and timeless European menswear. The overall wardrobe should communicate quiet luxury, premium casual fashion, and an old-money Mediterranean lifestyle without relying on formal tailoring. Pose the subject standing in a three-quarter profile with his head turned over his shoulder. Frame the portrait from the head to the upper torso with relaxed shoulders and natural body language that conveys effortless confidence and timeless sophistication. Use a tight editorial crop with the subject positioned slightly toward the right side of the frame, allowing generous negative space formed by a clean architectural wall. The visual hierarchy should naturally emphasize the sunglasses, facial profile, textured hair, and black knitwear. Photograph the scene outdoors against a {argument name=\"background\" default=\"warm beige limestone or stucco wall\"} with subtle plaster texture, creating a minimal Mediterranean architectural setting free from distractions. The environment should feel exclusive, refined, and luxurious through its simplicity. Illuminate the portrait with soft late-afternoon Mediterranean sunlight coming from camera left, complemented by gentle natural fill light reflected from pale stone walls. The lighting should produce sculpted facial shadows, warm highlights across the skin, and a natural commercial finish with medium contrast. Capture the image using a 105mm portrait lens at f/2.8 from eye level to create strong portrait compression, shallow depth of field, and precise focus on the sunglasses, face, and hair texture while rendering the background softly",
+    "title": "Luxury Mediterranean Fashion Portrait",
+    "description": "A highly detailed prompt for creating a luxury lifestyle fashion portrait of a man, inspired by Mediterranean editorial photography and designer eyewear campaigns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545114735_zcp6g2_HLtveoaa0AA1QQ0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26833,
+    "content": "A cinematic, magazine-cover quality portrait of a {argument name=\"ethnicity\" default=\"young South Asian woman\"} with long, flowing dark hair, wearing an {argument name=\"outfit\" default=\"elegant black long-sleeved top\"}. She is gently holding a {argument name=\"pet\" default=\"fluffy, long-haired white Persian cat\"}, looking at it with a soft, affectionate expression. Dramatic rim lighting from behind beautifully illuminates the edges of her hair and the cat's soft fur, creating a glowing halo effect. Subtle mist or fine dust particles are caught in the sharp backlight against a stark, pitch-black background. Shot on an 85mm lens at f/1.8, shallow depth of field, intense cinematic bokeh, hyper-realistic textures, 8K resolution, editorial fashion style. --ar 4:5",
+    "title": "Cinematic Woman and Cat Portrait",
+    "description": "A high-resolution editorial fashion style prompt creating a cinematic portrait of a woman with a fluffy Persian cat under dramatic rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545119012_mmyxsf_HLtbhi2bMAAvRZT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26828,
+    "content": "Ultra-realistic editorial sports-fashion campaign featuring {argument name=\"subjects\" default=\"a young man and young woman\"} wearing {argument name=\"clothing\" default=\"authentic Portugal national football jerseys\"} inside a {argument name=\"setting\" default=\"gritty industrial locker room\"}. The man sits confidently on the cold concrete floor in the foreground, leaning slightly forward with clasped hands, while the woman relaxes effortlessly on a worn steel locker-room bench in the background. Both have intense, serious expressions, creating a powerful sense of determination and quiet confidence. Raw concrete walls, distressed metal lockers, scattered football gear, worn boots, subtle moisture on the floor, and cinematic industrial textures enhance the atmosphere. Dramatic Rembrandt lighting with soft volumetric rays, deep shadows, cool grey tones contrasted by the vivid red Portugal jerseys. Luxury streetwear styling, modern football culture aesthetic, Vogue Sports editorial, Nike campaign quality, premium fashion photography, shallow depth of field, razor-sharp facial details, natural skin texture, realistic fabric folds, ultra-detailed embroidery, lifelike proportions, subtle film grain, HDR, 85mm lens, f/1.8, full-frame camera, high dynamic range, rich contrast, photorealistic, hyper-realistic, masterpiece, 8K, award-winning commercial photography, cinematic composition, magazine cover quality, no text, no watermark, no logos except jersey crest.",
+    "title": "Industrial Football Locker Room Campaign",
+    "description": "A high-end editorial sports-fashion prompt featuring models in Portugal national jerseys within a gritty industrial locker room setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545116101_u8bdf4_HLtTijTaIAA38_e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26834,
+    "content": "A high-quality, professional editorial-style portrait of a {argument name=\"subject\" default=\"young woman\"} sitting on a yoga mat in a {argument name=\"setting\" default=\"modern gym\"}. She is wearing a {argument name=\"clothing\" default=\"soft, mint-green knitted hoodie and white trousers\"}. She is holding a smartphone to take a mirror selfie. The image should feature a clean, bright, and airy atmosphere with cinematic, 8K lighting and soft bokeh in the background. Use an 85mm lens for a flattering portrait perspective. Ensure the framing is well-balanced, capturing the subject from the waist up while maintaining a spacious view of the gym environment.",
+    "title": "Professional Gym Mirror Selfie Portrait",
+    "description": "A prompt for generating high-quality editorial portraits of a person taking a mirror selfie in a modern gym with soft bokeh and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545119323_e2het0_HLtAWPTW4AA1Uel.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26722,
     "content": "A confident male in his thirties stands deliberately posed with his body turned at a forty-five-degree angle, centering his weight with level shoulders. His hair features a high taper fade on the sides with a three-to-four-inch swept-back pompadour on top, styled with a matte product that reveals natural texture and subtle flyaways. He wears a {argument name=\"clothing\" default=\"dark charcoal gray textured suit\"} over an unbuttoned crisp white shirt. His expression is sophisticated and composed, with a neutral mouth, no smile, and relaxed eyebrows, while his eyes are concealed behind {argument name=\"accessory\" default=\"round tortoiseshell sunglasses\"} directed toward the left. His left hand, adorned with a silver watch and a gold ring, has fingers slightly curled as it grasps the left lapel of his jacket. His right hand, styled with silver and black bracelets and a silver ring, rests lightly on the right edge of the jacket near the button, creating an asymmetric visual hierarchy that draws the eye down the open collar to his hands and jewelry. He stands within a pristine indoor luxury interior of medium spatial depth, resting on a floor of {argument name=\"setting\" default=\"solid white marble tile\"} accented by gray veining. In the left midground, a prominent staircase built of matching white marble with gray veins features a glass railing and elegant brass trim. Behind him to the right, dominant warm cream sheer drapes hang in pristine condition, their soft vertical pleats creating vertical light and shadow streaks across the matte fabric. A single source of soft, natural window light streams in from ninety degrees to the camera left, establishing a sophisticated and luxurious mood with a warm temperature. This moderately directional light casts soft, gradual, short gray shadows across the right side of his face and body, while pristine preserved highlights illuminate his left cheek, the crisp white shirt collar, and his metallic jewelry. The ambient fill balances the medium contrast, accentuating a neutral but warm color profile heavily dominated by the charcoal gray of his suit, the crisp white of the shirt and stairs, warm cream drapes, and natural skin tones. Captured in the style of a high-end editorial menswear lookbook and luxury lifestyle photography using an 85mm lens set to f/2.8 at 1/200s and ISO 100, the realistic digital image boasts tack-sharp focus on the subject with a slightly soft background depth of field, finished with a subtle warm color grade, refined contrast enhancement, and localized sharpening on his face and jewelry to ensure a clean aesthetic, all perfectly framed in a 4:5 aspect ratio.",
     "title": "Luxury Indoor Menswear Lookbook",
@@ -196,6 +246,19 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782028904760_b9z0r0_HLRqkcIbgAAVqRu.jpg",
       "https://cms-assets.youmind.com/media/1782028904788_x5iu2w_HLRqkcJaUAAEpdv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26829,
+    "content": "Ultra-realistic studio portrait of a {argument name=\"subject\" default=\"young woman\"} with fair skin and subtle freckles, {argument name=\"hair style\" default=\"long straight jet-black hair\"} with full bangs, large brown eyes, and bold matte red lipstick. She is leaning slightly forward toward the camera with both hands resting on her knees, maintaining direct eye contact and a neutral, confident expression. She wears a {argument name=\"outfit\" default=\"form-fitting deep red long-sleeve scoop-neck top\"} and fitted blue skinny jeans. Clean light-gray seamless studio background. Soft professional beauty lighting with even illumination, natural skin texture, sharp facial details, realistic hair strands, high-end fashion photography, shallow depth of field, centered composition, photorealistic, ultra-detailed, 8K resolution.",
+    "title": "Realistic Jenna Ortega Studio Portrait",
+    "description": "A comprehensive prompt for generating a high-fashion, 8K resolution studio portrait featuring Jenna Ortega with precise lighting and technical camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545116402_djc3mt_HLRflPXXUAANINf.jpg",
+      "https://cms-assets.youmind.com/media/1782545116266_105cf2_HLRflPYXsAArIGv.jpg",
+      "https://cms-assets.youmind.com/media/1782545116212_mhcjxo_HLRflQHWQAAac_P.jpg",
+      "https://cms-assets.youmind.com/media/1782545116904_fias1u_HLRflPlXwAAlAQm.jpg"
     ],
     "needReferenceImages": false
   },

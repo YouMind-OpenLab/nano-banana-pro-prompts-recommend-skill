@@ -1,5 +1,46 @@
 [
   {
+    "id": 26832,
+    "content": "Depiction of a {argument name=\"ritual\" default=\"ritual\"} in {argument name=\"location\" default=\"necropolis ascension grounds\"} in an artistic {argument name=\"style\" default=\"gothicpunk\"} style.",
+    "title": "Gothicpunk Ritual in Necropolis",
+    "description": "A detailed artistic prompt for generating a ritual scene in a necropolis with a gothicpunk aesthetic using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545118908_l7cfel_HLwLLnFaYAApv_J.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26823,
+    "content": "{\n  \"title\": \"{argument name=\"title\" default=\"The King Returns\"}\",\n  \"image_description\": \"{argument name=\"image description\" default=\"An ancient king walks into his abandoned kingdom after 1000 years. Giant statues are broken and covered with vines.\"}\",\n  \"setting\": {\n    \"location\": \"Forgotten Kingdom\",\n    \"weather\": \"Morning Mist\"\n  },\n  \"mood\": [\"Historical\", \"Epic\", \"Melancholic\"],\n  \"style\": \"{argument name=\"style\" default=\"Ridley Scott inspired historical cinema\"}\"\n}",
+    "title": "Ancient King's Return to Abandoned Kingdom",
+    "description": "An epic, melancholic scene description in a structured format, depicting an ancient king returning to a vine-covered, ruined kingdom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545113346_susp6y_HLwH3yQagAAeA1y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26827,
+    "content": "A high-quality, cinematic portrait series featuring a young woman with {argument name=\"hair style\" default=\"wavy brown hair\"}, wearing a {argument name=\"clothing\" default=\"green knit sweater\"} and a {argument name=\"accessory\" default=\"small gold necklace\"}. The image is a multi-panel collage capturing a variety of candid, authentic emotional expressions in an {argument name=\"setting\" default=\"urban street setting\"} with a softly blurred background. The composition includes distinct frames showing the subject in different moods: one thoughtfully touching her chin, one smiling warmly, one winking playfully, one laughing heartily, one looking directly at the camera with a neutral expression, and one appearing surprised with a slightly open mouth. The overall aesthetic is warm, natural, and lifestyle-oriented, maintaining consistent lighting and professional color grading across all panels to evoke a polished, editorial feel.",
+    "title": "Multi-Expression Emotional Portrait Series",
+    "description": "A comprehensive prompt for a multi-panel collage capturing various candid emotional expressions of a subject in an urban setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545115680_tg4ca8_HLvbqzcWQAASUBL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26830,
+    "content": "Standard character design output, three-view (front, side, back) of {argument name=\"character description\" default=\"the full body\"}, pure white background. Close-up bust on the left, full-body three-view on the right: front, side, and back views. Completely realistic style. Strictly maintain character consistency; the close-up on the left can be a direct screenshot.\n\nBased on the reference image, generate a full-body three-view of {argument name=\"character name\" default=\"Xiang Yu\"} (pure white background, front, side, and back views. Completely {argument name=\"style\" default=\"realistic\"} style. Clothing remains perfectly consistent. Reference image remains perfectly consistent. The character's face is completely blurred. Maintain character consistency. Do not include weapons.",
+    "title": "Consistent Three-View Character Sheet",
+    "description": "A specialized prompt for Nano Banana Pro designed to generate character concept sheets with front, side, and back views while maintaining facial and outfit consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782545117208_9ae5pc_HLtL7snawAAIBWo.jpg",
+      "https://cms-assets.youmind.com/media/1782545116969_mxypgx_HLtL7hoaUAA6mzx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26721,
     "content": "Secrets of the {argument name=\"location\" default=\"Sea\"}",
     "title": "Secrets of the Sea Underwater Scene",
