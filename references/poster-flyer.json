@@ -20,6 +20,29 @@
     "needReferenceImages": false
   },
   {
+    "id": 26927,
+    "content": "{argument name=\"art style\" default=\"Ultra-detailed monochrome graphite portrait illustration\"}, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with expressive loose construction lines, premium pencil-on-smooth-paper texture, soft charcoal shading, refined graphite gradients, delicate cross-hatching, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.",
+    "title": "Detailed Monochrome Graphite Portrait",
+    "description": "A sophisticated prompt for generating high-contrast monochrome graphite sketches that blend fine art aesthetic with hyper-realistic facial rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632582007_sdd1r9_HL0q3XFbcAIZzaV.jpg",
+      "https://cms-assets.youmind.com/media/1782632580881_zlokb6_HL0q3a_acAAwcIC.jpg",
+      "https://cms-assets.youmind.com/media/1782632582235_y279p5_HL0q3iwaQAA-2DY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26932,
+    "content": "Create a high-fashion streetwear editorial poster featuring a stylish {argument name=\"ethnicity\" default=\"Korean woman\"} (early 20s) with a confident, powerful attitude. She is standing in a relaxed, dominant pose with hands in pockets, looking directly at the camera with a calm, fearless expression. She is wearing modern urban streetwear: oversized varsity or bomber jacket, cropped top, baggy cargo pants, and chunky sneakers. The outfit should feel premium, trendy, and runway-inspired. The background is a bold, graphic design in a {argument name=\"color theme\" default=\"deep purple\"} aesthetic with large oversized typography reading “{argument name=\"text\" default=\"RULE BREAKER\"}” or similar motivational street-style text. Add layered collage elements like torn paper textures, stickers, scribbles, stamps, barcode graphics, and handwritten motivational phrases such as “BE LIMITLESS”, “NO RULES”, “STAY BOLD”. Lighting should be studio-quality with soft shadows, fashion editorial style, ultra-sharp details, and high contrast. The composition should feel like a modern magazine cover / streetwear brand campaign, combining luxury fashion with rebellious street culture. Color theme: purple, white, black accents, with subtle grunge texture. Ultra-realistic, 8K, high detail, fashion photography, editorial composition, centered framing, full-body shot, cinematic clarity. Aspect ratio: 4:5",
+    "title": "Streetwear Editorial Fashion Poster",
+    "description": "A highly descriptive prompt for a modern streetwear poster featuring a stylish woman with urban collage elements and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632583699_ucb8f2_HL0N513a0AAUi-P.jpg",
+      "https://cms-assets.youmind.com/media/1782632583627_ef5ovq_HL0N57lbAAAqkpJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26823,
     "content": "{\n  \"title\": \"{argument name=\"title\" default=\"The King Returns\"}\",\n  \"image_description\": \"{argument name=\"image description\" default=\"An ancient king walks into his abandoned kingdom after 1000 years. Giant statues are broken and covered with vines.\"}\",\n  \"setting\": {\n    \"location\": \"Forgotten Kingdom\",\n    \"weather\": \"Morning Mist\"\n  },\n  \"mood\": [\"Historical\", \"Epic\", \"Melancholic\"],\n  \"style\": \"{argument name=\"style\" default=\"Ridley Scott inspired historical cinema\"}\"\n}",
     "title": "Ancient King's Return to Abandoned Kingdom",

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T04:24:10.742Z",
-  "totalPrompts": 14610,
+  "updatedAt": "2026-06-28T13:56:39.400Z",
+  "totalPrompts": 14616,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -36,7 +36,7 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5349
+      "count": 5355
     },
     {
       "slug": "ecommerce-main-image",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 874
+      "count": 876
     },
     {
       "slug": "app-web-design",

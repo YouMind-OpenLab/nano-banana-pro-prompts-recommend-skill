@@ -21,6 +21,69 @@
     "needReferenceImages": true
   },
   {
+    "id": 26930,
+    "content": "Ultra-realistic cinematic photography. {argument name=\"subject\" default=\"Two lovers\"} reach toward each other while a luminous heart formed from {argument name=\"light effect\" default=\"flowing aurora light\"} floats between their hands. Purple, cyan, and emerald colors softly illuminate their faces. {argument name=\"time of day\" default=\"Twilight sky\"}, distant city skyline blurred in the background, emotional eye contact, dreamy atmosphere, natural skin texture, volumetric lighting, 8K HDR, luxury fashion editorial style.",
+    "title": "Cinematic Aurora Heart Lovers Photography",
+    "description": "A cinematic photography prompt featuring two lovers with a glowing heart formed from aurora light, creating a dreamy and emotional atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632583472_isysuq_HL1V7b0bgAA8QZc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26927,
+    "content": "{argument name=\"art style\" default=\"Ultra-detailed monochrome graphite portrait illustration\"}, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with expressive loose construction lines, premium pencil-on-smooth-paper texture, soft charcoal shading, refined graphite gradients, delicate cross-hatching, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.",
+    "title": "Detailed Monochrome Graphite Portrait",
+    "description": "A sophisticated prompt for generating high-contrast monochrome graphite sketches that blend fine art aesthetic with hyper-realistic facial rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632582007_sdd1r9_HL0q3XFbcAIZzaV.jpg",
+      "https://cms-assets.youmind.com/media/1782632580881_zlokb6_HL0q3a_acAAwcIC.jpg",
+      "https://cms-assets.youmind.com/media/1782632582235_y279p5_HL0q3iwaQAA-2DY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26932,
+    "content": "Create a high-fashion streetwear editorial poster featuring a stylish {argument name=\"ethnicity\" default=\"Korean woman\"} (early 20s) with a confident, powerful attitude. She is standing in a relaxed, dominant pose with hands in pockets, looking directly at the camera with a calm, fearless expression. She is wearing modern urban streetwear: oversized varsity or bomber jacket, cropped top, baggy cargo pants, and chunky sneakers. The outfit should feel premium, trendy, and runway-inspired. The background is a bold, graphic design in a {argument name=\"color theme\" default=\"deep purple\"} aesthetic with large oversized typography reading “{argument name=\"text\" default=\"RULE BREAKER\"}” or similar motivational street-style text. Add layered collage elements like torn paper textures, stickers, scribbles, stamps, barcode graphics, and handwritten motivational phrases such as “BE LIMITLESS”, “NO RULES”, “STAY BOLD”. Lighting should be studio-quality with soft shadows, fashion editorial style, ultra-sharp details, and high contrast. The composition should feel like a modern magazine cover / streetwear brand campaign, combining luxury fashion with rebellious street culture. Color theme: purple, white, black accents, with subtle grunge texture. Ultra-realistic, 8K, high detail, fashion photography, editorial composition, centered framing, full-body shot, cinematic clarity. Aspect ratio: 4:5",
+    "title": "Streetwear Editorial Fashion Poster",
+    "description": "A highly descriptive prompt for a modern streetwear poster featuring a stylish woman with urban collage elements and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632583699_ucb8f2_HL0N513a0AAUi-P.jpg",
+      "https://cms-assets.youmind.com/media/1782632583627_ef5ovq_HL0N57lbAAAqkpJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26931,
+    "content": "A {argument name=\"subject clothing\" default=\"handsome man in a sharp, pitch-black double-breasted suit layered over a crisp white shirt\"} stands perfectly centered in a medium-scale shot, exuding a sophisticated menswear aesthetic in a sharp, pitch-black double-breasted suit layered over a crisp white shirt with a defined V-neckline and a stark black tie. His posture is upright with level shoulders, facing the camera directly, while his head is turned sharply to the left in a strict profile. His sleek, slicked-back hair reflects the intense light, and vintage sunglasses obscure his eyes as he looks away with a serious, deliberately posed expression, his mouth resting in a closed, neutral line. Both of his hands are tucked away, resting relaxed in his suit pockets as he stands isolated against a {argument name=\"background\" default=\"deeply spacious, minimal coastal background\"}. The top and midground are dominated by a pristine, sky blue expanse completely devoid of clouds, meeting a dark ocean blue at the bottom of the frame that is subtly textured with gentle waves along a perfectly clear horizon line. The scene conveys a confident, formal isolation driven by {argument name=\"lighting style\" default=\"harsh, highly directional natural sunlight striking from the top right\"}. This bright, hard light establishes a dramatic, cool, and high-contrast color palette, casting deep black, harshly defined short shadows directly under his chin, beneath his nose, and across the left side of his face. Conversely, crisp specular highlights are meticulously preserved on the right side of his face, his hair, and his right shoulder, with absolutely no ambient fill to soften the intense blacks and vibrant blues. Captured on an 85mm lens as a realistic digital editorial photograph from a straight-on perspective, the tack-sharp image features a medium depth of field with zero grain, utilizing camera settings of ISO 100, f/5.6, and 1/1000s. The classic fashion photography influence is finalized by post-processing that applies a high contrast curve, a blue channel saturation boost, and crisp sharpening to highlight the subtle warm skin tones, with the entire composition gracefully framed in a 4:5 aspect ratio.",
+    "title": "Formal Menswear Coastal Editorial",
+    "description": "A sophisticated editorial fashion prompt of a man in a black double-breasted suit against a clear coastal background, featuring high-contrast directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632583475_q5zllq_HLzmSvTXUAAl_q4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26929,
+    "content": "A cinematic high-contrast black-and-white portrait captured from a three-quarter side angle, featuring a {argument name=\"subject\" default=\"confident man\"} turning his face toward the camera while maintaining intense eye contact. His thick, textured dark hair is naturally tousled, complemented by a neatly groomed beard and mustache. Instead of lowering his sunglasses straight down, he lightly grips one temple of his {argument name=\"accessory\" default=\"classic double-bridge aviator sunglasses\"} with his right hand as if about to remove them, revealing one eye more prominently than the other. A bold square signet ring with a dark onyx inlay is visible on his right ring finger. He wears a fitted black button-up shirt with the top buttons undone and sleeves slightly rolled, adding a relaxed yet refined look. {argument name=\"lighting\" default=\"Soft directional lighting from behind and to the side\"} creates a dramatic rim light along his hairline, cheek, and hand while a gentle fill illuminates his eyes and facial texture. The background is a dark, softly blurred industrial wall with subtle texture and deep shadows. Ultra-realistic, editorial fashion photography, moody monochrome tones, fine film grain, shallow depth of field, 85mm lens, premium luxury campaign aesthetic, photorealistic, 8K",
+    "title": "High Contrast Monochrome Male Portrait",
+    "description": "A cinematic, high-contrast black-and-white portrait of a man with textured hair and aviator sunglasses, emphasizing dramatic rim lighting and editorial fashion aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632582200_qz6oxj_HLy7NmGaUAAXe_L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26928,
+    "content": "\"subject\": {\"person\": {\"appearance\": \"{argument name=\"person appearance\" default=\"Young South Asian woman with a warm smile, featuring a slightly different facial structure compared to previous iterations, hair styled in an elegant updo bun tied at the back.\"}\",\"attire\": \"Wearing a deep maroon (burgundy) long-sleeved dress, intricately embroidered with golden traditional patterns along the neckline, sleeves, and hem.\"},\"animal\": {\"type\": \"{argument name=\"cat breed\" default=\"Fluffy, long-haired white Persian cat\"}\",\"action\": \"Being held gently in the woman's arms\"}},\"setting\": {\"location\": \"{argument name=\"market location\" default=\"Traditional Middle Eastern or South Asian outdoor market (bazaar) with a narrow stone-paved pathway.\"}\",\"background_elements\": [\"Overhead fabric canopies providing shade\",\"Stalls lined with vibrant textiles, rugs, and tapestries\",\"Tables displaying various colorful spices in bowls and traditional brass/copper metalware\",\"Blurred figures of people walking in the distance\"],\"lighting\": \"Warm, atmospheric golden-hour sunlight filtering through the market overheads, creating soft highlights and a rich, inviting mood.\"},\"technical_specifications\": {\"style\": \"Cinematic portrait photography\",\"quality\": \"4k resolution, highly detailed textures\",\"focus\": \"Sharp focus on the subject, shallow depth of field with a softly blurred background\",\"composition\": \"Full-length shot showing the subject seated on a wooden bench\"}",
+    "title": "South Asian Woman in Vibrant Bazaar",
+    "description": "A structured JSON-style prompt for a cinematic portrait of a woman with a Persian cat in a traditional South Asian market setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782632582277_o2d7fn_HLyz6HGXoAAVdrL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26824,
     "content": "A {argument name=\"subject\" default=\"confident young woman with shoulder-length wavy brown hair\"} wearing a {argument name=\"clothing\" default=\"plain white oversized t-shirt and small gold hoop earrings\"}, standing in the middle of a busy urban street surrounded by tall skyscrapers, low-angle portrait, cinematic composition. {argument name=\"aesthetic style\" default=\"Vibrant cyberpunk aesthetic with neon magenta, lime green, and cyan graffiti-style hand-drawn scribbles\"} outlining her silhouette and clothing. Abstract holographic chrome floating objects, translucent geometric shapes, RGB glitch effect, chromatic aberration, dreamy haze, analog film grain, light leaks, vibrant color grading, surreal digital art mixed with realistic photography, editorial fashion campaign, ultra-detailed, sharp facial features, shallow depth of field, high contrast, 8K, premium magazine cover, futuristic streetwear vibe.",
     "title": "Cyberpunk Urban Fashion Portrait",
