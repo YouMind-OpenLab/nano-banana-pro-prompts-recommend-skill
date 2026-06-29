@@ -21,24 +21,53 @@
     "needReferenceImages": true
   },
   {
+    "id": 27032,
+    "content": "Use the uploaded reference image as the appearance reference for the subject. Create an ultra-photorealistic, high-end editorial portrait with natural facial proportions and realistic human features. Preserve the overall appearance from the reference while maintaining a natural photographic look. The subject is standing confidently in a {argument name=\"setting\" default=\"modern luxury city street\"} during golden hour, wearing a {argument name=\"outfit\" default=\"perfectly tailored black suit, white dress shirt, and an elegant wristwatch\"}. Captured on a professional full-frame camera with an {argument name=\"lens\" default=\"85mm portrait lens\"} at f/1.4, producing beautiful background bokeh and razor-sharp focus on the eyes. Realistic skin texture with visible pores, natural hair strands, lifelike eyes with authentic reflections, physically accurate lighting, cinematic HDR color grading, subtle volumetric sunlight, realistic shadows, premium fashion photography, magazine-cover composition, highly detailed fabric textures, natural expression, balanced exposure, incredibly realistic colors, RAW photography style, ultra-high detail, professional commercial photography, 8K quality, visually indistinguishable from a real photograph.",
+    "title": "Photorealistic Luxury Editorial Male Portrait",
+    "description": "A prompt for generating an ultra-photorealistic editorial portrait of a man in a black suit on a modern luxury street, using a reference image for appearance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27024,
+    "content": "Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.\nProfessional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling \"{argument name=\"text\" default=\"JANAKI\"}\". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name=\"color\" default=\"dark red\"} {argument name=\"apparel\" default=\"oversized sweatshirt\"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.",
+    "title": "Professional Studio Portrait with 3D Text",
+    "description": "A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27023,
+    "content": "{argument name=\"subject\" default=\"A young man with dark hair and a beard\"} sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a {argument name=\"clothing\" default=\"black v-neck t-shirt and white trousers\"}, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, {argument name=\"furniture\" default=\"vintage brown button-tufted leather Chesterfield sofa\"} that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.",
+    "title": "Man on Vintage Leather Sofa",
+    "description": "A high-quality lifestyle photograph of a man seated on a classic Chesterfield sofa in an industrial concrete setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27035,
+    "content": "A high-end luxury fashion editorial photoshoot of a {argument name=\"subject\" default=\"stylish model\"} standing in a relaxed, confident pose with hands casually in pockets or by their sides, looking directly at the camera with a calm, sophisticated expression. The outfit features {argument name=\"outfit\" default=\"modern minimalist tailoring in neutral tones, including a structured jacket layered over a premium knit or polo top, paired with relaxed wide-leg tailored trousers\"} and clean leather sneakers or elegant footwear. The styling embodies quiet luxury with impeccable fit, premium fabrics, and understated elegance. Photographed in a professional studio against a {argument name=\"backdrop\" default=\"seamless solid-color backdrop\"} with a matching floor. Soft diffused lighting creates natural skin tones, gentle shadows, and subtle depth. Full-body composition, centered framing with generous negative space, eye-level perspective, clean and balanced composition. Luxury campaign aesthetic inspired by premium fashion houses, contemporary editorial styling, ultra-realistic photography, medium-format camera, 85mm lens, f/4, shallow depth of field, matte color grading, realistic fabric textures, crisp details, cinematic lighting, premium commercial fashion campaign, magazine cover quality, 8K, highly detailed, natural proportions, no logos, no text, no watermark, timeless minimalist aesthetic.",
+    "title": "Luxury Fashion Editorial Studio Shoot",
+    "description": "A minimalist luxury fashion editorial prompt for a professional studio photoshoot, focusing on quiet luxury styling and clean composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721362882_n0u6x6_HL39Ul-bMAAh7rZ.jpg",
+      "https://cms-assets.youmind.com/media/1782721362895_5wkau6_HL39Ul3bMAAcEqB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26930,
     "content": "Ultra-realistic cinematic photography. {argument name=\"subject\" default=\"Two lovers\"} reach toward each other while a luminous heart formed from {argument name=\"light effect\" default=\"flowing aurora light\"} floats between their hands. Purple, cyan, and emerald colors softly illuminate their faces. {argument name=\"time of day\" default=\"Twilight sky\"}, distant city skyline blurred in the background, emotional eye contact, dreamy atmosphere, natural skin texture, volumetric lighting, 8K HDR, luxury fashion editorial style.",
     "title": "Cinematic Aurora Heart Lovers Photography",
     "description": "A cinematic photography prompt featuring two lovers with a glowing heart formed from aurora light, creating a dreamy and emotional atmosphere.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782632583472_isysuq_HL1V7b0bgAA8QZc.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 26927,
-    "content": "{argument name=\"art style\" default=\"Ultra-detailed monochrome graphite portrait illustration\"}, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with expressive loose construction lines, premium pencil-on-smooth-paper texture, soft charcoal shading, refined graphite gradients, delicate cross-hatching, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.",
-    "title": "Detailed Monochrome Graphite Portrait",
-    "description": "A sophisticated prompt for generating high-contrast monochrome graphite sketches that blend fine art aesthetic with hyper-realistic facial rendering.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782632582007_sdd1r9_HL0q3XFbcAIZzaV.jpg",
-      "https://cms-assets.youmind.com/media/1782632580881_zlokb6_HL0q3a_acAAwcIC.jpg",
-      "https://cms-assets.youmind.com/media/1782632582235_y279p5_HL0q3iwaQAA-2DY.jpg"
     ],
     "needReferenceImages": false
   },

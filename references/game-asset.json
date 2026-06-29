@@ -1,5 +1,47 @@
 [
   {
+    "id": 27026,
+    "content": "A highly detailed, cinematic 3D digital portrait of an {argument name=\"subject\" default=\"ethereal blonde princess\"}, featuring delicate doll-like features, large luminous blue eyes, and soft porcelain skin, in a medium close-up shot. She is adorned in an elaborate, textured {argument name=\"outfit\" default=\"bright yellow ballgown embellished with intricate white lace trim\"}, sheer tiered puffed sleeves, and detailed 3D floral appliqués on the bodice. Her voluminous wavy blonde hair is styled elegantly and intensely kissed by golden hour backlighting, creating a glowing rim light effect, accented by pastel roses and a faint blue butterfly ornament. The composition is vertical, set in a {argument name=\"background\" default=\"lush, magical garden\"} characterized by deep green foliage and abundant bright yellow background bokeh (shallow depth of field). Strong volumetric light bathes the scene, highlighting the detailed textures of the fabric and creating a warm, fantasy atmosphere. Masterpiece quality, ultra photorealistic rendering, 8K, inspired by high-end CGI animation and fairy tale aesthetics.",
+    "title": "Ethereal Fantasy Princess Digital Portrait",
+    "description": "A detailed 3D digital art prompt for a princess character featuring a yellow ballgown, magical garden background, and soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721358154_flmidz_HL7dUzrXYAAPegk.jpg",
+      "https://cms-assets.youmind.com/media/1782721358055_zwpr9c_HL7dUzsWkAAD-S2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27030,
+    "content": "Create an ultra-realistic 8K cinematic fantasy game character named Jo, a fearless female warrior and legendary role model. She stands confidently on top of a rocky battlefield during a dramatic sunset, wearing black and crimson battle armor with glowing blue energy lines. Her long silver hair flows in the wind, and her determined expression radiates courage and leadership. She holds a {argument name=\"weapon one\" default=\"massive enchanted sword\"} in one hand and a {argument name=\"weapon two\" default=\"futuristic energy spear\"} in the other. Behind her stands a disciplined army of elite warriors carrying banners, shields, swords, and glowing weapons, stretching across the battlefield. The sky is filled with storm clouds, smoke, sparks, and rays of sunlight breaking through. Epic cinematic lighting, volumetric fog, flying embers, highly detailed armor, realistic textures, Unreal Engine 5 quality, AAA game concept art, dynamic composition, ultra-sharp focus, dramatic atmosphere, powerful female commander, no text, no watermark, 16:9.\n\nCreate an ultra-realistic 8K cinematic AAA game action scene featuring the exact same female warrior \"Jo\" from the previous image. Maintain 100% character consistency: same face, same silver-white long flowing hair, same facial features, same body proportions, same black and crimson armor with glowing blue energy accents, same enchanted crimson greatsword in her right hand, same futuristic blue energy spear in her left hand, identical design, colors, accessories, and overall appearance. Jo is in the middle of an intense battlefield, fearlessly charging toward thousands of enemy warriors. She is performing a powerful attack while swinging her glowing crimson sword and simultaneously thrusting her blue energy spear. Enemy soldiers are being pushed back by the force of her attack. Massive explosions, magical shockwaves, flying sparks, shattered weapons, smoke, dust, burning siege machines, collapsing structures, and glowing energy trails fill the battlefield. Behind Jo, her loyal army advances forward under her leadership while enemy forces surround them from every direction. The sky is dark with storm clouds, lightning, fire, and flying embers, creating an epic war atmosphere. Use a dramatic low-angle cinematic camera, dynamic action pose, intense determined facial expression, realistic motion blur, volumetric lighting, god rays, ultra-detailed armor textures, realistic physics for hair and cape, Unreal Engine 5 quality, hyper-realistic, AAA game cinematic, epic fantasy war, maximum detail, no blood, no gore, no text, no watermark, 16:9 aspect ratio. The character must look exactly like the first image with no changes to her appearance.",
+    "title": "Fantasy Game Character Warrior Jo",
+    "description": "A detailed set of prompts for creating a female warrior character named Jo, including a static portrait on a battlefield and an action-packed combat scene with character consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg",
+      "https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27036,
+    "content": "A close-up, front-facing studio portrait of a {argument name=\"subject\" default=\"female android with long, straight blonde hair\"}, looking directly into the camera. Subtle cybernetic panel lines and metallic seams are intricately embedded into the skin of her face. A vibrant, continuous {argument name=\"visual effect\" default=\"horizontal red laser beam\"} slices across her eyes, creating a powerful, glowing lens flare effect. She is wearing a simple {argument name=\"clothing\" default=\"black turtleneck sweater\"}. The lighting is cinematic, featuring sharp red rim-lighting that catches the edges of her hair, set against a solid, contrasting muted blue studio background. High-detail skin texture, photorealistic, 8k resolution.",
+    "title": "Female Android Studio Portrait with Laser Eyes",
+    "description": "A sci-fi studio portrait of a female android featuring cybernetic paneling and a horizontal red laser beam effect across her eyes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27028,
+    "content": "Hyper-realistic 3D rendered digital art portrait in a 9:16 vertical format. Subject is a {argument name=\"subject\" default=\"platinum blonde/white hair pulled back\"}, wearing a {argument name=\"accessory\" default=\"sleek matte black wraparound futuristic visor with a glowing amber-orange LED neon strip\"} running along its inner bottom edge. The visor sits flush against the face with no gap.\n\n**Camera Angle & Composition**\n\nCamera angle is an extreme low-angle (worm's-eye view), with the viewer looking upward at the subject. The subject's face is tilted upward and slightly to the right in a 3/4 profile, gazing toward something above the frame. Lips are slightly parted, jaw relaxed, and the expression conveys deep immersion, awe, and transcendence. The neck is fully elongated and exposed. The subject wears a black turtleneck that disappears seamlessly into the background.\n\n**Lighting**\n\nExtreme low-key, high-contrast cinematic lighting with an absolute pure black background and zero ambient spill.\n\nThe {argument name=\"primary light\" default=\"primary light source is the glowing visor itself\"}, casting intense amber-orange underlighting across the chin, lips, cheeks, nose bridge, and neck from below.\n\nA secondary cool cyan-teal ambient light wraps around the top of the head, forehead, and upper cheek from above-left.\n\nThe lighting creates a dramatic two-tone color temperature clash between warm burnt orange/gold and cool electric cyan/teal. Subsurface scattering is visible on the nose tip and cheek edges where the orange light passes through the skin. Realistic light bloom and a soft orange corona radiate from the LED strip.\n\n**Color Palette**\n\nAbsolute black, electric cyan, burnt amber-orange, and warm gold.\n\nNo whites. No pastel colors. No environmental detail.\n\n**Style**\n\nDark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic aesthetic. High-end 3D render featuring displacement-mapped skin texture, subsurface scattering, hard shadow terminator lines, realistic light bloom, and an ascending aspirational composition. Film poster and AAA game cinematic quality with a brooding atmospheric mood and futuristic technology immersion theme. Ultra-high detail, dramatic, and minimal.",
+    "title": "Cyberpunk Futuristic Visor Portrait",
+    "description": "An immersive dark sci-fi 3D render prompt with dramatic two-tone neon lighting and high-contrast composition, inspired by Blade Runner 2049.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721359639_pbxt1j_HL3ii75bQAAABwv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26832,
     "content": "Depiction of a {argument name=\"ritual\" default=\"ritual\"} in {argument name=\"location\" default=\"necropolis ascension grounds\"} in an artistic {argument name=\"style\" default=\"gothicpunk\"} style.",
     "title": "Gothicpunk Ritual in Necropolis",

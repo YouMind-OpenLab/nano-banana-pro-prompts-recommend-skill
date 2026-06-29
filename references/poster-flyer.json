@@ -20,14 +20,37 @@
     "needReferenceImages": false
   },
   {
-    "id": 26927,
-    "content": "{argument name=\"art style\" default=\"Ultra-detailed monochrome graphite portrait illustration\"}, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with expressive loose construction lines, premium pencil-on-smooth-paper texture, soft charcoal shading, refined graphite gradients, delicate cross-hatching, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.",
-    "title": "Detailed Monochrome Graphite Portrait",
-    "description": "A sophisticated prompt for generating high-contrast monochrome graphite sketches that blend fine art aesthetic with hyper-realistic facial rendering.",
+    "id": 27031,
+    "content": "Hand-painted digital illustration with clearly visible handcrafted brush strokes, expressive painterly texture, confident manual brush application, {argument name=\"brush style\" default=\"thick and thin brush variations\"}, organic paint layering, textured edges, subtle dry-brush effect, premium concept art quality, semi-realistic rendering, crisp silhouette, simplified yet refined shapes, soft blended transitions without excessive smoothing, high-contrast values, {argument name=\"shadow colors\" default=\"deep charcoal black and dark brown shadows\"}, warm ivory skin tones, natural {argument name=\"accent colors\" default=\"amber and burnt orange accents\"} applied selectively on clothing, accessories, reflections, and scattered compositional elements, no glowing orange contour lighting, no neon rim light, no luminous edge effects, restrained color blocking, balanced warm palette dominated by burnt orange, amber, ochre, warm ivory, dark brown, charcoal black, and muted gray, elegant editorial illustration aesthetic, rich painterly depth, visible artistic brushwork, clean composition, sophisticated handcrafted digital painting.",
+    "title": "Hand-Painted Digital Art Illustration",
+    "description": "A sophisticated digital illustration prompt featuring visible handcrafted brush strokes and organic paint layering in a warm amber and charcoal palette.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782632582007_sdd1r9_HL0q3XFbcAIZzaV.jpg",
-      "https://cms-assets.youmind.com/media/1782632580881_zlokb6_HL0q3a_acAAwcIC.jpg",
-      "https://cms-assets.youmind.com/media/1782632582235_y279p5_HL0q3iwaQAA-2DY.jpg"
+      "https://cms-assets.youmind.com/media/1782721361236_2gkm6l_HL5-fQmasAEt3yL.jpg",
+      "https://cms-assets.youmind.com/media/1782721361251_yi0ckx_HL5-feYbYAA52Ib.jpg",
+      "https://cms-assets.youmind.com/media/1782721361271_51xgqn_HL5-fnwaEAAzchO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27024,
+    "content": "Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.\nProfessional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling \"{argument name=\"text\" default=\"JANAKI\"}\". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name=\"color\" default=\"dark red\"} {argument name=\"apparel\" default=\"oversized sweatshirt\"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.",
+    "title": "Professional Studio Portrait with 3D Text",
+    "description": "A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27027,
+    "content": "Wide {argument name=\"style\" default=\"chibi anime poster\"} composition, {argument name=\"character\" default=\"young boy character with spiky yellow hair standing confidently with sword and backpack\"}, {argument name=\"background\" default=\"bold yellow gradient background\"}, lightning bolt accent graphics scattered throughout, large brush-stroke name typography along top edge, clean negative space at bottom for additional text or logo, vibrant anime poster illustration style, vertical 4:5 --ar 4:5 --v 6",
+    "title": "Chibi Anime Poster Illustration",
+    "description": "A vibrant chibi-style anime poster featuring a young hero with a sword on a bold gradient background with lightning accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721358000_32cnqs_HL3fkEOacAAK1Pp.jpg",
+      "https://cms-assets.youmind.com/media/1782721358642_9lakgm_HL3fk8zbwAA4jAj.jpg",
+      "https://cms-assets.youmind.com/media/1782721358166_1i5a9z_HL3fltTaYAEJSUk.jpg",
+      "https://cms-assets.youmind.com/media/1782721359188_v7161r_HL3fme4bwAAiSTt.jpg"
     ],
     "needReferenceImages": false
   },

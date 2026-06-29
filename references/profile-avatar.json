@@ -10,6 +10,88 @@
     "needReferenceImages": false
   },
   {
+    "id": 27025,
+    "content": "Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect ratio. The {argument name=\"subject\" default=\"man\"} fills about 85-90% of the frame in a medium close-up, showing the head, neck, shoulders, upper chest, upper arms, and part of the forearms, with only a small amount of empty space above his head. A {argument name=\"physical description\" default=\"handsome athletic man\"} wearing a {argument name=\"clothing\" default=\"plain black fitted ribbed crew-neck short-sleeve sweater\"}. His arms are loosely crossed. His body is turned slightly (20°) while his head is turned slightly to the left and tilted upward, with his eyes looking off-camera toward the upper left, giving a calm, confident, thoughtful expression. Strong hard natural sunlight from the upper left illuminates the left side of his hair, forehead, eye, cheek, nose, beard, neck, shoulder, and front arm, while the right side of his face and ear fall into deep shadow, creating crisp, high-contrast facial definition. Clean plain gray sky background, no distractions. High-contrast monochrome with deep blacks, bright highlights, sharp skin texture, fine-art fashion photography, ultra-realistic, premium editorial quality.",
+    "title": "High-Contrast Monochrome Editorial Portrait",
+    "description": "A professional black-and-white portrait prompt featuring a male subject with high-contrast lighting, low-angle composition, and sharp skin textures for an editorial feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721357804_r5qg7a_HL6K9NmbgAEBQlM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27032,
+    "content": "Use the uploaded reference image as the appearance reference for the subject. Create an ultra-photorealistic, high-end editorial portrait with natural facial proportions and realistic human features. Preserve the overall appearance from the reference while maintaining a natural photographic look. The subject is standing confidently in a {argument name=\"setting\" default=\"modern luxury city street\"} during golden hour, wearing a {argument name=\"outfit\" default=\"perfectly tailored black suit, white dress shirt, and an elegant wristwatch\"}. Captured on a professional full-frame camera with an {argument name=\"lens\" default=\"85mm portrait lens\"} at f/1.4, producing beautiful background bokeh and razor-sharp focus on the eyes. Realistic skin texture with visible pores, natural hair strands, lifelike eyes with authentic reflections, physically accurate lighting, cinematic HDR color grading, subtle volumetric sunlight, realistic shadows, premium fashion photography, magazine-cover composition, highly detailed fabric textures, natural expression, balanced exposure, incredibly realistic colors, RAW photography style, ultra-high detail, professional commercial photography, 8K quality, visually indistinguishable from a real photograph.",
+    "title": "Photorealistic Luxury Editorial Male Portrait",
+    "description": "A prompt for generating an ultra-photorealistic editorial portrait of a man in a black suit on a modern luxury street, using a reference image for appearance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27021,
+    "content": "A vibrant photo collage features a young woman with striking, long, straight {argument name=\"hair color\" default=\"red\"} hair and soft bangs, showcased in {argument name=\"number of portraits\" default=\"eight\"} distinct, emotive portraits. Each panel in the referenced file highlights a different setting and mood, ranging from cozy indoor spaces like bedrooms and kitchens to bright, naturally lit environments. The subject displays an array of charming expressions—including joyful laughter, playful winking, thoughtful pondering with a finger to her chin, a surprised \"o\" mouth, and a silly tongue-out pose—while wearing a colorful variety of sweaters and casual tops. The overall aesthetic is warm, inviting, and youthful, emphasizing a playful and relatable character study through diverse daily interactions and candid-style photography.",
+    "title": "Red Hair Woman Portrait Collage",
+    "description": "A vibrant and emotive photo collage featuring a young woman with long red hair across various moods and settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721354396_fjkka5_HL5FNc6WYAA0Gbf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27029,
+    "content": "A stunning, high-fashioned cinematic portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} with a flawless complexion and expressive brown eyes. Her long, rich brown hair is styled in a {argument name=\"hairstyle\" default=\"voluminous, perfectly detailed high ponytail\"} with soft, elegant face-framing strands catching the golden sunlight. She has soft, natural makeup with long lashes and a subtle, thoughtful expression, looking off into the distant horizon away from the camera. Her hands are delicately held together in front of her, showcasing intricately detailed shimmering silver glitter nail art and wearing thin, minimal silver rings on her fingers. She is wearing a modern, chic {argument name=\"clothing\" default=\"off-white asymmetric one-shoulder top\"} and a thin silver chain necklace with a small heart pendant. The background features a breathtaking, highly detailed coastal landscape, standing on a rocky cliff overlooking a vast deep-blue ocean with realistic crashing white waves. The scene is illuminated by soft, warm golden hour sunlight, creating beautiful highlights on her hair and a cinematic depth of field with a softly blurred background.",
+    "title": "Cinematic Golden Hour Portrait of a Woman",
+    "description": "A high-fashion cinematic portrait of a young woman with a high ponytail, captured on a rocky cliff against a crashing ocean backdrop during the golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721359921_3tg2sr_HL4s2h2bMAAGqib.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27036,
+    "content": "A close-up, front-facing studio portrait of a {argument name=\"subject\" default=\"female android with long, straight blonde hair\"}, looking directly into the camera. Subtle cybernetic panel lines and metallic seams are intricately embedded into the skin of her face. A vibrant, continuous {argument name=\"visual effect\" default=\"horizontal red laser beam\"} slices across her eyes, creating a powerful, glowing lens flare effect. She is wearing a simple {argument name=\"clothing\" default=\"black turtleneck sweater\"}. The lighting is cinematic, featuring sharp red rim-lighting that catches the edges of her hair, set against a solid, contrasting muted blue studio background. High-detail skin texture, photorealistic, 8k resolution.",
+    "title": "Female Android Studio Portrait with Laser Eyes",
+    "description": "A sci-fi studio portrait of a female android featuring cybernetic paneling and a horizontal red laser beam effect across her eyes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27022,
+    "content": "Hyper-realistic photography of a {argument name=\"subject\" default=\"young woman\"} standing on a city street, flashing a peace sign and holding a plastic coffee cup. She wears a {argument name=\"outfit\" default=\"maroon crop top, baggy loose pants, and sneakers\"}. A knit cardigan slides off her shoulders. {argument name=\"accessories\" default=\"Black sunglasses\"} on her face. Urban atmosphere with cinematic natural lighting and detailed fabric textures., subtle enigmatic smile, soft cinematic lighting, full-body fashion shot, sharp focus, hyper-detailed textures, masterpiece quality. professional portraiture.",
+    "title": "Hyper-Realistic Urban Fashion Portrait",
+    "description": "A high-quality photography prompt for a woman in casual urban fashion, focusing on detailed fabric textures, natural lighting, and a cinematic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721355640_9za4ti_HL3yla-aoAANARv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27034,
+    "content": "A hyper-realistic, dramatic studio portrait of a {argument name=\"subject\" default=\"woman\"} with a clean, centered composition. She has a neutral, powerful expression, featuring natural skin texture, freckles, and light-colored eyes. Her hair is slicked back with a {argument name=\"accessory\" default=\"minimalist, geometric wire-frame headband\"} made of thin metallic rods. She is wearing a {argument name=\"clothing\" default=\"high-necked, form-fitting black turtleneck garment\"} that completely covers her neck and shoulders. The background is a {argument name=\"background color\" default=\"soft, deep crimson\"} with subtle, out-of-focus circular bokeh lights, creating a moody, sophisticated atmosphere. Soft, professional lighting highlights her facial features and the sleek texture of her clothing.",
+    "title": "Hyper-Realistic Studio Portrait with Geometric Headband",
+    "description": "A moody and sophisticated studio portrait of a woman with natural skin texture and a minimalist metallic headband against a deep crimson background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721362825_pnt83v_HL3gIzTakAEZanc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26927,
+    "content": "Ultra-detailed monochrome graphite portrait illustration, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with {argument name=\"artistic style\" default=\"expressive loose construction lines\"}, premium pencil-on-smooth-paper texture, {argument name=\"shading\" default=\"soft charcoal shading, refined graphite gradients, delicate cross-hatching\"}, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.",
+    "title": "Monochrome Graphite Fine-Art Sketch",
+    "description": "A hyper-realistic graphite portrait illustration combining fine-art sketch aesthetics with expressive loose construction lines and pencil textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782721364215_16uo4f_HL0q3XFbcAIZzaV.jpg",
+      "https://cms-assets.youmind.com/media/1782721364356_796lat_HL0q3a_acAAwcIC.jpg",
+      "https://cms-assets.youmind.com/media/1782721364267_7kmgb8_HL0q3iwaQAA-2DY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26825,
     "content": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"man leaning forward with his chin resting on his crossed hands\"} placed atop a professional {argument name=\"musical instrument\" default=\"electronic music keyboard\"}. His hands wear multiple silver rings. The keyboard keys are clearly visible in the foreground with sharp texture.\nShot at eye level with a 50mm lens, shallow depth of field, sharp focus on the face.\nLighting is dramatic and cinematic, not soft: strong directional backlight behind the subject, creating a glowing halo through dense volumetric fog. High contrast lighting with deep shadows and bright highlights on the face and hands. Subtle front fill light only to preserve facial details.\nThe background is a {argument name=\"background color\" default=\"rich, intense orange and golden gradient\"} with high saturation and luminous glow, resembling heated air or fire-like atmosphere. The fog catches the backlight, creating a vivid, radiant diffusion.\nColor grading is cinematic with high contrast, deep blacks, and strong color density. No washed-out tones.",
     "title": "Cinematic Music Producer Portrait",
