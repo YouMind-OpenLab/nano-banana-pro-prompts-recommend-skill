@@ -1,5 +1,15 @@
 [
   {
+    "id": 27122,
+    "content": "do this for {argument name=\"event\" default=\"Argentina World Cup 2026\"}, void main() { string player = \"{argument name=\"player\" default=\"[PLAYER]\"}\"; string team = \"{argument name=\"team\" default=\"[TEAM]\"}\"; // --- The series (infer the arc to dramatize) --- Arc a = infer_career_drama(player); // the prodigy years / the exile / the comeback - pick the prestige angle tone(restrained, moody, character_first); // NOT loud - quiet and heavy // --- Key art composition --- portrait(infer_player_persona(player), contemplative, half_shadow); environment(symbolic_setting(a), atmospheric, shallow_focus); // empty stadium / tunnel / rain on glass grade(infer_team_colors(team), desaturated_prestige, single_accent); // --- Streaming furniture (flat overlay) --- title(invent_series_title(player), elegant_serif_or_thin_sans, centered); tagline(invent_logline(player), small, below_title); platform_mark(\"LIMITED SERIES\", \"NOW STREAMING\", micro_caps, corner); laurels(invent_critic_pullquotes(), thin); render(cinematic_still, film_grain: fine, premium_negative_space); }",
+    "title": "Cinematic Sports Documentary Key Art",
+    "description": "A pseudo-code structured prompt for generating moody, prestige-style key art for a hypothetical sports documentary series.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782805347982_5yi9cb_HL0CqIlWsAAMFzm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22005,
     "content": "Hyper-realistic photography of massive volumetric clouds forming the shape of a majestic {argument name=\"animal\" default=\"elephant\"}, highly detailed and anatomically accurate cloud structure with enormous tusks and a raised trunk, soft yet dense cumulus clouds with realistic depth and texture, dramatic golden-hour lighting, sunlight rays piercing through the clouds, subtle shadows and highlights enhancing form.\nForeground: a vast {argument name=\"landscape\" default=\"African savanna meadow\"} with realistic dry grass, atmospheric perspective, and cinematic depth of field. Multiple {argument name=\"wildlife\" default=\"zebras\"} grazing naturally across the field. Mid-air: flock of birds circling around the giant elephant cloud, adding scale and motion.\nEnvironment: cinematic sky with warm orange and blue gradient tones, slight haze, natural color grading, ultra-realistic lighting, global illumination, volumetric fog, physically accurate shadows.\nStyle: DSLR photography, 85mm lens, f/2.8 aperture, shallow depth of field, HDR, 8K resolution, razor-sharp focus, intricate details, photorealism, no CGI look.\nMood: majestic, calm, surreal yet believable, wildlife documentary realism.",
     "title": "Majestic Elephant Cloud Photography",

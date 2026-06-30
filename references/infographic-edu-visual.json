@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 27131,
+    "content": "Create a crisp, clean infographic storyboard poster for {argument name=\"subject\" default=\"THE FIREFIGHTER\"}. Wide 16:9 layout, white background, black borders, bold black typography, {argument name=\"rendering style\" default=\"premium Pixar 3D stylized rendering\"}, intense dramatic colors — fiery deep oranges, emergency red",
+    "title": "Firefighter Storyboard Infographic",
+    "description": "A detailed prompt for generating a high-quality 3D infographic storyboard for a firefighter character in a stylized Pixar-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782805352550_gwpv55_HL9UHBJbAAAj7yr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26398,
     "content": "A ultra-detailed, hyper-realistic 3D rendering of {argument name=\"subject\" default=\"human waist\"}, presented against a {argument name=\"background\" default=\"smooth, clean white-to-light-grey gradient background\"}. The style must mimic that of an advanced, glowing medical scan (like an fMRI combined with a CT). The entire structure is composed of luminous, semi-transparent green tissue (fascia, muscles, nerves), with skeletal elements and major neural pathways rendered in a {argument name=\"glow color\" default=\"brilliant, glowing electric green light\"}. The texture is that of a complex, interwoven network of lit fibers and nodes. The aesthetic is clean, technological, and medicinal, with the green structures appearing to emit light. The composition must be high-focus and minimalist, with a single, clear subject and no text.",
     "title": "3D Medical Glow Scan Rendering",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 27127,
+    "content": "A {argument name=\"subject\" default=\"vampire knight\"}, {argument name=\"location\" default=\"Castle Dracula\"} defender burning up from sunlight. Heavy cloak can't block out the sun completely!",
+    "title": "Vampire Knight Sunlight Exposure",
+    "description": "A dramatic prompt depicting a vampire knight burning in the sunlight at Castle Dracula.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782805350829_3gnpi3_HL_pdgJacAEnZ8F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27026,
     "content": "A highly detailed, cinematic 3D digital portrait of an {argument name=\"subject\" default=\"ethereal blonde princess\"}, featuring delicate doll-like features, large luminous blue eyes, and soft porcelain skin, in a medium close-up shot. She is adorned in an elaborate, textured {argument name=\"outfit\" default=\"bright yellow ballgown embellished with intricate white lace trim\"}, sheer tiered puffed sleeves, and detailed 3D floral appliqués on the bodice. Her voluminous wavy blonde hair is styled elegantly and intensely kissed by golden hour backlighting, creating a glowing rim light effect, accented by pastel roses and a faint blue butterfly ornament. The composition is vertical, set in a {argument name=\"background\" default=\"lush, magical garden\"} characterized by deep green foliage and abundant bright yellow background bokeh (shallow depth of field). Strong volumetric light bathes the scene, highlighting the detailed textures of the fabric and creating a warm, fantasy atmosphere. Masterpiece quality, ultra photorealistic rendering, 8K, inspired by high-end CGI animation and fairy tale aesthetics.",
     "title": "Ethereal Fantasy Princess Digital Portrait",

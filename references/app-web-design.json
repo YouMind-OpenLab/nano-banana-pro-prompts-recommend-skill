@@ -1,5 +1,17 @@
 [
   {
+    "id": 27126,
+    "content": "Make a same object 100%. {argument name=\"style description\" default=\"Intricate multi-layered paper relief art with a luxurious handcrafted paper sculpture aesthetic, featuring strong dimensional 3D depth\"}. Built from dozens of individually cut paper layers stacked at varying heights to create pronounced shadows, realistic thickness, and sculptural volume. Smooth flowing contour lines divide every section into organic paper segments with clean precision. Surfaces display subtle handmade paper fibers, fine embossed grain, delicate cracked parchment textures, soft matte finish, and lightly pressed paper details. Raised elements cast natural ambient shadows, emphasizing the layered construction and realistic paper thickness. Decorative circular motifs, flowing organic curves, and elegant botanical-inspired shapes are integrated seamlessly throughout the composition. Rich color palette dominated by {argument name=\"color palette\" default=\"warm ivory, cream, soft beige, sand, muted gold, deep forest green, olive green, charcoal outlines, and vivid crimson red accents\"}. Lighting is soft and directional from above, enhancing every paper edge, bevel, elevation, and shadow to maximize the sculptural 3D effect. Highly refined handcrafted papercut artwork with premium gallery-quality craftsmanship, elegant composition, tactile layered textures, cinematic depth, and ultra-detailed dimensional realism. R {argument name=\"aspect ratio\" default=\"9:16\"}.",
+    "title": "Multi-Layered Paper Relief Sculpture",
+    "description": "A detailed prompt for generating intricate, three-dimensional paper relief artwork with luxurious textures and organic botanical shapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782805349570_udhspx_HL8_0GAasAAfFiR.jpg",
+      "https://cms-assets.youmind.com/media/1782805349514_jwwz16_HL8_0bGa0AAHU34.jpg",
+      "https://cms-assets.youmind.com/media/1782805349417_m7urnc_HL8_0pCboAA13ag.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25748,
     "content": "masterpiece, realistic photo, landscape, {argument name=\"subject\" default=\"Aerial bamboo grove\"}, swirling canopy, {argument name=\"feature\" default=\"stone lanterns\"}, dappled emerald, summer breeze",
     "title": "Realistic Aerial Bamboo Grove Landscape",
