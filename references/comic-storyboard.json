@@ -1,5 +1,15 @@
 [
   {
+    "id": 27235,
+    "content": "a minimal flat animated scene of {argument name=\"subject\" default=\"something neutral but interesting\"}, {argument name=\"character count\" default=\"a single character\"}, pick an unusual animation style and palette. {argument name=\"art style\" default=\"Javanese style\"}.",
+    "title": "Minimal Flat Javanese Animation",
+    "description": "A prompt for generating stylized, minimal flat animated scenes with specific cultural aesthetics using Nano Banana 2 Lite.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782892526285_6jxtjt_HMGXZNub0AA7OMa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27127,
     "content": "A {argument name=\"subject\" default=\"vampire knight\"}, {argument name=\"location\" default=\"Castle Dracula\"} defender burning up from sunlight. Heavy cloak can't block out the sun completely!",
     "title": "Vampire Knight Sunlight Exposure",

@@ -1,5 +1,25 @@
 [
   {
+    "id": 27235,
+    "content": "a minimal flat animated scene of {argument name=\"subject\" default=\"something neutral but interesting\"}, {argument name=\"character count\" default=\"a single character\"}, pick an unusual animation style and palette. {argument name=\"art style\" default=\"Javanese style\"}.",
+    "title": "Minimal Flat Javanese Animation",
+    "description": "A prompt for generating stylized, minimal flat animated scenes with specific cultural aesthetics using Nano Banana 2 Lite.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782892526285_6jxtjt_HMGXZNub0AA7OMa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27233,
+    "content": "Vercel {argument name=\"subject\" default=\"container ship\"} 8-bit",
+    "title": "8-Bit Tech Container Ship",
+    "description": "A prompt for generating stylized 8-bit pixel art of a shipping container, inspired by Vercel's branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782892525119_7ma4ao_HMFAA5_bIAAwopT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27126,
     "content": "Make a same object 100%. {argument name=\"style description\" default=\"Intricate multi-layered paper relief art with a luxurious handcrafted paper sculpture aesthetic, featuring strong dimensional 3D depth\"}. Built from dozens of individually cut paper layers stacked at varying heights to create pronounced shadows, realistic thickness, and sculptural volume. Smooth flowing contour lines divide every section into organic paper segments with clean precision. Surfaces display subtle handmade paper fibers, fine embossed grain, delicate cracked parchment textures, soft matte finish, and lightly pressed paper details. Raised elements cast natural ambient shadows, emphasizing the layered construction and realistic paper thickness. Decorative circular motifs, flowing organic curves, and elegant botanical-inspired shapes are integrated seamlessly throughout the composition. Rich color palette dominated by {argument name=\"color palette\" default=\"warm ivory, cream, soft beige, sand, muted gold, deep forest green, olive green, charcoal outlines, and vivid crimson red accents\"}. Lighting is soft and directional from above, enhancing every paper edge, bevel, elevation, and shadow to maximize the sculptural 3D effect. Highly refined handcrafted papercut artwork with premium gallery-quality craftsmanship, elegant composition, tactile layered textures, cinematic depth, and ultra-detailed dimensional realism. R {argument name=\"aspect ratio\" default=\"9:16\"}.",
     "title": "Multi-Layered Paper Relief Sculpture",
