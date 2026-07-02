@@ -1,5 +1,25 @@
 [
   {
+    "id": 27300,
+    "content": "A clean 4-panel grid art collage featuring four distinct, {argument name=\"subject\" default=\"stylish chibi girls\"} in a {argument name=\"aesthetic\" default=\"Korean webtoon aesthetic\"}. The illustration uses a minimalist flat vector design with bold, crisp black outlines and a pop-art comic vibe. Each panel features a unique solid color backdrop, including vibrant teal, bright sun yellow, and deep royal blue. The characters have large glossy anime-style dark eyes, softly blushed pink cheeks, and trendy hairstyles such as neat side-braids and elegant low buns. They wear fashionable {argument name=\"clothing\" default=\"high-contrast striped turtlenecks and sleek black sweaters\"}, accessorized with oversized colorful hoop earrings. Perfect symmetry, high resolution, graphic art style. --ar 3:4",
+    "title": "Korean Webtoon Chibi Girl Collage",
+    "description": "A vibrant four-panel grid featuring stylish chibi girls in a Korean webtoon aesthetic with pop-art elements and high-contrast colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977580590_oxo9mi_HMJEguTb0AA99uW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27305,
+    "content": "An immense futuristic megacity built inside a colossal {argument name=\"structure type\" default=\"circular ring megastructure\"} embedded in a {argument name=\"landscape\" default=\"rocky alien landscape\"}. The ring dominates the skyline, thousands of meters tall, covered in intricate industrial panels, docking bays, glowing maintenance lights, and weathered metallic textures. Massive capital spacecraft, carriers, and smaller shuttles drift through storm-filled skies around the structure.\n\nIn the foreground, a {argument name=\"foreground subject\" default=\"lone astronaut\"} in a detailed hard-surface EVA suit stands on a rain-soaked industrial platform overlooking the city, creating a strong sense of scale. The platform features reflective wet metal, cables, antennas, pipes, illuminated landing pads, and cinematic puddles.\n\nThe city below is an incredibly dense cyber-industrial metropolis with towering spires, endless buildings, atmospheric haze, smoke plumes, volumetric fog, and millions of tiny lights stretching into the distance.\n\nDramatic overcast sky with towering storm clouds breaking apart to reveal shafts of sunlight piercing through, creating powerful volumetric god rays that illuminate the gigantic ring and city. Cold blue-gray color palette with subtle orange industrial lighting.\n\nHyper-realistic hard-surface science fiction architecture inspired by advanced space civilizations. Massive sense of scale, epic cinematic composition, ultra-detailed greebles, physically based materials, weathering, atmospheric perspective, realistic reflections, depth, high dynamic range lighting.\n\nCamera: wide-angle 24mm lens, low elevated viewpoint behind the astronaut, centered composition with the ring framing the city, deep depth of field.\n\nRendering style: photorealistic cinematic concept art, Unreal Engine 5 quality, Octane Render, ray-traced global illumination, volumetric lighting, HDR, physically accurate materials, 16K detail, razor-sharp focus, extreme environmental storytelling, masterpiece, award-winning sci-fi artwork.\n\nNegative Prompt:\n\n> cartoon, anime, low detail, low poly, blurry, soft focus, oversaturated, flat lighting, simple geometry, empty scene, low resolution, noisy, duplicated ships, distorted architecture, warped perspective, text, logo, watermark, people in foreground besides astronaut.",
+    "title": "Futuristic Ring Megacity Concept Art",
+    "description": "An epic science fiction prompt for a massive industrial megacity built within a giant ring structure in an alien landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977583719_be4qui_HMJC7rUXEAEEhqk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27235,
     "content": "a minimal flat animated scene of {argument name=\"subject\" default=\"something neutral but interesting\"}, {argument name=\"character count\" default=\"a single character\"}, pick an unusual animation style and palette. {argument name=\"art style\" default=\"Javanese style\"}.",
     "title": "Minimal Flat Javanese Animation",

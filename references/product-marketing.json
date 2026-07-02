@@ -21,6 +21,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 27302,
+    "content": "A highly detailed realistic portrait photograph of a young woman with {argument name=\"facial features\" default=\"fair skin and subtle natural freckles\"}, featuring {argument name=\"hair style\" default=\"long straight brown hair styled in a sleek high ponytail with a center part, wispy strands framing her face\"}. She has expressive brown eyes with defined eyebrows, wearing bold red lipstick on full lips, and a neutral contemplative expression while gazing directly at the viewer. She is dressed in a {argument name=\"outfit\" default=\"fitted white ribbed sleeveless tank top and black pants\"}, seated in a relaxed pose with one leg bent, leaning against a plain light-colored minimalist studio wall. Soft dramatic lighting from the side creates gentle shadows and highlights on her face and clothing, with a clean modern indoor setting, high resolution, sharp focus, cinematic composition, and professional photography style.",
+    "title": "Minimalist Realistic Studio Portrait",
+    "description": "A detailed prompt for creating a realistic studio portrait of a woman with natural features, dramatic lighting, and a modern minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977581812_6zxcnk_HMIn-hxaYAEKyG9.jpg",
+      "https://cms-assets.youmind.com/media/1782977582030_174g05_HMIn_c6awAAPCXI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27032,
     "content": "Use the uploaded reference image as the appearance reference for the subject. Create an ultra-photorealistic, high-end editorial portrait with natural facial proportions and realistic human features. Preserve the overall appearance from the reference while maintaining a natural photographic look. The subject is standing confidently in a {argument name=\"setting\" default=\"modern luxury city street\"} during golden hour, wearing a {argument name=\"outfit\" default=\"perfectly tailored black suit, white dress shirt, and an elegant wristwatch\"}. Captured on a professional full-frame camera with an {argument name=\"lens\" default=\"85mm portrait lens\"} at f/1.4, producing beautiful background bokeh and razor-sharp focus on the eyes. Realistic skin texture with visible pores, natural hair strands, lifelike eyes with authentic reflections, physically accurate lighting, cinematic HDR color grading, subtle volumetric sunlight, realistic shadows, premium fashion photography, magazine-cover composition, highly detailed fabric textures, natural expression, balanced exposure, incredibly realistic colors, RAW photography style, ultra-high detail, professional commercial photography, 8K quality, visually indistinguishable from a real photograph.",
     "title": "Photorealistic Luxury Editorial Male Portrait",

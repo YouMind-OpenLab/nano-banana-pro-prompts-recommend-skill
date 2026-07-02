@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 27306,
+    "content": "A black and white line drawing of a {argument name=\"subject\" default=\"squirrel\"} is depicted in profile, facing left. The {argument name=\"subject\" default=\"squirrel\"} is decorated with various patterns and designs, resembling a {argument name=\"art style\" default=\"zentangle or adult coloring page\"}. Its body is filled with floral motifs, scales, swirls, and geometric shapes. Its tail is large and curled, also adorned with patterns. The background is white, emphasizing the detailed linework of the {argument name=\"subject\" default=\"squirrel\"}.",
+    "title": "Zentangle Squirrel Line Drawing",
+    "description": "An intricate prompt for a black and white zentangle-style squirrel drawing, perfect for adult coloring pages.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977584118_vyv407_HMLENxJXkAAxf_1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26484,
     "content": "image of a {argument name=\"subject\" default=\"bowl of algae-flavored candies\"} at {argument name=\"location\" default=\"Grandma's house\"}",
     "title": "Algae Candies Still Life",

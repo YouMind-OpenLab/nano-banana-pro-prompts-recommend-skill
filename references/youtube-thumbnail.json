@@ -1,5 +1,15 @@
 [
   {
+    "id": 27307,
+    "content": "A surreal {argument name=\"subject\" default=\"giant woman\"} sitting gracefully in the middle of {argument name=\"location\" default=\"Venice's Piazza San Marco\"}, wearing an {argument name=\"outfit\" default=\"elegant black outfit and sunglasses\"}, smiling softly while tourists gather around taking photos with their phones. Cinematic lighting, realistic architecture, dramatic scale contrast, ultra-detailed, photorealistic, travel photography, vibrant sky, natural shadows, high realism, 8K.",
+    "title": "Surreal Giant Woman in Venice",
+    "description": "A stunning, high-realism prompt for generating a surreal scene of a giant woman gracefully sitting in Venice's Piazza San Marco among tourists, featuring cinematic lighting and 8K details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977585085_u39h36_HMJuxSOXcAAc3Gw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27122,
     "content": "do this for {argument name=\"event\" default=\"Argentina World Cup 2026\"}, void main() { string player = \"{argument name=\"player\" default=\"[PLAYER]\"}\"; string team = \"{argument name=\"team\" default=\"[TEAM]\"}\"; // --- The series (infer the arc to dramatize) --- Arc a = infer_career_drama(player); // the prodigy years / the exile / the comeback - pick the prestige angle tone(restrained, moody, character_first); // NOT loud - quiet and heavy // --- Key art composition --- portrait(infer_player_persona(player), contemplative, half_shadow); environment(symbolic_setting(a), atmospheric, shallow_focus); // empty stadium / tunnel / rain on glass grade(infer_team_colors(team), desaturated_prestige, single_accent); // --- Streaming furniture (flat overlay) --- title(invent_series_title(player), elegant_serif_or_thin_sans, centered); tagline(invent_logline(player), small, below_title); platform_mark(\"LIMITED SERIES\", \"NOW STREAMING\", micro_caps, corner); laurels(invent_critic_pullquotes(), thin); render(cinematic_still, film_grain: fine, premium_negative_space); }",
     "title": "Cinematic Sports Documentary Key Art",

@@ -1,5 +1,26 @@
 [
   {
+    "id": 27303,
+    "content": "Character sheet, multiple angles of a sci-fi tactical soldier in full body {argument name=\"armor color\" default=\"matte-black\"} armor. He wears a faceless helmet with a thin, dim {argument name=\"visor color\" default=\"white\"} horizontal glowing visor line. Gritty, brutalist design, heavy Kevlar and carbon fiber textures. Clean studio lighting, white background, ultra realist, front view, side view. --ar 16:9",
+    "title": "Sci-Fi Tactical Soldier Character Sheet",
+    "description": "A character sheet prompt for a sci-fi tactical soldier featuring multiple angles, matte-black armor, and a glowing visor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977581873_lsp4b6_HMJMlz6XMAAhDY1.jpg",
+      "https://cms-assets.youmind.com/media/1782977582295_kgtxje_HMJMyGhW8AAmK0L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27305,
+    "content": "An immense futuristic megacity built inside a colossal {argument name=\"structure type\" default=\"circular ring megastructure\"} embedded in a {argument name=\"landscape\" default=\"rocky alien landscape\"}. The ring dominates the skyline, thousands of meters tall, covered in intricate industrial panels, docking bays, glowing maintenance lights, and weathered metallic textures. Massive capital spacecraft, carriers, and smaller shuttles drift through storm-filled skies around the structure.\n\nIn the foreground, a {argument name=\"foreground subject\" default=\"lone astronaut\"} in a detailed hard-surface EVA suit stands on a rain-soaked industrial platform overlooking the city, creating a strong sense of scale. The platform features reflective wet metal, cables, antennas, pipes, illuminated landing pads, and cinematic puddles.\n\nThe city below is an incredibly dense cyber-industrial metropolis with towering spires, endless buildings, atmospheric haze, smoke plumes, volumetric fog, and millions of tiny lights stretching into the distance.\n\nDramatic overcast sky with towering storm clouds breaking apart to reveal shafts of sunlight piercing through, creating powerful volumetric god rays that illuminate the gigantic ring and city. Cold blue-gray color palette with subtle orange industrial lighting.\n\nHyper-realistic hard-surface science fiction architecture inspired by advanced space civilizations. Massive sense of scale, epic cinematic composition, ultra-detailed greebles, physically based materials, weathering, atmospheric perspective, realistic reflections, depth, high dynamic range lighting.\n\nCamera: wide-angle 24mm lens, low elevated viewpoint behind the astronaut, centered composition with the ring framing the city, deep depth of field.\n\nRendering style: photorealistic cinematic concept art, Unreal Engine 5 quality, Octane Render, ray-traced global illumination, volumetric lighting, HDR, physically accurate materials, 16K detail, razor-sharp focus, extreme environmental storytelling, masterpiece, award-winning sci-fi artwork.\n\nNegative Prompt:\n\n> cartoon, anime, low detail, low poly, blurry, soft focus, oversaturated, flat lighting, simple geometry, empty scene, low resolution, noisy, duplicated ships, distorted architecture, warped perspective, text, logo, watermark, people in foreground besides astronaut.",
+    "title": "Futuristic Ring Megacity Concept Art",
+    "description": "An epic science fiction prompt for a massive industrial megacity built within a giant ring structure in an alien landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782977583719_be4qui_HMJC7rUXEAEEhqk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27127,
     "content": "A {argument name=\"subject\" default=\"vampire knight\"}, {argument name=\"location\" default=\"Castle Dracula\"} defender burning up from sunlight. Heavy cloak can't block out the sun completely!",
     "title": "Vampire Knight Sunlight Exposure",
