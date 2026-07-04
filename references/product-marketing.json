@@ -21,6 +21,59 @@
     "needReferenceImages": true
   },
   {
+    "id": 27527,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"stylish man\"} standing on a {argument name=\"setting\" default=\"busy subway platform\"}, wearing a {argument name=\"outfit\" default=\"dark tailored suit and black turtleneck with round glasses\"}, serious confident expression, commuters rushing past creating motion blur around him, subway train beside the platform with metallic reflections, urban underground atmosphere, dramatic fluorescent subway lighting, shallow depth of field, subject sharply in focus while the crowd is blurred, modern thriller movie scene aesthetic, ultra-realistic photography, 85mm lens, high detail, 8K",
+    "title": "Cinematic Subway Platform Portrait",
+    "description": "Generates a dramatic, high-contrast portrait of a man in a suit on a busy subway station with cinematic motion blur and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149740837_gch2xb_HMUdSICXoAEWmGV.jpg",
+      "https://cms-assets.youmind.com/media/1783149740865_karkcc_HMUdSGXWEAA0Tyw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27532,
+    "content": "Transform this rough hand-drawn interior sketch into a realistic {argument name=\"interior style\" default=\"Scandinavian luxury interior\"}. Preserve the layout exactly while replacing the drawing with photorealistic architecture, {argument name=\"flooring type\" default=\"warm oak flooring\"}, premium furniture, soft daylight, elegant textures and magazine-quality interior photography.",
+    "title": "Sketch to Realistic Interior Transformation",
+    "description": "A prompt to transform hand-drawn room sketches into photorealistic Scandinavian luxury interiors with high-end textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149743581_ipb620_HMUUZ5-WIAAOV9w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27523,
+    "content": "{argument name=\"subject\" default=\"Ultra-realistic portrait of a beautiful young woman\"} sitting in a {argument name=\"setting\" default=\"cozy modern indoor café corner filled with lush tropical indoor plants\"}, dark olive matte walls, warm ambient lighting, and soft glowing wall sconces creating a calm, intimate atmosphere. She wears a {argument name=\"outfit\" default=\"fitted white ribbed square-neck camisole\"} with delicate straps, layered with an oversized off-white zip-up hoodie casually draped off one shoulder for a relaxed effortless look. A delicate silver butterfly pendant necklace rests elegantly on her collarbone. Her long silky jet-black hair is styled into two loose braided pigtails with a soft center part, face-framing wispy strands, subtle volume at the crown, and naturally flowing ends for a youthful, feminine aesthetic. She is seated naturally with her body slightly angled away from the camera, one arm gently hugging the oversized hoodie across her chest while the other shoulder is subtly exposed. Her head is slightly tilted, eyes looking softly off-camera with a gentle dreamy smile, creating a candid, warm, and approachable expression. soft glam with a doll like beauty aesthetic flawless dewy base, pink blush concentrated on the cheeks and nose bridge, subtle contouring, large contact-lens effect eyes, wispy dramatic lashes, well defined brows, and glossy peach pink gradient lips with a hydrated finish. harsh direct flash photography in daylight, slightly overexposed highlights, rich saturated colors, cinematic composition, dreamy vibe, add small aesthetic signature watermark sabine , shallow depth of field, 35mm lens look, high detail, realistic lighting, candid fashion editorial style ar 9:16 -v.6.1 do not alter face.",
+    "title": "Ultra-Realistic Café Portrait of a Young Woman",
+    "description": "A highly detailed prompt for a realistic portrait of a young woman in a tropical-themed indoor café, focusing on lighting, fashion, and camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149737993_bm4nsv_HMThx8CaQAAYts5.jpg",
+      "https://cms-assets.youmind.com/media/1783149737952_x8i0zp_HMThx-HaEAAe344.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27524,
+    "content": "Create A beautiful woman with {argument name=\"hair style\" default=\"hips touching brown hair\"}, wearing a {argument name=\"outfit\" default=\"Zeelfashion beige embroidered sharara set\"} featuring heavy mirror work on the kurta and duppata.scalloped trim along the edges of the dupatta and sleeves. She has light makeup, including pink lipstick and blush, and is smiling subtly while looking to her right. The background is {argument name=\"background\" default=\"luxurious restaurant backside\"}.eyes down cost.attached the both are feet hill golden sandals.",
+    "title": "Elegant Mirror-Work Sharara Set Portrait",
+    "description": "Generates a portrait of a woman in an embroidered sharara set with heavy mirror work, set against a luxurious restaurant background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149739198_6n1qup_HMS___lWIAA_Ap_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27528,
+    "content": "Ultra-realistic portrait of a {argument name=\"subject description\" default=\"beautiful young East Asian woman\"} standing on a {argument name=\"background\" default=\"quiet beach during blue hour just after sunset\"}, side profile, long wavy black hair, soft natural makeup, fair porcelain skin, {argument name=\"clothing\" default=\"elegant white satin mini dress with sheer off-shoulder tulle sleeves and a long translucent scarf draped around her neck flowing behind\"}, slim figure, hands gently clasped, calm and dreamy expression, gentle ocean waves, wet sand with scattered seaweed, distant mountains silhouetted on the horizon, vibrant orange, pink, and deep blue sunset sky, cinematic lighting, smartphone flash illuminating the subject while the sunset remains visible in the background, shallow depth of field, highly detailed skin texture, natural colors, photorealistic, HDR, 85mm lens, f/1.8, ultra-sharp focus, professional photography, 8K, vertical composition, aspect ratio 9:16.",
+    "title": "East Asian Woman Beach Portrait",
+    "description": "A detailed prompt for creating an ultra-realistic portrait of a woman on a beach during the blue hour, featuring soft lighting and elegant clothing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149740822_ylnmyb_HMRg-yDaYAAZElF.jpg",
+      "https://cms-assets.youmind.com/media/1783149740801_8pzj7u_HMRg-1Ua0AAiBt4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27403,
     "content": "Editorial portrait photography, {argument name=\"subject\" default=\"elderly fisherman with weathered skin\"} mending nets at dawn in a Mediterranean harbor, golden hour side lighting, shallow depth of field, shot on 85mm f/1.4, natural skin texture, {argument name=\"color palette\" default=\"Kodak Portra 400 color palette\"}",
     "title": "Elderly Fisherman Mediterranean Portrait",
@@ -69,6 +122,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782977581812_6zxcnk_HMIn-hxaYAEKyG9.jpg",
       "https://cms-assets.youmind.com/media/1782977582030_174g05_HMIn_c6awAAPCXI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27526,
+    "content": "a photo of an {argument name=\"animal\" default=\"arabian cobra\"}, but the head is replaced with a {argument name=\"object\" default=\"stapler\"}, seamless, perfect animal-object combination, the object matches the animal coloring, and they feel naturally together, aspects of the object cleverly form the face like a pareidolia (none of the original animal face is visible), seamless and perfectly integrated",
+    "title": "Arabian Cobra Stapler Hybrid",
+    "description": "A creative image prompt for generating a seamless hybrid of an animal and an object, specifically a cobra with a stapler head, utilizing pareidolia effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149739496_nwb2bh_HMIrZxOWUAAga01.jpg"
     ],
     "needReferenceImages": false
   },

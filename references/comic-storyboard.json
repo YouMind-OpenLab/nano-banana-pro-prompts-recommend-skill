@@ -1,5 +1,17 @@
 [
   {
+    "id": 27525,
+    "content": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
+    "title": "Semi-Realistic Digital Illustration Concept Art",
+    "description": "Transforms reference objects into a dynamic game-style digital illustration with high-contrast lighting and warm color accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149739420_wjxbvr_HMUWVknXsAEsFmP.jpg",
+      "https://cms-assets.youmind.com/media/1783149739115_pjy37g_HMUWWfZWQAAA-kM.jpg",
+      "https://cms-assets.youmind.com/media/1783149739128_wzebie_HMUWWo2WIAEU6qw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27300,
     "content": "A clean 4-panel grid art collage featuring four distinct, {argument name=\"subject\" default=\"stylish chibi girls\"} in a {argument name=\"aesthetic\" default=\"Korean webtoon aesthetic\"}. The illustration uses a minimalist flat vector design with bold, crisp black outlines and a pop-art comic vibe. Each panel features a unique solid color backdrop, including vibrant teal, bright sun yellow, and deep royal blue. The characters have large glossy anime-style dark eyes, softly blushed pink cheeks, and trendy hairstyles such as neat side-braids and elegant low buns. They wear fashionable {argument name=\"clothing\" default=\"high-contrast striped turtlenecks and sleek black sweaters\"}, accessorized with oversized colorful hoop earrings. Perfect symmetry, high resolution, graphic art style. --ar 3:4",
     "title": "Korean Webtoon Chibi Girl Collage",

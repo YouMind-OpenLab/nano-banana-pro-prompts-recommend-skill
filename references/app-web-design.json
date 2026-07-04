@@ -1,5 +1,15 @@
 [
   {
+    "id": 27532,
+    "content": "Transform this rough hand-drawn interior sketch into a realistic {argument name=\"interior style\" default=\"Scandinavian luxury interior\"}. Preserve the layout exactly while replacing the drawing with photorealistic architecture, {argument name=\"flooring type\" default=\"warm oak flooring\"}, premium furniture, soft daylight, elegant textures and magazine-quality interior photography.",
+    "title": "Sketch to Realistic Interior Transformation",
+    "description": "A prompt to transform hand-drawn room sketches into photorealistic Scandinavian luxury interiors with high-end textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149743581_ipb620_HMUUZ5-WIAAOV9w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27235,
     "content": "a minimal flat animated scene of {argument name=\"subject\" default=\"something neutral but interesting\"}, {argument name=\"character count\" default=\"a single character\"}, pick an unusual animation style and palette. {argument name=\"art style\" default=\"Javanese style\"}.",
     "title": "Minimal Flat Javanese Animation",

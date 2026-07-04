@@ -56,6 +56,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 27529,
+    "content": "Cutaway diagram of a {argument name=\"object\" default=\"mechanical device\"}, detailed with interior component, on a white background. High-resolution, with a focused technique and text callouts providing information about each part. Interior details, hyper-realistic appearance.",
+    "title": "Technical Cutaway Diagram",
+    "description": "A professional prompt for generating hyper-realistic technical cutaway diagrams with labels and interior details against a clean background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783149741330_an29tc_HMUlkZJXYAADL8_.jpg",
+      "https://cms-assets.youmind.com/media/1783149741300_cb1pfr_HMUlkksWsAAl3fH.jpg",
+      "https://cms-assets.youmind.com/media/1783149741421_xmb6up_HMUlkw8XUAEnCeX.jpg",
+      "https://cms-assets.youmind.com/media/1783149742149_oc6fvg_HMUlk8mXMAAecVN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27131,
     "content": "Create a crisp, clean infographic storyboard poster for {argument name=\"subject\" default=\"THE FIREFIGHTER\"}. Wide 16:9 layout, white background, black borders, bold black typography, {argument name=\"rendering style\" default=\"premium Pixar 3D stylized rendering\"}, intense dramatic colors — fiery deep oranges, emergency red",
     "title": "Firefighter Storyboard Infographic",
