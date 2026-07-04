@@ -1,5 +1,15 @@
 [
   {
+    "id": 27404,
+    "content": "Whimsical {argument name=\"setting\" default=\"miniature world\"} depiction of a {argument name=\"subject\" default=\"floating ritual island chain\"} in a {argument name=\"style\" default=\"mythpunk\"} style",
+    "title": "Whimsical Mythpunk Floating Island Miniature",
+    "description": "A detailed prompt for generating a whimsical miniature world featuring a floating ritual island chain in a mythpunk style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063705618_688gsb_HMO_Sq7a8AEzIpJ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27303,
     "content": "Character sheet, multiple angles of a sci-fi tactical soldier in full body {argument name=\"armor color\" default=\"matte-black\"} armor. He wears a faceless helmet with a thin, dim {argument name=\"visor color\" default=\"white\"} horizontal glowing visor line. Gritty, brutalist design, heavy Kevlar and carbon fiber textures. Clean studio lighting, white background, ultra realist, front view, side view. --ar 16:9",
     "title": "Sci-Fi Tactical Soldier Character Sheet",
@@ -7102,6 +7112,16 @@
       "https://cms-assets.youmind.com/media/1763886093420_sanvuu_G6IS91JWYAAQkuN.jpg",
       "https://cms-assets.youmind.com/media/1763886096140_cw2yfz_G6IS91QW4AAsEEr.jpg",
       "https://cms-assets.youmind.com/media/1763886098409_9b1js1_G6IS91QXMAEv1zc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27408,
+    "content": "take the {argument name=\"characters\" default=\"anime man and woman\"} in the first image and put them in the {argument name=\"pose source\" default=\"poses of the stick man in blue and stick woman in red\"}. erase the {argument name=\"removal\" default=\"stick figures\"}",
+    "title": "Advanced Anime Character Pose Control",
+    "description": "A sophisticated prompt that extracts characters from one image and maps them onto poses provided in a separate sketch, removing the reference figures in the process.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063707722_xd9f73_GzfRvH_bkAA0NIb.jpg"
     ],
     "needReferenceImages": true
   }

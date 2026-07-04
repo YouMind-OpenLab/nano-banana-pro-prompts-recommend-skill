@@ -10,6 +10,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 27402,
+    "content": "Studio portrait photography, {argument name=\"subject\" default=\"female boxer in her 20s\"} photographed seconds after training, wrapped hands still taped, sweat beading on her collarbone and catching the light, direct unflinching gaze into camera, single large octabox positioned 45 degrees camera-left",
+    "title": "Female Boxer Studio Portrait",
+    "description": "A high-detail studio portrait of a female boxer immediately after training, capturing sweat and intense lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063704010_604gvu_HMQMPTebwAAID6E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27399,
+    "content": "Photorealistic smartphone selfie of a beautiful young {argument name=\"ethnicity\" default=\"East Asian woman\"} with fair porcelain skin, a messy low bun, wispy bangs, and a small white flower hair clip. She wears pearl drop earrings and a {argument name=\"outfit\" default=\"gray knitted sleeveless high-neck sweater\"} with a small flower detail at the collar. Soft Korean makeup, rosy cheeks, and glossy lips. {argument name=\"location\" default=\"Cozy modern bedroom\"} background with warm ambient lighting and a glowing lamp behind her. Slightly low-angle selfie perspective, soft background blur, natural iPhone camera aesthetic, candid handheld snapshot, realistic skin texture, ultra-realistic, vertical 3:4.",
+    "title": "East Asian Woman Selfie Portrait",
+    "description": "A photorealistic prompt for generating a high-quality smartphone selfie of an East Asian woman in a cozy bedroom setting, featuring natural lighting and detailed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063701939_34207q_HMOZAsLbIAA28iH.jpg",
+      "https://cms-assets.youmind.com/media/1783063701753_dcl4f3_HMOZCJUbMAALbAr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27401,
+    "content": "Use the uploaded reference image as the exact face reference. Preserve the exact facial identity with full face lock. Ultra-realistic cinematic night portrait standing on a small apartment balcony during a house party. Wearing a {argument name=\"clothing\" default=\"retro football jersey\"}, one hand resting on the {argument name=\"setting\" default=\"balcony railing\"} while city lights blur in the background. Warm indoor lighting spills through the open balcony door where party guests remain visible inside. {argument name=\"film type\" default=\"Kodak Portra\"} film colors, soft haze, dreamy lens flare, analog grain, documentary fashion photography, realistic lighting, nostalgic youth aesthetic, vertical 4:5.",
+    "title": "Retro Jersey Night Party Portrait",
+    "description": "A film-style portrait prompt for generating a nostalgic youth party scene on a balcony with specific facial identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063703795_guss8u_HMN8njxbUAEyyEI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27125,
     "content": "Use the uploaded image as the ONLY identity reference. Preserve the subject's exact facial identity, facial proportions, hairstyle, beard pattern, skin texture, age, ethnicity, and natural features. The person in the final image must remain instantly recognizable as the uploaded individual. Do not beautify, alter, or redesign the face.\n\nCreate an ultra-realistic fine-art black-and-white low-key studio portrait in a 4:5 aspect ratio.\n\nComposition: Medium close-up framing, filling approximately 65-70% of the frame, showing only the head, neck, shoulders, upper chest, and upper arms.\n\nWardrobe: The subject wears a {argument name=\"wardrobe\" default=\"plain black fitted crew-neck T-shirt\"} with no logos, graphics, or text.\n\nPose: The body is rotated approximately 45° away from the camera in a {argument name=\"pose\" default=\"strong three-quarter pose\"}, with the left shoulder (image left) closest to the camera. The chest faces toward the left side of the frame rather than directly toward the viewer. The head is turned only slightly farther left than the torso, maintaining a natural three-quarter angle instead of a full profile. The eyes look off-frame toward the upper left, focused on something slightly above eye level. The gaze should feel subtle, thoughtful, and contemplative—not looking into the camera, not looking directly left, and not looking high into the sky. The chin is slightly lowered, creating a calm, serious, introspective expression.\n\nLighting: Use a {argument name=\"lighting\" default=\"single soft key light positioned from the upper left\"}. Illuminate only the camera-facing side of the forehead, eye, cheekbone, nose bridge, lips, beard, and neck. The opposite side of the face should gradually fade into deep black shadow, with the far cheek, ear, jawline, shoulder, and most of the torso completely disappearing into darkness.\n\nThe black T-shirt should blend seamlessly into the shadows so that the lower chest, arms, and body are almost invisible, leaving the illuminated side of the face as the primary focal point.\n\nBackground: Pure matte black with absolutely no texture, patterns, objects, or distractions.\n\nStyle: High-contrast monochrome, cinematic fine-art portrait with soft shadow transitions, realistic skin texture, natural hair detail, subtle film grain, and an intensely dark, minimalist atmosphere. Ultra-detailed, museum-quality studio photography, 8K realism.",
     "title": "Low-Key Studio Black and White Portrait",

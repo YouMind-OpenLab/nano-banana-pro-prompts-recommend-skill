@@ -6274,5 +6274,15 @@
       "https://cms-assets.youmind.com/media/1763886148404_ux93qq_G6NT8ycXcAAUnTW.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 27410,
+    "content": "turn this into an {argument name=\"type\" default=\"infographic\"}",
+    "title": "Automated Infographic Creation from Photos",
+    "description": "Converts photos of locations or objects into stylized infographics without needing to name the specific subjects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063708820_pv44ns_GzumhA9WIAA44Aa.jpg"
+    ],
+    "needReferenceImages": true
   }
 ]

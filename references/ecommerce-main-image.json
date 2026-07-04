@@ -1,5 +1,16 @@
 [
   {
+    "id": 27398,
+    "content": "Ultra-realistic luxury skincare commercial. A {argument name=\"model description\" default=\"beautiful female model\"} with naturally glowing, healthy skin holds an {argument name=\"product\" default=\"elegant premium skincare cream jar\"} beside her face while looking confidently at the camera. Minimal {argument name=\"studio color\" default=\"white and beige\"} luxury studio with soft daylight, clean aesthetic, subtle marble textures, fresh green botanical accents, smooth skin texture without over-retouching, premium beauty photography, cinematic lighting, soft shadows, shallow depth of field, luxury cosmetic branding, editorial beauty campaign, photorealistic, ultra-detailed, 8K, high-end commercial quality.\n\nUltra-realistic luxury skincare campaign featuring the same female model in the same elegant white outfit and the same premium skincare cream jar inside the same minimalist white and beige studio. The model gently applies the cream to her cheek with a soft smile while looking naturally toward the camera. Matching daylight, identical color grading, marble countertop, botanical accents, glowing healthy skin, premium beauty photography, cinematic soft lighting, shallow depth of field, editorial cosmetic advertisement, photorealistic, ultra-detailed, 8K. Maintain perfect visual consistency with the previous image, including the same model, outfit, hairstyle, makeup, product, environment, lighting, and luxury aesthetic.",
+    "title": "Luxury Skincare Commercial Photography",
+    "description": "A pair of prompts designed to create consistent luxury skincare advertisements featuring a model in a minimalist studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063701886_3qzdam_HMN5tEdWgAAeWvo.jpg",
+      "https://cms-assets.youmind.com/media/1783063701924_o3gv3r_HMN5tEaXAAANZgZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26726,
     "content": "A main e-commerce image for {argument name=\"product\" default=\"wireless noise-canceling headphones\"}, featuring a {argument name=\"style\" default=\"minimalist style\"} and a {argument name=\"background color\" default=\"white background\"}, highlighting the product with added selling point copy and icons, suitable for e-commerce platforms.",
     "title": "Minimalist Headphone E-commerce Product Photo",
@@ -6114,5 +6125,16 @@
       "https://cms-assets.youmind.com/media/1763886038386_jp7ftl_G6OHs8tWIAAgc1X.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 27409,
+    "content": "show {argument name=\"subject\" default=\"woman\"} wearing the {argument name=\"clothing\" default=\"outfit\"}",
+    "title": "AI Virtual Clothing Try-On",
+    "description": "A highly accurate prompt for transferring outfits from flat lay product photography onto a human subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063707301_q66701_GzaGDiVWEAA7zw-.jpg",
+      "https://cms-assets.youmind.com/media/1783063707702_2q9v6n_GzaGFUpWsAA3-Fg.jpg"
+    ],
+    "needReferenceImages": true
   }
 ]

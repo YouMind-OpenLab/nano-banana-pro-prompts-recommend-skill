@@ -6214,5 +6214,25 @@
       "https://cms-assets.youmind.com/media/1763886407901_8od4he_G6NGivTacAABH5y.png"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 27408,
+    "content": "take the {argument name=\"characters\" default=\"anime man and woman\"} in the first image and put them in the {argument name=\"pose source\" default=\"poses of the stick man in blue and stick woman in red\"}. erase the {argument name=\"removal\" default=\"stick figures\"}",
+    "title": "Advanced Anime Character Pose Control",
+    "description": "A sophisticated prompt that extracts characters from one image and maps them onto poses provided in a separate sketch, removing the reference figures in the process.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063707722_xd9f73_GzfRvH_bkAA0NIb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27406,
+    "content": "create a {argument name=\"layout\" default=\"4-panel montage\"} showing {argument name=\"subject\" default=\"sporting moments\"}. use the style of the reference image",
+    "title": "Multi-Panel Sports Montage with Style Reference",
+    "description": "Creates a four-panel montage of sporting moments while strictly adhering to the aesthetic style of a provided reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063706202_o7i8pw_GyySTswWkAA_L5_.jpg"
+    ],
+    "needReferenceImages": true
   }
 ]

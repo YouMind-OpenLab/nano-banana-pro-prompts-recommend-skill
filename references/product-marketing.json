@@ -21,6 +21,47 @@
     "needReferenceImages": true
   },
   {
+    "id": 27403,
+    "content": "Editorial portrait photography, {argument name=\"subject\" default=\"elderly fisherman with weathered skin\"} mending nets at dawn in a Mediterranean harbor, golden hour side lighting, shallow depth of field, shot on 85mm f/1.4, natural skin texture, {argument name=\"color palette\" default=\"Kodak Portra 400 color palette\"}",
+    "title": "Elderly Fisherman Mediterranean Portrait",
+    "description": "A realistic editorial portrait of an elderly fisherman mending nets at dawn, emphasizing skin texture and golden hour light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063704437_3057xn_HMQMQRibUAEBvKy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27397,
+    "content": "Ultra-realistic IMAX-level Netflix-style cinematic fashion lifestyle portrait, 9:16 vertical composition, use the uploaded image as the primary facial and pose reference, create a beautiful young adult woman standing casually by a modern balcony railing at night in a relaxed elegant pose, one hand holding a clear plastic iced coffee cup with a black straw while the other hand lightly holds a pair of stylish sunglasses near her shoulder, her face turned slightly to the side with a calm dreamy expression, soft feminine confidence, relaxed brows, thoughtful eyes and naturally defined lips, her luminous fair porcelain milky-white skin rendered with an ultra-smooth clean texture, soft natural pink glow and perfect face-to-body skin tone consistency, her long soft {argument name=\"hair color\" default=\"brown\"} hair styled in loose smooth waves falling over her shoulders with a few delicate face-framing strands, wearing an {argument name=\"top color\" default=\"olive green\"} loose stylish top with relaxed sleeves and a flattering cropped drape, paired with {argument name=\"bottom color\" default=\"pastel pink\"} comfortable fitted bottom wear, elegant minimal jewelry including earrings, bracelet, rings and a delicate necklace, background featuring a dark night city ambience with soft blurred bokeh lights and a premium balcony setting, lighting soft and cinematic with gentle diffused night light shaping her face, hair, outfit and hands, creating subtle highlights, smooth shadows and a luxurious editorial mood, ultra-rich color grading with olive green and pastel pink contrast, creamy skin glow, deep black night backdrop, warm soft highlights and refined fashion depth, captured in a premium portrait lens look with shallow depth of field, HDR lighting, global illumination, photorealistic rendering, masterpiece quality, ultra-detailed textures, 8K production detail.",
+    "title": "Cinematic Night Balcony Fashion Portrait",
+    "description": "A highly detailed prompt for generating a high-end Netflix-style cinematic portrait of a woman on a balcony at night, focusing on realistic skin textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063701177_gsfu0o_HMM7qjvawAAlBBJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27398,
+    "content": "Ultra-realistic luxury skincare commercial. A {argument name=\"model description\" default=\"beautiful female model\"} with naturally glowing, healthy skin holds an {argument name=\"product\" default=\"elegant premium skincare cream jar\"} beside her face while looking confidently at the camera. Minimal {argument name=\"studio color\" default=\"white and beige\"} luxury studio with soft daylight, clean aesthetic, subtle marble textures, fresh green botanical accents, smooth skin texture without over-retouching, premium beauty photography, cinematic lighting, soft shadows, shallow depth of field, luxury cosmetic branding, editorial beauty campaign, photorealistic, ultra-detailed, 8K, high-end commercial quality.\n\nUltra-realistic luxury skincare campaign featuring the same female model in the same elegant white outfit and the same premium skincare cream jar inside the same minimalist white and beige studio. The model gently applies the cream to her cheek with a soft smile while looking naturally toward the camera. Matching daylight, identical color grading, marble countertop, botanical accents, glowing healthy skin, premium beauty photography, cinematic soft lighting, shallow depth of field, editorial cosmetic advertisement, photorealistic, ultra-detailed, 8K. Maintain perfect visual consistency with the previous image, including the same model, outfit, hairstyle, makeup, product, environment, lighting, and luxury aesthetic.",
+    "title": "Luxury Skincare Commercial Photography",
+    "description": "A pair of prompts designed to create consistent luxury skincare advertisements featuring a model in a minimalist studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063701886_3qzdam_HMN5tEdWgAAeWvo.jpg",
+      "https://cms-assets.youmind.com/media/1783063701924_o3gv3r_HMN5tEaXAAANZgZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27400,
+    "content": "A {argument name=\"subject\" default=\"confident man\"} sits centered facing the camera in a {argument name=\"clothing\" default=\"crisp white shirt\"} and dark sunglasses, exuding an effortless candid demeanor with a subtle, closed-mouth smile and relaxed eyebrows. His dark, wavy hair, cut to about three to four inches, features a tousled, unstructured volume with a natural matte finish, slight frizz, and visible flyaways. His shoulders are entirely relaxed as his weight rests symmetrically, with his left hand casually resting on a surface and his right hand organically grasping a glass tumbler in a fluid, relaxed gesture. He is layered seamlessly into a {argument name=\"setting\" default=\"deep outdoor coastal setting\"}, framed from above by thriving, dense leafy canopy vines in the foreground. The midground reveals a weathered, rough matte mid-gray stone masonry wall with patchy, visible mortar on the left, alongside a worn industrial fan mounted to the canopy frame on the right. He sits above a gray checkered tile floor, with the scene extending outward to a pristine background ocean marked by a perfectly flat horizon. The monochromatic atmosphere is rendered in a strict black-and-white high-contrast palette where the bright whites of the shirt and sky balance against deep black shadows and mid-gray midtones. Bright, natural light filters down from multiple sources above but strikes with a hard, directional quality, creating dramatic, harshly defined deep black shadows under the lush canopy, across his neck, and down the right side of his face, while meticulously preserving brilliant specular highlights on the shoulders of his shirt and the distant sky to evoke a sophisticated Italian Riviera summer lifestyle mood. Captured as a tack-sharp digital editorial photograph shot straight on at f/4.0, 1/500s, and ISO 100, the realistic image features a medium depth of field and distinct digital noise, refined with high-contrast curve adjustments to emphasize its organic visual style, all framed in a 4:5 aspect ratio.",
+    "title": "Monochromatic Coastal Riviera Portrait",
+    "description": "A sophisticated high-contrast black and white prompt for an editorial-style portrait of a man in a coastal Italian setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063702758_ilhuto_HMNR4HxWcAARgIH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27302,
     "content": "A highly detailed realistic portrait photograph of a young woman with {argument name=\"facial features\" default=\"fair skin and subtle natural freckles\"}, featuring {argument name=\"hair style\" default=\"long straight brown hair styled in a sleek high ponytail with a center part, wispy strands framing her face\"}. She has expressive brown eyes with defined eyebrows, wearing bold red lipstick on full lips, and a neutral contemplative expression while gazing directly at the viewer. She is dressed in a {argument name=\"outfit\" default=\"fitted white ribbed sleeveless tank top and black pants\"}, seated in a relaxed pose with one leg bent, leaning against a plain light-colored minimalist studio wall. Soft dramatic lighting from the side creates gentle shadows and highlights on her face and clothing, with a clean modern indoor setting, high resolution, sharp focus, cinematic composition, and professional photography style.",
     "title": "Minimalist Realistic Studio Portrait",
@@ -57563,5 +57604,36 @@
       "https://cms-assets.youmind.com/media/1763886021101_4ij0c9_G6NP7RWWAAA0Eiy.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 27409,
+    "content": "show {argument name=\"subject\" default=\"woman\"} wearing the {argument name=\"clothing\" default=\"outfit\"}",
+    "title": "AI Virtual Clothing Try-On",
+    "description": "A highly accurate prompt for transferring outfits from flat lay product photography onto a human subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063707301_q66701_GzaGDiVWEAA7zw-.jpg",
+      "https://cms-assets.youmind.com/media/1783063707702_2q9v6n_GzaGFUpWsAA3-Fg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27407,
+    "content": "show the {argument name=\"subject\" default=\"man\"} holding {argument name=\"object\" default=\"this\"} in the {argument name=\"location\" default=\"bed\"}",
+    "title": "Interactive Scene Object Placement",
+    "description": "Demonstrates the model's ability to take an input photo and naturally place subjects into a specific interactive context, such as holding an object in a new setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063707099_qraw6t_GzSmgofXIAAY6fd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27405,
+    "content": "Let the {argument name=\"subject\" default=\"woman\"} hold {argument name=\"item\" default=\"this bag\"} with {argument name=\"action\" default=\"one arm raised forward\"}.",
+    "title": "Consistent Pose Modification for Product Shots",
+    "description": "A prompt designed to modify the pose of a subject holding a specific product while maintaining visual consistency, ideal for product photography testing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783063705779_ke40sx_GyZoSsqWwAAreQG.jpg"
+    ],
+    "needReferenceImages": true
   }
 ]
