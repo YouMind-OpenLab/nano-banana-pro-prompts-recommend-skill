@@ -1,5 +1,27 @@
 [
   {
+    "id": 27621,
+    "content": "{argument name=\"style\" default=\"Ultra-realistic fine art portrait illustration\"} with accurate human anatomy and natural facial proportions. Realistic cranial structure, balanced forehead dimensions, anatomically correct neck length, natural shoulder width, and authentic facial construction. Facial features rendered with lifelike proportions, including naturally positioned eyes, realistic nose structure, balanced cheekbones, accurate jawline definition, and subtle facial asymmetry found in real human faces.\nHighly detailed mixed-media illustration combining refined pen-and-ink craftsmanship, observational drawing techniques, delicate watercolor rendering, and realistic painterly textures. Dense yet controlled cross-hatching, contour shading, and subtle linework enhance skin texture, pores, wrinkles, facial hair, and natural anatomical details without exaggeration. Hair rendered with thousands of individual strands, realistic volume, organic flow, and natural movement.\nEditorial portrait realism blended with contemporary fine-art illustration. Strong emphasis on believable anatomy, authentic facial expression, natural posture, and accurate light interaction across skin and hair. Rich observational detail, realistic depth, subtle imperfections, and sophisticated rendering quality. {argument name=\"palette\" default=\"Warm earth-tone palette\"}, aged sketchbook paper texture, restrained watercolor washes, delicate ink splatters, unfinished artistic edges, museum-quality portrait illustration, highly refined linework, and premium sketchbook presentation. Professional fine-art portraiture with realistic proportions, natural character presence, and lifelike visual authenticity. No TYPOGRAPHY, no initial, no brand and no watermark.",
+    "title": "Fine Art Mixed-Media Portrait Illustration",
+    "description": "A sophisticated prompt for generating fine-art editorial portraits that combine pen-and-ink, watercolor, and detailed anatomical cross-hatching textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783236276423_fu7yxy_HMYQB1GXkAAn7BV.jpg",
+      "https://cms-assets.youmind.com/media/1783236276427_9dhayc_HMYQB4IXMAALyrD.jpg",
+      "https://cms-assets.youmind.com/media/1783236276781_aulkg5_HMYQB4cXwAECVCi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27625,
+    "content": "Achieve a seamless cinematic fusion. Perfectly integrate the woman from {argument name=\"character image\" default=\"Image 1\"} into {argument name=\"scene image\" default=\"Image 2\"}. You must fully preserve the facial features, hairstyle, clothing, and props from the character in Image 1. Perform complete light and shadow coupling: the character must be completely re-rendered according to the lighting, color temperature, and atmospheric conditions of Image 2. All shadows, highlights, and tones on the character must be entirely derived from Image 2 to ensure perfect harmony. Maintain the original background, composition, and style of Scene 2 without any modifications.",
+    "title": "Cinematic Character and Scene Fusion",
+    "description": "A professional prompt for nano-banana-pro to achieve seamless cinematic blending, integrating a specific character into a new scene while perfectly matching lighting and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783236278280_ko3wju_HMXjhtLagAEVPQX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27525,
     "content": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
     "title": "Semi-Realistic Digital Illustration Concept Art",
