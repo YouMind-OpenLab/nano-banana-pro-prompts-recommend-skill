@@ -10,6 +10,50 @@
     "needReferenceImages": false
   },
   {
+    "id": 27742,
+    "content": "A cute minimalist portrait of a {argument name=\"subject\" default=\"young woman\"} sitting casually on the floor in a clean studio setting with a light grey background. She wears an {argument name=\"outfit\" default=\"oversized dark charcoal hoodie, cream straight-leg pants, white socks, and chunky white sneakers\"}. Relaxed seated pose with crossed legs, one eye slightly closed in a playful wink and a soft smile. Behind her, a large {argument name=\"character style\" default=\"black-and-white doodle character\"} hugs her from behind, wrapping its cartoon arms around her shoulders and gently squeezing her cheek.The doodle figure has a simple round head, tiny eyes, and a hand-drawn sketch style. Soft studio lighting, modern aesthetic, playful and wholesome mood, minimalist composition, high-quality fashion portrait, realistic photography, subtle shadows, ultra-detailed, clean background, candid expression.",
+    "title": "Minimalist Fashion Portrait with Doodle",
+    "description": "A playful and minimalist fashion portrait prompt featuring a young woman and a hand-drawn doodle character in a studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409591678_rajcjb_HMi39f8a0AAeWs-.jpg",
+      "https://cms-assets.youmind.com/media/1783409591663_c7e3wd_HMi39lyaAAEl8gb.jpg",
+      "https://cms-assets.youmind.com/media/1783409592251_lz6d49_HMi39vcbUAAjYm_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27735,
+    "content": "Create a photographic prompt that captures a portrait of a woman with a {argument name=\"expression\" default=\"melancholic yet graceful\"} expression. The style should feature a rich, monochromatic {argument name=\"color tone\" default=\"golden-sepia\"} tone, utilizing dramatic, soft rim lighting to create a gentle halo effect around the subject's hair and profile against a muted, dark background. The subject should be styled in a simple, {argument name=\"clothing\" default=\"high-neck sweater\"}, with intimate posing—such as hands near the face or a contemplative side-profile gaze—to evoke a sense of quiet introspection, cinematic atmosphere, and timeless elegance.",
+    "title": "Monochromatic Golden Sepia Portrait",
+    "description": "A prompt for a cinematic, monochromatic golden-sepia portrait of a woman, featuring rim lighting and an elegant atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409588349_8lkh11_HMii0ajXMAAztZB.jpg",
+      "https://cms-assets.youmind.com/media/1783409588412_0bifth_HMii0YaXgAAMpqo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27739,
+    "content": "Create a portrait capturing a woman with {argument name=\"hair style\" default=\"long, wavy dark hair\"}, wearing {argument name=\"clothing\" default=\"a light-colored, casual linen-style top\"}, standing in the middle of a {argument name=\"location\" default=\"vibrant field of sunflowers\"} during the golden hour. The subject should be looking directly at the camera with a warm, gentle smile, holding a sunflower near her face with a soft, natural expression. Complement this with an intimate, focused mood where the subject is shown with a softer gaze, looking down at a sunflower she is tenderly touching with her hands. The overall aesthetic should feature soft, warm, backlit lighting that highlights the texture of the sunflowers and creates a serene, cinematic atmosphere, maintaining a consistent style and character across both compositions.",
+    "title": "Golden Hour Sunflower Portrait",
+    "description": "A cinematic portrait prompt for a woman in a sunflower field during golden hour, emphasizing soft backlit lighting and natural expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409590248_agodpi_HMiTUowWAAAajMy.jpg",
+      "https://cms-assets.youmind.com/media/1783409590024_al93yo_HMiTUrgWgAAaK88.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27741,
+    "content": "Create an ultra-realistic fine art portrait using {argument name=\"face reference\" default=\"my uploaded face\"} as the exact identity. Preserve my facial structure, skin tone, eye shape, nose, lips, jawline, hairstyle, and all unique facial features with complete accuracy. Do not beautify, alter, or change my identity.\n\nCompose the portrait as an extreme close-up where only half of my face is visible, emerging dramatically from deep black shadows. One eye should be fully illuminated and razor sharp, while the other half remains hidden in darkness. Use cinematic low-key lighting with a {argument name=\"lighting color\" default=\"warm golden light\"} softly washing across my cheek, nose, and lips, creating rich contrast against the black background.\n\nEnhance every skin pore and natural texture with hyper-realistic detail. Add subtle glossy lips, crisp eyelashes, realistic catchlights in the eye, and smooth transitions between light and shadow. The mood should feel mysterious, elegant, luxurious, and emotionally powerful, with a timeless editorial fashion aesthetic.\n\nBackground should be completely black with no distractions. High dynamic range, dramatic contrast, ultra-photorealistic, fine art photography, luxury beauty campaign style, {argument name=\"lens\" default=\"85mm portrait lens\"}, f/1.8, shallow depth of field, studio-quality lighting, 8K resolution, flawless detail, premium color grading, museum-quality realism.",
+    "title": "Low-Key Fine Art Portrait",
+    "description": "A sophisticated prompt for an ultra-realistic fine art portrait using a reference face, featuring dramatic low-key lighting and cinematic shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409591715_gt6ne5_HMg4flFbAAA9wQw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27531,
     "content": "A dramatic, high-contrast studio portrait of a {argument name=\"subject description\" default=\"man with dark messy hair and a well groomed beard\"}, wearing {argument name=\"eyewear\" default=\"black rectangular glasses\"} and a {argument name=\"shirt color\" default=\"dark olive-green\"} collared shirt. He is leaning forward over the curved backrest of a black chair, gazing intently down towards the lens. The entire setting features a striking, solid vibrant crimson-red background wall that transitions into deep shadows toward the lower right, establishing a highly atmospheric and moody character aesthetic. He Is leaning forward with his head tilted down and slightly to the left, resting both forearms on the horizontal backrest of a chair. His gaze is directed downwards towards the camera with a serious, intense expression. He is wearing a smooth woven olive-green collared shirt, fully buttoned up with visible collar points and a center placket. The sleeves are rolled up neatly to his mid-forearms, creating fabric folds near his elbows. A chunky, dark signet-style ring is visible on the index finger of his left hand, along with a dark ring on his right hand. A metallic chain bracelet consisting of small interlocking links is wrapped around his left wrist. An eye-level, medium close-up shot that captures the subject from the waist up, focusing heavily on his facial expression, hair texture, and upper torso. Strong, directional artificial studio lighting coming from the top-left. This illuminates the left side of his forehead, nose bridge, cheek, and the wet sheen of his hair, while casting deep, heavy shadows across the right side of his face and shading the lower half of his body into near-total darkness. A bold, high-contrast color scheme dominated by the vivid red background, the dark olive green of the shirt, and the solid black tones of the hair, glasses, and chair. The background shows a soft vignette effect, appearing brighter on the upper-left and deepening into dark red behind the subject's left shoulder.",
     "title": "Dramatic High Contrast Studio Portrait",

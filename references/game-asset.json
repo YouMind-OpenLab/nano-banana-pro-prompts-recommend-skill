@@ -1,5 +1,18 @@
 [
   {
+    "id": 27737,
+    "content": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
+    "title": "Dieselpunk Mech Action Scene",
+    "description": "An action-packed prompt for a rainy dieselpunk city scene featuring a towering mech and a jetpack spy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409590034_1wkms3_HMjYpBlbIAAuxwu.jpg",
+      "https://cms-assets.youmind.com/media/1783409588799_ijlmsp_HMjYqx1aYAAuWdi.jpg",
+      "https://cms-assets.youmind.com/media/1783409588487_0humn8_HMjYwWsaoAA84K5.jpg",
+      "https://cms-assets.youmind.com/media/1783409589600_l9p4a0_HMjZJEsbEAA15uJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27525,
     "content": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
     "title": "Semi-Realistic Digital Illustration Concept Art",

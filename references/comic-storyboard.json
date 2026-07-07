@@ -1,5 +1,28 @@
 [
   {
+    "id": 27737,
+    "content": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
+    "title": "Dieselpunk Mech Action Scene",
+    "description": "An action-packed prompt for a rainy dieselpunk city scene featuring a towering mech and a jetpack spy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409590034_1wkms3_HMjYpBlbIAAuxwu.jpg",
+      "https://cms-assets.youmind.com/media/1783409588799_ijlmsp_HMjYqx1aYAAuWdi.jpg",
+      "https://cms-assets.youmind.com/media/1783409588487_0humn8_HMjYwWsaoAA84K5.jpg",
+      "https://cms-assets.youmind.com/media/1783409589600_l9p4a0_HMjZJEsbEAA15uJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27744,
+    "content": "A young woman stands in a narrow brick alleyway at night, looking over her shoulder with a serious expression.\n\nSubject: A young woman with long hair wearing a {argument name=\"accessory\" default=\"wide-brimmed hat\"} and a {argument name=\"outerwear\" default=\"trench coat\"}.\n\nClothing: She wears a {argument name=\"hat style\" default=\"dark fedora-style hat\"} and a belted trench coat with visible lapels and pockets.\n\nAction: She stands in profile facing left but turns her head to look directly at the camera with a neutral, intense gaze.\n\nEnvironment: A narrow urban alleyway flanked by brick buildings, featuring a metal fire escape on the right and a hanging sign on the left.\n\nCamera: Medium shot framed from the waist up, utilizing a shallow depth of field that keeps the subject sharp while blurring the background slightly.\n\nLighting: High-contrast black and white lighting with a bright street lamp overhead creating a strong rim light effect on her hair and face against deep shadows.\n\nStyle Details: Black and white photography with a noir aesthetic, featuring atmospheric smoke or fog drifting through the alleyway to enhance the moody atmosphere.",
+    "title": "Noir Alleyway Cinematic Portrait",
+    "description": "A moody, high-contrast black and white noir photography prompt set in a narrow urban alleyway featuring a woman in a trench coat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783409593111_mpgjuq_HMhkz7xbIAAynYF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27621,
     "content": "{argument name=\"style\" default=\"Ultra-realistic fine art portrait illustration\"} with accurate human anatomy and natural facial proportions. Realistic cranial structure, balanced forehead dimensions, anatomically correct neck length, natural shoulder width, and authentic facial construction. Facial features rendered with lifelike proportions, including naturally positioned eyes, realistic nose structure, balanced cheekbones, accurate jawline definition, and subtle facial asymmetry found in real human faces.\nHighly detailed mixed-media illustration combining refined pen-and-ink craftsmanship, observational drawing techniques, delicate watercolor rendering, and realistic painterly textures. Dense yet controlled cross-hatching, contour shading, and subtle linework enhance skin texture, pores, wrinkles, facial hair, and natural anatomical details without exaggeration. Hair rendered with thousands of individual strands, realistic volume, organic flow, and natural movement.\nEditorial portrait realism blended with contemporary fine-art illustration. Strong emphasis on believable anatomy, authentic facial expression, natural posture, and accurate light interaction across skin and hair. Rich observational detail, realistic depth, subtle imperfections, and sophisticated rendering quality. {argument name=\"palette\" default=\"Warm earth-tone palette\"}, aged sketchbook paper texture, restrained watercolor washes, delicate ink splatters, unfinished artistic edges, museum-quality portrait illustration, highly refined linework, and premium sketchbook presentation. Professional fine-art portraiture with realistic proportions, natural character presence, and lifelike visual authenticity. No TYPOGRAPHY, no initial, no brand and no watermark.",
     "title": "Fine Art Mixed-Media Portrait Illustration",
