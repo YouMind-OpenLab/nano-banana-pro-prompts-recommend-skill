@@ -20,6 +20,51 @@
     "needReferenceImages": false
   },
   {
+    "id": 27857,
+    "content": "Logo for '{argument name=\"country and tagline\" default=\"Living in Country: Tagline\"}' set against a backdrop of {argument name=\"landscape\" default=\"specific landscape or cityscape\"}. Utilize the {argument name=\"flag colors\" default=\"colors of the country's flag\"} and include imagery that represents [the country’s renowned aspects – cultural, culinary, natural, etc.], [desired style or mood]",
+    "title": "National Identity Logo Generator",
+    "description": "A specialized prompt designed to create clean, professional brand logos that incorporate specific country landscapes, flag colors, and cultural elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494607769_h5ss64_HMpL7TZXUAAs6yN.jpg",
+      "https://cms-assets.youmind.com/media/1783494608198_kfxme5_HMpL7hdWsAApWBg.jpg",
+      "https://cms-assets.youmind.com/media/1783494607814_y0pdbh_HMpL7wuWUAEPJpm.jpg",
+      "https://cms-assets.youmind.com/media/1783494608892_awq0c0_HMpL8AcXYAA2D3c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27852,
+    "content": "High-speed action photography of a {argument name=\"subject\" default=\"handsome young man\"} in a white shirt, grey jeans, and white sneakers {argument name=\"action\" default=\"kicking water\"}. He is framed inside a giant, perfectly circular splash of water. {argument name=\"background\" default=\"Sunset background with a vibrant orange glow and deep blue sky\"}. Frozen water droplets, crisp textures, front studio lighting, hyper-realistic, photorealistic, shot on 50mm lens. [Identity Reference: Attached Photo] Replicate the subject's exact face, hair, and skin tone with 100% accuracy. Do not stylize. 3:4",
+    "title": "Circular Water Splash Action Photo",
+    "description": "A high-speed photography prompt capturing a person kicking water inside a perfectly circular splash during sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494605860_fcwxk7_HMonkzjW0AAxRve.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27850,
+    "content": "Use the uploaded person image as the ONLY strict identity reference. Preserve the exact facial features, face shape, eyes, eyebrows, nose, lips, skin texture, age, hair color, hairstyle and overall identity with maximum resemblance. The woman must be instantly recognizable as the reference image. Do not beautify, retouch or alter facial proportions in any way.\nCreate a cinematic vertical triptych of the reference woman during a {argument name=\"weather\" default=\"heavy rainy night\"} in an {argument name=\"location\" default=\"empty city\"}.\nTop panel: Extreme close-up portrait through a rain-covered window. Wet hair sticks to her face. She looks slightly away from the camera with a distant, melancholic expression. Cold cyan and teal neon lights illuminate her face. Large neon bokeh glows behind her.\nMiddle panel: The woman lies on rain-soaked asphalt. Camera at ground level beside her face. Wet pavement creates a mirror-like reflection. Rain falls continuously, creating ripples and splashes around her. Her soaked hair spreads across the street.\nBottom panel: The woman stands alone in the middle of an empty city street under heavy rain. {argument name=\"clothing\" default=\"Black clothing\"} completely soaked and clinging to her body. She looks directly toward the camera with a calm but emotionally exhausted expression. The city behind her fades into blue neon haze and reflections.\nColor palette: deep cyan blue, teal neon, turquoise reflections, dark navy shadows, wet black asphalt, cool white highlights. Minimal warm colors.\nAtmosphere: heavy rain, wet skin, rain droplets on lens, atmospheric haze, reflective streets, cinematic loneliness, emotional noir.\nInspired by Blade Runner 2049, The Batman, Korean noir cinema, Wong Kar-wai night scenes.\nUltra-realistic photography, photorealistic skin texture, realistic rain simulation, shallow depth of field, cinematic bokeh, subtle film grain, anamorphic lens characteristics, masterpiece cinematic storytelling, vertical composition 9:16.\nAdditional Banana Pro emphasis:\nVERTICAL TRIPTYCH COMPOSITION, HEAVY RAIN, WET HAIR AND SKIN, CYAN TEAL NEON, REFLECTIVE WET ASPHALT, EMOTIONAL NOIR, FEMININE GRACE, MELANCHOLIC EXPRESSION, SOAKED BLACK CLOTHING, CINEMATIC RAIN EFFECTS, LATE-NIGHT LONELINESS.\ntext, watermark, logo, extra people, beauty filter, CGI look, cartoon, illustration, plastic skin, distorted anatomy, dry hair, warm color grading, bright lighting, altered identity, masculine features.",
+    "title": "Cinematic Rainy Night Noir Triptych",
+    "description": "A triptych layout prompt for Nano Banana Pro featuring a woman in a melancholic rainy city scene with cyan and teal neon lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494604262_liadx2_HMnJe89a8AAR5PM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27859,
+    "content": "An ultra-detailed {argument name=\"style\" default=\"geometric mosaic portrait illustration\"} blending cubist abstraction, architectural blueprint aesthetics, and contemporary editorial pop-art design. Constructed from thousands of interlocking angular polygon fragments with no color lines, fragmented planes, segmented colorless contours, and intricate line grids. The highly structured composition, with layered technical drawing details embedded throughout, creates a complex look that blends schematic and artwork. Bold {argument name=\"colors\" default=\"complementary color blocks are dominated by saturated cobalt blue, yellow, turquoise, vibrant golden earth tones, warm orange, and sharp white accents\"}. The color treatment is flat yet dimensional, with a balanced contrast between large color fields and subtle geometric micro-details. Clean, vector-like precision combines with the imperfection of hand-drawn sketches and the texture of architectural drawings. Expressive contemporary {argument name=\"subject\" default=\"character design with stylized facial construction, exaggerated eyeglass shapes, and fragmented surface geometry\"}. A dense network of thin construction lines, blueprint markings, technical annotations, abstract map-like divisions, and layered polygonal textures seamlessly integrate into the subject and background. A mixed-media blend of cubism, urban mural art, technical illustration, generative geometry, and modern magazine cover aesthetics. Sharp edge definition, highly detailed surface articulation, intricate tessellation patterns, crystalline segmentation, and sophisticated visual rhythms. The background and subject are treated as a unified geometric ecosystem, with forms flowing continuously throughout. Premium gallery-quality digital artwork, razor-sharp linework, complex layered depth, contemporary design language, architectural abstraction, vibrant modernist color harmonies, highly detailed geometric storytelling, and a visually rich yet clean and organized composition. R 9:16.",
+    "title": "Geometric Mosaic Portrait Illustration",
+    "description": "Generates a detailed geometric mosaic portrait with cubist abstraction and technical drawing elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494609811_n7jihn_HMmrkkCXkAAHuEx.jpg",
+      "https://cms-assets.youmind.com/media/1783494609787_u8n6yo_HMmrkwYXkAAhA3H.jpg",
+      "https://cms-assets.youmind.com/media/1783494609760_jyeujd_HMmrk35W8AAHq5V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27747,
     "content": "Gritty portrait of a {argument name=\"subject\" default=\"man in a dimly lit boxing gym\"}, dark hair slicked back and slightly damp with sweat, narrow black sunglasses pushed up on his head, wrapped hands resting on the top rope of a boxing ring. He wears black athletic shorts and no shirt, revealing a lean, muscular build with visible sweat sheen, standing in a relaxed but powerful stance. Lighting: {argument name=\"lighting\" default=\"single hard spotlight hanging directly above the ring\"}, creating a harsh pool of light on his upper body while the surrounding gym fades into deep shadow. Dust particles are visible floating through the light beam. Background: blurred boxing ring ropes, hanging heavy bags, and worn gym equipment fading into darkness. Composition: medium shot from a slightly low angle, subject positioned just off-center, ring ropes framing the bottom of the frame. Style: {argument name=\"style\" default=\"gritty documentary-style sports photography\"}, shot on a 50mm lens at f/1.8, high contrast black and white or desaturated color, heavy shadow detail, Rocky-inspired cinematic grit, visible film grain.",
     "title": "Gritty Boxing Gym Cinematic Portrait",

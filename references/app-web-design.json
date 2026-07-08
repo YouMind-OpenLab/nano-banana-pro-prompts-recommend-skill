@@ -1,5 +1,18 @@
 [
   {
+    "id": 27857,
+    "content": "Logo for '{argument name=\"country and tagline\" default=\"Living in Country: Tagline\"}' set against a backdrop of {argument name=\"landscape\" default=\"specific landscape or cityscape\"}. Utilize the {argument name=\"flag colors\" default=\"colors of the country's flag\"} and include imagery that represents [the country’s renowned aspects – cultural, culinary, natural, etc.], [desired style or mood]",
+    "title": "National Identity Logo Generator",
+    "description": "A specialized prompt designed to create clean, professional brand logos that incorporate specific country landscapes, flag colors, and cultural elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494607769_h5ss64_HMpL7TZXUAAs6yN.jpg",
+      "https://cms-assets.youmind.com/media/1783494608198_kfxme5_HMpL7hdWsAApWBg.jpg",
+      "https://cms-assets.youmind.com/media/1783494607814_y0pdbh_HMpL7wuWUAEPJpm.jpg",
+      "https://cms-assets.youmind.com/media/1783494608892_awq0c0_HMpL8AcXYAA2D3c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27532,
     "content": "Transform this rough hand-drawn interior sketch into a realistic {argument name=\"interior style\" default=\"Scandinavian luxury interior\"}. Preserve the layout exactly while replacing the drawing with photorealistic architecture, {argument name=\"flooring type\" default=\"warm oak flooring\"}, premium furniture, soft daylight, elegant textures and magazine-quality interior photography.",
     "title": "Sketch to Realistic Interior Transformation",

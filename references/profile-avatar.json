@@ -10,6 +10,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 27849,
+    "content": "A young male adult stands centered in the frame, exuding a serious, confident, and slightly guarded demeanor. He features short, dark hair, a neatly groomed beard, and is dressed entirely in an {argument name=\"outfit color\" default=\"all-black\"} outfit consisting of a long-sleeve button-down shirt with rolled cuffs and tailored trousers. His face is framed by dark sunglasses that obscure his direct gaze, complemented by a closed, neutral mouth and relaxed eyebrows. He leans comfortably back against a wall, his body facing the camera while slightly turned to the left with relaxed shoulders. Both hands are deliberately posed, resting casually inside his front trouser pockets; his right hand is tucked deeply, while his left wrist reveals a metallic silver watch with a white face catching the light. The spatial depth is shallow, locking focus on the subject's interaction with the outdoor architectural elements. Flanking him symmetrically in the midground are pristine dark brown window frames, with the left window featuring multiple reflective panes and bordered by a thriving climbing plant displaying dense dark green foliage. In the bottom left foreground sits a small, weathered terracotta pot with a curved rim. Behind him is an {argument name=\"wall surface\" default=\"aged plaster and stucco wall\"} featuring a rough, matte finish painted in warm beige with subtle peach undertones, showing patchy, weathered color variations and uneven application from prolonged sun exposure. Beneath him rests a solid, light gray stone floor. A bright, golden, single-source natural sunlight washes over the scene from a 45-degree angle, establishing a warm, energetic, and casual mood without any ambient fill. This highly directional hard light creates dramatic, high-contrast deep black shadows with harsh, defined edges cast onto the peach wall to the right by both the subject and the architectural window framing. Specular highlights intentionally strike the crisp folds of the black shirt, the edge of his dark hair, the right side of his face, and gleam sharply off the silver watch face. Captured as a realistic digital photograph with a 50mm lens for a deep depth of field and ISO 100, the shot utilizes a fast shutter speed to freeze tack-sharp details from a straight-on perspective without any film grain. Influenced by contemporary street fashion and social media lifestyle photography, the structured composition is finalized with {argument name=\"color grading\" default=\"warm golden color grading\"}, heavily boosted contrast, and intensive sharpening applied to the rustic Mediterranean textures, all flawlessly framed in a 4:5 aspect ratio.",
+    "title": "Mediterranean Street Fashion Portrait",
+    "description": "A high-contrast street fashion shot of a man in an all-black outfit against a sun-weathered Mediterranean wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494603969_61vrw2_HMOVGb7WQAA_gr-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27854,
+    "content": "A cinematic, high-fidelity portrait of a {argument name=\"subject\" default=\"young woman\"} standing perfectly still on a {argument name=\"location\" default=\"subway platform\"} as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression.",
+    "title": "Subway Platform Cinematic Portrait",
+    "description": "A high-fidelity portrait prompt featuring a young woman standing on a subway platform with the motion blur of a rushing train behind her.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494606753_1pdnfv_HMolPHBWIAAYG0t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27848,
+    "content": "cinematic, wide-angle portrait of her sitting in a {argument name=\"setting\" default=\"wildflower field\"} during the day. She leans slightly forward, extending one arm to hold a {argument name=\"flower type\" default=\"daisy\"} toward the camera, gently blurring the flower in the foreground. Her expression is soft and charming, with messy hair adding to his relaxed, effortless look. She wears a {argument name=\"outfit\" default=\"sky-blue sweater adorned with white cloud patterns\"} and light-wash denim jeans. The field around him is bursting with yellow wildflowers and daisies, set beneath a dramatic, partly cloudy sky. The lighting is natural and soft, with a warm, vibrant color grade and a hint of vintage film tones, enhancing the nostalgic, dreamy atmosphere. The shallow depth of field and editorial-style composition evoke a timeless, cinematic mood.",
+    "title": "Cinematic Wildflower Field Portrait",
+    "description": "A dreamy, filmic portrait of a person in a wildflower field holding a daisy, featuring vintage film tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494602778_5sztlw_HMofXo-bwAABuly.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27860,
+    "content": "feminine young woman, {argument name=\"hair style\" default=\"messy blonde\"} hair, {argument name=\"clothing\" default=\"babypink tank top\"}.",
+    "title": "Young Woman in Pink Tank Top",
+    "description": "A realistic prompt for generating a portrait of a young woman with a messy blonde hairstyle and casual summer attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494610554_8jvtbj_HMmcXpDbgAEWue-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27858,
+    "content": "Young woman with long dark hair, taking a mirror selfie in a cozy bedroom. Wearing a cute casual loungewear set: {argument name=\"top print\" default=\"white oversized t-shirt with big yellow Tweety Bird cartoon print\"}, and matching {argument name=\"pants style\" default=\"bright yellow pajama pants with all-over Tweety Bird faces print\"}. Barefoot, relaxed pose, one hand waving.",
+    "title": "Character Loungewear Mirror Selfie",
+    "description": "A casual and cozy mirror selfie prompt for a woman wearing character-themed loungewear in a bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494609234_tnbp3m_HMmRZxSXQAAKwy9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27742,
     "content": "A cute minimalist portrait of a {argument name=\"subject\" default=\"young woman\"} sitting casually on the floor in a clean studio setting with a light grey background. She wears an {argument name=\"outfit\" default=\"oversized dark charcoal hoodie, cream straight-leg pants, white socks, and chunky white sneakers\"}. Relaxed seated pose with crossed legs, one eye slightly closed in a playful wink and a soft smile. Behind her, a large {argument name=\"character style\" default=\"black-and-white doodle character\"} hugs her from behind, wrapping its cartoon arms around her shoulders and gently squeezing her cheek.The doodle figure has a simple round head, tiny eyes, and a hand-drawn sketch style. Soft studio lighting, modern aesthetic, playful and wholesome mood, minimalist composition, high-quality fashion portrait, realistic photography, subtle shadows, ultra-detailed, clean background, candid expression.",
     "title": "Minimalist Fashion Portrait with Doodle",

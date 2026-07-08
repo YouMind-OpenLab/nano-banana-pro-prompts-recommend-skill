@@ -1,5 +1,38 @@
 [
   {
+    "id": 27862,
+    "content": "8-panel manga\nA retro game called 'The World'\n\n{argument name=\"dialogue\" default=\"Yikes! This is a total ultra-super-special crap game!\"} I pressed the reset button.",
+    "title": "8-Panel Retro Game Manga",
+    "description": "A creative 8-panel manga concept depicting the world as a frustrating retro game where the protagonist decides to hit the reset button.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494611404_r7geul_HMp4TwbasAA59_r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27863,
+    "content": "{argument name=\"scene\" default=\"In the middle of a scramble with older women for discounted side dishes at a supermarket\"}",
+    "title": "Supermarket Discount War",
+    "description": "A chaotic and humorous scene depicting elderly women fighting over discounted items in a supermarket.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494612299_qwhlrq_HMnvinzbwAAfHzH.jpg",
+      "https://cms-assets.youmind.com/media/1783494612179_wdzuo0_HMnu6webEAAUuc2.jpg",
+      "https://cms-assets.youmind.com/media/1783494612161_zm6rta_HMnu9_PbAAAPmn-.jpg",
+      "https://cms-assets.youmind.com/media/1783494613265_sanvpu_HMnvA9AaIAAhFfo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27850,
+    "content": "Use the uploaded person image as the ONLY strict identity reference. Preserve the exact facial features, face shape, eyes, eyebrows, nose, lips, skin texture, age, hair color, hairstyle and overall identity with maximum resemblance. The woman must be instantly recognizable as the reference image. Do not beautify, retouch or alter facial proportions in any way.\nCreate a cinematic vertical triptych of the reference woman during a {argument name=\"weather\" default=\"heavy rainy night\"} in an {argument name=\"location\" default=\"empty city\"}.\nTop panel: Extreme close-up portrait through a rain-covered window. Wet hair sticks to her face. She looks slightly away from the camera with a distant, melancholic expression. Cold cyan and teal neon lights illuminate her face. Large neon bokeh glows behind her.\nMiddle panel: The woman lies on rain-soaked asphalt. Camera at ground level beside her face. Wet pavement creates a mirror-like reflection. Rain falls continuously, creating ripples and splashes around her. Her soaked hair spreads across the street.\nBottom panel: The woman stands alone in the middle of an empty city street under heavy rain. {argument name=\"clothing\" default=\"Black clothing\"} completely soaked and clinging to her body. She looks directly toward the camera with a calm but emotionally exhausted expression. The city behind her fades into blue neon haze and reflections.\nColor palette: deep cyan blue, teal neon, turquoise reflections, dark navy shadows, wet black asphalt, cool white highlights. Minimal warm colors.\nAtmosphere: heavy rain, wet skin, rain droplets on lens, atmospheric haze, reflective streets, cinematic loneliness, emotional noir.\nInspired by Blade Runner 2049, The Batman, Korean noir cinema, Wong Kar-wai night scenes.\nUltra-realistic photography, photorealistic skin texture, realistic rain simulation, shallow depth of field, cinematic bokeh, subtle film grain, anamorphic lens characteristics, masterpiece cinematic storytelling, vertical composition 9:16.\nAdditional Banana Pro emphasis:\nVERTICAL TRIPTYCH COMPOSITION, HEAVY RAIN, WET HAIR AND SKIN, CYAN TEAL NEON, REFLECTIVE WET ASPHALT, EMOTIONAL NOIR, FEMININE GRACE, MELANCHOLIC EXPRESSION, SOAKED BLACK CLOTHING, CINEMATIC RAIN EFFECTS, LATE-NIGHT LONELINESS.\ntext, watermark, logo, extra people, beauty filter, CGI look, cartoon, illustration, plastic skin, distorted anatomy, dry hair, warm color grading, bright lighting, altered identity, masculine features.",
+    "title": "Cinematic Rainy Night Noir Triptych",
+    "description": "A triptych layout prompt for Nano Banana Pro featuring a woman in a melancholic rainy city scene with cyan and teal neon lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494604262_liadx2_HMnJe89a8AAR5PM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27737,
     "content": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
     "title": "Dieselpunk Mech Action Scene",

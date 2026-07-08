@@ -1,5 +1,15 @@
 [
   {
+    "id": 27853,
+    "content": "{argument name=\"subject\" default=\"office coffee machine\"} as a {argument name=\"theme\" default=\"sci-fi boss battle\"}, cinematic sparks, exaggerated scale, punchy caption space, 16:9",
+    "title": "Sci-Fi Coffee Machine Boss Battle",
+    "description": "A humorous meme-style prompt reimagining an office coffee machine as a large-scale science fiction boss encounter.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783494606284_z6704d_HMoGfz7XwAA46Vy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27737,
     "content": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
     "title": "Dieselpunk Mech Action Scene",
