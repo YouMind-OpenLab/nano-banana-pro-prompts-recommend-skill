@@ -10,6 +10,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 27971,
+    "content": "{argument name=\"hairstyle\" default=\"bald head\"} in a {argument name=\"outfit\" default=\"bathrobe\"}",
+    "title": "Bald Character in Bathrobe Portrait",
+    "description": "A minimalist prompt for generating a character with a bald head wearing a bathrobe using the Nano Banana 2 model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582321012_va5162_HLv31OLaYAApeSL.jpg",
+      "https://cms-assets.youmind.com/media/1783582321043_ug29k9_HLv31OOboAABuYV.jpg",
+      "https://cms-assets.youmind.com/media/1783582321043_k392w6_HLv31OMbIAA9bUd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27968,
+    "content": "A young adult male stands centrally positioned with relaxed shoulders and a 45-degree turn, his closed neutral mouth and relaxed eyebrows forming a serious, candidly contemplative expression. His dark, short-to-medium messy textured haircut and stubble beard contrast sharply against his solid {argument name=\"clothing\" default=\"black crewneck t-shirt\"}. His eyes gaze thoughtfully off-camera to the left. In the lower foreground, his right hand rests casually, only partially in frame, its fingers gently curled inward towards the palm holding an organic, gentle tension, featuring a prominent metal ring on the pinky finger. At his feet in the bottom left foreground, uneven, jagged coastal stones and sparse tufts of dark weathered grass ground the scene. The deep spatial depth reveals a vast midground of {argument name=\"background scene\" default=\"ocean water\"} characterized by rippled surface textures reflecting light and visible horizontal bands of current, where a distant silhouette of a small boat floats to the left. In the deep background, silhouetted rolling landmasses stretch across the top horizon line, creating a vast, isolated natural expanse. A highly directional, hard natural light from a single source hits from a 45-degree side angle, casting bright, preserved highlights on his face and light gray textures across the water, contrasted by deep black, short shadows with harsh defined edges falling on the left side of his face from the viewer's perspective, under his chin, and into the deep folds of his shirt. The high-contrast monochromatic palette of deep blacks, mid-grays, and light grays enforces a serene yet emotionally intense atmosphere of quiet reflection, entirely devoid of ambient fill light. This cinematic, documentary-style portrait is captured with a straight-on perspective using digital photography, simulating a 35mm lens shot at ISO 400 with a fast 1/500s shutter speed to freeze the water ripples and a deep aperture to keep the sweeping background recognizable. The tack-sharp realistic image is finalized with an intense S-curve black and white conversion, crushed blacks, slight dodging on facial highlights, and organic film grain to enhance textural depth, all elegantly framed in a {argument name=\"aspect ratio\" default=\"4:5\"} aspect ratio.",
+    "title": "Cinematic B&W Coastal Male Portrait",
+    "description": "A detailed prompt for a high-contrast, documentary-style black and white portrait of a man in a thoughtful pose against a vast coastal background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582319958_rmjocl_HMOVMfLXkAAnu7v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27964,
+    "content": "A confident young woman in her late 20s standing full-body in a modern professional {argument name=\"location\" default=\"office\"}, photorealistic, highly detailed. She has fair skin, striking {argument name=\"eye color\" default=\"green\"} eyes, and {argument name=\"hair color\" default=\"dark brown\"} hair styled in a stylish messy updo bun with soft loose strands framing her face. She is smiling subtly with a friendly, professional expression. She is wearing a tailored cream-colored blazer over a sage green satin button-up shirt, grey high-waisted tailored trousers with a slim fit, a black leather belt with a silver buckle, and black leather loafers. She carries a brown leather shoulder bag over her left shoulder and holds a tablet (iPad) and some documents/folders in her right hand. She wears a silver watch on her left wrist. The background features a contemporary office interior with warm wood-paneled walls, polished light wood flooring, recessed ceiling lights, potted green plants, a large monitor displaying business charts and graphs, and modern bookshelves. Soft natural and artificial lighting creates a clean, professional atmosphere. Sharp focus, cinematic composition, 8k photorealistic quality.",
+    "title": "Professional Office Woman Portrait",
+    "description": "A prompt for a sharp, professional photo of a young woman in a modern office environment, including specific details on clothing and background elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582318325_krs3p3_HMrn7yqbAAANf9v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27849,
     "content": "A young male adult stands centered in the frame, exuding a serious, confident, and slightly guarded demeanor. He features short, dark hair, a neatly groomed beard, and is dressed entirely in an {argument name=\"outfit color\" default=\"all-black\"} outfit consisting of a long-sleeve button-down shirt with rolled cuffs and tailored trousers. His face is framed by dark sunglasses that obscure his direct gaze, complemented by a closed, neutral mouth and relaxed eyebrows. He leans comfortably back against a wall, his body facing the camera while slightly turned to the left with relaxed shoulders. Both hands are deliberately posed, resting casually inside his front trouser pockets; his right hand is tucked deeply, while his left wrist reveals a metallic silver watch with a white face catching the light. The spatial depth is shallow, locking focus on the subject's interaction with the outdoor architectural elements. Flanking him symmetrically in the midground are pristine dark brown window frames, with the left window featuring multiple reflective panes and bordered by a thriving climbing plant displaying dense dark green foliage. In the bottom left foreground sits a small, weathered terracotta pot with a curved rim. Behind him is an {argument name=\"wall surface\" default=\"aged plaster and stucco wall\"} featuring a rough, matte finish painted in warm beige with subtle peach undertones, showing patchy, weathered color variations and uneven application from prolonged sun exposure. Beneath him rests a solid, light gray stone floor. A bright, golden, single-source natural sunlight washes over the scene from a 45-degree angle, establishing a warm, energetic, and casual mood without any ambient fill. This highly directional hard light creates dramatic, high-contrast deep black shadows with harsh, defined edges cast onto the peach wall to the right by both the subject and the architectural window framing. Specular highlights intentionally strike the crisp folds of the black shirt, the edge of his dark hair, the right side of his face, and gleam sharply off the silver watch face. Captured as a realistic digital photograph with a 50mm lens for a deep depth of field and ISO 100, the shot utilizes a fast shutter speed to freeze tack-sharp details from a straight-on perspective without any film grain. Influenced by contemporary street fashion and social media lifestyle photography, the structured composition is finalized with {argument name=\"color grading\" default=\"warm golden color grading\"}, heavily boosted contrast, and intensive sharpening applied to the rustic Mediterranean textures, all flawlessly framed in a 4:5 aspect ratio.",
     "title": "Mediterranean Street Fashion Portrait",
@@ -850,6 +882,16 @@
       "https://cms-assets.youmind.com/media/1781598282207_el5taw_HK3bnFZbgAANAub.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 27969,
+    "content": "Use the given face reference with {argument name=\"facial accuracy\" default=\"100%\"} facial accuracy, preserving the exact facial structure, skin tone, eyes, nose, lips, smile, and natural features. Ultra-realistic {argument name=\"shot type\" default=\"close-up side-face portrait\"} of a {argument name=\"subject\" default=\"beautiful young woman\"} wearing a",
+    "title": "High Fidelity Face Reference Portrait",
+    "description": "A high-precision prompt designed to maintain 100% facial accuracy from a reference image, focusing on preserving structural details and natural features in a realistic portrait style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582320219_58xoqa_HK3LMwWb0AAZch3.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25754,

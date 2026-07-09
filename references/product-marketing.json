@@ -21,6 +21,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 27974,
+    "content": "A high fashion magazine pictorial of an {argument name=\"subject\" default=\"Alpine-looking woman in her early 20s\"} who {argument name=\"pose\" default=\"stands still, looking at the camera, turning her head in the center\"}, {argument name=\"background\" default=\"surrounded by a blurry silhouette of people passing\"}",
+    "title": "Alpine Woman Fashion Pictorial",
+    "description": "A prompt for generating a high-fashion magazine style portrait of a woman in an Alpine setting with a blurred background of passing silhouettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582322610_nfi3gm_HAxCVKCaAAE3r_e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27967,
+    "content": "Ultra-realistic lifestyle portrait of a beautiful woman standing in a luxurious outdoor café during golden hour, wearing a shimmering {argument name=\"top color\" default=\"mint-green\"} sleeveless knit top, elegant white high-waisted trousers, gold hoop earrings, bracelets and rings. She is holding a crystal {argument name=\"drink type\" default=\"whiskey\"} glass very close to the camera, creating a dramatic forced-perspective composition. The glass contains an amber-colored sparkling drink with large ice cubes, fresh {argument name=\"fruit slices\" default=\"peach\"} slices, mint leaves, and an explosive splash frozen mid-air. Floating peach slices, mint leaves, and droplets suspended around the glass. The woman's face remains perfectly sharp behind the drink with a confident, soft expression, cinematic warm lighting, creamy bokeh, lush green plants in the background, shallow depth of field, premium luxury aesthetic, editorial beverage photography, ultra-detailed glass reflections, HDR, photorealistic, 85mm lens, f/1.8, natural skin texture, 8K, masterpiece, commercial advertising quality.",
+    "title": "Luxury Beverage Portrait with Frozen Splash",
+    "description": "A professional beverage photography prompt for a luxury lifestyle scene featuring a frozen-action splash in a crystal glass held by a woman during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582319726_5qtcx7_HMsqc1VbUAA4kyf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27964,
+    "content": "A confident young woman in her late 20s standing full-body in a modern professional {argument name=\"location\" default=\"office\"}, photorealistic, highly detailed. She has fair skin, striking {argument name=\"eye color\" default=\"green\"} eyes, and {argument name=\"hair color\" default=\"dark brown\"} hair styled in a stylish messy updo bun with soft loose strands framing her face. She is smiling subtly with a friendly, professional expression. She is wearing a tailored cream-colored blazer over a sage green satin button-up shirt, grey high-waisted tailored trousers with a slim fit, a black leather belt with a silver buckle, and black leather loafers. She carries a brown leather shoulder bag over her left shoulder and holds a tablet (iPad) and some documents/folders in her right hand. She wears a silver watch on her left wrist. The background features a contemporary office interior with warm wood-paneled walls, polished light wood flooring, recessed ceiling lights, potted green plants, a large monitor displaying business charts and graphs, and modern bookshelves. Soft natural and artificial lighting creates a clean, professional atmosphere. Sharp focus, cinematic composition, 8k photorealistic quality.",
+    "title": "Professional Office Woman Portrait",
+    "description": "A prompt for a sharp, professional photo of a young woman in a modern office environment, including specific details on clothing and background elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582318325_krs3p3_HMrn7yqbAAANf9v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27856,
     "content": "A high-fidelity medium shot of a stylish, well-groomed man with messy dark hair and well groomed beard sitting at an outdoor Parisian-style café. The man is wearing a sharp, tailored {argument name=\"jacket style\" default=\"black blazer\"} over a matte black t-shirt and classic dark wayfarer sunglasses. He sits with his legs crossed, holding an open copy of {argument name=\"newspaper\" default=\"*The New York Times*\"} newspaper, while his head is turned sharply to the right in profile, looking away from the camera. A luxury silver watch with a black leather strap is visible on his left wrist. He is seated on a classic woven rattan café chair with a black and cream checkerboard pattern. In the foreground, a round black café table with a polished gold metal rim holds a {argument name=\"drink type\" default=\"white ceramic cup containing a latte with heart-shaped latte art\"}, a faceted glass of water, a leather-bound menu sheet, and a second pair of round black sunglasses resting flat. The background features a large, dark-framed multi-pane glass window reflecting warm interior tones, set against a clean, off-white stucco building wall with structured horizontal masonry lines. The lighting is soft, diffused natural daylight coming from the front-left, casting gentle contours on his jawline and clothing folds, creating a sophisticated, high-end lifestyle editorial atmosphere with a shallow depth of field.",
     "title": "Parisian Cafe Editorial Portrait",

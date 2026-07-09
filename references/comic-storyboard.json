@@ -1,5 +1,36 @@
 [
   {
+    "id": 27963,
+    "content": "A vertical triptych collage of three amateur phone shots featuring a subject in a {argument name=\"setting\" default=\"dark forest\"} at {argument name=\"lighting\" default=\"sunset\"}. \n\n***IDENTITY INSTRUCTION: Completely copy the facial appearance, bone structure, hair, and unique features (piercings, tattoos, moles) from the user's uploaded reference photo. Map the user's face onto the subject in these poses exactly.\n\nSHOT 1 (Top): Medium shot, slightly tilted angle. Subject stands among dark trees wearing {argument name=\"clothing\" default=\"casual everyday clothes\"} (random selection matching subject's gender - hoodie, jacket, shirt, etc.). Off-center composition, looking sideways. Warm red-orange sunset light filters through trees, hitting one side of face and neck. Shadows are deep and crushed.\n\nSHOT 2 (Middle): Extreme macro close-up of eye. SHARP FOCUS on iris - high detail, visible iris patterns and texture. Red sunset glow reflects in the eye. Natural eyelash clustering, visible skin pores around eye. Slight phone camera noise.\n\nSHOT 3 (Bottom): Low-angle close-up, head tilted back. Face turned upward. Warm sunset light illuminates jaw, neck, nose profile. Expression of calm or exhaustion. Dark blurred forest background.\n\nTECHNICAL & ATMOSPHERE:\n- Camera: Smartphone camera (iPhone/Android), not professional.\n- Quality: Slightly degraded, phone sensor noise, minor compression artifacts, subtle blur in parts.\n- Composition: Tilted horizon, asymmetrical framing, imperfect crop - looks candid/amateur.\n- Color: Natural sunset red-orange tones, not artificial lighting. Deep shadows, warm highlights.\n- Texture: Visible digital noise, slight motion blur, lens imperfections typical of phone cameras.\n\nSKIN PARAMETERS:\n- Hyper-realistic skin with visible pores, micro-creases, peach-fuzz hairs catching sunset light, natural skin sheen, subtle warm/reddish cast from sunset, soft lip texture, natural eyelash clustering.\n- Skin must look fresh and young but NOT airbrushed - keep all natural imperfections.\n\nDETAILS:\n- Nose shape visible in sunset light.\n- Clothing is casual, random, gender-appropriate.\n- Background: dark forest trees, out of focus, moody atmosphere.\n- Overall vibe: raw, candid, imperfect phone photography from golden hour.",
+    "title": "Candid Phone Photography Triptych",
+    "description": "A detailed prompt for creating a realistic vertical triptych of phone-style photos in a forest setting, featuring identity preservation from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582317923_lggykq_HMuRlkPXsAAptRs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27965,
+    "content": "Use the uploaded photo as the exact identity reference. Keep the same person, same face, same facial features, same proportions, skin tone, and natural expression — do not alter identity. Preserve the subject's actual gender presentation, body type, and outfit from the reference photo unless otherwise specified. Create a photorealistic cinematic {argument name=\"composition\" default=\"triptych\"} portrait (three-frame composition in one image). Scene: {argument name=\"scene\" default=\"Night city, bridge over a busy road, moving cars, glowing street lights, evening sky, city skyline in the background\"}. Atmosphere: {argument name=\"mood\" default=\"freedom, motion, youth, urban romance, feeling of wind and road\"}. Frame 1 (top) — Wide cinematic shot: The person standing on a bridge above a busy road, slight motion blur from head/body movement, city lights and cars below, strong urban night mood. Frame 2 (middle) — Medium shot: Person leaning on the bridge railing, looking up at the sky, relaxed and confident pose, cars and headlights glowing behind them. Frame 3 (bottom) — Close-up emotional portrait: Wind in hair, city lights in bokeh behind, thoughtful and dreamy expression. Style: Real photography, cinematic lifestyle portrait, urban fashion photography. Lighting: Natural city night lighting, street lamps, car headlights, soft glow on skin. Camera: Full-frame DSLR, 85mm lens look, shallow depth of field. Color grading: Warm city lights mixed with cool blue night tones, film-style mood. Outfit: Preserve exact outfit from the reference photo — do not change clothing, accessories, or styling. Quality constraints: Ultra photorealistic, natural skin texture, real candid moment. No illustration, no CGI, no plastic skin, no text, no logos, no watermark.",
+    "title": "Cinematic Urban Night Triptych",
+    "description": "A character-consistent prompt for creating a three-frame cinematic portrait of a person in an urban night setting, utilizing a reference photo for identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582318848_7xyrb3_HMtnboeWUAAKUhj.jpg",
+      "https://cms-assets.youmind.com/media/1783582318832_4n8ma6_HMtnbocWQAAypmU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27973,
+    "content": "{argument name=\"format\" default=\"4-panel manga\"}\n{argument name=\"theme\" default=\"vision test using symbols\"}\n\nEye exam using {argument name=\"brand name\" default=\"Chanel\"}'s Azura Azura!",
+    "title": "4-Panel Manga Vision Test",
+    "description": "A prompt for generating a surreal 4-panel manga featuring an eye exam using brand symbols, created with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783582322183_eje9xn_HMrB4Y5aUAAqcuC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27862,
     "content": "8-panel manga\nA retro game called 'The World'\n\n{argument name=\"dialogue\" default=\"Yikes! This is a total ultra-super-special crap game!\"} I pressed the reset button.",
     "title": "8-Panel Retro Game Manga",
