@@ -20,6 +20,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 28090,
+    "content": "A stunning cinematic black and white portrait of a {argument name=\"subject\" default=\"young male figure\"} standing alone in {argument name=\"weather\" default=\"heavy rain\"} at night, shown in three-quarter profile with head bowed slightly downward and gaze directed downward — expression heavy, melancholic, and deeply introspective, conveying quiet grief or solitary burden. He wears a {argument name=\"clothing\" default=\"dark leather jacket\"} with a high structured collar turned up slightly at the neck, layered over a dark turtleneck or base layer — the jacket surface catching rain droplets and glistening with wet leather texture. His dark curly-wavy hair is soaking wet, matted and sculpted by the rain against his forehead and temples. The rain falls heavily and dramatically throughout the entire frame — individual rain streaks rendered sharp and bright against the near-black background, falling at a very slight diagonal angle, some streaks motion-blurred into bright vertical lines while others are frozen as individual droplets. The rain is the dominant visual texture of the entire image — filling every inch of the dark background with bright falling streaks creating an almost graphic, painterly quality. The lighting is a single cold directional light from the upper left — catching the top of his wet hair, the left side of his forehead, the ridge of his nose, and the edge of his jaw and collar in bright silver-white highlights, while the right side of his face and body fall into deep black shadow. The overall black and white treatment is high contrast and graphic — deep rich blacks, bright silver highlights, no mid-grey — creating a Sin City or graphic novel aesthetic. Color palette: pure black and white, no color — deep black, bright silver-white rain streaks, grey skin tones. Photography style: cinematic high-contrast black and white, graphic noir rain portrait, 85mm lens, shallow depth of field, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, profile shape, nose, jawline, and skin tone should be taken entirely from the reference photo. Apply only the high-contrast black and white treatment, heavy rain, bowed melancholic expression, and cold directional lighting on top of the reference face.",
+    "title": "Cinematic B&W Noir Rain Portrait",
+    "description": "A high-contrast graphic noir portrait of a figure in heavy rain, based on a face reference for character consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783668712374_6puxry_HMyGol6bMAAzuPF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28082,
+    "content": "A woman in a {argument name=\"gown color\" default=\"flowing, light blue\"}, beaded Art Deco gown stands against a {argument name=\"background\" default=\"black background\"}. She holds a red, oval object in her hands. Behind her, a large, stylized {argument name=\"creature\" default=\"phoenix with golden and brown wings\"} and tail feathers is depicted. The phoenix's head is turned towards the woman, and its beak is open. The overall style is reminiscent of Art Nouveau or Art Deco illustrations, with intricate details and a sense of elegance.",
+    "title": "Art Deco Woman and Phoenix",
+    "description": "An elegant Art Nouveau/Art Deco illustration prompt featuring a woman in a beaded gown with a stylized phoenix.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783668708148_vznnp0_HMLE2EsWgAApEY0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28088,
+    "content": "An ultra-realistic cinematic beauty portrait of a {argument name=\"subject\" default=\"young woman\"} use image for face reference with {argument name=\"hair style\" default=\"long, wavy ash-blonde hair\"} parted in the center, {argument name=\"eye color\" default=\"striking hazel-green eyes\"}, thick natural eyebrows, flawless skin, and a calm, confident expression. Dramatic Rembrandt-inspired lighting with a narrow horizontal beam of warm golden light illuminating only the eyes and upper face, while the rest of the face fades into deep shadows. Rich amber-orange gradient background with soft studio falloff. Editorial fashion photography, luxury beauty campaign, ultra-detailed skin texture, subtle makeup, shallow depth of field, 85mm lens, f/1.4, HDR, soft volumetric lighting, photorealistic, high contrast, warm color grading, premium magazine cover quality, 8K, masterpiece. 3 :4 size.",
+    "title": "Cinematic Rembrandt Beauty Portrait",
+    "description": "A luxury fashion photography prompt featuring dramatic Rembrandt-inspired lighting and high-contrast amber gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783668711697_c7rpea_HMxb3VabUAAW8io.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28089,
+    "content": "A candid, relaxed profile portrait of a {argument name=\"subject\" default=\"young adult male\"} seated and leaning slightly left, positioned on the right side of the frame. He has {argument name=\"hair style\" default=\"dark brown hair styled with a matte finish\"} and organic volume, featuring tapered sides and a naturally wavy, curly top complete with natural imperfections, uneven sections, and a slight frizz that deliberately avoids an overly smoothed appearance. He wears a {argument name=\"clothing\" default=\"navy black short-sleeved button-down shirt\"} and off-white trousers. His calm, unsmiling face displays a neutral, authentic expression as his relaxed eyes gaze off to the left. His right hand is raised casually to his collarbone, fingers gently curled inward to lightly touch his neck while revealing a silver watch on his wrist, and his left hand rests organically on the edge of a matte black round table with the index finger slightly extended. The foreground table holds a pristine leather-bound menu, a small round container, and a blue smartphone case, set alongside the worn rattan and wicker texture of his woven chair with a light cushion, all resting on striped light gray and brown wooden floor planks. This deep outdoor seaside lounge setting extends into a midground featuring a blurred but identifiable expanse of ocean water speckled with small anchored watercraft and golden reflections. In the deep background, a weathered, dark island silhouette cuts into the horizon. The atmosphere is bathed in a calm, sophisticated golden hour glow, heavily backlit by a highly directional setting sun that blows out the solar disc and paints the clear open sky in a smooth gradient from sunset orange at the horizon to warm gray-blue at the top. The hard sunlight creates a luminous rim light along the back of the subject's neck and textured hair, casting bright specular highlights across the ocean surface and the silver watch, while ambient fill light provides soft, diffused gray shadows on the front of his face and deep black shadows within the folds of his clothing and under the table. Captured as a tack-sharp digital photograph with a medium depth of field that isolates the subject against the beautiful bokeh background, the image is shot straight on with an aperture of f/2.8, a shutter speed of 1/250s, and ISO 100 to freeze the moment with minimal digital noise. The post-processing features a cinematic color grade that enhances the complementary warm orange and cool blue tones, applying high contrast to establish the harsh defined edges of the distant island silhouette while slightly lifting the shadow exposure on the subject's face to preserve delicate details, all masterfully framed in a 9:16 aspect ratio.",
+    "title": "Golden Hour Candid Male Portrait",
+    "description": "A detailed cinematic profile portrait of a male subject in an outdoor seaside setting during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783668712088_gh8d53_HMOVgqOXsAEn9YK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28087,
+    "content": "ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} with {argument name=\"hair style\" default=\"long straight dark hair\"}, messy strands falling across her face, soft pale skin, full natural lips, deep dark eyes, subtle eyeliner, moody intimate expression, head slightly tilted, one arm raised beside her face, cinematic low-key studio lighting, dramatic shadows across the face, {argument name=\"background color\" default=\"black background\"}, glossy hair texture, minimal makeup, emotional editorial beauty photography, soft skin details, sharp focus on eyes and lips, high contrast, dark aesthetic, luxury fashion magazine portrait, 85mm lens, shallow depth of field, photorealistic, ultra detailed, masterpiece.",
+    "title": "Moody Editorial Beauty Portrait",
+    "description": "A cinematic, low-key close-up portrait of a woman with dramatic lighting and high contrast editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783668711332_n16a2s_HMxBLPBaMAAdj_t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27857,
     "content": "Logo for '{argument name=\"country and tagline\" default=\"Living in Country: Tagline\"}' set against a backdrop of {argument name=\"landscape\" default=\"specific landscape or cityscape\"}. Utilize the {argument name=\"flag colors\" default=\"colors of the country's flag\"} and include imagery that represents [the country’s renowned aspects – cultural, culinary, natural, etc.], [desired style or mood]",
     "title": "National Identity Logo Generator",
