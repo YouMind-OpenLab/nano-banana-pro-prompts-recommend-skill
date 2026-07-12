@@ -21,6 +21,80 @@
     "needReferenceImages": true
   },
   {
+    "id": 28216,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"identity\": \"{argument name=\"subject name\" default=\"Madison Beer\"}\",\n      \"appearance\": {\n        \"hair\": \"Medium-length dark hair secured with a silver hair clip on the left side, naturally falling with a few loose strands framing her face.\",\n        \"expression\": \"Looking downward with a subtly shy, soft, and gentle expression.\",\n        \"accessories\": [\n          \"Silver earrings on the left ear, including a hoop earring\",\n          \"Silver hair clip\"\n        ]\n      }\n    },\n    \"outfit\": {\n      \"top\": \"White short-sleeve button-up shirt featuring a heart-shaped chest cutout. The shirt is slightly cropped, revealing the midriff and navel.\",\n      \"bottom\": \"Navy blue and white plaid pleated mini skirt.\",\n      \"belt\": \"Black leather belt with metal eyelets, a decorative silver floral-emblem buckle, and a long hanging strap.\"\n    },\n    \"pose\": {\n      \"body\": \"Standing facing forward with a relaxed posture.\",\n      \"head\": \"Slightly tilted downward, gaze directed down and slightly to the side.\",\n      \"right_hand\": \"Raised gently, fingers lightly touching her hair near the temple.\",\n      \"left_hand\": \"Resting naturally against her thigh.\",\n      \"legs\": \"Slightly apart, visible from the upper thighs downward.\",\n      \"overall_feeling\": \"A candid, spontaneous moment conveying quiet shyness.\"\n    },\n    \"environment\": {\n      \"location\": \"Minimalist photography studio.\",\n      \"background\": \"Clean seamless light lavender/pastel purple backdrop that isolates the subject.\"\n    },\n    \"lighting\": {\n      \"type\": \"Soft professional studio lighting.\",\n      \"description\": \"Evenly balanced illumination that gently defines facial features while revealing the texture of the clothing with natural contrast and controlled highlights.\"\n    },\n    \"composition\": {\n      \"framing\": \"Medium shot, framed from the knees to the top of the head.\",\n      \"camera_angle\": \"Eye-level.\",\n      \"focus\": \"Eyes in perfect focus with consistent sharpness across the subject.\"\n    },\n    \"mood\": {\n      \"atmosphere\": \"Casual, intimate, aesthetically harmonious, and subtly alternative.\",\n      \"emotion\": \"Quiet confidence mixed with gentle shyness.\"\n    },\n    \"technical\": {\n      \"camera\": {\n        \"lens\": \"85mm prime lens\",\n        \"aperture\": \"f/4\",\n        \"shutter_speed\": \"1/200s\",\n        \"iso\": \"100\"\n      },\n      \"style\": \"High-fidelity studio portrait photography with realistic color reproduction and balanced dynamic range.\",\n      \"quality\": [\n        \"Ultra-high-definition skin and fabric textures\",\n        \"Critical subject sharpness\",\n        \"Controlled depth of field\",\n        \"Clean background separation\",\n        \"Noise-free image\",\n        \"Natural skin rendering\"\n      ],\n      \"aspect_ratio\": \"9:16\"\n    },\n    \"negative_prompt\": [\n      \"low resolution\",\n      \"blur\",\n      \"motion blur\",\n      \"noise\",\n      \"overexposure\"\n    ]\n  }\n}",
+    "title": "Shy Studio Fashion Portrait",
+    "description": "A comprehensive JSON-structured prompt for a high-fidelity studio portrait focusing on delicate expressions and specific fashion details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753516253_78wx3f_HM4vPM3WsAEeAKP.jpg",
+      "https://cms-assets.youmind.com/media/1783753516277_k7lk4o_HM4vPOpWgAASOck.jpg",
+      "https://cms-assets.youmind.com/media/1783753516213_8ekq4q_HM4vPO-XMAA7GBA.jpg",
+      "https://cms-assets.youmind.com/media/1783753518061_o126rc_HM4vPQSW8AAt5Nq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28204,
+    "content": "A colossal {argument name=\"product\" default=\"luxury sneaker\"} naturally integrated into {argument name=\"location\" default=\"a busy city square\"}, hovering low above the ground/water with realistic scale, accurate perspective, soft contact shadows, reflected light, environmental reflections on the product surface, people and vehicles reacting below, cinematic advertising composition, hyper-realistic photography, ultra-detailed materials, dramatic lighting, vibrant color grading, high-resolution commercial render.",
+    "title": "Colossal Product Advertising Visual",
+    "description": "A commercial advertising prompt for integrating products into real-world environments with massive scale and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753510504_aot4ui_HM4osjaXsAA9rmo.jpg",
+      "https://cms-assets.youmind.com/media/1783753510627_j5oo4p_HM4oszUWgAAZuc5.jpg",
+      "https://cms-assets.youmind.com/media/1783753510521_r93qij_HM4otEHWYAACGss.jpg",
+      "https://cms-assets.youmind.com/media/1783753511208_a1h26g_HM4otU-X0AARXE9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28211,
+    "content": "A cinematic, high-end editorial portrait series featuring a {argument name=\"subject\" default=\"young man with dark, shoulder-length hair and light stubble\"}, dressed in a {argument name=\"outfit\" default=\"sharp black button-down shirt\"}. The images capture a range of contemplative moods and professional poses, set against a {argument name=\"background\" default=\"stark, solid black background\"} that emphasizes the dramatic lighting and refined aesthetic. The composition utilizes intimate, tight framing to focus on the subject's expressive features, incorporating varied hand gestures—such as resting under the chin, touching the temple in a thoughtful pose, or adjusting the collar—to create a sophisticated, commercial-ready look perfect for a fashion magazine or brand advertisement.",
+    "title": "Sophisticated Dark Editorial Portrait",
+    "description": "A high-end editorial portrait prompt for creating professional fashion-magazine-style images with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753513116_1ee5fv_HM2kOCNWQAA1qYZ.jpg",
+      "https://cms-assets.youmind.com/media/1783753513108_hbddav_HM2kOFFXwAAnhiW.jpg",
+      "https://cms-assets.youmind.com/media/1783753513112_dzyr0d_HM2kOFFWkAAE3Kc.jpg",
+      "https://cms-assets.youmind.com/media/1783753513742_c9npwf_HM2kOGNXcAAhNhz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28206,
+    "content": "an ultra-realistic luxury lifestyle fashion editorial portrait of a lean athletic {argument name=\"ethnicity\" default=\"Mediterranean man\"} in his 20s, embodying contemporary quiet luxury with a confident, relaxed, sophisticated, and effortless presence. He is casually leaning against a modern waterfront railing on a coastal promenade overlooking a large suspension bridge and metropolitan skyline. His left arm rests naturally on the railing while his right hand is tucked into the pocket of his warm ivory tailored relaxed-fit trousers. His head is turned slightly toward the horizon, looking away from the camera with a calm, self-assured expression. He has an oval face with a defined jawline, light olive skin with a healthy natural glow, and premium editorial skin retouching that preserves realistic pores and texture. His eyebrows are thick and naturally shaped, his lips have a soft matte natural finish, and he is clean-shaven. His medium-length dark chocolate brown hair features naturally defined curls with soft movement and a healthy matte finish. His eyes are partially hidden behind minimal black geometric luxury designer sunglasses with dark polarized lenses and matte acetate frames. He wears a {argument name=\"shirt type\" default=\"tailored black ribbed knit polo shirt\"} made from premium stretch cotton knit, paired with {argument name=\"pants color\" default=\"warm ivory tailored trousers\"}. Complete the look with a stainless steel luxury sports watch and a fine silver chain featuring a minimalist geometric pendant, creating a refined, high-end resort menswear aesthetic. The background showcases a calm deep blue sea, a softly blurred suspension bridge, and a bright blue sky filled with scattered cumulus clouds. Use a shallow depth of field with natural background compression to separate the subject from the environment while maintaining the elegance of the waterfront setting. Light the scene with warm golden hour sunlight coming from camera-right, creating soft cinematic shadows and a subtle warm rim light along the hair and shoulders. Compose the image in a vertical 9:16 portrait orientation with a waist-up crop, using a slightly below eye-level camera angle and a balanced rule-of-thirds composition that leaves elegant negative space for the skyline and sky. Capture the image as if shot on a Sony A1 II with an FE 85mm f/1.4 GM II lens at f/2.0, 1/1600s, ISO 100. Apply luxury travel editorial color grading with warm tones, refined medium-high contrast, soft golden highlights, deep yet detailed shadows, natural premium saturation, high clarity, wide dynamic range, and professional lens correction. Preserve authentic skin texture while delivering commercial-grade luxury beauty retouching. The overall aesthetic should resemble premium campaigns from Brunello Cucinelli, Ralph Lauren Purple Label, Tom Ford, Zegna, Loro Piana, and Vogue Hommes, delivering an aspirational waterfront fashion portrait with cinematic realism, quiet luxury, and commercial-ready 8K quality.",
+    "title": "Luxury Mediterranean Fashion Editorial",
+    "description": "A high-end menswear editorial prompt for creating photorealistic portraits with a quiet luxury aesthetic and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753511887_rwd5po_HM11vPqbMAAQgOF.jpg",
+      "https://cms-assets.youmind.com/media/1783753511915_v1kfn8_HM11wMRbgAAnmI-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28202,
+    "content": "\"Poetic cinematic close-up portrait of a {argument name=\"subject\" default=\"young woman\"} partially obscured by {argument name=\"flower color\" default=\"soft pink\"} blossoms and petals in the foreground.\",\n \"subject_details\": {\n \"appearance\": \"Young woman, expressive green eyes, calm introspective expression, natural beauty\",\n \"skin_texture\": \"Ultra-realistic skin texture\",\n \"apparel\": \"Shimmering {argument name=\"dress color\" default=\"rose-gold\"} high-neck dress that catches warm sunlight\"\n },\"composition_and_framing\": {\n \"framing\": \"Close-up, face in sharp focus through gaps in the flowers\",\n \"foreground\": \"Soft pink blossoms and petals, soft blur\",\n \"background\": \"Deep blue sky, creamy bokeh\",\n \"depth\": \"Shallow depth of field\"\n },\n \"lighting_and_color\": {\n \"lighting_source\": \"Golden-hour lighting\",\n \"effects\": \"Delicate shadows of petals across skin, dress catching sunlight\",\"palette\": \"Pastel pinks, warm peach tones, rose-gold, deep blue\"\n },\n \"atmosphere_and_style\": {\n \"mood\": \"Romantic spring atmosphere, ethereal, poetic\",\n \"style\": \"Editorial fashion photography\",\n \"grading\": \"Cinematic color grading\"\n },\n \"technical_specs\": {\n \"quality\": \"8K resolution, high detail\",\n \"visuals\": \"Ultra-realistic\"\n }",
+    "title": "Ethereal Cinematic Portrait",
+    "description": "A poetic and cinematic close-up portrait of a woman obscured by blossoms, utilizing a detailed structured prompt format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753508780_psl237_HM1uFjBbkAAQ-y_.jpg",
+      "https://cms-assets.youmind.com/media/1783753508673_gkojmn_HM1uFjHbUAApsVq.jpg",
+      "https://cms-assets.youmind.com/media/1783753509052_cz4xbh_HM1uFi5b0AA3x_Y.jpg",
+      "https://cms-assets.youmind.com/media/1783753509634_n46yac_HM1uFi8boAAwjc6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28201,
+    "content": "A fine art black-and-white editorial portrait of a stylish young woman wearing an {argument name=\"blazer style\" default=\"oversized black blazer\"}, {argument name=\"shirt style\" default=\"plain white crew-neck t-shirt\"}, and tailored black trousers. She stands in a relaxed pose with both hands in her pockets, head turned slightly to the side, looking away from the camera with a calm, introspective expression. Her {argument name=\"hair color\" default=\"dark hair\"} is loosely tied in a messy updo with soft wispy bangs framing her face. A large, soft shadow profile is cast on a light gray studio wall behind her, creating a minimalist double-image effect. Soft diffused side lighting, high-end fashion magazine aesthetic, monochrome, subtle skin glow, clean background, cinematic composition, medium shot, negative space, timeless elegance, ultra-realistic, medium-format photography, 85mm lens, f/2.8, high detail, fine art portrait, luxury editorial style.",
+    "title": "Black and White Editorial Portrait",
+    "description": "A sophisticated black-and-white editorial prompt for creating minimalist fashion portraits with a double-image shadow effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753508899_9twbci_HM1oIqya0AAuwXj.jpg",
+      "https://cms-assets.youmind.com/media/1783753508954_soxz9o_HM1oIqoaoAAMbGP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28083,
     "content": "A {argument name=\"subject\" default=\"handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble\"} gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back with a natural side part, displaying subtle texture where individual strands catch the soft ambient light. He is dressed in a sharply tailored dark suit jacket accented by a dark patterned pocket square, layered over a crisp white dress shirt left casually unbuttoned at the collar. Sitting in a relaxed posture, his hands are raised to mid-chest, gently gripping the inner edges of his jacket lapels in a subtle adjustment, revealing the glint of a metallic wristwatch on his left wrist. He is seated in a {argument name=\"setting\" default=\"plush, curved light-colored upholstered armchair pulled up to a smooth, veined white marble table\"} in the immediate foreground, which holds a closed black leather notebook, a pen, a pair of folded dark-rimmed eyeglasses, and the partial view of a glowing ribbed glass table lamp. Behind him in the midground, the textured, arching fronds of a large indoor palm tree frame his head, while other patrons blur slightly into the ambiance, including a man seated to the left and a blonde woman relaxing at a softly lit table to the right. The background extends into a grand, high-ceilinged interior lounge featuring tall, dramatic dark vertical drapery, imposing architectural columns, and a softly illuminated arched glass display case. Rendered entirely in a {argument name=\"style\" default=\"rich black-and-white monochrome palette\"}, the lighting is soft yet directional, carving out precise specular highlights on the man's cheekbones, his watch, and the polished marble surface, while deep, velvety shadows gather in the heavy folds of his suit, the curtain pleats, and the distant recesses of the room to forge a moody, luxurious atmosphere. Captured with a classic 50mm lens for an editorial fashion aesthetic, utilizing a shallow depth of field to isolate the razor-sharp subject against the softly blurred environment, processed with a high-contrast tonal range and subtle photographic film grain, framed in a 4:5 aspect ratio.",
     "title": "Monochrome Luxury Editorial Portrait",

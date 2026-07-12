@@ -10,6 +10,40 @@
     "needReferenceImages": false
   },
   {
+    "id": 28208,
+    "content": "Amateur selfie on an iPhone 16 Pro Max front-facing camera, Pinterest style for an Instagram blog. Vertical photorealistic portrait in the aesthetic of a candid social media snapshot: a {argument name=\"subject\" default=\"young woman\"} lying on her back in a {argument name=\"location\" default=\"thick chamomile field\"}. Shot in a tight medium shot from above, as if taken with a phone camera from an outstretched hand.\n\nLong loose hair spread out over the grass, eyes looking directly into the lens, soft natural makeup, relaxed half-smile. The woman has an even skin tone, soft contouring of the cheekbones, highlighter with a dewy glow on the cheekbones, tip and bridge of the nose. Neatly groomed eyebrows, lush and thick eyelash extensions with a fox-eye effect, plump lips outlined with a light brown pencil blended toward the center with lip gloss.\n\nOne hand is raised to the lips, fingers lightly holding a thin chamomile stem at the mouth; a large white chamomile with a yellow center is located by the temple. Green stems, leaves, and many chamomiles frame the face and shoulders, partially entering the foreground. In the corner of the frame in the foreground, blurred chamomiles add depth to the shot. She is wearing a {argument name=\"outfit\" default=\"romantic black dress\"} with a gathered bodice, delicate ruffles, and a soft neckline. Small shining earrings, a gold bracelet, and a thin chain with a pendant create neat glints.\n\nComposition is intimate, slightly diagonal, shoulders and upper body are visible, the background is completely filled with grass and flowers without empty space. Soft natural daylight from above, gentle shadows, sharp focus on the face and nearby chamomiles, fresh palette of green, white, and warm yellow, airy summer mood, candid editorial, realistic smartphone photography without interface or text.",
+    "title": "Natural Amateur iPhone Selfie Portrait",
+    "description": "A detailed prompt for creating a realistic smartphone selfie of a young woman in a chamomile field, designed for an Instagram aesthetic with soft natural lighting and focus.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753512375_5521i3_HM2BqInaAAAcTbb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28202,
+    "content": "\"Poetic cinematic close-up portrait of a {argument name=\"subject\" default=\"young woman\"} partially obscured by {argument name=\"flower color\" default=\"soft pink\"} blossoms and petals in the foreground.\",\n \"subject_details\": {\n \"appearance\": \"Young woman, expressive green eyes, calm introspective expression, natural beauty\",\n \"skin_texture\": \"Ultra-realistic skin texture\",\n \"apparel\": \"Shimmering {argument name=\"dress color\" default=\"rose-gold\"} high-neck dress that catches warm sunlight\"\n },\"composition_and_framing\": {\n \"framing\": \"Close-up, face in sharp focus through gaps in the flowers\",\n \"foreground\": \"Soft pink blossoms and petals, soft blur\",\n \"background\": \"Deep blue sky, creamy bokeh\",\n \"depth\": \"Shallow depth of field\"\n },\n \"lighting_and_color\": {\n \"lighting_source\": \"Golden-hour lighting\",\n \"effects\": \"Delicate shadows of petals across skin, dress catching sunlight\",\"palette\": \"Pastel pinks, warm peach tones, rose-gold, deep blue\"\n },\n \"atmosphere_and_style\": {\n \"mood\": \"Romantic spring atmosphere, ethereal, poetic\",\n \"style\": \"Editorial fashion photography\",\n \"grading\": \"Cinematic color grading\"\n },\n \"technical_specs\": {\n \"quality\": \"8K resolution, high detail\",\n \"visuals\": \"Ultra-realistic\"\n }",
+    "title": "Ethereal Cinematic Portrait",
+    "description": "A poetic and cinematic close-up portrait of a woman obscured by blossoms, utilizing a detailed structured prompt format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753508780_psl237_HM1uFjBbkAAQ-y_.jpg",
+      "https://cms-assets.youmind.com/media/1783753508673_gkojmn_HM1uFjHbUAApsVq.jpg",
+      "https://cms-assets.youmind.com/media/1783753509052_cz4xbh_HM1uFi5b0AA3x_Y.jpg",
+      "https://cms-assets.youmind.com/media/1783753509634_n46yac_HM1uFi8boAAwjc6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28203,
+    "content": "A high-quality studio portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman with a soft, flawless complexion. She has short, shoulder-length {argument name=\"hair style\" default=\"wavy black hair\"} with light, wispy see-through bangs framing her face. She has a natural, subtle makeup look with soft coral-pink lips and gentle blush.She is wearing an oversized, cozy {argument name=\"sweater color\" default=\"dark navy blue\"} knit turtleneck sweater, resting her face slightly against her hand. Clean minimal muted grey background, soft diffused studio lighting, aesthetic, clean, and photorealistic look.",
+    "title": "Wavy Hair Studio Portrait",
+    "description": "A clean, minimalist studio portrait prompt for creating high-quality images of women in cozy knitwear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783753510296_5v2s94_HM1r2HEasAA5Fjz.jpg",
+      "https://cms-assets.youmind.com/media/1783753510333_5e5957_HM1r2fubEAAX_g-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27971,
     "content": "{argument name=\"hairstyle\" default=\"bald head\"} in a {argument name=\"outfit\" default=\"bathrobe\"}",
     "title": "Bald Character in Bathrobe Portrait",
