@@ -1,5 +1,38 @@
 [
   {
+    "id": 28338,
+    "content": "A {argument name=\"warrior\" default=\"heavenly paladin\"} stands in a {argument name=\"setting\" default=\"muddy clearing inside the cursed forest\"} with his longsword raised in a defensive stance. A terrifying {argument name=\"monster\" default=\"shadow creature\"} with glowing red eyes has landed several meters in front of him, crouched low like a predatory beast with elongated claws and a twisted humanoid body. Rain pours heavily as thick fog swirls around them. Ancient dead trees surround the clearing while tension fills the air moments before the battle begins. Ultra realistic medieval dark fantasy, cinematic lighting, heavy rain, volumetric fog, photorealistic, terrifying atmosphere, highly detailed armor, 16:9.",
+    "title": "Dark Fantasy Paladin Duel",
+    "description": "A cinematic dark fantasy prompt depicting a paladin facing off against a terrifying shadow creature in a rainy, cursed forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840257784_dt4r9j_HM8mHfoWcAAudK6.jpg",
+      "https://cms-assets.youmind.com/media/1783840257737_vy6l69_HM8mH8FW8AAzjRc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28342,
+    "content": "A 3D stylized male avatar portrait, confident smiling man with short spiky dark hair, full beard, and mustache, wearing round black glasses, {argument name=\"pose\" default=\"hand on chin thinking pose\"}, cinematic lighting, {argument name=\"background color\" default=\"vibrant yellow gradient\"} background, soft shadows, Pixar-style character, smooth 3D render, ultra clean, high detail, glossy skin shading, professional character design, centered composition, depth of field, octane render, 4k. With {argument name=\"jersey type\" default=\"argentina jersey\"} more clear hd.",
+    "title": "3D Pixar-Style Male Avatar",
+    "description": "A stylized 3D avatar prompt for a confident smiling man with glasses and a beard, rendered in high detail with cinematic lighting and a vibrant background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840260501_s9b7vh_HM8BdosaYAAs14X.jpg",
+      "https://cms-assets.youmind.com/media/1783840260529_8ua8dg_HM8BeE6a4AABPiw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28344,
+    "content": "1.. A stylized 3D animated young woman leaning against a textured abstract wall made of layered cracked paint panels in warm gradients of yellow, coral, pink, red, and muted purple. She has short wavy dark hair slightly tousled, closed eyes with a soft peaceful smile, a small hoop earring, and relaxed body language with her arms folded. She is wearing a loose dusty-rose long sleeve shirt, high-waisted blue jeans rolled at the cuffs, and worn brown boots. Soft cinematic lighting, warm pastel color palette, shallow depth of field, painterly textures, cozy and calm mood, whimsical Pixar-style 3D illustration, ultra detailed, high resolution, soft shadows, dreamy atmosphere. 2.... A stylized 3D animated girl standing in front of a rustic wooden door, surrounded by soft coral-pink and dusty red plants, with a layered pastel canyon wall in the background made of cracked textured stone in warm gradients of yellow, peach, pink, and muted purple. The girl has short wavy dark hair, closed eyes, a calm peaceful expression, wearing a cream t-shirt with a small red-yellow graphic, high-waisted blue jeans rolled at the ankles, brown shoes, and a small backpack over one shoulder. Cinematic soft lighting, warm color palette, shallow depth of field, painterly textures, cozy mood, whimsical Pixar-style 3D illustration, ultra-detailed, high resolution, soft shadows, pastel fantasy environment, peaceful atmosphere.",
+    "title": "3D Animated Woman Portrait",
+    "description": "A Pixar-style 3D illustration of a young woman leaning against a textured, colorful abstract wall with soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840260688_cjixz4_HM6s1h5bcAAPvH0.jpg",
+      "https://cms-assets.youmind.com/media/1783840260884_146dxe_HM6s2NpbwAAsiIz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27853,
     "content": "{argument name=\"subject\" default=\"office coffee machine\"} as a {argument name=\"theme\" default=\"sci-fi boss battle\"}, cinematic sparks, exaggerated scale, punchy caption space, 16:9",
     "title": "Sci-Fi Coffee Machine Boss Battle",

@@ -1,5 +1,16 @@
 [
   {
+    "id": 28338,
+    "content": "A {argument name=\"warrior\" default=\"heavenly paladin\"} stands in a {argument name=\"setting\" default=\"muddy clearing inside the cursed forest\"} with his longsword raised in a defensive stance. A terrifying {argument name=\"monster\" default=\"shadow creature\"} with glowing red eyes has landed several meters in front of him, crouched low like a predatory beast with elongated claws and a twisted humanoid body. Rain pours heavily as thick fog swirls around them. Ancient dead trees surround the clearing while tension fills the air moments before the battle begins. Ultra realistic medieval dark fantasy, cinematic lighting, heavy rain, volumetric fog, photorealistic, terrifying atmosphere, highly detailed armor, 16:9.",
+    "title": "Dark Fantasy Paladin Duel",
+    "description": "A cinematic dark fantasy prompt depicting a paladin facing off against a terrifying shadow creature in a rainy, cursed forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840257784_dt4r9j_HM8mHfoWcAAudK6.jpg",
+      "https://cms-assets.youmind.com/media/1783840257737_vy6l69_HM8mH8FW8AAzjRc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28214,
     "content": "Transform the {argument name=\"input\" default=\"uploaded portrait\"} into a {argument name=\"style\" default=\"whimsical handcrafted paper diorama illustration\"} with a soft cute aesthetic. Reimagine the people using {argument name=\"elements\" default=\"simplified layered paper shapes, rounded forms, and minimal facial details\"} suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.",
     "title": "Handcrafted Paper Diorama Transformation",

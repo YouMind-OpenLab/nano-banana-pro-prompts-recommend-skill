@@ -20,6 +20,18 @@
     "needReferenceImages": false
   },
   {
+    "id": 28341,
+    "content": "{argument name=\"subject\" default=\"Lord of the Rings\"} movie poster in Ukiyo-e",
+    "title": "Ukiyo-e Style Movie Poster",
+    "description": "A creative prompt for rendering cinematic posters in the traditional Japanese Ukiyo-e style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840259187_p0ou2h_HM87KSbWcAAQiPO.jpg",
+      "https://cms-assets.youmind.com/media/1783840259164_13l6jd_HM87KSYWQAAxey6.jpg",
+      "https://cms-assets.youmind.com/media/1783840259221_dicp2t_HM87KSaW4AAz_iq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28200,
     "content": "close-up of a {argument name=\"subject\" default=\"woman\"} with striking facial features and {argument name=\"hair color\" default=\"platinum blonde\"} hair stands in a dramatic, inward contrapposto pose holding a {argument name=\"animal\" default=\"yellow snake\"} among her hands. Her composed intensity is directed downward, conveying a contemplative melancholy rather than outward engagement. She wears a white halter-style cropped top and floor-length skirt, both crafted from ivory white open-mesh crochet that casts subtle micro-shadow grids across her skin. The diffused ambient daylight under an overcast sky gently wraps her form, creating an almost painterly even illumination. A neoclassical circular temple rotunda with a sign 'love' engraved on it and densely layered garden trees provide a backdrop of elegant antiquity and cool, muted tones. The solitary figure asserts chromatic dominance within the otherwise desaturated, monumental environment, creating a sense of poetic sovereignty and intimate containment.",
     "title": "Woman with Platinum Hair and Snake",

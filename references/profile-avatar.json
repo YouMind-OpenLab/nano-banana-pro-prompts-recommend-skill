@@ -10,6 +10,50 @@
     "needReferenceImages": false
   },
   {
+    "id": 28339,
+    "content": "Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.\n\nCreate a premium ultra-realistic graphite pencil sketch in 9:16 format.\n\nA breathtaking young {argument name=\"subject\" default=\"South Asian woman\"} walking through a {argument name=\"location\" default=\"magnificent Mughal palace\"} with grand marble arches, carved pillars, royal fountains, and elegant gardens. She gently touches the marble wall while looking confidently toward the camera. Sunlight streams through the arches, creating dramatic shadows and a royal atmosphere.\n\nShe wears a {argument name=\"clothing\" default=\"luxurious emerald green Banarasi saree\"} with heavy gold embroidery, traditional jhumka earrings, layered necklaces, bangles, rings, a maang tikka, and an elegant kamarband. Every architectural detail and fabric fold is rendered with museum-quality graphite realism.\n\nMasterpiece, ultra-detailed graphite rendering, cream textured sketch paper, visible pencil construction lines, editorial luxury portrait, 16K.",
+    "title": "Graphite Pencil Sketch of South Asian Woman",
+    "description": "A highly detailed prompt for creating museum-quality graphite pencil sketches with specific focus on architectural details and fabric realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840259196_27ju4j_HM9FqyCbAAEitmX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28342,
+    "content": "A 3D stylized male avatar portrait, confident smiling man with short spiky dark hair, full beard, and mustache, wearing round black glasses, {argument name=\"pose\" default=\"hand on chin thinking pose\"}, cinematic lighting, {argument name=\"background color\" default=\"vibrant yellow gradient\"} background, soft shadows, Pixar-style character, smooth 3D render, ultra clean, high detail, glossy skin shading, professional character design, centered composition, depth of field, octane render, 4k. With {argument name=\"jersey type\" default=\"argentina jersey\"} more clear hd.",
+    "title": "3D Pixar-Style Male Avatar",
+    "description": "A stylized 3D avatar prompt for a confident smiling man with glasses and a beard, rendered in high detail with cinematic lighting and a vibrant background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840260501_s9b7vh_HM8BdosaYAAs14X.jpg",
+      "https://cms-assets.youmind.com/media/1783840260529_8ua8dg_HM8BeE6a4AABPiw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28343,
+    "content": "Ultra-fine, semi-realistic, painterly illustrations with a soft graphite sketch base that blends seamlessly with delicate digital painting, featuring a porcelain-like rendering of radiant skin, very light transitions, soft warm blush gradients, transparent layered shadows, and silky smooth color blends. Fine pencil construction lines remain faintly visible around the contours, adding a hand-drawn artistic feel. Highly detailed individual strands of hair with natural flowing strands, soft, light volume, and elegant organic curls. Sharp, expressive eyes with realistic reflections, fluffy eyelashes, and meticulously drawn eyebrows. Soft, glossy rendering with natural subsurface scattering, creamy highlights, soft pastel color harmonies, and earthy warm neutral tones. Loosely brushed backgrounds of {argument name=\"background colors\" default=\"bold colors (purple, magenta, orange gradients)\"} with a clean wet-on-wet paint technique without distracting elements. Elegant fine art portrait aesthetic, refined atmosphere, refined realism, ultra-clean rendering, micro-detail precision, smooth matte finish, museum-quality digital illustration, high-end editorial art, 8K ultra-detail. ar {argument name=\"aspect ratio\" default=\"9:16\"}.",
+    "title": "Semi-Realistic Painterly Graphite Portrait",
+    "description": "A prompt for generating artistic portraits that blend soft graphite sketches with delicate digital painting and vibrant painterly backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840260559_6h7iuj_HM7NpVfbwAEzZhU.jpg",
+      "https://cms-assets.youmind.com/media/1783840260549_libk3w_HM7NqBgagAA6wNS.jpg",
+      "https://cms-assets.youmind.com/media/1783840261007_9jzpnf_HM7Nq0qb0AAogzW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28344,
+    "content": "1.. A stylized 3D animated young woman leaning against a textured abstract wall made of layered cracked paint panels in warm gradients of yellow, coral, pink, red, and muted purple. She has short wavy dark hair slightly tousled, closed eyes with a soft peaceful smile, a small hoop earring, and relaxed body language with her arms folded. She is wearing a loose dusty-rose long sleeve shirt, high-waisted blue jeans rolled at the cuffs, and worn brown boots. Soft cinematic lighting, warm pastel color palette, shallow depth of field, painterly textures, cozy and calm mood, whimsical Pixar-style 3D illustration, ultra detailed, high resolution, soft shadows, dreamy atmosphere. 2.... A stylized 3D animated girl standing in front of a rustic wooden door, surrounded by soft coral-pink and dusty red plants, with a layered pastel canyon wall in the background made of cracked textured stone in warm gradients of yellow, peach, pink, and muted purple. The girl has short wavy dark hair, closed eyes, a calm peaceful expression, wearing a cream t-shirt with a small red-yellow graphic, high-waisted blue jeans rolled at the ankles, brown shoes, and a small backpack over one shoulder. Cinematic soft lighting, warm color palette, shallow depth of field, painterly textures, cozy mood, whimsical Pixar-style 3D illustration, ultra-detailed, high resolution, soft shadows, pastel fantasy environment, peaceful atmosphere.",
+    "title": "3D Animated Woman Portrait",
+    "description": "A Pixar-style 3D illustration of a young woman leaning against a textured, colorful abstract wall with soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783840260688_cjixz4_HM6s1h5bcAAPvH0.jpg",
+      "https://cms-assets.youmind.com/media/1783840260884_146dxe_HM6s2NpbwAAsiIz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28208,
     "content": "Amateur selfie on an iPhone 16 Pro Max front-facing camera, Pinterest style for an Instagram blog. Vertical photorealistic portrait in the aesthetic of a candid social media snapshot: a {argument name=\"subject\" default=\"young woman\"} lying on her back in a {argument name=\"location\" default=\"thick chamomile field\"}. Shot in a tight medium shot from above, as if taken with a phone camera from an outstretched hand.\n\nLong loose hair spread out over the grass, eyes looking directly into the lens, soft natural makeup, relaxed half-smile. The woman has an even skin tone, soft contouring of the cheekbones, highlighter with a dewy glow on the cheekbones, tip and bridge of the nose. Neatly groomed eyebrows, lush and thick eyelash extensions with a fox-eye effect, plump lips outlined with a light brown pencil blended toward the center with lip gloss.\n\nOne hand is raised to the lips, fingers lightly holding a thin chamomile stem at the mouth; a large white chamomile with a yellow center is located by the temple. Green stems, leaves, and many chamomiles frame the face and shoulders, partially entering the foreground. In the corner of the frame in the foreground, blurred chamomiles add depth to the shot. She is wearing a {argument name=\"outfit\" default=\"romantic black dress\"} with a gathered bodice, delicate ruffles, and a soft neckline. Small shining earrings, a gold bracelet, and a thin chain with a pendant create neat glints.\n\nComposition is intimate, slightly diagonal, shoulders and upper body are visible, the background is completely filled with grass and flowers without empty space. Soft natural daylight from above, gentle shadows, sharp focus on the face and nearby chamomiles, fresh palette of green, white, and warm yellow, airy summer mood, candid editorial, realistic smartphone photography without interface or text.",
     "title": "Natural Amateur iPhone Selfie Portrait",
