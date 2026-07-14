@@ -10,6 +10,82 @@
     "needReferenceImages": false
   },
   {
+    "id": 28563,
+    "content": "Create a cinematic, ultra-realistic portrait of a {argument name=\"subject\" default=\"young girl\"} inspired by {argument name=\"culture\" default=\"ancient Egyptian royalty\"}. She has long, naturally wavy black hair, warm brown skin, expressive dark brown eyes, and a serene, confident expression while looking directly at the camera. She wears an intricate blue-and-gold Egyptian headpiece decorated with {argument name=\"jewelry\" default=\"lapis lazuli, turquoise, and gold ornaments\"}, matching earrings, an ornate broad collar necklace with colorful gemstones, and a richly embroidered royal garment featuring authentic ancient Egyptian motifs and hieroglyphic-inspired patterns. The setting is inside an ancient Egyptian palace with sandstone columns, carved hieroglyphs, pottery, and warm golden sunlight streaming through the hall. Use a shallow depth of field with a softly blurred background, cinematic lighting, realistic skin texture, natural colors, fine fabric details, and highly detailed jewelry. Capture the image as if shot on a full-frame camera with an 85mm portrait lens at f/1.8, resulting in a premium cinematic look, ultra-high resolution, photorealistic, museum-quality detail. No text, logos, or watermarks",
+    "title": "Ancient Egyptian Royal Portrait",
+    "description": "A cinematic and ultra-realistic portrait prompt of a young girl inspired by ancient Egyptian royalty, featuring intricate jewelry and palace settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012476769_nveu4f_HNHNICQagAAat6m.jpg",
+      "https://cms-assets.youmind.com/media/1784012476791_ae299h_HNHNqDYasAAfeVW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28564,
+    "content": "Hyper-realistic, ultra-detailed close-up portrait showing only the {argument name=\"face section\" default=\"left half\"} of my face submerged in {argument name=\"liquid\" default=\"water\"}, one eye in sharp focus, positioned on the far left of the frame, light rays creating caustic patterns on the skin, suspended water droplets and bubbles adding depth, cinematic lighting with soft shadows and sharp highlights, photorealistic textures including skin pores, wet lips, eyelashes, and subtle subsurface scattering, {argument name=\"mood\" default=\"surreal and dreamlike atmosphere\"}, shallow depth o underwater",
+    "title": "Underwater Face Portrait",
+    "description": "A surreal and dreamlike close-up portrait of a face partially submerged in water, featuring caustic light patterns and intricate textures like skin pores and water bubbles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012476832_qcvrpd_HNG78fpboAAIUkH.jpg",
+      "https://cms-assets.youmind.com/media/1784012476575_izehhj_HNG78ftacAAAniB.jpg",
+      "https://cms-assets.youmind.com/media/1784012476786_dua8ux_HNG78f1agAAuM_W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28567,
+    "content": "{\n  \"subject\": {\n    \"subjects_interaction\": \"Centered portrait, medium shot. {argument name=\"celebrity\" default=\"Sabrina Carpenter\"} is crouching gracefully in a lush, sun-drenched garden setting, holding a white flower near her face, looking directly at the camera.\",\n    \"first_subject\": {\n      \"identity\": {\n        \"biometric_reference\": \"{argument name=\"celebrity\" default=\"Sabrina Carpenter\"}\",\n        \"facial_matrix\": {\n          \"hair_profile\": \"Soft blonde hair with loose waves and bangs, styled naturally.\",\n          \"ocular_biometrics\": \"Bright blue eyes, focused gaze, soft and inviting expression.\",\n          \"maxillofacial_data\": \"Refined facial geometry, soft smile, lips closed.\"\n        }\n      },\n      \"body\": {\n        \"kinesiology_pose\": \"Crouching low to the ground in a fluid, elegant pose, hands held near the face with a flower. Natural skin texture and posture.\",\n        \"epidermal_physics\": \"Dermis appears healthy and radiant, reflecting natural, soft sunlight, highlighting smooth skin contours.\"\n      },\n      \"wardrobe\": {\n        \"full_layer\": {\n          \"item\": \"Aesthetic {argument name=\"clothing top\" default=\"white cropped top\"} paired with a flowing, {argument name=\"clothing bottom\" default=\"champagne-colored satin maxi skirt\"}.\",\n          \"material_properties\": \"Soft cotton and luxurious satin, elegant and breezy.\",\n          \"cosmetic_accents\": \"Bare feet, meticulously applied high-gloss white nail polish on all digits, delicate silver ankle bracelet.\"\n        }\n      }\n    }\n  },\n  \"scene\": {\n    \"configuration\": \"Outdoor garden setting with potted flowers and stone architectural elements.\",\n    \"background_architecture\": {\n      \"surface_properties\": \"Terracotta pots, blooming pink and white flowers, stone flooring, warm natural light.\",\n      \"reflection_integrity_rules\": \"Reflective indices optimized for soft, natural light interaction with floral textures and stone, maintaining an airy garden aesthetic.\"\n    },\n    \"text_and_logos\": {\n      \"constraints\": \"No text, no watermarks, no skin piercings, no hosiery, no extra limbs.\"\n    }\n  },\n  \"lighting\": {\n    \"source_profile\": \"Soft, warm, natural afternoon sunlight, engineered for gentle gradients, high-key atmosphere, and rich, natural color rendering.\"\n  },\n  \"camera\": {\n    \"projection_type\": \"Wide-angle lens, medium-shot depth of field.\",\n    \"optical_profile\": \"35mm focal length, f/2.0, focus lock on the subject's face, soft bokeh background, 4:5 aspect ratio.\"\n  }\n}",
+    "title": "Celebrity Portrait in Sun-Drenched Garden",
+    "description": "A highly structured JSON-format prompt for generating a graceful garden portrait with specific lighting and wardrobe details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012478683_sdo57v_HNGtMqMWcAA62Qh.jpg",
+      "https://cms-assets.youmind.com/media/1784012478145_u6u5rp_HNGtN95XQAA3l4C.jpg",
+      "https://cms-assets.youmind.com/media/1784012478134_c8cmdc_HNGtPGpWEAEKdVc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28572,
+    "content": "Using uploaded face 100 percent same & realistic. A high-quality, photorealistic portrait of a {argument name=\"subject\" default=\"handsome young South Asian man\"} with voluminous, styled dark hair and a neatly trimmed beard. He is sitting thoughtfully cross-legged on an {argument name=\"seating\" default=\"ornate gold wooden chair with bright red velvet upholstery\"}. He is wearing a {argument name=\"clothing\" default=\"traditional textured cream-colored kurta pajama with a dark maroon scarf\"} draped around his neck. He rests his left hand lightly against his chin, looking off-camera in a pensive pose. On his left wrist is a chunky smartwatch with a bright orange band, and on his right wrist is a simple black string bracelet. He is wearing brown leather loafers. The background is a deeply blurred, festive setting featuring warm, glowing bokeh fairy lights and vibrant, softly draped fabrics in pink, blue, green, and yellow. Cinematic lighting, shallow depth of field, vibrant colors, highly detailed, 8k resolution. keep original face and hairstyle 100% reference Ratio 9:16",
+    "title": "Pensive South Asian Man Portrait",
+    "description": "A highly detailed prompt for a photorealistic portrait of a young South Asian man in traditional dress, set against a festive bokeh background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012480442_u0d1uu_HNFhZoaaAAAy9Xw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28569,
+    "content": "{argument name=\"subject\" default=\"the young woman\"} with the focus on facial contours and accessories.\n\nThe camera captures a smoking moment: a cigarette between her lips and a gaze directed away, creating an air of aloofness.\n\nNeutral, blurred background.\n\nA long, dark blazer worn over a tailored men's shirt featuring a fine {argument name=\"shirt pattern\" default=\"blue stripe\"}.\n\nA pinstriped vest worn beneath the shirt adds depth to the look.\n\nA small earring with a {argument name=\"jewelry\" default=\"green stone\"} and a pendant in a delicate metal setting.\n\nChunky dark glasses with straight-lined frames create a bold, sharp accent.\n\nThe cigarette held between her teeth becomes part of the look, reinforcing a rebellious aesthetic.\n\nDark hair in a short bob, styled back with a wet-look finish.\n\nSoft daylight falling from above and the side highlights her natural facial contours and the sheen of her hair.\n\n3:4",
+    "title": "Edgy Portrait with Cigarette and Blazer",
+    "description": "A cinematic prompt capturing a rebellious aesthetic with a focus on facial contours, smoking, and professional wardrobe details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012479439_0ygye2_HNFay-IaoAAqUCQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28565,
+    "content": "Use the exact same faces from both reference images and generate a warm intimate cinematic couple portrait where both faces emerge from soft darkness radiating pure joy and happiness. Two faces close together — cheek almost to cheek, heads tilted naturally toward each other, the man slightly behind and to the side of the woman. Both wearing the most genuine natural smiles — not posed, not magazine perfect — real, alive, the kind of smile that happens when you are completely happy with exactly who you are with. Eyes crinkled at the corners with real laughter, teeth naturally showing, the specific warmth of two people who are genuinely crazy about each other. The woman's smile bright and glowing, the man's carrying that quiet proud happiness of someone who cannot believe how lucky they are. Only the faces visible — everything below the chin dissolved completely into warm darkness. No shoulders, no clothing, no hands — just two glowing happy faces floating together in the dark like the only two people in the universe. Lighting is a {argument name=\"lighting\" default=\"single warm golden source\"} from slightly above and between them — soft, intimate, wrapping both faces in the same rich amber glow simultaneously. The light feels like candlelight or a warm lamp — alive and human. Cheekbones and nose tips catching the brightest warmth, the smiles fully illuminated, eyes sparkling with natural catch lights. Both faces fading gradually into warm darkness at the edges — soft and beautiful. Background is pure warm black void — no texture, no location, just darkness that feels safe and intimate rather than cold or dramatic. Color grading is warm, golden and joyful — rich ambers, honey tones, glowing skin, the palette of happiness itself. 6% film grain for analog warmth. Slight halation glow around the brightest highlights. Both faces equally sharp and present. Shot on simulated {argument name=\"camera\" default=\"Leica Noctilux 50mm f/0.95\"}. The \"OzairAI\" watermark dissolved invisibly into the lower-right darkness. Vertical 9:13 format. Ultra photorealistic, 8K — two faces, one light, infinite happiness.",
+    "title": "Intimate Cinematic Couple Portrait",
+    "description": "A high-detail prompt for creating a warm, intimate portrait of a couple using reference images for facial consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012476647_qmtivm_HNE88G_acAAtvRu.jpg",
+      "https://cms-assets.youmind.com/media/1784012476619_v5hywe_HNE88HDbwAAKtX2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28566,
+    "content": "studio portrait, young woman sitting cross-legged, hugged by giant white plush mascot doll with black smiling face, messy bun with {argument name=\"hair accessory\" default=\"black bow\"}, {argument name=\"clothing\" default=\"oversized black graphic tee\"} with pastel cartoon print, denim shorts, white socks, white sneakers, cream beige backdrop, soft studio lighting, commercial photography, warm tones --ar 4:5 --stylize 250 --v 6",
+    "title": "Woman with Giant Plush Mascot",
+    "description": "A commercial photography style prompt featuring a young woman hugging a large white plush character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012478063_k2tc0l_HNEgNh-b0AAg5YK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28452,
     "content": "A stunning, high-resolution portrait of an {argument name=\"subject\" default=\"elegant woman with deep, wavy dark hair and a warm, glowing complexion\"}, dressed in a {argument name=\"dress style\" default=\"soft, golden-yellow pleated dress with long, flowing sleeves\"}. She is captured in various poses, including close-up headshots and half-body shots, showcasing a serene and confident expression with her hand gently resting near her face or neck. The background is a {argument name=\"environment\" default=\"bright, airy, and sophisticated interior space featuring a large, arched window\"} that lets in soft, natural light, complemented by lush indoor greenery in minimalist pots, creating a tranquil and timeless atmosphere.",
     "title": "Elegant Woman in Golden Dress",

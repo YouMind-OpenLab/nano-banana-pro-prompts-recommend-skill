@@ -21,6 +21,39 @@
     "needReferenceImages": true
   },
   {
+    "id": 28568,
+    "content": "Editorial four-panel portrait grid, using the face and likeness from the uploaded photo, model wearing a {argument name=\"clothing\" default=\"plain white ribbed tank top\"}, {argument name=\"hair style\" default=\"sleek wet-look hair\"} pulled back tightly with a natural hairline, soft clean studio lighting against a {argument name=\"background\" default=\"neutral beige-white backdrop\"}, four different angles: front-facing close-up portrait, three-quarter body shot, slight side-angle close-up, and over-the-shoulder side profile shot, minimal skincare-fresh makeup, dewy natural skin, neutral relaxed expression, high-end fashion campaign aesthetic, sharp focus, soft even shadows, consistent identity and facial features preserved across all four panels, high resolution photography",
+    "title": "Fashion Editorial Grid Portrait",
+    "description": "A prompt for generating a four-panel grid portrait for fashion editorial usage, maintaining identity from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012477846_w32m75_HNHiu74XsAAQT_6.jpg",
+      "https://cms-assets.youmind.com/media/1784012477839_n7gnkj_HNHiwc1WAAAOJwq.jpg",
+      "https://cms-assets.youmind.com/media/1784012477830_81jzni_HNHixY0XMAEWIf6.jpg",
+      "https://cms-assets.youmind.com/media/1784012478877_slkymv_HNHiyiZWYAAUyy6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28571,
+    "content": "Create an ultra-realistic luxury fashion editorial portrait of a lean athletic {argument name=\"subject\" default=\"European man\"}, approximately {argument name=\"age range\" default=\"22 to 30 years old\"}, with a long oval face, a sharp jawline, fair neutral skin with a soft matte finish, smooth editorial-quality texture with natural pores, medium-thick groomed eyebrows, a straight refined nose, medium-full relaxed lips, and a clean-shaven face. His medium chestnut-brown hair is styled in a sleek side part, combed back with subtle natural volume and a light satin shine. He wears oversized geometric luxury sunglasses with thick matte {argument name=\"color\" default=\"emerald-green\"} acetate frames and dark smoke polarized lenses, giving the portrait a bold, contemporary statement.\n\nDress him in an oversized forest-green crewneck sweatshirt made from premium heavyweight cotton fleece with a relaxed luxury fit, layered over a white crew-neck T-shirt with only a minimal portion of the collar visible. Pose him slightly leaning forward toward the camera with his head gently tilted toward camera-right. His eyes remain hidden behind the sunglasses while his expression is calm, confident, effortless, and subtly playful.\n\nPhotograph the subject inside a professional studio against a seamless soft warm-white matte background with a clean, minimal aesthetic. Use large softbox beauty lighting positioned 45 degrees to camera-left, complemented by a subtle fill light to create soft diffused illumination, low-to-medium contrast, clean soft shadows, and evenly lit neutral backgrounds.\n\nCompose the image as a tight head-and-shoulders portrait in a vertical 4:5 aspect ratio from eye level using an off-center editorial composition. Capture it as if shot on a Sony A7R V with an 85mm f/1.4 GM lens at f/2.0, 1/200 second shutter speed, and ISO 100 for exceptional sharpness and shallow depth of field.\n\nUse a refined color palette dominated by emerald green, forest green, warm white, charcoal black, natural skin tones, and soft brown hair. Apply clean commercial luxury color grading with medium contrast, bright controlled highlights, soft neutral blacks, and rich greens while maintaining realistic skin tones.\n\nFinish with premium magazine-quality retouching that preserves natural skin texture and pores, high clarity, wide dynamic range, zero visible noise, and flawless commercial quality. The overall aesthetic should evoke the visual language of luxury designer campaigns inspired by Gentle Monster, Jacquemus, Bottega Veneta, CELINE, Prada, and Vogue Hommes. Produce an ultra-photorealistic, commercial-ready 8K image with a clean, premium editorial look.\n\nNegative prompt: low quality, low resolution, AI artifacts, plastic skin, overprocessed face, watermark, logo, text, noise, motion blur, distorted anatomy, extra limbs, oversaturated colors.",
+    "title": "Luxury Fashion Editorial Male Portrait",
+    "description": "An extensive professional prompt for an 8K commercial-ready luxury fashion portrait featuring an athletic man with specific camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012479966_uwlscd_HNErbjkbIAA8cfz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28566,
+    "content": "studio portrait, young woman sitting cross-legged, hugged by giant white plush mascot doll with black smiling face, messy bun with {argument name=\"hair accessory\" default=\"black bow\"}, {argument name=\"clothing\" default=\"oversized black graphic tee\"} with pastel cartoon print, denim shorts, white socks, white sneakers, cream beige backdrop, soft studio lighting, commercial photography, warm tones --ar 4:5 --stylize 250 --v 6",
+    "title": "Woman with Giant Plush Mascot",
+    "description": "A commercial photography style prompt featuring a young woman hugging a large white plush character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012478063_k2tc0l_HNEgNh-b0AAg5YK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28450,
     "content": "A {argument name=\"subject\" default=\"stylish skinhead man\"} from the reference, poses in a high-fashion aesthetic, wearing an {argument name=\"outfit\" default=\"oversized, textured sherpa coat featuring a bold violet and orange color-blocked design\"}. The subject is positioned against a {argument name=\"backdrop\" default=\"vibrant, seamless gradient backdrop shifting from warm magenta to golden yellow\"}, creating a clean studio isolation effect. Soft, diffused lighting wraps around the subject’s facial features, emphasizing subsurface scattering on the skin while minimizing harsh shadows. The thick, tactile pile of the synthetic fleece absorbs light, providing a rich contrast to the translucent, reflective surface of the rose-colored lenses. The composition is a sharp, centered portrait that prioritizes saturated color harmony and minimalist visual impact.\n\n* Style: High-fashion studio photography, editorial portraiture\n\n* Key elements: Color-blocked sherpa coat, rose-tinted sunglasses, fade haircut, gradient backdrop\n\n* Lighting: Soft-box diffused, front-facing, warm color temperature\n\n* Camera: Medium close-up, 85mm lens, eye-level angle",
     "title": "High Fashion Sherpa Coat Editorial",
@@ -68,6 +101,16 @@
     "description": "A clean and modern poster design for an AI tool launch featuring a glossy citrus palette and bold typography.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1783927789924_rdti5e_HMySJOIWYAA-hPq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28562,
+    "content": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete gender\" default=\"female\"} basketball athlete in a {argument name=\"uniform colors\" default=\"red and white\"} uniform, cinematic Nikestyle campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"slogan\" default=\"BUILT DIFFERENT\"}”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “PREPARE” and “PERFORM”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
+    "title": "Sports Editorial Poster Design",
+    "description": "A comprehensive multi-panel prompt for creating high-end sports magazine covers with dramatic lighting and bold typography, specifically designed for basketball athletes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012475473_6e96m1_HNBCCn3bUAAoJ-8.jpg"
     ],
     "needReferenceImages": false
   },

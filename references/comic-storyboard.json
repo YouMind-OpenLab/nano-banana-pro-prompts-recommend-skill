@@ -1,5 +1,16 @@
 [
   {
+    "id": 28563,
+    "content": "Create a cinematic, ultra-realistic portrait of a {argument name=\"subject\" default=\"young girl\"} inspired by {argument name=\"culture\" default=\"ancient Egyptian royalty\"}. She has long, naturally wavy black hair, warm brown skin, expressive dark brown eyes, and a serene, confident expression while looking directly at the camera. She wears an intricate blue-and-gold Egyptian headpiece decorated with {argument name=\"jewelry\" default=\"lapis lazuli, turquoise, and gold ornaments\"}, matching earrings, an ornate broad collar necklace with colorful gemstones, and a richly embroidered royal garment featuring authentic ancient Egyptian motifs and hieroglyphic-inspired patterns. The setting is inside an ancient Egyptian palace with sandstone columns, carved hieroglyphs, pottery, and warm golden sunlight streaming through the hall. Use a shallow depth of field with a softly blurred background, cinematic lighting, realistic skin texture, natural colors, fine fabric details, and highly detailed jewelry. Capture the image as if shot on a full-frame camera with an 85mm portrait lens at f/1.8, resulting in a premium cinematic look, ultra-high resolution, photorealistic, museum-quality detail. No text, logos, or watermarks",
+    "title": "Ancient Egyptian Royal Portrait",
+    "description": "A cinematic and ultra-realistic portrait prompt of a young girl inspired by ancient Egyptian royalty, featuring intricate jewelry and palace settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012476769_nveu4f_HNHNICQagAAat6m.jpg",
+      "https://cms-assets.youmind.com/media/1784012476791_ae299h_HNHNqDYasAAfeVW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28462,
     "content": "Cinematic scene, heavy silhouetting, {argument name=\"lighting\" default=\"daybreak light\"}, {argument name=\"atmosphere\" default=\"dark, foggy\"}",
     "title": "Cinematic Daybreak Silhouette Portrait",

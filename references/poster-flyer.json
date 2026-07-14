@@ -20,12 +20,32 @@
     "needReferenceImages": false
   },
   {
+    "id": 28573,
+    "content": "{argument name=\"subject\" default=\"Whimsical miniature world depiction of a ritual clearing with totem circle\"} in artistic blend of {argument name=\"primary style\" default=\"mythpunk\"} and {argument name=\"secondary style\" default=\"forestpunk\"} styles.",
+    "title": "Whimsical Mythpunk Forest Ritual",
+    "description": "A descriptive prompt for Nano Banana Pro depicting a ritual clearing with a totem circle in a blend of mythpunk and forestpunk styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012481289_1z7x0u_HNHi_TpaUAAVMS2.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28449,
     "content": "summer {argument name=\"product type\" default=\"AI tool launch\"} poster, {argument name=\"color palette\" default=\"glossy citrus\"} palette, {argument name=\"font style\" default=\"bold sans\"} headline, soft shadows, clean CTA button",
     "title": "Summer AI Tool Launch Poster",
     "description": "A clean and modern poster design for an AI tool launch featuring a glossy citrus palette and bold typography.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1783927789924_rdti5e_HMySJOIWYAA-hPq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28562,
+    "content": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete gender\" default=\"female\"} basketball athlete in a {argument name=\"uniform colors\" default=\"red and white\"} uniform, cinematic Nikestyle campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"slogan\" default=\"BUILT DIFFERENT\"}”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “PREPARE” and “PERFORM”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
+    "title": "Sports Editorial Poster Design",
+    "description": "A comprehensive multi-panel prompt for creating high-end sports magazine covers with dramatic lighting and bold typography, specifically designed for basketball athletes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784012475473_6e96m1_HNBCCn3bUAAoJ-8.jpg"
     ],
     "needReferenceImages": false
   },
