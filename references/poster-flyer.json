@@ -20,6 +20,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 28449,
+    "content": "summer {argument name=\"product type\" default=\"AI tool launch\"} poster, {argument name=\"color palette\" default=\"glossy citrus\"} palette, {argument name=\"font style\" default=\"bold sans\"} headline, soft shadows, clean CTA button",
+    "title": "Summer AI Tool Launch Poster",
+    "description": "A clean and modern poster design for an AI tool launch featuring a glossy citrus palette and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927789924_rdti5e_HMySJOIWYAA-hPq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28350,
+    "content": "Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, age, or facial proportions. Create a premium ultra-realistic graphite pencil sketch in 9:16 vertical format. A successful {argument name=\"subject\" default=\"young South Asian AI entrepreneur\"} standing proudly beside a brand-new {argument name=\"vehicle\" default=\"matte black Lamborghini\"} outside an ultra-luxury supercar dealership during golden hour. A dealership representative is handing him the luxury car key while he accepts it with a confident smile. The showroom behind him features exotic supercars, floor-to-ceiling glass walls, and elegant architecture. Warm sunlight reflects beautifully across the car, creating a cinematic luxury atmosphere. He wears a {argument name=\"outfit\" default=\"tailored charcoal double-breasted suit\"} over a fitted black turtleneck, polished leather Chelsea boots, a luxury stainless-steel wristwatch, and a minimalist bracelet. Museum-quality graphite pencil rendering with ultra-fine cross-hatching, realistic reflections, cream textured sketchbook paper, visible construction lines, unfinished artistic sketch edges, editorial luxury portrait, masterpiece, hyper realistic, ultra detailed, 16K. low quality, blurry, cartoon, anime, CGI, watercolor, oil painting, distorted face, extra limbs, watermark, logo, text.",
+    "title": "Graphite Pencil Entrepreneur Sketch",
+    "description": "An ultra-realistic graphite pencil sketch prompt for creating a detailed portrait of an entrepreneur with a luxury car, emphasizing identity preservation and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927798571_m4nfzf_HM9KQXEbcAEtACg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28341,
     "content": "{argument name=\"subject\" default=\"Lord of the Rings\"} movie poster in Ukiyo-e",
     "title": "Ukiyo-e Style Movie Poster",

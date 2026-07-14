@@ -1,5 +1,16 @@
 [
   {
+    "id": 28457,
+    "content": "Overhead studio shot of {argument name=\"product\" default=\"[your product]\"} on {argument name=\"surface material\" default=\"wet black slate\"}, single hard side-light, water droplets, subtle steam, 85mm macro, editorial lighting",
+    "title": "Editorial Product Shot on Wet Slate",
+    "description": "A macro studio shot prompt for products on wet black slate with editorial lighting and water droplets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927794920_jsmy59_HNBkbaKbcAAhBac.jpg",
+      "https://cms-assets.youmind.com/media/1783927795032_b0re79_HNBkbaIbwAAChE5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27738,
     "content": "A joyful young woman with {argument name=\"hair color\" default=\"curly auburn hair\"} kneeling on a sandy beach, wearing {argument name=\"outfit\" default=\"a light blue ribbed tank top and denim shorts\"}, {argument name=\"accessory\" default=\"a white tropical flower\"} tucked behind her ear, laughing with one arm raised in the air. She holds up [product from uploaded photo] toward the camera with one hand, product facing forward and clearly visible. Bright sunny day, clear blue sky, turquoise ocean waves in the background, golden sand in the foreground. Natural sunlight, warm and vibrant color palette, lifestyle product photography style, shallow depth of field with sharp focus on the product and model, shot on a high-end camera with a slightly elevated angle looking down at the subject.",
     "title": "Beachfront Lifestyle Product Photography",

@@ -10,6 +10,67 @@
     "needReferenceImages": false
   },
   {
+    "id": 28452,
+    "content": "A stunning, high-resolution portrait of an {argument name=\"subject\" default=\"elegant woman with deep, wavy dark hair and a warm, glowing complexion\"}, dressed in a {argument name=\"dress style\" default=\"soft, golden-yellow pleated dress with long, flowing sleeves\"}. She is captured in various poses, including close-up headshots and half-body shots, showcasing a serene and confident expression with her hand gently resting near her face or neck. The background is a {argument name=\"environment\" default=\"bright, airy, and sophisticated interior space featuring a large, arched window\"} that lets in soft, natural light, complemented by lush indoor greenery in minimalist pots, creating a tranquil and timeless atmosphere.",
+    "title": "Elegant Woman in Golden Dress",
+    "description": "A high-resolution portrait prompt for generating images of an elegant woman in a yellow pleated dress within a sophisticated, sunlit interior space.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927791650_audo5f_HNCN0oOWsAAe-5J.jpg",
+      "https://cms-assets.youmind.com/media/1783927791611_rqoq5s_HNCN0oeWsAAhfbw.jpg",
+      "https://cms-assets.youmind.com/media/1783927791634_k9zvmd_HNCN0sHXYAA8APk.jpg",
+      "https://cms-assets.youmind.com/media/1783927792415_ylxqf1_HNCN0quWYAEMVvD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28456,
+    "content": "Do not change her original facial features; they are already authentic and perfectly symmetrical. Preserve her natural identity exactly as it is. She should appear youthful, feminine, and effortlessly beautiful. Create an ultra-realistic, close-up candid indoor selfie portrait of a young woman sitting comfortably at home while gently and affectionately holding a {argument name=\"cat description\" default=\"chubby, beautiful cat\"} in her arms. She softly tilts her head to her left (the right side of the frame), resting her cheek against the top of the cat's head while looking directly into the camera with a calm, loving expression and a relaxed, gentle smile. She lovingly hugs the cat, gently lifting its small fluffy white front paws so they rest in front of its chest. The cat appears completely relaxed and content, gazing peacefully toward the side with its large expressive eyes. She has {argument name=\"hair color\" default=\"warm light brown (honey brown)\"} hair styled in a casual messy updo or small ponytail, with soft wispy bangs falling naturally across her forehead and delicate face-framing strands surrounding her face. Her makeup follows a soft-glam Douyin and K-Beauty aesthetic, featuring precise black winged eyeliner, long defined lashes, vibrant pink blush applied beneath the eyes, across the cheeks, and lightly over the bridge and tip of the nose for a warm youthful glow, and naturally full lips finished with a muted matte pink lipstick. She wears a {argument name=\"outfit\" default=\"comfortable light gray camisole\"} with thin shoulder straps, with one strap casually slipping off her right shoulder (left from the viewer's perspective). She accessorizes with small elegant silver drop earrings partially visible beneath her hair and a simple silver ring on the ring finger of her right hand. The fluffy cat has thick, soft fur with a bright white chest, face, and rounded paws, combined with light gray tabby markings across the top of its head and back, a round adorable face, and a small pink nose. The selfie is taken in a cozy living room with soft indoor lighting, featuring a comfortable white sofa in the background with a large brown cushion printed with white text and another cushion in a soft baby blue color. Behind her is a classic ivory-white wall, with subtle green plant leaves visible in the upper-left corner. Ultra-realistic, photorealistic, natural skin texture, professional smartphone selfie quality, HDR, 8K, highly detailed, preserve her original face exactly without any modifications, 9:16 aspect ratio.",
+    "title": "Candid Indoor Portrait with Cat",
+    "description": "Generates an ultra-realistic, close-up candid selfie of a woman holding a cat in a cozy home environment, focusing on facial symmetry and soft-glam aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927793702_586irs_HNBlcwLbkAECfH-.jpg",
+      "https://cms-assets.youmind.com/media/1783927793700_736gjc_HNBldYJa0AADR2u.jpg",
+      "https://cms-assets.youmind.com/media/1783927793748_tr4oh9_HNBleD6aIAELX0G.jpg",
+      "https://cms-assets.youmind.com/media/1783927794571_yy9bud_HNBlep4bMAAmWn_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28451,
+    "content": "Create a high-quality, realistic portrait of a {argument name=\"subject\" default=\"young, smiling woman with long, dark hair\"}, elegantly posed outdoors. She is wearing a {argument name=\"outfit\" default=\"white, off-the-shoulder top\"} and is joyfully looking down at a modern smartphone held in her hands, with one hand gently resting near her chin. The background should feature a picturesque, scenic view of a {argument name=\"scenery\" default=\"calm blue body of water\"}, perhaps a sea or lake, framed by vibrant, lush blooming flowers such as pink and red bougainvillea or geraniums. The lighting should be soft and natural, emphasizing a bright, cheerful atmosphere and a pleasant, sunny day.",
+    "title": "Realistic Portrait of Woman Outdoors",
+    "description": "A high-quality realistic portrait of a smiling woman with a scenic coastal background and blooming flowers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927790536_tc7jxq_HNBb6M3XAAAQhrV.jpg",
+      "https://cms-assets.youmind.com/media/1783927791148_se2b0n_HNBb6IdXUAAP_GR.jpg",
+      "https://cms-assets.youmind.com/media/1783927789703_37gwv0_HNBb6MzWsAAV32v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28454,
+    "content": "Ultra-realistic smartphone selfie of a beautiful young woman with {argument name=\"hair color\" default=\"long dark brown\"} hair and soft curtain bangs, fair glowing skin, {argument name=\"eye color\" default=\"hazel-green\"} eyes with long eyelashes, natural pink matte lips, subtle blush, wearing a {argument name=\"outfit\" default=\"fitted black ribbed knit short-sleeve polo dress\"} with a button placket, silver hoop earrings, and a two-tone gold and silver luxury wristwatch. She is taking her own selfie from a high angle with one arm extended toward the camera. Bright golden-hour sunlight streams through large windows, creating soft highlights on her face, dramatic shadows, and a warm glow. Modern luxury interior with black-and-white geometric marble floor tiles and a white armchair in the background. Clean minimalist aesthetic, shallow depth of field, ultra-detailed skin texture, realistic hair strands, natural facial proportions, premium lifestyle photography, candid expression, editorial fashion look, soft contrast, HDR, 8K, DSLR quality, photorealistic, no watermark, no text.",
+    "title": "Ultra-realistic Lifestyle Smartphone Selfie",
+    "description": "A detailed prompt for generating a high-quality smartphone selfie featuring a woman in a luxury interior, optimized for natural lighting and realistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927792789_20qtbe_HNAp30aboAA5mOd.jpg",
+      "https://cms-assets.youmind.com/media/1783927792820_ibm51i_HNAp4WDbUAEUlmi.jpg",
+      "https://cms-assets.youmind.com/media/1783927792834_dq8ed4_HNAp4x9acAA-e3O.jpg",
+      "https://cms-assets.youmind.com/media/1783927793517_bi8r7i_HNAp5QFbUAAN9Pe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28350,
+    "content": "Use the uploaded image as the exact identity reference. Preserve the person's identity with extremely high accuracy. Keep the face 100% recognizable. Do not change the hairstyle, beard, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, age, or facial proportions. Create a premium ultra-realistic graphite pencil sketch in 9:16 vertical format. A successful {argument name=\"subject\" default=\"young South Asian AI entrepreneur\"} standing proudly beside a brand-new {argument name=\"vehicle\" default=\"matte black Lamborghini\"} outside an ultra-luxury supercar dealership during golden hour. A dealership representative is handing him the luxury car key while he accepts it with a confident smile. The showroom behind him features exotic supercars, floor-to-ceiling glass walls, and elegant architecture. Warm sunlight reflects beautifully across the car, creating a cinematic luxury atmosphere. He wears a {argument name=\"outfit\" default=\"tailored charcoal double-breasted suit\"} over a fitted black turtleneck, polished leather Chelsea boots, a luxury stainless-steel wristwatch, and a minimalist bracelet. Museum-quality graphite pencil rendering with ultra-fine cross-hatching, realistic reflections, cream textured sketchbook paper, visible construction lines, unfinished artistic sketch edges, editorial luxury portrait, masterpiece, hyper realistic, ultra detailed, 16K. low quality, blurry, cartoon, anime, CGI, watercolor, oil painting, distorted face, extra limbs, watermark, logo, text.",
+    "title": "Graphite Pencil Entrepreneur Sketch",
+    "description": "An ultra-realistic graphite pencil sketch prompt for creating a detailed portrait of an entrepreneur with a luxury car, emphasizing identity preservation and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927798571_m4nfzf_HM9KQXEbcAEtACg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28339,
     "content": "Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.\n\nCreate a premium ultra-realistic graphite pencil sketch in 9:16 format.\n\nA breathtaking young {argument name=\"subject\" default=\"South Asian woman\"} walking through a {argument name=\"location\" default=\"magnificent Mughal palace\"} with grand marble arches, carved pillars, royal fountains, and elegant gardens. She gently touches the marble wall while looking confidently toward the camera. Sunlight streams through the arches, creating dramatic shadows and a royal atmosphere.\n\nShe wears a {argument name=\"clothing\" default=\"luxurious emerald green Banarasi saree\"} with heavy gold embroidery, traditional jhumka earrings, layered necklaces, bangles, rings, a maang tikka, and an elegant kamarband. Every architectural detail and fabric fold is rendered with museum-quality graphite realism.\n\nMasterpiece, ultra-detailed graphite rendering, cream textured sketch paper, visible pencil construction lines, editorial luxury portrait, 16K.",
     "title": "Graphite Pencil Sketch of South Asian Woman",

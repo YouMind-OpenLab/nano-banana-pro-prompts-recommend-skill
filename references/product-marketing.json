@@ -21,6 +21,79 @@
     "needReferenceImages": true
   },
   {
+    "id": 28450,
+    "content": "A {argument name=\"subject\" default=\"stylish skinhead man\"} from the reference, poses in a high-fashion aesthetic, wearing an {argument name=\"outfit\" default=\"oversized, textured sherpa coat featuring a bold violet and orange color-blocked design\"}. The subject is positioned against a {argument name=\"backdrop\" default=\"vibrant, seamless gradient backdrop shifting from warm magenta to golden yellow\"}, creating a clean studio isolation effect. Soft, diffused lighting wraps around the subject’s facial features, emphasizing subsurface scattering on the skin while minimizing harsh shadows. The thick, tactile pile of the synthetic fleece absorbs light, providing a rich contrast to the translucent, reflective surface of the rose-colored lenses. The composition is a sharp, centered portrait that prioritizes saturated color harmony and minimalist visual impact.\n\n* Style: High-fashion studio photography, editorial portraiture\n\n* Key elements: Color-blocked sherpa coat, rose-tinted sunglasses, fade haircut, gradient backdrop\n\n* Lighting: Soft-box diffused, front-facing, warm color temperature\n\n* Camera: Medium close-up, 85mm lens, eye-level angle",
+    "title": "High Fashion Sherpa Coat Editorial",
+    "description": "A sophisticated high-fashion studio portrait prompt featuring a model in a violet and orange color-blocked sherpa coat against a magenta and yellow gradient backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927791254_jjn4tu_HNDUlYFWAAEiB7m.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28459,
+    "content": "Clean cinematic outdoor lifestyle portrait of a {argument name=\"subject\" default=\"young rugged male figure\"} standing in three-quarter angle, head bowed slightly downward and turned to the side, gaze cast down with a calm, quietly contemplative expression. He has voluminous dark curly hair with natural texture and volume, tousled and full. A full well-groomed dark beard and mustache cover his jaw and cheeks. He wears a {argument name=\"clothing\" default=\"dark navy-black technical hooded jacket/anorak\"} — structured and outdoorsy with a relaxed hood resting behind the neck, clean minimal design with a small zippered chest pocket detail, both hands tucked casually into the front pockets. Dark olive-green trousers visible at the bottom of the frame, with a hint of a light-colored base layer peeking at the waist. He stands on a sandy, gravelly outdoor ground surface. Directly behind him, a {argument name=\"vehicle\" default=\"rugged vintage off-road vehicle\"} — a classic boxy 4x4 SUV in dark forest green with a white roof and roof rack — is parked and softly blurred, suggesting an adventure or overlanding lifestyle setting. The background beyond the vehicle shows soft blurred dark green trees and foliage, suggesting a forest or wilderness campsite location. The lighting is bright, natural, and directional — strong outdoor daylight from the upper right catching his hair, forehead, and the jacket shoulder in warm natural highlights, with soft natural shadow across the rest of the face and body. Color palette: dark navy jacket, olive green trousers, warm natural skin tones, muted forest green vehicle and background, warm sandy ground tones. Photography style: outdoor adventure lifestyle editorial, clean natural light, 85mm lens, shallow depth of field with vehicle and background softly blurred, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, eyes, brow, nose, jawline, beard, and skin tone should be taken entirely from the reference photo. Apply only the downward contemplative gaze and bright natural outdoor lighting on top of the reference face.",
+    "title": "Rugged Male Outdoor Portrait",
+    "description": "An adventure-themed outdoor portrait prompt for a rugged male figure standing near a vintage off-road vehicle in a forest setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927795883_rjhveu_HNChcwZacAAmyXi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28457,
+    "content": "Overhead studio shot of {argument name=\"product\" default=\"[your product]\"} on {argument name=\"surface material\" default=\"wet black slate\"}, single hard side-light, water droplets, subtle steam, 85mm macro, editorial lighting",
+    "title": "Editorial Product Shot on Wet Slate",
+    "description": "A macro studio shot prompt for products on wet black slate with editorial lighting and water droplets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927794920_jsmy59_HNBkbaKbcAAhBac.jpg",
+      "https://cms-assets.youmind.com/media/1783927795032_b0re79_HNBkbaIbwAAChE5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28458,
+    "content": "Ultra realistic modern luxury mansion, grand architectural design, large floor-to-ceiling glass windows, white marble facade, warm golden sunlight, landscaped garden, infinity pool, luxury driveway with a premium sports car, cinematic composition, highly detailed textures, realistic reflections, HDR photography, 8k quality, luxury lifestyle aesthetic, vibrant colors, professional real estate photography, centered composition, square format, 1080x1080 Ultra realistic luxury mansion at night, black stone and dark wood exterior, dramatic cinematic lighting, glowing interior lights through large glass walls, reflecting infinity pool, modern minimalist architecture, wet driveway reflections, moody atmosphere, luxury sports car silhouette, ultra detailed textures, photorealistic, HDR, 8k quality, luxury real estate photography, centered composition, square format, 1080x1080.",
+    "title": "Modern Luxury Mansion Architecture",
+    "description": "A prompt for creating a high-end real estate visualization of a luxury mansion with marble facades and cinematic sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927795397_41qezw_HNBwOoabIAA9UOz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28449,
+    "content": "summer {argument name=\"product type\" default=\"AI tool launch\"} poster, {argument name=\"color palette\" default=\"glossy citrus\"} palette, {argument name=\"font style\" default=\"bold sans\"} headline, soft shadows, clean CTA button",
+    "title": "Summer AI Tool Launch Poster",
+    "description": "A clean and modern poster design for an AI tool launch featuring a glossy citrus palette and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927789924_rdti5e_HMySJOIWYAA-hPq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28461,
+    "content": "Ultra-premium handcrafted fashion portrait illustration blending {argument name=\"aesthetic\" default=\"elegant semi-realistic anime aesthetics\"} with expressive fine-art graphite sketching. Delicate, confident pencil linework merges seamlessly with refined digital painting, featuring soft painterly skin transitions, luminous porcelain complexion, natural rosy blush, glossy lips, highly expressive crystal-clear eyes, and ultra-detailed individual hair strands rendered with loose flowing curls and wispy flyaway hairs. Clean manga-inspired facial construction combines with luxury editorial fashion illustration, refined anatomy, graceful proportions, and sophisticated minimalist composition. Crisp yet organic ink contours gradually dissolve into subtle graphite construction lines and unfinished sketch marks around the edges, creating an authentic hand-drawn appearance. Smooth painterly rendering is balanced with visible pencil texture, gentle cross-hatching, and delicate shading. {argument name=\"color palette\" default=\"Warm ivory, cream, peach, soft coral, muted beige, warm brown, and subtle charcoal tones\"} dominate the palette, with {argument name=\"lighting\" default=\"soft diffused studio lighting\"}, elegant highlights, and natural shadow transitions. Minimal uncluttered background on textured fine-art paper with faint sketch traces, emphasizing timeless beauty, contemporary editorial elegance, and museum-quality mixed-media illustration. Ultra-detailed, handcrafted, refined, sophisticated, expressive, soft, luxurious, non-photorealistic.",
+    "title": "Handcrafted Fashion Graphite Sketch",
+    "description": "A sophisticated prompt for creating a fashion portrait that blends digital painting with expressive graphite sketching and anime aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927796669_qejcip_HNAXN82asAA9oF8.jpg",
+      "https://cms-assets.youmind.com/media/1783927796455_jwl03y_HNAXO1PagAAHsXM.jpg",
+      "https://cms-assets.youmind.com/media/1783927796677_wywjes_HNAXP8maoAA3wpH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28453,
+    "content": "A cinematic close-up shot of a {argument name=\"subject\" default=\"fit young man lifting heavy dumbbells\"} in an intense gym session, {argument name=\"attire\" default=\"shirtless, wearing black joggers and wrist wraps\"}. His muscles are fully engaged—veins visible across his arms, sharply defined abs, chest, and shoulders under strain. His messy medium-length dark hair is slightly damp with sweat, partially covering his eyes, giving a focused, determined expression. One frame captures him mid-rep during a dumbbell curl, biceps flexed at peak contraction.\n\nThe gym environment is {argument name=\"lighting\" default=\"dimly lit with dramatic overhead lighting\"}, creating strong shadows and highlights that sculpt his physique. Sweat glistens on his skin, emphasizing realistic texture and muscle definition. Blurred background with gym equipment like racks and plates faintly visible. Subtle haze in the air for a cinematic atmosphere. Shallow depth of field, editorial fitness photography style, ultra-realistic, natural but high contrast color grading. Face 100% same as reference photo.",
+    "title": "Cinematic Intense Gym Session Portrait",
+    "description": "An ultra-realistic fitness photography prompt for a cinematic close-up of a man lifting weights with dramatic lighting and high-contrast muscle definition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927792578_5b93ks_HM_Isa1aMAA_pvt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28347,
     "content": "A {argument name=\"subject\" default=\"striking middle-aged man\"} with an intense, direct gaze looks slightly downward toward the lens, his strong jawline framed by a thick, meticulously groomed beard peppered with subtle hints of lighter brown and gray. His dark brown, wavy hair is styled upward with natural volume and texture, featuring delicate flyaways that catch the ambient rim light. He wears glossy tortoiseshell square-framed eyeglasses, the smooth acetate catching sharp specular reflections from nearby light sources. He is dressed sharply in a {argument name=\"suit\" default=\"rich caramel-brown tailored suit jacket crafted from a heavy, textured fabric resembling wool or felt\"}, layered cleanly over a crisp white collared dress shirt and a solid black tie with a subtle weave. He is positioned outdoors in a {argument name=\"setting\" default=\"classic European urban street setting at night\"}, with a grand, ornately detailed stone building featuring tall, curved bay windows and arched ground-floor doorways looming in the left background. To his right, the environment opens up to a receding city street lined with warmly glowing, out-of-focus streetlamps. The atmosphere is defined by dramatic, high-contrast directional lighting originating from the right, which casts intense, warm amber and sodium-vapor yellow highlights across the right side of his face, the frame of his glasses, and his jacket lapel, while plunging the left side of his features into deep, cinematic shadows in a classic chiaroscuro effect. This sophisticated, moody color profile seamlessly balances the rich earth tones of his attire with the golden luminescence of the urban night, captured with a shallow depth of field that keeps his facial features in razor-sharp focus while melting the distant street architecture and lights into a soft, glowing bokeh, reflecting the technical aesthetic of modern high-resolution low-light street portraiture, all framed in a 4:5 aspect ratio.",
     "title": "Urban Night Suit Portrait",
@@ -39,6 +112,18 @@
       "https://cms-assets.youmind.com/media/1783840264273_9iwmt3_HM8fsS7aoAA3sdG.jpg",
       "https://cms-assets.youmind.com/media/1783840264274_tea8bg_HM8ftqQbUAAUZE6.jpg",
       "https://cms-assets.youmind.com/media/1783840264226_pucrta_HM8fuvbbAAA1BM1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28394,
+    "content": "Ultra-photorealistic luxury fashion editorial, premium studio campaign, a beautiful young {argument name=\"model description\" default=\"Korean woman\"} with flawless porcelain skin, delicate facial features, naturally glossy lips, expressive almond-shaped eyes, and long voluminous soft-wave dark hair. She wears an elegant {argument name=\"outfit\" default=\"deep mocha-brown satin halter-neck draped blouse with luxurious fluid silk texture, paired with impeccably tailored high-waisted wide-leg chocolate trousers\"}, pointed dark-brown leather stilettos, a minimalist luxury wristwatch, delicate gold earrings, and carries a structured premium dark leather handbag. She is captured in a powerful full-body confident runway walk directly toward the camera. One hand is casually inside the trouser pocket while the other naturally holds the handbag. Long graceful stride, straight posture, relaxed shoulders, elongated neck, confident fashion-model body language, subtle editorial expression, calm luxury attitude, eyes looking slightly upward and away from the camera, cinematic elegance. Shot inside a minimalist premium mocha luxury photography studio with a {argument name=\"background\" default=\"seamless matte brown infinity backdrop\"}, polished reflective floor, subtle atmospheric haze, and a perfectly centered warm circular spotlight glow behind the model creating a luxurious halo effect. The environment is clean, uncluttered, and highly realistic with no props except the handbag. Lighting: large overhead octabox as key light, soft front beauty fill, warm golden backlight creating a subtle halo around the hair, gentle rim lighting defining the silhouette, realistic soft shadows, premium commercial studio lighting, luxury perfume campaign aesthetic. Color grading: rich mocha brown palette, warm bronze highlights, deep chocolate shadows, cinematic HDR contrast, natural skin tones, subtle filmic richness, premium Vogue editorial look, extremely realistic reflections and fabric texture. Camera: full-body vertical composition, eye-level perspective, 85mm lens, f/2.8, shallow depth of field, razor-sharp facial details, ultra-clean skin texture, realistic hair strands, physically accurate fabric folds, luxury commercial fashion photography. Hyper-realistic, ultra-detailed, true-to-life, 8K HDR, professional fashion photoshoot, Vogue cover quality, Hasselblad medium-format realism, flawless anatomy, natural proportions, premium luxury campaign, no text, no watermark, no logo, no extra people.",
+    "title": "Korean Model Fashion Studio Editorial",
+    "description": "Detailed fashion editorial prompt for a studio photoshoot, featuring a Korean woman in high-end clothing with a professional studio lighting setup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927798474_knzv3j_HM8OnqPaYAA6vKR.jpg",
+      "https://cms-assets.youmind.com/media/1783927799311_swtqqe_HM8OoPKa4AADUvT.jpg",
+      "https://cms-assets.youmind.com/media/1783927798387_gcfe94_HM8Oo05bQAEgrrD.jpg"
     ],
     "needReferenceImages": false
   },

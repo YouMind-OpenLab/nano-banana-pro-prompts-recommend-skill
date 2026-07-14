@@ -1,5 +1,25 @@
 [
   {
+    "id": 28462,
+    "content": "Cinematic scene, heavy silhouetting, {argument name=\"lighting\" default=\"daybreak light\"}, {argument name=\"atmosphere\" default=\"dark, foggy\"}",
+    "title": "Cinematic Daybreak Silhouette Portrait",
+    "description": "A prompt for creating atmospheric cinematic portraits with heavy silhouetting and specific lighting conditions, useful for placing a subject into new dark or foggy environments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927796951_ufmu2i_HND7sYBa0AACmFE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28455,
+    "content": "Create a low-angle neo-noir sci-fi still, chest-up portrait of a person with a {argument name=\"gaze\" default=\"slight upward gaze\"}. Place the subject in the lower-right third, leaving vast negative space with about 80 percent empty sky above. The subject wears a {argument name=\"coat\" default=\"matte shearling-collar heavy coat\"} over a dark knit sweater in a desaturated olive and charcoal palette. The background is a {argument name=\"sky\" default=\"blank, overcast sky\"} with subtle haze. Use soft ambient daylight with negative fill on camera-left. Use image for face reference.",
+    "title": "Neo-Noir Sci-Fi Sky Portrait",
+    "description": "A cinematic neo-noir prompt featuring a low-angle portrait with massive negative sky space and a shearling-collar coat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783927794028_5dtjn3_HNCG4yGbgAA4Txd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28338,
     "content": "A {argument name=\"warrior\" default=\"heavenly paladin\"} stands in a {argument name=\"setting\" default=\"muddy clearing inside the cursed forest\"} with his longsword raised in a defensive stance. A terrifying {argument name=\"monster\" default=\"shadow creature\"} with glowing red eyes has landed several meters in front of him, crouched low like a predatory beast with elongated claws and a twisted humanoid body. Rain pours heavily as thick fog swirls around them. Ancient dead trees surround the clearing while tension fills the air moments before the battle begins. Ultra realistic medieval dark fantasy, cinematic lighting, heavy rain, volumetric fog, photorealistic, terrifying atmosphere, highly detailed armor, 16:9.",
     "title": "Dark Fantasy Paladin Duel",
