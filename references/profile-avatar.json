@@ -10,6 +10,62 @@
     "needReferenceImages": false
   },
   {
+    "id": 28665,
+    "content": "with reference to the uploaded image create a hyper realistic image of me wearing a {argument name=\"outfit\" default=\"black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot\"}, wearing {argument name=\"headwear\" default=\"white barrister wig\"} on my head. Middle-part black bone straight hair, ultra glam makeup with glossy shinning lips, small hoop earring, seated elegantl with leg crossed on a {argument name=\"furniture\" default=\"wooden chair\"} with one arm on knee. Minimalist studio background with a visible robe hanging behind, professional studio lighting, medium shot, regal seated posture, real skin texture, 8k quality. Do not change my face",
+    "title": "Hyper-Realistic Legal Professional Portrait",
+    "description": "A professional portrait prompt for a lawyer wearing a barrister wig and robes, designed to maintain specific facial features while creating a regal, studio-quality image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098931780_nt0ogp_HNOVL2VWAAAW79n.jpg",
+      "https://cms-assets.youmind.com/media/1784098931922_uc966h_HNOVMUnWwAEcSLo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28663,
+    "content": "{argument name=\"reference\" default=\"image_1\"} Is holding a sign that says \"{argument name=\"sign text\" default=\"Flova CPP\"},\" in her left hand. She is making a peace sign with her right hand and grinning happily with teeth showing. {argument name=\"aesthetic\" default=\"Extremely cute vibes. Summer energy\"}. Vibrant colors. Bokeh. Subtle lens glare. Oversaturated lighting from the bright summer sun. Put her in a more casual summer outfit.",
+    "title": "Summer Vibes Character Sign",
+    "description": "A vibrant prompt for a character holding a custom sign with happy summer energy, designed for side-by-side model comparisons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098929453_yz1bnt_HNNifMQboAALyQl.jpg",
+      "https://cms-assets.youmind.com/media/1784098931143_htol6e_HNNigcna8AABtji.jpg",
+      "https://cms-assets.youmind.com/media/1784098931048_aw40ws_HNNihCfbMAA4hHL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28668,
+    "content": "Professional studio portrait, using the face and likeness from the uploaded photo, subject making a {argument name=\"gesture\" default=\"finger heart gesture\"} with one hand raised near chest height, thumb and index finger forming a small heart shape, warm friendly smile, {argument name=\"outfit\" default=\"casual black outfit\"}, soft even studio lighting, {argument name=\"background\" default=\"clean neutral gray background\"}, sharp focus on face and hand, natural skin texture, high-end editorial photography, consistent facial identity preserved from the uploaded photo, vertical portrait format, high resolution",
+    "title": "Studio Portrait with Finger Heart Gesture",
+    "description": "A prompt for high-end editorial studio portraits, focusing on preserving facial identity and incorporating friendly gestures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098933565_rvbww6_HNMY47RacAAF5Be.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28667,
+    "content": "A handsome young man with a {argument name=\"beard\" default=\"neatly groomed beard\"} and {argument name=\"hair style\" default=\"wavy dark hair\"} is captured in a series of close-up portraits, all set within a professional studio environment characterized by dramatic, warm golden lighting that creates a sophisticated atmosphere. In each composition, he is dressed in a {argument name=\"outfit\" default=\"dark, textured sweater\"} and seated, with his posture varying subtly across the images: he appears in a direct, inviting gaze, resting his chin thoughtfully on his hand, leaning forward slightly with his arms resting on his knees, and sitting in a relaxed, composed position with his hands clasped. The background features a soft, mottled texture that enhances the cinematic quality of the scene, highlighting his sharp features and the soft, glowing highlights on his face and hair.",
+    "title": "Handsome Studio Style Male Portrait",
+    "description": "A prompt for generating professional studio portraits of a handsome man with warm golden lighting and cinematic quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098932809_apfuge_HNME-zGW4AAyzWW.jpg",
+      "https://cms-assets.youmind.com/media/1784098932800_pi3so3_HNME-rWXUAAzVKn.jpg",
+      "https://cms-assets.youmind.com/media/1784098932806_uyd36s_HNME-o-XQAAXSGy.jpg",
+      "https://cms-assets.youmind.com/media/1784098933484_xzv76m_HNME-tbWgAA3h53.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28662,
+    "content": "A moody intimate cinematic portrait of a {argument name=\"subject\" default=\"young athletic male figure\"} seated close beside a large rain-streaked window, head bowed slightly downward and turned to the side, gaze cast downward with a quiet, contemplative, and melancholic expression — lost in thought while watching the rain. His hair is dark, thick, and naturally tousled with volume, slightly damp and windswept, falling loosely across his forehead. Light stubble covers his jaw and chin. He wears a {argument name=\"clothing\" default=\"plain fitted dark charcoal-navy crew-neck t-shirt\"}, the fabric hugging his athletic build naturally with visible arm and shoulder muscle definition. A dark belt is barely visible at the waist. He sits close to the window, one arm resting near the windowsill. The window glass beside him is heavily streaked with rain — vertical rivulets and droplets running down the surface in dense, realistic detail, slightly distorting the dim outdoor view beyond, with a soft warm out-of-focus light source (a streetlamp or porch light) glowing faintly through the wet glass on the left side of the frame. The room behind him is dark and softly furnished — {argument name=\"background details\" default=\"blurred warm brown curtains or fabric\"} visible in the background, barely lit. The lighting is low-key and warm — a soft warm ambient glow from the window light source gently illuminates the side of his face, neck, and shoulder, while the rest of the frame remains in deep warm-toned shadow. Color palette: deep warm brown and charcoal tones, soft warm amber window glow, dark navy shirt, muted low-key shadow. Photography style: intimate moody lifestyle portrait, rain window atmosphere, 50mm lens, shallow depth of field with window glass and background softly blurred, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, eyes, brow, nose, jawline, stubble, and skin tone should be taken entirely from the reference photo. Apply only the downward contemplative gaze, tousled hair, and warm low-key window lighting on top of the reference face.",
+    "title": "Moody Cinematic Rain Window Portrait",
+    "description": "A cinematic and detailed prompt for creating a melancholic portrait of an athletic male figure seated by a rain-streaked window, featuring warm low-key lighting and intimate atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098930710_29xka1_HNKTQJ_bIAAJsjg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28563,
     "content": "Create a cinematic, ultra-realistic portrait of a {argument name=\"subject\" default=\"young girl\"} inspired by {argument name=\"culture\" default=\"ancient Egyptian royalty\"}. She has long, naturally wavy black hair, warm brown skin, expressive dark brown eyes, and a serene, confident expression while looking directly at the camera. She wears an intricate blue-and-gold Egyptian headpiece decorated with {argument name=\"jewelry\" default=\"lapis lazuli, turquoise, and gold ornaments\"}, matching earrings, an ornate broad collar necklace with colorful gemstones, and a richly embroidered royal garment featuring authentic ancient Egyptian motifs and hieroglyphic-inspired patterns. The setting is inside an ancient Egyptian palace with sandstone columns, carved hieroglyphs, pottery, and warm golden sunlight streaming through the hall. Use a shallow depth of field with a softly blurred background, cinematic lighting, realistic skin texture, natural colors, fine fabric details, and highly detailed jewelry. Capture the image as if shot on a full-frame camera with an 85mm portrait lens at f/1.8, resulting in a premium cinematic look, ultra-high resolution, photorealistic, museum-quality detail. No text, logos, or watermarks",
     "title": "Ancient Egyptian Royal Portrait",

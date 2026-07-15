@@ -1,5 +1,25 @@
 [
   {
+    "id": 28672,
+    "content": "8-panel manga Title {argument name=\"title\" default=\"The Agony of the Baccarat Venue\"} Culprit \"{argument name=\"dialogue\" default=\"Go ahead and try it if you can\"}\" Afterward \"{argument name=\"development\" default=\"Whoa! Don't all rush in at once\"}\"",
+    "title": "8-Panel Manga Scene",
+    "description": "A detailed prompt for generating an 8-panel manga sequence depicting a dramatic confrontation at a baccarat venue.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098936636_c6js4r_HNL6eGSagAEFtvs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28666,
+    "content": "Charming stylized 3D animated {argument name=\"character\" default=\"mother character\"} in the {argument name=\"setting\" default=\"kitchen\"} with her baby in one arm while she talks on her {argument name=\"object\" default=\"mobile phone\"} with the other hand, the baby is trying to grab the mobile phone, large expressive brown eyes, soft rounded facial features, slightly exaggerated proportions, long dark frizzy morning hair hair, warm rosy cheeks, warm golden morning light, cinematic soft lighting, shallow depth of field, subsurface scattering skin, ultra-detailed 3D animated film render, Pixar-inspired style, 85mm lens, high resolution, highly detailed, soft bokeh background, volumetric light, hyperreal human, ultra realistic face, doll face, realistic 3d human portrait",
+    "title": "Stylized 3D Animated Mother Portrait",
+    "description": "A Pixar-inspired 3D animation prompt showing a mother in a kitchen with her baby, featuring warm morning light and high-resolution details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098932661_mi34wf_HKM8J9qWkAAnviQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28563,
     "content": "Create a cinematic, ultra-realistic portrait of a {argument name=\"subject\" default=\"young girl\"} inspired by {argument name=\"culture\" default=\"ancient Egyptian royalty\"}. She has long, naturally wavy black hair, warm brown skin, expressive dark brown eyes, and a serene, confident expression while looking directly at the camera. She wears an intricate blue-and-gold Egyptian headpiece decorated with {argument name=\"jewelry\" default=\"lapis lazuli, turquoise, and gold ornaments\"}, matching earrings, an ornate broad collar necklace with colorful gemstones, and a richly embroidered royal garment featuring authentic ancient Egyptian motifs and hieroglyphic-inspired patterns. The setting is inside an ancient Egyptian palace with sandstone columns, carved hieroglyphs, pottery, and warm golden sunlight streaming through the hall. Use a shallow depth of field with a softly blurred background, cinematic lighting, realistic skin texture, natural colors, fine fabric details, and highly detailed jewelry. Capture the image as if shot on a full-frame camera with an 85mm portrait lens at f/1.8, resulting in a premium cinematic look, ultra-high resolution, photorealistic, museum-quality detail. No text, logos, or watermarks",
     "title": "Ancient Egyptian Royal Portrait",

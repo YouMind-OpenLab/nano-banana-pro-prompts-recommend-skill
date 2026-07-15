@@ -21,6 +21,42 @@
     "needReferenceImages": true
   },
   {
+    "id": 28668,
+    "content": "Professional studio portrait, using the face and likeness from the uploaded photo, subject making a {argument name=\"gesture\" default=\"finger heart gesture\"} with one hand raised near chest height, thumb and index finger forming a small heart shape, warm friendly smile, {argument name=\"outfit\" default=\"casual black outfit\"}, soft even studio lighting, {argument name=\"background\" default=\"clean neutral gray background\"}, sharp focus on face and hand, natural skin texture, high-end editorial photography, consistent facial identity preserved from the uploaded photo, vertical portrait format, high resolution",
+    "title": "Studio Portrait with Finger Heart Gesture",
+    "description": "A prompt for high-end editorial studio portraits, focusing on preserving facial identity and incorporating friendly gestures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098933565_rvbww6_HNMY47RacAAF5Be.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28669,
+    "content": "Fashion lifestyle portrait shot from extreme ground-level low angle looking dramatically upward, young East Asian woman with {argument name=\"hair style\" default=\"short wavy bob haircut\"}, wind-blown hair with one strand crossing face while one eye makes sharp direct eye contact with camera, {argument name=\"makeup\" default=\"bold red lipstick\"} as single makeup accent, wearing fitted white t-shirt tucked into {argument name=\"skirt\" default=\"high-waisted pink denim mini skirt\"}, delicate gold chain necklace, standing against urban chain-link fence with building wall edge visible, vast deep electric blue sky dominating upper two-thirds of frame making her tower dramatically against it, utility pole visible at edge of background, strong directional midday sunlight, saturated electric blue sky color grade, pink skirt warmed slightly for contrast pop, vertical 4:5 composition, Korean street style editorial photography --ar 4:5 --v 6",
+    "title": "High-Angle Korean Street Style Portrait",
+    "description": "Captures a dramatic low-angle fashion portrait with vibrant colors and Korean street style aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098934251_u2bjn4_HNMSYNeaIAAnEna.jpg",
+      "https://cms-assets.youmind.com/media/1784098934079_x1lq1z_HNMSaNdaIAAx0RJ.jpg",
+      "https://cms-assets.youmind.com/media/1784098934065_n35xga_HNMSb_paIAAgDlX.jpg",
+      "https://cms-assets.youmind.com/media/1784098934732_ypexgn_HNMSiJgaAAErrYj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28671,
+    "content": "Don't change her face—keep her original identity 100% authentic with perfect facial symmetry, preserving every facial feature exactly as in the reference. A stunning youthful woman with fair porcelain skin, soft blush, natural pink lips, large expressive grey-brown eyes with long curled lashes, defined eyebrows, and light freckles across the cheeks and nose. Her {argument name=\"hair\" default=\"light golden-brown hair\"} is styled in a loose low messy bun with soft face-framing strands naturally blowing in the breeze. She wears elegant butterfly-and-flower chain earrings, layered pearl and twisted gold chain necklaces, and a luxurious silky satin {argument name=\"brand\" default=\"Louis Vuitton\"} monogram shirt featuring a dreamy sky-and-mountain print in soft blue, white, and warm orange tones with a relaxed open collar. The scene takes place outdoors beneath a {argument name=\"background\" default=\"vibrant deep-blue summer sky with fluffy white clouds\"}, illuminated by bright natural midday sunlight that creates soft, flattering shadows and realistic skin highlights. Ultra-realistic DSLR photography with shallow depth of field, crisp focus, cinematic color grading, natural skin texture, subtle wind movement, premium fashion editorial aesthetic, 85mm lens, f/1.8, HDR, 8K resolution.\nCreate four natural variations while maintaining identical identity, outfit, hairstyle, accessories, lighting, and background: (1) a calm front-facing selfie with a soft neutral expression looking directly into the camera, (2) a playful selfie with one eye winking, tongue slightly out, and a raised peace sign close to the face, (3) a graceful three-quarter side profile while gently touching her hair near the butterfly earring and gazing into the distance, and (4) an over-the-shoulder pose holding a bouquet of pastel pink and cream flowers, smiling softly toward the camera. Maintain consistent character identity across all images with photorealistic quality, realistic skin, natural wind-blown hair, luxury fashion styling, and a bright, airy summer atmosphere.",
+    "title": "Photorealistic Fashion Model Summer Variations",
+    "description": "Generates high-resolution fashion model variations while maintaining strict character consistency and a bright summer atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784098934903_vo7odu_HNKOINEbwAAyfjb.jpg",
+      "https://cms-assets.youmind.com/media/1784098934934_94d5nq_HNKOItGa8AAMqiT.jpg",
+      "https://cms-assets.youmind.com/media/1784098934978_hmobnn_HNKOJP5bUAA6e1N.jpg",
+      "https://cms-assets.youmind.com/media/1784098936077_d8hhu0_HNKOJ4SaEAABPL-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28568,
     "content": "Editorial four-panel portrait grid, using the face and likeness from the uploaded photo, model wearing a {argument name=\"clothing\" default=\"plain white ribbed tank top\"}, {argument name=\"hair style\" default=\"sleek wet-look hair\"} pulled back tightly with a natural hairline, soft clean studio lighting against a {argument name=\"background\" default=\"neutral beige-white backdrop\"}, four different angles: front-facing close-up portrait, three-quarter body shot, slight side-angle close-up, and over-the-shoulder side profile shot, minimal skincare-fresh makeup, dewy natural skin, neutral relaxed expression, high-end fashion campaign aesthetic, sharp focus, soft even shadows, consistent identity and facial features preserved across all four panels, high resolution photography",
     "title": "Fashion Editorial Grid Portrait",
