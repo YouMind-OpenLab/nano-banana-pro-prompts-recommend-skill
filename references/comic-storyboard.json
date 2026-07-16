@@ -1,5 +1,15 @@
 [
   {
+    "id": 28785,
+    "content": "A cinematic candlelit interior scene of a {argument name=\"subject\" default=\"male figure\"} seated at a small wooden table across from two other blurred figures, seen in the framing gap between their silhouetted heads and shoulders in the foreground. He sits directly facing the camera, gaze locked intensely on something or someone off-frame with a calm, cold, and calculating expression — the look of someone in the middle of a tense negotiation, secretive meeting, or confrontation. His hair is short, dark, neatly styled. He wears a {argument name=\"clothing\" default=\"dark olive-charcoal crew-neck sweater\"}, casual but composed. His arms rest on the wooden tabletop in front of him. A single lit candle sits in a small holder on the table between the figures — the flickering warm flame the primary light source of the entire scene, with a thin wisp of smoke curling upward from it. A folded paper or document is visible on the table near the candle, suggesting a covert exchange or deal being discussed. The two figures in the foreground on either side are cropped and out of focus — only the backs and sides of their heads and shoulders visible in silhouette, framing the central figure’s face between them. The background reveals a dimly lit bar, tavern, or restaurant interior — blurred wall-mounted picture frames, soft warm and cool bokeh window lights, and other blurred patrons visible in the deep background. The lighting is entirely warm and low — dominated by the candle’s flickering amber-gold glow illuminating the central figure’s face from below-front, casting soft warm highlights on his forehead, nose, cheekbones, and beard, while everything else recedes into rich brown-black shadow. Color palette: warm candlelight amber-gold, deep brown-black shadow, muted background bokeh. Photography style: cinematic film noir interior scene, candlelit dramatic lighting, {argument name=\"lens\" default=\"50mm lens\"}, shallow depth of field with foreground figures softly blurred, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, eyes, brow, nose, jawline, beard, and skin tone should be taken entirely from the reference photo. Apply only the calm calculating direct gaze and warm candlelit lighting on top of the reference face.",
+    "title": "Cinematic Candlelit Noir Scene",
+    "description": "A dramatic film noir prompt for a candlelit negotiation scene, focusing on shallow depth of field, warm lighting, and intense facial expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784185549038_gcy579_HNQwr7UaMAAfbpb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28672,
     "content": "8-panel manga Title {argument name=\"title\" default=\"The Agony of the Baccarat Venue\"} Culprit \"{argument name=\"dialogue\" default=\"Go ahead and try it if you can\"}\" Afterward \"{argument name=\"development\" default=\"Whoa! Don't all rush in at once\"}\"",
     "title": "8-Panel Manga Scene",

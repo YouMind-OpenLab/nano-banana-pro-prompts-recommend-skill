@@ -21,6 +21,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 28784,
+    "content": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\" default=\"red and white\"} uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"main slogan\" default=\"THINK BETTER\"}”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
+    "title": "Premium Sports Editorial Poster",
+    "description": "A high-end sports editorial prompt for creating a multi-panel basketball athlete poster with bold typography and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784185547642_mgwbwd_HNRfurkakAAdwMv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28668,
     "content": "Professional studio portrait, using the face and likeness from the uploaded photo, subject making a {argument name=\"gesture\" default=\"finger heart gesture\"} with one hand raised near chest height, thumb and index finger forming a small heart shape, warm friendly smile, {argument name=\"outfit\" default=\"casual black outfit\"}, soft even studio lighting, {argument name=\"background\" default=\"clean neutral gray background\"}, sharp focus on face and hand, natural skin texture, high-end editorial photography, consistent facial identity preserved from the uploaded photo, vertical portrait format, high resolution",
     "title": "Studio Portrait with Finger Heart Gesture",
