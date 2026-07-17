@@ -10,6 +10,40 @@
     "needReferenceImages": false
   },
   {
+    "id": 28853,
+    "content": "A portrait of a young woman with voluminous curly red hair and freckles sitting in a field of bright red poppies.\n\nSubject: A fair-skinned woman with {argument name=\"hair style\" default=\"long, wavy red hair\"} cascading over her shoulders, prominent freckles across her nose and cheeks, and soft brown eyes looking directly at the camera.\n\nClothing: She wears a {argument name=\"outfit\" default=\"loose-fitting, cream-colored dress with delicate floral patterns\"} and gathered sleeves.\n\nAction: Her left hand is raised to touch her hair near her temple while she sits amidst the flowers.\n\nEnvironment: A {argument name=\"setting\" default=\"vast field filled with vibrant red poppies\"} under an overcast sky, with a blurred vintage camera on a tripod visible in the background.\n\nCamera: Shot with a shallow depth of field that keeps the subject sharp while blurring the foreground flowers and distant background.\n\nLighting: Soft, diffused natural light creates gentle shadows and highlights the texture of her hair and skin without harsh contrast.\n\nObjects: Bright red poppy flowers are scattered in the immediate foreground and surrounding the subject.\n\nStyle Details: The image features a dreamy, cinematic aesthetic with warm color tones and a soft focus that enhances the romantic atmosphere.",
+    "title": "Redheaded Woman in Poppy Field",
+    "description": "A dreamy and romantic prompt featuring a woman with curly red hair in a vibrant poppy field, utilizing soft natural light and a vintage aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784272439337_rxtfsy_HNVByo9asAASGQm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28855,
+    "content": "Ultra-realistic 8K smartphone selfie, RAW photo, beautiful young woman with long straight {argument name=\"hair color\" default=\"light brown\"} hair, fair glowing skin, soft natural makeup, defined brows, long eyelashes, glossy pink lips, delicate facial features, wearing a {argument name=\"outfit\" default=\"black fitted long-sleeve top\"} with a traditional red-and-white keffiyeh scarf draped over her shoulders. Holding a black iPhone Pro in front of a mirror, playful expression with her tongue slightly out, relaxed pose, minimal jewelry, bright indoor lighting, {argument name=\"background\" default=\"clean white vertical panel wall\"} background, soft shadows, realistic skin texture, sharp focus on face, shallow depth of field, natural color grading, ultra-detailed, photorealistic, lifestyle photography, casual aesthetic, Instagram influencer style, high-end smartphone camera quality.\nSecond variation: Ultra-realistic 8K selfie, the same young woman wearing the same red-and-white keffiyeh wrapped around her head and covering the lower half of her face, only one eye visible while giving a playful wink, long hair partially visible, loose light gray shirt, arm extended toward the camera for a selfie, indoor room with white curtains in the background, soft even lighting, highly detailed fabric texture, realistic skin, cinematic composition, RAW smartphone photography, ultra-photorealistic, natural colors, sharp focus, shallow depth of field, premium lifestyle portrait, Instagram aesthetic.",
+    "title": "Lifestyle Smartphone Selfie with Keffiyeh",
+    "description": "Realistic smartphone selfies featuring a woman wearing a keffiyeh scarf, capturing both open-face and partially covered variations for a lifestyle aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784272439132_s086g5_HNVjQHDWkAAvg4H.jpg",
+      "https://cms-assets.youmind.com/media/1784272439414_wus4e1_HNVjQp6W0AAF0SX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28863,
+    "content": "{\n  \"task\": \"Generate a photorealistic vertical seated portrait\",\n  \"aspect_ratio\": \"3:4\",\n  \"subject\": {\n    \"age\": \"{argument name=\"age range\" default=\"adult woman, 24-32\"}\",\n    \"pose\": \"seated diagonally on a carved black wooden chair, body turned right, face back toward camera, both arms raised behind head, elbows wide, one leg across front of chair, the other bent right\"\n  },\n  \"appearance\": {\n    \"face\": \"elongated proportions, subtly lifted eyes, defined lips, calm languid self-assured expression\",\n    \"hair\": \"natural black or very deep cool brown-black, smooth at crown, heavy long hair falling along left side, sleek satin texture\",\n    \"skin\": \"light fair complexion with neutral beige and subtle peach-pink undertones, natural pores and believable texture\"\n  },\n  \"styling\": {\n    \"makeup\": \"soft matte complexion, refined brows, elongated upward black eyeliner, muted gray-brown eyeshadow, restrained contour, low-saturation rose-bean lipstick\",\n    \"top\": \"{argument name=\"top style\" default=\"fitted sleeveless champagne-gray or pale cool mauve top with fine silver fibers and small metallic points\"}\",\n    \"skirt\": \"high-waisted satin midi skirt in dusty blush or muted gray rose with rich folds\",\n    \"jewelry\": \"long silver or crystal drop earrings, delicate metallic necklace with tiny pendant\",\n    \"shoes\": \"silver strappy high-heeled sandals\"\n  },\n  \"scene\": {\n    \"location\": \"{argument name=\"location\" default=\"dim private dining room or vintage lounge\"}\",\n    \"background\": \"aged parchment-brown mural or textile screen with white cranes, bamboo or reeds, glossy black wooden borders, dark wall panels, deep vermilion glow on right\"\n  },\n  \"camera\": {\n    \"style\": \"early-2000s compact digital camera nightlife photo\",\n    \"lens\": \"28-40mm equivalent\",\n    \"angle\": \"slightly below face, chest or waist height\",\n    \"framing\": \"vertical three-quarter-to-full-body, subject fills most of frame\"\n  },\n  \"lighting\": {\n    \"type\": \"hard direct on-camera flash\",\n    \"direction\": \"close to lens axis, slightly left\",\n    \"effect\": \"bright subject, underexposed background, hard-edged shadows, low-light grain, mild JPEG compression\"\n  },\n  \"materials\": {\n    \"chair\": \"heavy carved black wooden chair with dark floral textile cushion\",\n    \"fabric\": \"satin folds with silver-pink highlights and muted gray-violet shadows\"\n  }\n}",
+    "title": "Early 2000s Nightlife Flash Portrait",
+    "description": "A sophisticated structured prompt that recreates the specific aesthetic of a 2000s compact camera flash photo in a vintage lounge setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784272444338_i25qy6_HNVQJX_bYAAXvBB.jpg",
+      "https://cms-assets.youmind.com/media/1784272444362_ui4brb_HNVQLtQaYAAEEKv.jpg",
+      "https://cms-assets.youmind.com/media/1784272444403_x14ddb_HNVQNm0a4AAMHW9.jpg",
+      "https://cms-assets.youmind.com/media/1784272445902_j5ijxq_HNVQRqmbwAA57_F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28665,
     "content": "with reference to the uploaded image create a hyper realistic image of me wearing a {argument name=\"outfit\" default=\"black blazers, black wide leg trousers under a fitted lawyer robe with white lace jabot\"}, wearing {argument name=\"headwear\" default=\"white barrister wig\"} on my head. Middle-part black bone straight hair, ultra glam makeup with glossy shinning lips, small hoop earring, seated elegantl with leg crossed on a {argument name=\"furniture\" default=\"wooden chair\"} with one arm on knee. Minimalist studio background with a visible robe hanging behind, professional studio lighting, medium shot, regal seated posture, real skin texture, 8k quality. Do not change my face",
     "title": "Hyper-Realistic Legal Professional Portrait",

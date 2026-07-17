@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 28862,
+    "content": "A stunning, hyper-realistic 8k medium shot, 50mm lens. The man (uploaded face as reference) is wearing a {argument name=\"clothing\" default=\"black minimalist hoodie\"}, holding a high-tech, cylindrical glass container with both hands. Inside the container, a miniature, glowing {argument name=\"glow color\" default=\"neon-cyan\"} version of himself (uploaded face as reference) is floating, its hand pressed against the glass. The main character’s face is close to the glass, his eyes wide with a mix of curiosity and empathy, his reflection visible on the surface. Intense {argument name=\"glow color\" default=\"neon-cyan\"} light emanates from inside the jar, casting sharp highlights on the man’s nose, forehead, and the texture of his hoodie. The lighting is \"Chiaroscuro\" style, with deep shadows and vibrant highlights. The background is a soft-focus {argument name=\"background\" default=\"urban night scene through a window\"}.",
+    "title": "Cinematic Chiaroscuro Man with Miniature Self",
+    "description": "A highly detailed cinematic prompt for a hyper-realistic scene of a man holding a miniature version of himself in a glowing container. It uses Chiaroscuro lighting and is designed for use with a face reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784272445324_1aod50_HNXSphtasAA2kqx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28784,
     "content": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\" default=\"red and white\"} uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"main slogan\" default=\"THINK BETTER\"}”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
     "title": "Premium Sports Editorial Poster",

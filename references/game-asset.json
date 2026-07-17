@@ -1,5 +1,15 @@
 [
   {
+    "id": 28859,
+    "content": "The interior of a dark, flooded mechanical cockpit filled with a {argument name=\"fluid color\" default=\"glowing amber\"} fluid, where a pilot's seat made of {argument name=\"seat material\" default=\"carved jade\"} and integrated biological cables holds a figure in a {argument name=\"suit style\" default=\"white plugsuit etched with Mesoamerican wave glyphs\"}.",
+    "title": "Mesoamerican Bio-Mechanical Cockpit",
+    "description": "A unique conceptual prompt merging biological elements with Mesoamerican aesthetics within a sci-fi mechanical cockpit setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784272442877_dryb38_HNYMXR1W8AEmtjr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28573,
     "content": "{argument name=\"subject\" default=\"Whimsical miniature world depiction of a ritual clearing with totem circle\"} in artistic blend of {argument name=\"primary style\" default=\"mythpunk\"} and {argument name=\"secondary style\" default=\"forestpunk\"} styles.",
     "title": "Whimsical Mythpunk Forest Ritual",
