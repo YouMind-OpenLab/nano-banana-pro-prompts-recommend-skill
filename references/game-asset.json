@@ -1,5 +1,15 @@
 [
   {
+    "id": 28959,
+    "content": "Transform the uploaded reference person into a {argument name=\"figure type\" default=\"hyper-realistic collectible action figure / 3D miniature figure\"} (preserving accurate facial features, hairstyle, clothing, and pose from the photo with no identity changes). The small figure stands dynamically on the {argument name=\"pose\" default=\"palm of a graceful woman's hand\"}. Macro close-up photography, sharp focus on miniature details in the foreground (glossy paint, subtle joint lines, realistic fabric texture at a reduced scale), focusing on the woman's soft skin and nails. The background features extreme creamy bokeh showing the actual full-sized person for a dramatic sense of scale. Studio product shot lighting with rim lights and specular highlights on the figure, photorealistic, highly detailed, cinematic, 9:20 portrait format.",
+    "title": "3D Miniature Action Figure Transformation",
+    "description": "Transforms a reference photo into a hyper-realistic 3D miniature action figure held in a hand, featuring macro photography details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357925287_ir3dk2_HNY6z0oa8AAb8KY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28859,
     "content": "The interior of a dark, flooded mechanical cockpit filled with a {argument name=\"fluid color\" default=\"glowing amber\"} fluid, where a pilot's seat made of {argument name=\"seat material\" default=\"carved jade\"} and integrated biological cables holds a figure in a {argument name=\"suit style\" default=\"white plugsuit etched with Mesoamerican wave glyphs\"}.",
     "title": "Mesoamerican Bio-Mechanical Cockpit",

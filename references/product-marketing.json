@@ -21,6 +21,39 @@
     "needReferenceImages": true
   },
   {
+    "id": 28957,
+    "content": "A high-quality 2x3 grid collage featuring six distinct, full-body portraits of {argument name=\"subjects\" default=\"diverse women\"}, each showcasing a unique {argument name=\"theme\" default=\"fashion style\"}, color palette, and setting. The top-left image features a woman with curly red hair in a vibrant red suit, posed in an outdoor Parisian-style café. The top-middle image shows a woman with a sleek bob hairstyle wearing a professional green double-breasted suit, standing on a modern glass walkway. The top-right image captures a woman in an elegant, flowing blue evening gown with a high slit, positioned on a stone balcony overlooking a sunset ocean view. The bottom-left image displays a woman with long wavy blonde hair in a bohemian outfit, including a crochet top and denim shorts, set against a backdrop of a sunflower field. The bottom-middle image features a woman with natural curly hair styled in a warm autumn-toned chunky turtleneck sweater and a pleated brown leather skirt on a city street. The bottom-right image shows a woman with a polished look in a grey pantsuit and silk camisole, standing in a {argument name=\"last setting\" default=\"minimalist art gallery corridor\"}.",
+    "title": "Diverse Fashion Styles Grid Collage",
+    "description": "A sophisticated multi-frame collage prompt designed to generate six distinct full-body portraits of women, each with a unique fashion aesthetic and setting, ranging from urban streets to serene sunflower fields.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357923848_t9w64w_HNbY1ClW8AAA7ea.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28960,
+    "content": "Minimalist product photography, {argument name=\"subject\" default=\"product from uploaded photo\"} placed on top of a {argument name=\"setting\" default=\"small rounded green grassy hill\"}, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside it with a single ceramic coffee cup, soft warm golden hour lighting, clear pale blue sky gradient transitioning to warm cream near the horizon, serene and calm atmosphere, negative space composition, vertical mobile wallpaper format, photorealistic, soft natural shadows, muted earthy color palette, high-end editorial product photography, 8k resolution",
+    "title": "Minimalist Product Photography on Grassy Hill",
+    "description": "A professional product photography prompt for Nano Banana Pro featuring a minimalist scene on a grassy hill during golden hour, ideal for high-end editorials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357924408_fhl7zm_HNZLbEkbYAA-sct.jpg",
+      "https://cms-assets.youmind.com/media/1784357924511_172yez_HNZLbmtbIAADtfx.jpg",
+      "https://cms-assets.youmind.com/media/1784357924479_8zdc9e_HNZLcDebgAA6zks.jpg",
+      "https://cms-assets.youmind.com/media/1784357925269_ksbbh7_HNZLchwaIAAsF9l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28959,
+    "content": "Transform the uploaded reference person into a {argument name=\"figure type\" default=\"hyper-realistic collectible action figure / 3D miniature figure\"} (preserving accurate facial features, hairstyle, clothing, and pose from the photo with no identity changes). The small figure stands dynamically on the {argument name=\"pose\" default=\"palm of a graceful woman's hand\"}. Macro close-up photography, sharp focus on miniature details in the foreground (glossy paint, subtle joint lines, realistic fabric texture at a reduced scale), focusing on the woman's soft skin and nails. The background features extreme creamy bokeh showing the actual full-sized person for a dramatic sense of scale. Studio product shot lighting with rim lights and specular highlights on the figure, photorealistic, highly detailed, cinematic, 9:20 portrait format.",
+    "title": "3D Miniature Action Figure Transformation",
+    "description": "Transforms a reference photo into a hyper-realistic 3D miniature action figure held in a hand, featuring macro photography details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357925287_ir3dk2_HNY6z0oa8AAb8KY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28857,
     "content": "{\"subject\": {\"description\": \"A beautiful young woman with tanned skin, long dark hair in a high ponytail, striking dark eyes, and full lips with a neutral, confident expression. She has a toned, curvaceous figure.\", \"pose\": \"Standing from a high-angle view, looking directly up at the camera with hands near her waist.\", \"clothing\": {\"original\": \"Orange strapless tube top and distressed green jeans.\", \"modifications\": \"Change the top to a bright pink strapless tube top. Remove the jeans and replace with a short black skirt. Add pink high-heel stilettos.\"}, \"accessories\": \"Gold cross necklace and large hoop earrings.\"}, \"setting\": {\"environment\": \"Modern minimalist room with white walls, black seating area with pillows, and large gray tiled floor.\", \"modifications\": \"Add a small, elegant 'Keor' engraving or inlaid text on the floor near her feet, in a stylish font.\"}, \"style\": {\"photography\": \"Realistic, high-resolution fashion photograph taken from a high angle. Sharp details on skin, hair, clothing, and floor tiles. Strong natural lighting with clear shadows.\", \"mood\": \"Confident and bold.\", \"composition\": \"Full-body high-angle shot emphasizing the figure and outfit.\"}, \"full_prompt\": \"Photorealistic high-angle full-body portrait of a beautiful woman with dark hair in a high ponytail, wearing a bright red strapless tube top, short white skirt, and red high-heel stilettos. She stands on a large gray tiled floor looking up at the camera with a confident expression. Add elegant 'Keor' engraving on the floor near her feet. Modern minimalist interior with white walls and black seating in background, natural lighting, highly detailed skin, hair, and fabric textures.\"}",
     "title": "Photorealistic High-Angle Fashion Portrait",

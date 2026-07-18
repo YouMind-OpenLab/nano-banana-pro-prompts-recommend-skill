@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 28957,
+    "content": "A high-quality 2x3 grid collage featuring six distinct, full-body portraits of {argument name=\"subjects\" default=\"diverse women\"}, each showcasing a unique {argument name=\"theme\" default=\"fashion style\"}, color palette, and setting. The top-left image features a woman with curly red hair in a vibrant red suit, posed in an outdoor Parisian-style café. The top-middle image shows a woman with a sleek bob hairstyle wearing a professional green double-breasted suit, standing on a modern glass walkway. The top-right image captures a woman in an elegant, flowing blue evening gown with a high slit, positioned on a stone balcony overlooking a sunset ocean view. The bottom-left image displays a woman with long wavy blonde hair in a bohemian outfit, including a crochet top and denim shorts, set against a backdrop of a sunflower field. The bottom-middle image features a woman with natural curly hair styled in a warm autumn-toned chunky turtleneck sweater and a pleated brown leather skirt on a city street. The bottom-right image shows a woman with a polished look in a grey pantsuit and silk camisole, standing in a {argument name=\"last setting\" default=\"minimalist art gallery corridor\"}.",
+    "title": "Diverse Fashion Styles Grid Collage",
+    "description": "A sophisticated multi-frame collage prompt designed to generate six distinct full-body portraits of women, each with a unique fashion aesthetic and setting, ranging from urban streets to serene sunflower fields.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357923848_t9w64w_HNbY1ClW8AAA7ea.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28862,
     "content": "A stunning, hyper-realistic 8k medium shot, 50mm lens. The man (uploaded face as reference) is wearing a {argument name=\"clothing\" default=\"black minimalist hoodie\"}, holding a high-tech, cylindrical glass container with both hands. Inside the container, a miniature, glowing {argument name=\"glow color\" default=\"neon-cyan\"} version of himself (uploaded face as reference) is floating, its hand pressed against the glass. The main character’s face is close to the glass, his eyes wide with a mix of curiosity and empathy, his reflection visible on the surface. Intense {argument name=\"glow color\" default=\"neon-cyan\"} light emanates from inside the jar, casting sharp highlights on the man’s nose, forehead, and the texture of his hoodie. The lighting is \"Chiaroscuro\" style, with deep shadows and vibrant highlights. The background is a soft-focus {argument name=\"background\" default=\"urban night scene through a window\"}.",
     "title": "Cinematic Chiaroscuro Man with Miniature Self",

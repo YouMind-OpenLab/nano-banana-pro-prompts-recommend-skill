@@ -1,5 +1,18 @@
 [
   {
+    "id": 28960,
+    "content": "Minimalist product photography, {argument name=\"subject\" default=\"product from uploaded photo\"} placed on top of a {argument name=\"setting\" default=\"small rounded green grassy hill\"}, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside it with a single ceramic coffee cup, soft warm golden hour lighting, clear pale blue sky gradient transitioning to warm cream near the horizon, serene and calm atmosphere, negative space composition, vertical mobile wallpaper format, photorealistic, soft natural shadows, muted earthy color palette, high-end editorial product photography, 8k resolution",
+    "title": "Minimalist Product Photography on Grassy Hill",
+    "description": "A professional product photography prompt for Nano Banana Pro featuring a minimalist scene on a grassy hill during golden hour, ideal for high-end editorials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357924408_fhl7zm_HNZLbEkbYAA-sct.jpg",
+      "https://cms-assets.youmind.com/media/1784357924511_172yez_HNZLbmtbIAADtfx.jpg",
+      "https://cms-assets.youmind.com/media/1784357924479_8zdc9e_HNZLcDebgAA6zks.jpg",
+      "https://cms-assets.youmind.com/media/1784357925269_ksbbh7_HNZLchwaIAAsF9l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28457,
     "content": "Overhead studio shot of {argument name=\"product\" default=\"[your product]\"} on {argument name=\"surface material\" default=\"wet black slate\"}, single hard side-light, water droplets, subtle steam, 85mm macro, editorial lighting",
     "title": "Editorial Product Shot on Wet Slate",

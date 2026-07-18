@@ -10,6 +10,26 @@
     "needReferenceImages": false
   },
   {
+    "id": 28958,
+    "content": "A high-quality, photorealistic portrait of a confident {argument name=\"age\" default=\"19 years young\"} smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with \"{argument name=\"shirt text\" default=\"PUBG\"}\" printed in bold black letters across the chest, and black sweatpants with \"{argument name=\"pants text\" default=\"FREE FIRE\"}\" printed vertically in white on the left leg. He is wearing yellow, black, and white athletic sneakers. In his right hand, he is holding a black baseball cap with \"FREE FIRE\" in white text. His left hand is casually resting in his pocket, and he wears a smartwatch with an orange band on his left wrist. He is standing on a modern indoor staircase that features warm yellow LED strip lighting under the lip of each step. The background is blurred with a shallow depth of field, showing a modern building interior like a shopping mall, with a few other casually dressed young men standing and chatting on the stairs behind him. Vibrant colors, bright indoor lighting, 8k resolution. Keep original face and hairstyle 100% reference Ratio 9:16",
+    "title": "Gamer Apparel Portrait",
+    "description": "A photorealistic portrait of a young man wearing gaming-branded streetwear inside a modern building with LED lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357924603_fq3za7_HNbwg73a0AAqLPj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28959,
+    "content": "Transform the uploaded reference person into a {argument name=\"figure type\" default=\"hyper-realistic collectible action figure / 3D miniature figure\"} (preserving accurate facial features, hairstyle, clothing, and pose from the photo with no identity changes). The small figure stands dynamically on the {argument name=\"pose\" default=\"palm of a graceful woman's hand\"}. Macro close-up photography, sharp focus on miniature details in the foreground (glossy paint, subtle joint lines, realistic fabric texture at a reduced scale), focusing on the woman's soft skin and nails. The background features extreme creamy bokeh showing the actual full-sized person for a dramatic sense of scale. Studio product shot lighting with rim lights and specular highlights on the figure, photorealistic, highly detailed, cinematic, 9:20 portrait format.",
+    "title": "3D Miniature Action Figure Transformation",
+    "description": "Transforms a reference photo into a hyper-realistic 3D miniature action figure held in a hand, featuring macro photography details and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784357925287_ir3dk2_HNY6z0oa8AAb8KY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28853,
     "content": "A portrait of a young woman with voluminous curly red hair and freckles sitting in a field of bright red poppies.\n\nSubject: A fair-skinned woman with {argument name=\"hair style\" default=\"long, wavy red hair\"} cascading over her shoulders, prominent freckles across her nose and cheeks, and soft brown eyes looking directly at the camera.\n\nClothing: She wears a {argument name=\"outfit\" default=\"loose-fitting, cream-colored dress with delicate floral patterns\"} and gathered sleeves.\n\nAction: Her left hand is raised to touch her hair near her temple while she sits amidst the flowers.\n\nEnvironment: A {argument name=\"setting\" default=\"vast field filled with vibrant red poppies\"} under an overcast sky, with a blurred vintage camera on a tripod visible in the background.\n\nCamera: Shot with a shallow depth of field that keeps the subject sharp while blurring the foreground flowers and distant background.\n\nLighting: Soft, diffused natural light creates gentle shadows and highlights the texture of her hair and skin without harsh contrast.\n\nObjects: Bright red poppy flowers are scattered in the immediate foreground and surrounding the subject.\n\nStyle Details: The image features a dreamy, cinematic aesthetic with warm color tones and a soft focus that enhances the romantic atmosphere.",
     "title": "Redheaded Woman in Poppy Field",
