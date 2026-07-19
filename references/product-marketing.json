@@ -21,6 +21,97 @@
     "needReferenceImages": true
   },
   {
+    "id": 29046,
+    "content": "Create one single square (1:1)ultra-realistic editorial photograph featuring an original {argument name=\"subject\" default=\"young Korean woman\"} enjoying a quiet rainy afternoon. She is walking naturally through a charming {argument name=\"location\" default=\"Seoul alleyway\"} beneath a transparent umbrella. She glances toward the camera with a soft smile as if someone just called her name. Her long hair gently moves with the breeze while tiny raindrops sparkle on the umbrella. One hand holds the umbrella while the other casually slips into the pocket of her {argument name=\"outfit\" default=\"oversized cream knit cardigan\"}. Outfit: Oversized cream knit cardigan, White fitted camisole, Relaxed light-wash denim jeans, White sneakers, Small pearl earrings, Delicate silver necklace. Environment: Quiet Seoul neighborhood, Small flower shop, Traditional brick buildings, Cozy cafés, Wet stone pathway, Hydrangeas, Warm window lights, Fresh greenery, Light summer rain, Soft puddle reflections. Photography Style: Trending Korean lookbook aesthetic, Gen Z fashion campaign, Pinterest-inspired lifestyle photography, Vogue Korea editorial, Sony A7R V, 35mm lens, f/2.0, natural overcast lighting, realistic rain droplets, creamy pastel color palette, cinematic composition, realistic skin texture, shallow depth of field, premium magazine photography, masterpiece, 8K.",
+    "title": "Seoul Rainy Day Lookbook",
+    "description": "An ultra-realistic Korean lookbook-style photo of a woman walking through a Seoul alleyway in the rain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445180297_k984ua_HNgOoQLa0AApi3g.jpg",
+      "https://cms-assets.youmind.com/media/1784445180352_nzw25v_HNgOtcnaMAARflc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29052,
+    "content": "Outdoor portrait in a medium shot on an urban street during daytime. A beautiful young woman wearing a modern, minimalist clean-girl street-style outfit. She has neatly styled brown hair pulled back into a sleek medium bun. She is wearing a plain white tight-fitting long-sleeve T-shirt paired with a voluminous white puffy balloon mini skirt. Her makeup is fresh, natural, and minimal, featuring naturally tinted lips, long naturally curled eyelashes, and almond brown contact lenses. She is wearing large black over-ear wireless headphones, a delicate silver necklace with a small pendant, several dainty rings on her fingers, and carrying a small silver leather handbag with a thin silver chain strap. She is holding an iced black coffee takeaway cup. She is standing casually on the edge of an asphalt road, facing forward with one hand resting on the handbag at her hip while looking directly into the camera with a relaxed, calm, playful, and slightly flirty expression. The background features faded white road markings on the asphalt, neatly trimmed green bushes, and a large leafy tree directly behind her. In the distance is a modern glass-fronted building with a brightly illuminated yellow Lamborghini shield logo above the entrance of a luxury car dealership. Soft natural daylight evenly illuminates the scene. The image has the look of a high-quality candid smartphone photo with natural contrast, a clean modern aesthetic, editorial fashion street-style, realistic skin texture, and a premium smartphone photography feel. Negative prompt: professional studio lighting, perfect studio photography, cinematic 3D render, CGI, cartoon, anime, illustration, bad anatomy, deformed hands, extra fingers, mutated fingers, missing fingers, blurry, low quality, high contrast, oversaturated neon colors, flawless airbrushed plastic skin, text, watermark, signature, ugly, distorted faces, asymmetrical eyes.",
+    "title": "Urban Street Fashion Candid Portrait",
+    "description": "A detailed prompt for generating a high-quality candid smartphone-style photo of a woman in minimalist street-style clothing on an urban street, featuring specific fashion accessories and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445183154_2ocfwe_HNgGsnXaYAA-O55.jpg",
+      "https://cms-assets.youmind.com/media/1784445183401_26ykk8_HNgGueBbQAA4PaC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29037,
+    "content": "Ultra-realistic cinematic luxury fashion commercial featuring a confident, well-dressed gentleman wearing an elegant premium luxury wristwatch. He is dressed in a perfectly tailored black suit, crisp white shirt, and silk tie, standing inside a modern luxury penthouse overlooking a breathtaking city skyline at golden hour. The camera begins with an extreme macro close-up of the luxury watch on his wrist, revealing the flawless sapphire crystal, polished stainless-steel case, deep sunburst dial, luminous hands, diamond-cut hour markers, and smooth sweeping second hand. As he adjusts his cuff, the watch catches the warm sunlight, creating beautiful cinematic reflections. The camera slowly circles around his wrist while the intricate mechanical movement is visible through the transparent exhibition case back. Premium leather strap with handcrafted stitching, scratch-resistant finish, exceptional craftsmanship, precision engineering, timeless elegance, luxury lifestyle, confidence, success, sophistication. Soft golden sunlight, volumetric lighting, shallow depth of field, realistic skin textures, premium fashion photography, smooth cinematic camera movement, ARRI Alexa 65 look, 8K HDR, hyper-realistic, luxury advertisement, masterpiece quality, no logos, no text, no watermark.Ultra-realistic cinematic luxury watch commercial,\n 8-second sequence. The film opens with an extreme macro shot of a premium luxury wristwatch emerging from darkness as a single golden spotlight slowly illuminates every detail. The camera performs a smooth 360° orbit around the watch while the polished stainless-steel case reflects elegant studio lights. The sapphire crystal sparkles with flawless clarity, revealing a deep sunburst dial with diamond-cut hour markers and precision-crafted luminous hands. The sweeping second hand moves perfectly smoothly, emphasizing the high-precision automatic movement. The camera transitions into the transparent exhibition case back, where hundreds of intricate mechanical gears, polished bridges, ruby jewels, and the oscillating balance wheel move in perfect harmony. Slow-motion water droplets glide across the scratch-resistant sapphire crystal and premium metal case, demonstrating exceptional water resistance. Fine leather strap stitching and luxury finishing are revealed through cinematic macro close-ups. Floating golden dust particles, soft volumetric lighting, elegant reflections, dramatic black background, shallow depth of field, premium product cinematography, ARRI Alexa 65 look, 8K HDR, hyper-realistic textures, smooth camera motion, luxury advertisement, timeless elegance, precision engineering, exclusivity, masterpiece quality, no text, no logos, no watermark.",
+    "title": "Luxury Watch Commercial Sequence",
+    "description": "A cinematic prompt for a luxury watch advertisement sequence, focusing on macro details, lighting, and movement transitions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445175787_n8xmx6_HNgGMada4AAQ-_9.jpg",
+      "https://cms-assets.youmind.com/media/1784445174416_c85cyg_HNgGMacb0AAhugm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29054,
+    "content": "A confident adult male in his thirties stands in a medium waist-up framing, facing the camera with a relaxed fifteen-degree turn to the left. He has short, textured brown hair styled in a subtle quiff and a neat, short stubble beard, his expression serious yet candid with a closed neutral mouth and relaxed eyebrows visible above round, dark sunglasses that obscure his slightly off-camera leftward gaze. He wears a heavy black crew-neck t-shirt layered beneath a rich black suede zip-up jacket, the sharp focus highlighting the fine, matte grain of the suede fabric and the natural texture of his facial hair. His shoulders are level and completely relaxed, leading down to an organic, casual hand gesture at his lower waist, where his left hand rests with fingers naturally curled holding the edge of the jacket, while his right hand reaches gently across his torso to lightly grasp the jacket zipper and his left hand. He is positioned slightly center-right within a pristine, modern architectural interior characterized by medium spatial depth, balancing perfectly against a dominant midground feature on the left: a series of evenly spaced, warm brown vertical wooden slats that allow soft light to filter through their pristine gaps. Behind him on the center-right, the environment transitions into a perfectly smooth, matte warm taupe and beige painted drywall that fades further back into the subtle shadows of a clean, dark brown doorway frame. The sophisticated, relaxed luxury of the scene is illuminated by warm, golden, moderately directional mixed window and softbox lighting cutting across from a forty-five-degree angle on the left, casting subtle, elegant highlights across his forehead, nose bridge, left cheek, and the left shoulder of his suede jacket. This soft lighting creates gradual gray shadows that naturally shape the right side of his face, pool in the deep folds of his black jacket, and gently fall across the right side of the background, establishing a balanced, analogous palette of warm brown neutrals anchored by heavy rich blacks. Captured with the cinematic polish of modern commercial menswear editorial digital photography, shot straight-on using an 85mm lens at f/2.8, 1/200s, and ISO 400 to achieve a medium depth of field that isolates the tack-sharp subject against the softly recognizable architectural background without digital grain, featuring a warm color balance, a subtle contrast curve that preserves rich black tones, and gentle skin retouching, entirely framed in a 9:16 aspect ratio.",
+    "title": "Luxury Menswear Suede Jacket Editorial",
+    "description": "A professional commercial menswear prompt for an editorial-style portrait of a man in a black suede jacket, featuring sophisticated lighting and a modern architectural interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445184959_eqh7ko_HM4itLsW8AAf5xZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29057,
+    "content": "Creative 3D ad for {argument name=\"brand\" default=\"[BRAND]\"}, with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept",
+    "title": "Creative 3D Brand Advertisement",
+    "description": "A prompt for creating professional 3D product advertisements featuring surreal objects and miniature people for a clever brand concept.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445184998_bjr1r9_HNflyxmWcAAduC0.jpg",
+      "https://cms-assets.youmind.com/media/1784445184979_e8o55x_HNfl46GWoAACFxN.jpg",
+      "https://cms-assets.youmind.com/media/1784445185009_e4738g_HNfl51vWoAAJyDJ.jpg",
+      "https://cms-assets.youmind.com/media/1784445186746_5xjdkr_HNfl6pCWEAEMRy7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29036,
+    "content": "A scene featuring the {argument name=\"subject\" default=\"woman\"} Face: serious focused expression, lips slightly open. Hair: pulled back into sleek tight bun. Pose: close-up portrait, hand with leather glove near lips, stylized gesture. Outfit: {argument name=\"outfit\" default=\"fitted shirt with chunky silver chain necklace\"}; sporty sunglasses reflecting studio lights Lighting: cool studio tones with soft background, minimal shadows. Camera: macro portrait, ultra-sharp lens, centered framing. Mood: {argument name=\"mood\" default=\"futuristic minimalism - cyber fashion editorial\"}, bold and clean. Format: portrait 3:4",
+    "title": "Minimalist Cyber Fashion Portrait",
+    "description": "A striking close-up fashion editorial prompt featuring futuristic minimalism, sleek styling, and sharp studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445174466_1jysm1_HNfSl8ObAAA6aiC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29038,
+    "content": "Ultra-photorealistic cinematic portrait, young woman wearing the same pink floral dress, walking away across an old European bridge, turning her upper body and looking back over her shoulder toward the camera with a playful smile, one hand gently lifting the flowing dress, hair moving naturally in the breeze, warm sunset glow illuminating her face, dreamy background bokeh, dramatic depth of field, cinematic storytelling composition, soft film grain, luxury fashion editorial, golden hour lighting, extremely realistic, vertical 4:5. Wide ultra-low ground-level fashion shot, full figure from feet to head visible, young woman in black crop top and yellow plaid mini skirt towering dramatically against vast electric blue sky, arms outstretched wide, golden hair glowing in warm sunlight, intense downward gaze toward camera, green tree visible at edge, blurred foreground elements at both lower corners, negative space in sky for caption text, warm amber and electric blue color grade, vertical 4:5 composition --ar 4:5 --v 6",
+    "title": "Cinematic European Bridge Portrait",
+    "description": "A highly detailed prompt for a romantic, golden-hour fashion portrait on a bridge, featuring realistic textures and storytelling composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445175734_ebbwth_HNcMAkCakAAOM3P.jpg",
+      "https://cms-assets.youmind.com/media/1784445175790_vqx0df_HNcMCKmbcAAQM-0.jpg",
+      "https://cms-assets.youmind.com/media/1784445175688_fqcq9c_HNcMDmBbgAA4EMw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29045,
+    "content": "A series of cinematic, high-fashion portrait photographs captures the same {argument name=\"subject\" default=\"East Asian woman\"} with dark, wavy hair and a thoughtful gaze, leaning against or positioned near a dark, textured architectural wall. In all variations, she is wearing a {argument name=\"dress\" default=\"deep, emerald green silk-satin dress\"}, paired with delicate gold jewelry including a long pendant necklace (featuring a medallion that drapes down her back), a bracelet, and rings. The defining characteristic of the entire collection is the dramatic chiaroscuro lighting, where a sharp, focused beam of warm light rakes across her face and shoulder from the side, creating deep, enveloping shadows and high contrast. Her poses are varied and elegant: she is seen looking back over her shoulder with her hand gracefully near her face (showcasing the jewelry and the back detail of the dress), sitting contemplatively in a {argument name=\"furniture\" default=\"dark velvet armchair\"} with her hand on her chin, and standing while looking directly at the camera with a poised expression. The mood remains moody, sophisticated, and intimate throughout, with a shallow depth of field that emphasizes the texture of the fabric and her features against the dark, rich background.",
+    "title": "Emerald Silk Fashion Portrait",
+    "description": "A sophisticated chiaroscuro fashion portrait of an East Asian woman wearing an emerald green silk dress in a moody architectural setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445179479_dwh9t9_HNb_AlbWUAA_iq6.jpg",
+      "https://cms-assets.youmind.com/media/1784445179300_xai3h1_HNb_BZsWcAAOVHo.jpg",
+      "https://cms-assets.youmind.com/media/1784445179520_712lhx_HNb_CA8W8AA4Z85.jpg",
+      "https://cms-assets.youmind.com/media/1784445180040_rdhbma_HNb_CoEWIAAB2rb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28957,
     "content": "A high-quality 2x3 grid collage featuring six distinct, full-body portraits of {argument name=\"subjects\" default=\"diverse women\"}, each showcasing a unique {argument name=\"theme\" default=\"fashion style\"}, color palette, and setting. The top-left image features a woman with curly red hair in a vibrant red suit, posed in an outdoor Parisian-style café. The top-middle image shows a woman with a sleek bob hairstyle wearing a professional green double-breasted suit, standing on a modern glass walkway. The top-right image captures a woman in an elegant, flowing blue evening gown with a high slit, positioned on a stone balcony overlooking a sunset ocean view. The bottom-left image displays a woman with long wavy blonde hair in a bohemian outfit, including a crochet top and denim shorts, set against a backdrop of a sunflower field. The bottom-middle image features a woman with natural curly hair styled in a warm autumn-toned chunky turtleneck sweater and a pleated brown leather skirt on a city street. The bottom-right image shows a woman with a polished look in a grey pantsuit and silk camisole, standing in a {argument name=\"last setting\" default=\"minimalist art gallery corridor\"}.",
     "title": "Diverse Fashion Styles Grid Collage",

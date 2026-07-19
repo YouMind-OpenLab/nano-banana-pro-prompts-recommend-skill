@@ -1,5 +1,28 @@
 [
   {
+    "id": 29041,
+    "content": "@img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. @img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose",
+    "title": "Japanese Inspired Identity Transfer",
+    "description": "A complex image-to-image prompt designed to transfer a specific facial identity into an ornate Japanese portrait while preserving artistic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445177242_kqtx6o_HNgYHl4WAAAE3pZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29042,
+    "content": "A {argument name=\"character\" default=\"mysterious hooded ninja\"} standing confidently beneath a {argument name=\"environment\" default=\"massive full moon in a tranquil Japanese garden\"}, framed by blooming cherry blossom branches with drifting pink petals. Black tactical shinobi outfit with layered wraps, metallic forearm armor, face mask, glowing crimson eyes, subtle battle damage and red cloth accents at the waist. {argument name=\"lighting\" default=\"Symmetrical front-facing composition, low-angle hero shot, soft moonlight with vibrant magenta and blue rim lighting\"}, atmospheric mist, cinematic depth of field, glossy fabric textures, high-contrast anime-inspired digital illustration with painterly brushwork.",
+    "title": "Ninja in Cherry Blossom Garden",
+    "description": "An intricate fantasy illustration prompt featuring a hooded ninja, a blood moon, and cherry blossoms in a high-contrast anime style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445176993_mbrys1_HNgVoaiXwAAQZ6t.jpg",
+      "https://cms-assets.youmind.com/media/1784445177014_hkw4zw_HNgVoasWcAAUftn.jpg",
+      "https://cms-assets.youmind.com/media/1784445176943_azh5yf_HNgVoauXkAAGTKp.jpg",
+      "https://cms-assets.youmind.com/media/1784445177809_ttyzyp_HNgVoavXEAAxf9n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28859,
     "content": "The interior of a dark, flooded mechanical cockpit filled with a {argument name=\"fluid color\" default=\"glowing amber\"} fluid, where a pilot's seat made of {argument name=\"seat material\" default=\"carved jade\"} and integrated biological cables holds a figure in a {argument name=\"suit style\" default=\"white plugsuit etched with Mesoamerican wave glyphs\"}.",
     "title": "Mesoamerican Bio-Mechanical Cockpit",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 29040,
+    "content": "A full-body studio portrait of a {argument name=\"subject\" default=\"beautiful woman with long, wavy brown hair\"}, posing confidently against a {argument name=\"background\" default=\"solid gray background\"}. She is wearing a {argument name=\"outfit\" default=\"chic casual denim outfit, featuring a strapless light-blue denim corset top and matching wide-leg blue jeans with a prominent ripped knee detail\"}. She is wearing stylish black high-heeled sandals. One foot is resting on the floor, while the other leg is casually raised with her foot placed on a classic round wooden stool.",
+    "title": "Casual Denim Studio Portrait",
+    "description": "A high-quality studio portrait prompt focusing on casual denim fashion, featuring a corset top and ripped jeans on a neutral background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445177188_2blrnj_HNfTZSia4AAgAZp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28960,
     "content": "Minimalist product photography, {argument name=\"subject\" default=\"product from uploaded photo\"} placed on top of a {argument name=\"setting\" default=\"small rounded green grassy hill\"}, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside it with a single ceramic coffee cup, soft warm golden hour lighting, clear pale blue sky gradient transitioning to warm cream near the horizon, serene and calm atmosphere, negative space composition, vertical mobile wallpaper format, photorealistic, soft natural shadows, muted earthy color palette, high-end editorial product photography, 8k resolution",
     "title": "Minimalist Product Photography on Grassy Hill",

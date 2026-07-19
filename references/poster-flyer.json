@@ -20,6 +20,18 @@
     "needReferenceImages": false
   },
   {
+    "id": 29055,
+    "content": "A bold geometric cubist portrait illustration with fragmented polygonal color planes and faceted angular shapes, inspired by modern pop-art and abstract expressionism. Dynamic digital painting featuring crisp sharp-edged brushstrokes mixed with subtle textured paint overlays, creating a handcrafted acrylic-on-canvas appearance. Strong cinematic high-contrast lighting with dramatic rim light and deep shadows. A vibrant complementary color palette dominated by deep navy blue, crimson red, fiery orange, golden yellow, bright cyan, and cool teal, balanced with warm skin-toned highlights. Clean edge separation, bold color blocking, expressive facial planes, and stylized geometric shading without heavy outlines. Rich digital paint texture with visible brush grain, layered pigment effects, and slightly rough canvas surface. High color saturation, exceptional tonal contrast, ultra-detailed rendering, sharp focus, futuristic editorial aesthetics, modern gallery-quality illustration, premium poster design, cinematic atmosphere, dark minimalist background for maximum visual impact, 8K ultra-high resolution.",
+    "title": "Geometric Cubist Portrait Illustration",
+    "description": "Generates a bold geometric cubist portrait with vibrant colors and polygonal planes, inspired by abstract expressionism and pop art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445185390_e5kg2t_HNguoRgXkAAz9nD.jpg",
+      "https://cms-assets.youmind.com/media/1784445185442_gtrkqf_HNguo4aXcAAFbhj.jpg",
+      "https://cms-assets.youmind.com/media/1784445185435_ylyz9k_HNguplfWAAAFS93.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28957,
     "content": "A high-quality 2x3 grid collage featuring six distinct, full-body portraits of {argument name=\"subjects\" default=\"diverse women\"}, each showcasing a unique {argument name=\"theme\" default=\"fashion style\"}, color palette, and setting. The top-left image features a woman with curly red hair in a vibrant red suit, posed in an outdoor Parisian-style café. The top-middle image shows a woman with a sleek bob hairstyle wearing a professional green double-breasted suit, standing on a modern glass walkway. The top-right image captures a woman in an elegant, flowing blue evening gown with a high slit, positioned on a stone balcony overlooking a sunset ocean view. The bottom-left image displays a woman with long wavy blonde hair in a bohemian outfit, including a crochet top and denim shorts, set against a backdrop of a sunflower field. The bottom-middle image features a woman with natural curly hair styled in a warm autumn-toned chunky turtleneck sweater and a pleated brown leather skirt on a city street. The bottom-right image shows a woman with a polished look in a grey pantsuit and silk camisole, standing in a {argument name=\"last setting\" default=\"minimalist art gallery corridor\"}.",
     "title": "Diverse Fashion Styles Grid Collage",
@@ -28,6 +40,17 @@
       "https://cms-assets.youmind.com/media/1784357923848_t9w64w_HNbY1ClW8AAA7ea.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 29044,
+    "content": "Take {argument name=\"input image\" default=\"photo from uploaded photo\"} and add a circular typographic text overlay wrapping around the subject like a halo — bold black sans-serif capital letters, condensed spacing between letters, text following a circular path that partially frames the subject's head and upper body, some words positioned above and some curving down along the sides, matching the original photo's exact composition, lighting, colors and background — only the circular text layer is added on top, text: \"{argument name=\"overlay text\" default=\"[your text here]\"}\"",
+    "title": "Circular Halo Text Overlay",
+    "description": "Adds a stylized, cinematic circular typographic overlay wrapping around a portrait subject like a halo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445179130_yqew8r_HNbCU3Ma0AAvpYV.jpg",
+      "https://cms-assets.youmind.com/media/1784445179084_jszy49_HNbCVbDaIAA1tN7.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 28862,

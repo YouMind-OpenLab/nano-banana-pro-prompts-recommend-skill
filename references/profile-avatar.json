@@ -10,6 +10,71 @@
     "needReferenceImages": false
   },
   {
+    "id": 29056,
+    "content": "An ultra-realistic cinematic close-up portrait of a beautiful young woman, photographed from a three-quarter profile while gently looking back toward the camera. She has fair porcelain skin with a natural satin glow, subtle freckles across the nose, soft rosy cheeks, full natural pink lips, hazel-green almond-shaped eyes with long eyelashes, and thick, well-groomed dark eyebrows. Her dark brown hair is tied into a low bun with soft wispy curtain bangs framing her face. She wears delicate gold hoop earrings with small heart charms, a thin layered gold necklace, and a minimalist black spaghetti-strap top. The scene is illuminated by warm golden-hour sunlight streaming through a window, creating dramatic bands of light and shadow across her face and shoulder. Rich amber tones, soft falloff, and moody low-key lighting produce an intimate editorial atmosphere. The background is dark, clean, and out of focus with creamy bokeh, emphasizing the subject’s facial features. Shot on a full-frame DSLR with an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp focus on the eyes, creamy background separation, cinematic color grading, natural skin texture, subtle film grain, premium fashion editorial style, luxury beauty campaign, photorealistic, ultra-detailed, 8K resolution, HDR, soft contrast, elegant composition, high dynamic range, masterpiece quality.",
+    "title": "Cinematic Golden Hour Close-up Portrait",
+    "description": "Creates an ultra-realistic cinematic close-up portrait with dramatic golden hour lighting and high-end editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445186990_1teqs5_HNh4dsZbYAASKJN.jpg",
+      "https://cms-assets.youmind.com/media/1784445186311_3y8d48_HNh4dsYaUAAOFi5.jpg",
+      "https://cms-assets.youmind.com/media/1784445186676_wuw7ke_HNh4dsTbkAAOEUF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29043,
+    "content": "A confident {argument name=\"subject\" default=\"male subject\"} stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a two-inch top pushed back using matte pomade, retaining a natural texture with slight, realistic flyaways. His expression is defined by a subtle closed smile, relaxed eyebrows, and a commanding direct gaze. He is elegantly dressed in a {argument name=\"outfit\" default=\"stark black tuxedo\"} with a wide open shirt collar that reveals his warm peach and tan chest. Immediately behind him, the remarkably shallow depth of field melts into an outdoor setting featuring a perfectly smooth, pristine matte light blue painted drywall surface. To the left in the beautifully blurred background, the indistinct silhouette of a photographer in a dark suit subtly enhances the editorial narrative. The scene is illuminated by a bright, single source of diffused natural front light that cultivates a sophisticated, polished event atmosphere. This soft lighting wraps gracefully around his features, casting short, gray shadows with soft gradual edges directly beneath his chin while preserving luminous specular highlights across his face, supported by a neutral ambient fill that perfects the high-contrast, complementary color profile. Captured as a tack-sharp digital photograph using an {argument name=\"lens\" default=\"85mm lens\"} at f/1.8, ISO 100, and 1/250s with precise eye-autofocus, the image boasts a clean, photorealistic aesthetic completely devoid of grain, finished with delicate skin retouching, a slight contrast boost, and a cool background color grade, all beautifully framed in a 9:16 aspect ratio.",
+    "title": "Formal Tuxedo Studio Portrait",
+    "description": "An editorial-style formal portrait of a man in a tuxedo with a shallow depth of field and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445178323_xocqqe_HM4i0meWAAA2NUk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29047,
+    "content": "Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a {argument name=\"subject\" default=\"young woman\"} lying comfortably on her back in a relaxed pose that radiates femininity and grace. The image is captured directly from above in a slightly tilted bird's-eye perspective, creating a spontaneous, alluring composition focused entirely on her captivating facial features and her direct gaze into the camera. She looks at the lens with wide, sharp eyes and a calm, relaxed expression without an open smile, giving the portrait a mysterious, dramatic, and confident mood. Her makeup follows the signature Douyin doll style with enchanting gray or light-blue colored contact lenses, long, thick, wispy manga-style false lashes, highlighted aegyo-sal to make the eyes appear larger and more alluring, and perfectly brushed, precisely defined eyebrows. Intense pink blush is generously applied beneath the eyes, across the cheeks, and over the tip of the nose to create a soft, flushed complexion, while a delicate beauty mark is clearly visible on the right side of her nose tip. Her lips are full, well-defined, and finished in a {argument name=\"lip color\" default=\"matte berry-pink\"} shade that enhances their soft, attractive shape. She wears a fitted, short-sleeved ribbed Henley-style top in {argument name=\"clothing color\" default=\"light gray\"} with a wide open neckline and small front buttons. Her thick, dark chocolate-brown hair falls naturally in a loose, messy style across the pillow surrounding her head and forehead, emphasizing the relaxed atmosphere. She is lying on a cozy bed or sofa with a soft white or cream-colored pillow featuring an embossed textured pattern behind her head. Soft, diffused indoor lighting evenly illuminates her face, highlighting her velvety skin texture and intricate makeup details without harsh shadows, creating an intimate, cozy mood. Preserve her original facial features exactly without any alteration. Ultra-realistic, HD image quality, 9:16 aspect ratio.",
+    "title": "Douyin Style Aesthetic Portrait",
+    "description": "An intimate top-down selfie portrait following the Douyin makeup trend, featuring doll-like eyes and soft flushed skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445178833_1nw61f_HNgt0omacAA1q8z.jpg",
+      "https://cms-assets.youmind.com/media/1784445178845_y4xco1_HNgt1UDboAAMtnX.jpg",
+      "https://cms-assets.youmind.com/media/1784445178823_tjwnk6_HNgt2CUbUAAPFsK.jpg",
+      "https://cms-assets.youmind.com/media/1784445180068_lsgz60_HNgt2pXaEAA0Uwr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29041,
+    "content": "@img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. @img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose",
+    "title": "Japanese Inspired Identity Transfer",
+    "description": "A complex image-to-image prompt designed to transfer a specific facial identity into an ornate Japanese portrait while preserving artistic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445177242_kqtx6o_HNgYHl4WAAAE3pZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29053,
+    "content": "Hyper-realistic close-up portrait of a stunning woman in black and white, with selective color. Her skin is smooth and matte with no sweat or shine, beautifully lit in monochrome tones. The only colors present are her {argument name=\"eye color\" default=\"vivid, electric blue\"} eyes and {argument name=\"lip color\" default=\"bold, glossy red\"} lips, which stand out dramatically against the grayscale.",
+    "title": "Selective Color Black and White Portrait",
+    "description": "A striking prompt for a monochrome close-up portrait that uses selective color to highlight vivid blue eyes and bold red lips, creating a dramatic high-fashion contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445184018_59f4nb_HNaNms4bsAAjNpC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29050,
+    "content": "Transform this image [UPLOAD YOUR IMAGE] into a 64K DSLR-quality, ultra-hyperrealistic cinematic full-body, full-length portrait of the person from the uploaded image standing confidently beside the edge of a contemporary concrete-and-stone building during the warm golden hour. Instead of leaning against the pillar, the subject is casually standing with one foot slightly forward and one hand in a pocket, naturally looking away from the camera. The composition is vertical, with the subject positioned slightly right of center. Warm sunset light creates soft highlights on the face and outfit, while long cinematic shadows add depth. The background features clean modern architecture with subtle greenery and a softly blurred urban environment. Shot with a professional 85mm lens, shallow depth of field, natural skin texture, realistic fabric details, premium fashion editorial style, luxury lifestyle aesthetic, rich warm color grading, crisp focus, HDR lighting, photorealistic, 64K masterpiece",
+    "title": "Cinematic Golden Hour Portrait Transformation",
+    "description": "An image-to-image prompt that transforms a reference photo into a high-quality, ultra-hyperrealistic portrait of a subject standing by modern architecture during golden hour with premium editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784445182158_xk1k7b_HNfYiP1bIAA4MHU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28958,
     "content": "A high-quality, photorealistic portrait of a confident {argument name=\"age\" default=\"19 years young\"} smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with \"{argument name=\"shirt text\" default=\"PUBG\"}\" printed in bold black letters across the chest, and black sweatpants with \"{argument name=\"pants text\" default=\"FREE FIRE\"}\" printed vertically in white on the left leg. He is wearing yellow, black, and white athletic sneakers. In his right hand, he is holding a black baseball cap with \"FREE FIRE\" in white text. His left hand is casually resting in his pocket, and he wears a smartwatch with an orange band on his left wrist. He is standing on a modern indoor staircase that features warm yellow LED strip lighting under the lip of each step. The background is blurred with a shallow depth of field, showing a modern building interior like a shopping mall, with a few other casually dressed young men standing and chatting on the stairs behind him. Vibrant colors, bright indoor lighting, 8k resolution. Keep original face and hairstyle 100% reference Ratio 9:16",
     "title": "Gamer Apparel Portrait",
