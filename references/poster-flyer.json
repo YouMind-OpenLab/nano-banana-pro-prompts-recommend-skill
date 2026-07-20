@@ -20,6 +20,60 @@
     "needReferenceImages": false
   },
   {
+    "id": 29175,
+    "content": "SHOT: {argument name=\"shot type\" default=\"shot_size: Extreme wide top-down aerial\"} covering the {argument name=\"location\" default=\"entire street\"}, the {argument name=\"subject\" default=\"whole human-mosaic portrait\"} laid flat across the roadway and filling the frame edge to edge, only thin strips of building",
+    "title": "Human Mosaic Street Aerial View",
+    "description": "An extreme wide-angle aerial shot designed for nano-banana-pro, creating a massive human-mosaic portrait laid flat across an urban roadway.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532477787_dtfsht_HNn4LunWAAAAmyG.jpg",
+      "https://cms-assets.youmind.com/media/1784532477778_rvz4e9_HNn4L3LXsAAieqD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29174,
+    "content": "Do not change the facial features, facial proportions, or hair color. A spontaneous shot that feels like a vague memory or a dream, a dreamlike memory, as if it were accidentally captured. Ultra-realistic photography with a cinematic film-grain effect. A portrait selfie scene by the sea, photographed from a high angle above the face, with the camera held at arm's length (the right hand is visible in the bottom-right corner), pointing downward and slightly to the left, creating diagonal composition lines and the subtle perspective distortion typical of a smartphone. The young woman is leaning against a massive light-gray stone parapet with a rounded edge, which occupies a significant portion of the left side of the frame. Her very long hair is blowing in the wind. She wears stylish sunglasses, has sun-kissed skin, long fox-effect eyelashes, and glossy lips. Focus: the camera is focused exclusively on the landscape—the open sea, rolling waves, white sea foam, and the distant horizon. The background is perfectly sharp and detailed, while the woman is completely out of focus, appearing as a soft, blurry silhouette with no defined facial details, enhanced by motion blur, as though the camera locked focus on the ocean behind her instead of on her. She wears a {argument name=\"dress\" default=\"light white dress with thin straps and a delicate pink/red floral print\"}, a chain-strap shoulder bag, and a cross pendant necklace. In crisp focus is a wide view of the open sea with deep blue and turquoise tones, textured waves with white foam, the horizon positioned in the upper third of the frame, a bright clear sky, and a coastal cliff or scenic viewpoint. Strong sunlight creates sparkling reflections across the water, with the warm tones of her skin and white dress contrasting beautifully against the cool blues of the sea. Prominent film grain, dreamy softness, and the feeling of a fading memory. Vertical 9:16 composition. Raw style. Motion style strength 60. {argument name=\"nails\" default=\"Milky almond-shaped manicure\"}, neat, symmetrical, and well-groomed.",
+    "title": "Dreamlike Seaside Memory Selfie",
+    "description": "A creative prompt for a dreamlike, out-of-focus seaside selfie that emphasizes the landscape over the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532477297_kie30e_HNmhf64aAAAfz-R.jpg",
+      "https://cms-assets.youmind.com/media/1784532477353_8dufia_HNmhgvKawAAd4hZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29167,
+    "content": "A cinematic, highly detailed fantasy photograph of a beautiful {argument name=\"hair color\" default=\"blonde\"} woman with her hair styled in an elegant updo, standing gracefully inside a {argument name=\"setting\" default=\"majestic, sunlit gothic library\"}. She is wearing a breathtaking, flowing {argument name=\"dress style\" default=\"emerald green ball gown made of tulle and tulle-like fabric\"}, adorned with subtle gold glitter details that catch the light. The dress features an off-the-shoulder sweetheart neckline, layered with an optional intricate mesh, fishnet-style high-neck collar that covers her chest and neck. Golden bracelets adorn her wrists, and a delicate necklace rests on her collarbone. She stands in profile, looking off to the side with a soft, serene expression. A swirling cloud of magical golden dust and ethereal smoke surrounds her, illuminated by strong, warm sunbeams streaming through massive arched cathedral windows in the background. To her left, towering floor-to-ceiling wooden bookshelves filled with ancient books create a moody, academic, and enchanted atmosphere. The overall scene is filled with a dreamy, golden hour glow and deep volumetric lighting.",
+    "title": "Fantasy Woman in Gothic Library",
+    "description": "A detailed cinematic prompt for a fantasy scene featuring a blonde woman in an emerald green gown inside a sunlit gothic library.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532473880_c8rd40_HNmfwJYWkAAh2ny.jpg",
+      "https://cms-assets.youmind.com/media/1784532473568_h8al9t_HNmfxT5XgAAV_yM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29171,
+    "content": "Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.\n\nUse the uploaded identity photo ONLY for:\n- exact face identity\n- exact facial anatomy\n- exact eyes\n- exact eyebrows\n- exact nose\n- exact lips\n- exact natural skin tone\n\nREFERENCE CONTROLS EVERYTHING ELSE.\n\nCanon EOS R5.\n\n85mm lens.\n\nRAW photograph.\n\nCAMERA\n\nVery wide cinematic shot.\n\nThe camera is positioned very far away.\n\nThe woman appears small in the landscape, occupying only about 15–20% of the frame.\n\nShe is running across the top of a grassy hill.\n\nThe dramatic landscape dominates the composition.\n\nFULL BODY.\n\nThe entire floor-length gown is completely visible.\n\nNothing is cropped.\n\nPOSE\n\nThe woman is running naturally across the hill.\n\nShe is viewed mostly from the side with a slight three-quarter angle.\n\nShe is NOT looking at the camera.\n\nShe looks forward toward the direction she is running.\n\nOne hand tightly holds the front of the gown across her chest to keep it from blowing open.\n\nThe other hand gathers part of the skirt while running.\n\nHer posture shows urgency as she struggles against the violent wind.\n\nThe running motion is natural, elegant and realistic.\n\nHAIR\n\nHair is styled into a sleek elegant low bun.\n\nOnly a few loose strands escape and whip violently in the wind.\n\nSTRICT DRESS LOCK\n\nRecreate EXACTLY the uploaded couture gown.\n\nKeep identical:\n\n- floor-length ivory haute couture gown\n- oversized balloon sleeves\n- deep plunging V neckline\n- fitted gathered waist\n- enormous multi-layered skirt\n- identical silhouette\n- identical proportions\n- identical fabric\n- identical stitching\n- identical folds\n- identical volume\n\nThe gown MUST remain floor-length.\n\nThe skirt must touch the ground exactly like the reference.\n\nDo NOT redesign the dress.\n\nDo NOT shorten the skirt.\n\nDo NOT change the sleeves.\n\nDo NOT change the neckline.\n\nKeep the jewelry identical.\n\nWIND\n\nViolent storm wind.\n\nThe enormous skirt flies dramatically in multiple directions.\n\nHuge sculptural folds sweep left, right and backward.\n\nThe long train streams several meters behind her while she runs.\n\nEvery fabric layer moves independently with realistic couture fabric physics.\n\nThe oversized sleeves inflate dramatically.\n\nThe movement feels powerful but physically believable.\n\nBACKGROUND\n\nWide grassy hill.\n\nMassive black storm clouds cover the sky.\n\nA huge bright lightning bolt strikes in the distance behind the woman, illuminating part of the clouds.\n\nAdditional faint lightning flashes are visible deeper inside the storm.\n\nNo buildings.\n\nNo people.\n\nOnly the dramatic landscape.\n\nLIGHTING\n\nDark storm atmosphere.\n\nSoft diffused overcast light.\n\nBrief cold flashes from the lightning illuminate parts of the clouds and subtly rim-light the flowing gown.\n\nLuxury Vogue editorial lighting.\n\nREALISM\n\nVisible skin texture.\n\nCorrect anatomy.\n\nNatural running motion.",
+    "title": "Haute Couture Storm Editorial",
+    "description": "A highly technical fashion photography prompt requiring reference images to generate a couture gown in a dramatic storm landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532476032_9smq3l_HNloEXwbEAAQSJ2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29164,
+    "content": "A confident {argument name=\"age\" default=\"16-year-old\"} boy sitting on the roof of a futuristic luxury supercar ({argument name=\"car style\" default=\"Bugatti-inspired\"}, no logos), wearing an expensive black tailored suit, premium designer sneakers, a luxury watch, and stylish sunglasses. Surrounded by luxury shopping bags, high-end fashion accessories, and elegant designer clothing. A modern city skyline with {argument name=\"lighting\" default=\"golden sunset lighting\"} in the background. Ultra-realistic, cinematic composition, glossy reflections, shallow depth of field, dramatic lighting, luxury lifestyle, rich colors, 8K, hyper-detailed, magazine cover quality, photorealistic, premium fashion editorial style.",
+    "title": "Futuristic Luxury Supercar Lifestyle",
+    "description": "A high-fashion prompt for Nano Banana 2 creating a cinematic scene of a teenager with a luxury supercar against a city sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532469497_5msta4_HNjK2z1b0AAR_Ca.jpg",
+      "https://cms-assets.youmind.com/media/1784532471894_33ywzd_HNjK3GvaYAACIvP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29055,
     "content": "A bold geometric cubist portrait illustration with fragmented polygonal color planes and faceted angular shapes, inspired by modern pop-art and abstract expressionism. Dynamic digital painting featuring crisp sharp-edged brushstrokes mixed with subtle textured paint overlays, creating a handcrafted acrylic-on-canvas appearance. Strong cinematic high-contrast lighting with dramatic rim light and deep shadows. A vibrant complementary color palette dominated by deep navy blue, crimson red, fiery orange, golden yellow, bright cyan, and cool teal, balanced with warm skin-toned highlights. Clean edge separation, bold color blocking, expressive facial planes, and stylized geometric shading without heavy outlines. Rich digital paint texture with visible brush grain, layered pigment effects, and slightly rough canvas surface. High color saturation, exceptional tonal contrast, ultra-detailed rendering, sharp focus, futuristic editorial aesthetics, modern gallery-quality illustration, premium poster design, cinematic atmosphere, dark minimalist background for maximum visual impact, 8K ultra-high resolution.",
     "title": "Geometric Cubist Portrait Illustration",

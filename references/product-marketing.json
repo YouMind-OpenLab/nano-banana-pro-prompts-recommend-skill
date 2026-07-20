@@ -21,6 +21,74 @@
     "needReferenceImages": true
   },
   {
+    "id": 29168,
+    "content": "A high-resolution, cinematic studio portrait of a sophisticated young woman with {argument name=\"hair style\" default=\"wavy brown\"} hair, captured in a striking profile pose against a deep, monochromatic red background. She is wearing a form-fitting, high-neck {argument name=\"fabric\" default=\"crimson velvet\"} garment that exudes elegance and texture. Her makeup is refined, featuring bold, classic red lipstick and soft, luminous skin that catches the light, while a single pearl earring adds a subtle touch of luxury. The lighting is dramatic and moody, utilizing soft shadows to contour her features and highlight the rich, velvety texture of her clothing, creating an atmosphere of mystery, allure, and timeless fashion photography.",
+    "title": "Crimson Velvet Studio Portrait",
+    "description": "A high-fashion cinematic studio portrait of a woman in red velvet against a monochromatic background, emphasizing texture and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532474848_5ywlny_HNmuzJkawAAE5lQ.jpg",
+      "https://cms-assets.youmind.com/media/1784532474898_3f2pwz_HNmuzJga4AA0ztS.jpg",
+      "https://cms-assets.youmind.com/media/1784532474853_3nobv2_HNmuzJkbgAA5bPn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29166,
+    "content": "Ultra realistic CG {argument name=\"character type\" default=\"character costume concept sheet\"}, Unreal Engine 5 render. A {argument name=\"subject\" default=\"beautiful blonde hair girl\"}, Fashion: {argument name=\"style\" default=\"trendy y2k style\"}, realistic faces and proportions, natural confident poses. Background: softly blurred near future plaza, glass mall, LED facades, polished stone floor, bright afternoon daylight, cinematic lighting. High end game cinematic concept art, sharp details, premium fashion editorial feel",
+    "title": "Y2K Style Character Concept Sheet",
+    "description": "A character design prompt for a concept sheet in trendy Y2K fashion, featuring realistic proportions and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532473531_p88sm2_HNmndwyasAEwFPh.jpg",
+      "https://cms-assets.youmind.com/media/1784532473793_qfnm33_HNmnen_a8AAyYB-.jpg",
+      "https://cms-assets.youmind.com/media/1784532473564_tyqhrg_HNmnfUUawAA2JVt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29171,
+    "content": "Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic.\n\nUse the uploaded identity photo ONLY for:\n- exact face identity\n- exact facial anatomy\n- exact eyes\n- exact eyebrows\n- exact nose\n- exact lips\n- exact natural skin tone\n\nREFERENCE CONTROLS EVERYTHING ELSE.\n\nCanon EOS R5.\n\n85mm lens.\n\nRAW photograph.\n\nCAMERA\n\nVery wide cinematic shot.\n\nThe camera is positioned very far away.\n\nThe woman appears small in the landscape, occupying only about 15–20% of the frame.\n\nShe is running across the top of a grassy hill.\n\nThe dramatic landscape dominates the composition.\n\nFULL BODY.\n\nThe entire floor-length gown is completely visible.\n\nNothing is cropped.\n\nPOSE\n\nThe woman is running naturally across the hill.\n\nShe is viewed mostly from the side with a slight three-quarter angle.\n\nShe is NOT looking at the camera.\n\nShe looks forward toward the direction she is running.\n\nOne hand tightly holds the front of the gown across her chest to keep it from blowing open.\n\nThe other hand gathers part of the skirt while running.\n\nHer posture shows urgency as she struggles against the violent wind.\n\nThe running motion is natural, elegant and realistic.\n\nHAIR\n\nHair is styled into a sleek elegant low bun.\n\nOnly a few loose strands escape and whip violently in the wind.\n\nSTRICT DRESS LOCK\n\nRecreate EXACTLY the uploaded couture gown.\n\nKeep identical:\n\n- floor-length ivory haute couture gown\n- oversized balloon sleeves\n- deep plunging V neckline\n- fitted gathered waist\n- enormous multi-layered skirt\n- identical silhouette\n- identical proportions\n- identical fabric\n- identical stitching\n- identical folds\n- identical volume\n\nThe gown MUST remain floor-length.\n\nThe skirt must touch the ground exactly like the reference.\n\nDo NOT redesign the dress.\n\nDo NOT shorten the skirt.\n\nDo NOT change the sleeves.\n\nDo NOT change the neckline.\n\nKeep the jewelry identical.\n\nWIND\n\nViolent storm wind.\n\nThe enormous skirt flies dramatically in multiple directions.\n\nHuge sculptural folds sweep left, right and backward.\n\nThe long train streams several meters behind her while she runs.\n\nEvery fabric layer moves independently with realistic couture fabric physics.\n\nThe oversized sleeves inflate dramatically.\n\nThe movement feels powerful but physically believable.\n\nBACKGROUND\n\nWide grassy hill.\n\nMassive black storm clouds cover the sky.\n\nA huge bright lightning bolt strikes in the distance behind the woman, illuminating part of the clouds.\n\nAdditional faint lightning flashes are visible deeper inside the storm.\n\nNo buildings.\n\nNo people.\n\nOnly the dramatic landscape.\n\nLIGHTING\n\nDark storm atmosphere.\n\nSoft diffused overcast light.\n\nBrief cold flashes from the lightning illuminate parts of the clouds and subtly rim-light the flowing gown.\n\nLuxury Vogue editorial lighting.\n\nREALISM\n\nVisible skin texture.\n\nCorrect anatomy.\n\nNatural running motion.",
+    "title": "Haute Couture Storm Editorial",
+    "description": "A highly technical fashion photography prompt requiring reference images to generate a couture gown in a dramatic storm landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532476032_9smq3l_HNloEXwbEAAQSJ2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29170,
+    "content": "A photorealistic, candid lifestyle medium shot of {argument name=\"subject\" default=\"[NAME]\"} with long hair cascading over her shoulders, captured from a slightly elevated side angle looking down. She is lying on her stomach on a bed with softly wrinkled white sheets, propped up on her forearms with her upper body slightly raised. With a serene and neutral expression, her head is tilted down, and her eyes are focused intently on a silver smartphone she holds with both hands. Her skin texture is smooth with a natural finish, enhanced by subtle, natural makeup and a faint pink tint on her lips. She is wearing a white ribbed cropped camisole top paired with high-waisted, fitted black athletic shorts, with her lower body extending back along the bed. The setting is a bright, clean, minimalist bedroom interior. In the background, a window lets in bright, soft, and diffused natural daylight that casts gentle highlights on her skin, hair, and clothing with minimal harsh shadows. Next to the window, a clear glass vase holds a fresh bouquet of white hydrangeas. The overall mood is calm, intimate, relaxed, and modern, with sharp focus on her face and upper body, clean details, and a soft depth of field blurring the background. Aspect ratio 3:4.",
+    "title": "Candid Bedroom Lifestyle Portrait",
+    "description": "A photorealistic lifestyle shot of a person relaxing on a bed with a smartphone, using soft natural light and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532475218_y21y7r_HNkjtG6XgAAsMJG.jpg",
+      "https://cms-assets.youmind.com/media/1784532475243_e0r0cv_HNkjtGwWIAASuW-.jpg",
+      "https://cms-assets.youmind.com/media/1784532475605_qgi7w4_HNkjtGtWYAAI9Rv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29172,
+    "content": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during {argument name=\"lighting\" default=\"soft even studio lighting with gentle side illumination\"} creating beautiful glow on skin and dramatic shadows, sophisticated and alluring mood. She poses with her right hand gently resting on her cheek and jaw, head slightly tilted, direct intense gaze at the camera with slightly parted lips. Camera: eye-level tight close-up shot, 85mm lens, very shallow depth of field, ultra sharp focus on eyes, makeup, pleated fabric and skin texture, clean seamless background. Clothing (exact match): {argument name=\"gown\" default=\"flowing beige pleated off-shoulder gown with dramatic ruffled sheer long sleeves\"}, voluminous pleated bodice and cinched waist. Large gold statement earrings and ornate gold ring. Hairstyle: {argument name=\"hair style\" default=\"long sleek straight hair with deep side part\"}, smooth and voluminous framing the face",
+    "title": "Cinematic Studio Fashion Portrait",
+    "description": "A prompt comparing model outputs, featuring a close-up portrait with studio lighting and detailed beige evening gown.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532476644_skiy7m_HNaPzVlbMAAwVhX.jpg",
+      "https://cms-assets.youmind.com/media/1784532476587_wbqzym_HNaP4MnasAAVlOz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29164,
+    "content": "A confident {argument name=\"age\" default=\"16-year-old\"} boy sitting on the roof of a futuristic luxury supercar ({argument name=\"car style\" default=\"Bugatti-inspired\"}, no logos), wearing an expensive black tailored suit, premium designer sneakers, a luxury watch, and stylish sunglasses. Surrounded by luxury shopping bags, high-end fashion accessories, and elegant designer clothing. A modern city skyline with {argument name=\"lighting\" default=\"golden sunset lighting\"} in the background. Ultra-realistic, cinematic composition, glossy reflections, shallow depth of field, dramatic lighting, luxury lifestyle, rich colors, 8K, hyper-detailed, magazine cover quality, photorealistic, premium fashion editorial style.",
+    "title": "Futuristic Luxury Supercar Lifestyle",
+    "description": "A high-fashion prompt for Nano Banana 2 creating a cinematic scene of a teenager with a luxury supercar against a city sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532469497_5msta4_HNjK2z1b0AAR_Ca.jpg",
+      "https://cms-assets.youmind.com/media/1784532471894_33ywzd_HNjK3GvaYAACIvP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29046,
     "content": "Create one single square (1:1)ultra-realistic editorial photograph featuring an original {argument name=\"subject\" default=\"young Korean woman\"} enjoying a quiet rainy afternoon. She is walking naturally through a charming {argument name=\"location\" default=\"Seoul alleyway\"} beneath a transparent umbrella. She glances toward the camera with a soft smile as if someone just called her name. Her long hair gently moves with the breeze while tiny raindrops sparkle on the umbrella. One hand holds the umbrella while the other casually slips into the pocket of her {argument name=\"outfit\" default=\"oversized cream knit cardigan\"}. Outfit: Oversized cream knit cardigan, White fitted camisole, Relaxed light-wash denim jeans, White sneakers, Small pearl earrings, Delicate silver necklace. Environment: Quiet Seoul neighborhood, Small flower shop, Traditional brick buildings, Cozy cafés, Wet stone pathway, Hydrangeas, Warm window lights, Fresh greenery, Light summer rain, Soft puddle reflections. Photography Style: Trending Korean lookbook aesthetic, Gen Z fashion campaign, Pinterest-inspired lifestyle photography, Vogue Korea editorial, Sony A7R V, 35mm lens, f/2.0, natural overcast lighting, realistic rain droplets, creamy pastel color palette, cinematic composition, realistic skin texture, shallow depth of field, premium magazine photography, masterpiece, 8K.",
     "title": "Seoul Rainy Day Lookbook",

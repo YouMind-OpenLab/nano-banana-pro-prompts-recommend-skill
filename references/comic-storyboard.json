@@ -1,5 +1,28 @@
 [
   {
+    "id": 29166,
+    "content": "Ultra realistic CG {argument name=\"character type\" default=\"character costume concept sheet\"}, Unreal Engine 5 render. A {argument name=\"subject\" default=\"beautiful blonde hair girl\"}, Fashion: {argument name=\"style\" default=\"trendy y2k style\"}, realistic faces and proportions, natural confident poses. Background: softly blurred near future plaza, glass mall, LED facades, polished stone floor, bright afternoon daylight, cinematic lighting. High end game cinematic concept art, sharp details, premium fashion editorial feel",
+    "title": "Y2K Style Character Concept Sheet",
+    "description": "A character design prompt for a concept sheet in trendy Y2K fashion, featuring realistic proportions and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532473531_p88sm2_HNmndwyasAEwFPh.jpg",
+      "https://cms-assets.youmind.com/media/1784532473793_qfnm33_HNmnen_a8AAyYB-.jpg",
+      "https://cms-assets.youmind.com/media/1784532473564_tyqhrg_HNmnfUUawAA2JVt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29167,
+    "content": "A cinematic, highly detailed fantasy photograph of a beautiful {argument name=\"hair color\" default=\"blonde\"} woman with her hair styled in an elegant updo, standing gracefully inside a {argument name=\"setting\" default=\"majestic, sunlit gothic library\"}. She is wearing a breathtaking, flowing {argument name=\"dress style\" default=\"emerald green ball gown made of tulle and tulle-like fabric\"}, adorned with subtle gold glitter details that catch the light. The dress features an off-the-shoulder sweetheart neckline, layered with an optional intricate mesh, fishnet-style high-neck collar that covers her chest and neck. Golden bracelets adorn her wrists, and a delicate necklace rests on her collarbone. She stands in profile, looking off to the side with a soft, serene expression. A swirling cloud of magical golden dust and ethereal smoke surrounds her, illuminated by strong, warm sunbeams streaming through massive arched cathedral windows in the background. To her left, towering floor-to-ceiling wooden bookshelves filled with ancient books create a moody, academic, and enchanted atmosphere. The overall scene is filled with a dreamy, golden hour glow and deep volumetric lighting.",
+    "title": "Fantasy Woman in Gothic Library",
+    "description": "A detailed cinematic prompt for a fantasy scene featuring a blonde woman in an emerald green gown inside a sunlit gothic library.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532473880_c8rd40_HNmfwJYWkAAh2ny.jpg",
+      "https://cms-assets.youmind.com/media/1784532473568_h8al9t_HNmfxT5XgAAV_yM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29041,
     "content": "@img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. @img1 use @img1 as the main base image for style, lighting, color palette, pose, framing and overall mood. Keep the exact ornate Japanese-inspired portrait: woman turned three-quarters away from the viewer, black hair styled in a high bun with hairpins, intricate dragon tattoo covering her back and shoulders, black kimono with silver patterns and wide obi bow, katana handle visible at the bottom edge, softly lit against a textured floral wall, warm cinematic contrast and rich shadows. Replace ONLY the woman’s face with the face from – the final result must show the SAME facial identity as with perfectly matching facial proportions, anatomy and features, seamlessly integrated into @img1 . Preserve @img1 hairstyle structure and accessories, tattoo design, kimono details, pose, background texture, golden-green color grading, light direction, shadows and mysterious, powerful atmosphere. High-end cinematic character portrait, detailed costume and tattoo art. Negative Prompt: different face, wrong person, generic face, altered facial proportions, incorrect anatomy, distorted features, mismatched lighting, visible seams, double face, morphing, low resolution, artifacts, changed hairstyle or hairpins, altered tattoo, simplified kimono, flat lighting, altered background or pose",
     "title": "Japanese Inspired Identity Transfer",

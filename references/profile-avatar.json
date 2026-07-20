@@ -10,6 +10,60 @@
     "needReferenceImages": false
   },
   {
+    "id": 29173,
+    "content": "These moody, atmospheric portraits capture a young woman with {argument name=\"hair\" default=\"dark, wavy hair\"} and an intense, contemplative gaze in a {argument name=\"environment\" default=\"dimly lit, somber environment\"}. The lighting is low-key and dramatic, casting soft shadows that highlight the delicate features of her face, including her expressive, thoughtful eyes and natural skin texture. In one image, she is shown looking down with her hands clasped in a gesture of quiet introspection, while in the other, she is captured looking off-camera with a pensive, thoughtful expression as she rests her chin near her hand. She is dressed in a {argument name=\"clothing\" default=\"dark-colored, textured knit sweater\"}, which adds to the intimate and quiet, melancholic mood of the overall composition.",
+    "title": "Moody Atmospheric Introspective Portrait",
+    "description": "A descriptive prompt for Gemini Nano Banana capturing a melancholic and contemplative mood with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532476909_4glu45_HNnZ0zBW4AA1mkw.jpg",
+      "https://cms-assets.youmind.com/media/1784532476937_ixlbb4_HNnZ1U1W8AAppqX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29168,
+    "content": "A high-resolution, cinematic studio portrait of a sophisticated young woman with {argument name=\"hair style\" default=\"wavy brown\"} hair, captured in a striking profile pose against a deep, monochromatic red background. She is wearing a form-fitting, high-neck {argument name=\"fabric\" default=\"crimson velvet\"} garment that exudes elegance and texture. Her makeup is refined, featuring bold, classic red lipstick and soft, luminous skin that catches the light, while a single pearl earring adds a subtle touch of luxury. The lighting is dramatic and moody, utilizing soft shadows to contour her features and highlight the rich, velvety texture of her clothing, creating an atmosphere of mystery, allure, and timeless fashion photography.",
+    "title": "Crimson Velvet Studio Portrait",
+    "description": "A high-fashion cinematic studio portrait of a woman in red velvet against a monochromatic background, emphasizing texture and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532474848_5ywlny_HNmuzJkawAAE5lQ.jpg",
+      "https://cms-assets.youmind.com/media/1784532474898_3f2pwz_HNmuzJga4AA0ztS.jpg",
+      "https://cms-assets.youmind.com/media/1784532474853_3nobv2_HNmuzJkbgAA5bPn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29162,
+    "content": "Ultra-realistic beach sunset portrait of a {argument name=\"subject\" default=\"beautiful young woman with long silky dark brown hair and soft glowing skin\"}, standing by the ocean shoreline during golden hour. She wears an {argument name=\"outfit\" default=\"elegant black ruffled two-piece outfit\"} with delicate shoulder ties, minimalist silver jewelry, and {argument name=\"makeup\" default=\"subtle romantic makeup with rosy cheeks and glossy lips\"}. Gentle waves roll behind her as the sky glows with pastel sunset colors of lavender, peach, and gold. Soft ocean breeze, dreamy atmosphere, cinematic lighting, shallow depth of field, natural beach scenery, fashion editorial photography, graceful pose, realistic skin texture, warm sunset reflections, luxury lifestyle aesthetic, 85mm lens, f/1.8, ultra-detailed, HDR, photorealistic, 8K quality.",
+    "title": "Beach Sunset Fashion Portrait",
+    "description": "A professional photography prompt for a high-detail portrait of a woman at the beach during the golden hour, optimized for realistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532471892_vjohfy_HNlzuFFbwAAKfW9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29169,
+    "content": "Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution, masterpiece-quality image with the best possible quality, perfect detailed lighting, dramatic shadows, a curvy and attractive figure, an innocent face, and a vertical 9:16 composition. Transform the image into a very close-up social media portrait of a fair-skinned white woman wearing radiant, glowing makeup with a glass skin effect. She has long, thick, curled \"spider-leg\" eyelashes, long and well-defined lower lashes, neatly groomed natural eyebrows, and a reddish gradient (ombre) lip tint. She is wearing a long {argument name=\"outfit color\" default=\"chartreuse\"} cotton kurta featuring a soft V-neckline, long sleeves with wide cuffs, and adjustable corset-style side ties finished with delicate fabric tassels, with the garment covering her hair. Her hair is long, thick, glossy ash brown, cut in multiple layers with softly curled ends, while a few loose strands naturally frame her forehead and face. She wears a very small gold heart-shaped necklace (♥️), a small black watch, long natural pink nails, and a gold ring on her ring finger. The portrait is captured as an extreme close-up from a slightly tilted, low camera angle. She has a gentle, elegant smile, one hand lightly holding her hair near her ear, and looks directly into the camera. The overall style is photogenic celebrity-style portrait photography suitable for Instagram, appearing highly realistic rather than artificial. The lighting combines a camera flash with soft natural indoor illumination, creating an even distribution of light across her face for a bright, luminous complexion. The background is slightly dark, showing a dimly lit room with pale gray walls beside a white door. The image should look as though it was taken with the latest iPhone camera, featuring ultra-realistic skin texture (without an artificial plastic appearance), razor-sharp focus, cinematic depth, 8K Ultra-HD resolution, and a premium editorial magazine portrait aesthetic. Apply a soft vintage film texture with subtle haze to emulate the look of analog film photography or a retro filter. In the bottom-left corner, include a classic white digital timestamp printed vertically reading \"25年 3月11日\" (March 11, 2026). Use a 9:16 aspect ratio and preserve natural skin texture throughout.",
+    "title": "Chartreuse Kurta Editorial Portrait",
+    "description": "An ultra-detailed prompt for a close-up social media portrait of a woman in traditional attire, featuring high-end makeup and vintage film textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532475112_81ttpc_HNllruRacAA-wA_.jpg",
+      "https://cms-assets.youmind.com/media/1784532475158_mqvw4j_HNllsfnbIAA4Ha-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29163,
+    "content": "A dramatic 3:4 portrait of a {argument name=\"subject\" default=\"man with a sharp fade haircut and a short beard\"}, looking slightly upward against a solid black background. He is wearing {argument name=\"eyewear\" default=\"round, silver-rimmed sunglasses\"} that perfectly reflect a black and white cityscape skyline in the lenses. He is wearing a {argument name=\"clothing\" default=\"dark bomber jacket over a grey t-shirt\"}. The lighting is low-key and high-contrast studio lighting, capturing rich details and textures in a striking black and white photography style. --ar 3:4",
+    "title": "Black and White Studio Portrait",
+    "description": "A high-contrast studio lighting prompt for a dramatic black and white portrait featuring reflections in sunglasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784532471891_oyaqpl_HNlPSD5bIAAXdNI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29056,
     "content": "An ultra-realistic cinematic close-up portrait of a beautiful young woman, photographed from a three-quarter profile while gently looking back toward the camera. She has fair porcelain skin with a natural satin glow, subtle freckles across the nose, soft rosy cheeks, full natural pink lips, hazel-green almond-shaped eyes with long eyelashes, and thick, well-groomed dark eyebrows. Her dark brown hair is tied into a low bun with soft wispy curtain bangs framing her face. She wears delicate gold hoop earrings with small heart charms, a thin layered gold necklace, and a minimalist black spaghetti-strap top. The scene is illuminated by warm golden-hour sunlight streaming through a window, creating dramatic bands of light and shadow across her face and shoulder. Rich amber tones, soft falloff, and moody low-key lighting produce an intimate editorial atmosphere. The background is dark, clean, and out of focus with creamy bokeh, emphasizing the subject’s facial features. Shot on a full-frame DSLR with an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp focus on the eyes, creamy background separation, cinematic color grading, natural skin texture, subtle film grain, premium fashion editorial style, luxury beauty campaign, photorealistic, ultra-detailed, 8K resolution, HDR, soft contrast, elegant composition, high dynamic range, masterpiece quality.",
     "title": "Cinematic Golden Hour Close-up Portrait",
