@@ -20,13 +20,57 @@
     "needReferenceImages": false
   },
   {
-    "id": 29175,
-    "content": "SHOT: {argument name=\"shot type\" default=\"shot_size: Extreme wide top-down aerial\"} covering the {argument name=\"location\" default=\"entire street\"}, the {argument name=\"subject\" default=\"whole human-mosaic portrait\"} laid flat across the roadway and filling the frame edge to edge, only thin strips of building",
-    "title": "Human Mosaic Street Aerial View",
-    "description": "An extreme wide-angle aerial shot designed for nano-banana-pro, creating a massive human-mosaic portrait laid flat across an urban roadway.",
+    "id": 29272,
+    "content": "\"Use facial identity, facial geometry, make-up but not original hair from [uploaded image] to create a young female rockstar with a slim hourglass figure. She has professionally styled long flowing blonde hair with a side-parting. She wears a strapless black sequin pencil-dress with a tiny side slit and black high-heels with long heels and 3 tiers of straps going up to her ankles. Wide-angle, action shot from a very low-angle of the female rockstar aggressively kicking a stage amplifier speaker with one foot while holding the head of her electric guitar with both hands and smashing the body on the wooden floor of the stage. She has a smirk on her face while her gaze is directed at the guitar getting smashed. The stage is bathed in medium atmospheric smoke. A big, high-contrast, strong backlight from behind the rockstar creates a bright, glowing silhouette and rim light around her flying hair and exploding wooden splinters from the smashed guitar. Full-frame DSLR camera, 50-85mm lens, high shutter speed and sharp focus on the woman. Intense energy, dramatic rock-and-roll editorial magazine photography style. Ensure facial consistency with reference image.\"",
+    "title": "I've ever been so confused generating an \"Seedream",
+    "description": "",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784532477787_dtfsht_HNn4LunWAAAAmyG.jpg",
-      "https://cms-assets.youmind.com/media/1784532477778_rvz4e9_HNn4L3LXsAAieqD.jpg"
+      "https://cms-assets.youmind.com/media/1784618422490_9k6ypi_HNsz5zqWwAEG2QQ.jpg",
+      "https://cms-assets.youmind.com/media/1784618422506_67qyss_HNsz6o5WoAA4cx1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29266,
+    "content": "{\"vibe_title_en\": \"Ethereal Surrender in the Digital Baroque\", \"master_prompt\": \"The Deconstructed Detail framing, 100mm Macro f/1.2 lens, Hasselblad H6D-100c. A hyper-realistic, photographic surrealism shot focusing exclusively on the cheekbone and jawline of The Protagonist, treating the body as a canvas. The subject's head is tilted back in 'The Ethereal Surrender', radiating a peaceful, dreamlike submission. A surreal, high-budget practical effect rests across the upper face: an ornate, baroque-style blindfold woven entirely from glowing fiber-optic filaments, emitting a soft, holographic powder-blue light that physically illuminates the peach fuzz and microscopic pores of the skin. A single, perfect drop of liquid gold is caught mid-roll down the cheek. Editorial styling: flawless, dewy glass-skin makeup with a flushed peach lip stain. Extremely long, heavy jet-black hair is styled in a severe, glossy wet-look, slicked cleanly behind the ear, cascading out of frame over a bare shoulder. The background is completely dissolved into a creamy, high-end f/1.2 bokeh of a grand, decaying 18th-century baroque hall lit by hundreds of melting beeswax candles, creating rich, golden amber orbs of out-of-focus light. Lighting is a masterful cinematic collision: the warm, directional Rembrandt glow from the background candles against the icy, practical blue illumination of the optical lace pressing into the cheek. Authentic Kodak Portra 400 film stock texture, tangible physical weight, absolute optical fidelity, no plastic CGI feel. NO NEON.\", \"meta\": {\"intent\": \"Macro surrealism combining classical baroque opulence with futuristic digital textures\", \"priorities\": \"Macro detail, extremely shallow f/1.2 bokeh, hyper-realistic skin texture, practical light contrast\", \"device_profile\": \"Hasselblad H6D-100c, 100mm Macro Prime Lens\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"The Deconstructed Detail, focusing entirely on the cheekbone, jawline, and the edge of the surreal blindfold, ignoring the full face\", \"layout\": \"Off-center macro focus, dominant negative space filled with golden candlelight bokeh\", \"camera_angle\": \"Extreme close-up profile, slightly tilted up from below to emphasize the 'Ethereal Surrender' posture\", \"tilt_roll_degrees\": \"15 degrees\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Androgynous, ageless editorial model\", \"face\": \"Hyper-detailed skin pores, peach fuzz, glossy glass-skin makeup finish, flushed peach lip tint, a single rolling tear of heavy liquid gold\", \"hair\": \"Extremely long, heavy jet-black hair, styled in a severe, glossy wet-look, slicked perfectly behind the ear and cascading down\", \"body\": \"Bare shoulder visible at the edge of the frame, relaxed neck muscles showing a state of peaceful submission\", \"expression\": \"Serene, weightless, lips softly parted in sensory, dreamlike surrender\", \"pose\": \"Head tilted back, eyes closed (hidden under the accessory), neck exposed\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Bare skin\", \"material\": \"Human skin treated as a canvas\", \"color\": \"Natural skin tone\", \"fit\": \"N/A\"}], \"accessories\": [{\"item\": \"Baroque blindfold visor\", \"color\": \"Holographic powder-blue\", \"material\": \"Woven fiber-optic filaments behaving like 18th-century lace\", \"brand_style\": \"Avant-Garde High-Tech Historical\"}, {\"item\": \"Tear\", \"color\": \"Metallic gold\", \"material\": \"Liquid gold\", \"brand_style\": \"Surreal practical effect\"}]}, \"environment\": {\"setting\": \"A decaying, opulent 18th-century baroque opera box (entirely out of focus)\", \"surfaces\": \"Hyper-textured human skin, glowing optical threads, soft out-of-focus background architecture\", \"depth\": \"Extremely shallow depth of field (f/1.2), isolating only the cheek and the optical lace\", \"atmosphere\": \"Warm, floating, dreamlike, thick with the tangible heat of hundreds of unseen candles\", \"lens_interaction\": \"Creamy, spherical bokeh from background flames, soft blooming glow from the fiber optics\"}, \"lighting\": {\"key\": \"Practical holographic powder-blue glow emitting physically from the fiber-optic blindfold\", \"fill\": \"Warm amber candlelight reflecting from the out-of-focus background\", \"rim\": \"Soft golden highlight tracing the jawline and the glossy wet hair\", \"shadows\": \"Deep, rich, and velvety warm shadows with high micro-contrast at the focus plane\", \"color_temperature\": \"Mixed: 2700K (Candles) contrasting with 6500K (Fiber-optic blue)\", \"sensor_flare\": \"Subtle halation around the glowing blue filaments resting on the skin\"}, \"camera\": {\"lens_type\": \"Macro Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/1.2\", \"focus\": \"Pin-sharp exactly on the intersection of the glowing blindfold, the skin pores, and the liquid gold tear\", \"sensor_format\": \"Medium Format Digital\", \"perspective_distortion\": \"Zero distortion, highly compressed background elements\"}, \"post_processing\": {\"color\": \"Rich analog color grading, warm golden shadows, striking pastel blue highlights\", \"tonality\": \"High micro-contrast on the focal point, extremely soft fall-off into the bokeh\", \"texture\": \"Authentic Kodak Portra 400 grain, rendering microscopic details with organic warmth\", \"digital_sharpening\": \"None, relies entirely on elite optical sharpness\", \"chromatic_aberration\": \"Very subtle, natural fringe at the very edge of the macro depth of field\"}, \"negative_specifications\": [\"neon\", \"full body shot\", \"wide angle\", \"CGI feel\", \"plastic skin\", \"harsh studio flash\", \"modern urban settings\", \"short hair\", \"matte makeup\", \"digital illustration\", \"flat lighting\", \"eyes open\"]}",
+    "title": "Ethereal Digital Baroque Macro",
+    "description": "A structured JSON prompt for an ultra-detailed macro surrealism shot combining 18th-century baroque style with glowing fiber-optic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618419522_3exs2d_HNrDr2NWkAAc_CA.jpg",
+      "https://cms-assets.youmind.com/media/1784618419548_ivbcoz_HNrDrykWQAAGB1T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29271,
+    "content": "Ultra-realistic cinematic studio portrait of a modern {argument name=\"subject\" default=\"samurai warrior\"} in a {argument name=\"outfit color\" default=\"black\"} minimalist outfit, inspired by traditional Japanese asethetics.\n\nA young man with curly black hair, light beard, and sunglasses stands in a powerful side pose, wearing a sleeveless black turtleneck-style top, wide black hakama pants, black waist wrap, and black forearm wraps.\n\nHe holds a katana sword in his right hand, blade angled downward, with a calm and focused expression.\n\nThe background features a {argument name=\"background\" default=\"deep red backroup with a large beige circular sun\"} directly behind him, creating a strong sillhouette and a sharp shadow cast on the right side.\n\nDramatic directional lighting highlights the muscular arms, textures of the fabric, and the reflective blade, creating a high-contrast, moody, and intense atmosphere.\n\nThe overall style is minimal, bold, and cinematic, with a strong influence of traditional samurai imagery mixed with modern fashion.\n\nAspect Ratio: 3:4\n\nQuality: Ultra HD (4K or 8K)\n\nStyle: Cinematic, dramatic, high contrast.",
+    "title": "Modern Samurai Studio Portrait",
+    "description": "A cinematic studio portrait of a modern samurai warrior with high-contrast directional lighting and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618422561_9ghwn6_HNq_5n6akAAP8pX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29258,
+    "content": "A premium cinematic motivational poster featuring a {argument name=\"character\" default=\"tiny yellow bird cartoon inspired by Tweety\"} flying above gigantic mountains into a glowing sunrise while enormous eagle shadows appear beneath. Rich golden sunrise, dramatic clouds, ultra-detailed feathers, luxury advertising style. Huge typography “THINK BIGGER” with subtitle “Your Mind Creates Your Limits.”\n\nA premium motivational poster featuring a {argument name=\"hero\" default=\"muscular sailor cartoon inspired by Popeye\"} standing confidently while holding a glowing can of spinach like a trophy. Powerful rim lighting, dark navy background, cinematic smoke, hyper-realistic textures. Giant typography “DISCIPLINE” with subtitle “Small Habits Build Giant Results.”\n\nA premium cinematic advertising poster featuring a {argument name=\"subject\" default=\"gray cat cartoon inspired by Tom\"} flying through a glowing crimson sky while wearing luxurious noise-canceling headphones instead of a blindfold. Floating warning signs and obstacles surround him, but he remains unaware. Deep red cinematic lighting, volumetric clouds, ultra-r…",
+    "title": "Cinematic Motivational Advertising Posters",
+    "description": "A series of high-end advertising-style prompts that transform classic cartoon characters into cinematic motivational posters with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618414738_b2bwg2_HNqkbykbgAAwT-l.jpg",
+      "https://cms-assets.youmind.com/media/1784618414658_9jdnfr_HNqkbynaYAAHgNj.jpg",
+      "https://cms-assets.youmind.com/media/1784618414764_n16yl8_HNqkbyoagAAAKC5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29175,
+    "content": "SHOT: shot_size: Extreme wide top-down aerial covering the entire street, the whole {argument name=\"subject\" default=\"human-mosaic portrait\"} laid flat across the roadway and filling the frame edge to edge, only thin strips of building",
+    "title": "Aerial Street Mosaic Portrait",
+    "description": "An extreme wide-angle aerial prompt designed for generating human-mosaic portraits laid flat across a city street, filling the frame from edge to edge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618423714_uxd969_HNn4LunWAAAAmyG.jpg",
+      "https://cms-assets.youmind.com/media/1784618424534_awlspm_HNn4L3LXsAAieqD.jpg"
     ],
     "needReferenceImages": false
   },
@@ -70,6 +114,19 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1784532469497_5msta4_HNjK2z1b0AAR_Ca.jpg",
       "https://cms-assets.youmind.com/media/1784532471894_33ywzd_HNjK3GvaYAACIvP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29273,
+    "content": "{\n  \"type\": \"image_prompt\",\n  \"aspect_ratio\": \"9:16\",\n  \"composition\": {\n    \"subject\": {\n      \"name\": \"{argument name=\"subject name\" default=\"Sydney Sweeney\"}\",\n      \"appearance\": \"Serene smile, expressing a peaceful moment of rest, looking directly into the camera lens. Natural, radiant skin texture enhanced by the light.\",\n      \"hair\": \"Hair partially tied back with a red satin ribbon on the left side, securing a small strand in a subtle, elegant arrangement.\"\n    },\n    \"attire\": {\n      \"dress\": \"{argument name=\"attire style\" default=\"Light pink kimono-style dress\"}\",\n      \"waist_details\": \"Fitted at the waist with a thick olive-green sash, overlaid with a wide red obi tied into a perfect bow at the front.\"\n    },\n    \"pose\": \"Sitting on a stone wall in an all-fours position (resting on hands and knees), leaning forward. Bare feet are visible near the bottom edge of the frame.\"\n  },\n  \"environment\": {\n    \"setting\": \"{argument name=\"environment\" default=\"An authentic traditional Japanese garden with an irregular stone pathway.\"}\",\n    \"elements\": \"Cherry blossom branches (sakura) with pink petals and dark leaves hanging over the scene.\"\n  },\n  \"cinematography\": {\n    \"mood\": \"Serene, peaceful, and contemplative.\",\n    \"lighting\": \"Intense, direct sunlight coming from above, casting sharp, textured shadows of the cherry leaves. High three-dimensional skin glow.\",\n    \"technical_specs\": {\n      \"camera_angle\": \"High-angle shot looking down towards the subject.\",\n      \"lens\": \"Professional full-frame camera with a 50mm prime lens.\",\n      \"camera_settings\": \"ISO 100 for zero digital noise, f/4.0 aperture for sharp focus on both skin texture and nearby blossoms, 1/500s shutter speed.\",\n      \"style\": \"High-fidelity realistic portrait photography with absolute edge-to-edge sharpness and ultra-detailed rendering of stone and fabric textures.\"\n    }\n  }\n}",
+    "title": "Sydney Sweeney Japanese Garden Portrait",
+    "description": "A high-fidelity photographic prompt for generating a serene portrait of Sydney Sweeney in a traditional Japanese garden wearing a pink kimono, featuring detailed cinematography and lighting settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618423291_t9z7bc_HNh3TmjWYAAOhev.jpg",
+      "https://cms-assets.youmind.com/media/1784618423162_38086c_HNh3T73WQAAfELj.jpg",
+      "https://cms-assets.youmind.com/media/1784618423414_e2cpfa_HNh3URLWoAAvzRl.jpg",
+      "https://cms-assets.youmind.com/media/1784618424141_2i11xm_HNh3Un8WIAAaLnt.jpg"
     ],
     "needReferenceImages": false
   },

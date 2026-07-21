@@ -1,5 +1,38 @@
 [
   {
+    "id": 29275,
+    "content": "{argument name=\"version\" default=\"Final episode version having realized something\"}. {argument name=\"additions\" default=\"Accompanied by friends who suppress immense power\"}.",
+    "title": "Final Episode Realization Scene",
+    "description": "A cinematic prompt for generating a final episode atmosphere where characters have achieved a sense of realization or enlightenment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618426394_itluve_HNu5ZMXbMAAAVnY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29259,
+    "content": "Use the provided reference image for the {argument name=\"subject\" default=\"young man\"}'s face and appearance. Transform the scene so that he is smiling confidently while holding {argument name=\"cartoon character\" default=\"Jerry, the playful cartoon mouse\"}, gently in his arms. Behind him on the left, {argument name=\"companion character\" default=\"Tom the cartoon cat\"} gives a big thumbs-up with an excited expression. The background should be a cozy interior with cinematic lighting, a glowing chandelier, and soft ambient light. Blend live-action and 3D animation in a hyper-rea,",
+    "title": "Hybrid Live-Action and Cartoon Portrait",
+    "description": "A prompt that blends a real person's facial features with classic cartoon characters like Tom and Jerry in a cozy interior setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618416146_sbzgds_HNse4DyX0AA3VO0.jpg",
+      "https://cms-assets.youmind.com/media/1784618414807_fpszk4_HNse4DeXIAE2rsw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29268,
+    "content": "Make a same 100% with object!\nUltra-premium {argument name=\"style\" default=\"anime-inspired\"} semi-realistic illustration with refined manga aesthetics, combining clean line art, soft painterly rendering, and elegant editorial character design. A bright pastel color palette dominated by warm ivory, creamy beige, soft blush pink, dusty rose, muted cherry pink, cool silver-gray, pearl white, and subtle taupe, maintaining soft contrast and harmonious color balance.\nExtremely detailed hair rendering with thousands of ultra-fine individually drawn strands, silky straight texture, smooth layered bangs, precise strand separation, soft natural volume, feathered wispy flyaway hairs, clean tapered ends, cool ash-brown and smoky gray tones, delicate silver highlights, subtle neutral shadows, and glossy reflections that preserve a lightweight, silky appearance. Hair is rendered with crisp directional flow and immaculate strand definition.\nFace rendered in premium anime realism with {argument name=\"eyes\" default=\"oversized crystal-clear eyes\"}, soft glossy irises, delicate eyelashes, finely sculpted eyebrows, translucent skin shading, gentle rosy blush across cheeks and nose, smooth gradient transitions, tiny specular highlights, and naturally soft lips. The skin has a porcelain-like finish with subtle warm undertones and refined painterly blending.\nUltra-clean linework using thin, confident strokes with precise contours and minimal visual noise. Soft cel-shading blended with painterly gradients, producing smooth transitions while preserving illustration clarity. Fabric folds are rendered with elegant linear shading and subtle texture, emphasizing volume without harsh contrast.\nLighting is soft, diffused, and high-key, featuring gentle ambient illumination with delicate warm highlights and cool neutral shadows. The overall atmosphere is bright, airy, clean, and polished without dramatic lighting.\nBackground kept minimal with a {argument name=\"background\" default=\"warm ivory or cream tone\"}, subtle paper-like softness, generous negative space, and no complex environmental elements, allowing the subject to remain the visual focus.\nLuxury anime illustration, premium character-art aesthetic, ultra-clean rendering, silky detailed hair, elegant pastel harmony, refined manga-inspired realism, soft editorial finish, crisp line quality, masterpiece, highly detailed, 8K quality.",
+    "title": "Premium Anime Realism Illustration",
+    "description": "An elegant anime-inspired illustration style with silky hair textures and a soft pastel color palette, designed for high-end character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618420803_k50cn0_HNq8YCOWcAEh-H4.jpg",
+      "https://cms-assets.youmind.com/media/1784618420807_ob9z7e_HNq8YuEWIAAlajp.jpg",
+      "https://cms-assets.youmind.com/media/1784618420757_bnyoix_HNq8ZRgW4AAo9IM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29166,
     "content": "Ultra realistic CG {argument name=\"character type\" default=\"character costume concept sheet\"}, Unreal Engine 5 render. A {argument name=\"subject\" default=\"beautiful blonde hair girl\"}, Fashion: {argument name=\"style\" default=\"trendy y2k style\"}, realistic faces and proportions, natural confident poses. Background: softly blurred near future plaza, glass mall, LED facades, polished stone floor, bright afternoon daylight, cinematic lighting. High end game cinematic concept art, sharp details, premium fashion editorial feel",
     "title": "Y2K Style Character Concept Sheet",

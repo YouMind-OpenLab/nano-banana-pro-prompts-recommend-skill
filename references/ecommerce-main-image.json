@@ -1,5 +1,28 @@
 [
   {
+    "id": 29267,
+    "content": "Extreme close-up, highly detailed Blender + Octane render of the attached product images arranged as a {argument name=\"composition style\" default=\"dense, overlapping 3D floating cluster\"}. Use the exact products shown in the attached photos preserve their true colors, materials, logos, labels, textures, and proportions exactly as photographed. Do not invent, substitute, or generically reinterpret any product; render them as faithful 3D versions of the attached references.\n\nComposition: objects overlap and float in a tight macro cluster, each catching light from a different angle, creating a layered depth-of-field effect with the nearest object in sharp focus and others softly falling off in the background blur.\n\nIntertwined throughout the cluster: long, curling streamers of {argument name=\"decorative element\" default=\"metallic confetti ribbon\"} and thin silky ribbon, threading between and behind the objects, catching specular highlights as they curl through the frame.\n\nMaterials and rendering: emphasize contrasting textures true to each attached product brushed or polished metal, soft fabric sheen and folds, glass with complex caustics and refractions if transparent liquid is present, waxy or matte surfaces, glossy plastic or lacquer all rendered with physically accurate reflections, refractions, and soft shadow occlusion.\n\nBackground: a {argument name=\"background lighting\" default=\"sophisticated multi-tonal gradient\"}, built creatively from the dominant and accent colors actually present in the attached product images analyze the attached photos' palette (primary object color, packaging color, any metallic or accent tones) and construct a smooth, moody gradient that transitions between 2–3 of those extracted tones, deepest/coolest tone at the bottom edge, warmest/lightest tone at the top edge, evoking a refined evening luxury atmosphere. Do not default to a fixed palette the gradient must visibly relate to and complement the attached products' actual colors. Confetti ribbon colors should also pull from this same extracted palette (one metallic tone + one soft tone).\n\nLighting: soft key light from the upper background glow, subtle rim lighting on each object edge, gentle bounce light between overlapping items, no harsh shadows.\n\nCamera: macro lens look, shallow depth of field, extreme close-up framing, photorealistic, ultra-detailed, 8K render quality.",
+    "title": "Luxury Product Cluster Master Prompt",
+    "description": "A sophisticated master prompt designed for rendering multiple products as a dense, high-end 3D cluster with realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg",
+      "https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg",
+      "https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg",
+      "https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29263,
+    "content": "Extreme macro photograph of the {argument name=\"monitor area\" default=\"bottom-left corner of a computer monitor\"}, shot at a slight angle from the right. The sheet tab bar of a spreadsheet fills the frame — three tabs legible and sharp, reading \"{argument name=\"tab 1\" default=\"Quotes\"}\", \"{argument name=\"tab 2\" default=\"Copy of Invoices\"}\", and \"FINAL_dont_delete\", with \"FINAL_dont_delete\" the active white tab. Visible pixel structure in the screen surface at this magnification, a fine layer of dust, one small fingerprint smudge on the glass. Very shallow depth of field so the tabs at the left edge blur out. Soft window light from the side raking across the screen surface. Natural colour, macro photography, no device bezel visible beyond the lower edge.",
+    "title": "Macro Monitor Screen Texture",
+    "description": "An extreme macro photography prompt for capturing the pixel structure, dust, and spreadsheet details of a computer monitor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618417941_4t9wn9_HNpR2vOWQAAMeul.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29040,
     "content": "A full-body studio portrait of a {argument name=\"subject\" default=\"beautiful woman with long, wavy brown hair\"}, posing confidently against a {argument name=\"background\" default=\"solid gray background\"}. She is wearing a {argument name=\"outfit\" default=\"chic casual denim outfit, featuring a strapless light-blue denim corset top and matching wide-leg blue jeans with a prominent ripped knee detail\"}. She is wearing stylish black high-heeled sandals. One foot is resting on the floor, while the other leg is casually raised with her foot placed on a classic round wooden stool.",
     "title": "Casual Denim Studio Portrait",

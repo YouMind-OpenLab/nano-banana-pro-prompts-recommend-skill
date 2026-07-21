@@ -10,6 +10,49 @@
     "needReferenceImages": false
   },
   {
+    "id": 29256,
+    "content": "Vertical 9:16 photographed portrait. A {argument name=\"subject\" default=\"young woman\"} standing in front of a wall wearing a {argument name=\"accessory\" default=\"colorful hat\"}. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. {argument name=\"clothing\" default=\"Prada fine nylon shirt, tailored shorts, leather sneakers\"}. Warm consumer color-negative film look with heavy amber/yellow cast, soft highlight.",
+    "title": "Amber Film Aesthetic Fashion Portrait",
+    "description": "A photography prompt for a vertical waist-up portrait with a warm, consumer color-negative film aesthetic and a heavy amber cast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618413381_2mktlb_HNsciS1b0AAGqu1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29260,
+    "content": "Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest.\nA close-up indoor selfie of a {argument name=\"subject\" default=\"young woman\"} with a soft, sweet face, illuminated by warm natural lighting reminiscent of golden hour. The image is ultra-realistic, featuring a beautiful fair-skinned young woman with balanced facial proportions and dewy skin that appears slightly moisturized. She has naturally groomed eyebrows, long, thick, curled upper eyelashes (lash extensions), equally long, dense, curled lower lashes, black contact lenses, and a reddish ombré lip tint. Soft pink blush is visibly applied across the bridge of her nose and beneath her eyes, creating a delicate, youthful aesthetic. Her complexion is fair with a subtle rosy undertone, rendered in ultra-high 8K detail, while a camera flash adds a luminous glow to her face.\nThe composition emphasizes her facial expression, eyes, and makeup details. She rests her chin on her bent arm, wearing a gentle, soft smile with a calm gaze directed toward the camera. A few loose strands of hair fall naturally across her face, adding a dreamy, feminine, and effortless appearance.\nHer hair is long, loose, thick at the roots, and slightly wavy at the ends, colored in a {argument name=\"hair color\" default=\"cool ash-brown\"} shade. It is styled with a side part, with one section tucked behind her ear to reveal a small silver butterfly-shaped earring. Fine wisps of hair frame her face, enhancing the candid and natural feel.\nTop: She wears a {argument name=\"outfit\" default=\"soft pastel blue Kashmiri embroidered kurta\"} with three-quarter sleeves and a notched crew neckline. The kurta features intricate floral and vine embroidery in white, orange, and light pink across the chest, complemented by matching decorative embroidery along the sleeves, hem, and side slit.\nWarm midday sunlight streams through a nearby window, casting the shadow of the window bars onto the wall behind her. The warm light softly illuminates one side of her face, creating a golden glow that highlights the smooth texture of her skin and adds natural depth to her features. The background is a simple light cream-colored wall decorated with trailing green heart-shaped vines hanging from above, creating a clean, warm, and cozy indoor atmosphere.\nThe image is captured vertically (9:16) using a smartphone in Portrait mode from a close selfie angle, with razor-sharp focus on her face, eyes, and accessories, while the background remains softly blurred with shallow depth of field. The overall aesthetic is inspired by Korean portrait photography, highlighting natural beauty under warm golden-hour lighting with a minimal, clean indoor setting. The image is ultra-photorealistic with highly detailed skin texture, soft cinematic lighting, HDR processing, 8K resolution, and calm pastel color grading that creates a warm, elegant, and soothing atm",
+    "title": "Korean Style Portrait Photography Prompt",
+    "description": "A detailed prompt for generating a soft, feminine portrait with warm natural lighting and intricate clothing details, inspired by Korean photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618414591_dds4gx_HNrydw6aEAU2fM9.jpg",
+      "https://cms-assets.youmind.com/media/1784618414596_ikgtmg_HNrye63aEAABcgD.jpg",
+      "https://cms-assets.youmind.com/media/1784618414835_gk1un4_HNrygBhaEAMNvxO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29265,
+    "content": "Restore this {argument name=\"photo type\" default=\"old damaged photo\"} with {argument name=\"output quality\" default=\"4K details and colours\"}. Keep the colours authentic to the time period and aesthetic of the photo. Do not change any details from my original photo.",
+    "title": "Historical Photo Restoration",
+    "description": "An instruction-based prompt for restoring old, damaged photographs into 4K quality while preserving the original colors and historical aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618419167_kbjb3h_HNp_FojWkAAAHDp.jpg",
+      "https://cms-assets.youmind.com/media/1784618419228_xw6mqw_HNp_ForWwAArRs9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29264,
+    "content": "Cinematic black-and-red portrait of the girl from the first uploaded photo, 100% same face. {argument name=\"hair style\" default=\"Long wavy dark hair\"}. {argument name=\"outfit\" default=\"White stone-work saree, black blouse\"}, silver oxidized jewelry. High-contrast lighting, soft glow, dreamy {argument name=\"aesthetic\" default=\"90s film-noir\"}, subtle film grain. A man's shadow gently holding her hand; she looks at him with a calm, emotional expression. Do not change my face.",
+    "title": "Dreamy 90s Film Noir Portrait",
+    "description": "A nostalgic, cinematic prompt for a portrait featuring traditional Indian attire and romantic shadow play.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618418479_x7a8q7_HNogUCrbwAAySnH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29173,
     "content": "These moody, atmospheric portraits capture a young woman with {argument name=\"hair\" default=\"dark, wavy hair\"} and an intense, contemplative gaze in a {argument name=\"environment\" default=\"dimly lit, somber environment\"}. The lighting is low-key and dramatic, casting soft shadows that highlight the delicate features of her face, including her expressive, thoughtful eyes and natural skin texture. In one image, she is shown looking down with her hands clasped in a gesture of quiet introspection, while in the other, she is captured looking off-camera with a pensive, thoughtful expression as she rests her chin near her hand. She is dressed in a {argument name=\"clothing\" default=\"dark-colored, textured knit sweater\"}, which adds to the intimate and quiet, melancholic mood of the overall composition.",
     "title": "Moody Atmospheric Introspective Portrait",
@@ -17,6 +60,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1784532476909_4glu45_HNnZ0zBW4AA1mkw.jpg",
       "https://cms-assets.youmind.com/media/1784532476937_ixlbb4_HNnZ1U1W8AAppqX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29262,
+    "content": "A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a {argument name=\"phone\" default=\"gray iPhone\"} in her right hand. She has fair skin, {argument name=\"hair style\" default=\"blonde wavy hair\"} styled in a half-up bun with a small white skull hair clip, loose strands framing her face, and wearing long dangling star-shaped earrings. She is wearing deep necked the {argument name=\"outfit\" default=\"official Argentina national football team uniform\"} cropped knit: a light blue and white vertical striped jersey with the AFA crest on the chest, short sleeves or slightly rolled, tucked slightly at the waist, paired with matching black shorts, white socks, and football boots. Toned athletic physique visible, natural daylight coming from the window, wooden bed with blue bedding and potted plants in the background, green curtains, realistic photography style, highly detailed, sharp focus, 8k quality, cinematic lighting.",
+    "title": "Football Jersey Mirror Selfie",
+    "description": "Generates a stunning mirror selfie of a woman wearing an Argentina national team jersey in a cozy, detailed bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784618417675_vr650m_HNm4h6SbsAAWc4W.jpg"
     ],
     "needReferenceImages": false
   },
