@@ -10,6 +10,41 @@
     "needReferenceImages": false
   },
   {
+    "id": 29348,
+    "content": "A medium shot, eye-level candid smartphone photo of {argument name=\"celebrity\" default=\"Hailee Steinfeld\"} smiling directly into the camera. She is centered in the frame with her hair parted down the middle, falling softly below her shoulders. She has a joyful expression with a radiant, open-mouthed smile showing her teeth, wearing light, natural makeup with authentic skin microtexture, fine pores, subtle imperfections, and realistic skin tones. She is wearing a {argument name=\"top color\" default=\"light-red\"} long-sleeved crop top and high-waisted, tight-fitting {argument name=\"shorts style\" default=\"marled white knit\"} shorts. Her posture is relaxed and dynamic, with a slight hip dip to the left, both arms raised, and her hands placed under her chin to form a 'V' shape around her face. The setting is a bathroom interior featuring a closed black paneled door with a silver handle in the background. To the right, two plush towels-one yellow and one red-toned-hang on a rack. In the immediate foreground, the sharp edge of a polished granite countertop displays detailed mineral textures. The scene is illuminated by indirect natural window light blended with soft ambient lighting. Captured on a 24mm equivalent smartphone lens with modern computational HDR processing, a shallow depth of field (f/1.8), ISO 100 clarity, and extreme optical sharpness. Ultra-high-definition 8K quality focusing on realistic fabric microtextures, crisp eyes, and zero digital noise. Aspect ratio 9:16.",
+    "title": "Candid Smartphone Celebrity Portrait",
+    "description": "A detailed prompt for creating high-fidelity, candid-style smartphone photos of celebrities with realistic skin textures and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784704464309_8ws3rb_HNv1VWBWMAAc_G2.jpg",
+      "https://cms-assets.youmind.com/media/1784704462593_rkk2kr_HNv1VovWoAAOOYn.jpg",
+      "https://cms-assets.youmind.com/media/1784704463972_s6mqf5_HNv1WAzXEAAKTbS.jpg",
+      "https://cms-assets.youmind.com/media/1784704463478_5xpgph_HNv1WVTXsAAkyY3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29350,
+    "content": "Ultra-realistic candid smartphone selfie of a young woman sitting in the back seat of a modern car during golden hour. She has long dark brown hair with soft curtain bangs, a {argument name=\"accessory\" default=\"cute pastel pink heart-shaped hair clip\"} on the left side, naturally glowing fair skin, long voluminous eyelashes, glossy pink lips, subtle blush, and minimal natural makeup. She wears a {argument name=\"outfit\" default=\"fitted black raglan T-shirt with mustard yellow sleeves and collar\"}. Warm golden sunlight streams through the car window, illuminating one side of her face with soft cinematic highlights and gentle shadows. Relaxed, dreamy expression, gazing out the window in one shot and resting her cheek on her hand with eyes closed in another. Realistic car interior with beige seats, window reflections, slight motion blur outside suggesting a moving vehicle, shallow depth of field, soft bokeh, clean composition, authentic candid lifestyle photography, DSLR quality, 85mm lens, f/1.8, HDR, ultra-detailed skin texture, natural colors, photorealistic, 8K, no filters, no watermark.",
+    "title": "Golden Hour Car Selfie",
+    "description": "A candid smartphone selfie prompt set in the backseat of a car during golden hour, emphasizing natural lighting and lifestyle aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784704466140_8v67au_HNvQOmzXcAAaLhN.jpg",
+      "https://cms-assets.youmind.com/media/1784704465959_bgz45e_HNvQPMGWcAEK63O.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29349,
+    "content": "Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor selfie of a young woman with a soft, sweet face, illuminated by warm natural lighting reminiscent of golden hour. The image is ultra-realistic, featuring a beautiful fair-skinned young woman with balanced facial proportions and dewy skin that appears slightly moisturized. She has naturally groomed eyebrows, long, thick, curled upper eyelashes (lash extensions), equally long, dense, curled lower lashes, black contact lenses, and a reddish ombré lip tint. Soft pink blush is visibly applied across the bridge of her nose and beneath her eyes, creating a delicate, youthful aesthetic. Her complexion is fair with a subtle rosy undertone, rendered in ultra-high 8K detail, while a camera flash adds a luminous glow to her face. The composition emphasizes her facial expression, eyes, and makeup details. She rests her chin on her bent arm, wearing a gentle, soft smile with a calm gaze directed toward the camera. A few loose strands of hair fall naturally across her face, adding a dreamy, feminine, and effortless appearance. Her hair is long, loose, thick at the roots, and slightly wavy at the ends, colored in a cool {argument name=\"hair color\" default=\"ash-brown\"} shade. It is styled with a side part, with one section tucked behind her ear to reveal a small silver butterfly-shaped earring. Fine wisps of hair frame her face, enhancing the candid and natural feel. Top: She wears a soft {argument name=\"top color\" default=\"pastel blue\"} Kashmiri embroidered kurta with three-quarter sleeves and a notched crew neckline. The kurta features intricate floral and vine embroidery in white, orange, and light pink across the chest, complemented by matching decorative embroidery along the sleeves, hem, and side slit. Warm midday sunlight streams through a nearby window, casting the shadow of the window bars onto the wall behind her. The warm light softly illuminates one side of her face, creating a golden glow that highlights the smooth texture of her skin and adds natural depth to her features. The background is a simple light cream-colored wall decorated with trailing {argument name=\"plant decoration\" default=\"green heart-shaped vines\"} hanging from above, creating a clean, warm, and cozy indoor atmosphere. The image is captured vertically (9:16) using a smartphone in Portrait mode from a close selfie angle, with razor-sharp focus on her face, eyes, and accessories, while the background remains softly blurred with shallow depth of field. The overall aesthetic is inspired by Korean portrait photography, highlighting natural beauty under warm golden-hour lighting with a minimal, clean indoor setting. The image is ultra-photorealistic with highly detailed skin texture, soft cinematic lighting, HDR processing, 8K resolution, and calm pastel color grading that creates a warm, elegant, and",
+    "title": "Natural Golden Hour Indoor Selfie",
+    "description": "A highly detailed prompt for a realistic indoor selfie with warm golden hour lighting and intricate fabric and skin details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784704464096_3hqirt_HNuWSHZWgAAaQmZ.jpg",
+      "https://cms-assets.youmind.com/media/1784704464164_1g7908_HNuWSx7W8AAMvgX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29256,
     "content": "Vertical 9:16 photographed portrait. A {argument name=\"subject\" default=\"young woman\"} standing in front of a wall wearing a {argument name=\"accessory\" default=\"colorful hat\"}. Tight vertical waist-up portrait, subject slightly right of center, face in the upper third with little headroom, torso. {argument name=\"clothing\" default=\"Prada fine nylon shirt, tailored shorts, leather sneakers\"}. Warm consumer color-negative film look with heavy amber/yellow cast, soft highlight.",
     "title": "Amber Film Aesthetic Fashion Portrait",
