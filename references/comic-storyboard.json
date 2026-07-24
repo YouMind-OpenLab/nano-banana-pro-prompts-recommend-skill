@@ -1,5 +1,15 @@
 [
   {
+    "id": 29571,
+    "content": "A graceful {argument name=\"subject\" default=\"Japanese woman\"} in a traditional kimono kneels gracefully by a serene garden pond adorned with vibrant red autumn leaves, moss-covered rocks, and a classic stone lantern. In the first scene, she carefully arranges delicate floral stems in a ceramic vase, while the second captures a peaceful moment as she holds a small teacup near a traditional wooden pavilion and arched bridge, all beautifully rendered in a soft watercolor style with gentle mist and vivid reflections dancing on the water's surface.",
+    "title": "Japanese Woman Autumn Garden Kimono",
+    "description": "A soft watercolor style prompt depicting a Japanese woman in a traditional kimono beside a serene autumn garden pond.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877065334_pi3fe7_HN6nsYAbcAAKj70.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29275,
     "content": "{argument name=\"version\" default=\"Final episode version having realized something\"}. {argument name=\"additions\" default=\"Accompanied by friends who suppress immense power\"}.",
     "title": "Final Episode Realization Scene",

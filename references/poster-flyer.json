@@ -20,6 +20,52 @@
     "needReferenceImages": false
   },
   {
+    "id": 29566,
+    "content": "Make a same 100% with object! Bold {argument name=\"style\" default=\"neo-retro vector illustration\"} with premium graphic-novel aesthetics, combining clean cel-shaded rendering and expressive hand-inked linework. Thick, confident black contour lines with varied line weight, crisp silhouette definition, and simplified geometric forms. High-contrast flat-color shading with subtle tonal layering, minimal gradients, and smooth vector precision. Dramatic chiaroscuro using large solid shadow masses and sharp highlight shapes. Limited color palette dominated by {argument name=\"colors\" default=\"vivid crimson red, deep matte black, warm ivory, muted peach, soft beige, dark charcoal, olive green accents, and clean white highlights\"}. Stylized facial anatomy with exaggerated wrinkles, angular planes, flowing hair and beard strands rendered through elegant tapered ink strokes. Dynamic comic-inspired composition with {argument name=\"elements\" default=\"decorative abstract smoke, swirling calligraphic shapes, ink splashes, floating graphic motifs, and subtle distressed textures\"}. Modern Asian poster design influence blended with vintage pulp illustration, tattoo-inspired vector art, and contemporary editorial graphics. Ultra-clean edges, high visual impact, cinematic contrast, layered depth through overlapping flat shapes, premium screen-print aesthetic, sharp vector finish, bold negative space, highly detailed yet simplified forms, no photorealism, no painterly texture, no 3D rendering, no text, no watermark, no logo.",
+    "title": "Neo-Retro Vector Comic Illustration",
+    "description": "A detailed prompt for a bold neo-retro vector illustration with premium graphic novel aesthetics, featuring high-contrast flat-color shading and stylized anatomy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877063032_0cmc20_HN95Oy_bgAIb-E5.jpg",
+      "https://cms-assets.youmind.com/media/1784877063012_wpco5k_HN95QAIaAAAWOY9.jpg",
+      "https://cms-assets.youmind.com/media/1784877063097_sw4pud_HN95Q0XbwAAr0Pi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29565,
+    "content": "Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system.\n\nTheme: [{argument name=\"theme\" default=\"football / badminton / jump rope / floral design\"}]\nSubject: [person, age, gender, appearance]\nAction: [specific movement or task]\nScene: [location and environment]\nTitle: [{argument name=\"title\" default=\"custom two-word title\"}]\nSupporting line: [{argument name=\"subtitle\" default=\"one short phrase\"}]\nYear: 2026\n\nUse oversized cropped typography as the main composition structure. The letters should act like windows that reveal the surrounding scene, such as the sky, court, buildings, flowers, studio, or ground.\n\nKeep the main person visually complete in front of the typography. Do not let the letters cut through the face, torso, thighs, or other important body parts.\n\nLet one key action element break beyond the letterforms to create depth:\n- a football and shoe close to the camera\n- a badminton racket and shuttlecock\n- a jump rope forming a large arc\n- a bouquet, stems, leaves, or hands extending across the type\n\nThe person, typography, and environment must feel like one continuous composition, not a photo placed beside typography.",
+    "title": "Human Fragments Editorial Poster",
+    "description": "A sophisticated editorial poster prompt designed for Nano Banana Pro, utilizing oversized typography as windows into a scene with a primary subject performing a specific task.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877061209_scsr9o_HN6nzXybEAACBGB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29570,
+    "content": "Ultra-expressive contemporary mixed-media portrait illustration style combining abstract expressionism, geometric cubism, urban sketching, editorial fashion illustration, and gestural ink drawing. Built with energetic, confident, hand-drawn linework featuring loose construction lines, flowing scribbles, overlapping contour strokes, expressive ink marks, rapid gesture sketches, and spontaneous pencil-like scratches that intentionally remain visible. Faces and forms are constructed from fragmented translucent geometric planes, angular facets, and layered semi-transparent color blocks that overlap naturally while preserving dimensional depth. Bold painterly acrylic and gouache textures with dry-brush streaks, palette-knife smears, rough pigment deposits, and visible canvas grain. Vibrant high-key color palette featuring {argument name=\"colors\" default=\"saturated golden yellow, warm orange, coral, crimson, magenta, hot pink, violet, indigo, cobalt blue, cyan, turquoise, soft lavender\"}, and subtle neutral grays, balanced with clean white negative space. Dynamic color layering with semi-transparent glazing, textured paint splashes, expressive brush swipes, distressed edges, and subtle printmaking imperfections. High-contrast lighting enhanced through color relationships instead of realistic shading, with selective bold shadows and luminous highlight planes. Crisp black ink accents define focal areas while colorful painterly textures dissolve toward the edges, creating a modern editorial fine-art aesthetic. Airy composition with abundant white space, layered abstract background brush marks, scattered geometric fragments, energetic linear accents, and controlled visual chaos. Premium gallery-quality illustration, handcrafted artistic feel, ultra-detailed, vibrant, expressive, contemporary, 8K resolution, no photorealism.",
+    "title": "Contemporary Mixed-Media Portrait Art",
+    "description": "Creative mixed-media illustration prompt blending abstract expressionism and cubism with a vibrant color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877065020_64kqms_HN6UA0kaAAAFCN7.jpg",
+      "https://cms-assets.youmind.com/media/1784877064997_hnra09_HN6UBT6a8AAtWbq.jpg",
+      "https://cms-assets.youmind.com/media/1784877065056_fnc512_HN6UCCEaYAAKxUR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29568,
+    "content": "Masterpiece modern editorial semi-vector illustration with handcrafted expressive linework, combining bold graphic design aesthetics and organic ink-sketch energy. Render using a limited retro duotone palette consisting of {argument name=\"base colors\" default=\"warm cream (#F2DFC0), muted ivory, charcoal navy (#243647), slate gray, cool gray\"}, and {argument name=\"accent color\" default=\"vivid burnt orange (#F57A2A)\"} as the only accent color. Preserve the exact color harmony with high-contrast flat graphic shadows and subtle tonal layering.\nCreate clean, simplified geometric shadow planes with irregular angular shapes, while retaining loose hand-drawn imperfections. Outlines feature expressive pressure-sensitive thick-and-thin strokes, alternating between bold contour lines and delicate hairline sketch marks. Avoid perfectly uniform vector paths; every line should feel naturally drawn by hand with slight wobble, tapering ends, and visible stroke rhythm.\nFacial features are modeled using layered graphic shapes mixed with spontaneous sketch lines, giving a balance between realism and illustration. Hair and beard are built from hundreds of energetic flowing strokes, overlapping curved ink-like marks, loose scribbles, tapered strands, and textured clusters, maintaining an organic handcrafted appearance rather than smooth digital rendering.\nUse minimal yet intentional cross-contour marks, subtle scratch textures, tiny construction lines, and scattered expressive sketch strokes throughout the face and clothing. Shadows are composed of flat color blocks with occasional textured edges and thin internal contour lines to preserve depth without photorealistic gradients.\nBackground is a solid {argument name=\"background color\" default=\"warm cream\"} with no scenery, no texture except extremely subtle paper grain. Overall style resembles a premium contemporary graphic portrait poster, blending semi-vector precision with expressive ink drawing, bold editorial composition, handcrafted imperfections, graphic shadow design, organic line variation, and crisp high-resolution illustration.\nNegative style: photorealism, glossy rendering, airbrush gradients, watercolor, oil paint, 3D rendering, comic halftone dots, overly smooth vector curves, excessive texture, neon colors, saturated rainbow palette, blurry edges, uniform line weight, flat lifeless strokes.",
+    "title": "Retro Duotone Editorial Illustration",
+    "description": "A graphic design style prompt for creating semi-vector portraits with a retro color palette and handcrafted linework.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877063061_4wjd0y_HN5I9OpXYAAKaFH.jpg",
+      "https://cms-assets.youmind.com/media/1784877063862_v740ok_HN5I-C7WEAIzD40.jpg",
+      "https://cms-assets.youmind.com/media/1784877063866_wusj3p_HN5I_0LXkAAOdZ7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29272,
     "content": "\"Use facial identity, facial geometry, make-up but not original hair from [uploaded image] to create a young female rockstar with a slim hourglass figure. She has professionally styled long flowing blonde hair with a side-parting. She wears a strapless black sequin pencil-dress with a tiny side slit and black high-heels with long heels and 3 tiers of straps going up to her ankles. Wide-angle, action shot from a very low-angle of the female rockstar aggressively kicking a stage amplifier speaker with one foot while holding the head of her electric guitar with both hands and smashing the body on the wooden floor of the stage. She has a smirk on her face while her gaze is directed at the guitar getting smashed. The stage is bathed in medium atmospheric smoke. A big, high-contrast, strong backlight from behind the rockstar creates a bright, glowing silhouette and rim light around her flying hair and exploding wooden splinters from the smashed guitar. Full-frame DSLR camera, 50-85mm lens, high shutter speed and sharp focus on the woman. Intense energy, dramatic rock-and-roll editorial magazine photography style. Ensure facial consistency with reference image.\"",
     "title": "I've ever been so confused generating an \"Seedream",

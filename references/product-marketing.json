@@ -21,6 +21,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 29562,
+    "content": "Reference image: uploaded photo Face: preserve the same face, with {argument name=\"expression\" default=\"intense expression and bold dark lips\"}. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
+    "title": "Futuristic Latex Fashion Editorial",
+    "description": "A high-gloss fashion editorial prompt for a futuristic look featuring a black latex top and bold accessories against a vibrant red backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877059446_71608o_HN4_EBKaAAAhXm2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29560,
+    "content": "An elegant, minimal macro photograph showcasing the fusion of a {argument name=\"mecha element\" default=\"pristine white polymer mecha-suit collar\"} with {argument name=\"fabric element\" default=\"heavy, dark-folded woolen drapery\"}. Simple, powerful composition. {argument name=\"lighting\" default=\"Cinematic side-lighting\"} reveals the fine details of the high-tech seams and the deep, shadowy folds of the protective veil.",
+    "title": "Mecha Suit and Woolen Drapery Macro",
+    "description": "A macro photography prompt focused on the contrast between high-tech mecha components and natural woolen fabric textures under cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877057441_q0lv1h_HN2sBFNXAAADW3t.jpg",
+      "https://cms-assets.youmind.com/media/1784877057457_v8c47b_HN2sNQXWYAASWr4.jpg",
+      "https://cms-assets.youmind.com/media/1784877057515_duqp6m_HN2sNQLXIAAaZ8q.jpg",
+      "https://cms-assets.youmind.com/media/1784877058406_s4z88r_HN2sPTsWUAA6AL6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29463,
     "content": "A high-fashion editorial portrait of a young woman with {argument name=\"hair color\" default=\"vibrant purple\"} short hair in a {argument name=\"hair cut\" default=\"chic bob cut with bangs\"}, light freckles across her nose, wearing dark stylish sunglasses. She is wearing a sleek, sleeveless black tailored jumpsuit. She stands in a dynamic posture against a neutral dark grey studio backdrop, extending one arm forward toward the camera holding a {argument name=\"accessory\" default=\"large, structured burgundy leather satchel handbag\"} with a gold metal clasp close to the lens. Low angle shot, forced perspective, three-quarter body framing, sharp detail, professional studio lighting.",
     "title": "Purple Bob Fashion Editorial Portrait",

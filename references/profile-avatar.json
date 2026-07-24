@@ -10,6 +10,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 29561,
+    "content": "Ultra-realistic golden hour car selfie, close-up, vertical 4:5, high-end smartphone front camera, 26mm, f/1.8, ISO 40, HDR, natural skin texture, subtle film grain, 8K. A {argument name=\"subject\" default=\"young woman\"} sitting in the front passenger seat of a {argument name=\"setting\" default=\"modern black leather car\"}, wearing a seatbelt, {argument name=\"hair style\" default=\"long dark chestnut-brown wavy hair\"}, fair skin, light blue-gray eyes, thick brows, soft winged eyeliner, glossy pink lips, black spaghetti-strap top, silver hoop earrings, and a silver Hamsa pendant necklace. Warm golden sunlight from the side window casts cinematic shadows across her face, clear blue sky outside, calm neutral expression, photorealistic, premium smartphone photography.",
+    "title": "Golden Hour Car Selfie Portrait",
+    "description": "A hyper-realistic smartphone-style selfie prompt featuring a young woman in a car during golden hour with natural skin textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877059595_ng3cvk_HN9s0mJWoAEwDXE.jpg",
+      "https://cms-assets.youmind.com/media/1784877059658_jbk08p_HN9s6oQX0AAGkrJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29559,
+    "content": "Hyper-realistic lifestyle portrait of the {argument name=\"girl\" default=\"girl\"} with full identity preservation: face, proportions, bone structure, and skin texture strictly matching the reference (1:1). Natural skin without smoothing or \"plastic,\" visible pores and natural details.\n\nScene:\n\n{argument name=\"studio setting\" default=\"dark studio setting\"} with a deep black background, minimalist composition.\n\nIn the air — floating soap bubbles in the shape of hearts (only hearts, no round ones), with soft highlights and a light shimmer. Atmosphere — intimate, beauty-editorial.\n\nComposition:\n\ntight close-up,\n\neye-level camera,\n\nface occupies most of the frame,\n\nshoulders slightly turned,\n\nshallow depth of field,\n\nsharp focus on eyes and lips.\n\nPose and expression:\n\nthe girl holds a soap bubble wand near her lips,\n\nlips slightly parted,\n\nhand close to the face,\n\ngaze directed straight into the camera,\n\nexpression is calm, confident, with light sensuality.\n\nHair:\n\n{argument name=\"hair style\" default=\"long voluminous curls\"},\n\nclearly defined texture,\n\nslightly messy,\n\nhair framing the face,\n\non one side — several small heart-shaped hairclips.\n\nMakeup:\n\nbright beauty makeup with a lot of glitter,\n\nshiny green eyeshadow with sparkle,\n\nneatly groomed eyebrows,\n\nlong eyelashes,\n\nnoticeable freckles on the nose and cheeks,\n\npronounced blush,\n\nglossy natural lips,\n\nfine glitter on the face, shoulders, and collarbones.\n\nClothing:\n\nopen shoulders, emphasis on skin and makeup.\n\nAccessories:\n\nsoap bubble wand,\n\nheart hairclips,\n\nheart-shaped soap bubbles.\n\nLighting:\n\ndirect frontal light (flash),\n\nhigh contrast,\n\nbright highlights on the skin and glitter,\n\ndeep shadows in the background,\n\nclear reflections on the bubbles.\n\nDetails:\n\na heart-shaped shadow may appear on the shoulder,\n\nskin texture and pores visible,\n\nclear glitter reflections,\n\nrealistic transparency of bubbles,\n\nbubbles catching the light.\n\nColor:\n\ndeep dark tones,\n\nhigh contrast,\n\nrich skin tones,\n\nbright sparkling highlights,\n\nglossy editorial style.\n\nQuality:\n\nultra-high resolution,\n\nsharp image,\n\nmaximal photorealism,\n\nno stylization, no illustrativeness,\n\nno beauty filters or \"plastic\" skin,\n\nno round bubbles — only hearts.",
+    "title": "Heart Shaped Bubbles Fashion Portrait",
+    "description": "An editorial-style portrait prompt for creating a high-fashion look with heart-shaped soap bubbles in a dark studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877057501_0m0jd2_HN0YKTMbkAIIhIW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29563,
+    "content": "Black and white contrast photo\n\nExtremely close-up shot of half of a {argument name=\"subject\" default=\"girl's\"} face\n\nShe is wearing a {argument name=\"clothing\" default=\"black turtleneck\"}\n\nCinematic effect with added grain.\n\nDo not change facial features\n\nIn the frame only the face up to the eyebrows and the neck\n\nFace straight and eyes look into the camera with slight tension\n\nHair loose voluminous and some strands and hairs blowing in the wind",
+    "title": "High Contrast Cinematic Face Portrait",
+    "description": "A high-detail prompt for a black and white close-up shot of a face, emphasizing tension, cinematic grain, and natural hair movement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877061232_e7z5jl_HN5mCYrbIAAqAfy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29558,
+    "content": "Close-up of a {argument name=\"subject\" default=\"girl's face\"} in the style of \"high fashion\".\n\nThick, waist-length shiny hair with beachy waves. Elegant eye makeup with long sharp black arrows, long thick lashes with a ray effect, lower lashes are made up. Highlighter in the inner corners and on the cheekbones.\n\nPlump lips slightly parted in a light smirk, light gloss and light brown pencil around the edges. Head is tilted to the side, a lock of hair falls over the face. She is wearing a {argument name=\"clothing\" default=\"black strapless top\"}. The body and neckline are highlighted with highlighter. Black fabric on the neck. High detail of skin, clothing and hair textures.\n\nFacial features are completely preserved as in the reference photo.\n\n{argument name=\"background\" default=\"Black studio background\"}, dark all around, her face is illuminated by a bright 8k lamp, dark background without anything. Hyperrealism, add grain.",
+    "title": "High Fashion Girl Studio Portrait",
+    "description": "A high-detail prompt for generating a high-fashion studio portrait featuring elegant makeup, beachy waves, and hyper-realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784877057579_n71xpi_HNz6m4raoAAcVpd.jpg",
+      "https://cms-assets.youmind.com/media/1784877056111_3de4gv_HNz6sW6aoAA97a4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29464,
     "content": "Create a premium black-and-white studio portrait of the {argument name=\"subject\" default=\"uploaded man\"}, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle body tilt and facing the camera with an intense, sharp expression.Dress him in a {argument name=\"shirt style\" default=\"crisp fitted white dress shirt\"} with the collar slightly open and the sleeves neatly rolled to the elbows, paired with {argument name=\"trousers\" default=\"tailored black trousers\"}. Pose him with one arm folded horizontally across his waist, supporting the opposite elbow, while the raised hand rests naturally against his lips or chin in a contemplative gesture. Add a classic round analog wristwatch with a dark leather strap on the raised wrist. Place him against a clean, seamless charcoal-black studio background with a subtle soft gradient behind the upper body and no visible corners or props. Use soft directional light from the upper camera-right side, creating sculpted highlights on one side of the face and shirt while the opposite side falls into rich shadow. Keep strong subject-to-background separation, balanced contrast, crisp focus on the eyes, face, hands, and watch, realistic fabric folds, natural anatomy, and refined monochrome editorial toning. Shot with an 85mm portrait lens, shallow depth of field, high-end professional photography, 4:5 aspect ratio.",
     "title": "Black and White Studio Portrait of a Man",
