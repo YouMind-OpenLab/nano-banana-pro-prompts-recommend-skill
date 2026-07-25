@@ -1,5 +1,25 @@
 [
   {
+    "id": 29655,
+    "content": "{\nUse the reference photo to create a realistic female character, soft smile, with a fun and natural expression, without changing the facial structure or features, keeping it as realistic as possible.\nHair: Same as in the reference photo, with natural movement and shine.\nOutfit: Modern, stylish casual clothing.\nScene: Set in a {argument name=\"office color\" default=\"cute pink office\"}, showing her being creative. Around her, include mini {argument name=\"character style\" default=\"chibi versions\"} of herself doing funny actions (drinking coffee from a cup, pulling her hair, making silly faces, lying on her stomach on the desk drawing in a notebook). Add {argument name=\"extra elements\" default=\"doodles and emojis\"}, and include a matching phrase.\nLighting & Format: Natural light, aspect ratio 1080:1350 (4:5).",
+    "title": "Creative Woman with Chibi Mini-Versions in Pink Office",
+    "description": "A whimsical scene of a woman in a pink office surrounded by funny chibi versions of herself, based on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963081792_ge9512_HOC6qB8bMAAiwGw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29657,
+    "content": "Use the person from the uploaded reference image. Preserve the exact facial identity with full face lock. Keep the same face, facial proportions, skin tone, eye shape, nose, lips, jawline, expression, age, and all unique facial features 100% recognizable and photorealistic. Do NOT copy or preserve the hairstyle, hairline, hair color, hair length, or any hair styling from the reference image. Instead, follow the hairstyle described in this prompt only.\n\nUltra-realistic aesthetic 3-frame portrait collage of the same beautiful young woman, soft natural makeup, glowing fair skin, rosy cheeks, glossy pink lips, expressive eyes, {argument name=\"hair style\" default=\"long wavy brown hair\"}, delicate dangling earrings. {argument name=\"sunlight\" default=\"Warm golden-hour sunlight\"} streaming through a window, creating soft shadow patterns on a beige wall. Cozy minimal indoor setting with a small green plant in the background.\n\nFrame 1: Close-up selfie pose, {argument name=\"expression\" default=\"slight duck-face expression\"}, looking directly at the camera.\nFrame 2: Three-quarter portrait with a soft smile, gently looking out the window while golden sunlight highlights her face.\nFrame 3: Relaxed candid portrait, hand lightly touching her hair, looking slightly away from the camera with a calm, elegant expression.\n\nNatural skin texture, cinematic lighting, shallow depth of field, premium smartphone portrait photography, HDR, ultra-detailed, 8K, timeless aesthetic, consistent facial identity across all three frames.",
+    "title": "Consistent Portrait Collage for Nano Banana 2",
+    "description": "A sophisticated prompt designed to maintain character identity across a three-frame collage. It utilizes a reference image for facial locking while allowing for customized hairstyles and expressions under cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963083940_t39cdw_HN-aAk3bMAATPoN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29571,
     "content": "A graceful {argument name=\"subject\" default=\"Japanese woman\"} in a traditional kimono kneels gracefully by a serene garden pond adorned with vibrant red autumn leaves, moss-covered rocks, and a classic stone lantern. In the first scene, she carefully arranges delicate floral stems in a ceramic vase, while the second captures a peaceful moment as she holds a small teacup near a traditional wooden pavilion and arched bridge, all beautifully rendered in a soft watercolor style with gentle mist and vivid reflections dancing on the water's surface.",
     "title": "Japanese Woman Autumn Garden Kimono",

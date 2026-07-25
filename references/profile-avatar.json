@@ -10,13 +10,46 @@
     "needReferenceImages": false
   },
   {
-    "id": 29561,
-    "content": "Ultra-realistic golden hour car selfie, close-up, vertical 4:5, high-end smartphone front camera, 26mm, f/1.8, ISO 40, HDR, natural skin texture, subtle film grain, 8K. A {argument name=\"subject\" default=\"young woman\"} sitting in the front passenger seat of a {argument name=\"setting\" default=\"modern black leather car\"}, wearing a seatbelt, {argument name=\"hair style\" default=\"long dark chestnut-brown wavy hair\"}, fair skin, light blue-gray eyes, thick brows, soft winged eyeliner, glossy pink lips, black spaghetti-strap top, silver hoop earrings, and a silver Hamsa pendant necklace. Warm golden sunlight from the side window casts cinematic shadows across her face, clear blue sky outside, calm neutral expression, photorealistic, premium smartphone photography.",
-    "title": "Golden Hour Car Selfie Portrait",
-    "description": "A hyper-realistic smartphone-style selfie prompt featuring a young woman in a car during golden hour with natural skin textures and cinematic lighting.",
+    "id": 29662,
+    "content": "{ \"image_type\": \"{argument name=\"image type\" default=\"photograph\"}\", \"genre\": \"{argument name=\"genre\" default=\"indoor lifestyle portrait\"}\", \"composition\": { \"framing\": \"medium close-up\", \"orientation\": \"vertical\", \"subject_position\": \"{argument name=\"subject position\" default=\"center-right, seated at a table\"}\" }",
+    "title": "Indoor Lifestyle Portrait Photography",
+    "description": "A structural JSON prompt for generating a vertical medium close-up photograph of a subject in an indoor lounge or cafe setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784877059595_ng3cvk_HN9s0mJWoAEwDXE.jpg",
-      "https://cms-assets.youmind.com/media/1784877059658_jbk08p_HN9s6oQX0AAGkrJ.jpg"
+      "https://cms-assets.youmind.com/media/1784963087708_85oxkc_HAw_CxvbQAAgbXM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29654,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\\\"woman description\\\" default=\\\"A beautiful young woman with fair skin, long dark hair, striking green eyes, defined eyebrows, and glossy pink lips. She has a soft, intimate expression with her mouth slightly open.\\\"}\",\n    \"pose\": \"Extreme close-up, head tilted slightly, one hand gently touching her cheek or temple with fingers visible, watching directly on camera\",\n    \"clothing\": \"{argument name=\\\"clothing style\\\" default=\\\"zebra top with deep neckline (partially visible).\\\"}\",\n    \"modifications\": \"Add a small, elegant '{argument name=\\\"tattoo text\\\" default=\\\"Keor\\\"}' tattoo in minimalist script on the side of her hand or on one of her fingers, subtly visible.\"\n  },\n  \"setting\": {\n    \"environment\": \"Soft, neutral indoor background with diffused lighting.\",\n    \"lighting\": \"Soft, flattering light highlighting her facial features and creating a gentle glow on her skin.\"\n  },\n  \"style\": {\n    \"photography\": \"Realistic, high-resolution close-up portrait with exceptional detail on skin texture, eyes, lips, and hair strands.\",\n    \"mood\": \"Intimate, soft, and captivating.\",\n    \"composition\": \"Tight facial close-up focusing on eyes and expression.\"\n  },\n  \"full_prompt\": \"Photorealistic extreme close-up portrait of a beautiful woman with dark hair and striking green eyes, her hand gently touching her cheek. She has glossy pink lips and a soft expression. Add a small elegant 'Keor' tattoo on the side of her hand or finger. Soft diffused lighting, ultra-detailed skin, eyes, and hair textures.\"\n}",
+    "title": "Realistic Close-up Portrait with Green Eyes",
+    "description": "A detailed photorealistic portrait of a woman featuring striking green eyes and soft indoor lighting, including customizable character and clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963080596_i2ztx2_HOAHDqtXEAAFIBf.jpg",
+      "https://cms-assets.youmind.com/media/1784963079851_44ld7s_HOAHDqpWEAAegPJ.jpg",
+      "https://cms-assets.youmind.com/media/1784963080678_8scov3_HOAHDqwWkAAYEUZ.jpg",
+      "https://cms-assets.youmind.com/media/1784963080911_bnr75u_HOAHDqnWgAE8qMP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29652,
+    "content": "A captivating and deeply detailed medium close-up portrait featuring the beautiful young woman from image_0.png. Her {argument name=\"hair description\" default=\"long, wavy, multi-tonal chestnut-brown hair\"} flows gracefully over her shoulders, rendered with soft, dimensional lighting. She has a deep, genuine, and radiant smile, and her warm, engaging brown eyes look directly into the viewer's, establishing a profound connection. She wears the same {argument name=\"clothing\" default=\"soft, blue-grey button-down chambray shirt\"}, with the fabric texture and folds clearly visible. The background is a {argument name=\"background style\" default=\"refined, ethereal watercolor wash inspired by image_0.png, consisting of muted blues, greys, and warm ochre tones\"}, softly blending and receding to focus attention on the subject. The lighting is natural, diffused, providing a flattering glow on her face and highlighting hair texture. Every detail is rendered with precision: individual hair strands, subtle skin texture, and clothing fabric. The style is a beautiful fusion of artistic brushwork and photographic realism, feeling like a high-definition, gallery-quality fine art print.",
+    "title": "Chestnut Brown Hair Portrait Watercolor Background",
+    "description": "A medium close-up portrait of a woman with long wavy hair, combining photographic realism with artistic watercolor brushwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963080574_f0u8ab_HN-PCXfbUAAuRnk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29561,
+    "content": "Ultra-realistic golden hour car selfie, close-up, vertical 4:5, high-end smartphone front camera, 26mm, f/1.8, ISO 40, HDR, natural skin texture, subtle film grain, 8K. A {argument name=\"subject\" default=\"young woman sitting in the front passenger seat of a modern black leather car\"}, wearing a seatbelt, long dark chestnut-brown wavy hair, fair skin, light blue-gray eyes, thick brows, soft winged eyeliner, glossy pink lips, {argument name=\"clothing\" default=\"black spaghetti-strap top\"}, silver hoop earrings, and a silver Hamsa pendant necklace. {argument name=\"lighting\" default=\"Warm golden sunlight\"} from the side window casts cinematic shadows across her face, clear blue sky outside, calm neutral expression, photorealistic, premium smartphone photography.",
+    "title": "Golden Hour Car Selfie",
+    "description": "Generates a realistic smartphone-style selfie of a person in a car during the golden hour, featuring natural textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963082510_72c3d7_HN9s0mJWoAEwDXE.jpg",
+      "https://cms-assets.youmind.com/media/1784963082658_xdvfuk_HN9s6oQX0AAGkrJ.jpg"
     ],
     "needReferenceImages": false
   },

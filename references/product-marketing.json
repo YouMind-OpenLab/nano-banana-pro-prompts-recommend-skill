@@ -21,12 +21,68 @@
     "needReferenceImages": true
   },
   {
-    "id": 29562,
-    "content": "Reference image: uploaded photo Face: preserve the same face, with {argument name=\"expression\" default=\"intense expression and bold dark lips\"}. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
-    "title": "Futuristic Latex Fashion Editorial",
-    "description": "A high-gloss fashion editorial prompt for a futuristic look featuring a black latex top and bold accessories against a vibrant red backdrop.",
+    "id": 29658,
+    "content": "A vibrant summer fashion editorial portrait featuring a young woman with a {argument name=\"hair style\" default=\"purple bob cut\"}, freckles, and feathered earrings. She wears an {argument name=\"clothing\" default=\"embroidered white crop top and tropical leaf-print shorts\"} with a dynamic hand-in-pocket pose. The composition is a full-body three-quarter view set against a {argument name=\"background\" default=\"pastel pink and yellow color-blocked studio background\"}. A gold console table holds a bonsai plant, with a large potted palm to the right and decorative stones. Textured \"SUMMER STYLES\" text in gold is at the top with pearl details. A \"50% OFF\" sale notice and a round \"SHOP NOW\" tag are integrated. The lighting is bright and summery with warm gradients.",
+    "title": "Summer Fashion Editorial Portrait",
+    "description": "A vibrant summer fashion editorial featuring a young woman with a purple bob in a color-blocked studio setting, including integrated commercial text and graphic elements.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784877059446_71608o_HN4_EBKaAAAhXm2.jpg"
+      "https://cms-assets.youmind.com/media/1784963085129_tkg0wm_HOC2d7raAAAZLyc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29653,
+    "content": "Ultra-realistic luxury street-style editorial portrait of an elegant older woman with timeless beauty, photographed in soft natural daylight against a clean, minimalist urban background. She gazes gracefully to the side with a warm, confident smile, radiating sophistication, wisdom, and effortless style.\nShe has beautifully styled {argument name=\"hair style\" default=\"silver-gray hair swept into a sleek, low chignon\"} with smooth volume and refined texture. Her skin shows natural mature beauty with delicate expression lines, soft wrinkles, and a luminous healthy complexion. She wears {argument name=\"lipstick color\" default=\"bold matte red lipstick\"}, subtle natural makeup, and oversized round black designer sunglasses with glossy frames, adding a chic high-fashion aesthetic.\nHer outfit consists of a striking {argument name=\"dress color\" default=\"royal-blue\"} pleated sleeveless designer dress featuring an elegant asymmetrical folded collar with sculptural architectural lines. She accessorizes with luxurious statement drop earrings in antique silver and black gemstone detailing, along with a thin metallic crossbody chain strap that subtly drapes across her shoulder.\nSoft diffused daylight creates flattering illumination with gentle highlights on her skin and hair while maintaining realistic textures. The background is artistically blurred with a shallow depth of field, emphasizing her refined profile and sophisticated styling. The overall mood conveys confidence, elegance, and timeless fashion.\nStyle: Ultra-photorealistic luxury fashion photography, street-style editorial portrait, Vogue editorial aesthetic, minimalist composition, authentic mature beauty, cinematic soft lighting, premium designer styling, realistic skin texture, natural silver hair detail, shallow depth of field, 85mm portrait lens, DSLR quality, HDR, magazine-quality retouching, ultra-detailed, 8K resolution, luxury lifestyle campaign, timeless elegance, award-winning editorial photography.",
+    "title": "Elegant Older Woman Luxury Street Style Editorial",
+    "description": "A sophisticated fashion portrait of an older woman with silver-gray hair in a royal-blue dress, captured in soft daylight with a minimalist urban background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963080626_vqhp1z_HOC1wSaa8AA6XM7.jpg",
+      "https://cms-assets.youmind.com/media/1784963080542_3cfh48_HOC1yQybUAEN5Z0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29659,
+    "content": "Photorealistic portrait of a beautiful blonde-haired woman squatting against a white wall in a grey sleeveless crop tank top, loose-fitting with thin straps and a deep side cutout prominently visible revealing skin, and white black plaid skirt with white lace-up high heels stilettos. Add small elegant 'Keor' embroidery on the border of her outfit and colorful graffiti 'Keor' on the wall behind her. Bright natural daylight, highly detailed skin, hair, and fabric textures.",
+    "title": "Fashion Portrait with Custom Graffiti Wall",
+    "description": "A photorealistic fashion portrait of a woman against a graffiti-decorated white wall, featuring detailed fabric textures and specific embroidery elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963085608_xd05qk_HOBKtvaWIAAKuTd.jpg",
+      "https://cms-assets.youmind.com/media/1784963085590_n7jkug_HOBKtvZXgAAp0uA.jpg",
+      "https://cms-assets.youmind.com/media/1784963085836_bxn6vv_HOBKtvfXsAE_P2g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29661,
+    "content": "Store type: {argument name=\"shop type\" default=\"General goods\"}, Status: {argument name=\"status\" default=\"Grand opening\"}, Parking: {argument name=\"parking\" default=\"Delivery truck\"}",
+    "title": "Vacant Property Real Estate Visualization",
+    "description": "A prompt used to generate realistic vacant property scenes, specifically for general goods stores during a grand opening.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963086898_8c1c7m_HN_wv1Aa4AAUukz.jpg",
+      "https://cms-assets.youmind.com/media/1784963087062_q1z4yy_HN_wyeebAAAzSlw.jpg",
+      "https://cms-assets.youmind.com/media/1784963086860_kj8rtx_HN_wzsna4AEBAcq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29663,
+    "content": "{\n  \"subject\": \"{argument name=\\\"subject\\\" default=\\\"A stunning young Indian woman in her mid-20s with warm medium skin tone, long wavy dark brown hair with subtle highlights, sharp defined eyebrows, expressive dark eyes with subtle makeup, full lips in a neutral expression, and confident facial features.\\\"}\",\n  \"body\": \"Curvaceous figure with toned legs, smooth glowing skin.\",\n  \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"Oversized blue denim jacket with multiple pockets and distressed details worn as a mini dress, short length showing legs, casual cool street style.\\\"}\",\n  \"pose\": \"Sitting on the hood of a {argument name=\\\"luxury car\\\" default=\\\"black luxury car\\\"}, legs crossed or slightly apart, one hand resting on the hood near the headlight, the other hand on the car, body angled toward the camera with a direct gaze.\",\n  \"expression\": \"Neutral yet confident and alluring expression with soft lips, strong eye contact.\",\n  \"lighting\": \"Bright even indoor lighting with soft reflections on the car, clean modern garage atmosphere.\",\n  \"setting\": \"Indoor parking garage with concrete walls in white and brown stripes, black Mercedes-Benz or similar luxury sedan in the foreground.\",\n  \"style\": \"Photorealistic, ultra-detailed 8k, cinematic fashion portrait, realistic denim texture and car reflections, sharp focus on subject, high-end lifestyle and automotive photography style.\",\n  \"camera\": \"Shot on Sony A7R V, 50mm lens, f/2.0, natural depth of field\",\n  \"mood\": \"Confident, bold, urban, luxurious and edgy\"\n}",
+    "title": "Cinematic Fashion Portrait with Luxury Car",
+    "description": "A detailed prompt for creating a photorealistic fashion portrait of a subject sitting on a luxury car inside a modern garage, focusing on urban style and high-end automotive photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963088507_vmzlo4_HN99rhPaAAAccOc.jpg",
+      "https://cms-assets.youmind.com/media/1784963088444_oqrpwc_HN99sH7boAAGgiB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29562,
+    "content": "Reference image: uploaded photo Face: preserve the same face, with intense expression and bold dark lips. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
+    "title": "Futuristic Latex Fashion Editorial",
+    "description": "An editorial fashion prompt for generating high-gloss, futuristic portraits with a focus on latex textures and directional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963083371_r70ysi_HN4_EBKaAAAhXm2.jpg"
     ],
     "needReferenceImages": true
   },

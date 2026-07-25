@@ -20,14 +20,66 @@
     "needReferenceImages": false
   },
   {
-    "id": 29566,
-    "content": "Make a same 100% with object! Bold {argument name=\"style\" default=\"neo-retro vector illustration\"} with premium graphic-novel aesthetics, combining clean cel-shaded rendering and expressive hand-inked linework. Thick, confident black contour lines with varied line weight, crisp silhouette definition, and simplified geometric forms. High-contrast flat-color shading with subtle tonal layering, minimal gradients, and smooth vector precision. Dramatic chiaroscuro using large solid shadow masses and sharp highlight shapes. Limited color palette dominated by {argument name=\"colors\" default=\"vivid crimson red, deep matte black, warm ivory, muted peach, soft beige, dark charcoal, olive green accents, and clean white highlights\"}. Stylized facial anatomy with exaggerated wrinkles, angular planes, flowing hair and beard strands rendered through elegant tapered ink strokes. Dynamic comic-inspired composition with {argument name=\"elements\" default=\"decorative abstract smoke, swirling calligraphic shapes, ink splashes, floating graphic motifs, and subtle distressed textures\"}. Modern Asian poster design influence blended with vintage pulp illustration, tattoo-inspired vector art, and contemporary editorial graphics. Ultra-clean edges, high visual impact, cinematic contrast, layered depth through overlapping flat shapes, premium screen-print aesthetic, sharp vector finish, bold negative space, highly detailed yet simplified forms, no photorealism, no painterly texture, no 3D rendering, no text, no watermark, no logo.",
-    "title": "Neo-Retro Vector Comic Illustration",
-    "description": "A detailed prompt for a bold neo-retro vector illustration with premium graphic novel aesthetics, featuring high-contrast flat-color shading and stylized anatomy.",
+    "id": 29658,
+    "content": "A vibrant summer fashion editorial portrait featuring a young woman with a {argument name=\"hair style\" default=\"purple bob cut\"}, freckles, and feathered earrings. She wears an {argument name=\"clothing\" default=\"embroidered white crop top and tropical leaf-print shorts\"} with a dynamic hand-in-pocket pose. The composition is a full-body three-quarter view set against a {argument name=\"background\" default=\"pastel pink and yellow color-blocked studio background\"}. A gold console table holds a bonsai plant, with a large potted palm to the right and decorative stones. Textured \"SUMMER STYLES\" text in gold is at the top with pearl details. A \"50% OFF\" sale notice and a round \"SHOP NOW\" tag are integrated. The lighting is bright and summery with warm gradients.",
+    "title": "Summer Fashion Editorial Portrait",
+    "description": "A vibrant summer fashion editorial featuring a young woman with a purple bob in a color-blocked studio setting, including integrated commercial text and graphic elements.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784877063032_0cmc20_HN95Oy_bgAIb-E5.jpg",
-      "https://cms-assets.youmind.com/media/1784877063012_wpco5k_HN95QAIaAAAWOY9.jpg",
-      "https://cms-assets.youmind.com/media/1784877063097_sw4pud_HN95Q0XbwAAr0Pi.jpg"
+      "https://cms-assets.youmind.com/media/1784963085129_tkg0wm_HOC2d7raAAAZLyc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29661,
+    "content": "Store type: {argument name=\"shop type\" default=\"General goods\"}, Status: {argument name=\"status\" default=\"Grand opening\"}, Parking: {argument name=\"parking\" default=\"Delivery truck\"}",
+    "title": "Vacant Property Real Estate Visualization",
+    "description": "A prompt used to generate realistic vacant property scenes, specifically for general goods stores during a grand opening.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963086898_8c1c7m_HN_wv1Aa4AAUukz.jpg",
+      "https://cms-assets.youmind.com/media/1784963087062_q1z4yy_HN_wyeebAAAzSlw.jpg",
+      "https://cms-assets.youmind.com/media/1784963086860_kj8rtx_HN_wzsna4AEBAcq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29656,
+    "content": "Transform the image into an ultra-high-contrast monochrome dust-particle artwork.\n\nRender the entire image using millions of tiny {argument name=\"particle types\" default=\"black toner particles, carbon dust, xerox powder, ink speckles, and stochastic grain\"}. Every object, person, vehicle, shadow, and texture must be reconstructed entirely from particle density rather than photographic shading.\n\nAggressively destroy photographic detail. Faces become simplified silhouettes and abstract particle masses. Clothing folds, vehicle reflections, windows, and environmental details dissolve into dense dust clusters. Large portions of the image disappear into pure white negative space.\n\nUse extreme information loss, photocopy degradation, toner scatter, print erosion, xerox artifacting, and particle abstraction. Dark areas become dense black dust masses. Midtones become sparse particle fields. Highlights vanish completely into white.\n\nThe image should feel like a {argument name=\"aesthetic\" default=\"photocopy of a photocopy of a photocopy, printed with black toner on white paper\"}. Raw underground streetwear aesthetic, underground car culture poster, DIY punk zine, archive fashion graphic design, bootleg magazine artwork.\n\nMassive white negative space. Floating isolated subjects. Broken contours. Fading edges. Subjects emerging from particle density. Toner-built forms. Dust-built silhouettes. Scanned print imperfections. Carbon particle rendering. Stochastic grain shading.\n\nThe final image must look as if it was created entirely from black dust particles scattered across white paper, not a photograph with a filter applied.\n\nNEGATIVE PROMPT:\n\nclean photography, realistic photo, detailed faces, realistic skin texture, smooth gradients, cinematic lighting, HDR, glossy surfaces, realistic reflections, painterly artwork, digital painting, 3D render, CGI, sharp details, clean edges, modern graphic design, vector art, comic halftone dots, newspaper halftone dots, color, grayscale gradients, high-detail realism, polished commercial photography, realistic backgrounds, environmental depth, perfect image quality, beauty retouching, hyperrealism, crisp details, professional studio photography",
+    "title": "Monochrome Carbon Dust Art Style",
+    "description": "Transforms any image into an abstract, high-contrast monochrome piece composed of millions of tiny carbon dust and toner particles for a DIY punk zine aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963082293_ppmycd_HN_fy-CbUAA0CKs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29566,
+    "content": "Make a same 100% with object! Bold {argument name=\"style\" default=\"neo-retro vector illustration\"} with premium graphic-novel aesthetics, combining clean cel-shaded rendering and expressive hand-inked linework. Thick, confident black contour lines with varied line weight, crisp silhouette definition, and simplified geometric forms. High-contrast flat-color shading with subtle tonal layering, minimal gradients, and smooth vector precision. Dramatic chiaroscuro using large solid shadow masses and sharp highlight shapes. Limited color palette dominated by {argument name=\"colors\" default=\"vivid crimson red, deep matte black, warm ivory, muted peach, soft beige, dark charcoal, olive green accents, and clean white highlights\"}. Stylized facial anatomy with {argument name=\"details\" default=\"exaggerated wrinkles, angular planes, flowing hair and beard strands\"} rendered through elegant tapered ink strokes. Dynamic comic-inspired composition with decorative abstract smoke, swirling calligraphic shapes, ink splashes, floating graphic motifs, and subtle distressed textures. Modern Asian poster design influence blended with vintage pulp illustration, tattoo-inspired vector art, and contemporary editorial graphics. Ultra-clean edges, high visual impact, cinematic contrast, layered depth through overlapping flat shapes, premium screen-print aesthetic, sharp vector finish, bold negative space, highly detailed yet simplified forms, no photorealism, no painterly texture, no 3D rendering, no text, no watermark, no logo.",
+    "title": "Neo-Retro Vector Illustration Poster",
+    "description": "A bold, graphic-novel style prompt for generating neo-retro vector illustrations with high-contrast flat colors and expressive inking. Perfect for modern Asian-inspired poster designs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963084082_yp25jy_HN95Oy_bgAIb-E5.jpg",
+      "https://cms-assets.youmind.com/media/1784963084076_7yfjld_HN95QAIaAAAWOY9.jpg",
+      "https://cms-assets.youmind.com/media/1784963084075_zn54zu_HN95Q0XbwAAr0Pi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29562,
+    "content": "Reference image: uploaded photo Face: preserve the same face, with intense expression and bold dark lips. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
+    "title": "Futuristic Latex Fashion Editorial",
+    "description": "An editorial fashion prompt for generating high-gloss, futuristic portraits with a focus on latex textures and directional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963083371_r70ysi_HN4_EBKaAAAhXm2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29664,
+    "content": "A collection of alphabet letters, {argument name=\"letters\" default=\"A through Z\"} and decorative elements are arranged in rows against a {argument name=\"background color\" default=\"white background\"}. The letters are in a playful, rounded font with thick black outlines and vibrant, pastel colors. Many of the letters are stylized with accompanying graphics: flowers, starbursts, hearts, bows, sparkles. There are also scattered floral and starburst elements throughout the composition. The overall style is reminiscent of {argument name=\"design era\" default=\"1970s\"} graphic design, with a cheerful and whimsical aesthetic.",
+    "title": "Retro 1970s Alphabet Graphic Design",
+    "description": "A detailed prompt for generating a whimsical alphabet set in a 1970s graphic style, featuring playful rounded fonts, thick outlines, and vibrant pastel decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963088586_p7yftd_HN5zRI_WAAABKw4.jpg"
     ],
     "needReferenceImages": false
   },

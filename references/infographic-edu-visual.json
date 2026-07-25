@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 29664,
+    "content": "A collection of alphabet letters, {argument name=\"letters\" default=\"A through Z\"} and decorative elements are arranged in rows against a {argument name=\"background color\" default=\"white background\"}. The letters are in a playful, rounded font with thick black outlines and vibrant, pastel colors. Many of the letters are stylized with accompanying graphics: flowers, starbursts, hearts, bows, sparkles. There are also scattered floral and starburst elements throughout the composition. The overall style is reminiscent of {argument name=\"design era\" default=\"1970s\"} graphic design, with a cheerful and whimsical aesthetic.",
+    "title": "Retro 1970s Alphabet Graphic Design",
+    "description": "A detailed prompt for generating a whimsical alphabet set in a 1970s graphic style, featuring playful rounded fonts, thick outlines, and vibrant pastel decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784963088586_p7yftd_HN5zRI_WAAABKw4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29465,
     "content": "2x2 grid, 16:9, do this for public space, non copyrighted books:   { \"Scene_Type\": \"Macro Photography of an Open Magazine Spread\", \"Topic\": \"{argument name=\\\"franchise\\\" default=\\\"[FRANCHISE]\\\"} - {argument name=\\\"scene\\\" default=\\\"[SCENE]\\\"}\", \"AI_Semantic_Inference\": { \"The_Pop_Up\": \"A 3D, isometric, highly detailed voxel/clay block of the [SCENE] rising out of the glossy magazine pages.\", \"The_Layout\": \"Left and Right margins feature editorial text columns, bold headlines, and 'Secret Stats' boxes.\", \"The_Callouts\": \"Red circles drawn around AI_INFER(hidden easter eggs in the 3D model), with red lines connecting them to the 2D margin text.\" }, \"Aesthetic\": \"Slightly glossy paper texture, vibrant colors, satisfying tactile blend of 2D print media and 3D isometric art.\" }",
     "title": "Voxel Magazine Pop-up Art",
