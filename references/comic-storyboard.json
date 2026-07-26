@@ -1,13 +1,13 @@
 [
   {
-    "id": 29655,
-    "content": "{\nUse the reference photo to create a realistic female character, soft smile, with a fun and natural expression, without changing the facial structure or features, keeping it as realistic as possible.\nHair: Same as in the reference photo, with natural movement and shine.\nOutfit: Modern, stylish casual clothing.\nScene: Set in a {argument name=\"office color\" default=\"cute pink office\"}, showing her being creative. Around her, include mini {argument name=\"character style\" default=\"chibi versions\"} of herself doing funny actions (drinking coffee from a cup, pulling her hair, making silly faces, lying on her stomach on the desk drawing in a notebook). Add {argument name=\"extra elements\" default=\"doodles and emojis\"}, and include a matching phrase.\nLighting & Format: Natural light, aspect ratio 1080:1350 (4:5).",
-    "title": "Creative Woman with Chibi Mini-Versions in Pink Office",
-    "description": "A whimsical scene of a woman in a pink office surrounded by funny chibi versions of herself, based on a reference photo.",
+    "id": 29746,
+    "content": "A photo collage featuring {argument name=\"number of scenes\" default=\"six\"} distinct scenes of the same {argument name=\"subject\" default=\"smiling woman\"} in various {argument name=\"outfit color\" default=\"red\"} dresses: walking down a cobblestone European street carrying a small basket bag; sitting gracefully on a wooden bench holding a bouquet of flowers in a lush garden filled with hydrangeas and roses; spinning joyfully on a rooftop terrace at sunset with a city skyline in the background; standing on a rugged coastal cliff overlooking the ocean with mountains and waves behind her; laughing while reading a book and holding a coffee cup inside a cozy, book-filled cafe; and running playfully through a sunlit field of wildflowers and poppies at dusk.",
+    "title": "Smiling Woman in Red Dress Collage",
+    "description": "A prompt for a multi-scene collage showing a smiling woman in various red dresses across European streets, gardens, rooftops, and nature.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784963081792_ge9512_HOC6qB8bMAAiwGw.jpg"
+      "https://cms-assets.youmind.com/media/1785050317412_6d76vd_HOFvqFYagAAoCHl.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 29657,

@@ -10,12 +10,163 @@
     "needReferenceImages": false
   },
   {
-    "id": 29662,
-    "content": "{ \"image_type\": \"{argument name=\"image type\" default=\"photograph\"}\", \"genre\": \"{argument name=\"genre\" default=\"indoor lifestyle portrait\"}\", \"composition\": { \"framing\": \"medium close-up\", \"orientation\": \"vertical\", \"subject_position\": \"{argument name=\"subject position\" default=\"center-right, seated at a table\"}\" }",
-    "title": "Indoor Lifestyle Portrait Photography",
-    "description": "A structural JSON prompt for generating a vertical medium close-up photograph of a subject in an indoor lounge or cafe setting.",
+    "id": 29757,
+    "content": "Ultra-photorealistic candid indoor selfie portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian woman\"} with fair porcelain skin and delicate facial features, {argument name=\"hairstyle\" default=\"short chin-length textured French bob haircut\"} in deep dark brown with soft layers and messy volume, wispy bangs and loose strands naturally falling across her face partially covering one eye, thick natural eyebrows, almond-shaped dark brown eyes looking directly into the camera with a calm, dreamy expression, small straight nose, soft gradient pink lips, minimal Korean makeup with flawless skin, subtle blush and natural lashes. She rests her face gently on her left hand with her elbow supported, head slightly tilted, one bent knee in light-wash blue denim visible in the foreground. Wearing an {argument name=\"clothing\" default=\"oversized charcoal-black acid-wash long-sleeve sweatshirt\"} with sleeves covering part of her hand and a delicate thin silver necklace with a tiny pendant. Cozy minimalist bedroom or modern hotel room interior with warm beige walls, upholstered headboard, built-in open shelves containing neatly arranged skincare bottles and small personal items, clean uncluttered aesthetic. Soft warm diffused ambient lighting, natural indoor illumination, gentle shadows, realistic skin translucency, cinematic warm color grading. Shot on a premium smartphone front camera, 28mm equivalent lens, eye-level perspective, shallow depth of field, crisp focus on the eyes, subtle background bokeh. Editorial lifestyle photography, intimate, relaxed, effortless beauty, Korean aesthetic, highly detailed skin pores, realistic hair strands, HDR, ultra-sharp, 8K, DSLR quality, true-to-life colors, high dynamic range, cinematic composition, premium fashion magazine quality, masterpiece, award-winning photography.\nNegative Prompt: low quality, blurry, soft focus, noise, grain, overexposed, underexposed, plastic skin, excessive skin smoothing, CGI, 3D render, anime, cartoon, doll face, bad anatomy, deformed face, asymmetrical eyes, extra fingers, missing fingers, distorted hands, duplicate body parts, unrealistic proportions, watermark, logo, text, compression artifacts, oversaturated colors, harsh flash, motion blur.",
+    "title": "Realistic Korean Lifestyle Selfie Portrait",
+    "description": "A highly detailed prompt for generating a photorealistic selfie portrait of a young East Asian woman in a cozy minimalist bedroom, capturing a natural and effortless aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784963087708_85oxkc_HAw_CxvbQAAgbXM.jpg"
+      "https://cms-assets.youmind.com/media/1785050326199_seaga5_HOIp2_YbUAA268l.jpg",
+      "https://cms-assets.youmind.com/media/1785050326255_jf3va1_HOIp3ucaEAAXdEx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29770,
+    "content": "Cute chubby cartoon {argument name=\"pop culture character\" default=\"pop culture character\"} in an epic pose, full body, beautiful color palette, soft lighting, white background, soft focus romanticism, 4k, shiny eyes",
+    "title": "Chubby Cinematic Pop Culture Characters",
+    "description": "A creative prompt for generating adorable, chubby, and cartoonish versions of famous pop culture characters while maintaining their legendary heroic poses, set against a soft, clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050340083_rmkfxj_HOITsNzbwAAy86j.jpg",
+      "https://cms-assets.youmind.com/media/1785050340292_hhdms6_HOITskwawAAjfdK.jpg",
+      "https://cms-assets.youmind.com/media/1785050340178_tch7he_HOITs92bwAAFFHg.jpg",
+      "https://cms-assets.youmind.com/media/1785050341279_kp6em7_HOITtTla0AEXxQd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29763,
+    "content": "Transform this image [Upload Your Image] into a 64K DSLR shot resolution of A creative urban street portrait featuring a young man (same face as the uploaded image) {argument name=\"pose\" default=\"sitting on a curb\"} in a quiet city street, paired with a stylized cartoon illustration of himself placed beside him. The real-life subject (same face as the uploaded image) is seated casually on a concrete sidewalk edge, resting his head on one hand in a bored, contemplative pose. He looks slightly upward with a neutral, introspective expression, conveying a sense of quiet thoughtfulness and urban solitude. He wears a {argument name=\"sweater color\" default=\"muted maroon\"} cable-knit sweater with a relaxed fit, dark loose-fitting denim jeans with subtle stitched details near the cuffs, and worn brown leather boots. Accessories include layered silver chain dog tag with the name \"{argument name=\"engraved name\" default=\"Nano\"}\" written on it, rings on his fingers, black-framed glasses, and a light-coloured baseball cap with bold embroidered lettering on the front. His hair is short, dark hair, a well-groomed beard texture and character. Next to him on the sidewalk sits a small cartoon version (same face as the uploaded image) of himself, matching his outfit and pose exactly—same sweater, jeans, boots, cap, glasses, and facial expression. The illustrated character has clean outlines, warm muted colors, and a soft shaded, hand-drawn animation style, creating a playful contrast between realism and illustration. The cartoon figure is proportionally smaller, emphasizing a companion-like or inner-self concept. The background features textured cobblestone pavement, a curb edge, and a building facade with muted yellow walls and green-tiled brickwork near a window. The color palette is earthy and subdued, with natural daylight providing soft, even lighting and realistic shadows. The overall composition blends street photography, fashion portraiture, and mixed-media digital art, evoking themes of identity, self-reflection, and creativity. Style & Mood Keywords: Urban street photography, casual fashion portrait, mixed media art, real and cartoon character duo, introspective mood, muted earthy tones, soft natural light, realistic textures, creative storytelling, high-resolution detail, cinematic realism. Octane render & Unreal Engine",
+    "title": "Urban Street Portrait with Animated Companion",
+    "description": "A detailed image generation prompt designed for creating a unique mixed-media portrait that blends a realistic urban subject with a matching hand-drawn cartoon version of themselves to explore themes of identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050329272_pwx49r_HOH_vMobUAAAZf1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29760,
+    "content": "Do not change the facial features, face shape, body proportions, or the colour, length, or texture of the hair. Preserve a 100% resemblance to the original person. Do not make the subject look younger or idealised. Do not alter the eye shape, lips, nose, or chin. Preserve the natural facial expression, skin texture, pores, and all unique individual characteristics.\n\nA photorealistic candid selfie, capturing a spontaneous moment in a vertical frame. A young woman is taking a selfie while leaning slightly toward the phone, which is positioned just below face level, creating a natural low-angle perspective. At the exact moment of capture, she suddenly turns her head to the side as if someone has called her name. Her gaze shifts sideways, and realistic motion blur appears across her face and hair from the quick head movement, while her face remains clearly recognisable. Her smile stays genuine and effortless, making the image feel like an authentic split-second snapshot rather than a posed photograph.\n\nHer long, thick, expressive eyelashes remain partially visible through the subtle motion blur. Her long, voluminous, thick hair flows dramatically in the direction of the head turn, creating elegant motion trails with individual strands. Several loose strands cross her face, enhancing the sense of movement.\n\nShe is wearing a light, airy, loose-fitting blouse made from thin cotton with a natural fabric texture in a {argument name=\"blouse color\" default=\"soft pastel pink\"} shade. It features voluminous long sleeves gathered gently at the cuffs, a neat rounded neckline with a short placket, and delicate pearlescent buttons. The fabric moves softly in the breeze, forming natural folds. No prints, logos, or unnecessary decorative elements.\n\nBehind her is a lush tree completely covered in blooming {argument name=\"flower type\" default=\"white lilac\"} flowers. The blossoms remain crisp and clearly defined. A rich, {argument name=\"sky color\" default=\"cloudless blue\"} sky creates strong contrast with the white flowers and the soft pink blouse. Several branches are positioned close to the camera, adding natural depth to the composition.\n\nWarm spring backlighting shines through her hair and the blossoms, creating a golden rim light around the hair, soft volumetric shadows, and realistic sun flares. The lighting feels natural, lively, and directional, not like studio lighting.\n\nThe image should look like a genuine candid photo taken on a regular smartphone while in motion: natural wide-angle perspective, a slight tilt to the frame, subtle lens imperfections, delicate 35mm film grain, muted and slightly desaturated colours, realistic skin texture with visible pores, and authentic fabric detail. No excessive sharpness, no HDR, and no glossy fashion-editorial look.\n\n--ar 9:16 --raw --style motion 50\n\nManicure: short, natural oval-shaped nails with a semi-transparent milky pink polish and a natural glossy finish.",
+    "title": "Photorealistic Candid Selfie with Motion Blur",
+    "description": "This prompt generates a natural, smartphone-style candid selfie of a woman turning her head. It focuses on capturing authentic motion blur, realistic skin textures, and specific environmental details like blooming flowers and soft spring lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050327713_qovbbp_HOH-0UMX0AEgEjO.jpg",
+      "https://cms-assets.youmind.com/media/1785050327661_rpk0gy_HOH-1TBWsAA4_y9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29764,
+    "content": "Ultra-realistic medium shot of the same young man (use reference for 100% face, Standing in a {argument name=\"location\" default=\"luxury retail store\"}, looking down while holding {argument name=\"accessory\" default=\"sunglasses\"} in right hand, left hand in pocket. Wearing {argument name=\"outfit\" default=\"deep Royal Blue waffle-knit sweater with white stripe details and black trousers\"}, brown leather strap watch. Soft cinematic lighting, blurred premium store background.",
+    "title": "Ultra Realistic Male Portrait in Luxury Store",
+    "description": "An ultra-realistic image prompt for a medium shot of a young man in a luxury retail environment, focusing on high-end textures and soft cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050330188_uoke88_HOH2ZJ2bgAAJLEs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29745,
+    "content": "Amateur realism photography, candid urban moment, natural and spontaneous feel, shot on Canon EOS R5 with 35mm lens, natural available light, subtle motion blur on hair, realistic skin texture, film grain, photorealistic, highly detailed, 8k.  \n\nA stunningly beautiful {argument name=\"subject\" default=\"young Japanese woman\"} in her {argument name=\"age\" default=\"early 20s\"}, flawless porcelain-smooth skin with soft milky almost translucent Japanese \"lokum\" texture, extremely smooth poreless velvety skin, subtle natural blush on cheeks, perfect fair Japanese skin tone with delicate pink undertones, luminous radiant masterpiece skin details.  \n\nLong flowing black hair with gentle waves, some strands moving in the wind. Delicate natural makeup, big expressive doe-like eyes with soft genuine gaze, gentle real smile.  \n\nWearing a full monochrome look: {argument name=\"outfit\" default=\"oversized black leather blazer\"} with silver buttons, white ribbed tank top, high-waisted black tailored shorts, black sheer tights, chunky black combat boots with silver details, multiple thin silver necklaces. ITOUCH branding subtly on blazer lapel and boot strap.  \n\nPose: Leaning against a brutalist concrete wall, legs crossed, arms folded loosely, strong direct gaze at camera, powerful yet feminine stance.  \n\nCool neutral tones with strong shadows and highlights, minimalist modern mood, dramatic urban lighting, amateur realism, 8k, masterpiece.",
+    "title": "Japanese Street Fashion Photography",
+    "description": "A highly detailed prompt for capturing an amateur realism urban fashion shot of a young Japanese woman in a leather blazer against a brutalist wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050317579_20gt1o_HOGHV9aWMAAYyyp.jpg",
+      "https://cms-assets.youmind.com/media/1785050316081_6k1bqc_HOGHXPZXgAEJBM6.jpg",
+      "https://cms-assets.youmind.com/media/1785050317379_tfzy4l_HOGHVq0XYAAsf6H.jpg",
+      "https://cms-assets.youmind.com/media/1785050316863_99u5fe_HOGHXPLXcAETLEb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29767,
+    "content": "A weathered {argument name=\"subject description\" default=\"late-20s man\"}. Clothing: Flowing cream-colored linen tunic, wide-leg loose-fitting desert trousers in a sandy hue, draped pashmina scarf. Footwear: Distressed leather open-toe sandals. Accessories: Silver cuff bracelets, leather satchel worn across the body, dark square-frame sunglasses. Pose: Walking away from the camera, looking back over his shoulder towards a vast landscape. Camera Setup: Nikon Z9, 70-200mm lens (shot at 150mm), f/4.0. Angle of Capture: Full body, wide shot, slightly elevated to capture the environment. Setting: {argument name=\"setting\" default=\"Endless sand dunes\"} under a clear blue sky. Lighting/Mood/Time of Day: {argument name=\"lighting\" default=\"Harsh, direct mid-day sun\"}, creating strong shadows, epic and mysterious mood. Style and Finish: Cinematic landscape portrait, extreme depth-of-field, warm desert color palette, high detail on sand texture.\nKEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO\nNegative Prompt : Modern buildings, lush vegetation, blur, bad anatomy, extra limbs, poor quality, noisy, out of focus, duplicate elements, weird textures, digital, beige turtleneck.",
+    "title": "Sahara Desert Cinematic Portrait Prompt",
+    "description": "A detailed prompt for generating a cinematic desert portrait featuring a man in linen clothing walking through sand dunes, designed for face-swap or image-to-image workflows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050330799_7drsyc_HOF1EAMW8AABzaT.jpg",
+      "https://cms-assets.youmind.com/media/1785050331489_gfbfnc_HOF1EAaW0AAOtUS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29759,
+    "content": "Maintain the original facial features exactly as they are, preserving the natural 100% facial identity and perfectly balanced proportions. The appearance should be youthful and feminine, using the exact same face from “Image 1.” The skin should look radiant, luminous, and healthy with a soft pearlescent glow, featuring naturally detailed texture that creates a realistic dewy glass skin effect without looking plastic or artificial. {argument name=\"eye color\" default=\"Large dark brown eyes\"} should have bright, natural catchlights, complemented by thick black eyelashes curled upward, softly arched eyebrows that are natural and not overly dark, a fresh rosy blush blended delicately across the cheeks, a subtle pink tint on the tip of the nose, and soft gradient pink lips with a light glossy finish. Makeup should be seamlessly blended into the skin with no patchiness or harsh lines. The body should appear proportionate with very fair, smooth, glowing skin. The hair should be a {argument name=\"hair color\" default=\"light milk-tea brown colour\"}, tied back with an ivory-white hair tie visible at the back of the head, with loose strands and soft baby hairs naturally framing the forehead and face. The character has multiple piercings in the right ear (left side of the image), including the earlobe and upper helix, wearing small diamond or crystal earrings shaped like stars and flowers. Around the neck is a delicate gold or rose gold necklace with a white \"{argument name=\"pendant shape\" default=\"Z\"}\"-shaped pendant surrounded by a gold frame. The setting is inside a car, with a grey fabric or synthetic seatback visible behind the subject and a black seatbelt crossing the lower-right corner of the frame, reinforcing the confined interior space. The subject is centred in the composition, filling most of the frame while taking a selfie with her head noticeably tilted toward the right side of the image (left from the subject’s perspective), looking directly into the camera with a confident, captivating gaze. She wears a white collared shirt with the top buttons left open, revealing the neck, collarbones, and upper chest. Natural sunlight streams through the front of the car, creating strong, direct hard lighting that highlights the glow of the face, eyes, and hair, with the light likely reflected by the hand or smartphone holding the camera. The image is captured as an extreme close-up selfie using a Dutch angle that matches the head tilt, with the camera positioned at eye level or slightly above and angled downward. The composition focuses almost entirely on the face, neck, and upper chest, leaving very little of the surrounding environment visible to emphasise the skin texture, lighting, shadows, and expressive eyes. The image should have a 9:16 aspect ratio, ultra-high 8K resolution, and the realistic quality of a photo taken with the latest iPhone. Negative Prompt: low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crossed eyes, extra limbs, missing limbs, fused fingers, extra fingers, watermark, text, signature, illustr",
+    "title": "Realistic iPhone Selfie Portrait with Glass Skin",
+    "description": "A highly detailed prompt for creating ultra-realistic 8K portraits with specific focus on skin texture, lighting, and facial features. It mimics the quality of a high-end smartphone camera selfie while maintaining consistent facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050326728_mezdem_HOEoshmaYAAhQ8B.jpg",
+      "https://cms-assets.youmind.com/media/1785050326865_tdi5pp_HOEot9FbkAA6lnk.jpg",
+      "https://cms-assets.youmind.com/media/1785050326766_zw5i68_HOEov5tbcAA6fij.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29753,
+    "content": "Ultra-photorealistic 8K RAW DSLR portrait of the {argument name=\"subject\" default=\"exact same man from the reference image\"} — preserve his face with near-perfect identity, facial proportions, skin tone, hairstyle, beard, and natural expression. He is standing confidently inside an ultra-luxurious modern glass penthouse perched atop one of the world's tallest skyscrapers, positioned high above a vast sea of soft white clouds. The atmosphere feels exclusive, peaceful, and impossibly elegant. The penthouse features floor-to-ceiling crystal-clear glass walls with invisible frameless panels, polished Italian white marble flooring with subtle natural veining, warm walnut wood accents, brushed champagne-gold architectural details, and minimalist designer furniture crafted from leather and natural stone. A grand floating staircase, sculptural lighting fixtures, indoor olive trees, curated contemporary artwork, and an elegant black grand piano add refined sophistication without distracting from the subject. Behind him, an awe-inspiring sunrise bathes the skyline in rich golden-hour light. Hundreds of glass skyscrapers stretch toward the horizon, their reflective facades glowing with warm amber, soft orange, and pale pink hues. Thick clouds drift far below the building, creating the illusion that the penthouse floats above the world. The distant city gradually disappears into atmospheric haze, enhancing the immense scale and realism. He wears an {argument name=\"outfit\" default=\"impeccably tailored luxury charcoal double-breasted suit\"} with subtle textured fabric, a crisp white dress shirt with the top button undone, premium leather loafers, and an elegant mechanical wristwatch. His posture is relaxed yet powerful—one hand casually in his pocket while the other lightly rests against the glass wall, looking toward the sunrise with quiet confidence. His clothing reacts naturally to a gentle breeze from an open terrace. Natural sunlight pours through the glass, producing physically accurate global illumination, realistic soft shadows, subtle reflections on the polished floor, and lifelike highlights across his face. His skin shows authentic pores, fine facial hair, natural imperfections, realistic subsurface scattering, and balanced tonal transitions. Every material—glass, marble, leather, brushed metal, wood, and fabric—exhibits true-to-life textures and physically accurate reflections. Captured with a full-frame professional DSLR using an 85mm f/1.4 prime lens, shallow depth of field, HDR imaging, cinematic composition, razor-sharp focus on the face, realistic optical bokeh, high dynamic range, volumetric sunlight, atmospheric perspective, perfectly balanced exposure, editorial luxury fashion photography aesthetic, architectural photography quality, National Geographic-level realism, premium real-estate visualization quality, natural color grading, hyper-detailed, masterpiece, visually breathtaking.",
+    "title": "Luxury Skyscraper Penthouse Portrait",
+    "description": "A highly detailed prompt for generating a photorealistic portrait of a man in a luxury skyscraper penthouse above the clouds, emphasizing facial identity and premium architectural details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050323836_v36pgj_HOEe7qXaIAEJ-x6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29765,
+    "content": "ultra-detailed black and white fashion portrait of a woman posing in a studio. Camera angle: medium portrait shot captured from slightly above eye level, framing the subject from chest upward. Pose: the woman tilts her head slightly back and to the side while her shoulders turn subtly away from the camera. Her gaze is directed toward the viewer through her glasses with a confident composed expression. Outfit: {argument name=\"outfit\" default=\"structured black pinstripe blazer with thin vertical white lines layered over a black fitted top with a low neckline\"}. Accessories: {argument name=\"accessories\" default=\"sleek rectangular eyeglasses with dark frames and small round stud earrings\"}. Hair: {argument name=\"hair style\" default=\"long voluminous hair styled in loose waves cascading over the shoulders\"}. Environment: minimal studio background with smooth neutral tones enhancing the monochrome editorial aesthetic. Lighting: classic studio portrait lighting creating soft highlights on the hair and face while maintaining deep contrast typical of black and white fashion photography",
+    "title": "Black and White Fashion Portrait",
+    "description": "A detailed prompt for a black and white fashion portrait featuring a woman in a pinstripe blazer, emphasizing studio lighting and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050330940_7tbvsq_HN-M5xhbwAAQ2FP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29761,
+    "content": "Subject: A late-20s {argument name=\"gender\" default=\"man\"}. Clothing: Loose, open-collared Hawaiian shirt with a {argument name=\"shirt pattern\" default=\"vibrant tropical print\"}, faded denim shorts. Footwear: Barefoot in the sand. Accessories: Acoustic guitar, dreadlock beads (optional to exclude), shell necklace. Pose: Sitting on a beach towel under a palm tree, strumming his guitar, smiling. Camera Setup: Canon EOS R6, 28mm lens, f/2.8. Angle of Capture: Medium wide shot, eye-level. Setting: {argument name=\"location\" default=\"Tropical beach with calm turquoise water and swaying palm trees\"}. Lighting/Mood/Time of Day: Bright, clear mid-day sun, happy and relaxed mood. Style and Finish: Vibrant, colorful travel photography, high saturation, clear detail on water and sand.\nKEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO\nNegative Prompt : Winter clothes, formal attire, blur, bad anatomy, extra limbs, poor quality, noisy, out of focus, duplicate elements, weird textures, digital, beige turtleneck.",
+    "title": "Summer Beach Guitarist Portrait",
+    "description": "A high-quality travel photography prompt designed to generate a relaxed summer scene featuring a person playing guitar on a tropical beach, with specific settings for vibrant colors and facial consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050328822_e220rh_HODvt4fWAAAe-ja.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29755,
+    "content": "I am standing confidently on a {argument name=\"location\" default=\"quiet European city street\"} with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and… I am wearing {argument name=\"outfit\" default=\"high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette\"}. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic. I am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories. The background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.",
+    "title": "Elegant European Street Portrait",
+    "description": "A detailed prompt for a luxury fashion editorial style portrait on a European street, focusing on specific poses, tailoring, and urban atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050324780_6jmze6_HODM-CcbUAA3kuz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29762,
+    "content": "Use the same {argument name=\"subject\" default=\"Korean female\"} from the reference image. Preserve her facial identity exactly.\n\nAspect Ratio: 3:4\n\nUltra-photorealistic candid {argument name=\"camera\" default=\"iPhone 16 Pro\"} photo captured inside a {argument name=\"setting\" default=\"modern luxury Ferris wheel capsule\"} during blue hour. The capsule features floor-to-ceiling curved crystal-clear glass, brushed champagne-gold metal frames, soft hidden ambient LED strips integrated into the architecture, and breathtaking panoramic views of a glittering futuristic skyline far below. Tiny realistic reflections naturally appear on the curved glass, enhancing realism without obscuring the subject.\n\nShe stands casually beside the curved window with one hand lightly resting on the glass while quietly admiring the city outside, completely unaware of the camera. Her posture feels relaxed, effortless, and naturally elegant, like an off-duty Korean actress enjoying a peaceful evening. The moment feels spontaneous rather than posed.\n\nOutfit:\nModern Korean Gen Z luxury streetwear. Oversized premium heavyweight washed charcoal",
+    "title": "Candid Luxury Ferris Wheel Portrait",
+    "description": "This prompt generates an ultra-photorealistic, candid image of a woman in luxury streetwear inside a modern Ferris wheel capsule, capturing a peaceful, spontaneous moment with a futuristic city background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050329052_4p1cvx_HOCycKzbgAA-Nzx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29750,
+    "content": "use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and natural asymmetry. Create a premium close-up studio beauty portrait with the locked dreamy vintage coquette rendering. The subject is photographed in a softly angled three-quarter composition with the shoulders gently turned while the face remains almost square to the camera. Her expression is calm, elegant, and quietly confident with naturally relaxed half-lidded eyes, softly parted lips, and a refined elongated neck. The composition remains intimate and face-dominant with elegant negative space above the head. Her {argument name=\"hair color\" default=\"ash chocolate-brown\"} hair is styled into a {argument name=\"hairstyle\" default=\"soft romantic French twist inspired updo\"} with airy crown volume, naturally separated strands, wispy face-framing tendrils around the temples and jawline, delicate baby hairs, and realistic strand separation. The hairstyle feels effortless, lightweight, and soft…",
+    "title": "Vintage Coquette Beauty Portrait",
+    "description": "A beauty portrait prompt focusing on a vintage coquette aesthetic, designed to maintain facial identity from a reference image while adding romantic styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050321874_c80y43_HOCyEw3aoAAAis6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29662,
+    "content": "{ \"image_type\": \"{argument name=\"image type\" default=\"photograph\"}\", \"genre\": \"{argument name=\"genre\" default=\"indoor lifestyle portrait\"}\", \"composition\": { \"framing\": \"{argument name=\"framing\" default=\"medium close-up\"}\", \"orientation\": \"vertical\", \"subject_position\": \"center-right, seated at a table\"",
+    "title": "Indoor Lifestyle Portrait Photography",
+    "description": "A structured JSON prompt for generating an indoor lifestyle portrait with specific framing and composition settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050332785_0ncnvc_HAw_CxvbQAAgbXM.jpg"
     ],
     "needReferenceImages": false
   },

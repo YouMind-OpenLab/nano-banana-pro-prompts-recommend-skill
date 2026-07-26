@@ -13,6 +13,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 29769,
+    "content": "{argument name=\"song title\" default=\"Himawari no Yakusoku\"} ({argument name=\"artist\" default=\"Motohiro Hata\"})",
+    "title": "Song-based Image Generation (Himawari no Yakusoku)",
+    "description": "A creative prompt that uses a Japanese song title to generate an associated visual mood and scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785050332778_gipu55_HN_y_-SaIAA4shK.jpg",
+      "https://cms-assets.youmind.com/media/1785050332844_xf09ur_HN_zBIHaEAAAMSE.jpg",
+      "https://cms-assets.youmind.com/media/1785050333254_n95zs1_HN_zD2HaEAAtcWk.jpg",
+      "https://cms-assets.youmind.com/media/1785050339152_x3md03_HN_zGKZa4AE4O-A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27306,
     "content": "A black and white line drawing of a {argument name=\"subject\" default=\"squirrel\"} is depicted in profile, facing left. The {argument name=\"subject\" default=\"squirrel\"} is decorated with various patterns and designs, resembling a {argument name=\"art style\" default=\"zentangle or adult coloring page\"}. Its body is filled with floral motifs, scales, swirls, and geometric shapes. Its tail is large and curled, also adorned with patterns. The background is white, emphasizing the detailed linework of the {argument name=\"subject\" default=\"squirrel\"}.",
     "title": "Zentangle Squirrel Line Drawing",
