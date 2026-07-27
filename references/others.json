@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 29839,
+    "content": "A {argument name=\"setting\" default=\"quiet library\"} and a {argument name=\"style\" default=\"bright red traditional look\"}. A love for books & style.",
+    "title": "Quiet Library and Traditional Style Portrait",
+    "description": "A clean prompt for generating portraits set in a quiet library, focusing on traditional styles and a love for books.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137828845_9fe2lk_HOHf2TgboAAitn_.jpg",
+      "https://cms-assets.youmind.com/media/1785137828844_2c1xej_HOHf4p_aUAESDr_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29769,
     "content": "{argument name=\"song title\" default=\"Himawari no Yakusoku\"} ({argument name=\"artist\" default=\"Motohiro Hata\"})",
     "title": "Song-based Image Generation (Himawari no Yakusoku)",

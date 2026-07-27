@@ -21,6 +21,60 @@
     "needReferenceImages": true
   },
   {
+    "id": 29838,
+    "content": "A {argument name=\"location\" default=\"Hong Kong-inspired\"} background featuring traditional dim sum restaurants, noodle shops, and authentic Hong Kong street scenery. {argument name=\"makeup\" default=\"Soft, natural Korean-style pink makeup\"}. {argument name=\"hair style\" default=\"Long, straight hair with light C-curls\"} at the ends, flowing naturally in the wind. Silver accessories. A fitted ivory shirt dress with moderate volume and built-in padding. A black mini designer leather shoulder bag worn over one shoulder. Fine, subtle film grain, soft bloom around bright light sources with delicate red halation, slightly lifted blacks, calm cinematic colour grading, highlights diffused like a Black Pro-Mist filter, and a shallow depth of field.",
+    "title": "Hong Kong Street Style Fashion Portrait",
+    "description": "A prompt for a cinematic Hong Kong-themed street portrait with specific makeup, hair, and clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137828701_vzbgrv_HOKkWGaXcAEoZnu.jpg",
+      "https://cms-assets.youmind.com/media/1785137828658_vz8atd_HOKkW_nWcAEKgtj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29847,
+    "content": "Create a premium luxury automotive editorial portrait of a stylish {argument name=\"subject\" default=\"man in his mid-20s\"} during a daytime drive. He has an athletic build, fair skin with warm-neutral undertones, an oval face with a sharp angular jawline, well-defined facial features, moderately prominent cheekbones, a straight nose, medium lips, thick groomed eyebrows, and a short, neatly trimmed beard and mustache. His {argument name=\"hair style\" default=\"dark brown medium-length hair is styled in a voluminous brushed-back side part\"} with a smooth texture and a slight natural wave. His expression is calm, focused, and confident as he looks toward the road. Dress him in a {argument name=\"clothing\" default=\"black leather jacket layered over a light beige zip-up collared sweatshirt\"}, styled in a refined quiet luxury aesthetic. He wears black rectangular sunglasses with silver metal temples, and a visible seatbelt completes the authentic driving scene. He is seated in the driver's seat of a modern luxury vehicle, captured in a three-quarter profile with his head turned slightly to the left. His posture is upright, composed, and effortless, while his hands remain outside the frame. The interior features a clean, premium cabin with a headrest, dashboard, side window, and roof liner subtly visible in the background. Illuminate the scene with soft natural golden-hour sunlight entering from the driver's side window, creating warm highlights across his face and clothing while gentle shadows define his facial structure and enhance depth. Use a moderately shallow depth of field to keep the subject tack sharp while softly blurring the car interior. Photograph the scene from a slightly above eye-level perspective using a medium close-up composition. Maintain razor-sharp focus on the face, sunglasses, hair, and clothing while preserving a softly blurred background. Apply premium editorial colour grading with natural skin texture, exceptional sharpness, minimal noise, and a sophisticated luxury fashion aesthetic. The overall mood should feel confident, composed, refined, minimal, and luxurious, using a palette of black, charcoal, ivory, warm grey, and soft beige accented by silver details and warm golden sunlight, reminiscent of a high-end men's fashion campaign for a luxury automotive brand.",
+    "title": "Luxury Automotive Editorial Portrait",
+    "description": "A highly detailed prompt for a sophisticated men's fashion editorial set inside a luxury vehicle during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137837624_4a70w3_HOKUAXVbkAACDq0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29840,
+    "content": "Use the face from the uploaded photo, preserve her appearance. Close-up, eye-level portrait [3:4]. Poised expression, hand near the mouth highlighting {argument name=\"nail style\" default=\"stiletto nails with a dark translucent lace pattern\"}. Bold graphic black eyeliner with sharp wings, hair slicked back in a wet look. A real {argument name=\"butterfly type\" default=\"black-and-white\"} butterfly in the hair and another on the chest. Accessories: delicate gold chain and ring, cream chunky knit sleeve visible. Minimal neutral background, soft diffused frontal lighting, organic muted palette (gold, ivory, deep black). Hyper-realistic skin detail, professional clarity, Sony Alpha a7R V, 85mm.",
+    "title": "Graphic Eyeliner and Lace Nails Portrait",
+    "description": "A high-fashion portrait prompt featuring bold eyeliner, stiletto lace-patterned nails, and a wet-look hairstyle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137830325_ehyuj4_HN-RtMGbsAAMr26.jpg",
+      "https://cms-assets.youmind.com/media/1785137830304_y6swjn_HN-Rx4FboAA49T5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29843,
+    "content": "Ultra-realistic portrait of a young woman with long dark hair in a {argument name=\"hairstyle\" default=\"high ponytail\"}, glancing back over her shoulder with a confident smile. She wears a {argument name=\"outfit\" default=\"fitted white crop top, a short plaid skirt, and white thigh-high stockings\"}. Standing indoors against soft even studio lighting against a plain pale wall corner with gentle shadow. Casual lifestyle fashion photography, relaxed pose, natural skin texture, warm tones, shallow depth of field, realistic lighting, candid expression, high detail, photorealistic",
+    "title": "Fashion Photography Studio Portrait",
+    "description": "A clean lifestyle fashion prompt for a high-ponytail portrait with realistic skin textures and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137831942_xnfq2o_HOEIMTRbwAA1Qdr.jpg",
+      "https://cms-assets.youmind.com/media/1785137833082_6g0baa_HOEIOsbacAAz3Ls.jpg",
+      "https://cms-assets.youmind.com/media/1785137831835_00uaba_HOEIPpraoAA5zKQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29846,
+    "content": "Create a studio-quality photo realistic render of the exact modern table design and structure from the first image. Apply the {argument name=\"material\" default=\"rich jarrah timber material\"} from the second image to all the grey legs and the teal tabletop sections, ensuring the natural wood grain runs longitudinally along the length of the legs exactly as shown in the second image. Change the dark blue structural beams, curved supports, and conical connectors to {argument name=\"finish\" default=\"brushed stainless steel\"} with a subtle metallic sheen. Use professional studio lighting with soft key lights and gentle highlights that make the table the clear hero of the scene, set against a clean {argument name=\"background\" default=\"neutral light-gray background\"}. Preserve the precise three-quarter viewpoint, proportions, and faceted geometry of the original table design.",
+    "title": "3D Model to Photorealistic Product Render",
+    "description": "A technical prompt for transforming a 3D model screenshot into a high-end studio product photograph with specific materials and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137836535_fenvb5_HOHI1BhbgAArJ6W.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29749,
     "content": "A {argument name=\"setting\" default=\"private interior space\"} draped in dark wood paneling and deep purple-magenta velvet breathes an atmosphere of late-night opulence. A close-up of a solitary woman reclines with cool detachment, her dark ponytail and direct gaze exuding an aura of controlled allure. A {argument name=\"clothing\" default=\"liquid black satin slip short dress\"} clings gracefully beneath an open faux-fur coat with a small sign 'Keor' embroidered on border, draped loosely across her shoulders and hips. Plus she wears black stockings. {argument name=\"lighting\" default=\"Soft warm key light\"} sweeps gently from the side, illuminating her silhouette against the rich velvet texture of the sofa. Deep jewel tones and dark wood shadows merge into a softly muted palette anchored by subtle crimson accents. The quiet composition captures a transcendent editorial moment where sculptural poise seamlessly meets intimate, high-fashion mystery.",
     "title": "Opulent Velvet Interior Portrait",
@@ -53,17 +107,6 @@
     "description": "A vibrant summer-themed fashion editorial prompt featuring a woman with a purple bob cut and tropical styling in a pastel studio setting.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1785050317372_xio09r_HOC2d7raAAAZLyc.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 29653,
-    "content": "Ultra-realistic luxury street-style editorial portrait of an elegant older woman with timeless beauty, photographed in soft natural daylight against a clean, minimalist urban background. She gazes gracefully to the side with a warm, confident smile, radiating sophistication, wisdom, and effortless style.\nShe has beautifully styled {argument name=\"hair style\" default=\"silver-gray hair swept into a sleek, low chignon\"} with smooth volume and refined texture. Her skin shows natural mature beauty with delicate expression lines, soft wrinkles, and a luminous healthy complexion. She wears {argument name=\"lipstick color\" default=\"bold matte red lipstick\"}, subtle natural makeup, and oversized round black designer sunglasses with glossy frames, adding a chic high-fashion aesthetic.\nHer outfit consists of a striking {argument name=\"dress color\" default=\"royal-blue\"} pleated sleeveless designer dress featuring an elegant asymmetrical folded collar with sculptural architectural lines. She accessorizes with luxurious statement drop earrings in antique silver and black gemstone detailing, along with a thin metallic crossbody chain strap that subtly drapes across her shoulder.\nSoft diffused daylight creates flattering illumination with gentle highlights on her skin and hair while maintaining realistic textures. The background is artistically blurred with a shallow depth of field, emphasizing her refined profile and sophisticated styling. The overall mood conveys confidence, elegance, and timeless fashion.\nStyle: Ultra-photorealistic luxury fashion photography, street-style editorial portrait, Vogue editorial aesthetic, minimalist composition, authentic mature beauty, cinematic soft lighting, premium designer styling, realistic skin texture, natural silver hair detail, shallow depth of field, 85mm portrait lens, DSLR quality, HDR, magazine-quality retouching, ultra-detailed, 8K resolution, luxury lifestyle campaign, timeless elegance, award-winning editorial photography.",
-    "title": "Elegant Older Woman Luxury Street Style Editorial",
-    "description": "A sophisticated fashion portrait of an older woman with silver-gray hair in a royal-blue dress, captured in soft daylight with a minimalist urban background.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784963080626_vqhp1z_HOC1wSaa8AA6XM7.jpg",
-      "https://cms-assets.youmind.com/media/1784963080542_3cfh48_HOC1yQybUAEN5Z0.jpg"
     ],
     "needReferenceImages": false
   },

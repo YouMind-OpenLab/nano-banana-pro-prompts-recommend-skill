@@ -20,6 +20,43 @@
     "needReferenceImages": false
   },
   {
+    "id": 29837,
+    "content": "{argument name=\"style\" default=\"Flat vector illustration\"}, side profile of a {argument name=\"subject\" default=\"Sa'idi Egyptian woman\"}, featureless face, wearing a long black tarha (headscarf) decorated with flat silver Tally embroidery patterns, geometric triangles and stars rendered as flat metallic dots.\nShe holds a stylized clay water jar (ballas) on her shoulder.\nBackground: flat warm ochre desert with a distant pharaonic temple silhouette on the horizon.\nPalette: ochre, black, silver-cream, terracotta, deep red. Fusion of Upper Egypt folk and pharaonic memory.",
+    "title": "Sa'idi Egyptian Woman Vector Illustration",
+    "description": "A flat vector illustration prompt depicting an Egyptian woman from Upper Egypt with pharaonic and folk elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137827224_i9wbfw_HOLjEsmXoAAmBKN.jpg",
+      "https://cms-assets.youmind.com/media/1785137827153_4t8636_HOLjEsqXcAA9Ksw.jpg",
+      "https://cms-assets.youmind.com/media/1785137826827_jkx07c_HOLjIfnW8AA6x8g.jpg",
+      "https://cms-assets.youmind.com/media/1785137827969_a424td_HOLjIfnW4AA6wjm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29842,
+    "content": "Ultra-refined ethereal fantasy realism blended with classical Art Nouveau elegance, romantic symbolist painting, and premium mixed-media digital illustration. Hyper-realistic porcelain skin rendered with flawless soft gradients, luminous subsurface scattering, and velvety matte textures. Intricately layered natural elements—including delicate bird feathers, dried botanical foliage, butterflies, vines, flowers, and organic ornaments—seamlessly integrated into the composition as sculptural extensions rather than accessories. Rich atmospheric depth created through overlapping translucent forms, soft painterly blending, and highly detailed organic textures. Muted cinematic color palette featuring {argument name=\"colors\" default=\"warm ivory, parchment beige, weathered gold, soft ochre, pale amber, muted taupe, smoky gray, deep charcoal, desaturated teal, and midnight blue\"}. Sophisticated warm–cool color harmony with gentle golden highlights against cool shadow tones. Soft volumetric lighting, subtle ambient glow, feathered rim lighting, and elegant chiaroscuro emphasizing depth without harsh contrast. Museum-quality painterly rendering with meticulous micro-details, ultra-smooth brush transitions, refined edge control, and handcrafted fine-art aesthetics. Dreamlike, poetic atmosphere enriched by delicate haze, layered transparency, faded textures, and graceful organic flow. Background remains softly abstract with painterly depth, seamlessly merging botanical silhouettes and natural forms into a luxurious, timeless fantasy composition. Highly detailed, cinematic, elegant, organic, immersive, premium fine-art masterpiece, 8K, ultra-high fidelity.",
+    "title": "Fantasy Realism and Art Nouveau Fusion",
+    "description": "A sophisticated prompt blending ethereal fantasy with Art Nouveau elegance, featuring painterly textures and museum-quality details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137830667_txtenw_HOKGWToWkAAqWGn.jpg",
+      "https://cms-assets.youmind.com/media/1785137831344_cyrbm4_HOKGXKgWAAA3VSS.jpg",
+      "https://cms-assets.youmind.com/media/1785137831359_xiz8mj_HOKGX8eWYAAcDjF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29845,
+    "content": "A sequence of studio photographs captures the same {argument name=\"subject\" default=\"young woman with short red hair and a mint-green dress\"} against a vibrant teal wall featuring a large, intricate line-art mural of a woman intertwined with cosmic and floral elements. In one image, she stands profile-view, looking up and extending her hands in a welcoming or presenting gesture. Next, she stands facing slightly more towards the camera, maintaining the uplifted gaze but resting one hand on her hip. Finally, she is shown seated on a light-wood stool, looking off-camera with a thoughtful expression, hand on her chin. The consistent backdrop and subject create a cohesive narrative across the three poses.",
+    "title": "Cosmic Mural Studio Portrait Sequence",
+    "description": "A sophisticated prompt for generating a series of studio photographs featuring a subject in multiple poses against a cosmic and floral mural backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137835603_4nhjoi_HOJJA69X0AAzgnb.jpg",
+      "https://cms-assets.youmind.com/media/1785137835613_y7st1j_HOJJBu2XsAAxun6.jpg",
+      "https://cms-assets.youmind.com/media/1785137835593_2cf3mm_HOJJChhWgAApGD8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29766,
     "content": "{\n  \"vibe_title_en\": \"The Sovereign's Rigid Silence In Anti-Gravity Reflection\",\n  \"master_prompt\": \"Three-Quarter Editorial waist-up portrait of a {argument name=\"subject\" default=\"stoic protagonist\"}. Body angled 45-degrees, face anchored directly toward the lens. Sovereign Minimalist pose: absolute stillness, resembling a rigid architectural monument. Hair: Long, bone-straight raven black, structurally gelled. Makeup: Bleached eyebrows, razor-sharp contour, matte slate-grey lip. Wardrobe: Rigid obsidian reptilian-leather jacket. Setting: {argument name=\"setting\" default=\"Brutalist concrete acoustic chamber\"}. Surreal practical effect: Suspended directly above, an upside-down perfect reflection of the subject formed entirely from dense volumetric vapor and suspended glowing magnesium embers. Lighting: High-contrast chiaroscuro. Hard cool cyan strobe sculpts the upright subject; warm golden optical spot backlight shapes the upside-down vapor figure. Shot on Hasselblad H6D-100c, 50mm f/1.4 lens, Kodak Portra 800. Hyper-realistic skin pores, heavy analog grain, physical light refraction.\",\n  \"meta\": {\n    \"intent\": \"Surreal Editorial Portrait\",\n    \"priorities\": \"Rigid Geometry, Practical Surrealism, Sculptural Lighting\",\n    \"device_profile\": \"High-Resolution Display\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Waist-up mid-shot, upside-down mirror reflection occupying the top frame\",\n    \"layout\": \"Vertical symmetry, anchor face in lower-mid third\",\n    \"camera_angle\": \"Eye-level with the upright subject\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Sovereign Protagonist\",\n    \"demographics\": \"Ageless Adult\",\n    \"face\": \"Sharp jawline, bleached eyebrows, structural contouring, matte slate-grey lips\",\n    \"hair\": \"Long, bone-straight raven black, rigidly gelled, no loose strands\",\n    \"body\": \"Rigid, angular, architectural posture\",\n    \"expression\": \"Absolute stoicism, powerful rigid silence\",\n    \"pose\": \"Waist-up, 45-degree angle body, head turned perfectly straight to camera\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"{argument name=\"garment\" default=\"Structural Jacket\"}\",\n        \"material\": \"Reptilian-textured leather\",\n        \"color\": \"Obsidian Black\",\n        \"fit\": \"Rigid and tailored\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Micro-chain collar\",\n        \"color\": \"Matte Black\",\n        \"material\": \"Tungsten\",\n        \"brand_style\": \"Minimalist Avant-Garde\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Brutalist concrete acoustic chamber\",\n    \"surfaces\": \"Porous concrete, dense volumetric vapor\",\n    \"depth\": \"Shallow depth of field, dropping into a dark foggy abyss\",\n    \"atmosphere\": \"Cold, cinematic, dense with suspended magnesium dust\",\n    \"lens_interaction\": \"Light refracting through physical dust motes\"\n  },\n  \"lighting\": {\n    \"key\": \"Hard directional cool cyan strobe on the upright subject\",\n    \"fill\": \"None, deep crushing shadows\",\n    \"rim\": \"Warm golden opti",
     "title": "Surreal Brutalist Editorial Portrait",

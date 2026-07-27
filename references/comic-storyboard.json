@@ -1,5 +1,60 @@
 [
   {
+    "id": 29848,
+    "content": "A dynamic mid-air action shot of an {argument name=\"subject\" default=\"man with short black hair and black rectangular glasses\"}, captured at the peak of a powerful jump. He is frozen in a dramatic leaping pose: body twisted slightly to the side, right leg bent sharply at the knee and pushed forward, left leg extended straight backward and downward, both feet pointed. His right arm is stretched high above his head with fingers splayed open as if reaching or balancing, while his left arm is bent close to his body with a black gloved hand tensed. He wears a {argument name=\"outfit\" default=\"tight black long-sleeve shirt, black trousers, black gloves, and black shoes\"}, with a dark jacket half-slipping off his shoulders from the force of the jump. His facial expression is intense and focused — brows furrowed, teeth slightly gritted, eyes sharp behind the glasses — conveying pure determination mixed with controlled effort.The man is suspended high in the air against a {argument name=\"background\" default=\"hazy, foggy outdoor background of distant green hills and trees under an overcast white sky\"}. Camera angle is a low-angle three-quarter shot looking slightly upward, emphasizing the height and power of the leap, with the subject filling most of the frame. Realistic physics of motion: clothing fabric and jacket flaps pulled backward by air resistance, body weight shifted forward as if he just launched from a higher surface, limbs arranged in a classic action-hero jump silhouette that shows both explosive energy and temporary weightlessness. The overall feeling is intense, cinematic, and heroic — a frozen moment of raw physical power, focus, and mid-air freedom, as if captured from an action film sequence. Highly detailed, photorealistic, sharp focus on the subject, soft atmospheric fog in the background.",
+    "title": "Cinematic Mid-Air Action Shot",
+    "description": "An intense action-hero style prompt for a mid-air leap, inspired by a Netflix series, using reference image inputs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137837850_zj18du_HOLKVfwXMAAjuBO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29845,
+    "content": "A sequence of studio photographs captures the same {argument name=\"subject\" default=\"young woman with short red hair and a mint-green dress\"} against a vibrant teal wall featuring a large, intricate line-art mural of a woman intertwined with cosmic and floral elements. In one image, she stands profile-view, looking up and extending her hands in a welcoming or presenting gesture. Next, she stands facing slightly more towards the camera, maintaining the uplifted gaze but resting one hand on her hip. Finally, she is shown seated on a light-wood stool, looking off-camera with a thoughtful expression, hand on her chin. The consistent backdrop and subject create a cohesive narrative across the three poses.",
+    "title": "Cosmic Mural Studio Portrait Sequence",
+    "description": "A sophisticated prompt for generating a series of studio photographs featuring a subject in multiple poses against a cosmic and floral mural backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137835603_4nhjoi_HOJJA69X0AAzgnb.jpg",
+      "https://cms-assets.youmind.com/media/1785137835613_y7st1j_HOJJBu2XsAAxun6.jpg",
+      "https://cms-assets.youmind.com/media/1785137835593_2cf3mm_HOJJChhWgAApGD8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29752,
+    "content": "Use the uploaded reference image as the strict identity and outfit reference for a realistic {argument name=\"subject\" default=\"Japanese woman\"}, preserving her face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair colour, visible accessories, overall vibe, and outfit exactly as shown in the reference. Do not invent or hardcode features that are not present in the uploaded image. Create a high-quality vertical mixed-media portrait featuring a realistic full-body Japanese woman standing beside a black {argument name=\"shadow style\" default=\"hand-drawn doodle-shadow\"} version of herself sketched directly onto a {argument name=\"background\" default=\"clean wall\"}. The real woman should remain photorealistic, wearing the same outfit and styling as the reference, with a cute, slightly confused, mildly embarrassed expression as if wondering why she is playing along with her mischievous shadow. The doodle-shadow should be a lively black sketch version of the same Japanese woman, matching her hairstyle, outfit silhouette, and overall identity while having exaggerated cartoon expressions and energetic movements, surrounded by manga-style motion lines, hearts, sparkles, stars, and comic symbols. For every generation, invent a completely new playful pose where both the real woman and the doodle share the same general idea without perfectly mirroring each other. Avoid repeated pointing poses, finger-guns, or stiff standing poses, and instead create fresh playful actions such as dancing, balancing, sneaking, making a giant heart, peekaboo, dramatic overreaction, or other cute troublemaker poses. Place the real woman on one side of the frame and the doodle-shadow on the wall beside her so their interaction is immediately clear. Use a clean white, cream, or light grey indoor wall with minimal clutter, soft natural daylight, gentle shadows, and a polished editorial photography style. The final image should be ultra-detailed, social-media-friendly, with strong resemblance to the uploaded Japanese woman, faithful outfit reproduction, realistic photography combined with expressive black sketch line art, premium composition, and no AI artifacts. Avoid unrelated outfit changes, realistic second people, ordinary shadows, horror elements, coloured illustrations, anime humans instead of doodles, weak resemblance, cluttered backgrounds, repeated poses, text, logos, watermarks, distorted anatomy, extra limbs, extra fingers, or poorly drawn hands.",
+    "title": "Identity-Consistent Woman with Doodle Shadow",
+    "description": "A specialized prompt for Nano Banana that preserves a person's identity from a reference image while adding a playful hand-drawn doodle shadow companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137834691_51cpjd_HOIB-fWXwAA2Xya.jpg",
+      "https://cms-assets.youmind.com/media/1785137834766_ct74fd_HOIB_bEWsAAcEsf.jpg",
+      "https://cms-assets.youmind.com/media/1785137834682_q3kgeg_HOICADRXQAAZ9sI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29763,
+    "content": "Transform this image [Upload Your Image] into a 64K DSLR shot resolution of A creative urban street portrait featuring a young man (same face as the uploaded image) sitting on a curb in a quiet city street, paired with a {argument name=\"style\" default=\"stylized cartoon illustration\"} of himself placed beside him. The real-life subject (same face as the uploaded image) is seated casually on a concrete sidewalk edge, resting his head on one hand in a bored, contemplative pose. He looks slightly upward with a neutral, introspective expression, conveying a sense of quiet thoughtfulness and urban solitude. He wears a {argument name=\"clothing\" default=\"muted maroon cable-knit sweater\"} with a relaxed fit, dark loose-fitting denim jeans with subtle stitched details near the cuffs, and worn brown leather boots. Accessories include layered silver chain dog tag with the name \"{argument name=\"text\" default=\"[Add Text]\"}\" written on it, rings on his fingers, black-framed glasses, and a light-coloured baseball cap with bold embroidered lettering on the front. His hair is short, dark hair, a well-groomed beard texture and character. Next to him on the sidewalk sits a small {argument name=\"companion\" default=\"cartoon version\"} (same face as the uploaded image) of himself, matching his outfit and pose exactly—same sweater, jeans, boots, cap, glasses, and facial expression. The illustrated character has clean outlines, warm muted colors, and a soft shaded, hand-drawn animation style, creating a playful contrast between realism and illustration. The cartoon figure is proportionally smaller, emphasizing a companion-like or inner-self concept. The background features textured cobblestone pavement, a curb edge, and a building facade with muted yellow walls and green-tiled brickwork near a window. The color palette is earthy and subdued, with natural daylight providing soft, even lighting and realistic shadows. The overall composition blends street photography, fashion portraiture, and mixed-media digital art, evoking themes of identity, self-reflection, and creativity.\nStyle & Mood Keywords: Urban street photography, casual fashion portrait, mixed media art, real and cartoon character duo, introspective mood, muted earthy tones, soft natural light, realistic textures, creative storytelling, high-resolution detail, cinematic realism. Octane render & Unreal Engine",
+    "title": "Urban Street Mixed Media Portrait",
+    "description": "A creative prompt that pairs a realistic street portrait with a stylized cartoon illustration of the same character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137834120_1a6fgj_HOH_vMobUAAAZf1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29849,
+    "content": "{argument name=\"character and action\" default=\"Lilith on the phone in an editorial office\"}. {argument name=\"department\" default=\"Occult magazine editorial department\"}. No Japanese",
+    "title": "Occult Magazine Editorial Office",
+    "description": "A detailed scene description of a character in an occult magazine editorial office, with negative prompting to avoid Japanese text in the generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137839197_jvyh65_HOHBwV4a8AASEeQ.jpg",
+      "https://cms-assets.youmind.com/media/1785137840153_82k02a_HOHBy02aYAA4OHu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29746,
     "content": "A photo collage featuring {argument name=\"number of scenes\" default=\"six\"} distinct scenes of the same {argument name=\"subject\" default=\"smiling woman\"} in various {argument name=\"outfit color\" default=\"red\"} dresses: walking down a cobblestone European street carrying a small basket bag; sitting gracefully on a wooden bench holding a bouquet of flowers in a lush garden filled with hydrangeas and roses; spinning joyfully on a rooftop terrace at sunset with a city skyline in the background; standing on a rugged coastal cliff overlooking the ocean with mountains and waves behind her; laughing while reading a book and holding a coffee cup inside a cozy, book-filled cafe; and running playfully through a sunlit field of wildflowers and poppies at dusk.",
     "title": "Smiling Woman in Red Dress Collage",

@@ -1,5 +1,18 @@
 [
   {
+    "id": 29841,
+    "content": "{argument name=\"subject\" default=\"Avengers: Doomsday\"} but into a hyper-realistic glossy 3D CGI caricature masterpiece.",
+    "title": "Avengers CGI Caricature",
+    "description": "Transforms the Avengers into hyper-realistic, glossy 3D CGI caricature masterpieces.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785137830440_66lfko_HOLCXs2bIAAMgxL.jpg",
+      "https://cms-assets.youmind.com/media/1785137831013_g7bj7k_HOLCXshbMAA3Y2x.jpg",
+      "https://cms-assets.youmind.com/media/1785137830502_m7n9bh_HOLCXsjaoAAYt2L.jpg",
+      "https://cms-assets.youmind.com/media/1785137831691_iplb1u_HOLCXsgaMAE_b3q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29346,
     "content": "the {argument name=\"subject part\" default=\"dog's mouth\"} is {argument name=\"state\" default=\"closed\"}.",
     "title": "Selective Photo Detail Modification",
