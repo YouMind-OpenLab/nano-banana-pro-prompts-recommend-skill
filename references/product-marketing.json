@@ -21,6 +21,104 @@
     "needReferenceImages": true
   },
   {
+    "id": 29971,
+    "content": "Create a high-end fashion editorial photograph inspired by {argument name=\"style inspiration\" default=\"retro film photography and contemporary outdoor lifestyle editorials\"}. Capture a calm, thoughtful young woman in her early 20s with a slim build, fair skin with neutral undertones, an oval face, softly defined jawline, subtle cheekbones, a straight nose, natural lips with a muted coral tint, and straight dark eyebrows. She has smooth, shoulder-length dark brown hair styled in a center-parted straight bob tucked neatly behind her ears. Her expression is focused, with a slightly intense gaze directed over the top of the paperback book she is reading.\n\nDress her in an {argument name=\"outfit\" default=\"oversized black cardigan layered over a crisp white button-up shirt, paired with high-waisted brown wide-leg trousers secured with a black belt\"}. Complete the look with large silver over-ear headphones and amber-tinted rectangular sunglasses, creating a minimal academic aesthetic with strong vintage influences. She is lying comfortably on a lush green park lawn, viewed from a high-angle top-down perspective. One hand holds the open paperback book while the other gently adjusts her headphones. Her head is slightly raised toward the camera, giving the composition a relaxed yet artistic editorial feel.\n\nThe entire frame is filled with vibrant green grass, creating a clean and minimal outdoor setting. Shoot during daytime using soft natural sunlight from overhead, producing gentle directional shadows and a warm nostalgic atmosphere. Use a moderately shallow depth of field with subtle softness around the edges while maintaining sharp focus on the subject. Frame the image as a medium full-body portrait from directly above, combining crisp central detail with authentic vintage softness.\n\nApply cinematic analog-inspired color grading with realistic film grain, rich olive green, black, white, and dark brown tones accented by {argument name=\"highlights\" default=\"warm amber highlights, silver metallic details\"}, and natural skin tones. The final image should resemble a premium retro fashion editorial, blending timeless film photography, quiet intellectual style, outdoor reading, minimal fashion, and nostalgic analog aesthetics in a refined, artistic composition.",
+    "title": "Retro Academic Fashion Editorial",
+    "description": "A high-angle vintage-inspired portrait of a woman reading on a lawn, blending intellectual style with nostalgic film aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223102815_iu8gq9_HOSp5qZbsAAAq1i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29969,
+    "content": "A dramatic profile studio portrait of an {argument name=\"subject\" default=\"attractive South Asian woman\"} with long, voluminous layered hair featuring {argument name=\"hair colors\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
+    "title": "Dramatic Burgundy Profile Portrait",
+    "description": "A moody studio portrait featuring warm golden rim lighting and rich mahogany tones for a cinematic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223102152_170ioy_HOSnER8WMAAgvAE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29977,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\"subject details\" default=\"Young woman with fair skin, dark brown hair styled in a loose updo with soft stray wisps framing her face\"}\",\n    \"pose\": \"{argument name=\"sitting pose\" default=\"Sitting on a bed with one arm raised gracefully above her head\"}\",\n    \"expression\": \"Serene and confident\"\n  },\n  \"attire\": {\n    \"outer_layer\": \"Long-sleeved sheer white robe draped open\",\n    \"under_layer\": \"Matching white embroidered top with delicate gold detailing that coordinates with the robe\"\n  },\n  \"accessories\": {\n    \"necklace\": \"Dark green beaded choker with gold accents\",\n    \"earrings\": \"Large dangling green and gold earrings\",\n    \"bracelets\": \"Multiple colorful bangles on left wrist\"\n  },\n  \"setting\": {\n    \"location\": \"{argument name=\"bedroom setting\" default=\"Bedroom with a vibrant, patterned bedspread\"}\",\n    \"background\": \"Soft peach-colored wall\"\n  },\n  \"lighting\": {\n    \"type\": \"Warm natural sunlight\",\n    \"effect\": \"Gentle shadows cast across the scene\"\n  },\n  \"style\": {\n    \"type\": \"Editorial fashion photography\",\n    \"quality\": \"Realistic, high quality\",\n    \"aesthetic\": \"Soft, warm, intimate lifestyle portrait\"\n  },\n  \"color_palette\": [\n    \"white\",\n    \"gold\",\n    \"dark green\",\n    \"peach\",\n    \"natural skin tones\"\n  ]\n}",
+    "title": "Editorial Bedroom Lifestyle Portrait",
+    "description": "An intimate bedroom lifestyle portrait prompt featuring a specific subject pose, attire, and warm natural lighting for an editorial aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223106833_2cd8u2_HORC1tAaQAAiusB.jpg",
+      "https://cms-assets.youmind.com/media/1785223106853_noobrd_HORC2nGb0AAEYes.jpg",
+      "https://cms-assets.youmind.com/media/1785223106913_5abjlj_HORC3x_bQAAx0D9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29955,
+    "content": "A high-fidelity, corporate editorial portrait of {argument name=\"subject name\" default=\"[NAME]\"} with long wavy hair swept to her left side. She has a serene, neutral expression, looking directly into the camera lens. She is sitting in a black executive ergonomic office chair in a modern high-rise executive office, with her body angled slightly to the left while keeping her torso and face turned toward the camera. She has a curvy, hourglass silhouette with a defined waist, wearing a buttoned-up, fitted {argument name=\"shirt color\" default=\"white\"} dress shirt with a structured collar, a slim black necktie, and a high-waisted {argument name=\"skirt color\" default=\"gray\"} pencil miniskirt with a subtle slit. Her legs are crossed at the knees, her right arm rests naturally on the chair's armrest, and her left hand with impeccably manicured nails rests gently over a sleek brushed-aluminum laptop on her well-organized desk. Her wrist features a fine, delicate bracelet, and she wears dangling polished silver geometric earrings. In the background, floor-to-ceiling panoramic windows reveal the New York City skyline under a clear blue sky, alongside neat potted ornamental plants on the desk. Shot at eye level with an 85mm f/2.8 lens on a 61MP full-frame camera (ISO 100, 1/200s), the lighting is soft, indirect natural light from the side windows, creating gentle highlights, smooth catchlights in her eyes, and balanced fill shadows with a shallow depth of field and cream optical bokeh. The mood is calm, confident, focused, and sophisticated, captured with razor-sharp micro-focus on her eyes and clothing textures, wide dynamic range, and a 9:16 aspect ratio.",
+    "title": "Executive Corporate Editorial Portrait",
+    "description": "A high-fidelity editorial portrait prompt for a sophisticated corporate setting, featuring detailed descriptions of attire, lighting, and a New York City background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223092665_zcd5pl_HOQFCANXwAACJ8-.jpg",
+      "https://cms-assets.youmind.com/media/1785223092837_onimb5_HOQFCXcWkAAHtXy.jpg",
+      "https://cms-assets.youmind.com/media/1785223094216_pptuqz_HOQFCtaXgAE6d-y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29967,
+    "content": "A cinematic close-up portrait of a {argument name=\"subject\" default=\"man in his 30s\"} with neatly styled short hair swept upward. He is wearing {argument name=\"eyewear\" default=\"sleek black rectangular sunglasses\"} with dark reflective lenses that mirror the urban surroundings. His head is tilted slightly upward and to the side, chin raised, eyes hidden behind the shades, brows gently furrowed, lips closed in a serious, intense, and slightly aloof expression that radiates quiet confidence and mystery.He wears a {argument name=\"clothing\" default=\"dark charcoal gray henley-style t-shirt\"} with small metal buttons, layered under an open black hooded utility jacket with silver snap buttons and a structured collar. The jacket sits casually on his shoulders, revealing the neckline of the shirt. Soft natural daylight illuminates his sharp jawline, high cheekbones, and the subtle texture of his skin, creating gentle highlights and soft shadows. Camera angle is a tight three-quarter close-up from a slightly low angle, focusing tightly on his face and upper chest, with a shallow depth of field that softly blurs the modern urban background of glass buildings and dark architectural lines. The overall mood is cool, sophisticated, and enigmatic — a frozen moment of quiet intensity and modern coolness, as if captured from a high-fashion editorial or a stylish action-thriller character introduction. Photorealistic, sharp facial details, cinematic color grading, soft bokeh background.",
+    "title": "Urban Mystery Portrait",
+    "description": "A sophisticated cinematic portrait of a man wearing sunglasses, emphasizing high-fashion aesthetics and urban mystery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223101066_u1j44t_HOQBp4dWgAIxbKt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29958,
+    "content": "A {argument name=\"subject\" default=\"young adult male\"} stands confidently in the center of the frame, facing the camera with a subtle, posed closed-mouth smile, relaxed eyebrows, and a direct gaze. His shifted weight creates a relaxed leaning posture with level shoulders. He is dressed in {argument name=\"outfit\" default=\"a loosely buttoned vertical-striped linen shirt and relaxed off-white linen trousers paired with tan suede loafers\"}. His hands rest deeply inside his front trouser pockets, causing the linen fabric to bunch slightly on the left and stretch smoothly across his hips on the right while gently pulling the shirt hem open. He is situated on {argument name=\"setting\" default=\"a light warm gray concrete promenade scattered with subtle natural debris\"}, framed in the immediate foreground by dense, small-leaved evergreen boxwood shrubs thriving on the left and a rough, matte split-face stone mosaic wall on the right featuring sharp, horizontally arranged rectangular tiles. The deep spatial layout sweeps back into a layered midground showcasing tall pine trees with rough bark and needle clusters, one trunk elegantly wrapped in warm golden string lights, alongside a faintly visible metal bollard. Beyond the trees lies a pristine, dark expanse of water, whose smooth surface reflects long, vertical streaks of golden light radiating from the distant cityscape, where illuminated structures and streetlights form a softly glowing horizon line. The calm, warm summer evening atmosphere is defined by a high-contrast, split-complementary color palette dominated by off-white, deep forest green, night black, and golden yellow accents. A bright, highly directional hard frontal flash pierces the casual nighttime setting, preserving vivid specular highlights on the subject's face, forehead, the front of his striped shirt, and the folded ridges of his linen trousers. This intense light casts harsh, deep black, short-edged shadows sharply under his chin, directly behind his legs onto the concrete and stone wall, and deep within the surrounding dense foliage. Captured straight on as a realistic digital photograph with a casual smartphone aesthetic, the image features a deep depth of field, slightly soft textures, and visible digital noise, finalized with post-processing that deepens the black tones in the night sky and water while warming the highlights, all naturally framed in a 3:4 aspect ratio.",
+    "title": "Nighttime Waterfront Smartphone Aesthetic",
+    "description": "A comprehensive prompt for a realistic nighttime photograph using smartphone aesthetics, featuring a subject in linen clothing against a cityscape backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223095794_i716iw_HNgPmwUWkAAnxTN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29964,
+    "content": "2x2 grid, do this for 4 important Asian cities: Generate a photoreal miniature pop-up book diorama for {argument name=\"subject\" default=\"[SUBJECT]\"}.Rules:- infer SUBJECT_DNA automatically- use {argument name=\"base document\" default=\"BASE_DOCUMENT\"} as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to SUBJECT- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
+    "title": "Miniature Pop-up Book City Diorama",
+    "description": "A specialized prompt for creating photorealistic 3D dioramas designed as elaborate paper-engineered pop-up books representing specific subjects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223099560_5h8dp4_HOCYyRpXwAAikCM.jpg",
+      "https://cms-assets.youmind.com/media/1785223099523_8s4pko_HOCY0lAXcAASIN6.jpg",
+      "https://cms-assets.youmind.com/media/1785223099481_2f011o_HOCY4kAWQAAXzzk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29972,
+    "content": "A high-end editorial portrait of a {argument name=\"subject\" default=\"35-year-old man\"} with a flawless porcelain-smooth complexion and refined bone structure. He is looking down in a relaxed, candid pose. He wears elegant, thin-framed silver glasses, a black ring on his finger, and a luxury Rolex-style watch visible on his wrist. His hair is styled in a modern, textured curtains look with a few strands gently falling over his forehead. He is wearing a {argument name=\"knit sweater description\" default=\"premium, textured oversized knit sweater in black with striking mustard-yellow and earthy brown horizontal block patterns\"}. The background is a softly blurred, warm-toned luxury indoor environment with beautiful bokeh. Captured with an {argument name=\"lens type\" default=\"85mm\"} lens at f/1.8, cinematic chiaroscuro lighting highlighting his facial features, professional photography.",
+    "title": "Editorial Man Portrait with Silver Glasses",
+    "description": "An editorial fashion portrait of a refined man in a patterned knit sweater, using cinematic chiaroscuro lighting and professional 85mm lens effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223103497_3zat6i_HOPHXeyaUAAt8Ew.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29960,
+    "content": "A premium semi-realistic digital portrait illustration with a refined editorial aesthetic. Soft painterly rendering combined with clean, precise linework and smooth skin blending. Warm cinematic color grading dominated by {argument name=\"colors\" default=\"golden amber, honey brown, caramel, soft beige, and subtle peach tones\"}. Delicate facial modeling with silky skin, naturally sculpted features, expressive eyebrows, long detailed eyelashes, and softly defined lips. Highly detailed flowing hair featuring individually rendered strands, smooth highlights, and elegant braided textures. Gentle ambient lighting with {argument name=\"lighting\" default=\"warm golden-hour illumination, soft rim lighting, and subtle atmospheric glow\"}. Smooth tonal transitions, high dynamic range, crisp edges on facial features while maintaining a soft overall appearance. Background rendered with {argument name=\"background\" default=\"a dreamy shallow depth of field, softly blurred cityscape silhouettes and warm sunset bokeh\"}. Balanced composition, elegant visual harmony, polished concept-art quality, ultra-detailed digital painting, premium illustration, 4K–8K quality, portrait-oriented (AR 9:16).",
+    "title": "Cinematic Warm Portrait Illustration",
+    "description": "A refined prompt for creating semi-realistic digital illustrations with an editorial aesthetic, focusing on warm golden tones and detailed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785223097158_np66wi_HONp7cxWcAAvCcr.jpg",
+      "https://cms-assets.youmind.com/media/1785223097171_s4f8ww_HONp9CdXEAA18w1.jpg",
+      "https://cms-assets.youmind.com/media/1785223097413_ce9pkt_HONp-TmXMAAohCg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29838,
     "content": "A {argument name=\"location\" default=\"Hong Kong-inspired\"} background featuring traditional dim sum restaurants, noodle shops, and authentic Hong Kong street scenery. {argument name=\"makeup\" default=\"Soft, natural Korean-style pink makeup\"}. {argument name=\"hair style\" default=\"Long, straight hair with light C-curls\"} at the ends, flowing naturally in the wind. Silver accessories. A fitted ivory shirt dress with moderate volume and built-in padding. A black mini designer leather shoulder bag worn over one shoulder. Fine, subtle film grain, soft bloom around bright light sources with delicate red halation, slightly lifted blacks, calm cinematic colour grading, highlights diffused like a Black Pro-Mist filter, and a shallow depth of field.",
     "title": "Hong Kong Street Style Fashion Portrait",
