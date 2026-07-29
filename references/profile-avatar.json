@@ -10,12 +10,72 @@
     "needReferenceImages": false
   },
   {
-    "id": 29969,
-    "content": "A dramatic profile studio portrait of an {argument name=\"subject\" default=\"attractive South Asian woman\"} with long, voluminous layered hair featuring {argument name=\"hair colors\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
-    "title": "Dramatic Burgundy Profile Portrait",
-    "description": "A moody studio portrait featuring warm golden rim lighting and rich mahogany tones for a cinematic aesthetic.",
+    "id": 30078,
+    "content": "Create an ultra-realistic cinematic studio portrait of the person in the reference image. Preserve the person’s facial features and identity while styling them in a luxury editorial fashion. Give them a modern textured quiff hairstyle with medium-length hair, voluminous top, natural lift, slightly messy brushed-back texture, subtle side taper, clean sides, and realistic individual hair strands. Add thin silver metal aviator eyeglasses with large rounded lenses, minimalist frame, clear lenses, elegant luxury design, perfectly fitted to the face. Dress them in a {argument name=\"clothing\" default=\"tailored black suit, crisp white dress shirt, and black tie\"}. Pose them looking directly into the camera with a calm, confident, serious expression. Use {argument name=\"lighting\" default=\"dramatic low-key studio lighting\"} with a single large octabox positioned 45° above the subject, classic Rembrandt lighting, deep cinematic shadows, subtle rim light around the hair and shoulders, black seamless background, {argument name=\"color grading\" default=\"high contrast black-and-white grading\"}, rich tonal range, crisp eyes with natural catchlights, highly detailed skin texture, realistic pores, subtle facial hair detail, shallow depth of field, Leica SL2 with APO-Summicron 90mm lens, f/2.2, ISO 100, HDR, editorial fashion photography, timeless Hollywood portrait, museum-quality, photorealistic, ultra-sharp, 8K resolution, masterpiece.\n\nNegative Prompt\n\ncartoon, anime, illustration, CGI, plastic skin, beauty filter, overprocessed skin, blurry, low quality, low resolution, distorted face, asymmetrical eyes, duplicate face, extra glasses, oversized glasses, thick frames, text, watermark, logo, cropped head, poor lighting, noisy image, unrealistic hair, exaggerated hairstyle, overexposed, underexposed",
+    "title": "Cinematic Black and White Studio Portrait",
+    "description": "An ultra-realistic prompt for high-contrast, black-and-white editorial fashion portraits using Rembrandt lighting for a timeless Hollywood aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785223102152_170ioy_HOSnER8WMAAgvAE.jpg"
+      "https://cms-assets.youmind.com/media/1785309326800_fsppzj_HOXtq5YbwAARcUe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30070,
+    "content": "moody cinematic portrait, {argument name=\"subject\" default=\"lone young woman\"} in tall grass field at dusk, overcast sky, {argument name=\"color grade\" default=\"teal-green color grade\"}, wearing {argument name=\"clothing\" default=\"white buttoned shirt\"}, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain",
+    "title": "Moody Cinematic Grass Field Portrait",
+    "description": "A melancholic and cinematic prompt for a woman in a tall grass field at dusk, featuring a teal-green color grade and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309320457_ufmjj3_HOSzEHdaIAAw2d2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30071,
+    "content": "Use my uploaded image as the exact facial reference. Preserve my identity with maximum accuracy, including my face shape, hairstyle, beard, eyebrows, skin tone, eye proportions, nose, lips, jawline, ears, and every unique facial feature. Do not alter my age, expression, or recognizable appearance.\n\nCreate an ultra-realistic, cinematic side-profile portrait with my head gently tilted upward, eyes peacefully closed, conveying calmness, confidence, and deep introspection. Dress me in a {argument name=\"clothing\" default=\"premium black textured knit sweater\"} with a clean, minimal aesthetic. Place me against a {argument name=\"background\" default=\"deep matte-black studio background\"} filled with {argument name=\"effect\" default=\"soft drifting smoke\"} and subtle atmospheric haze. Use dramatic low-key lighting with a gentle rim light outlining my hair, beard, and jawline, while a soft key light elegantly illuminates my face, creating rich contrast and depth. Keep the composition minimal and luxurious, emphasizing negative space. Capture ultra-sharp skin texture, realistic beard details, natural hair strands, and flawless facial proportions. Professional editorial photography, 85mm lens, f/1.8, shallow depth of field, HDR, ultra-photorealistic, premium color grading, soft cinematic shadows, IMAX-quality, 8K resolution, masterpiece, award-winning portrait, no text, no watermark, no artifacts, no facial distortion, no extra limbs, no blur.",
+    "title": "Cinematic Facial Reference Portrait",
+    "description": "A high-fidelity prompt designed to preserve facial identity using a reference image, creating a moody, low-key studio portrait with atmospheric smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309321261_ql1c76_HOXfJbVakAAnBTc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30076,
+    "content": "the sketch make it {argument name=\"hairstyle\" default=\"male hairstyle\"} like the second upload image, create a HD {argument name=\"style\" default=\"ultra-realism image sketch\"} from second image superimpost into first sketch style !",
+    "title": "Ultra Realistic Sketch Superimposition",
+    "description": "A prompt designed to transform an existing sketch or portrait into a high-definition, ultra-realistic style while preserving specific features like hairstyle from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309325060_d4rrds_HOXBjWNacAAE6RB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30075,
+    "content": "A dramatic, moody {argument name=\"subject\" default=\"portrait of a young woman with warm brown hair\"} styled in soft waves framing her face and gathered back. She is wearing a {argument name=\"clothing\" default=\"deep purple, textured dress\"} with a sweetheart neckline and puffed sleeves, complemented by a delicate thin necklace and elegant earrings. The lighting is chiaroscuro-style, with a soft key light illuminating one side of her face, highlighting her expressive eyes, rosy flushed cheeks, and defined lips, while casting the background into deep, shadowy darkness to create a classical, {argument name=\"atmosphere\" default=\"Renaissance-inspired atmosphere\"}.",
+    "title": "Chiaroscuro Renaissance Purple Dress Portrait",
+    "description": "A dramatic and moody portrait prompt inspired by Renaissance chiaroscuro lighting, featuring a woman in a textured purple dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309324296_fdpoz3_HOVSOtHWUAAsER3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30080,
+    "content": "Do not change the facial features, proportions, hair color, or skin tone. Maintain 100% likeness. Preserve natural knitted fabric texture, correct human anatomy, exactly two arms, exactly two hands, exactly two legs, and exactly two feet. Each hand must have exactly five fingers with no duplicated limbs, extra fingers, extra legs, AI artifacts, or plastic-looking skin. Keep natural human imperfections.\n\nThe uploaded reference image controls everything except the woman's identity. The camera angle must remain almost perfectly side-on (85–90°), and the composition should match the reference almost exactly. The woman should remain relatively small within the frame, while the meadow dominates the composition. The scene should show a {argument name=\"environment\" default=\"night meadow\"} with a {argument name=\"sky condition\" default=\"dark sky\"} and soft moonlight touching the grass. The blanket should remain barely visible. The overall atmosphere should feel calm, nostalgic, and cinematic, capturing the silence of the night and cool air. The colours should remain muted, slightly dark, and film-like, with a deep nighttime palette and subdued tones.\n\nThe time of day is deep night, with a dark sky, faint moonlight barely reaching the meadow, and long shadows created by the grass. A camera flash hits directly on the girl, creating sharp directional lighting that pulls her figure out of the darkness, with deep shadows behind her and the background fading into the night. Her skin should reflect the flash with a glassy oil-skin effect, featuring natural highlights on the cheekbones, nose, forehead, and shoulders while preserving realistic skin pores and texture. The girl suddenly turns her head toward the camera, creating motion blur from the movement, with slight blur on the hair and edges of the face while keeping her identity recognizable and her gaze captured mid-motion.\n\nUse high ISO settings with realistic digital sensor noise, slight flash overexposure on the figure and nearby grass, and a realistic RAW photography feel. The final image should be almost indistinguishable from a genuine Canon EOS R5 RAW lifestyle photograph captured in a quiet park at night. Ultra photorealistic, cinematic realism. The manicure should be {argument name=\"nails\" default=\"short square-shaped milky French style\"}.\n\n--ar 9:16 --style raw --style motion 50",
+    "title": "Cinematic Night Meadow Flash Portrait",
+    "description": "A complex prompt for a nighttime meadow scene, focusing on camera flash effects, motion blur, and high ISO noise for an authentic raw photography feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309327353_le1ong_HOVGEstaoAE2r2M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29969,
+    "content": "A dramatic profile studio portrait of {argument name=\"subject\" default=\"an attractive South Asian woman with long, voluminous layered hair\"} featuring {argument name=\"hair color\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
+    "title": "Burgundy Hair Cinematic Studio Portrait",
+    "description": "A cinematic studio portrait prompt focusing on rich hair textures and warm rim lighting to create a glowing halo effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309316285_unmqc3_HOSnER8WMAAgvAE.jpg"
     ],
     "needReferenceImages": false
   },
@@ -27,6 +87,19 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1785223103029_0k9dka_HOSJEtHbUAAiubi.jpg",
       "https://cms-assets.youmind.com/media/1785223103090_1l6zi9_HOSJFm1aMAABpzk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30086,
+    "content": "A woman is posing for a close-up selfie inside a dark, sophisticated car interior. Behind her is a black textured car seat, while soft natural daylight gently streams in through the side window. The overall atmosphere is ultra-HD, aesthetic, soft-glam, clean, and natural. The bright yet gentle lighting makes her skin appear smooth, radiant, and glowing. She is seated inside a tidy, modern vehicle, with the background slightly blurred to keep the focus on her face. The camera angle is positioned slightly above eye level and tilted slightly to the right, creating an intimate, modern, and stylish selfie composition. The framing is a close-up that highlights her face, shoulders, and upper chest. She is wearing a feminine yet chic outfit. A {argument name=\"outfit\" default=\"white knit cardigan with green trim\"} along the collar and button edges creates a soft and lovely appearance, layered over a simple white inner top. Her accessories include elegant {argument name=\"jewelry\" default=\"small pearl earrings and a delicate gold chain necklace with a small black clover-shaped pendant\"}, giving her a sweet, classy, and sophisticated look. Her expression is playful, with a subtle smile on her lips. Her eyes are sharp yet adorable, creating a stylish and cute selfie vibe. Glowing Skin Makeup. Complexion. Smooth semi-matte finish that resembles flawless porcelain skin with no visible pores. Very fair skin tone. Strong highlights along the bridge and tip of the nose create a defined button-nose effect. Eye Makeup. Large, round, expressive doll-like eyes. Upper lashes are extremely long, full, and dramatically curled in a spiky manga/anime style. Lower lashes are individually defined for a dramatic appearance. Wearing {argument name=\"lenses\" default=\"large light-grey circle lenses\"} with a thin black limbal ring. Thin black eyeliner follows the upper lash line, extending into a subtle outward wing. Aegyosal (Under-Eye Puff). Prominent, full aegyosal beneath the eyes for a youthful and adorable appearance. A thin brown shadow beneath the aegyosal adds depth. A shimmering white highlighter in the centre enhances volume and dimension. Blush. Bright pastel pink. Applied in the Igari (drunken blush) style, beginning beneath the eyes, spreading widely across the upper cheeks, and lightly extending over the bridge of the nose. Creates a strong, sweet, naturally flushed look. Lips. Gradient lips with a full, \"blurred lips\" effect. Soft light pink around the outer edges, blending into a deeper strawberry red at the centre. Soft semi-matte finish with a subtle natural sheen. A well-defined Cupid's bow. Her hair is very long, light golden brown, soft, healthy, glossy, and highly realistic. It falls naturally with gentle volume, featuring delicate, luminous texture and a few soft wispy strands framing her face. The overall image should feel luxurious, aesthetic, feminine, fresh, natural, and modern, like a professionally photographed selfie. It should feature high detail, soft colours, sharp focus on the face, glowing skin",
+    "title": "Korean Style Soft-Glam Car Selfie",
+    "description": "An ultra-HD selfie prompt featuring soft lighting, flawless glass skin, and manga-style spiky lashes in a modern car setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309331141_b28240_HOSH31vWQAAGp9O.jpg",
+      "https://cms-assets.youmind.com/media/1785309331719_po2ru9_HOSH4v4W8AIqErC.jpg",
+      "https://cms-assets.youmind.com/media/1785309331199_vtakxc_HOSH5pEXsAAN3An.jpg",
+      "https://cms-assets.youmind.com/media/1785309332244_9ocfyu_HOSH6mnXkAAumYb.jpg"
     ],
     "needReferenceImages": false
   },

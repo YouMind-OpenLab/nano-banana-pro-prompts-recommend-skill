@@ -1,5 +1,27 @@
 [
   {
+    "id": 30081,
+    "content": "Hyper-detailed engraved illustration style, cross-hatching and fine line pen drawing technique, {argument name=\"style\" default=\"classical engraving mixed with modern illustration\"}, ultra-dense linework forming realistic human face and upper body, tactile woven texture across skin and fabric, baroque and rococo influence, ornate clothing details, gold embroidery and chain accents, dramatic chiaroscuro lighting, {argument name=\"color palette\" default=\"muted yet bold color accents (pink, gold, blue, cream, black)\"}, painterly ink texture, vintage print aesthetic blended with {argument name=\"theme\" default=\"contemporary surreal portrait art\"}, high contrast, museum-grade detail, editorial illustration quality, dark textured background, intellectual and artistic mood.",
+    "title": "Detailed Engraved Illustration Portrait",
+    "description": "A prompt for creating hyper-detailed engraved illustrations blending classical techniques with modern surrealism and ornate Baroque details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309327409_cswc40_HOXQKVJbkAAhLoG.jpg",
+      "https://cms-assets.youmind.com/media/1785309327543_vk2k8j_HOXQK6ua0AA7I9E.jpg",
+      "https://cms-assets.youmind.com/media/1785309327518_gbr828_HOXQLg6aoAAfbMq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30079,
+    "content": "A refined, expressive fashion sketch illustration style, combining elegant, thick black ink lines with soft monochrome wash renderings. Sharp, smooth, confident black brushstrokes blend with loose, gestural sketch lines, featuring line thicknesses varying from ultra-thin hairlines to bold, expressive accents. Soft, controlled shading using subtle, cool gray watercolor strokes and light, graphite-like gradients creates a soft dimension without overwhelming contrast.\nThe color palette remains very limited: crisp white, soft neutral gray, and charcoal black, with carefully placed dark gray accents appearing only on fabrics or specific design elements.\nThe facial rendering is delicate and luminous, with soft, transparent shadows around the eyes, nose, lips, and jawline. Fine crosshatching and feathery strokes are applied sparingly to enhance depth while maintaining a clean look. The hair is rendered using flowing, energetic ink strokes with overlapping strands and a semi-abstract brush texture. The clothing is rendered in solid black!\n\nThe background is {argument name=\"background color\" default=\"deep orange\"}! The overall technique resembles a {argument name=\"illustration style\" default=\"luxurious editorial fashion illustration\"} created with ink brushes, fineliners, diluted watercolors, and graphite pencils on smooth white paper. Dynamic, unfinished sketch strokes remain visible around the silhouettes, giving the artwork a spontaneous, hand-drawn feel. High negative space, elegant minimalism, a sophisticated balance between precision and expressive sketching, no typography, no logos, no watermarks, vertical composition, 9:16 aspect ratio!",
+    "title": "Minimalist Editorial Fashion Sketch",
+    "description": "Generates a sophisticated fashion sketch using delicate black ink lines and soft monochrome washes against a vibrant background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309327858_1b2hg0_HOTfRNMXYAAVLx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29848,
     "content": "A dynamic mid-air action shot of an {argument name=\"subject\" default=\"man with short black hair and black rectangular glasses\"}, captured at the peak of a powerful jump. He is frozen in a dramatic leaping pose: body twisted slightly to the side, right leg bent sharply at the knee and pushed forward, left leg extended straight backward and downward, both feet pointed. His right arm is stretched high above his head with fingers splayed open as if reaching or balancing, while his left arm is bent close to his body with a black gloved hand tensed. He wears a {argument name=\"outfit\" default=\"tight black long-sleeve shirt, black trousers, black gloves, and black shoes\"}, with a dark jacket half-slipping off his shoulders from the force of the jump. His facial expression is intense and focused — brows furrowed, teeth slightly gritted, eyes sharp behind the glasses — conveying pure determination mixed with controlled effort.The man is suspended high in the air against a {argument name=\"background\" default=\"hazy, foggy outdoor background of distant green hills and trees under an overcast white sky\"}. Camera angle is a low-angle three-quarter shot looking slightly upward, emphasizing the height and power of the leap, with the subject filling most of the frame. Realistic physics of motion: clothing fabric and jacket flaps pulled backward by air resistance, body weight shifted forward as if he just launched from a higher surface, limbs arranged in a classic action-hero jump silhouette that shows both explosive energy and temporary weightlessness. The overall feeling is intense, cinematic, and heroic — a frozen moment of raw physical power, focus, and mid-air freedom, as if captured from an action film sequence. Highly detailed, photorealistic, sharp focus on the subject, soft atmospheric fog in the background.",
     "title": "Cinematic Mid-Air Action Shot",

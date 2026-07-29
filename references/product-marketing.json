@@ -21,22 +21,122 @@
     "needReferenceImages": true
   },
   {
-    "id": 29971,
-    "content": "Create a high-end fashion editorial photograph inspired by {argument name=\"style inspiration\" default=\"retro film photography and contemporary outdoor lifestyle editorials\"}. Capture a calm, thoughtful young woman in her early 20s with a slim build, fair skin with neutral undertones, an oval face, softly defined jawline, subtle cheekbones, a straight nose, natural lips with a muted coral tint, and straight dark eyebrows. She has smooth, shoulder-length dark brown hair styled in a center-parted straight bob tucked neatly behind her ears. Her expression is focused, with a slightly intense gaze directed over the top of the paperback book she is reading.\n\nDress her in an {argument name=\"outfit\" default=\"oversized black cardigan layered over a crisp white button-up shirt, paired with high-waisted brown wide-leg trousers secured with a black belt\"}. Complete the look with large silver over-ear headphones and amber-tinted rectangular sunglasses, creating a minimal academic aesthetic with strong vintage influences. She is lying comfortably on a lush green park lawn, viewed from a high-angle top-down perspective. One hand holds the open paperback book while the other gently adjusts her headphones. Her head is slightly raised toward the camera, giving the composition a relaxed yet artistic editorial feel.\n\nThe entire frame is filled with vibrant green grass, creating a clean and minimal outdoor setting. Shoot during daytime using soft natural sunlight from overhead, producing gentle directional shadows and a warm nostalgic atmosphere. Use a moderately shallow depth of field with subtle softness around the edges while maintaining sharp focus on the subject. Frame the image as a medium full-body portrait from directly above, combining crisp central detail with authentic vintage softness.\n\nApply cinematic analog-inspired color grading with realistic film grain, rich olive green, black, white, and dark brown tones accented by {argument name=\"highlights\" default=\"warm amber highlights, silver metallic details\"}, and natural skin tones. The final image should resemble a premium retro fashion editorial, blending timeless film photography, quiet intellectual style, outdoor reading, minimal fashion, and nostalgic analog aesthetics in a refined, artistic composition.",
-    "title": "Retro Academic Fashion Editorial",
-    "description": "A high-angle vintage-inspired portrait of a woman reading on a lawn, blending intellectual style with nostalgic film aesthetics.",
+    "id": 30077,
+    "content": "Create a high-end fashion editorial portrait of a stylish young woman in her early 20s with a slim figure, fair skin with warm-neutral undertones, and a heart-shaped face. She has a soft, defined jawline, high cheekbones, a small straight nose, full lips wearing glossy coral lipstick, thick naturally arched eyebrows, and shoulder-length light brown hair styled in soft, voluminous tousled waves with a center part. Her expression is calm and confident, with a relaxed gaze and slightly parted lips.\n\nDress her in an {argument name=\"outerwear\" default=\"oversized beige and brown plaid wool coat\"} layered over a white ruched camisole. Complete the look with rose-tinted rectangular sunglasses, gold layered chain necklaces, and classic gold hoop earrings, creating a modern retro-chic fashion aesthetic inspired by vintage Americana.\n\nPose her seated inside a classic retro diner booth, facing the camera with a relaxed lean and her head tilted slightly upward. Her hands remain naturally outside the frame, giving the composition an effortless editorial feel.\n\nSet the scene inside a nostalgic {argument name=\"setting\" default=\"American diner\"} featuring turquoise tiled walls, vintage red booth seating, retro menu boards, and classic wall décor. Use a moderately shallow depth of field to keep the subject perfectly sharp while softly blurring the background for a cinematic editorial look.\n\nLight the portrait with soft, high-contrast artificial interior lighting from a frontal overhead direction, creating glossy skin highlights, rich vibrant colours, and a nostalgic retro atmosphere. Frame the shot at eye level as a medium portrait with razor-sharp focus on the face. Finish the image with {argument name=\"finishing style\" default=\"professional editorial retouching\"}, subtle vintage-inspired colour grading, minimal noise, outstanding sharpness, and a premium magazine-quality fashion photography aesthetic.",
+    "title": "Vintage American Diner Fashion Portrait",
+    "description": "A sophisticated fashion editorial prompt set in a nostalgic American diner, focusing on retro-chic styling, turquoise tiles, and warm artificial lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785223102815_iu8gq9_HOSp5qZbsAAAq1i.jpg"
+      "https://cms-assets.youmind.com/media/1785309325664_o0jes2_HOXz3bqa4AAJfAY.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 29969,
-    "content": "A dramatic profile studio portrait of an {argument name=\"subject\" default=\"attractive South Asian woman\"} with long, voluminous layered hair featuring {argument name=\"hair colors\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
-    "title": "Dramatic Burgundy Profile Portrait",
-    "description": "A moody studio portrait featuring warm golden rim lighting and rich mahogany tones for a cinematic aesthetic.",
+    "id": 30078,
+    "content": "Create an ultra-realistic cinematic studio portrait of the person in the reference image. Preserve the person’s facial features and identity while styling them in a luxury editorial fashion. Give them a modern textured quiff hairstyle with medium-length hair, voluminous top, natural lift, slightly messy brushed-back texture, subtle side taper, clean sides, and realistic individual hair strands. Add thin silver metal aviator eyeglasses with large rounded lenses, minimalist frame, clear lenses, elegant luxury design, perfectly fitted to the face. Dress them in a {argument name=\"clothing\" default=\"tailored black suit, crisp white dress shirt, and black tie\"}. Pose them looking directly into the camera with a calm, confident, serious expression. Use {argument name=\"lighting\" default=\"dramatic low-key studio lighting\"} with a single large octabox positioned 45° above the subject, classic Rembrandt lighting, deep cinematic shadows, subtle rim light around the hair and shoulders, black seamless background, {argument name=\"color grading\" default=\"high contrast black-and-white grading\"}, rich tonal range, crisp eyes with natural catchlights, highly detailed skin texture, realistic pores, subtle facial hair detail, shallow depth of field, Leica SL2 with APO-Summicron 90mm lens, f/2.2, ISO 100, HDR, editorial fashion photography, timeless Hollywood portrait, museum-quality, photorealistic, ultra-sharp, 8K resolution, masterpiece.\n\nNegative Prompt\n\ncartoon, anime, illustration, CGI, plastic skin, beauty filter, overprocessed skin, blurry, low quality, low resolution, distorted face, asymmetrical eyes, duplicate face, extra glasses, oversized glasses, thick frames, text, watermark, logo, cropped head, poor lighting, noisy image, unrealistic hair, exaggerated hairstyle, overexposed, underexposed",
+    "title": "Cinematic Black and White Studio Portrait",
+    "description": "An ultra-realistic prompt for high-contrast, black-and-white editorial fashion portraits using Rembrandt lighting for a timeless Hollywood aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785223102152_170ioy_HOSnER8WMAAgvAE.jpg"
+      "https://cms-assets.youmind.com/media/1785309326800_fsppzj_HOXtq5YbwAARcUe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30089,
+    "content": "A {argument name=\"object\" default=\"teacup\"} on a {argument name=\"surface\" default=\"saucer\"} is placed in front of {argument name=\"subject\" default=\"her\"}.",
+    "title": "Character Interaction Prop Addition",
+    "description": "A simple instruction to add a specific object, like a teacup on a saucer, in front of a character during an image redraw.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309334039_ahrq4r_HOW3B0xbUAAYNWx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30088,
+    "content": "High-end 3D render aesthetic with hyper-realistic {argument name=\"material\" default=\"vinyl/latex\"} texture and soft diffused studio lighting.",
+    "title": "Hyper-Realistic 3D Vinyl Aesthetic",
+    "description": "Creates a high-end 3D render with a focus on hyper-realistic textures like vinyl or latex, featuring soft diffused studio lighting for a premium product photography look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309333524_003lyl_HOVVOX2bAAA3oQV.jpg",
+      "https://cms-assets.youmind.com/media/1785309333534_d59m1t_HOVVPAXbIAAdnXa.jpg",
+      "https://cms-assets.youmind.com/media/1785309333558_cdihvd_HOVVPqQagAADGYL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30073,
+    "content": "90s fashion beauty portrait, ultra realistic close-up of a young woman wearing a {argument name=\"outfit\" default=\"fluffy light beige fur hat and a matching fluffy fur coat\"}, {argument name=\"hairstyle\" default=\"long glossy Hollywood waves\"}, light tan skin, soft peach blush, groomed brows, eyeliner and long lashes. Thin metal aviator eyeglasses, black leather gloves; one gloved hand adjusts the glasses near her forehead. Natural relaxed mouth expression, calm confident look to camera. Clean white studio background, strong frontal flash, crisp shadows, slightly bright highlights, glossy magazine style, {argument name=\"vibe\" default=\"90s fashion editorial vibe\"}. Shot on Nikon D850, 85mm lens, ISO 100, very high detail in skin and hair, realistic texture, 8K, Kodak Portra 160 film look, warm tones, minimal grain, subtle vignette.",
+    "title": "Nineties Fashion Fur Hat Portrait",
+    "description": "A high-fashion 90s beauty portrait prompt featuring a fur hat and coat with a glossy magazine aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309321587_bhauz4_HOUTTywXIAAu6Ft.jpg",
+      "https://cms-assets.youmind.com/media/1785309321582_nnq12g_HOUTUqSXwAE35pH.jpg",
+      "https://cms-assets.youmind.com/media/1785309321668_8x2lbf_HOUTVo-XEAAh-jX.jpg",
+      "https://cms-assets.youmind.com/media/1785309322508_ihc0cj_HOUTXHjWcAAQPZV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30066,
+    "content": "Subject: {argument name=\"subject description\" default=\"A strong late-20s man\"}. Clothing: {argument name=\"clothing\" default=\"Dark grey breathable tank top, black tapered athletic joggers\"}. Footwear: Minimalist cross-training sneakers. Accessories: Sweatband on the wrist, gym towel draped over the neck. Pose: {argument name=\"pose\" default=\"Standing next to a heavy squat rack, taking a deep breath, hands on his hips\"}. Camera Setup: Canon EOS R3, 85mm lens, f/2.5, gym fluorescent lighting with some fill. Angle of Capture: Close-up, medium shot. Setting: Modern, industrial-style gym interior. Lighting/Mood/Time of Day: Intense, focused lighting, motivational and strong mood. Style and Finish: Fitness editorial, high contrast, sweat detail, clean composition.\nKEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO\nNegative Prompt 14: Extra weights, blurry background, missing muscles, poor quality, ugly, cartoon, painting, bad perspective, watermark, extra people, beige turtleneck.",
+    "title": "Strong Man Gym Fitness Portrait",
+    "description": "A detailed prompt for generating a professional fitness editorial portrait of a muscular man in an industrial gym setting, designed to preserve facial features from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309316493_a1pxvv_HOT-5JaW8AAnGkf.jpg",
+      "https://cms-assets.youmind.com/media/1785309318064_8kcjxj_HOT-5K-WAAAUca8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30079,
+    "content": "A refined, expressive fashion sketch illustration style, combining elegant, thick black ink lines with soft monochrome wash renderings. Sharp, smooth, confident black brushstrokes blend with loose, gestural sketch lines, featuring line thicknesses varying from ultra-thin hairlines to bold, expressive accents. Soft, controlled shading using subtle, cool gray watercolor strokes and light, graphite-like gradients creates a soft dimension without overwhelming contrast.\nThe color palette remains very limited: crisp white, soft neutral gray, and charcoal black, with carefully placed dark gray accents appearing only on fabrics or specific design elements.\nThe facial rendering is delicate and luminous, with soft, transparent shadows around the eyes, nose, lips, and jawline. Fine crosshatching and feathery strokes are applied sparingly to enhance depth while maintaining a clean look. The hair is rendered using flowing, energetic ink strokes with overlapping strands and a semi-abstract brush texture. The clothing is rendered in solid black!\n\nThe background is {argument name=\"background color\" default=\"deep orange\"}! The overall technique resembles a {argument name=\"illustration style\" default=\"luxurious editorial fashion illustration\"} created with ink brushes, fineliners, diluted watercolors, and graphite pencils on smooth white paper. Dynamic, unfinished sketch strokes remain visible around the silhouettes, giving the artwork a spontaneous, hand-drawn feel. High negative space, elegant minimalism, a sophisticated balance between precision and expressive sketching, no typography, no logos, no watermarks, vertical composition, 9:16 aspect ratio!",
+    "title": "Minimalist Editorial Fashion Sketch",
+    "description": "Generates a sophisticated fashion sketch using delicate black ink lines and soft monochrome washes against a vibrant background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309327858_1b2hg0_HOTfRNMXYAAVLx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30067,
+    "content": "{argument name=\"subject\" default=\"An adult male\"} stands confidently with a 45-degree turn to the right, his weight centered and shoulders level, dressed in {argument name=\"clothing\" default=\"a sleek, all-black button-down shirt and trousers\"}. His deliberately posed expression exudes a calm sophistication, featuring relaxed eyebrows, a neutral, unsmiling mouth, and a gaze directed away from the camera. His relaxed left hand is tucked casually into his trouser pocket with the thumb resting outside, displaying a silver watch with a crisp white dial on his wrist, while his right hand holds a partially obscured black leather clutch at hip level. He is situated in a {argument name=\"setting\" default=\"deep, layered Mediterranean-style courtyard at night\"}, standing on a solid dark grey concrete floor. In the immediate left foreground, a thriving, dominant olive tree with a knotted, thick trunk and dense foliage anchors the asymmetric composition, while a pristine midground reflecting pool with dark water perfectly mirrors the environment below. In the background to the right, a pristine building facade rises, constructed of perfectly smooth, matte warm-white plaster that transitions in a subtle gradient, detailed with clean white columns, geometric cutouts, and recessed windows fitted with wooden lattice screens. An upscale evening ambiance permeates the space, defined by an analogous color palette of deep blacks, warm whites, and rich olive greens. Multiple artificial light sources bathe the scene in a warm, golden glow, combining uplighting at the base of the olive tree, moderately directional, diffused frontal hard light from above, and glowing interior architectural lights. This moody, high-contrast setup casts short, dramatic, deep black shadows under the man's jaw, behind the tree, and within the recessed architectural cutouts, while careful highlights are preserved on the subject's face, the metallic watch face, the textured tree trunk, and the smooth white columns. Captured straight on as realistic digital photography with a contemporary luxury editorial influence, the image utilizes a medium depth of field to render the background architecture slightly soft, finished with warm color grading, lifted shadows, and a grainy texture exhibiting moderate digital noise appropriate for low-light conditions, all seamlessly framed in a 4:5 aspect ratio.",
+    "title": "Sophisticated Mediterranean Night Portrait",
+    "description": "A high-contrast, moody editorial prompt for a male subject in a Mediterranean courtyard at night, emphasizing lighting and textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309318073_ofjgkv_HNgPtgTWIAAVJ-0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30074,
+    "content": "A {argument name=\"subject\" default=\"beautiful young East Asian woman\"} with long wavy black hair, soft makeup, bright smile showing teeth, looking at the camera. She is wearing a {argument name=\"clothing\" default=\"tight black sleeveless tank top\"} and black high-waisted athletic shorts. She is leaning casually against a dark wooden counter with one knee bent, wearing white ankle socks. Her right hand is raised near her chin with a silver ring on her finger and a thin gold bracelet on her wrist. In her left hand she holds a white paper bubble-tea cup with a blue circular logo containing Chinese characters and a black straw. Behind her on the counter are a shiny silver tote bag with bold black text “HEYING BAMAY” and a beige handbag. {argument name=\"setting\" default=\"Indoor café setting\"} with warm wood-paneled walls, soft natural lighting, realistic photography style, full body shot from mid-thigh up.",
+    "title": "East Asian Woman Bubble Tea Cafe Portrait",
+    "description": "A realistic photography prompt for a young woman in an indoor café setting, holding a bubble tea cup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309323220_8zh0u9_HON1Ne5bwAAz8R8.jpg",
+      "https://cms-assets.youmind.com/media/1785309322508_6mt5ml_HON1NfAawAARWvT.jpg",
+      "https://cms-assets.youmind.com/media/1785309322542_3i6p5j_HON1NezbUAAp1O2.jpg",
+      "https://cms-assets.youmind.com/media/1785309323407_nunvy6_HON1NfWakAAa52w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29962,
+    "content": "A full-length cinematic portrait of a {argument name=\"subject\" default=\"young East Asian woman with short dark hair\"}, wearing a {argument name=\"outfit\" default=\"silky emerald green floral slip dress\"} cinched with a brown belt, paired with brown suede ankle boots. She is standing gracefully in a {argument name=\"location\" default=\"sunlit historic stone courtyard\"}, leaning against an ancient stone archway covered in hanging wisteria blossoms. On the textured stone wall next to her, a whimsical black-ink sketch of a winged griffin inside a cloud with floating stars appears as if drawn directly onto the stone. She holds a vintage leather-bound book and a pen, gazing dreamily upwards with a soft, thoughtful smile. The warm, golden hour sunlight casts gentle shadows and a magical glow across the cobblestone ground and lush garden background.",
+    "title": "Emerald Dress Wisteria Courtyard Portrait",
+    "description": "A whimsical cinematic portrait combining a realistic subject in a floral dress with hand-drawn stone doodles in a sunlit historic courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309330926_z64wz7_HOS7BhRXgAAhFv8.jpg",
+      "https://cms-assets.youmind.com/media/1785309330641_0fvjsg_HOS7GrpWkAAqsSL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29971,
+    "content": "Create a high-end fashion editorial photograph inspired by retro film photography and contemporary outdoor lifestyle editorials. Capture a calm, thoughtful young woman in {argument name=\"age group\" default=\"her early 20s\"} with a slim build, fair skin with neutral undertones, an oval face, softly defined jawline, subtle cheekbones, a straight nose, natural lips with a muted coral tint, and straight dark eyebrows. She has smooth, shoulder-length dark brown hair styled in a center-parted straight bob tucked neatly behind her ears. Her expression is focused, with a slightly intense gaze directed over the top of the paperback book she is reading.\n\nDress her in an {argument name=\"clothing item\" default=\"oversized black cardigan\"} layered over a crisp white button-up shirt, paired with high-waisted brown wide-leg trousers secured with a black belt. Complete the look with large silver over-ear headphones and amber-tinted rectangular sunglasses, creating a minimal academic aesthetic with strong vintage influences. She is lying comfortably on a lush green park lawn, viewed from a high-angle top-down perspective. One hand holds the open paperback book while the other gently adjusts her headphones. Her head is slightly raised toward the camera, giving the composition a relaxed yet artistic editorial feel.\n\nThe entire frame is filled with vibrant green grass, creating a clean and minimal outdoor setting. Shoot during daytime using soft natural sunlight from overhead, producing gentle directional shadows and a warm nostalgic atmosphere. Use a moderately shallow depth of field with subtle softness around the edges while maintaining sharp focus on the subject. Frame the image as a medium full-body portrait from directly above, combining crisp central detail with authentic vintage softness.\n\nApply cinematic analog-inspired color grading with realistic film grain, rich olive green, black, white, and dark brown tones accented by warm amber highlights, silver metallic details, and natural skin tones. The final image should resemble a {argument name=\"overall aesthetic\" default=\"premium retro fashion editorial\"}, blending timeless film photography, quiet intellectual style, outdoor reading, minimal fashion, and nostalgic analog aesthetics in a refined, artistic composition.",
+    "title": "Retro Film Fashion Editorial Park Portrait",
+    "description": "A detailed prompt for generating a high-end fashion editorial photograph inspired by retro film photography, featuring a young woman reading in a lush green park with a high-angle perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309325501_ql4dd0_HOSp5qZbsAAAq1i.jpg"
     ],
     "needReferenceImages": false
   },

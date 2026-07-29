@@ -13,6 +13,32 @@
     "needReferenceImages": true
   },
   {
+    "id": 30083,
+    "content": "A captivating oil painting portrait of a woman with {argument name=\"hair style\" default=\"long, dark, wavy hair\"} and expressive {argument name=\"eye color\" default=\"green-hazel\"} eyes, wearing a {argument name=\"clothing\" default=\"textured light-colored shirt\"}. The art style features thick, visible impasto brushstrokes and heavy palette knife textures, creating a dimensional, tactile feel. The background is a dynamic mix of deep blues, ochres, and golden-browns with expressive, abstract strokes. The lighting highlights the warm skin tones, rosy cheeks, and soft pink lips, conveying a moody yet elegant atmosphere.",
+    "title": "Textured Impasto Oil Portrait",
+    "description": "A prompt for a captivating oil painting portrait featuring thick impasto brushstrokes, palette knife textures, and a moody, elegant atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309328974_cflb2u_HOTNjSmXwAAJE_T.jpg",
+      "https://cms-assets.youmind.com/media/1785309328970_q66lnh_HOTNkO3WMAARVtx.jpg",
+      "https://cms-assets.youmind.com/media/1785309328954_9e1de3_HOTNlPhXcAA_xXr.jpg",
+      "https://cms-assets.youmind.com/media/1785309329786_v8e73c_HOTNmF3X0AA4gOV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30085,
+    "content": "DRIFTPLANE EXPOSURE\n\nRewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Write in the user's language, preserve exact text, and keep requested or source ratio.\n\nUse three systems. Plane Field fixes structure through blue or cyan planes, silhouettes, horizons, reflection, shadow, and negative space. Exposure Drift records elapsed motion through smear, ghosting, blur, edge loss, color drag, and displaced light. Signal Trace marks the event with one warm or green accent where motion, contact, or reflection leaves evidence.\n\nDo not make a blurry night photo or clean blue poster. Determine subject, plane anchor, moving force, drift direction, trace source, receiver, consequence, contact sites, and quiet region.\n\nPreserve subject, count, identity, action, setting, clothing, objects, colors, text, and references. For edits, preserve unrequested content. Use style references only for blur, color drag, blue geometry, shadow, reflection, and negative space. Do not copy people, cups, dogs, houses, boats, trees, or grid.\n\nPlane Field needs one blue family, crisp boundaries, scale, and plausible material. Reflections belong only to water, glass, floor, or metal. Shadows follow the receiving plane.\n\nExposure Drift needs cause and direction. It may come from walking, vehicle motion, handheld shake, wind, water, smoke, light sweep, heat, crowd flow, or subject movement. Keep one drift axis. Do not blur every object. Stable anchors stay readable.\n\nSignal Trace may be red, orange, amber, green, or warm white. It must attach to a source, reflection, object, moving body, or contact mark. No random neon, full-frame wash, or duplicated limbs.\n\nUse one sharp plane, one drift field, one trace accent, one focal contact, and clear negative space. Remove repetition, praise, mood labels, prestige terms, fake technical detail, generic defects, and alternatives. Use concrete nouns and active verbs. No em dash or en dash.\n\nGPT: return 500 to 800 words in five paragraphs covering scene, subjects, plane field, drift, trace, contacts, composition, preservation, text, and failures.\n\nNANO: return valid JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"plane_field\", \"exposure_drift\", \"signal_trace\", \"contact_sites\", \"composition\", \"surface_and_optics\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, comments.\n\nReturn only the finished prompt.",
+    "title": "Driftplane Exposure System Prompt",
+    "description": "A meta system prompt used to instruct LLMs on how to generate stylized image prompts for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785309331221_wnan6c_HOSKsNDWoAA6Mim.jpg",
+      "https://cms-assets.youmind.com/media/1785309331108_kufg4j_HOSKsNBWwAAfLYB.jpg",
+      "https://cms-assets.youmind.com/media/1785309331185_c5r3op_HOSKsNFWkAA1YyE.jpg",
+      "https://cms-assets.youmind.com/media/1785309332139_qc0rtk_HOSKsNHXoAAaC5r.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29839,
     "content": "A {argument name=\"setting\" default=\"quiet library\"} and a {argument name=\"style\" default=\"bright red traditional look\"}. A love for books & style.",
     "title": "Quiet Library and Traditional Style Portrait",
