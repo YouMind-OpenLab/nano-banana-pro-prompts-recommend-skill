@@ -1,5 +1,18 @@
 [
   {
+    "id": 30216,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\"subject description\" default=\"A beautiful young woman with long, vibrant blonde hair, fair skin, and striking features. She has a curvaceous, toned figure.\"}\",\n    \"pose\": \"{argument name=\"pose\" default=\"Sitting on outdoor stairs, one leg raised and bent, the other extended, looking at the camera with a confident expression. One hand resting on the step beside her.\"}\",\n    \"clothing\": {\n      \"main\": \"{argument name=\"clothing\" default=\"Black short-sleeve top with gold accents and deep neckline, metallic gold mini skirt, patterned black pantyhose, and gold platform high heels.\"}\",\n      \"modifications\": \"Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her top or skirt, subtly visible.\"\n    }\n  },\n  \"setting\": {\n    \"environment\": \"Apocalyptic destroyed Paris city. She is sitting on weathered concrete stairs amid ruined buildings, debris, half tour Eiffel and a desolate urban landscape.\",\n    \"lighting\": \"Dramatic natural daylight with strong shadows.\"\n  },\n  \"style\": {\n    \"photography\": \"Realistic, high-resolution fashion portrait with sharp details on skin, hair, fabric, and the ruined city background.\",\n    \"mood\": \"Bold, confident, and post-apocalyptic.\",\n    \"composition\": \"Full-body shot emphasizing the pose against the destroyed cityscape.\"\n  },\n  \"full_prompt\": \"Photorealistic portrait of a beautiful blonde-haired woman sitting on concrete stairs in an apocalyptic destroyed Paris cityscape. She wears a black top with gold accents and deep neckline, metallic gold mini skirt, patterned black pantyhose, and gold platform heels. Add small elegant 'Keor' embroidery on the border of her outfit. Dramatic daylight, highly detailed skin, hair, fabric, and ruined urban background textures.\"\n}",
+    "title": "Post-apocalyptic Fashion Portrait in Paris",
+    "description": "A sophisticated structured prompt for generating a high-fashion portrait of a woman in a destroyed Parisian cityscape, including ruins of the Eiffel Tower.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395944216_6rdone_HOZZKbjXMAEvNWf.jpg",
+      "https://cms-assets.youmind.com/media/1785395944260_1a2bhy_HOZZKbkWUAAc4Dg.jpg",
+      "https://cms-assets.youmind.com/media/1785395944260_anhjjf_HOZZKbiXgAAq_m9.jpg",
+      "https://cms-assets.youmind.com/media/1785395945285_qi2pte_HOZZKbsXoAA1t2L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29841,
     "content": "{argument name=\"subject\" default=\"Avengers: Doomsday\"} but into a hyper-realistic glossy 3D CGI caricature masterpiece.",
     "title": "Avengers CGI Caricature",

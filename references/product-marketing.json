@@ -21,12 +21,132 @@
     "needReferenceImages": true
   },
   {
-    "id": 30077,
-    "content": "Create a high-end fashion editorial portrait of a stylish young woman in her early 20s with a slim figure, fair skin with warm-neutral undertones, and a heart-shaped face. She has a soft, defined jawline, high cheekbones, a small straight nose, full lips wearing glossy coral lipstick, thick naturally arched eyebrows, and shoulder-length light brown hair styled in soft, voluminous tousled waves with a center part. Her expression is calm and confident, with a relaxed gaze and slightly parted lips.\n\nDress her in an {argument name=\"outerwear\" default=\"oversized beige and brown plaid wool coat\"} layered over a white ruched camisole. Complete the look with rose-tinted rectangular sunglasses, gold layered chain necklaces, and classic gold hoop earrings, creating a modern retro-chic fashion aesthetic inspired by vintage Americana.\n\nPose her seated inside a classic retro diner booth, facing the camera with a relaxed lean and her head tilted slightly upward. Her hands remain naturally outside the frame, giving the composition an effortless editorial feel.\n\nSet the scene inside a nostalgic {argument name=\"setting\" default=\"American diner\"} featuring turquoise tiled walls, vintage red booth seating, retro menu boards, and classic wall décor. Use a moderately shallow depth of field to keep the subject perfectly sharp while softly blurring the background for a cinematic editorial look.\n\nLight the portrait with soft, high-contrast artificial interior lighting from a frontal overhead direction, creating glossy skin highlights, rich vibrant colours, and a nostalgic retro atmosphere. Frame the shot at eye level as a medium portrait with razor-sharp focus on the face. Finish the image with {argument name=\"finishing style\" default=\"professional editorial retouching\"}, subtle vintage-inspired colour grading, minimal noise, outstanding sharpness, and a premium magazine-quality fashion photography aesthetic.",
-    "title": "Vintage American Diner Fashion Portrait",
-    "description": "A sophisticated fashion editorial prompt set in a nostalgic American diner, focusing on retro-chic styling, turquoise tiles, and warm artificial lighting.",
+    "id": 30205,
+    "content": "A beautiful young East Asian woman with fair skin and soft makeup, long black hair styled in a {argument name=\"hair style\" default=\"side braid\"} cascading over her left shoulder, gentle closed-mouth smile looking at the camera. She is wearing a {argument name=\"outfit\" default=\"tight black off-the-shoulder mini dress\"} with ruffled short sleeves, standing in a slight three-quarter pose with her left hand lightly touching her braid. Delicate thin necklace with a small pendant. Soft natural daylight. Background: beige textured wall, blue-framed window, wooden wall sign with a cartoon dog illustration and text “with best friend pet friendly zone”, hanging industrial light bulb, light wooden table with a small white handbag featuring a pink bow and pearl-beaded handle, blue metal folding chairs. Outdoor café patio setting, realistic photography, sharp details, natural skin texture, cinematic lighting.",
+    "title": "East Asian Woman in Café",
+    "description": "A realistic photography prompt of a young East Asian woman at an outdoor café patio with soft natural daylight.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785309325664_o0jes2_HOXz3bqa4AAJfAY.jpg"
+      "https://cms-assets.youmind.com/media/1785395932551_bc4fen_HOcq0tCb0AARWsP.jpg",
+      "https://cms-assets.youmind.com/media/1785395932633_pqodjg_HOcq0tXaUAEHbZ0.jpg",
+      "https://cms-assets.youmind.com/media/1785395932572_bub7bw_HOcq0tDaoAA6DkZ.jpg",
+      "https://cms-assets.youmind.com/media/1785395933743_ko4sfr_HOcq0tbboAABf0Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30208,
+    "content": "{\n  \"subject\": \"{argument name=\"subject\" default=\"A stunning young woman in her mid-20s with warm medium skin tone, long voluminous dark hair dramatically blowing to the side, soft closed eyes, full lips with glossy finish, and elegant facial features.\"}\",\n  \"body\": \"Curvaceous figure with defined waist and smooth glowing skin.\",\n  \"outfit\": \"{argument name=\"clothing\" default=\"Sparkly silver-and-black zebra print sequined halter top with lace trim along the bust, paired with a tight black satin mini skirt\"}\",\n  \"pose\": \"Standing against a plain wall, body slightly angled, head tilted downward with eyes closed, one hand lightly resting near her hip, hair caught in motion.\",\n  \"expression\": \"Soft, sensual, and dreamy expression with closed eyes and parted lips.\",\n  \"lighting\": \"Soft studio lighting with directional side light creating dramatic shadows on the wall and beautiful highlights on the sequins and skin.\",\n  \"setting\": \"Minimalist studio with a plain light gray wall, clean and focused composition.\",\n  \"style\": \"Photorealistic, ultra-detailed 8k, cinematic fashion portrait, realistic sequin sparkle and fabric textures, sharp focus on subject, high-end editorial photography.\",\n  \"camera\": \"{argument name=\"camera\" default=\"Shot on Sony A7R V, 85mm lens, f/2.0, natural depth of field\"}\",\n  \"mood\": \"Sensual, glamorous, dramatic, and stylish\"\n}",
+    "title": "Zebra Print Sequined Portrait",
+    "description": "A highly detailed, cinematic fashion portrait prompt featuring a zebra print sequined top and dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395934994_l1n7et_HOcLQeRaYAAF-13.jpg",
+      "https://cms-assets.youmind.com/media/1785395936679_ussq1q_HOcLRIRbgAAKW86.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30203,
+    "content": "Product studio transformation, {argument name=\"action\" default=\"isolate the product from the reference image\"} and {argument name=\"result\" default=\"rebuild as a premium ad composition\"}, hero product centered and sharply in focus, surrounded by its {argument name=\"elements\" default=\"key ingredients\"}.",
+    "title": "Premium Product Studio Transformation",
+    "description": "A specialized prompt for transforming basic product images into premium studio-quality advertisements by isolating the subject and adding ingredients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395931720_sg9gkn_HObh9mRbwAA57-W.jpg",
+      "https://cms-assets.youmind.com/media/1785395931718_flsyoo_HObh9mQbIAIvXFC.jpg",
+      "https://cms-assets.youmind.com/media/1785395931767_19lf57_HObh9mRaYAAvtW9.jpg",
+      "https://cms-assets.youmind.com/media/1785395933387_pah7on_HObh9mUbUAAXWfu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30217,
+    "content": "A confident young male model stands centered and facing the camera in a deliberately posed, sophisticated stance, wearing {argument name=\"eyewear\" default=\"high-contrast dark sunglasses\"} and a {argument name=\"shirt\" default=\"black V-neck polo shirt\"}. His posture is upright with level shoulders and centered weight, his arms crossed with his right hand relaxed, resting gently on a surface while holding a draped dark cardigan. His facial expression is cool and detached, featuring a neutral mouth and relaxed features beneath the stark eyewear. He is positioned indoors within a shallow spatial depth against a {argument name=\"background\" default=\"pristine, perfectly smooth matte pure white painted drywall\"}. To the left, crisp rectangular wall molding paneling adds architectural detail, while a pristine white painted wood radiator cover with vent holes anchors the bottom background, all rendered in tack-sharp focus. The scene is bathed in highly directional, bright, and hard artificial light from a single front source, simulating near-axis strobe flash photography. This creates a dramatic, high-contrast monochromatic atmosphere devoid of ambient fill, casting a harsh, defined, deep black shadow of medium length directly onto the white wall behind him while leaving brilliant specular highlights on his face. Captured as a tack-sharp digital photograph with a realistic, perfectly smooth, grain-free texture, the image channels high-fashion editorial aesthetics with camera settings reflecting f/8, 1/200s, and ISO 100, refined by a stark black-and-white conversion with pushed clarity and shadow clipping, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Monochromatic Editorial Male Portrait",
+    "description": "A high-fashion black and white portrait prompt for a male model in a polo shirt, focusing on harsh strobe lighting and clean architectural backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395945302_yt439n_HOavVihbUAA2Rqc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30198,
+    "content": "A confident {argument name=\"subject\" default=\"young male model\"} stands centered and facing the camera in a deliberately posed, sophisticated stance, wearing {argument name=\"accessories\" default=\"high-contrast dark sunglasses and a black V-neck polo shirt\"}. His posture is upright with level shoulders and centered weight, his arms crossed with his right hand relaxed, resting gently on a surface while holding a draped dark cardigan. His facial expression is cool and detached, featuring a neutral mouth and relaxed features beneath the stark eyewear. He is positioned indoors within a shallow spatial depth against a {argument name=\"background\" default=\"pristine, perfectly smooth matte pure white painted drywall\"}. To the left, crisp rectangular wall molding paneling adds architectural detail, while a pristine white painted wood radiator cover with vent holes anchors the bottom background, all rendered in tack-sharp focus. The scene is bathed in highly directional, bright, and hard artificial light from a single front source, simulating near-axis strobe flash photography. This creates a dramatic, high-contrast monochromatic atmosphere devoid of ambient fill, casting a harsh, defined, deep black shadow of medium length directly onto the white wall behind him while leaving brilliant specular highlights on his face. Captured as a tack-sharp digital photograph with a realistic, perfectly smooth, grain-free texture, the image channels high-fashion editorial aesthetics with camera settings reflecting f/8, 1/200s, and ISO 100, refined by a stark black-and-white conversion with pushed clarity and shadow clipping, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "High-Fashion B&W Male Model Portrait",
+    "description": "A sharp black-and-white editorial portrait of a male model using hard strobe lighting and architectural backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395927596_7ui81x_HNgQAHRXIAAyb8-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30196,
+    "content": "Luxury skincare product advertisement featuring a {argument name=\"product\" default=\"cosmetic cleanser bottle\"} as the hero subject, placed at the center on a {argument name=\"surface\" default=\"fluffy pastel faux-fur surface\"} with a glossy mirror reflection. The background should have dreamy pastel gradients in lavender, soft pink, peach, and cream with cinematic golden bokeh lights and volumetric glow. Add elegant vanity props including a pearl necklace, jewelry box, scented candle, baby's breath flowers, and a vintage vanity mirror. Use soft warm diffused lighting with subtle rim light, shallow depth of field, creamy bokeh, and ultra-realistic commercial product photography. Include cute hand-drawn doodle arrows, sparkles, hearts, and premium handwritten typography with the headline \"{argument name=\"headline\" default=\"Glowy Skin In A Bottle\"}\", subheading \"Nourish • Hydrate • Glow\", and supporting text \"For Soft, Smooth & Glowing Skin\" and \"Self Care Everyday\". Photorealistic, luxury beauty campaign, premium cosmetic branding, highly detailed textures, realistic reflections, HDR, 85mm macro lens, f/2.0, professional studio lighting, commercial advertising, ultra-realistic 4K, 9:16 vertical composition.",
+    "title": "Luxury Skincare Product Advertisement",
+    "description": "A professional-grade commercial product photography prompt for skincare, featuring pastel gradients and elegant vanity props.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395926456_zzcbo7_HOZgUU0akAAHGom.jpg",
+      "https://cms-assets.youmind.com/media/1785395926222_khyusm_HOZgVdJbYAA1Z2C.jpg",
+      "https://cms-assets.youmind.com/media/1785395926430_5583dl_HOZgb19agAA0RR7.jpg",
+      "https://cms-assets.youmind.com/media/1785395927347_kimstn_HOZgdRPbIAADPZW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30218,
+    "content": "Create a high-end 4:3 fragrance pitch deck storyboard in {argument name=\"grid layout\" default=\"3x4 grid (12 frames)\"}, editorial layout, {argument name=\"aesthetic style\" default=\"Aesop/Byredo style\"}, {argument name=\"color palette\" default=\"beige + lavender palette\"}. Structured flow: intro → ritual → transformation → resolution → closure.",
+    "title": "Luxury Fragrance Storyboard Layout",
+    "description": "An editorial storyboard for a high-end fragrance pitch deck, using a structured 12-frame grid with a minimalist Aesop-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395946850_0l0c8y_HOZO-oVacAAHLvJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30194,
+    "content": "A high-resolution, ultra-realistic realistic photograph of a beautiful young woman sitting at an {argument name=\"location\" default=\"outdoor Parisian café table\"}. She is wearing a {argument name=\"outfit\" default=\"light pink corset dress with thin shoulder straps\"}. In one hand, she is holding a white coffee mug as coffee dramatically splashes upward into the air with detailed frozen liquid droplets and splash dynamics. In her other hand, she holds a freshly baked golden croissant. The background features vibrant pink bougainvillea flowers crawling over a rustic stone wall, with classic European architecture and warm, golden hour sunlight creating soft bokeh. Shot on 85mm lens, f/1.8, cinematic lighting, sharp detail, photorealistic.",
+    "title": "Parisian Café Coffee Splash",
+    "description": "A high-speed photography style prompt capturing a coffee splash in a Parisian café setting at golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395925422_25gzgk_HOY_3RuagAAgL2-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30215,
+    "content": "A full-length portrait captures a male model with {argument name=\"features\" default=\"dark hair and a well-groomed beard\"}, striking a confident, guarded stance in the center-right of the frame. He is dressed in {argument name=\"style\" default=\"minimalist dark academia urban street style\"}, wearing a long, tailored black overcoat over a crisp white shirt, paired with black trousers and chunky black loafers. His body is angled forty-five degrees to the left, leaning slightly back with centered weight and level shoulders, while his head turns further left, his eyes completely obscured by dark sunglasses above a closed, neutral mouth. His relaxed left hand is raised to chest level revealing a sleek silver watch on his wrist, while his right hand remains entirely concealed within the deep right pocket of his overcoat. The scene unfolds against an asymmetrically balanced outdoor setting of a pristine modern urban building, where wide, dark grey stone foreground stairs on the bottom left, framed by black metal handrails and holding a solitary fallen yellow leaf, lead the eye upward. The midground is dominated by a sleek architectural facade featuring perfectly smooth, dark charcoal grey matte composite cladding with clean grid lines, black metal balcony railings and modern black outdoor planters. The model stands on grey concrete pavement marked by a large rectangular grid pattern. A slightly blurred background introduces medium spatial depth on the right, showcasing a weathered tall pine tree alongside dormant deciduous trees with bare branches, framing an aged building with brown and orange paneling and standard rectangular windows in the top right distance. An overcast sky casts {argument name=\"lighting\" default=\"moody, mysterious, and sophisticated illumination\"} from a single diffused light source directly above, washing the scene in a cool, blue-tinted ambient fill that creates a soft, flat, low-contrast, and deeply desaturated monochromatic color palette. Soft, gradual short grey shadows pool beneath the subject and the building balconies, while subtle specular highlights gently catch on his forehead, his raised left hand, his metallic watch, and the dark frames of his sunglasses. Captured through realistic digital photography from a low-angle perspective, the composition isolates the tack-sharp subject with a medium depth of field, bringing a matte texture and moderate digital noise to the image, enhanced by post-processing that lifts crushed blacks for a faded shadow look, clarifies structural lines, and applies a cool white balance bias, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Dark Academia Urban Street Male Portrait",
+    "description": "A detailed dark academia street style portrait prompt for male models, featuring sophisticated architectural backgrounds and moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395942434_0j0lai_HOYlS_xbcAAylFS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30210,
+    "content": "A full-length portrait captures a male model with {argument name=\"hair and beard\" default=\"dark hair and a well-groomed beard\"}, striking a confident, guarded stance in the center-right of the frame. He is dressed in {argument name=\"style\" default=\"minimalist dark academia urban street style\"}, wearing a long, tailored black overcoat over a crisp white shirt, paired with black trousers and chunky black loafers. His body is angled forty-five degrees to the left, leaning slightly back with centered weight and level shoulders, while his head turns further left, his eyes completely obscured by dark sunglasses above a closed, neutral mouth. His relaxed left hand is raised to chest level revealing a sleek silver watch on his wrist, while his right hand remains entirely concealed within the deep right pocket of his overcoat. The scene unfolds against an asymmetrically balanced outdoor setting of a pristine modern urban building, where wide, dark grey stone foreground stairs on the bottom left, framed by black metal handrails and holding a solitary fallen yellow leaf, lead the eye upward. The midground is dominated by a sleek architectural facade featuring perfectly smooth, dark charcoal grey matte composite cladding with clean grid lines, black metal balcony railings and modern black outdoor planters. The model stands on grey concrete pavement marked by a large rectangular grid pattern. A slightly blurred background introduces medium spatial depth on the right, showcasing a weathered tall pine tree alongside dormant deciduous trees with bare branches, framing an aged building with brown and orange paneling and standard rectangular windows in the top right distance. An overcast sky casts {argument name=\"mood\" default=\"moody, mysterious, and sophisticated\"} illumination from a single diffused light source directly above, washing the scene in a cool, blue-tinted ambient fill that creates a soft, flat, low-contrast, and deeply desaturated monochromatic color palette. Soft, gradual short grey shadows pool beneath the subject and the building balconies, while subtle specular highlights gently catch on his forehead, his raised left hand, his metallic watch, and the dark frames of his sunglasses. Captured through realistic digital photography from a low-angle perspective, the composition isolates the tack-sharp subject with a medium depth of field, bringing a matte texture and moderate digital noise to the image, enhanced by post-processing that lifts crushed blacks for a faded shadow look, clarifies structural lines, and applies a cool white balance bias, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Dark Academia Urban Street Male Portrait",
+    "description": "A sophisticated full-length portrait of a male model in dark academia attire set against a modern urban architectural backdrop with moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395939161_3gl3xs_HNgP5WQWQAAV0gL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30200,
+    "content": "Create an ultra-realistic cinematic studio portrait of the person in the reference image. Preserve the person’s facial features and identity while styling them in a luxury editorial fashion. Give them a {argument name=\"hairstyle\" default=\"modern textured quiff hairstyle\"} with medium-length hair, voluminous top, natural lift, slightly messy brushed-back texture, subtle side taper, clean sides, and realistic individual hair strands. Add {argument name=\"glasses\" default=\"thin silver metal aviator eyeglasses\"} with large rounded lenses, minimalist frame, clear lenses, elegant luxury design, perfectly fitted to the face. Dress them in a {argument name=\"outfit\" default=\"tailored black suit\"}, crisp white dress shirt, and black tie. Pose them looking directly into the camera with a calm, confident, serious expression. Use dramatic low-key studio lighting with a single large octabox positioned 45° above the subject, classic Rembrandt lighting, deep cinematic shadows, subtle rim light around the hair and shoulders, black seamless background, high contrast black-and-white grading, rich tonal range, crisp eyes with natural catchlights, highly detailed skin texture, realistic pores, subtle facial hair detail, shallow depth of field, Leica SL2 with APO-Summicron 90mm lens, f/2.2, ISO 100, HDR, editorial fashion photography, timeless Hollywood portrait, museum-quality, photorealistic, ultra-sharp, 8K resolution, masterpiece.",
+    "title": "Cinematic B&W Studio Portrait",
+    "description": "An ultra-realistic black-and-white studio portrait prompt using Rembrandt lighting for a sophisticated, luxury editorial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395930214_q09vnw_HOYHs8JaYAAHfhM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30077,
+    "content": "Create a high-end fashion editorial portrait of a {argument name=\"subject description\" default=\"stylish young woman in her early 20s with a slim figure, fair skin with warm-neutral undertones\"}. She has a soft, defined jawline, high cheekbones, a small straight nose, full lips wearing glossy coral lipstick, thick naturally arched eyebrows, and shoulder-length light brown hair styled in soft, voluminous tousled waves with a center part. Her expression is calm and confident, with a relaxed gaze and slightly parted lips. Dress her in an {argument name=\"clothing\" default=\"oversized beige and brown plaid wool coat layered over a white ruched camisole\"}. Complete the look with rose-tinted rectangular sunglasses, gold layered chain necklaces, and classic gold hoop earrings, creating a modern retro-chic fashion aesthetic inspired by vintage Americana. Pose her seated inside a {argument name=\"setting\" default=\"classic retro diner booth\"}, facing the camera with a relaxed lean and her head tilted slightly upward. Her hands remain naturally outside the frame, giving the composition an effortless editorial feel. Set the scene inside a nostalgic American diner featuring turquoise tiled walls, vintage red booth seating, retro menu boards, and classic wall décor. Use a moderately shallow depth of field to keep the subject perfectly sharp while softly blurring the background for a cinematic editorial look. Light the portrait with soft, high-contrast artificial interior lighting from a frontal overhead direction, creating glossy skin highlights, rich vibrant colours, and a nostalgic retro atmosphere. Frame the shot at eye level as a medium portrait with razor-sharp focus on the face. Finish the image with professional editorial retouching, subtle vintage-inspired colour grading, minimal noise, outstanding sharpness, and a premium magazine-quality fashion photography aesthetic.",
+    "title": "Vintage Americana Fashion Editorial",
+    "description": "A high-end retro fashion editorial portrait set in a nostalgic 1950s-style American diner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395923815_9423zu_HOXz3bqa4AAJfAY.jpg"
     ],
     "needReferenceImages": false
   },
@@ -41,14 +161,16 @@
     "needReferenceImages": true
   },
   {
-    "id": 30089,
-    "content": "A {argument name=\"object\" default=\"teacup\"} on a {argument name=\"surface\" default=\"saucer\"} is placed in front of {argument name=\"subject\" default=\"her\"}.",
-    "title": "Character Interaction Prop Addition",
-    "description": "A simple instruction to add a specific object, like a teacup on a saucer, in front of a character during an image redraw.",
+    "id": 30081,
+    "content": "Hyper-detailed {argument name=\"style\" default=\"engraved illustration style\"}, cross-hatching and fine line pen drawing technique, classical engraving mixed with modern illustration, ultra-dense linework forming realistic human face and upper body, tactile woven texture across skin and fabric, {argument name=\"influence\" default=\"baroque and rococo influence\"}, ornate clothing details, gold embroidery and chain accents, dramatic chiaroscuro lighting, {argument name=\"color palette\" default=\"muted yet bold color accents (pink, gold, blue, cream, black)\"}, painterly ink texture, vintage print aesthetic blended with contemporary surreal portrait art, high contrast, museum-grade detail, editorial illustration quality, dark textured background, intellectual and artistic mood.",
+    "title": "Classical Engraving Illustration Style",
+    "description": "A dense, hyper-detailed engraved illustration style mixed with modern line art, featuring baroque and rococo influences.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785309334039_ahrq4r_HOW3B0xbUAAYNWx.jpg"
+      "https://cms-assets.youmind.com/media/1785395929178_ii19c0_HOXQKVJbkAAhLoG.jpg",
+      "https://cms-assets.youmind.com/media/1785395929167_9g2v8y_HOXQK6ua0AA7I9E.jpg",
+      "https://cms-assets.youmind.com/media/1785395929213_54jy9l_HOXQLg6aoAAfbMq.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 30088,

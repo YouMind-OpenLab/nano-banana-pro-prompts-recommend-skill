@@ -1,5 +1,17 @@
 [
   {
+    "id": 30211,
+    "content": "{argument name=\"style\" default=\"Hyper-detailed engraved illustration style\"}, cross-hatching and fine line pen drawing technique, classical engraving mixed with modern illustration, ultra-dense linework forming realistic human face and upper body, tactile woven texture across skin and fabric, baroque and rococo influence, ornate clothing details, gold embroidery and chain accents, dramatic chiaroscuro lighting, {argument name=\"color palette\" default=\"muted yet bold color accents (pink, gold, blue, cream, black)\"}, painterly ink texture, vintage print aesthetic blended with contemporary surreal portrait art, high contrast, museum-grade detail, editorial illustration quality, {argument name=\"background\" default=\"dark textured background\"}, intellectual and artistic mood.",
+    "title": "Engraved Surreal Illustration Portrait",
+    "description": "A dense, cross-hatched engraving illustration style prompt blending classical engraving techniques with modern surreal portrait art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395940190_a3ah3o_HOXfowAXUAE2Bt0.jpg",
+      "https://cms-assets.youmind.com/media/1785395939808_d8xuu0_HOXfpWQWEAAcEMC.jpg",
+      "https://cms-assets.youmind.com/media/1785395939708_5lxtd7_HOXfqE5XIAA-VrW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30088,
     "content": "High-end 3D render aesthetic with hyper-realistic {argument name=\"material\" default=\"vinyl/latex\"} texture and soft diffused studio lighting.",
     "title": "Hyper-Realistic 3D Vinyl Aesthetic",

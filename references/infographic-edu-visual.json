@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 30214,
+    "content": "2x2 grid, 16:9, do this for 4 important {argument name=\"subject\" default=\"Asian cities\"}: Generate a photoreal miniature pop-up book diorama for {argument name=\"subject\" default=\"Asian cities\"}.Rules:- infer SUBJECT_DNA automatically- use BASE_DOCUMENT as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to {argument name=\"subject\" default=\"Asian cities\"}- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
+    "title": "Miniature Pop-up Book Diorama",
+    "description": "A detailed prompt for generating photorealistic miniature pop-up book dioramas of cities, featuring intricate paper-engineered landmarks and structural paper mechanics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395942795_27fdn3_HOCZo_5WoAAiXCa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29664,
     "content": "A collection of alphabet letters, {argument name=\"letters\" default=\"A through Z\"} and decorative elements are arranged in rows against a {argument name=\"background color\" default=\"white background\"}. The letters are in a playful, rounded font with thick black outlines and vibrant, pastel colors. Many of the letters are stylized with accompanying graphics: flowers, starbursts, hearts, bows, sparkles. There are also scattered floral and starburst elements throughout the composition. The overall style is reminiscent of {argument name=\"design era\" default=\"1970s\"} graphic design, with a cheerful and whimsical aesthetic.",
     "title": "Retro 1970s Alphabet Graphic Design",

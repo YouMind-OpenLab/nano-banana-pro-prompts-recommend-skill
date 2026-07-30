@@ -1,5 +1,15 @@
 [
   {
+    "id": 30214,
+    "content": "2x2 grid, 16:9, do this for 4 important {argument name=\"subject\" default=\"Asian cities\"}: Generate a photoreal miniature pop-up book diorama for {argument name=\"subject\" default=\"Asian cities\"}.Rules:- infer SUBJECT_DNA automatically- use BASE_DOCUMENT as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to {argument name=\"subject\" default=\"Asian cities\"}- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
+    "title": "Miniature Pop-up Book Diorama",
+    "description": "A detailed prompt for generating photorealistic miniature pop-up book dioramas of cities, featuring intricate paper-engineered landmarks and structural paper mechanics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395942795_27fdn3_HOCZo_5WoAAiXCa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27853,
     "content": "{argument name=\"subject\" default=\"office coffee machine\"} as a {argument name=\"theme\" default=\"sci-fi boss battle\"}, cinematic sparks, exaggerated scale, punchy caption space, 16:9",
     "title": "Sci-Fi Coffee Machine Boss Battle",

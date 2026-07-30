@@ -10,6 +10,142 @@
     "needReferenceImages": false
   },
   {
+    "id": 30205,
+    "content": "A beautiful young East Asian woman with fair skin and soft makeup, long black hair styled in a {argument name=\"hair style\" default=\"side braid\"} cascading over her left shoulder, gentle closed-mouth smile looking at the camera. She is wearing a {argument name=\"outfit\" default=\"tight black off-the-shoulder mini dress\"} with ruffled short sleeves, standing in a slight three-quarter pose with her left hand lightly touching her braid. Delicate thin necklace with a small pendant. Soft natural daylight. Background: beige textured wall, blue-framed window, wooden wall sign with a cartoon dog illustration and text “with best friend pet friendly zone”, hanging industrial light bulb, light wooden table with a small white handbag featuring a pink bow and pearl-beaded handle, blue metal folding chairs. Outdoor café patio setting, realistic photography, sharp details, natural skin texture, cinematic lighting.",
+    "title": "East Asian Woman in Café",
+    "description": "A realistic photography prompt of a young East Asian woman at an outdoor café patio with soft natural daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395932551_bc4fen_HOcq0tCb0AARWsP.jpg",
+      "https://cms-assets.youmind.com/media/1785395932633_pqodjg_HOcq0tXaUAEHbZ0.jpg",
+      "https://cms-assets.youmind.com/media/1785395932572_bub7bw_HOcq0tDaoAA6DkZ.jpg",
+      "https://cms-assets.youmind.com/media/1785395933743_ko4sfr_HOcq0tbboAABf0Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30204,
+    "content": "A series of two photorealistic outdoor portraits featuring the same young woman with distinctive {argument name=\"hair style\" default=\"curly auburn hair\"}, light freckles, and a gentle, warm expression. She is wearing a textured, long-sleeved {argument name=\"clothing\" default=\"maroon or rust-colored blouse\"} with a lace-trimmed neckline and a simple, dark-corded pendant necklace. The first image is a front-facing close-up, where she looks directly at the camera with her hands clasped in front of her, bathed in soft, dappled sunlight filtered through trees, creating a natural bokeh background of green foliage. The second image is a side profile portrait, showing her smiling broadly upwards and to the side against a blurred, darker, textured wall background, with sunlight highlighting the curls and contours of her face. The lighting throughout is natural and flattering. The images have a consistent, warm, and natural feel.",
+    "title": "Curly Auburn Hair Portraits",
+    "description": "A prompt for generating a series of photorealistic outdoor portraits featuring a woman with curly auburn hair and natural freckles in warm sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395932288_px3vxa_HOdA-l4WEAA87Cg.jpg",
+      "https://cms-assets.youmind.com/media/1785395932567_2ve3n4_HOdA_mWXwAAVxOE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30206,
+    "content": "A series of three photorealistic studio portraits featuring the same young woman. The central subject has dark hair styled in a low bun, striking {argument name=\"eye color\" default=\"blue\"} eyes, and full lips. She is wearing a distinct, {argument name=\"clothing\" default=\"high-necked, long-sleeved yellow silk blouse\"} with gathered fabric details. In the first image, she is in a three-quarter profile looking directly at the camera. In the second image, she is in a sharper profile, looking to the right of the frame. The third image is a more dramatic, close-up profile view, also looking to the right. The lighting is {argument name=\"lighting style\" default=\"low-key and dramatic\"}, with a soft, warm key light illuminating one side of her face and the yellow fabric, creating deep shadows on the dark, textured background. The focus is sharp on her face and the texture of the silk. The overall aesthetic is elegant and mysterious.",
+    "title": "Dramatic Yellow Silk Portrait",
+    "description": "An elegant series of low-key studio portraits focusing on the texture of a yellow silk blouse and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395935198_478so2_HOcg-FVWQAAqNre.jpg",
+      "https://cms-assets.youmind.com/media/1785395935178_hfpz20_HOcg-7-WsAEAM-1.jpg",
+      "https://cms-assets.youmind.com/media/1785395935173_8oldho_HOcg_sDWEAAPUQP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30207,
+    "content": "A premium semi-realistic digital portrait painting with refined editorial illustration aesthetics, combining expressive painterly brushwork and polished realism. Smooth yet visible layered brush strokes define every facial plane, with subtle painterly texture replacing photographic sharpness. Rich volumetric lighting and carefully blended color transitions create sculptural depth while preserving handcrafted artistic character. A {argument name=\"color palette\" default=\"warm, elegant color palette featuring cream, ivory, warm beige, light sand, soft peach, burnt orange, terracotta, muted sienna, warm brown, charcoal navy, slate blue, and delicate desaturated teal accents\"}. The background consists of abstract painterly brush strokes, soft watercolor washes, dry-brush textures, and subtle paint splatters, creating an airy fine-art atmosphere. Soft cinematic lighting with luminous skin highlights. {argument name=\"hair style\" default=\"Hair is rendered using layered flowing brush strokes with natural volume and individual strand definition\"}. Clothing combines broad painterly strokes with selective detail, emphasizing elegant simplicity rather than excessive texture. A clean contemporary fine-art illustration style inspired by high-end editorial portrait paintings, museum-quality digital artwork, expressive handcrafted brushwork, harmonious composition, vertical composition (9:16), no text, no typography, no signature, no initials, no logo, no watermark, no frame.",
+    "title": "Editorial Illustration Digital Painting",
+    "description": "A prompt for a premium semi-realistic digital portrait painting with expressive brushwork and a warm, elegant color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395936134_5wchnm_HOceE3iXwAAwpo5.jpg",
+      "https://cms-assets.youmind.com/media/1785395936149_ytip88_HOceFkJXsAA6S3a.jpg",
+      "https://cms-assets.youmind.com/media/1785395936202_w1henn_HOceGQJXAAAM1O6.jpg",
+      "https://cms-assets.youmind.com/media/1785395937032_18rcl6_HOceHJgXsAAAfwB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30201,
+    "content": "Generate a hyper-realistic image of a man whose facial features perfectly match the uploaded reference image. He is standing in front of the Taj Mahal, dressed in {argument name=\"outfit\" default=\"semi-formal attire: white LILEN shirt BLUE JEANS\"}, {argument name=\"shoes\" default=\"brown loafers\"}. Pose: hands in front {argument name=\"pose\" default=\"RESTING POSITION\"}, slight head tilt, calm expression. Mood: peaceful and elegant. Lighting: soft morning light highlighting face and architectural details. Background: Taj Mahal with reflecting pool and gardens, subtle depth of field. Include authentic textures, shadows, and ambient lighting. Match the reference image facial features exactly. Do not alter his face — use the exact facial structure, expression, and proportions from the uploaded image, maintaining 100% accuracy.",
+    "title": "Taj Mahal Travel Portrait",
+    "description": "A hyper-realistic travel portrait prompt that places a subject in front of the Taj Mahal while preserving their exact facial features from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395930865_2s8ccx_HOatcjSX0AApDM0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30209,
+    "content": "Use the exact same face from the reference image and generate a dark cinematic {argument name=\"concept\" default=\"obsessive skin portrait\"} with a completely new concept — the face {argument name=\"pose\" default=\"partially submerged or emerged from water\"}, skin meeting liquid at the frame, the most unexpected and visually devastating skin portrait in the entire series. The face tilted slightly backward, chin angled upward, the lower half of the face — jaw, lips, chin — submerged beneath perfectly still dark water, only the upper half visible above the surface. Eyes open and staring directly upward into the lens from below the camera position — that specific otherworldly gaze of eyes looking straight up, whites slightly visible at the lower iris, the gaze simultaneously vulnerable and magnetic and completely alien. The water surface cutting precisely across the face at the upper lip level — a perfect horizontal liquid boundary separating the visible world from the submerged. The water surface itself rendered at obsessive physical accuracy — completely still and mirror-like directly around the face, the surface tension visible as a very subtle meniscus where the water meets the skin at the lip line and cheeks. The skin at the waterline showing the specific way water clings to human skin — a very thin film of water remaining on the skin just above the surface, catching the light with a delicate sheen. A few individual water droplets sitting on the upper cheek and nose surface — each droplet a perfect lens catching and refracting the light source above, each one rendering the key light as a tiny distorted reflection within its curved surface. Below the water surface — the submerged lower face visible through the water with the specific optical distortion of looking through still water. The jaw and chin slightly displaced from their true position by water refraction. The lips just below the surface catching refracted light in complex caustic patterns — moving light patterns dancing across the submerged skin from water surface refraction above. The water itself not blue not green but a deep dark almost black — dark water, the same void as the background above. Skin above the waterline at full forensic biological obsession — every individual pore with unique depth and shadow, every fine hair catching the {argument name=\"lighting\" default=\"cold overhead light\"}, natural skin texture across the nose bridge cheekbones and forehead rendered at 150 megapixel detail. The skin at the waterline specifically — the way skin texture changes at the boundary with water, the slight pore swelling from moisture exposure, the water film clinging to the skin surface in complex thin-film patterns. Lighting is a single cold narrow spotlight from directly above — shining straight down into the water and onto the face simultaneously. The light hitting the still water surface and creating complex caustic light patterns that dance across the upper face and forehead — the specific moving gr",
+    "title": "Submerged Underwater Skin Portrait",
+    "description": "A highly descriptive prompt for a dark, cinematic underwater portrait focusing on forensic-level skin detail and complex water surface interactions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395937961_tfnjbs_HOaqu66XwAAlGIP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30192,
+    "content": "A dramatic, medium-shot portrait of a {argument name=\"subject\" default=\"woman with dark hair styled in a messy updo\"}, loose strands framing her face. She is captured in profile, looking back over her shoulder with a thoughtful expression. She wears a {argument name=\"clothing\" default=\"textured mustard-yellow button-down shirt\"}, and the {argument name=\"lighting\" default=\"warm side-lighting\"} highlights her features against a dark, moody textured background, creating a cinematic and painterly atmosphere.",
+    "title": "Moody Painterly Portrait",
+    "description": "A dramatic profile portrait with warm side-lighting and a textured, painterly background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395924662_34visz_HOaUHyZXQAAmF4Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30199,
+    "content": "moody cinematic portrait, {argument name=\"subject\" default=\"lone young woman\"} in {argument name=\"setting\" default=\"tall grass field\"} at {argument name=\"time of day\" default=\"dusk\"}, overcast sky, teal-green color grade, wearing white buttoned shirt, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain",
+    "title": "Moody Cinematic Woman Portrait in Grass",
+    "description": "A cinematic and melancholic portrait of a woman in a tall grass field at dusk, featuring a teal-green color grade and soft wind-swept motion blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395929257_l9ztif_HOZvW52XEAE7puY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30197,
+    "content": "A dramatic series of dark-toned studio portraits featuring a {argument name=\"subject\" default=\"young woman with long, dark hair styled in loose tendrils\"}, wearing a {argument name=\"outfit\" default=\"high-necked black lace and sheer patterned top\"}. Set against a moody, textured dark background with {argument name=\"lighting style\" default=\"chiaroscuro lighting\"} that accentuates her facial features, she strikes various contemplative poses with her hands gently framing her face or delicately touching her chin.",
+    "title": "Dramatic Chiaroscuro Studio Portrait",
+    "description": "A series of contemplative studio portraits using dramatic shadows and black lace textures for a moody aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395926690_xla2pj_HOZpaAgWIAA6Icr.jpg",
+      "https://cms-assets.youmind.com/media/1785395926948_9163qu_HOZpbnQXwAEtni0.jpg",
+      "https://cms-assets.youmind.com/media/1785395926806_sawevl_HOZpc2XWIAALsds.jpg",
+      "https://cms-assets.youmind.com/media/1785395927720_0jpjwf_HOZpeMBWsAAApXk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30193,
+    "content": "A cinematic medium shot of a {argument name=\"subject\" default=\"young woman with short dark hair and vibrant blue eyes\"}, standing on a bustling city street at night illuminated by glowing neon lights. She is wearing a {argument name=\"outfit\" default=\"dark grey textured wool coat over a grey turtleneck sweater\"}. The scene features a shallow depth of field with a beautifully blurred background of colorful {argument name=\"bokeh colors\" default=\"blue and magenta\"} bokeh lights. Vibrant neon glow casts highlights on her face and hand, creating a moody, atmospheric ambiance with sharp focus, realistic textures, and dramatic cyber-noir lighting.",
+    "title": "Neon City Cyber-Noir Portrait",
+    "description": "A moody cyber-noir portrait of a woman on a city street at night, illuminated by vibrant neon lights and bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395923362_31zrhx_HOYos-5XEAANbxj.jpg",
+      "https://cms-assets.youmind.com/media/1785395923328_3473kc_HOYoxnRXYAAXGF8.jpg",
+      "https://cms-assets.youmind.com/media/1785395923622_2696m9_HOYo2GnXkAAU5wp.jpg",
+      "https://cms-assets.youmind.com/media/1785395924278_qcv8km_HOYo5kKWQAA3P3E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30212,
+    "content": "A soft-focus, intimate close-up portrait of a thoughtful young woman with {argument name=\"hair style\" default=\"warm brown hair styled in an updo\"} and delicate wisps framing her face. She has {argument name=\"eye color\" default=\"expressive, light-colored eyes\"}, subtle freckles across her nose, and a gentle, contemplative expression while resting her hand softly near her cheek. Bathed in {argument name=\"lighting\" default=\"warm, golden hour backlighting\"}, the scene features a dreamy, shallow depth of field with a softly blurred background, highlighting natural skin textures and creating a serene, emotional atmosphere.",
+    "title": "Intimate Golden Hour Portrait",
+    "description": "A soft-focus, contemplative portrait of a woman with freckles and brown hair, captured in the warm glow of the golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395938687_gx7muz_HOYUqrlX0AEwCyT.jpg",
+      "https://cms-assets.youmind.com/media/1785395939922_zeeqi2_HOYUuRmXAAAZNnK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30200,
+    "content": "Create an ultra-realistic cinematic studio portrait of the person in the reference image. Preserve the person’s facial features and identity while styling them in a luxury editorial fashion. Give them a {argument name=\"hairstyle\" default=\"modern textured quiff hairstyle\"} with medium-length hair, voluminous top, natural lift, slightly messy brushed-back texture, subtle side taper, clean sides, and realistic individual hair strands. Add {argument name=\"glasses\" default=\"thin silver metal aviator eyeglasses\"} with large rounded lenses, minimalist frame, clear lenses, elegant luxury design, perfectly fitted to the face. Dress them in a {argument name=\"outfit\" default=\"tailored black suit\"}, crisp white dress shirt, and black tie. Pose them looking directly into the camera with a calm, confident, serious expression. Use dramatic low-key studio lighting with a single large octabox positioned 45° above the subject, classic Rembrandt lighting, deep cinematic shadows, subtle rim light around the hair and shoulders, black seamless background, high contrast black-and-white grading, rich tonal range, crisp eyes with natural catchlights, highly detailed skin texture, realistic pores, subtle facial hair detail, shallow depth of field, Leica SL2 with APO-Summicron 90mm lens, f/2.2, ISO 100, HDR, editorial fashion photography, timeless Hollywood portrait, museum-quality, photorealistic, ultra-sharp, 8K resolution, masterpiece.",
+    "title": "Cinematic B&W Studio Portrait",
+    "description": "An ultra-realistic black-and-white studio portrait prompt using Rembrandt lighting for a sophisticated, luxury editorial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395930214_q09vnw_HOYHs8JaYAAHfhM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30078,
     "content": "Create an ultra-realistic cinematic studio portrait of the person in the reference image. Preserve the person’s facial features and identity while styling them in a luxury editorial fashion. Give them a modern textured quiff hairstyle with medium-length hair, voluminous top, natural lift, slightly messy brushed-back texture, subtle side taper, clean sides, and realistic individual hair strands. Add thin silver metal aviator eyeglasses with large rounded lenses, minimalist frame, clear lenses, elegant luxury design, perfectly fitted to the face. Dress them in a {argument name=\"clothing\" default=\"tailored black suit, crisp white dress shirt, and black tie\"}. Pose them looking directly into the camera with a calm, confident, serious expression. Use {argument name=\"lighting\" default=\"dramatic low-key studio lighting\"} with a single large octabox positioned 45° above the subject, classic Rembrandt lighting, deep cinematic shadows, subtle rim light around the hair and shoulders, black seamless background, {argument name=\"color grading\" default=\"high contrast black-and-white grading\"}, rich tonal range, crisp eyes with natural catchlights, highly detailed skin texture, realistic pores, subtle facial hair detail, shallow depth of field, Leica SL2 with APO-Summicron 90mm lens, f/2.2, ISO 100, HDR, editorial fashion photography, timeless Hollywood portrait, museum-quality, photorealistic, ultra-sharp, 8K resolution, masterpiece.\n\nNegative Prompt\n\ncartoon, anime, illustration, CGI, plastic skin, beauty filter, overprocessed skin, blurry, low quality, low resolution, distorted face, asymmetrical eyes, duplicate face, extra glasses, oversized glasses, thick frames, text, watermark, logo, cropped head, poor lighting, noisy image, unrealistic hair, exaggerated hairstyle, overexposed, underexposed",
     "title": "Cinematic Black and White Studio Portrait",
@@ -21,31 +157,42 @@
   },
   {
     "id": 30070,
-    "content": "moody cinematic portrait, {argument name=\"subject\" default=\"lone young woman\"} in tall grass field at dusk, overcast sky, {argument name=\"color grade\" default=\"teal-green color grade\"}, wearing {argument name=\"clothing\" default=\"white buttoned shirt\"}, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain",
-    "title": "Moody Cinematic Grass Field Portrait",
-    "description": "A melancholic and cinematic prompt for a woman in a tall grass field at dusk, featuring a teal-green color grade and soft lighting.",
+    "content": "moody cinematic portrait, {argument name=\"subject\" default=\"lone young woman\"} in tall grass field at dusk, overcast sky, teal-green color grade, wearing {argument name=\"outfit\" default=\"white buttoned shirt\"}, {argument name=\"accessory\" default=\"matte silver over-ear headphones\"}, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain",
+    "title": "Moody Cinematic Field Portrait",
+    "description": "A melancholic and cinematic portrait of a woman in a tall grass field at dusk, featuring soft motion blur and teal-green tones.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785309320457_ufmjj3_HOSzEHdaIAAw2d2.jpg"
+      "https://cms-assets.youmind.com/media/1785395921989_hzy4fl_HOSzEHdaIAAw2d2.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 30071,
-    "content": "Use my uploaded image as the exact facial reference. Preserve my identity with maximum accuracy, including my face shape, hairstyle, beard, eyebrows, skin tone, eye proportions, nose, lips, jawline, ears, and every unique facial feature. Do not alter my age, expression, or recognizable appearance.\n\nCreate an ultra-realistic, cinematic side-profile portrait with my head gently tilted upward, eyes peacefully closed, conveying calmness, confidence, and deep introspection. Dress me in a {argument name=\"clothing\" default=\"premium black textured knit sweater\"} with a clean, minimal aesthetic. Place me against a {argument name=\"background\" default=\"deep matte-black studio background\"} filled with {argument name=\"effect\" default=\"soft drifting smoke\"} and subtle atmospheric haze. Use dramatic low-key lighting with a gentle rim light outlining my hair, beard, and jawline, while a soft key light elegantly illuminates my face, creating rich contrast and depth. Keep the composition minimal and luxurious, emphasizing negative space. Capture ultra-sharp skin texture, realistic beard details, natural hair strands, and flawless facial proportions. Professional editorial photography, 85mm lens, f/1.8, shallow depth of field, HDR, ultra-photorealistic, premium color grading, soft cinematic shadows, IMAX-quality, 8K resolution, masterpiece, award-winning portrait, no text, no watermark, no artifacts, no facial distortion, no extra limbs, no blur.",
-    "title": "Cinematic Facial Reference Portrait",
-    "description": "A high-fidelity prompt designed to preserve facial identity using a reference image, creating a moody, low-key studio portrait with atmospheric smoke.",
+    "content": "Use my uploaded image as the exact facial reference. Preserve my identity with maximum accuracy, including my face shape, hairstyle, beard, eyebrows, skin tone, eye proportions, nose, lips, jawline, ears, and every unique facial feature. Do not alter my age, expression, or recognizable appearance. Create an ultra-realistic, cinematic side-profile portrait with my head gently tilted upward, eyes peacefully closed, conveying calmness, confidence, and deep introspection. Dress me in a premium black textured knit sweater with a clean, minimal aesthetic. Place me against a deep matte-black studio background filled with soft drifting smoke and subtle atmospheric haze. Use dramatic low-key lighting with a gentle rim light outlining my hair, beard, and jawline, while a soft key light elegantly illuminates my face, creating rich contrast and depth. Keep the composition minimal and luxurious, emphasizing negative space. Capture ultra-sharp skin texture, realistic beard details, natural hair strands, and flawless facial proportions. Professional editorial photography, 85mm lens, f/1.8, shallow depth of field, HDR, ultra-photorealistic, premium color grading, soft cinematic shadows, IMAX-quality, 8K resolution, masterpiece, award-winning portrait, no text, no watermark, no artifacts, no facial distortion, no extra limbs, no blur.",
+    "title": "Hyper-Realistic Facial Identity Preservation Portrait",
+    "description": "A technical prompt designed for nano-banana-pro to maintain strict facial identity while generating a cinematic, low-key studio portrait with atmospheric smoke.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785309321261_ql1c76_HOXfJbVakAAnBTc.jpg"
+      "https://cms-assets.youmind.com/media/1785395921401_f91qpc_HOXfJbVakAAnBTc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30202,
+    "content": "Use face image of the uploaded photo with the exact facial proportions and facial structure. Create an ultra-high-definition, photorealistic vertical portrait photograph of a young woman posing closely beside a large, fluffy black long-haired cat, recreating the same composition, body position, body angle, facial orientation, framing, and intimate selfie-style perspective as the reference image. Subject & Pose: The woman is positioned on the right side of the frame, with her upper body angled slightly toward the camera while her head is subtly turned and tilted toward the viewer. Her shoulders are relaxed, with her right shoulder slightly closer to the camera. Her face is captured in a three-quarter frontal angle, looking directly into the camera with a calm, neutral, slightly dreamy expression. Her chin is gently lowered. Her head and upper torso occupy the upper-right and center-right portion of the frame. She is standing or sitting very close beside the cat, creating a natural companion portrait. The cat is positioned prominently on the left side of the frame, sitting upright and facing directly toward the camera. Face & Skin: Render a realistic human face with extremely detailed natural skin texture, subtle visible pores, fine peach fuzz, delicate skin micro-texture, realistic skin translucency, soft tonal variations, natural under-eye texture, faint facial imperfections, and lifelike highlights. Avoid plastic-looking or overly airbrushed skin. The complexion is fair with a soft warm-neutral undertone and naturally luminous appearance. Preserve realistic facial proportions and subtle asymmetry. Eyes & Makeup: Large light hazel-green eyes with detailed irises, natural catchlights, realistic reflections, and fine eyelashes. Soft brown eyeliner is subtly applied along the upper lash line, with delicate mascara definition. The eyebrows are naturally shaped and softly filled with warm medium-brown tones. Makeup is minimal and refined: soft peachy-beige eyeshadow, subtle blush across the cheeks and nose, and naturally glossy muted rose-pink lips with a soft satin finish. The makeup should look like realistic contemporary editorial beauty makeup rather than heavy cosmetics. Hair: The woman has dark brown hair, rich auburn tones with subtle warm highlights. Her hairstyle is an intentionally loose, slightly messy updo, with the majority of her hair gathered into a low, relaxed bun positioned toward the back-right side of her head. The hair has natural volume and realistic individual strands. She has long, wispy, slightly separated curtain-style bangs falling naturally across her forehead and framing both sides of her face. A few loose strands extend around her temples, cheeks, ears, and neck. Reproduce highly detailed individual hair fibers, natural flyaways, soft shine, and realistic strand separation. Outfit: She wears an oversized off-white/cream white graphic T-shirt with a relaxed, slightly slouchy fit. The neckline is wide and loosely stretched, falling off one shoulder and exposing part of the shoulder and collarbone. Underneath, a thin black spaghetti-strap top is visible. The T-shirt features bold black graphic typography and large star illustrations across the front. The visible typography should resemble the reference composition, with large black lettering and graphic elements, while keeping the design naturally integrated into the fabric. The shirt has realistic cotton texture, subtle wrinkles, folds, and natural draping around the torso and shoulders. Accessories: She wears several layered silver-tone chain necklaces of different thicknesses and link styles. One necklace features a prominent silver heart-shaped pendant, while another longer chain has a second dark silver or metallic heart pendant. Include a thin purple cord or necklace mixed among the layered chains. The jewelry should have realistic metallic reflections, small scratches, and polished silver highlights. Cat: Beside her is a large, majestic long-haired black cat with a thick, luxurious coat. The cat is sitting upright on the left side of the composition, facing directly toward the camera. Its fur is predominantly deep black with subtle charcoal-brown highlights visible under the light. The chest and neck have a particularly thick, fluffy mane with individual strands clearly defined. The cat has striking yellow-green/golden eyes with realistic pupils and detailed reflective catchlights. Its ears are upright and alert, and its expression is calm and composed. Render extremely detailed individual fur strands, especially around the face, cheeks, ears, chest, and whiskers. Background & Setting: The scene takes place indoors beside a large floor-to-ceiling window. On the far left, the window allows soft natural daylight into the room, with a bright, slightly overexposed exterior view and a subtle blurred cityscape visible in the distance. The window has dark vertical framing. Behind the woman on the right is a neutral-toned interior with soft beige or taupe curtains featuring subtle vertical folds. The overall environment feels like a modern apartment or bedroom with a cozy, intimate atmosphere. Keep the background naturally blurred while retaining enough detail to establish the setting. Lighting: Use soft natural daylight coming primarily from the large window on the left, creating gentle illumination across the woman's face and the cat's fur. Add subtle directional highlights along the hair, cheekbones, nose, and jewelry. Maintain realistic shadow gradients and soft contrast. The light should feel like a naturally captured indoor photograph rather than studio lighting. Camera & Composition: Shot as a vertical 3:4 close-up environmental portrait / intimate selfie-style photograph, approximately 24–28mm equivalent wide-angle smartphone lens, similar to a modern flagship smartphone camera such as an iPhone 17 Pro Max. Camera positioned approximately at eye level, very close to the subjects, with a slight natural handheld perspective. The woman occupies the right half of the frame while the cat occupies the left half, both faces positioned prominently near the upper-middle portion of the image. The framing includes the woman's head, shoulders, upper torso, and part of her shirt, while capturing most of the cat's upper body and fluffy chest. Use natural smartphone computational photography, realistic HDR, balanced exposure, subtle depth separation, accurate skin tones, crisp facial detail, and realistic lens rendering. Maintain a shallow-to-moderate depth of field, keeping both the woman's face and cat's face sharply focused while the distant window and curtains gradually soften into natural background blur. Image Quality & Realism: Ultra-photorealistic, 8K-quality detail, highly accurate anatomy, authentic human skin, visible pores and fine facial texture, realistic hair fibers, individual cat fur strands, natural fabric texture, physically accurate metallic jewelry reflections, realistic glass and window reflections, subtle photographic grain, high dynamic range, natural color science, professional editorial photography, lifelike details, authentic photographic imperfections, no artificial plastic skin. Negative Prompt: cartoon, anime, illustration, painting, CGI, 3D render, digital art, doll-like face, plastic skin, waxy skin, excessive airbrushing, oversmoothing, beauty filter, unrealistic eyes, deformed facial features, asymmetrical eyes, distorted hands, extra fingers, malformed anatomy, duplicated cat, extra limbs, blurry face, low-resolution, oversaturated colors, excessive makeup, exaggerated body proportions, unnatural hair, fake-looking fur, text distortion, warped jewelry, artificial lighting, extreme bokeh, fisheye distortion, overprocessed HDR, uncanny valley, unrealistic skin texture. Aspect Ratio: 3:4 — ultra-photorealistic close-up editorial smartphone portrait.",
+    "title": "Woman with Fluffy Black Cat Portrait",
+    "description": "An extremely detailed portrait prompt for a young woman and her fluffy black cat, focusing on realistic skin texture, hair detail, and intimate composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395930999_3xh1qf_HOXZbfXbMAAfyb0.jpg",
+      "https://cms-assets.youmind.com/media/1785395930930_op6m3d_HOXZbfWaIAA5MLc.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 30076,
-    "content": "the sketch make it {argument name=\"hairstyle\" default=\"male hairstyle\"} like the second upload image, create a HD {argument name=\"style\" default=\"ultra-realism image sketch\"} from second image superimpost into first sketch style !",
-    "title": "Ultra Realistic Sketch Superimposition",
-    "description": "A prompt designed to transform an existing sketch or portrait into a high-definition, ultra-realistic style while preserving specific features like hairstyle from a reference image.",
+    "content": "the sketch make it {argument name=\"style\" default=\"male hairstyle\"} like the second upload image, create a {argument name=\"quality\" default=\"HD ultra-realism image sketch\"} from second image superimpost into first sketch style !",
+    "title": "Realism Sketch Style Superimposition",
+    "description": "A creative prompt for generating high-definition ultra-realism sketches by superimposing one hairstyle or image style onto another.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785309325060_d4rrds_HOXBjWNacAAE6RB.jpg"
+      "https://cms-assets.youmind.com/media/1785395942731_nbmzbe_HOXBjWNacAAE6RB.jpg"
     ],
     "needReferenceImages": true
   },

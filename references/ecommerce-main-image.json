@@ -1,5 +1,31 @@
 [
   {
+    "id": 30203,
+    "content": "Product studio transformation, {argument name=\"action\" default=\"isolate the product from the reference image\"} and {argument name=\"result\" default=\"rebuild as a premium ad composition\"}, hero product centered and sharply in focus, surrounded by its {argument name=\"elements\" default=\"key ingredients\"}.",
+    "title": "Premium Product Studio Transformation",
+    "description": "A specialized prompt for transforming basic product images into premium studio-quality advertisements by isolating the subject and adding ingredients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395931720_sg9gkn_HObh9mRbwAA57-W.jpg",
+      "https://cms-assets.youmind.com/media/1785395931718_flsyoo_HObh9mQbIAIvXFC.jpg",
+      "https://cms-assets.youmind.com/media/1785395931767_19lf57_HObh9mRaYAAvtW9.jpg",
+      "https://cms-assets.youmind.com/media/1785395933387_pah7on_HObh9mUbUAAXWfu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30196,
+    "content": "Luxury skincare product advertisement featuring a {argument name=\"product\" default=\"cosmetic cleanser bottle\"} as the hero subject, placed at the center on a {argument name=\"surface\" default=\"fluffy pastel faux-fur surface\"} with a glossy mirror reflection. The background should have dreamy pastel gradients in lavender, soft pink, peach, and cream with cinematic golden bokeh lights and volumetric glow. Add elegant vanity props including a pearl necklace, jewelry box, scented candle, baby's breath flowers, and a vintage vanity mirror. Use soft warm diffused lighting with subtle rim light, shallow depth of field, creamy bokeh, and ultra-realistic commercial product photography. Include cute hand-drawn doodle arrows, sparkles, hearts, and premium handwritten typography with the headline \"{argument name=\"headline\" default=\"Glowy Skin In A Bottle\"}\", subheading \"Nourish • Hydrate • Glow\", and supporting text \"For Soft, Smooth & Glowing Skin\" and \"Self Care Everyday\". Photorealistic, luxury beauty campaign, premium cosmetic branding, highly detailed textures, realistic reflections, HDR, 85mm macro lens, f/2.0, professional studio lighting, commercial advertising, ultra-realistic 4K, 9:16 vertical composition.",
+    "title": "Luxury Skincare Product Advertisement",
+    "description": "A professional-grade commercial product photography prompt for skincare, featuring pastel gradients and elegant vanity props.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785395926456_zzcbo7_HOZgUU0akAAHGom.jpg",
+      "https://cms-assets.youmind.com/media/1785395926222_khyusm_HOZgVdJbYAA1Z2C.jpg",
+      "https://cms-assets.youmind.com/media/1785395926430_5583dl_HOZgb19agAA0RR7.jpg",
+      "https://cms-assets.youmind.com/media/1785395927347_kimstn_HOZgdRPbIAADPZW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29846,
     "content": "Create a studio-quality photo realistic render of the exact modern table design and structure from the first image. Apply the {argument name=\"material\" default=\"rich jarrah timber material\"} from the second image to all the grey legs and the teal tabletop sections, ensuring the natural wood grain runs longitudinally along the length of the legs exactly as shown in the second image. Change the dark blue structural beams, curved supports, and conical connectors to {argument name=\"finish\" default=\"brushed stainless steel\"} with a subtle metallic sheen. Use professional studio lighting with soft key lights and gentle highlights that make the table the clear hero of the scene, set against a clean {argument name=\"background\" default=\"neutral light-gray background\"}. Preserve the precise three-quarter viewpoint, proportions, and faceted geometry of the original table design.",
     "title": "3D Model to Photorealistic Product Render",
