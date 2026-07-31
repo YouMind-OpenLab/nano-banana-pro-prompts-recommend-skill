@@ -10,51 +10,95 @@
     "needReferenceImages": false
   },
   {
-    "id": 30205,
-    "content": "A beautiful young East Asian woman with fair skin and soft makeup, long black hair styled in a {argument name=\"hair style\" default=\"side braid\"} cascading over her left shoulder, gentle closed-mouth smile looking at the camera. She is wearing a {argument name=\"outfit\" default=\"tight black off-the-shoulder mini dress\"} with ruffled short sleeves, standing in a slight three-quarter pose with her left hand lightly touching her braid. Delicate thin necklace with a small pendant. Soft natural daylight. Background: beige textured wall, blue-framed window, wooden wall sign with a cartoon dog illustration and text “with best friend pet friendly zone”, hanging industrial light bulb, light wooden table with a small white handbag featuring a pink bow and pearl-beaded handle, blue metal folding chairs. Outdoor café patio setting, realistic photography, sharp details, natural skin texture, cinematic lighting.",
-    "title": "East Asian Woman in Café",
-    "description": "A realistic photography prompt of a young East Asian woman at an outdoor café patio with soft natural daylight.",
+    "id": 30347,
+    "content": "Ultra-realistic selfie-style fashion portrait of {argument name=\"hair color\" default=\"blonde\"} posing confidently in {argument name=\"room theme\" default=\"Supergirl home room\"}. She wears a {argument name=\"swimsuit style\" default=\"fitted white Super-Girl style one-piece swimsuit\"} with thin spaghetti straps, deep V-neckline, iconic red-and-yellow Super-Girl 'S' shield symbol, plus a small 'Keor' embroidery, and red stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with Krypton and House of El posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture.",
+    "title": "Supergirl Style Selfie Portrait",
+    "description": "A detailed prompt for generating a Supergirl-inspired selfie in a realistic, lived-in teenage bedroom, featuring high-end photography and fabric textures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395932551_bc4fen_HOcq0tCb0AARWsP.jpg",
-      "https://cms-assets.youmind.com/media/1785395932633_pqodjg_HOcq0tXaUAEHbZ0.jpg",
-      "https://cms-assets.youmind.com/media/1785395932572_bub7bw_HOcq0tDaoAA6DkZ.jpg",
-      "https://cms-assets.youmind.com/media/1785395933743_ko4sfr_HOcq0tbboAABf0Z.jpg"
+      "https://cms-assets.youmind.com/media/1785482598220_4grpzj_HOgNXXbXYAAxtpF.jpg",
+      "https://cms-assets.youmind.com/media/1785482598173_4ncdg1_HOgNYPTW8AAfJHv.jpg",
+      "https://cms-assets.youmind.com/media/1785482598241_hci4k1_HOgNY3jXYAAHClm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30340,
+    "content": "Create hyper-realistic rooftop Spider-Suit portraits {\"style_prompt_name\": \"Rooftop Spider-Suit Portrait — Photorealistic Composite\", \"subject\": {\"identity_source\": \"Person_Name/Upload Image\", \"instruction\": \"Take the face, skin tone, hairstyle, and identifying features exactly from the uploaded reference photo (or the named public figure) and realistically composite them onto the body/pose described below. Preserve the subject's real facial structure, expression style, and likeness with high fidelity — do not alter or stylize the face.\"}, \"wardrobe\": {\"costume\": \"Classic red-and-blue Spider-Man suit (Sam Raimi trilogy-style webbed design)\", \"condition\": \"Pristine, complete, and undamaged — no rips, tears, frays, or exposed threads anywhere on the suit; fabric appears brand-new, clean, and perfectly fitted\", \"material_detail\": \"Textured spandex/lycra fabric with raised stitched web-lines, matte-yet-slightly-sheen finish, deep red chest and limbs, navy-blue sides and legs, large black spider emblem centered on chest\", \"accessories\": \"Full-face or half-removed mask optional per pose (mask held in hand if partially removed), gloves and boots fully intact matching suit pattern\"}, \"pose_and_composition\": {\"framing\": \"Medium-to-full body shot, subject seated on the ledge/parapet of a rooftop\", \"pose\": \"Relaxed seated crouch on the edge, one leg bent up, some elbows resting on knee, hands loosely clasped or holding the mask, head turned toward camera with a calm, confident, slightly serious expression\", \"camera_angle\": \"Slightly low-to-eye-level angle looking up at subject, shallow depth of field\", \"aspect_ratio\": \"3:4 vertical portrait\"}, \"environment\": {\"setting\": \"Urban rooftop with HVAC units, vents, and antenna structures in the midground\", \"background\": \"Dense city skyline of high-rise buildings, softly blurred (bokeh) to keep focus on subject\", \"sky\": \"Overcast, moody cloud cover with soft diffused daylight\"}, \"lighting\": {\"type\": \"Improved cinematic soft lighting\", \"key_light\": \"Large soft key light from upper-front-left, mimicking diffused daylight through clouds, gently wrapping around the face and suit to bring out fabric texture without harsh shadows\", \"fill_light\": \"Subtle cool-toned fill from the right to lift shadow side of the face and suit, avoiding flat lighting\", \"rim_light\": \"Faint rim/edge light along shoulders and hair to separate subject from the background skyline\", \"color_grade\": \"Neutral-cool cinematic grade, slightly desaturated blues and grays in the environment, with the suit's red and blue kept rich and saturated as the focal color contrast\", \"mood\": \"Clean, high-end editorial lighting — crisp highlights on suit texture, soft shadow falloff, no muddy or underexposed areas\"}, \"photographic_style\": {\"realism\": \"Hyper-photorealistic, shot-on-camera aesthetic (as if captured with a full-frame DSLR, 85mm lens, f/2.0)\", \"texture_detail\": \"High micro-detail on fabric weave, skin pores, and hair strands\", \"post_processing\": \"Subtle film-like grain, natural color balance, no over-saturation or artificial HDR look\"}, \"inset_element\": {\"include\": true, \"description\": \"Small rounded-square inset photo in the bottom-right corner showing the real, unaltered reference photo/headshot of the subject for identity comparison\", \"style\": \"White rounded border, drop shadow, placed at bottom-right corner without obscuring the main subject's face\"}, \"negative_prompt\": \"no torn or ripped suit fabric, no visible skin through suit tears, no cartoonish rendering, no extra limbs, no distorted hands, no harsh flat lighting, no blurry face, no mismatched identity\"}",
+    "title": "Spider-Man Rooftop Suit Portrait",
+    "description": "A structured prompt for generating photorealistic composite portraits of Spider-Man on a city rooftop, focusing on costume texture and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482591074_s5zwsk_HOfuK3AbcAA8VM2.jpg",
+      "https://cms-assets.youmind.com/media/1785482591081_14mhb1_HOfuNWBbYAAudMw.jpg",
+      "https://cms-assets.youmind.com/media/1785482591373_2ozusv_HOfuPsxaYAAy0lN.jpg",
+      "https://cms-assets.youmind.com/media/1785482591875_7tb4qx_HOfuR7faYAAUnEV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30330,
+    "content": "Dramatic, fine art oil portrait of a {argument name=\"subject\" default=\"young woman\"} with {argument name=\"hair color\" default=\"light brown hair\"} styled in an elegant updo, featuring loose strands framing her face. She is captured in a three-quarter profile pose with a thoughtful expression, wearing a {argument name=\"outfit\" default=\"high-collared dark lace dress\"} and ornate dangling earrings. The scene uses chiaroscuro lighting, with a soft light source illuminating the right side of her face, nose, and lips, while casting the rest of her features and the textured dark background into deep, moody shadow. The digital painting style emphasizes visible brushstrokes and a rich, classical texture reminiscent of Renaissance portraiture.",
+    "title": "Fine Art Oil Portrait of a Young Woman",
+    "description": "A detailed prompt for generating a Renaissance-style oil portrait featuring dramatic chiaroscuro lighting and elegant details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482583544_j9n1d7_HOfm_MMX0AAxZ4v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30345,
+    "content": "Professional studio portrait, using the face and likeness from the uploaded photo, subject making a {argument name=\"gesture\" default=\"finger heart gesture\"} with one hand raised near chest height, thumb and index finger forming a small heart shape, warm friendly smile, {argument name=\"outfit\" default=\"casual black outfit\"}, soft even studio lighting, {argument name=\"background\" default=\"clean neutral gray background\"}, sharp focus on face and hand, natural skin texture, high-end editorial photography, consistent facial identity preserved from the uploaded photo, vertical portrait format, high resolution",
+    "title": "Studio Portrait Heart Gesture",
+    "description": "Generates a professional studio portrait featuring a friendly heart gesture, designed to preserve the subject's identity from an uploaded photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482596180_fcq2nu_HOfMejTaEAAbNsv.jpg",
+      "https://cms-assets.youmind.com/media/1785482594658_gmn2a5_HOfMfIUbYAAUSwD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30332,
+    "content": "Expressive mixed-media portrait style on reddish-brown toned paper, rough textured background resembling warm sepia kraft paper, loose and gestural sketch lines combined with painterly strokes, visible construction lines and scribbles, semi-abstract rendering, face and neck highly refined with layered brushwork and subtle color blending, while the rest of the body remains unfinished and loosely suggested, fragmented edges and fading outlines, dynamic linework with pencil and ink feel, soft diffused lighting with warm and cool tonal contrasts, raw artistic process aesthetic, imperfect and organic, with visible strokes, cross-hatching, and color blocking, contemporary expressive realism style.",
+    "title": "Expressive Mixed-Media Sketch Portrait",
+    "description": "An artistic prompt for creating semi-abstract, gestural portraits that blend sketch lines with painterly strokes on textured paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482585264_57adtw_HOepJoTagAAGZve.jpg",
+      "https://cms-assets.youmind.com/media/1785482584920_w8w7ff_HOepKP0bkAA-MU1.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 30204,
-    "content": "A series of two photorealistic outdoor portraits featuring the same young woman with distinctive {argument name=\"hair style\" default=\"curly auburn hair\"}, light freckles, and a gentle, warm expression. She is wearing a textured, long-sleeved {argument name=\"clothing\" default=\"maroon or rust-colored blouse\"} with a lace-trimmed neckline and a simple, dark-corded pendant necklace. The first image is a front-facing close-up, where she looks directly at the camera with her hands clasped in front of her, bathed in soft, dappled sunlight filtered through trees, creating a natural bokeh background of green foliage. The second image is a side profile portrait, showing her smiling broadly upwards and to the side against a blurred, darker, textured wall background, with sunlight highlighting the curls and contours of her face. The lighting throughout is natural and flattering. The images have a consistent, warm, and natural feel.",
-    "title": "Curly Auburn Hair Portraits",
-    "description": "A prompt for generating a series of photorealistic outdoor portraits featuring a woman with curly auburn hair and natural freckles in warm sunlight.",
+    "content": "A series of two photorealistic outdoor portraits featuring the same young woman with distinctive {argument name=\"hair color\" default=\"curly auburn hair\"}, light freckles, and a gentle, warm expression. She is wearing a {argument name=\"outfit\" default=\"textured, long-sleeved maroon or rust-colored blouse\"} with a lace-trimmed neckline and a simple, dark-corded pendant necklace. The first image is a front-facing close-up, where she looks directly at the camera with her hands clasped in front of her, bathed in {argument name=\"lighting\" default=\"soft, dappled sunlight\"} filtered through trees, creating a natural bokeh background of green foliage. The second image is a side profile portrait, showing her smiling broadly upwards and to the side against a blurred, darker, textured wall background, with sunlight highlighting the curls and contours of her face. The lighting throughout is natural and flattering. The images have a consistent, warm, and natural feel.",
+    "title": "Auburn Hair Outdoor Portrait",
+    "description": "A series of two photorealistic portraits of a woman with curly auburn hair in a natural outdoor setting with dappled sunlight.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395932288_px3vxa_HOdA-l4WEAA87Cg.jpg",
-      "https://cms-assets.youmind.com/media/1785395932567_2ve3n4_HOdA_mWXwAAVxOE.jpg"
+      "https://cms-assets.youmind.com/media/1785482588856_130k6h_HOdA-l4WEAA87Cg.jpg",
+      "https://cms-assets.youmind.com/media/1785482588905_kc7ycd_HOdA_mWXwAAVxOE.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 30206,
-    "content": "A series of three photorealistic studio portraits featuring the same young woman. The central subject has dark hair styled in a low bun, striking {argument name=\"eye color\" default=\"blue\"} eyes, and full lips. She is wearing a distinct, {argument name=\"clothing\" default=\"high-necked, long-sleeved yellow silk blouse\"} with gathered fabric details. In the first image, she is in a three-quarter profile looking directly at the camera. In the second image, she is in a sharper profile, looking to the right of the frame. The third image is a more dramatic, close-up profile view, also looking to the right. The lighting is {argument name=\"lighting style\" default=\"low-key and dramatic\"}, with a soft, warm key light illuminating one side of her face and the yellow fabric, creating deep shadows on the dark, textured background. The focus is sharp on her face and the texture of the silk. The overall aesthetic is elegant and mysterious.",
-    "title": "Dramatic Yellow Silk Portrait",
-    "description": "An elegant series of low-key studio portraits focusing on the texture of a yellow silk blouse and dramatic lighting.",
+    "content": "A series of three photorealistic studio portraits featuring the same young woman. The central subject has dark hair styled in a low bun, {argument name=\"eye color\" default=\"striking blue eyes\"}, and full lips. She is wearing a distinct, {argument name=\"outfit\" default=\"high-necked, long-sleeved yellow silk blouse\"} with gathered fabric details. In the first image, she is in a three-quarter profile looking directly at the camera. In the second image, she is in a sharper profile, looking to the right of the frame. The third image is a more dramatic, close-up profile view, also looking to the right. The {argument name=\"lighting\" default=\"lighting is low-key and dramatic\"}, with a soft, warm key light illuminating one side of her face and the yellow fabric, creating deep shadows on the dark, textured background. The focus is sharp on her face and the texture of the silk. The overall aesthetic is elegant and mysterious.",
+    "title": "Yellow Silk Studio Portrait",
+    "description": "A series of three photorealistic studio portraits of a woman wearing a yellow silk blouse, utilizing low-key dramatic lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395935198_478so2_HOcg-FVWQAAqNre.jpg",
-      "https://cms-assets.youmind.com/media/1785395935178_hfpz20_HOcg-7-WsAEAM-1.jpg",
-      "https://cms-assets.youmind.com/media/1785395935173_8oldho_HOcg_sDWEAAPUQP.jpg"
+      "https://cms-assets.youmind.com/media/1785482587060_a5nv2g_HOcg-FVWQAAqNre.jpg",
+      "https://cms-assets.youmind.com/media/1785482587413_1spg1v_HOcg-7-WsAEAM-1.jpg",
+      "https://cms-assets.youmind.com/media/1785482587245_xkwyq2_HOcg_sDWEAAPUQP.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 30207,
-    "content": "A premium semi-realistic digital portrait painting with refined editorial illustration aesthetics, combining expressive painterly brushwork and polished realism. Smooth yet visible layered brush strokes define every facial plane, with subtle painterly texture replacing photographic sharpness. Rich volumetric lighting and carefully blended color transitions create sculptural depth while preserving handcrafted artistic character. A {argument name=\"color palette\" default=\"warm, elegant color palette featuring cream, ivory, warm beige, light sand, soft peach, burnt orange, terracotta, muted sienna, warm brown, charcoal navy, slate blue, and delicate desaturated teal accents\"}. The background consists of abstract painterly brush strokes, soft watercolor washes, dry-brush textures, and subtle paint splatters, creating an airy fine-art atmosphere. Soft cinematic lighting with luminous skin highlights. {argument name=\"hair style\" default=\"Hair is rendered using layered flowing brush strokes with natural volume and individual strand definition\"}. Clothing combines broad painterly strokes with selective detail, emphasizing elegant simplicity rather than excessive texture. A clean contemporary fine-art illustration style inspired by high-end editorial portrait paintings, museum-quality digital artwork, expressive handcrafted brushwork, harmonious composition, vertical composition (9:16), no text, no typography, no signature, no initials, no logo, no watermark, no frame.",
-    "title": "Editorial Illustration Digital Painting",
-    "description": "A prompt for a premium semi-realistic digital portrait painting with expressive brushwork and a warm, elegant color palette.",
+    "content": "A premium semi-realistic digital portrait painting with refined editorial illustration aesthetics, combining expressive painterly brushwork and polished realism. Smooth yet visible layered brush strokes define every facial plane, with subtle painterly texture replacing photographic sharpness. Rich volumetric lighting and carefully blended color transitions create sculptural depth while preserving handcrafted artistic character. A {argument name=\"color palette\" default=\"warm, elegant color palette featuring cream, ivory, warm beige, light sand, soft peach, burnt orange, terracotta, muted sienna, warm brown, charcoal navy, slate blue, and delicate desaturated teal accents\"}. The background consists of abstract painterly brush strokes, soft watercolor washes, dry-brush textures, and subtle paint splatters, creating an airy fine-art atmosphere without distracting from the portrait. Soft cinematic lighting with luminous skin highlights, gentle ambient shadows, and balanced medium-to-high contrast. Hair is rendered using layered flowing brush strokes with natural volume and individual strand definition. Clothing combines broad painterly strokes with selective detail, emphasizing {argument name=\"clothing style\" default=\"elegant simplicity\"} rather than excessive texture. A clean contemporary fine-art illustration style inspired by high-end editorial portrait paintings, museum-quality digital artwork, ultra-detailed yet painterly, crisp edges with soft organic transitions, premium matte finish, expressive handcrafted brushwork, harmonious composition, vertical composition (9:16), no text, no typography, no signature, no initials, no logo, no watermark, no frame.",
+    "title": "Editorial Digital Portrait Painting",
+    "description": "A prompt for creating premium semi-realistic digital portraits with expressive brushwork and refined fine-art aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395936134_5wchnm_HOceE3iXwAAwpo5.jpg",
-      "https://cms-assets.youmind.com/media/1785395936149_ytip88_HOceFkJXsAA6S3a.jpg",
-      "https://cms-assets.youmind.com/media/1785395936202_w1henn_HOceGQJXAAAM1O6.jpg",
-      "https://cms-assets.youmind.com/media/1785395937032_18rcl6_HOceHJgXsAAAfwB.jpg"
+      "https://cms-assets.youmind.com/media/1785482591821_9g1kgo_HOceE3iXwAAwpo5.jpg",
+      "https://cms-assets.youmind.com/media/1785482591875_ppikxg_HOceFkJXsAA6S3a.jpg",
+      "https://cms-assets.youmind.com/media/1785482592003_putlm6_HOceGQJXAAAM1O6.jpg",
+      "https://cms-assets.youmind.com/media/1785482592635_p7zzeu_HOceHJgXsAAAfwB.jpg"
     ],
     "needReferenceImages": false
   },
@@ -215,6 +259,17 @@
       "https://cms-assets.youmind.com/media/1785309327353_le1ong_HOVGEstaoAE2r2M.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 29968,
+    "content": "Ultra-realistic, high-end fashion editorial studio portrait of a beautiful young {argument name=\"subject ethnicity\" default=\"Korean woman\"} standing confidently in a {argument name=\"setting\" default=\"luxury photography studio\"}. The scene uses an intentionally minimal lighting setup with a nearly black seamless backdrop, allowing the subject to become the sole focus. A single large softbox positioned slightly to one side creates soft sculpting light across her face, while a subtle rim light gently separates her silhouette from the dark background. No props, no distractions, and no environmental elements.\n\nShe poses with effortless confidence, maintaining elegant posture and direct eye contact with the camera. She wears a {argument name=\"outfit\" default=\"modern, sophisticated fashion-forward outfit consisting of a tailored black cropped blazer layered over a sleek ivory satin camisole\"}. Her long glossy dark hair falls naturally with a clean center part, complementing natural Korean-inspired makeup featuring flawless luminous skin, soft neutral eyeshadow, defined lashes, subtle eyeliner, and muted rose lips.\n\nThe composition is clean, premium, and editorial, emphasizing her facial features, outfit, and confident presence. Rich shadows, cinematic contrast, refined skin texture, realistic fabric details, and luxury magazine aesthetics. Captured on a full-frame professional camera with an 85mm portrait lens at f/1.8, shallow depth of field, razor-sharp focus on the eyes, ultra-high resolution, true-to-life colors, Vogue-quality fashion photography, masterpiece, photorealistic, premium commercial studio shoot. Vertical 9:16 composition.",
+    "title": "High-End Fashion Editorial Studio Portrait",
+    "description": "A sophisticated prompt for a premium fashion editorial portrait of a young Korean woman in a luxury studio, featuring minimalist lighting and high-fashion styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482596800_ijf70r_HOS8MqWbsAElpfm.jpg",
+      "https://cms-assets.youmind.com/media/1785482596747_vhbdlp_HOS8MqPakAA9ibl.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 29969,

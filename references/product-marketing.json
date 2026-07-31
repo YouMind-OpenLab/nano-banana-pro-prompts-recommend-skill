@@ -21,26 +21,69 @@
     "needReferenceImages": true
   },
   {
-    "id": 30205,
-    "content": "A beautiful young East Asian woman with fair skin and soft makeup, long black hair styled in a {argument name=\"hair style\" default=\"side braid\"} cascading over her left shoulder, gentle closed-mouth smile looking at the camera. She is wearing a {argument name=\"outfit\" default=\"tight black off-the-shoulder mini dress\"} with ruffled short sleeves, standing in a slight three-quarter pose with her left hand lightly touching her braid. Delicate thin necklace with a small pendant. Soft natural daylight. Background: beige textured wall, blue-framed window, wooden wall sign with a cartoon dog illustration and text “with best friend pet friendly zone”, hanging industrial light bulb, light wooden table with a small white handbag featuring a pink bow and pearl-beaded handle, blue metal folding chairs. Outdoor café patio setting, realistic photography, sharp details, natural skin texture, cinematic lighting.",
-    "title": "East Asian Woman in Café",
-    "description": "A realistic photography prompt of a young East Asian woman at an outdoor café patio with soft natural daylight.",
+    "id": 30343,
+    "content": "Photorealistic street-style portrait of a {argument name=\"subject\" default=\"stunning young woman in her early 20s\"} with tanned olive skin, light freckles across her nose and cheeks, full lips with natural makeup, and long wavy dark brown hair styled in a messy half-up bun with loose strands framing her face. She wears black rectangular sunglasses, large thin gold hoop earrings, and a delicate gold necklace with a small four-leaf clover pendant. She is dressed in a {argument name=\"top\" default=\"tight light-blue ribbed short-sleeve crop top with white text reading \\\"[enter your text]\\\"\"} across the chest, paired with low-rise light-wash blue denim jeans. A sleek black leather shoulder bag hangs from her right shoulder. She leans casually against a textured light-grey concrete wall with concrete stairs visible on the right side, one hand tucked into her front jeans pocket, body slightly angled, head turned looking off to the side with a calm confident expression. Soft natural daylight, sharp focus, realistic skin texture, high detail, fashion photography style --ar 3:4 --stylize 250 --v 6",
+    "title": "Street-Style Fashion Portrait",
+    "description": "A trendy street-style fashion prompt for a young woman in an urban setting, featuring casual attire and realistic daylight.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395932551_bc4fen_HOcq0tCb0AARWsP.jpg",
-      "https://cms-assets.youmind.com/media/1785395932633_pqodjg_HOcq0tXaUAEHbZ0.jpg",
-      "https://cms-assets.youmind.com/media/1785395932572_bub7bw_HOcq0tDaoAA6DkZ.jpg",
-      "https://cms-assets.youmind.com/media/1785395933743_ko4sfr_HOcq0tbboAABf0Z.jpg"
+      "https://cms-assets.youmind.com/media/1785482593672_07nv1w_HOdBrZ0bUAEXWk-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30331,
+    "content": "Transform the {argument name=\"subject\" default=\"character\"} into a stylized collectible toy with glossy plastic textures, exaggerated features, miniature accessories, and premium blister-pack retail packaging with a cardboard backer.",
+    "title": "Stylized Collectible Toy Packaging",
+    "description": "This prompt creates a creative mock-up of a subject transformed into a collectible toy, complete with plastic textures and blister-pack retail packaging.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482583777_2nxgwf_HOhEOrOaUAAjfZj.jpg",
+      "https://cms-assets.youmind.com/media/1785482584781_v3zokw_HOhEQGwa4AA64iP.jpg",
+      "https://cms-assets.youmind.com/media/1785482585132_6jjlyt_HOhERZEbQAA5sXj.jpg",
+      "https://cms-assets.youmind.com/media/1785482584615_dz67va_HOhESa_aYAAuSsl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30339,
+    "content": "Create an ultra-realistic luxury fashion editorial portrait of a {argument name=\"subject\" default=\"lean athletic Mediterranean man in his mid-20s\"}, photographed in a premium graphic studio for a high-fashion menswear campaign. He stands with his shoulders angled slightly away from the camera, his head lifted about 30 degrees upward, looking into the distance behind matte black rectangular designer sunglasses with dark smoke polarized lenses. His expression is calm, confident, and effortlessly stylish. He has a strong oval face with a sculpted jawline, light olive skin rendered entirely in monochrome with a natural matte finish, realistic skin texture, dense naturally shaped eyebrows, a straight masculine nose, medium-full neutral lips, and a neatly groomed designer short beard connected to a mustache. His hair is deep black, medium length, naturally curly, thick, voluminous, and softly matte. He wears an oversized premium {argument name=\"outerwear\" default=\"black insulated puffer jacket\"} made from technical matte nylon with a fully raised high stand-up collar, creating a bold luxury silhouette inspired by Moncler, Prada, Saint Laurent, Balenciaga, Off-White, and Vogue Hommes editorials. The portrait is set against a perfectly smooth, seamless, {argument name=\"background color\" default=\"vibrant saturated yellow\"} studio backdrop, creating a striking selective-color effect. The subject remains completely monochrome while the yellow background retains its full, vivid saturation, resulting in a bold pop-art-inspired editorial aesthetic. Light the scene with a professional studio softbox setup using a large diffused key light positioned 45 degrees camera-left, complemented by subtle fill lighting, medium contrast, clean fashion shadows, and evenly illuminated high-key background lighting. Compose the image as a tight chest-up portrait in a 4:5 aspect ratio, photographed from a slightly below eye-level angle, emphasizing the subject's face, sunglasses, and dramatic jacket collar with minimal negative space. Capture the image using a Canon EOS R5 Mark II with an RF 85mm f/1.2L USM lens at f/2.2, 1/200 second shutter speed, ISO 100, producing exceptional sharpness with soft background separation. Apply premium commercial editorial retouching while preserving natural skin texture, realistic facial details, and fabric textures. Use high clarity, wide dynamic range, deep rich blacks, clean highlights, and high-contrast editorial color grading. The subject should remain fully monochrome while the background stays vividly yellow, creating a modern graphic composition suitable for a luxury fashion campaign. Ultra-realistic, 8K resolution, commercial-ready, minimal editorial styling, selective color, yellow backdrop, luxury puffer jacket, designer sunglasses, modern menswear, bold graphic composition.",
+    "title": "Luxury Fashion Editorial Portrait",
+    "description": "A high-fashion menswear campaign prompt featuring a monochrome subject against a vivid yellow backdrop for a striking pop-art aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482590304_deev1e_HOf4KiCWAAANYom.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30344,
+    "content": "A handsome male in his late twenties to early thirties stands at the center of the frame angled in a forty-five-degree turn with tilted shoulders and his weight perfectly centered. He possesses a bronze tan, a sharply defined jawline, and subtle stubble, exuding a confident, candid demeanor as he gazes away from the lens with a neutral, unsmiling expression. He wears a {argument name=\"shirt\" default=\"highly saturated navy blue unbuttoned linen shirt\"} complemented by clear-framed sunglasses and a single white wireless earbud. His medium-short hair reaches the nape of his neck and is styled in a {argument name=\"hairstyle\" default=\"slicked-back pompadour undercut variation\"} holding a high-shine wet-look pomade that reveals distinct comb marks and organic separation. Natural imperfections give the hair absolute realism showcasing slight flyaways at the crown, uneven texture patterns near the ears, and organic clumping of strands rather than perfect smoothness, with volume concentrated at the front in a natural slightly off-center swept direction. He stands isolated within a {argument name=\"background\" default=\"deep outdoor urban street environment\"} where the midground and background remain tack sharp. To the left midground, a weathered rough matte red brick building features exposed surfaces, visible mortar lines and multiple windows. The right background is dominated by an aged light gray stone and concrete building with large glass windows, architectural cornices, and dark trash bins resting at the concrete street level. Above it all, a small silhouette of a bird flies against the expansive negative space of a highly saturated sky blue canopy on the top left creating an asymmetric balance. The scene is bathed in bright highly directional hard natural front sunlight emitting a warm golden temperature that establishes a split-complementary color palette of striking warm tans, gray, and cool blues. This harsh single-source illumination carves out deep black short shadows with harshly defined edges under the subject's jaw, inside his shirt collar, and casting sharp angles across the right side of his face and neck. Intense specular highlights gleam on his forehead, the tip of his nose, cheekbones, sunglasses frames, and shirt buttons, entirely devoid of ambient fill to maintain a dramatic high-contrast energetic summer mood. Captured as a realistic digital photograph blending street-style fashion portraiture with contemporary lifestyle imagery from a low angle perspective, the shot is executed with a wide lens at a high aperture for a deep depth of field, an ISO of 100, and a fast shutter speed to freeze details, then treated with enhanced blue and orange-teal color grading, sharp clarity, and high contrast adjustments, framed perfectly in a 4:5 aspect ratio.",
+    "title": "Urban Street Style Male Portrait",
+    "description": "A high-contrast street fashion portrait prompt for a male subject in an urban environment with dramatic natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482595592_5gzza8_HNgQNCwWgAAUD4l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30334,
+    "content": "A full-length studio editorial portrait of {argument name=\"subject\" default=\"Madison Beer\"} with straight hair parted down the middle. She is sitting on a light wood dining chair with a woven straw seat, her body turned away from the camera so her back is primarily facing the viewer. She looks over her right shoulder in profile toward the lens. She wears a {argument name=\"top style\" default=\"fitted black spaghetti-strap tank top\"}, {argument name=\"bottoms\" default=\"light-wash denim cut-off shorts\"} with frayed hems and a silver button closure with a small sign 'Keor' embroidered on border, and a simple black choker necklace. She is wearing red high heels stilettos, with long yellow-painted fingernails and toenails. She is wearing large silver hoop earrings and rings on her left hand.\nShe has a sculpted, athletic physique and assumes a relaxed yet commanding pose with her legs positioned apart—one leg extended slightly forward and the other bent, her left hand resting on the backrest of the chair and her right hand on the seat. She stares into the lens with a confident, striking expression, a subtle smile, a sharp cat-eye eyeliner, elaborate makeup, and a soft lipstick tone.\nThe background is a clean, seamless off-white backdrop with no distractions. Shot on a medium format Hasselblad H6D-100c with an 85mm f/1.4 lens at eye level, capturing a precise vertical full-body frame from head to toe. Diffuse, even studio lighting with soft shadows, rich textures, visible skin micro-details, critical sharpness locked on the iris, f/8 depth of field, and a confident, bold mood.",
+    "title": "Studio Editorial Denim Fashion Portrait",
+    "description": "A professional studio photography prompt for an editorial fashion portrait featuring denim styling and a medium-format camera aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482586932_mq6cd8_HOeSpGBWgAAsH3m.jpg",
+      "https://cms-assets.youmind.com/media/1785482586866_zb3idd_HOeSpGEXkAEe3Cg.jpg",
+      "https://cms-assets.youmind.com/media/1785482586664_0hkywa_HOeSpF-W8AAsRWh.jpg",
+      "https://cms-assets.youmind.com/media/1785482587589_584h0w_HOeSpGCXsAAz0mz.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 30208,
-    "content": "{\n  \"subject\": \"{argument name=\"subject\" default=\"A stunning young woman in her mid-20s with warm medium skin tone, long voluminous dark hair dramatically blowing to the side, soft closed eyes, full lips with glossy finish, and elegant facial features.\"}\",\n  \"body\": \"Curvaceous figure with defined waist and smooth glowing skin.\",\n  \"outfit\": \"{argument name=\"clothing\" default=\"Sparkly silver-and-black zebra print sequined halter top with lace trim along the bust, paired with a tight black satin mini skirt\"}\",\n  \"pose\": \"Standing against a plain wall, body slightly angled, head tilted downward with eyes closed, one hand lightly resting near her hip, hair caught in motion.\",\n  \"expression\": \"Soft, sensual, and dreamy expression with closed eyes and parted lips.\",\n  \"lighting\": \"Soft studio lighting with directional side light creating dramatic shadows on the wall and beautiful highlights on the sequins and skin.\",\n  \"setting\": \"Minimalist studio with a plain light gray wall, clean and focused composition.\",\n  \"style\": \"Photorealistic, ultra-detailed 8k, cinematic fashion portrait, realistic sequin sparkle and fabric textures, sharp focus on subject, high-end editorial photography.\",\n  \"camera\": \"{argument name=\"camera\" default=\"Shot on Sony A7R V, 85mm lens, f/2.0, natural depth of field\"}\",\n  \"mood\": \"Sensual, glamorous, dramatic, and stylish\"\n}",
-    "title": "Zebra Print Sequined Portrait",
-    "description": "A highly detailed, cinematic fashion portrait prompt featuring a zebra print sequined top and dramatic studio lighting.",
+    "content": "{\n  \"subject\": \"{argument name=\"subject description\" default=\"A stunning young woman in her mid-20s with warm medium skin tone, long voluminous dark hair dramatically blowing to the side, soft closed eyes, full lips with glossy finish, and elegant facial features.\"}\",\n  \"body\": \"Curvaceous figure with defined waist and smooth glowing skin.\",\n  \"outfit\": \"{argument name=\"top style\" default=\"Sparkly silver-and-black zebra print sequined halter top\"} with lace trim along the bust, paired with a {argument name=\"skirt style\" default=\"tight black satin mini skirt\"}, multiple silver bangles on one wrist, and rings on her fingers.\",\n  \"pose\": \"Standing against a plain wall, body slightly angled, head tilted downward with eyes closed, one hand lightly resting near her hip, hair caught in motion.\",\n  \"expression\": \"Soft, sensual, and dreamy expression with closed eyes and parted lips.\",\n  \"lighting\": \"Soft studio lighting with directional side light creating dramatic shadows on the wall and beautiful highlights on the sequins and skin.\",\n  \"setting\": \"Minimalist studio with a plain light gray wall, clean and focused composition.\",\n  \"style\": \"Photorealistic, ultra-detailed 8k, cinematic fashion portrait, realistic sequin sparkle and fabric textures, sharp focus on subject, high-end editorial photography.\",\n  \"camera\": \"Shot on Sony A7R V, 85mm lens, f/2.0, natural depth of field\",\n  \"mood\": \"Sensual, glamorous, dramatic, and stylish\"\n}",
+    "title": "Glamorous Studio Fashion Portrait",
+    "description": "A high-end editorial fashion prompt for a glamorous portrait with dramatic lighting and detailed fabric textures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785395934994_l1n7et_HOcLQeRaYAAF-13.jpg",
-      "https://cms-assets.youmind.com/media/1785395936679_ussq1q_HOcLRIRbgAAKW86.jpg"
+      "https://cms-assets.youmind.com/media/1785482584943_bgyz8f_HOcLQeRaYAAF-13.jpg",
+      "https://cms-assets.youmind.com/media/1785482585106_88ds2c_HOcLRIRbgAAKW86.jpg"
     ],
     "needReferenceImages": false
   },
@@ -238,6 +281,17 @@
       "https://cms-assets.youmind.com/media/1785309322508_6mt5ml_HON1NfAawAARWvT.jpg",
       "https://cms-assets.youmind.com/media/1785309322542_3i6p5j_HON1NezbUAAp1O2.jpg",
       "https://cms-assets.youmind.com/media/1785309323407_nunvy6_HON1NfWakAAa52w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29968,
+    "content": "Ultra-realistic, high-end fashion editorial studio portrait of a beautiful young {argument name=\"subject ethnicity\" default=\"Korean woman\"} standing confidently in a {argument name=\"setting\" default=\"luxury photography studio\"}. The scene uses an intentionally minimal lighting setup with a nearly black seamless backdrop, allowing the subject to become the sole focus. A single large softbox positioned slightly to one side creates soft sculpting light across her face, while a subtle rim light gently separates her silhouette from the dark background. No props, no distractions, and no environmental elements.\n\nShe poses with effortless confidence, maintaining elegant posture and direct eye contact with the camera. She wears a {argument name=\"outfit\" default=\"modern, sophisticated fashion-forward outfit consisting of a tailored black cropped blazer layered over a sleek ivory satin camisole\"}. Her long glossy dark hair falls naturally with a clean center part, complementing natural Korean-inspired makeup featuring flawless luminous skin, soft neutral eyeshadow, defined lashes, subtle eyeliner, and muted rose lips.\n\nThe composition is clean, premium, and editorial, emphasizing her facial features, outfit, and confident presence. Rich shadows, cinematic contrast, refined skin texture, realistic fabric details, and luxury magazine aesthetics. Captured on a full-frame professional camera with an 85mm portrait lens at f/1.8, shallow depth of field, razor-sharp focus on the eyes, ultra-high resolution, true-to-life colors, Vogue-quality fashion photography, masterpiece, photorealistic, premium commercial studio shoot. Vertical 9:16 composition.",
+    "title": "High-End Fashion Editorial Studio Portrait",
+    "description": "A sophisticated prompt for a premium fashion editorial portrait of a young Korean woman in a luxury studio, featuring minimalist lighting and high-fashion styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482596800_ijf70r_HOS8MqWbsAElpfm.jpg",
+      "https://cms-assets.youmind.com/media/1785482596747_vhbdlp_HOS8MqPakAA9ibl.jpg"
     ],
     "needReferenceImages": false
   },

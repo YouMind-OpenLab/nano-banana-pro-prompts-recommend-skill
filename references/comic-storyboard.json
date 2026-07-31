@@ -1,5 +1,38 @@
 [
   {
+    "id": 30346,
+    "content": "Render the reference blockout as a scene from a {argument name=\"movie style\" default=\"Doraemon\"} movie. Ensure that all environmental elements closely match the worldbuilding, setting, atmosphere, and visual style of the films.",
+    "title": "Doraemon Movie Style Scene Render",
+    "description": "A transformation prompt that turns a reference blockout image into a cinematic scene matching the visual style and atmosphere of a Doraemon film.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482598393_t93fad_HOes4-KbgAAe23j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30341,
+    "content": "A multi-panel photographic grid featuring a {argument name=\"subject\" default=\"woman with long hair and a red V-neck dress\"} against a {argument name=\"background\" default=\"warm mustard-yellow background\"}, capturing a diverse range of dynamic facial expressions and emotions across the frames, including joyous laughter, playful winks, thoughtful contemplation, subtle confusion, and dramatic grimaces, all styled with soft, studio-lit portraiture.",
+    "title": "Multi-Panel Expression Grid",
+    "description": "Generates a grid of diverse facial expressions and emotions for a character, set against a solid warm background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482592164_1i11l1_HOefss0WwAA-bFN.jpg",
+      "https://cms-assets.youmind.com/media/1785482591995_c11f4a_HOeftvOWkAAD89A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30335,
+    "content": "A serene literary escape amidst blooming garden ruins, where quiet pages meet timeless daydreams. Set within a {argument name=\"setting\" default=\"sunlit, ivy-covered stone archway\"}, a {argument name=\"subject\" default=\"young woman with short dark hair\"} immerses herself in a rustic journal and classic literature. Dressed in a {argument name=\"outfit\" default=\"floral patterned vintage slip dress paired with brown leather boots\"}, she is surrounded by lush green foliage and delicate pink roses. Whimsical illustrated thought bubbles drift overhead, symbolizing imagination and storytelling. Golden hour lighting filters through the ancient trees, casting a warm, magical glow over the cobblestone path.",
+    "title": "Serene Garden Literary Portrait",
+    "description": "A peaceful garden-themed prompt featuring a woman writing in a journal amidst ivy-covered stone ruins.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785482588392_oyzihv_HOdo8OTWcAAsFD7.jpg",
+      "https://cms-assets.youmind.com/media/1785482588450_vgfguk_HOdo9WjXkAAW1yL.jpg",
+      "https://cms-assets.youmind.com/media/1785482588344_m52zl4_HOdo-wjWIAA0jyL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30218,
     "content": "Create a high-end 4:3 fragrance pitch deck storyboard in {argument name=\"grid layout\" default=\"3x4 grid (12 frames)\"}, editorial layout, {argument name=\"aesthetic style\" default=\"Aesop/Byredo style\"}, {argument name=\"color palette\" default=\"beige + lavender palette\"}. Structured flow: intro → ritual → transformation → resolution → closure.",
     "title": "Luxury Fragrance Storyboard Layout",
