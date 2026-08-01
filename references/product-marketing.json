@@ -21,6 +21,40 @@
     "needReferenceImages": true
   },
   {
+    "id": 30433,
+    "content": "Ultra-realistic editorial fashion photography of a young East Asian woman standing in the middle of an endless blooming {argument name=\"flower type\" default=\"yellow rapeseed\"} flower field under a crystal-clear deep blue sky. She is captured from a slightly low-angle, three-quarter side profile while turning her head back toward the camera with a calm, dreamy expression. One arm is naturally extended toward the viewer as if inviting them to follow, creating strong depth and perspective. Her posture is relaxed with subtle body twist, shoulders open, and natural movement.\nShe has shoulder-length silky black hair with soft wispy bangs, smooth porcelain skin, warm natural makeup, glossy coral lips, dark almond-shaped eyes, and a tiny beauty mark near her cheek. She wears a {argument name=\"top style\" default=\"delicate white floral corset camisole\"} with thin spaghetti straps, a white lace ribbon tied around her neck, a loose oversized blue plaid overshirt casually draped off one shoulder, and a flowing high-waisted white skirt. A simple wooden bracelet is worn on her wrist.\nThe background features endless vibrant yellow flowers stretching to the horizon, rolling green mountains, and an intense cloudless summer sky. Bright golden-hour sunlight creates soft natural highlights on her face and hair, realistic shadows, cinematic depth, and rich color contrast.\nShot on a {argument name=\"camera\" default=\"Sony A7R V with an 85mm f/1.4 GM lens\"}, shallow depth of field, creamy bokeh, HDR, ultra-detailed skin texture, realistic fabric folds, natural hair strands, lifelike lighting, high dynamic range, crisp focus, cinematic composition, editorial fashion style, premium travel photography, vibrant colors, 8K UHD, photorealistic, masterpiece, award-winning photography, no text, no watermark, no logo, no artifacts, no distortion, no extra fingers, anatomically correct, natural proportions.",
+    "title": "Editorial Rapeseed Flower Field",
+    "description": "An ultra-realistic editorial fashion prompt featuring an East Asian woman in a blooming yellow flower field, capturing dreamy summer vibes and high-end travel photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568115621_culdgf_HOnaIc0aMAAQMtj.jpg",
+      "https://cms-assets.youmind.com/media/1785568115680_fxbxcl_HOnaJaWagAADdDU.jpg",
+      "https://cms-assets.youmind.com/media/1785568115617_yehfmc_HOnaKaaa4AAXQ4f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30430,
+    "content": "Subject: A charismatic late-20s man. Clothing: {argument name=\"clothing brand\" default=\"WHITES\"} linen blazer (sleeves rolled up), {argument name=\"t-shirt color\" default=\"turquoise\"} t-shirt, white pleated trousers. Footwear: White leather loafers with no socks. Accessories: Aviator sunglasses (mirrored), chunky gold chain necklace, gold watch. Pose: Leaning against a white {argument name=\"car model\" default=\"Ferrari Testarossa\"}, one hand on the car door, looking coolly over his sunglasses. Camera Setup: Canon 1DX Mark III, 35mm lens, f/4.0. Angle of Capture: Medium wide shot, low angle. Setting: Ocean Drive, Miami, at sunset with palm trees. Lighting/Mood/Time of Day: Vibrant golden hour, neon signs beginning to glow, energetic and stylish mood. Style and Finish: Retro cinematic, highly saturated colors, strong bokeh on the background, 80s film grain.\nKEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO\nNegative Prompt 62: Modern clothing, dull colors, formal attire, blur, bad anatomy, extra limbs, poor quality, noisy, out of focus, duplicate elements, weird textures, digital, beige turtleneck",
+    "title": "80s Retro Miami Ferrari Portrait",
+    "description": "A cinematic retro prompt for generating a stylish man leaning against a white Ferrari Testarossa in Miami at sunset, featuring 80s film grain and vibrant colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568113689_tk2k2k_HOj7sKnXgAEeQp3.jpg",
+      "https://cms-assets.youmind.com/media/1785568113756_ryweir_HOj7sKyXcAAzekA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30435,
+    "content": "upper body portrait of a high-fashion {argument name=\"model ethnicity\" default=\"Asian\"} female model wearing eyeglasses, avant-garde styling, sleek hair tucked behind ears, statement makeup with glossy skin and defined lips, sharp jawline, confident and slightly cold expression, editorial pose, centered composition, full head visible with space above, clean {argument name=\"background\" default=\"pure white\"} background, dramatic yet soft studio lighting, luxury fashion campaign style, ultra detailed, shot on {argument name=\"lens\" default=\"85mm\"} lens, shallow depth of field, 4k, premium magazine quality, minimal but striking",
+    "title": "Avant-Garde Asian Fashion Model",
+    "description": "An editorial portrait prompt for a high-fashion model featuring eyeglasses, sleek styling, and dramatic studio lighting on a pure white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568115876_sug5ts_HOjBYY7bQAAIr7S.jpg",
+      "https://cms-assets.youmind.com/media/1785568116086_jfbnz5_HOjBYZBa0AAod7p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30343,
     "content": "Photorealistic street-style portrait of a {argument name=\"subject\" default=\"stunning young woman in her early 20s\"} with tanned olive skin, light freckles across her nose and cheeks, full lips with natural makeup, and long wavy dark brown hair styled in a messy half-up bun with loose strands framing her face. She wears black rectangular sunglasses, large thin gold hoop earrings, and a delicate gold necklace with a small four-leaf clover pendant. She is dressed in a {argument name=\"top\" default=\"tight light-blue ribbed short-sleeve crop top with white text reading \\\"[enter your text]\\\"\"} across the chest, paired with low-rise light-wash blue denim jeans. A sleek black leather shoulder bag hangs from her right shoulder. She leans casually against a textured light-grey concrete wall with concrete stairs visible on the right side, one hand tucked into her front jeans pocket, body slightly angled, head turned looking off to the side with a calm confident expression. Soft natural daylight, sharp focus, realistic skin texture, high detail, fashion photography style --ar 3:4 --stylize 250 --v 6",
     "title": "Street-Style Fashion Portrait",

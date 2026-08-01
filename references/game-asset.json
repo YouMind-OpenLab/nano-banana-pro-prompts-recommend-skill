@@ -1,5 +1,18 @@
 [
   {
+    "id": 30438,
+    "content": "A stunning young {argument name=\"subject\" default=\"East Asian woman\"} with porcelain skin, sharp almond eyes, and full red lips, dark hair pulled back into a sleek traditional Japanese updo, kneeling in seiza pose on a light tatami mat, looking directly at the camera with a fierce, intense expression. She wears elaborate {argument name=\"armor color\" default=\"red\"} lacquered {argument name=\"outfit\" default=\"samurai armor (yoroi)\"} with gold metal fittings and ornate circular emblems, layered overlapping scale plates on the shoulders (sode) and chest (dń), red silk cords and tassels, turquoise and gold floral-patterned silk underarmor visible at the sleeves and collar, matching armored gauntlets (kote) and thigh guards, short armored skirt revealing her thighs, pinkish-red armored boots. A katana with bright red lacquered saya rests over her left shoulder. Soft natural indoor lighting, traditional Japanese {argument name=\"room background\" default=\"room background with hanging calligraphy scroll\"} and golden samurai artifacts, highly detailed photorealistic, elegant and powerful, cinematic composition, 8k",
+    "title": "Japanese Samurai Woman in Red Armor",
+    "description": "A detailed photorealistic prompt for a powerful portrait of a woman wearing traditional red lacquered samurai armor in a tatami room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568118328_is0006_HOiZ4BVbgAAz8t7.jpg",
+      "https://cms-assets.youmind.com/media/1785568118378_pzpmff_HOiZ4BEaYAAKukb.jpg",
+      "https://cms-assets.youmind.com/media/1785568118517_3pu9l9_HOiZ4BHb0AAc5bn.jpg",
+      "https://cms-assets.youmind.com/media/1785568119350_0dlplk_HOiZ4BVbwAATxUE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30333,
     "content": "Ultra-realistic cinematic winter road scene, rear view of a {argument name=\"car style\" default=\"dusty silver-blue 1990s four-door sedan\"} driving alone along a winding snow-covered forest road, towering frost-covered birch and pine trees on both sides, branches coated in thick white snow, soft tire tracks on the icy asphalt, cold purple-blue twilight sky with no visible sun, subtle winter haze, atmospheric fog in the distance, quiet Nordic wilderness, lonely and melancholic mood, ultra-detailed textures, realistic reflections on the car windows, natural snow accumulation, low camera positioned behind the vehicle, centered composition, wide-angle 24mm lens, volumetric lighting, muted colors with lavender and blue cinematic color grading, HDR, ray-traced global illumination, depth of field, filmic contrast, 8K, Unreal Engine 5, photorealistic, masterpiece, highly detailed, sharp focus, no people, no traffic, vertical 9:16.",
     "title": "Cinematic Winter Road Landscape",

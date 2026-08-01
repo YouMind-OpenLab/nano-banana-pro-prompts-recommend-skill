@@ -11,13 +11,13 @@
   },
   {
     "id": 30347,
-    "content": "Ultra-realistic selfie-style fashion portrait of {argument name=\"hair color\" default=\"blonde\"} posing confidently in {argument name=\"room theme\" default=\"Supergirl home room\"}. She wears a {argument name=\"swimsuit style\" default=\"fitted white Super-Girl style one-piece swimsuit\"} with thin spaghetti straps, deep V-neckline, iconic red-and-yellow Super-Girl 'S' shield symbol, plus a small 'Keor' embroidery, and red stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with Krypton and House of El posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture.",
-    "title": "Supergirl Style Selfie Portrait",
-    "description": "A detailed prompt for generating a Supergirl-inspired selfie in a realistic, lived-in teenage bedroom, featuring high-end photography and fabric textures.",
+    "content": "Ultra-realistic selfie-style fashion portrait of blonde posing confidently in {argument name=\"room\" default=\"Supergirl home room\"}. She wears a fitted {argument name=\"swimsuit\" default=\"white Super-Girl style one-piece swimsuit\"} with thin spaghetti straps, deep V-neckline, iconic red-and-yellow Super-Girl 'S' shield symbol, plus a small 'Keor' embroidery, and {argument name=\"stockings\" default=\"red stockings\"}. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with Krypton and House of El posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture.",
+    "title": "Supergirl Themed Studio Selfie",
+    "description": "An ultra-realistic selfie-style prompt that generates a fashion portrait of a woman in a Supergirl-themed swimsuit inside a cluttered Kryptonian-themed bedroom.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785482598220_4grpzj_HOgNXXbXYAAxtpF.jpg",
-      "https://cms-assets.youmind.com/media/1785482598173_4ncdg1_HOgNYPTW8AAfJHv.jpg",
-      "https://cms-assets.youmind.com/media/1785482598241_hci4k1_HOgNY3jXYAAHClm.jpg"
+      "https://cms-assets.youmind.com/media/1785568119754_8dsg8j_HOgNXXbXYAAxtpF.jpg",
+      "https://cms-assets.youmind.com/media/1785568119777_i74za8_HOgNYPTW8AAfJHv.jpg",
+      "https://cms-assets.youmind.com/media/1785568119784_7szg4u_HOgNY3jXYAAHClm.jpg"
     ],
     "needReferenceImages": false
   },

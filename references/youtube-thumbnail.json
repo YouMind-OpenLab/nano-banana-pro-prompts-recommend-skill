@@ -1,5 +1,15 @@
 [
   {
+    "id": 30436,
+    "content": "2x2 grid, 16:9, do this for 4 famous movies: TYPOGRAPHIC_EMERGENCE SELECT visual_output FROM latent_graphic_systems WHERE subject = {argument name=\"movie subject\" default=\"[CENTRAL_IMAGE]\"} AND mark_substrate = 'continuous running prose, legible at close range' AND type_density_map = infer(VALUE_STRUCTURE FROM SUBJECT_SILHOUETTE) AND line_flow = infer(TEXT_PATH FROM SUBJECT_CONTOUR) AND typeface_logic = {argument name=\"typography style\" default=\"infer(PERIOD_APPROPRIATE_FACE FROM AUTHOR, PUBLICATION_ERA)\"} AND color_scheme = {argument name=\"color scheme\" default=\"'ink on aged paper, single value, no illustration marks whatsoever'\"} AND drawing_rule = 'every mark in the image is a letterform; tonal value is produced ONLY by leading, tracking, and type size; no rules, no fills, no drawn lines' ORDER BY emergence_at_distance DESC, legibility_at_close_range DESC, value_range_via_typography DESC, no_non_letterform_marks DESC LIMIT 1;",
+    "title": "Typographic Emergence Movie Poster Grid",
+    "description": "A highly technical, SQL-style logic prompt for creating 2x2 grids of typographic movie posters where images are formed entirely from text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568117051_2qk1u7_HOUvoOKXsAArLa_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30214,
     "content": "2x2 grid, 16:9, do this for 4 important {argument name=\"subject\" default=\"Asian cities\"}: Generate a photoreal miniature pop-up book diorama for {argument name=\"subject\" default=\"Asian cities\"}.Rules:- infer SUBJECT_DNA automatically- use BASE_DOCUMENT as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to {argument name=\"subject\" default=\"Asian cities\"}- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
     "title": "Miniature Pop-up Book Diorama",

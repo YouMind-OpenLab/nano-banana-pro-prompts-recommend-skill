@@ -1,5 +1,15 @@
 [
   {
+    "id": 30437,
+    "content": "A serene {argument name=\"setting\" default=\"literary escape amidst blooming garden ruins\"}, where quiet pages meet timeless daydreams. Set within a sunlit, ivy-covered stone archway, a {argument name=\"subject\" default=\"young woman with short dark hair\"} immerses herself in a {argument name=\"journal type\" default=\"rustic journal and classic literature\"}. Dressed in a floral patterned vintage slip dress paired with brown leather boots, she is surrounded by lush green foliage and delicate pink roses. Whimsical illustrated thought bubbles drift overhead, symbolizing imagination and storytelling. Golden hour lighting filters through the ancient trees, casting a warm, magical glow over the cobblestone path.",
+    "title": "Serene Literary Garden Escape",
+    "description": "A poetic prompt for a vintage-style portrait of a woman reading in a sunlit, ivy-covered garden ruin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785568118452_cmyljx_HOjC-2XbQAAZgwt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30346,
     "content": "Render the reference blockout as a scene from a {argument name=\"movie style\" default=\"Doraemon\"} movie. Ensure that all environmental elements closely match the worldbuilding, setting, atmosphere, and visual style of the films.",
     "title": "Doraemon Movie Style Scene Render",
