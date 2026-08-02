@@ -1,5 +1,35 @@
 [
   {
+    "id": 30550,
+    "content": "A {argument name=\"subject\" default=\"burlap voodoo doll\"} with a {argument name=\"heart detail\" default=\"red heart stitched in the center\"}. The doll has black cross-shaped eyes and a stitched mouth. Several {argument name=\"pins\" default=\"pins are stuck into the doll: one pink pin in its left leg, one blue pin in its right leg, and one red pin in its right arm\"}. The doll is covered in small, dash-like stitches, giving it a textured appearance.",
+    "title": "Stitched Burlap Voodoo Doll",
+    "description": "A descriptive prompt for a textured burlap voodoo doll featuring detailed stitching and colored pins.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654872886_nbjrwn_HOPXiqPWUAAiBWa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30568,
+    "content": "{argument name=\"action\" default=\"floatin'\"} in the {argument name=\"lighting\" default=\"dark\"}",
+    "title": "Floating Schoolgirl in Dark",
+    "description": "A simple atmospheric prompt for a schoolgirl floating in a dark environment, highlighting character beauty.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654886415_t8vibg_HOq74l3a0AAl03b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30542,
+    "content": "A whimsical, {argument name=\"style\" default=\"gothic-style\"} haunted house sits atop a {argument name=\"location\" default=\"rocky hill\"}, surrounded by gnarled, bare trees adorned with hanging lanterns. The house itself is tall and crooked, with multiple pointed roofs, a smoking chimney, and numerous windows glowing with {argument name=\"light color\" default=\"warm, yellow\"} light. A stone staircase winds up the hill towards the entrance, its steps partially obscured by the exposed roots of a large, ancient tree.",
+    "title": "Gothic Whimsical Haunted House",
+    "description": "A prompt for creating a stylized, gothic haunted house on a rocky hill, featuring crooked roofs and warm glowing windows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654866975_5mvlle_HOTw2EkW0AAvu0r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30438,
     "content": "A stunning young {argument name=\"subject\" default=\"East Asian woman\"} with porcelain skin, sharp almond eyes, and full red lips, dark hair pulled back into a sleek traditional Japanese updo, kneeling in seiza pose on a light tatami mat, looking directly at the camera with a fierce, intense expression. She wears elaborate {argument name=\"armor color\" default=\"red\"} lacquered {argument name=\"outfit\" default=\"samurai armor (yoroi)\"} with gold metal fittings and ornate circular emblems, layered overlapping scale plates on the shoulders (sode) and chest (dń), red silk cords and tassels, turquoise and gold floral-patterned silk underarmor visible at the sleeves and collar, matching armored gauntlets (kote) and thigh guards, short armored skirt revealing her thighs, pinkish-red armored boots. A katana with bright red lacquered saya rests over her left shoulder. Soft natural indoor lighting, traditional Japanese {argument name=\"room background\" default=\"room background with hanging calligraphy scroll\"} and golden samurai artifacts, highly detailed photorealistic, elegant and powerful, cinematic composition, 8k",
     "title": "Japanese Samurai Woman in Red Armor",

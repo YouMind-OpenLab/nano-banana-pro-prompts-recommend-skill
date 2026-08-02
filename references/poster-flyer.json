@@ -20,13 +20,23 @@
     "needReferenceImages": false
   },
   {
-    "id": 30426,
-    "content": "Ultra-detailed contemporary mixed-media portrait illustration style, expressive painterly brushwork blended with abstract gestural marks, layered collage aesthetic combining paint splashes, ink scribbles, fragmented shapes, and semi-transparent overlays, textured vintage paper background with subtle stains and worn edges, dynamic fusion of figurative realism and chaotic abstraction, vibrant warm color palette with {argument name=\"color accents\" default=\"coral red, burnt orange, peach, cream, and muted teal accents\"}, expressive linework and spontaneous splatter effects, layered acrylic and ink textures, modern editorial art style, fine art portrait combined with experimental abstract expressionism, high-detail painterly strokes, organic texture blending with digital collage elements, contemporary gallery-style illustration, raw artistic energy with controlled composition.",
-    "title": "Mixed-Media Abstract Portrait Illustration",
-    "description": "A detailed prompt for creating expressive, layered mixed-media portraits that blend figurative realism with chaotic abstract elements and textured backgrounds.",
+    "id": 30567,
+    "content": "{argument name=\"theme\" default=\"world beyond the mirror2\"} with {argument name=\"object\" default=\"infinite mirror\"}",
+    "title": "Infinite Mirror World Concept",
+    "description": "A conceptual prompt using infinite mirrors to test the model's spatial reasoning and character placement.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785568111057_8tkoz2_HOndsrZbUAAqX65.jpg",
-      "https://cms-assets.youmind.com/media/1785568110617_1tht2r_HOndtVuaUAAJDDa.jpg"
+      "https://cms-assets.youmind.com/media/1785654885673_hhipg8_HOp6TK9bYAAoApp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30426,
+    "content": "Ultra-detailed contemporary {argument name=\"art style\" default=\"mixed-media portrait illustration style\"}, expressive painterly brushwork blended with abstract gestural marks, layered collage aesthetic combining paint splashes, ink scribbles, fragmented shapes, and semi-transparent overlays, {argument name=\"background\" default=\"textured vintage paper background with subtle stains and worn edges\"}, dynamic fusion of figurative realism and chaotic abstraction, vibrant {argument name=\"color palette\" default=\"warm color palette with coral red, burnt orange, peach, cream, and muted teal accents\"}, expressive linework and spontaneous splatter effects, layered acrylic and ink textures, modern editorial art style, fine art portrait combined with experimental abstract expressionism, high-detail painterly strokes, organic texture blending with digital collage elements, contemporary gallery-style illustration, raw artistic energy with controlled composition.",
+    "title": "Mixed Media Abstract Portrait Illustration",
+    "description": "An elaborate prompt for generating high-detail contemporary portraits using a mix of traditional and digital art textures. It blends realism with abstract expressionism to create a dynamic, gallery-style aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654881828_dvaab6_HOndsrZbUAAqX65.jpg",
+      "https://cms-assets.youmind.com/media/1785654881851_3kh1pn_HOndtVuaUAAJDDa.jpg"
     ],
     "needReferenceImages": false
   },

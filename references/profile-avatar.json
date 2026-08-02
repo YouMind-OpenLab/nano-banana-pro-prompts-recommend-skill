@@ -10,6 +10,71 @@
     "needReferenceImages": false
   },
   {
+    "id": 30566,
+    "content": "Photography style: Daytime bright high-light CCD lifestyle style\nPortrait direction: Vacation lifestyle photo\nScene direction: {argument name=\"scene\" default=\"Yacht marina rest area / white railings / light-colored deck / distant ships\"}\nOutfit direction: {argument name=\"outfit\" default=\"Coral pink slim-fit halter neck crop top + white high-waisted shorts\"}\nTemperament tags: Bright, relaxed, refreshing, dating vibe, attractive\nFeatures direction: First-love style light facial features\nBody shape direction: Light and slender\nLine emphasis: Strong\nCamera direction: Half-body to thigh\nPosture/Action: {argument name=\"action\" default=\"Standing by the white railing, body slightly turned sideways, one hand holding the railing, looking back at the camera\"}\nLighting atmosphere: Dominated by bright daylight on a sunny day, sunlight from the side front clearly illuminating the subject; high-lights from white railings, the deck, and the sea surface provide natural reflective fill light; extremely weak soft flash slightly supplements catchlights and facial shadows\nFilter effect: High-brightness clear CCD colors + clean white highlights + clear midtones + stable black levels + light grain + very light digital noise\nAspect ratio: 9:16\nAdditional requirements: The coral pink top should be bright and fresh, not dirty or greyish; the halter design naturally highlights the neck, collarbones, and chest line, and the overall image should look like a bright lifestyle photo taken with a digital card camera during a sunny vacation.",
+    "title": "Bright CCD Style Vacation Lifestyle Photography",
+    "description": "Generates high-light lifestyle vacation photos with a digital CCD camera aesthetic. The prompt specifies bright lighting, relaxed poses, and specific outfit details for a refreshing dating-style look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654884469_bdqj45_HOsh1ZSbUAApH65.jpg",
+      "https://cms-assets.youmind.com/media/1785654883757_yya22p_HOsh2kbaIAAENxi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30545,
+    "content": "Hyper-realistic, ultra-detailed macro portrait capturing only the {argument name=\"subject part\" default=\"left half\"} of a {argument name=\"subject\" default=\"human face\"} partially submerged {argument name=\"environment\" default=\"underwater\"}. One eye in sharp focus near the far-left edge of the frame. Light rays create dynamic caustic reflections across the skin, emphasizing pores, wet lips, eyelashes, and fine textures with lifelike subsurface scattering. Suspended droplets and air bubbles add depth and motion. Cinematic underwater lighting with soft shadows and crisp highlights enhances the surreal, dreamlike atmosphere. Extremely shallow depth of field, photorealistic rendering, 4:5 aspect ratio.",
+    "title": "Underwater Macro Face Portrait",
+    "description": "A hyper-realistic prompt for a macro portrait of a face partially submerged in water, featuring caustic light reflections and air bubbles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654868805_qi4cxo_HOqIDolWMAAeyTl.jpg",
+      "https://cms-assets.youmind.com/media/1785654869143_34kztt_HOqIELuXsAEvF8r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30552,
+    "content": "A fine-art oil painting style portrait of a young woman with a classic updo hairstyle and soft, wavy tendrils framing her face, featuring expressive {argument name=\"eye color\" default=\"hazel-green\"} eyes, light freckles across her nose and cheeks, and a thoughtful expression. She is wearing a {argument name=\"dress style\" default=\"vintage-style mustard-yellow\"} long-sleeve dress accented with delicate lace panels on the bodice and sleeves, layered amber-gemstone pendant necklaces, and small gold hoop earrings, set against a {argument name=\"background\" default=\"moody, dark-toned textured backdrop\"} with dramatic Rembrandt-style lighting.",
+    "title": "Vintage Mustard Dress Portrait",
+    "description": "A fine-art oil painting style portrait with dramatic Rembrandt lighting, featuring a woman in a vintage lace dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654873640_5k2qj9_HOpGOpgXUAALP8p.jpg",
+      "https://cms-assets.youmind.com/media/1785654873623_76vwcm_HOpGPeJXsAAAF8E.jpg",
+      "https://cms-assets.youmind.com/media/1785654873615_zwdv7r_HOpGQNtWoAAiRu5.jpg",
+      "https://cms-assets.youmind.com/media/1785654874492_egn1ui_HOpGQ_bWwAAyXOp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30551,
+    "content": "Close-up portrait of a {argument name=\"subject\" default=\"young Asian woman\"} with dark hair in a {argument name=\"hairstyle\" default=\"messy bun\"} with loose face-framing strands, winking one eye playfully while blowing a kiss toward the camera with an outstretched hand. Soft candid smile, warm golden-hour sunlight streaming through blinds in the background, cozy bedroom setting with polaroid photos pinned to a beige wall and a potted plant softly blurred in the background. She wears an {argument name=\"outfit\" default=\"oversized cream/off-white t-shirt\"} and a thin gold necklace. Shallow depth of field, warm and dreamy color grading, natural film-like texture, soft diffused lighting, intimate and candid mood, shot on 50mm lens, shallow bokeh",
+    "title": "Candid Portrait at Golden Hour",
+    "description": "A warm and dreamy close-up portrait of a young woman in a cozy bedroom setting, featuring natural lighting and a film-like texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654873250_793wqw_HOo6aT8asAA9jiV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30556,
+    "content": "A cinematic, high-detail portrait of a young woman with a classic, elegant appearance, captured with {argument name=\"lighting\" default=\"soft, warm studio lighting\"}. She has {argument name=\"hair\" default=\"light blonde hair with darker roots\"}, styled in an updo with loose strands framing her face. Her striking amber-brown eyes gaze thoughtfully off to the side, and her expression is gentle and contemplative. She wears a {argument name=\"outfit\" default=\"muted mauve-pink lace dress\"}, paired with a matching fabric choker and delicate silver necklaces and earrings. The background is a dark, moody, and textured studio backdrop, enhancing the timeless, painterly quality of the shot.",
+    "title": "Painterly Studio Portrait",
+    "description": "A timeless, painterly portrait of an elegant woman with amber eyes, captured with soft warm studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654876134_38h849_HOodhXeXIAAmKEC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30557,
+    "content": "Same face as reference. Same dark, obsessive aesthetic. New pose, new angle, new visual narrative.\n\n**{argument name=\"pose and angle\" default=\"Pose & Angle:\"}** Sharp 45° three-quarter turn. Nose crosses into the light; one eye fully illuminated, the other dissolving into shadow. Far cheekbone briefly catches light before vanishing. Shadow-side jaw disappears entirely. The angle exposes the face's underlying structure — brow ridge, nose bridge, cheekbone, jawline — as distinct planes of light and dark.\n\n**Head Tilt:** Chin lowered a few degrees, gaze lifted toward camera through the brows — heavy-lidded, intense, quietly vulnerable. Slightly raised brows add natural forehead creasing. The tilt sharpens the jaw and lengthens the neck line.\n\n**{argument name=\"expression\" default=\"Expression:\"}** Lips parted about 3mm — a subtle exhale, not an emotional cue. The effect should feel candid and unguarded, like a private moment caught rather than staged.\n\n**Skin Rendering:** Same forensic-level detail, applied to new areas revealed by the angle — nose wing texture in raking light, under-eye skin from a fresh perspective, lit-side jaw stubble pattern, forehead topography under top light, and partial ear detail. Neck and collarbone edge just visible at the bottom, fading into darkness.\n\n**{argument name=\"lighting\" default=\"Lighting:\"}** A single hard light source, positioned higher and more to the side than before, producing a narrow, surgical beam. Lit skin rendered with cold clarity; shadow side pure black. A thin blue-white rim light traces the far cheekbone. Near eye has a crisp single catchlight; far eye shows only a rim-lit iris edge and sliver of white.\n\n**Background:** Solid black, no elements — silhouette shaped purely by the new angle.\n\n**Color & Texture:** Crushed blacks, cool skin tones with warm undertone contrast, blue-white rim accent, 10% Ilford HP5 grain. Fully unretouched — pores, texture, and imperfections preserved.",
+    "title": "Dark Cinematic Skin Portrait",
+    "description": "A highly detailed, cinematic prompt focusing on extreme skin realism and forensic-level texture in a dark, obsessive aesthetic with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785654877873_khz9j0_HOn0N65akAAthee.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30347,
     "content": "Ultra-realistic selfie-style fashion portrait of blonde posing confidently in {argument name=\"room\" default=\"Supergirl home room\"}. She wears a fitted {argument name=\"swimsuit\" default=\"white Super-Girl style one-piece swimsuit\"} with thin spaghetti straps, deep V-neckline, iconic red-and-yellow Super-Girl 'S' shield symbol, plus a small 'Keor' embroidery, and {argument name=\"stockings\" default=\"red stockings\"}. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with Krypton and House of El posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture.",
     "title": "Supergirl Themed Studio Selfie",
