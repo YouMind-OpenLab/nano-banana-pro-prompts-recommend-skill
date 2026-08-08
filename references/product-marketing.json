@@ -21,6 +21,73 @@
     "needReferenceImages": true
   },
   {
+    "id": 30694,
+    "content": "Ultra-realistic luxury commercial product photography of a premium transparent {argument name=\"product\" default=\"water bottle\"} standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.",
+    "title": "Luxury Water Bottle Commercial",
+    "description": "High-end studio product photography prompt for a luxury water bottle with icy blue gradients and splashing water.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171689101_5f14fm_HPKntutaMAAQ3v1.jpg",
+      "https://cms-assets.youmind.com/media/1786171689342_mdrnxj_HPKnuuvakAANICM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30696,
+    "content": "Design a square 1:1 visual artwork for {argument name=\"brand name\" default=\"[BRAND NAME]\"} that feels like an experimental pop-fashion photograph from a futuristic retro archive.\n\nLet {argument name=\"hero color\" default=\"[HERO COLOR]\"} dominate the scene, but avoid a simple flat backdrop. Create a layered studio environment using tonal gradients, soft cast shadows, floating geometric fragments, and subtle paper-print imperfections.\n\nThe main subject is a single adult fashion model styled in a distinctive look that complements {argument name=\"brand name\" default=\"[BRAND NAME]\"}. Capture an energetic candid moment, with the subject turning toward a handheld retro digital camera and photographing something outside the frame.\n\nMake the camera an important storytelling element rather than a decorative prop. Show its small display clearly enough to suggest a captured image, while keeping the scene photorealistic.\n\nAdd expressive white (#FFFFFF) hand-drawn artwork throughout the scene: loose geometric sketches, tiny stars, camera-interface-inspired symbols, sweeping lines, imperfect circles, and abstract gestures. Integrate these marks into the environment at different depths so some appear behind the subject while others float around the foreground.\n\nGive the image a late-1990s/early-2000s experimental magazine mood with contemporary fashion photography, crisp details, subtle analog grain, realistic skin texture, dimensional lighting, and energetic editorial framing.\n\nUse approximately 5500K neutral studio lighting. Maintain strong separation between photographic elements and graphic artwork while making them feel intentionally designed as one composition.\n\nAbsolutely no readable text, typography, slogans, captions, logos, watermarks, or written brand names.\n\nThe final result should resemble a rare experimental fashion editorial discovered in a futuristic design archive—confident, playful, tactile, unconventional, and visually memorable.",
+    "title": "Experimental Pop-Fashion Photography",
+    "description": "A creative prompt for generating experimental pop-fashion photographs with a futuristic retro archive feel, featuring layered studio environments and expressive hand-drawn artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171690446_91rb1a_HPKZnHHbcAA3MSZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30695,
+    "content": "Use the uploaded image as the SINGLE model reference. The woman in the photo is the exact model. Preserve her appearance with absolute precision. Identity Lock is the top priority. The face must be 100% identical to the reference. Do not change, improve, stylize, change age, or alter any facial features. Preserve exact eyes, eyebrows, eyelashes, nose, lips, jawline, cheekbones, ears, skin tone, facial proportions, expression, hairstyle, hairline, body proportions, and overall look. No deviations from the original.\nCreate a luxurious editorial lifestyle-fashion photograph on an outdoor tennis court. The model sits naturally on the court surface next to a tennis net: one leg bent, the other freely extended, a relaxed and elegant pose. She holds a {argument name=\"accessory\" default=\"bright yellow tennis ball\"} near her ear as if talking on the phone, looking thoughtfully to the side. Several tennis balls are naturally scattered around her on the court.\nShe wears a {argument name=\"outfit\" default=\"black sleeveless tennis dress\"}, a black Nike visor with a white logo, white Nike socks, and chunky white tennis sneakers. Minimal jewelry. Hair lies freely on her shoulders.\nWarm golden hour light, cinematographic lighting, soft shadows, shallow depth of field, atmosphere of expensive fashion editorial shooting, premium sportswear advertising campaign, natural skin texture with visible pores, ultra-realistic hair strands, rich contrast, soft bokeh, 85mm lens, aperture f/1.8, medium format camera quality, Vogue style, Harper's Bazaar, Saint Laurent Campaign, Nike Women Campaign, ultra-photorealism, HDR, 8K, masterpiece, award-winning fashion photography.",
+    "title": "Editorial Fashion Tennis Shoot",
+    "description": "A luxurious editorial lifestyle fashion photography prompt featuring a model on a tennis court with high subject fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171690383_hrl10z_HPJBxKtWEAAAkF_.jpg",
+      "https://cms-assets.youmind.com/media/1786171690385_jrnpw6_HPJBxKpXUAAbKqe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30699,
+    "content": "Ultra-realistic summer skincare product photography of a bronzing drop bottle named \"{argument name=\"product name\" default=\"Golden Glow - Bronzing Elixir\"}\", rectangular matte bottle in {argument name=\"bottle tone\" default=\"warm sun-kissed bronze tone\"} with a clean white cap, placed diagonally on wet beach sand as a gentle ocean wave washes over it, delicate sea foam and tiny bubbles surrounding the base, water partially flowing across the label, fine sand texture visible beneath shallow clear water, golden sunlight casting natural highlights and soft shadows, high-detail water ripples and realistic foam patterns, fresh summer aesthetic, minimal clean branding centered and sharp, warm golden-hour beach lighting, cinematic top-down flat lay composition, natural reflections on wet surface, editorial beauty campaign style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury skincare advertisement Aspect ratio 4.5",
+    "title": "Summer Skincare Product Photography",
+    "description": "Professional skincare product photography featuring a bronzing elixir on a sun-kissed beach with gentle ocean waves and foam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171691763_363c9f_HPHD50KXkAAJfKy.jpg",
+      "https://cms-assets.youmind.com/media/1786171691771_9i66u8_HPHD50JXsAA_HIk.jpg",
+      "https://cms-assets.youmind.com/media/1786171691830_ld7r4k_HPHD50WXYAAtPDo.jpg",
+      "https://cms-assets.youmind.com/media/1786171692407_hzonsy_HPHD50KWwAA7RcY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30697,
+    "content": "Use the uploaded photo as the sole and exact reference for the model. Preserve her appearance 1:1, including her identity, facial features, eye shape and color, nose, lips, natural skin tone, body proportions, hair, its length, volume, texture, facial expression, gaze, and overall look. Do not alter her face, age, figure, or appearance in any way.\nAn elegant woman confidently drives a {argument name=\"car model\" default=\"Satin Ivory Aston Martin DB12 Volante\"} along the breathtaking coastal roads of the French Riviera. She wears an oversized {argument name=\"clothing brand\" default=\"The Row\"} ivory linen blazer over a champagne silk camisole by Khaite. The look is completed with Saint Laurent sunglasses, Bvlgari earrings, a Cartier Baignoire watch, a Cartier Love bracelet, and a sand beige The Row Margaux bag. Her loose hair, illuminated by soft sun highlights, flows naturally in the sea breeze, maintaining realistic volume, silky texture, and lifelike movement. Her calm, confident expression embodies the essence of modern Quiet Luxury.\nIn the background: the azure Mediterranean Sea, pristine white yachts, contemporary cliffside villas, palm trees, and a winding coastal road. Warm golden hour sunlight, natural reflections on the car's bodywork, lifelike skin with visible pores, soft creamy bokeh, and premium editorial color grading.\nThe Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Editorial. Modern Quiet Luxury. Luxury Travel Campaign. Ultra Photorealistic. Full-Frame Camera. 85mm Lens. Kodak Portra 400. HDR. 8K.",
+    "title": "Luxury French Riviera Lifestyle Photography",
+    "description": "Captures a high-end editorial scene of an elegant woman driving a luxury car along the French Riviera road during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171690647_3qdkk8_HPGGdhBWYAANJYS.jpg",
+      "https://cms-assets.youmind.com/media/1786171690943_9ju942_HPGGdhAW4AAEBvX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30689,
+    "content": "Three-panel collage product photography of {argument name=\"product\" default=\"luxury item\"}. Left panel: extreme close-up macro shot of a young woman's eye area wearing the product, showing intricate texture and craftsmanship detail, natural skin tone, shallow depth of field, warm directional lighting. Top-right panel: clean studio product shot of the item alone resting on a flat surface at a three-quarter angle, seamless light gray background, soft even studio lighting with subtle shadow, sharp focus showcasing full design and material detail. Bottom-right panel: close-up beauty portrait of a young woman model wearing the product, direct or slightly angled gaze at camera, neutral warm-toned background, soft flattering studio lighting, editorial fashion photography aesthetic. Consistent silver/metallic tone and lighting mood across all three panels, high-resolution commercial photography, thin black divider lines between panels",
+    "title": "Nano Banana Pro Product Collage",
+    "description": "A professional product photography prompt for creating a three-panel collage with macro details and studio shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171687766_k7qu58_HPFZRU2bwAE6Gdm.jpg",
+      "https://cms-assets.youmind.com/media/1786171687767_1y55e8_HPFZR9CboAEDwa4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30558,
     "content": "Ultra-realistic editorial fashion portrait of the {argument name=\"subject\" default=\"person in refrence\"}, standing casually against a {argument name=\"background\" default=\"smooth raw concrete wall in an urban setting\"}. Hands in jacket pockets, relaxed confident expression, looking directly at the camera. Wearing a {argument name=\"outfit\" default=\"black oversized leather bomber jacket over a black hoodie and black t-shirt\"}, loose black cargo pants with subtle faded texture, silver chain accessory, black-and-white low-top sneakers. Soft overcast daylight, muted grey color palette, minimal background, luxury streetwear aesthetic, high-end fashion campaign, clean composition, natural skin tones, realistic fabric textures, shallow depth of field, full-body shot, 85mm lens, photorealistic, ultra-detailed, cinematic lighting, Vogue editorial quality, 8K.",
     "title": "Urban Luxury Streetwear Portrait",

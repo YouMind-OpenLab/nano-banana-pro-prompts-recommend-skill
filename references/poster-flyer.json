@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 30696,
+    "content": "Design a square 1:1 visual artwork for {argument name=\"brand name\" default=\"[BRAND NAME]\"} that feels like an experimental pop-fashion photograph from a futuristic retro archive.\n\nLet {argument name=\"hero color\" default=\"[HERO COLOR]\"} dominate the scene, but avoid a simple flat backdrop. Create a layered studio environment using tonal gradients, soft cast shadows, floating geometric fragments, and subtle paper-print imperfections.\n\nThe main subject is a single adult fashion model styled in a distinctive look that complements {argument name=\"brand name\" default=\"[BRAND NAME]\"}. Capture an energetic candid moment, with the subject turning toward a handheld retro digital camera and photographing something outside the frame.\n\nMake the camera an important storytelling element rather than a decorative prop. Show its small display clearly enough to suggest a captured image, while keeping the scene photorealistic.\n\nAdd expressive white (#FFFFFF) hand-drawn artwork throughout the scene: loose geometric sketches, tiny stars, camera-interface-inspired symbols, sweeping lines, imperfect circles, and abstract gestures. Integrate these marks into the environment at different depths so some appear behind the subject while others float around the foreground.\n\nGive the image a late-1990s/early-2000s experimental magazine mood with contemporary fashion photography, crisp details, subtle analog grain, realistic skin texture, dimensional lighting, and energetic editorial framing.\n\nUse approximately 5500K neutral studio lighting. Maintain strong separation between photographic elements and graphic artwork while making them feel intentionally designed as one composition.\n\nAbsolutely no readable text, typography, slogans, captions, logos, watermarks, or written brand names.\n\nThe final result should resemble a rare experimental fashion editorial discovered in a futuristic design archive—confident, playful, tactile, unconventional, and visually memorable.",
+    "title": "Experimental Pop-Fashion Photography",
+    "description": "A creative prompt for generating experimental pop-fashion photographs with a futuristic retro archive feel, featuring layered studio environments and expressive hand-drawn artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171690446_91rb1a_HPKZnHHbcAA3MSZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30567,
     "content": "{argument name=\"theme\" default=\"world beyond the mirror2\"} with {argument name=\"object\" default=\"infinite mirror\"}",
     "title": "Infinite Mirror World Concept",

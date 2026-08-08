@@ -1,5 +1,40 @@
 [
   {
+    "id": 30694,
+    "content": "Ultra-realistic luxury commercial product photography of a premium transparent {argument name=\"product\" default=\"water bottle\"} standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.",
+    "title": "Luxury Water Bottle Commercial",
+    "description": "High-end studio product photography prompt for a luxury water bottle with icy blue gradients and splashing water.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171689101_5f14fm_HPKntutaMAAQ3v1.jpg",
+      "https://cms-assets.youmind.com/media/1786171689342_mdrnxj_HPKnuuvakAANICM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30699,
+    "content": "Ultra-realistic summer skincare product photography of a bronzing drop bottle named \"{argument name=\"product name\" default=\"Golden Glow - Bronzing Elixir\"}\", rectangular matte bottle in {argument name=\"bottle tone\" default=\"warm sun-kissed bronze tone\"} with a clean white cap, placed diagonally on wet beach sand as a gentle ocean wave washes over it, delicate sea foam and tiny bubbles surrounding the base, water partially flowing across the label, fine sand texture visible beneath shallow clear water, golden sunlight casting natural highlights and soft shadows, high-detail water ripples and realistic foam patterns, fresh summer aesthetic, minimal clean branding centered and sharp, warm golden-hour beach lighting, cinematic top-down flat lay composition, natural reflections on wet surface, editorial beauty campaign style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury skincare advertisement Aspect ratio 4.5",
+    "title": "Summer Skincare Product Photography",
+    "description": "Professional skincare product photography featuring a bronzing elixir on a sun-kissed beach with gentle ocean waves and foam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171691763_363c9f_HPHD50KXkAAJfKy.jpg",
+      "https://cms-assets.youmind.com/media/1786171691771_9i66u8_HPHD50JXsAA_HIk.jpg",
+      "https://cms-assets.youmind.com/media/1786171691830_ld7r4k_HPHD50WXYAAtPDo.jpg",
+      "https://cms-assets.youmind.com/media/1786171692407_hzonsy_HPHD50KWwAA7RcY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30689,
+    "content": "Three-panel collage product photography of {argument name=\"product\" default=\"luxury item\"}. Left panel: extreme close-up macro shot of a young woman's eye area wearing the product, showing intricate texture and craftsmanship detail, natural skin tone, shallow depth of field, warm directional lighting. Top-right panel: clean studio product shot of the item alone resting on a flat surface at a three-quarter angle, seamless light gray background, soft even studio lighting with subtle shadow, sharp focus showcasing full design and material detail. Bottom-right panel: close-up beauty portrait of a young woman model wearing the product, direct or slightly angled gaze at camera, neutral warm-toned background, soft flattering studio lighting, editorial fashion photography aesthetic. Consistent silver/metallic tone and lighting mood across all three panels, high-resolution commercial photography, thin black divider lines between panels",
+    "title": "Nano Banana Pro Product Collage",
+    "description": "A professional product photography prompt for creating a three-panel collage with macro details and studio shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171687766_k7qu58_HPFZRU2bwAE6Gdm.jpg",
+      "https://cms-assets.youmind.com/media/1786171687767_1y55e8_HPFZR9CboAEDwa4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30563,
     "content": "A single, continuous, and complete mobile e-commerce detail page for an ergonomic office chair, with an aspect ratio of {argument name=\"aspect ratio\" default=\"3:7\"}. The product is the \"{argument name=\"product name\" default=\"Axis M3 Ergonomic Chair\"}\" concept model, featuring a dark graphite grey mesh back, black frame, silver-grey five-star base, visible headrest, armrests, seat cushion, and lumbar support, maintaining structural consistency across all perspectives. The overall design uses a vertical grid system combining architectural blueprints with modern office spaces, featuring {argument name=\"color scheme\" default=\"paper white, graphite grey, steel blue, and subtle orange\"} annotations, clear narrow sans-serif, and monospace parameter fonts. The first screen shows the identity of the product with a 3/4 angle view; followed by front, side, back, and top-down auxiliary angles; using human sitting postures and desk relationships to show scale without inferring specific height suitability ranges; labeling headrest, backrest, armrests, seat cushion, lumbar support, and chair feet by outline without providing internal exploded structures; showcasing office, reading, and brief rest scenarios; the evidence section only shows structural descriptions and sources provided by the user, with missing items marked \"information to be confirmed\"; the parameter section includes full chair dimensions, seat height range, load capacity, materials, and adjustment items, with unknown values not guessed; the packaging section shows the chair body, confirmed accessories, installation instructions, and care information, with missing accessories marked \"information to be confirmed\"; and ends with a summary of confirmed structures and a \"view dimensions and installation instructions\" note. Every parameter unit, dimension line, and information card must be fully filled out. Fictional ergonomic certifications, load-bearing values, adjustment levels, health improvements, patents, or test results are prohibited.",
     "title": "Ergonomic Office Chair E-commerce Mobile Detail Page",

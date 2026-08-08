@@ -10,6 +10,63 @@
     "needReferenceImages": false
   },
   {
+    "id": 30693,
+    "content": "A realistic lifestyle portrait of a {argument name=\"subject\" default=\"young adult woman\"} with fair skin, soft facial features, and a calm, natural expression. She has smooth medium-length hair styled neatly, with subtle texture and a relaxed appearance. Her eyes look gently toward the camera with a peaceful and confident mood, creating a warm and approachable atmosphere. She is sitting comfortably on a soft textured rug in a relaxed indoor pose, with natural body posture and hands resting casually.\n\nShe is wearing a simple fitted sleeveless top paired with comfortable light-colored shorts, creating a minimal and elegant casual style. No visible logos or branding. The outfit has clean lines and a soft fabric texture, complemented by a simple, understated aesthetic.\n\nThe environment is a {argument name=\"setting\" default=\"cozy modern room\"} with warm wooden walls, large windows, a small indoor plant, and soft decorative elements. Natural sunlight enters through the windows, creating gentle highlights and realistic shadows across the room. The atmosphere feels peaceful, warm, and inviting with a connection to nature.\n\nCaptured with an 85mm portrait lens, shallow depth of field, soft natural window lighting, realistic skin texture, cinematic color grading, high-resolution photography style, ultra-detailed, professional lifestyle photography, balanced composition, warm tones, realistic proportions, subtle background blur, natural shadows, and authentic indoor atmosphere.",
+    "title": "Lifestyle Indoor Portrait",
+    "description": "A realistic lifestyle portrait prompt featuring a young woman in a cozy modern room with natural sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171689045_0pam64_HPLXsNwboAEdsQc.jpg",
+      "https://cms-assets.youmind.com/media/1786171689048_u87ugx_HPLXt-cboAAlfFr.jpg",
+      "https://cms-assets.youmind.com/media/1786171689043_sxrxls_HPLXviFbAAAHIkK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30690,
+    "content": "Use the uploaded photo as the exact facial reference and preserve the person’s identity with maximum accuracy. Keep the same facial structure, proportions, eyes, nose, lips, jawline, cheeks, and natural features without reshaping, slimming, enlarging, beautifying, or applying any artificial face filter. Create an authentic early-2000s Y2K flash photograph with strong direct frontal camera flash, bright natural highlights, subtle digital-camera grain, realistic exposure falloff, and a raw DSLR look that feels like a real celebrity paparazzi beauty shot rather than CGI. Give the subject extremely long, thick, luxurious {argument name=\"hair color\" default=\"chestnut-brown\"} hair with huge crown volume, glamorous blown-out waves, dimensional brunette highlights, individual visible strands, natural flyaways, and a dramatic hair halo surrounding the face, with the hair taking up around half of the frame. Use an extreme low-angle camera positioned clearly below eye level, with the head slightly tilted back, chin raised, and eyes looking upward, while the face fills around 65–70% of the frame in a very tight beauty-editorial crop with minimal clothing and shoulders visible. The expression should intentionally contrast with the glamorous styling: {argument name=\"expression\" default=\"playful, awkward, weird, slightly chaotic, and naturally funny\"}, like an unexpected candid moment. Keep the lips naturally proportioned while giving them a soft pink ombré tone, hydrated glossy finish, subtle highlights, and realistic texture. Preserve authentic skin detail including pores, peach fuzz, fine texture, natural imperfections, and realistic flash reflections, avoiding plastic or overly smooth skin. Add subtle imperfections such as tiny exposure variations, realistic flash hotspots, and gentle digital-camera grain to make the image feel genuinely photographed. Overall, create a photorealistic luxury hair and beauty campaign with a nostalgic Y2K celebrity aesthetic, premium editorial quality, realistic hair and skin, natural lighting behavior, and an unmistakably authentic photographic appearance.",
+    "title": "Y2K Paparazzi Beauty Shot",
+    "description": "A highly detailed prompt for an authentic early-2000s celebrity paparazzi style photo with realistic hair and skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171687068_splkj8_HPK_e4aaEAEed1h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30700,
+    "content": "Ultra-realistic romantic Paris balcony lifestyle editorial portrait of a beautiful young adult woman with {argument name=\"hair style\" default=\"long voluminous champagne-blonde hair styled in soft loose waves\"}, subtle center part, natural movement, delicate flyaway strands, and softly illuminated edges from the sunset. Fair warm ivory skin with visible pores, realistic skin texture, subtle natural freckles across the cheeks, nose, shoulders, chest, and arms, fine facial vellus hair, natural skin variation, soft rosy blush, luminous but realistic complexion, feathered brows, delicate champagne eyeshadow, subtle brown eyeliner, separated wispy lashes, pale blue-gray eyes, and softly glossy natural rose-pink lips with realistic lip texture. She wears a {argument name=\"clothing\" default=\"romantic pure-white cotton off-the-shoulder mini dress with a fitted corset-inspired bodice\"}, gathered sweetheart neckline, short puff sleeves sitting below the shoulders, fitted waist, and softly flowing gathered skirt with realistic cotton folds and stitching. A delicate silver chain necklace with a tiny cross pendant rests naturally against her collarbone. She is seated sideways on a narrow traditional Parisian apartment balcony, body turned slightly toward the camera, knees angled naturally to one side, both hands resting gently near her lap, shoulders relaxed, maintaining direct eye contact with a calm, dreamy expression. Behind her, the Eiffel Tower rises clearly above classic cream Haussmann buildings with gray mansard rooftops, tree-lined Paris streets, wrought-iron balcony railings, and neighboring limestone façades. The sky is a dreamy pastel sunset gradient of warm peach, pale gold, blush pink, and soft blue. Gentle golden-hour light softly illuminates one side of her face and hair while maintaining realistic shadow detail and natural skin tones. Authentic high-end travel lifestyle photography rather than an overly polished studio photograph. Captured with an iPhone 15 Pro main camera aesthetic, 24mm equivalent lens, realistic smartphone HDR, natural perspective, crisp facial and hair detail, moderate natural depth of field, subtle background softness while keeping the Eiffel Tower recognizable, realistic exposure, no artificial portrait-mode cutout. Romantic Parisian summer aesthetic, quiet luxury travel editorial, Pinterest-inspired European vacation photography, Kodak Portra-inspired color rendering, RAW-like clarity, highly detailed hair strands, visible pores and freckles, realistic fabric texture, natural anatomy, ultra photorealistic, high resolution.",
+    "title": "Parisian Balcony Sunset Portrait",
+    "description": "A romantic, high-end travel lifestyle editorial of a woman on a Parisian balcony at sunset with the Eiffel Tower in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171691896_86taza_HPKIjO7bQAALPRH.jpg",
+      "https://cms-assets.youmind.com/media/1786171692252_c5boju_HPKIu6oaMAAdH5M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30703,
+    "content": "Piknik With Sunshine\n\nA beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman in her early 20s with fair skin, soft natural makeup, and a bright gentle smile, looking slightly to her left. She has long straight dark brown hair with soft bangs, slightly windswept. She is wearing a {argument name=\"headwear\" default=\"light pink sun visor\"}, a fitted {argument name=\"top\" default=\"cream-white sleeveless crop top\"} with delicate lace trim along the scoop neckline, and light gray athletic shorts with an elastic waistband. She is sitting cross-legged outdoors in a sunlit park, hands resting lightly on her legs. Soft golden-hour sunlight filters through green trees, creating warm bokeh highlights in the background. Natural skin texture, realistic photography style, shallow depth of field, high detail, soft cinematic lighting --ar 3:4 --stylize 250",
+    "title": "Sunlit Park Picnic Portrait",
+    "description": "A serene prompt for generating a realistic photograph of a young East Asian woman enjoying a picnic in a sunlit park with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171693501_2axycv_HO9D7HybMAEfwDr.jpg",
+      "https://cms-assets.youmind.com/media/1786171693739_1vvvlx_HO9D7HhawAArhAv.jpg",
+      "https://cms-assets.youmind.com/media/1786171693624_7d4y9x_HO9D7HcbsAAv7wF.jpg",
+      "https://cms-assets.youmind.com/media/1786171694837_mce85g_HO9D7Hsa4AA7xr9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30691,
+    "content": "Cinematic photorealistic portrait of a {argument name=\"subject\" default=\"young woman\"}, vertical 9:16 format.\n\nThe woman is sitting in the grass by the sea at night. In the background is a dark ocean, light mist, and a deep blue-black night sky. In the foreground, tall grass is softly out of focus to create a natural sense of depth.\n\nShe is wrapped in a {argument name=\"clothing\" default=\"white blanket\"} with her shoulders exposed. She hugs herself with both arms, her head slightly tilted back, her eyes closed, and a calm, peaceful expression on her face.\n\nHer very long loose hair gently flows in the breeze.\n\nShot with direct flash at night: a bright on-camera flash illuminates the woman while the background remains dark. Her skin has a luminous, slightly wet look on her face, shoulders, and collarbones.\n\nSharp focus on the face and hair, ultra-high skin detail with natural pores and realistic texture, free of plastic or overly retouched skin.\n\nRAW camera aesthetic, sharp focus, cinematic night photography, subtle film grain, realistic digital noise, natural contrast, no AI look.\n\nAspect ratio: 9:16.",
+    "title": "Cinematic Night Sea Portrait",
+    "description": "A cinematic, photorealistic portrait of a woman wrapped in a blanket by the sea at night, featuring sharp direct flash and natural textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786171687545_11xymv_HPF4bhLW8AA1Bj2.jpg",
+      "https://cms-assets.youmind.com/media/1786171687668_6owv34_HPF4cVdXQAAcfig.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30545,
     "content": "Hyper-realistic, ultra-detailed macro portrait capturing only the {argument name=\"subject part\" default=\"left half\"} of a {argument name=\"subject\" default=\"human face\"} partially submerged {argument name=\"environment\" default=\"underwater\"}. One eye in sharp focus near the far-left edge of the frame. Light rays create dynamic caustic reflections across the skin, emphasizing pores, wet lips, eyelashes, and fine textures with lifelike subsurface scattering. Suspended droplets and air bubbles add depth and motion. Cinematic underwater lighting with soft shadows and crisp highlights enhances the surreal, dreamlike atmosphere. Extremely shallow depth of field, photorealistic rendering, 4:5 aspect ratio.",
     "title": "Underwater Macro Face Portrait",
