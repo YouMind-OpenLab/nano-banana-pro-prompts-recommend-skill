@@ -20,12 +20,35 @@
     "needReferenceImages": false
   },
   {
+    "id": 30820,
+    "content": "{argument name=\"atmosphere\" default=\"Whimsical\"} miniature world depiction of a {argument name=\"subject\" default=\"grand botanical greenhouse conservatory\"} imagined and rendered in an {argument name=\"style\" default=\"artistic clockpunk style\"}",
+    "title": "Clockpunk Miniature Greenhouse",
+    "description": "A detailed prompt for creating a whimsical miniature world featuring a grand botanical conservatory in a clockpunk aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786257248830_oedq19_HPNenTpbMAAr1r3.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30808,
+    "content": "[\n  {\n    \"concept_id\": \"iron_man_coke\",\n    \"visual_breakdown\": {\n      \"focus_object\": \"{argument name=\"brand\" default=\"Coca-Cola Can\"}\",\n      \"character_element\": \"{argument name=\"character element\" default=\"Iron Man's Gauntlet\"}\",\n      \"environment\": \"{argument name=\"setting\" default=\"Blurred City Skyline\"}\"\n    },\n    \"artistic_direction\": {\n      \"lighting\": \"Cinematic/Metallic\",\n      \"mood\": \"technological\"\n    },\n    \"generation_command\": {\n      \"aspect_ratio\": \"7:9\",\n      \"concise_prompt\": \"Iron Man's gauntlet hovering below a floating Coca-Cola can, cinematic city background, dramatic movie poster lighting. --ar 7:9\"\n    }\n  },\n  {\n    \"concept_id\": \"hulk_pepsi\",\n    \"visual_breakdown\": {\n      \"focus_object\": \"Crushed Pepsi Can\",\n      \"character_element\": \"Hulk's Giant Hand\",\n      \"environment\": \"Smoky City Ruins\"\n    },\n    \"artistic_direction\": {\n      \"lighting\": \"Explosive/High Contrast\",\n      \"mood\": \"destructive\"\n    },\n    \"generation_command\": {\n      \"aspect_ratio\": \"7:9\",\n      \"concise_prompt\": \"Hulk's giant hand hovering over a crushed Pepsi can embedded in pavement, smoky ruins, explosive action movie style. --ar 7:9\"\n    }\n  },\n  {\n    \"concept_id\": \"thor_sprite\",\n    \"visual_breakdown\": {\n      \"focus_object\": \"Sprite Bottle\",\n      \"character_element\": \"Thor's Glowing Hand\",\n      \"environment\": \"Storm/Lightning\"\n    },\n    \"artistic_direction\": {\n      \"lighting\": \"Electric/Blue-Toned\",\n      \"mood\": \"mythological\"\n    },\n    \"generation_command\": {\n      \"aspect_ratio\": \"7:9\",\n      \"concise_prompt\": \"Thor's glowing hand holding a floating Sprite bottle amidst crackling lightning and rain, Mjolnir in background, epic poster style. --ar 7:9\"\n    }\n  },\n  {\n    \"concept_id\": \"dr_strange_fanta\",\n    \"visual_breakdown\": {\n      \"focus_object\": \"Fanta Bottle\",\n      \"character_element\": \"Doctor Strange's Hand\",\n      \"environment\": \"Golden Magic Portal\"\n    },\n    \"artistic_direction\": {\n      \"lighting\": \"Magical/Golden Bokeh\",\n      \"mood\": \"mystical\"\n    },\n    \"generation_command\": {\n      \"aspect_ratio\": \"7:9\",\n      \"concise_prompt\": \"Doctor Strange casting a spell under a spinning Fanta bottle inside a golden magic portal, mystical Sanctum background, cinematic lighting. --ar 7:9\"\n    }\n  }\n]",
+    "title": "Superhero Soda Promotional Posters",
+    "description": "A series of conceptual prompts for creating cinematic movie posters featuring Marvel characters interacting with various soda brands.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786257231576_nmgg7d_HPLjkY3WgAA0P2O.jpg",
+      "https://cms-assets.youmind.com/media/1786257231632_o0bxz2_HPLjkY2WUAIq9Bh.jpg",
+      "https://cms-assets.youmind.com/media/1786257231581_jn7n6g_HPLjkY1W4AAZzL-.jpg",
+      "https://cms-assets.youmind.com/media/1786257232189_rqffzl_HPLjkY2WgAE2NFS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30696,
     "content": "Design a square 1:1 visual artwork for {argument name=\"brand name\" default=\"[BRAND NAME]\"} that feels like an experimental pop-fashion photograph from a futuristic retro archive.\n\nLet {argument name=\"hero color\" default=\"[HERO COLOR]\"} dominate the scene, but avoid a simple flat backdrop. Create a layered studio environment using tonal gradients, soft cast shadows, floating geometric fragments, and subtle paper-print imperfections.\n\nThe main subject is a single adult fashion model styled in a distinctive look that complements {argument name=\"brand name\" default=\"[BRAND NAME]\"}. Capture an energetic candid moment, with the subject turning toward a handheld retro digital camera and photographing something outside the frame.\n\nMake the camera an important storytelling element rather than a decorative prop. Show its small display clearly enough to suggest a captured image, while keeping the scene photorealistic.\n\nAdd expressive white (#FFFFFF) hand-drawn artwork throughout the scene: loose geometric sketches, tiny stars, camera-interface-inspired symbols, sweeping lines, imperfect circles, and abstract gestures. Integrate these marks into the environment at different depths so some appear behind the subject while others float around the foreground.\n\nGive the image a late-1990s/early-2000s experimental magazine mood with contemporary fashion photography, crisp details, subtle analog grain, realistic skin texture, dimensional lighting, and energetic editorial framing.\n\nUse approximately 5500K neutral studio lighting. Maintain strong separation between photographic elements and graphic artwork while making them feel intentionally designed as one composition.\n\nAbsolutely no readable text, typography, slogans, captions, logos, watermarks, or written brand names.\n\nThe final result should resemble a rare experimental fashion editorial discovered in a futuristic design archive—confident, playful, tactile, unconventional, and visually memorable.",
-    "title": "Experimental Pop-Fashion Photography",
-    "description": "A creative prompt for generating experimental pop-fashion photographs with a futuristic retro archive feel, featuring layered studio environments and expressive hand-drawn artwork.",
+    "title": "Futuristic Retro Fashion Editorial",
+    "description": "A detailed prompt for generating experimental pop-fashion photographs that combine futuristic and retro aesthetics with hand-drawn graphic elements.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786171690446_91rb1a_HPKZnHHbcAA3MSZ.jpg"
+      "https://cms-assets.youmind.com/media/1786257225584_0wn1fv_HPKZnHHbcAA3MSZ.jpg"
     ],
     "needReferenceImages": false
   },

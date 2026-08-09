@@ -1,15 +1,38 @@
 [
   {
-    "id": 30705,
-    "content": "{argument name=\"subject\" default=\"Cathedral Knight\"}\nA highly decorative baroque-style gothic sculpture centered on a knight statue. The heavy plate armor covering the entire body is filled with detailed metal carvings and swirling filigree decorations.",
-    "title": "Baroque Gothic Knight Sculpture",
-    "description": "A prompt for generating a decorative baroque-style gothic sculpture of a knight in elaborate plate armor with intricate carvings.",
+    "id": 30820,
+    "content": "{argument name=\"atmosphere\" default=\"Whimsical\"} miniature world depiction of a {argument name=\"subject\" default=\"grand botanical greenhouse conservatory\"} imagined and rendered in an {argument name=\"style\" default=\"artistic clockpunk style\"}",
+    "title": "Clockpunk Miniature Greenhouse",
+    "description": "A detailed prompt for creating a whimsical miniature world featuring a grand botanical conservatory in a clockpunk aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786171695161_bs7qkz_HPLfAQ2b0AAgKmq.jpg",
-      "https://cms-assets.youmind.com/media/1786171697274_4trvp7_HPLfAhfaAAAhcrA.jpg",
-      "https://cms-assets.youmind.com/media/1786171695161_qk98d8_HPLfAz6aoAA1vm1.jpg"
+      "https://cms-assets.youmind.com/media/1786257248830_oedq19_HPNenTpbMAAr1r3.png"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 30705,
+    "content": "{argument name=\"subject\" default=\"Cathedral Knight\"}\nA highly decorative baroque-style gothic sculpture of a knight statue standing in the center. The heavy plate armor covering the entire body is filled with detailed metal carvings and swirling filigree decorations.",
+    "title": "Baroque Gothic Knight Sculpture",
+    "description": "A sophisticated prompt for a highly decorative knight statue in a baroque-gothic style, featuring intricate metalwork and filigree.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786257245723_cqj02c_HPLfAQ2b0AAgKmq.jpg",
+      "https://cms-assets.youmind.com/media/1786257246530_vkhfcn_HPLfAhfaAAAhcrA.jpg",
+      "https://cms-assets.youmind.com/media/1786257245696_4n1su6_HPLfAz6aoAA1vm1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30814,
+    "content": "{\n  \"prompt_style\": \"photorealistic superhero editorial photo\",\n  \"subject\": {\n    \"Person\": \"{argument name=\"subject name\" default=\"Person Name/Uploaded Image\"}\",\n    \"pose\": \"clinging to the exterior of a glass skyscraper, one arm extended overhead with palm flat against the glass, opposite leg bent and foot braced against the window frame, other arm hanging loosely, body angled diagonally as if caught mid-climb\",\n    \"expression\": \"focused, alert, looking off to the side as if scanning the street below\",\n    \"camera_angle\": \"slightly low angle, three-quarter view, shot from outside the building looking up and across\"\n  },\n  \"suit_design\": {\n    \"name\": \"{argument name=\"suit version\" default=\"Brand New Day suit (fan-original design)\"}\",\n    \"primary_colors\": \"bright red torso/arms, deep navy blue lower body and side panels\",\n    \"chest_emblem\": \"large black spider symbol, angular modern silhouette, centered on chest\",\n    \"web_pattern\": \"fine black web-line stitching across red sections, thinning out on navy sections\",\n    \"texture\": \"red areas: matte compression fabric with raised web-stitch detail; navy areas: subtle hexagonal micro-texture, almost like body armor weave\",\n    \"trim\": \"black piping along shoulder seams, ribs, and outer arm/leg lines\",\n    \"gloves\": \"red, web-patterned, form-fitting\",\n    \"wrist_gadget\": \"black mechanical wristband/web-shooter with a small glowing blue light strip, worn on the raised arm\",\n    \"boots\": \"red with black sole trim, web-patterned, knee-high, form-fitting\",\n    \"knee_detail\": \"reinforced navy knee pads with fine textured paneling\",\n    \"belt\": \"black segmented utility band at the waist\",\n    \"material_feel\": \"high-end movie-costume quality, slightly reflective under sunlight, not cartoonish or glossy plastic\"\n  },\n  \"setting\": {\n    \"location\": \"exterior of a modern glass office skyscraper, Manhattan\",\n    \"background\": \"hazy daytime city skyline, visible landmark spire (One World Trade Center style silhouette) in the distance, soft atmospheric perspective\",\n    \"surface\": \"floor-to-ceiling glass curtain wall with visible metal mullions, faint reflection of the character visible in the glass\",\n    \"time_of_day\": \"clear daytime, soft directional sunlight from one side\"\n  }\n}",
+    "title": "Spiderman Skyscraper Editorial Portrait",
+    "description": "A complex JSON prompt for a photorealistic superhero editorial featuring Spiderman clinging to a glass skyscraper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786257237763_15mj7o_HPLB0GgaYAAO7Nz.jpg",
+      "https://cms-assets.youmind.com/media/1786257237790_7z6kwp_HPLB0GgakAAwfK1.jpg",
+      "https://cms-assets.youmind.com/media/1786257237816_xodoeb_HPLB0Gra8AA4JGd.jpg",
+      "https://cms-assets.youmind.com/media/1786257238785_981nla_HPLB0Gsb0AAX8-z.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 30701,
