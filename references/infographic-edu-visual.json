@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 30813,
+    "content": "A close-up, eye-level shot captures a {argument name=\"animal type\" default=\"European hamster\"} in a field of dry grass. The {argument name=\"animal type\" default=\"hamster\"}, with its distinctive brown and black fur, is positioned slightly to the left of the frame, facing right. Its tiny paws are holding a {argument name=\"food item\" default=\"small green leaf\"}, which it appears to be eating. The {argument name=\"animal type\" default=\"hamster\"}'s dark, beady eyes are sharp and focused, and its long whiskers are prominent.",
+    "title": "European Hamster Wildlife Photography",
+    "description": "A close-up wildlife photography prompt capturing a European hamster feeding in a field, designed for Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786344499918_eo7cpi_HO4FP3kXkAAl5eH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30817,
     "content": "a {argument name=\"bird species\" default=\"dodo bird\"}. Its body is plump and rounded, covered in {argument name=\"feather colors\" default=\"dark gray and brown feathers\"} with lighter, intricate patterns. The bird's legs and feet are visible, with scaly skin and sharp claws. The head is a lighter gray, with a prominent, curved beak that has a {argument name=\"beak texture\" default=\"cracked texture\"}.",
     "title": "Realistic Dodo Bird Illustration",
