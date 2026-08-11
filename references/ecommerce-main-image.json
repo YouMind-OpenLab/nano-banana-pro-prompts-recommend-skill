@@ -1,5 +1,16 @@
 [
   {
+    "id": 31061,
+    "content": "Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a panoramic 21:9 format. Use a seamless studio background matching the {argument name=\"background color\" default=\"dominant color of the product\"} (or the user-specified color) with a soft radial gradient and subtle vignette. On the far left, place a {argument name=\"glove description\" default=\"generic red web- pattern glove\"} performing a web-shooting hand gesture. A realistic {argument name=\"web color\" default=\"white\"} spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.",
+    "title": "Cinematic Spider-Web Product Ad",
+    "description": "A professional product advertising prompt that incorporates a spider-web motif into a luxury commercial composition while preserving product integrity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786431301955_l692ea_HPZ-iD6bMAAwf-F.jpg",
+      "https://cms-assets.youmind.com/media/1786431301978_odynhz_HPZ-ikwacAArGuQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30800,
     "content": "{argument name=\"product\" default=\"iPhone 18 Pro\"} inside ice cube, white background",
     "title": "Product in Ice Cube Minimalist",
