@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-12T02:27:16.043Z",
-  "totalPrompts": 15146,
+  "updatedAt": "2026-08-12T13:19:36.746Z",
+  "totalPrompts": 15158,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 1951
+      "count": 1953
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9455
+      "count": 9465
     },
     {
       "slug": "infographic-edu-visual",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 939
+      "count": 940
     },
     {
       "slug": "app-web-design",
