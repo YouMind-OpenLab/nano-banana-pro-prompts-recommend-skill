@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 31257,
+    "content": "{argument name=\"subject\" default=\"Golden Gate Bridge\"} as if it were a {argument name=\"dimensions\" default=\"64 x 32\"} LED screen and have only one color per pixel",
+    "title": "Golden Gate Bridge LED Screen",
+    "description": "A creative prompt for generating a low-resolution pixelated version of the Golden Gate Bridge, mimicking a small LED display with limited color per pixel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786603824925_c9lra3_HPe5zaIa0AAI0z_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30819,
     "content": "painting in the style of {argument name=\"artist\" default=\"Klimt\"} of a {argument name=\"subject\" default=\"woman wearing a large hat\"} in a {argument name=\"setting\" default=\"summer garden\"}",
     "title": "Klimt Style Woman Summer Garden",

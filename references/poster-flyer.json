@@ -21,11 +21,11 @@
   },
   {
     "id": 31151,
-    "content": "Black-and-white high-contrast studio portrait of a {argument name=\"subject\" default=\"person\"} against a pure black background, composed as a fragmented photo-collage. Multiple rectangular photographic cutouts are layered and misaligned across his/her face, creating a glitchy, dissociative, surreal effect. The base face is calm and frontal, but overlaid panels break it apart: one rectangular crop shows an eye being held wide open with fingers pulling the eyelid, another offset panel shows a second eye also being stretched open by fingers, and a large lower panel shows a wide, tense, teeth-baring grin with visible gums and strained lips. The seams between panels are hard-edged and slightly shifted, so the ears, cheeks, and jaw don't line up. Dramatic chiaroscuro lighting, deep shadows, fine skin texture, pores and stray hairs sharply detailed. Unsettling psychological horror mood, editorial fine-art photography, monochrome, shot on a macro-sharp lens, cinematic grain.",
-    "title": "Fragmented Photo-Collage Portrait",
-    "description": "A surreal, glitchy photo-collage prompt creating a fragmented studio portrait with deep chiaroscuro lighting and psychological horror elements.",
+    "content": "\"Black-and-white high-contrast studio portrait of a {argument name=\"subject\" default=\"your subject\"} against a pure black background, composed as a fragmented photo-collage. Multiple rectangular photographic cutouts are layered and misaligned across his/her face, creating a glitchy, dissociative, surreal effect. The base face is calm and frontal, but overlaid panels break it apart: one rectangular crop shows an eye being held wide open with fingers pulling the eyelid, another offset panel shows a second eye also being stretched open by fingers, and a large lower panel shows a wide, tense, teeth-baring grin with visible gums and strained lips. The seams between panels are hard-edged and slightly shifted, so the ears, cheeks, and jaw don't line up. Dramatic chiaroscuro lighting, deep shadows, fine skin texture, pores and stray hairs sharply detailed. Unsettling psychological horror mood, editorial fine-art photography, monochrome, shot on a macro-sharp lens, cinematic grain.\"",
+    "title": "Black and White Fragmented Photo Collage",
+    "description": "A surreal, high-contrast studio portrait styled as a fragmented photo-collage with glitchy, misaligned facial features for a psychological horror mood.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786518699171_d4hfy5_HPfOJ39aMAAOKym.jpg"
+      "https://cms-assets.youmind.com/media/1786603830070_rjcw2v_HPfOJ39aMAAOKym.jpg"
     ],
     "needReferenceImages": true
   },

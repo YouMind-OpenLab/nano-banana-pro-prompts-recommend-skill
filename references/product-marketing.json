@@ -21,6 +21,28 @@
     "needReferenceImages": true
   },
   {
+    "id": 31259,
+    "content": "A young East Asian woman with sleek shoulder-length black hair wearing {argument name=\"outfit\" default=\"a cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"{argument name=\"sticker text\" default=\"SELF CARE\"}\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of pink-frosted cupcakes and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
+    "title": "Surreal Giant Coffee Bakery Portrait",
+    "description": "A lifestyle photography prompt featuring a surreal giant iced coffee cup in a cozy, pastel-toned bakery setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786603825421_y79h0z_HPkElhsboAA9D03.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31260,
+    "content": "A beautiful young East Asian woman with {argument name=\"hair style\" default=\"long wavy light brown hair styled with a soft white bow hair accessory\"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name=\"outfit\" default=\"a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern\"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name=\"accessory\" default=\"small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo\"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her.\n\nCozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.",
+    "title": "Cozy Cafe Fashion Portrait",
+    "description": "An editorial fashion prompt for a detailed portrait of a woman in a cozy cafe interior with soft natural lighting and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786603826153_ycqm5i_HPV-2w5a4AAAHw_.jpg",
+      "https://cms-assets.youmind.com/media/1786603826172_1xf3x1_HPV-2xDaMAAtjVx.jpg",
+      "https://cms-assets.youmind.com/media/1786603826131_whc7pi_HPV-2xia0AAKced.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31061,
     "content": "Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a {argument name=\"aspect ratio\" default=\"panoramic 21:9\"} format. Use a seamless studio background matching the {argument name=\"background color\" default=\"dominant color of the product\"} with a soft radial gradient and subtle vignette. On the far left, place a {argument name=\"hand gesture\" default=\"generic red web-pattern glove performing a web-shooting hand gesture\"}. A realistic white spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.",
     "title": "Cinematic Product Advertisement with Spider Web",
