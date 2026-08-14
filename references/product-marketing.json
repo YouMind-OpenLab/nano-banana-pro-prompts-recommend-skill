@@ -21,14 +21,60 @@
     "needReferenceImages": true
   },
   {
-    "id": 31259,
-    "content": "A young East Asian woman with sleek shoulder-length black hair wearing {argument name=\"outfit\" default=\"a cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"{argument name=\"sticker text\" default=\"SELF CARE\"}\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of pink-frosted cupcakes and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
-    "title": "Surreal Giant Coffee Bakery Portrait",
-    "description": "A lifestyle photography prompt featuring a surreal giant iced coffee cup in a cozy, pastel-toned bakery setting.",
+    "id": 31341,
+    "content": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
+    "title": "Macro Food Stack Photography",
+    "description": "A professional food photography prompt for Nano Banana Pro featuring stacked items with liquid dripping effects.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786603825421_y79h0z_HPkElhsboAA9D03.jpg"
+      "https://cms-assets.youmind.com/media/1786690122979_2w8fkv_HPpX6WOagAA66GS.jpg",
+      "https://cms-assets.youmind.com/media/1786690122967_zvpxg3_HPpX6zgbwAEqAQS.jpg",
+      "https://cms-assets.youmind.com/media/1786690123013_otzzmm_HPpX7S6bQAAYTiS.jpg",
+      "https://cms-assets.youmind.com/media/1786690123909_6v4jqa_HPpX7z8agAA6W0W.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 31336,
+    "content": "Use 100 percent face reference given strictly Portrait of a {argument name=\"subject\" default=\"young Asian woman\"} standing by the {argument name=\"location\" default=\"ocean\"}, looking back over her shoulder at the camera with a soft, confident gaze. She has long brunette hair styled in a low ponytail with face-framing strands, wearing gold hoop earrings. She's dressed in a black-and-white vertical striped oversized blazer layered over a modest high-neck {argument name=\"top color\" default=\"magenta\"} top. Soft natural daylight, ocean and sandy shore blurred in the background, shallow depth of field, fashion-editorial style, warm skin tones, crisp detail on fabric texture, professional beauty photography.",
+    "title": "Young Woman Ocean Portrait",
+    "description": "An editorial-style portrait prompt for an Asian woman by the sea, emphasizing fabric texture and soft daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690120577_ut75w1_HPpJ_ZIaQAAQtgm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31350,
+    "content": "Ultra-photorealistic high-fashion cover portrait of {argument name=\"subject\" default=\"Sadie sink\"}, wearing an jaw-dropping floor-length {argument name=\"dress color\" default=\"crimson red\"} silk gala gown with an exaggerated plunging sweetheart neckline, a dramatic thigh-high slit, and sculpted sharp shoulder accents, striking a powerful runway pose, looking directly into the camera with a captivating, fierce gaze, sleek wet-look Hollywood waves, vibrant high-contrast studio portraiture, deep {argument name=\"backlight color\" default=\"emerald velvet\"} backlighting creating a dramatic rim-light along her silhouette, forensic skin texture, micro pore detail, luxury Vogue editorial cover aesthetic, high-glamour specular highlights, full-body composition, vertical 4:5, subtle \"OzairAI\" watermark in the bottom right corner.",
+    "title": "Sadie Sink High-Fashion Portrait",
+    "description": "An ultra-photorealistic fashion cover prompt featuring Sadie Sink in a crimson gala gown with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690133213_0cbb0j_HPkQh2cbcAAjpkz.jpg",
+      "https://cms-assets.youmind.com/media/1786690133370_wpbrwq_HPkQh2bbcAAOa1k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31259,
+    "content": "A {argument name=\"subject\" default=\"young East Asian woman with sleek shoulder-length black hair\"} wearing a {argument name=\"outfit\" default=\"cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"SELF CARE\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of {argument name=\"pastries\" default=\"pink-frosted cupcakes\"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
+    "title": "Cozy Bakery Giant Coffee Scene",
+    "description": "An editorial lifestyle shot of a woman leaning against an oversized iced coffee cup in a pastel bakery cafe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690131433_ux1ph0_HPkElhsboAA9D03.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31358,
+    "content": "Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name=\"top style\" default=\"neon orange short-sleeved crop top with a small hood\"}, a {argument name=\"skirt style\" default=\"very short black ruffled mini skirt\"}, and {argument name=\"footwear\" default=\"neon orange high heels\"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.",
+    "title": "Photorealistic Woman at Pool Table",
+    "description": "A detailed lifestyle photography prompt for a woman posing at a wooden pool table, focusing on natural lighting and high-resolution textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690138967_pp4br6_HPjD3YrW0AA9aE2.jpg",
+      "https://cms-assets.youmind.com/media/1786690137419_nst8ka_HPjD3YsWgAAHZ8p.jpg",
+      "https://cms-assets.youmind.com/media/1786690137349_fb5rbn_HPjD3YnWIAEsSfX.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 31260,

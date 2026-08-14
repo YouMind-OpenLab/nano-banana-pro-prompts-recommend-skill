@@ -10,6 +10,88 @@
     "needReferenceImages": false
   },
   {
+    "id": 31337,
+    "content": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"young handsome man\"} with {argument name=\"glasses style\" default=\"round dark glasses\"} and messy dark hair with a neatly trimmed beard, holding a black DSLR camera with both hands. He wears an open black button-down shirt over a neutral grey-beige t-shirt, standing in a {argument name=\"setting\" default=\"dark, atmospheric photography studio\"}. Soft, natural side-lighting enters from a window on the right, illuminating his face and camera with gentle highlights and deep shadows. In the softly blurred background, studio softboxes and camera equipment add depth. Shot on a 50mm lens, shallow depth of field, muted color palette, high editorial fashion portrait quality.",
+    "title": "Cinematic Studio Portrait",
+    "description": "A cinematic portrait prompt of a man with a camera in a studio setting, utilizing soft side-lighting for a professional look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690122268_hm70m6_HPqW80mbAAA74JD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31335,
+    "content": "hyper real vertical amateur iphone shot of a young woman around {argument name=\"age\" default=\"21yo\"} {argument name=\"setting\" default=\"playing colourful arcade games at the beach at night\"} laughing with girl friends, supermodel aesthethics, night time, subtle blurry shot - old money clothes but {argument name=\"outfit\" default=\"tight summer outfit with crop top, denim shorts and high heels stilettos\"}",
+    "title": "Beach Arcade Night iPhone Shot",
+    "description": "Generates a realistic iPhone-style amateur photograph of a young woman playing arcade games at a beach at night with friends.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690119186_7vycgr_HPoRbwjXgAA4MPZ.jpg",
+      "https://cms-assets.youmind.com/media/1786690120605_xlrin4_HPoRbwhXsAATWh8.jpg",
+      "https://cms-assets.youmind.com/media/1786690119344_hu79x4_HPoRbwuWQAAfLwJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31346,
+    "content": "Ultra-realistic studio portrait of a man, close-up headshot, centered composition, neutral expression, sharp facial details, textured skin, clean grooming, wearing a {argument name=\"top clothing\" default=\"black turtleneck\"} and {argument name=\"outerwear\" default=\"dark tailored coat\"}, modern minimalist fashion, monochrome black and white photography style, only the glasses in color ({argument name=\"glasses color\" default=\"Translucent amber-orange\"} frame and lenses), high contrast lighting, soft studio light, cinematic shadows, editorial fashion photography, plain light background, 85mm lens, shallow depth of field, ultra detailed, photorealistic, magazine quality, 8K.",
+    "title": "Monochrome Studio Portrait with Colored Lens",
+    "description": "A minimalist black and white studio portrait that features a striking pop of color on the subject's glasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690126738_0ejl7j_HPnYtigXIAAz8sf.jpg",
+      "https://cms-assets.youmind.com/media/1786690126747_hg1md0_HPnYtilXEAE7_Ed.jpg",
+      "https://cms-assets.youmind.com/media/1786690126781_lkvo1m_HPnYtikWkAAsoYi.jpg",
+      "https://cms-assets.youmind.com/media/1786690127550_vngoib_HPnYtidXcAADgMd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31352,
+    "content": "{\n  \"subject\": {\n    \"description\": \"{argument name=\"subject description\" default=\"Young woman with fair porcelain skin, long wavy platinum-blonde hair cascading over her shoulders\"}\",\n    \"hair\": \"Long, soft wavy blonde hair flowing down past the shoulders\",\n    \"body\": \"Slender figure with smooth skin\",\n    \"pose\": \"Seated upright in an armchair, legs together, arms resting gently along the sides of her body, facing the camera\",\n    \"expression\": \"Neutral and elegant, soft direct gaze\"\n  },\n  \"outfit\": {\n    \"main\": \"{argument name=\"clothing\" default=\"Light peach/beige draped one-piece garment with thin straps\"}\",\n    \"headwear\": \"Large wide-brimmed light beige/peach structured hat with concentric ridge details\"\n  },\n  \"setting\": {\n    \"location\": \"Minimalist indoor studio space\",\n    \"background\": \"{argument name=\"wall color\" default=\"Soft muted sage-green wall\"}\",\n    \"added_element\": \"Neon green written 'Keor' glowing on the wall in the backdrop\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft diffused studio lighting\",\n    \"effects\": \"Gentle highlights on the skin and hat, smooth even illumination with minimal shadows, elegant and refined atmosphere\"\n  },\n  \"camera\": {\n    \"angle\": \"Eye-level frontal view\",\n    \"framing\": \"Upper-body to mid-thigh portrait shot, subject centered in the chair\",\n    \"style\": \"Photorealistic, high-detail fashion portrait, soft focus on background\"\n  },\n  \"additional_details\": {\n    \"skin\": \"Smooth, luminous fair skin with natural soft glow\",\n    \"atmosphere\": \"Elegant, minimalist, high-fashion studio portrait\"\n  }\n}",
+    "title": "Minimalist Sage Green Studio Portrait",
+    "description": "A structured JSON-formatted prompt for a high-fashion studio portrait with a large brimmed hat and neon background elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690132074_17sqqu_HPmxWJdWMAA0yWC.jpg",
+      "https://cms-assets.youmind.com/media/1786690132148_luau43_HPmxWJcXcAAav0P.jpg",
+      "https://cms-assets.youmind.com/media/1786690132071_tijvtb_HPmxWJdXEAI0Lx7.jpg",
+      "https://cms-assets.youmind.com/media/1786690134533_9nhyme_HPmxWJcWMAEKzvo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31344,
+    "content": "Ultra-realistic 8K portrait of a stylish young man FROM ATTACHED PHOTO, standing confidently with a VIP suitcase in front of an {argument name=\"airline\" default=\"Emirates airplane\"} at the airport. Passengers board in the blurred background. he wears an {argument name=\"top clothing\" default=\"white linen shirt\"}, {argument name=\"bottom clothing\" default=\"black cargo pants\"}, white sneakers, and aviators sunglasses. Stylish pose with one hand casually in her pocket. Realistic lighting, cinematic, and natural, capturing a modern, fashionable travel vibe. keep my face exactly the same as the uploaded photo.",
+    "title": "Stylish Airport Travel Portrait",
+    "description": "A high-fashion portrait of a young man at an airport, designed to maintain facial consistency from an uploaded reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690125520_f0pgp4_HPmVDceWIAAhJmW.jpg",
+      "https://cms-assets.youmind.com/media/1786690125638_ga7qvp_HPmVDcWXIAAndK9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31351,
+    "content": "A close up, studio portrait features a fair skinned woman with {argument name=\"hair color\" default=\"dark brown/black hair\"}, eyes closed, tenderly holding a flock of five small {argument name=\"birds\" default=\"teal & yellow parrots\"}. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a {argument name=\"fabric\" default=\"cream colored, possibly lace\"}, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.",
+    "title": "Woman with Teal and Yellow Parrots",
+    "description": "A soft studio portrait of a woman holding a flock of colorful parrots, set against a light gray background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690133621_186gr7_HPlxI3la4AAfYzo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31349,
+    "content": "Transform my portrait into a whimsical {argument name=\"art style\" default=\"hand-painted watercolor anime illustration\"} inspired by {argument name=\"inspiration\" default=\"Spirited Away\"}, while preserving my exact facial features, hairstyle, skin tone, expression, and overall likeness. Soft watercolor textures, delicate ink outlines, {argument name=\"color palette\" default=\"warm pastel colors\"}, dreamy natural lighting, expressive anime eyes, lush magical Japanese scenery, gentle atmospheric haze, subtle fantasy details, cinematic composition, charming hand-painted imperfections, nostalgic and enchanting mood, highly detailed.",
+    "title": "Spirited Away Watercolor Portrait",
+    "description": "Transforms a personal portrait into a whimsical Ghibli-inspired watercolor illustration while maintaining facial likeness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690130507_lpd393_HPlKoEGbkAA98oO.jpg",
+      "https://cms-assets.youmind.com/media/1786690130556_3j69vx_HPlKorVbQAEL-LJ.jpg",
+      "https://cms-assets.youmind.com/media/1786690130800_o2pwnr_HPlKpHEakAAjJhK.jpg",
+      "https://cms-assets.youmind.com/media/1786690131547_aoetnv_HPlKphnaAAEz0Et.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 31264,
     "content": "Create a highly realistic, elegant indoor mirror-selfie portrait of a young woman relaxing on a polished light-colored floor, accompanied by a {argument name=\"bird color\" default=\"small green parrot\"} perched gently on top of her head. 1. Subject Description, Hair, Skin, Expression & Pose: A young woman with fair, naturally textured skin and long dark-brown hair styled into a high, loose ponytail. Several soft strands naturally frame the sides of her face. Her facial features are refined and realistic, with natural eyebrows, subtle makeup, soft pink lips, and clear expressive eyes. She has a calm, thoughtful expression while looking slightly toward the mirror rather than directly into the camera lens. She is seated in a relaxed, elegant pose on the floor, with her upper body supported naturally by one arm while her other hand holds a professional camera in front of the mirror. Her posture should feel comfortable and natural, with realistic anatomy, believable proportions, relaxed shoulders, and naturally positioned hands. A small green parrot is perched safely and naturally on top of her hair. The bird has vivid green plumage, a pale face, a curved beak, darker wing details, and a long reddish-brown tail. It should appear calm and balanced, with detailed feathers and realistic anatomy. 2. Clothing & Accessories: She wears an elegant {argument name=\"dress color\" default=\"mustard-yellow\"}, floor-length dress with thin shoulder straps and a smooth, flowing fabric. The dress should have realistic textile texture, subtle folds, natural draping, and believable movement across the floor. Keep the styling sophisticated and tasteful. She holds a professional black DSLR or mirrorless camera with a large lens in one hand. The camera should have realistic buttons, dials, lens details, reflections, and construction. Keep other accessories minimal and refined so the focus remains on the subject, camera, dress, and bird. 3. Environment & Lighting: Set the scene inside a sophisticated, softly decorated interior with tall beige curtains covering the background. Include a large clean mirror creating the visible reflection and a polished pale marble or stone floor with subtle natural veining. Use {argument name=\"lighting time\" default=\"warm late-afternoon sunlight\"} entering through the curtains, producing soft golden illumination across the woman's face, hair, dress, and the parrot's feathers. Add gentle shadows on the floor and subtle highlights along the fabric. The overall environment should feel peaceful, luxurious, warm, and inviting. 4. Camera & Style: Photorealistic editorial photography, vertical 4:6 composition, realistic mirror-selfie perspective, approximately 50mm lens appearance, natural perspective, moderate depth of field, sharp focus on the woman",
     "title": "Elegant Mirror Selfie with Parrot",
@@ -19,16 +101,6 @@
       "https://cms-assets.youmind.com/media/1786603829432_qrwnt6_HPk2QjMaAAAtnqq.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 31262,
-    "content": "Use the exact same face from the reference image and generate a breathtakingly realistic selfie taken at {argument name=\"altitude\" default=\"high altitude\"} on a dramatic {argument name=\"mountain type\" default=\"green mountain\"} — the kind of photo that stops everyone mid-scroll.\n\nThe subject holds the camera slightly above eye level at a natural selfie angle — face filling the left or center portion of the frame, body from shoulders up visible, casual and completely natural. Expression is genuinely alive — a warm natural smile or that relaxed effortlessly cool expression of someone who just hiked to the top of something beautiful and knows it. Wind very slightly moving the hair. Wearing a {argument name=\"clothing\" default=\"casual outdoor layer\"} — a fitted fleece or light jacket, completely real and appropriate for mountain altitude.\n\nBehind and around the subject the mountain view is absolutely jaw-dropping and completely photorealistic — vast rolling green mountain ranges extending to the horizon in layer after layer of deepening atmospheric perspective, the nearest slopes a rich vivid green, middle distance mountains slightly softer and cooler, the furthest peaks dissolving into natural blue-grey atmospheric haze at the horizon. The specific lush green of high altitude mountain vegetation — dense forest on the lower slopes transitioning to alpine meadow at the higher elevations, rocky outcrops breaking through the green at the peaks. A dramatic sky above — clear blue with a few three-dimensional cumulus clouds at different heights casting natural moving shadows across the green mountain surfaces below.\n\nThe selfie perspective showing genuine altitude — the ground falling away sharply below the subject, the scale of the mountain landscape making the human figure feel appropriately small against the vast green world behind them. Real mountain wind suggested by the hair movement and jacket fabric.\n\nLighting completely natural — bright overcast or partial sun outdoor mountain light, honest and real. Shot with front camera simulation — natural slight wide angle distortion, authentic smartphone selfie rendering. 3% film grain. Vertical 9:16 format. Ultra photorealistic 8K — the selfie that makes everyone ask exactly which mountain this is.",
-    "title": "High Altitude Mountain Selfie",
-    "description": "A breathtakingly realistic selfie prompt for high-altitude mountain portraits with lush green landscapes and dramatic perspective.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786603827826_t0ak68_HPkrptra4AAr59x.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 31265,

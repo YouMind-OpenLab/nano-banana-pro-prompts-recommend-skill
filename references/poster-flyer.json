@@ -20,6 +20,37 @@
     "needReferenceImages": false
   },
   {
+    "id": 31339,
+    "content": "{argument name=\"subject\" default=\"subject\"} in this style={argument name=\"transformation\" default=\"transformation\"} - Preserve the subject’s recognizable structure, but reinterpret it as a stylized editorial composition where drawing and miniature object-world logic coexist. - Convert some forms into sparse grainy line illustration while converting other forms into soft pastel miniatures or still-life objects. - Reinterpret texture-rich or detailed areas as small clusters of plants, props, vessels, terrain fragments, or decorative micro-world motifs. - Convert smooth surfaces into matte pastel color fields, while using graphic linework to describe edges, volume, and texture selectively. - Reduce complexity into a limited color system with one dominant graphic ink tone and a few quiet pastel support colors. - Replace deep realism with poster-like clarity, paper-print tactility, and curated tabletop arrangement. - Allow the subject to feel partially drawn and partially physically staged, creating a deliberate ambiguity between illustration and object. - Use negative space and sparse composition to keep the image clean, modern, and highly readable. </transformation> <shape_language> - Favor simple containers, rounded objects, leaves, stems, pebbles, tabletop silhouettes, miniature clusters, and clean abstract forms. - Use a mix of flat contour areas and soft low-relief sculptural accents. - Keep repetition rhythmic and decorative. - Let small details feel intentional and editorial rather than busy. </shape_language> <rendering_rules> - Use visibly grainy printed or crayon-like marks for lines and texture accents. - Keep volumetric forms soft, simplified, and pastel. - Limit the palette aggressively for a designed, print-friendly look. - Use shallow spatial depth with subtle diorama hints. - Make the final result feel like an art print, a magazine illustration, and a miniature set all at once. </rendering_rules> <finish> - Graphic limited-palette editorial hybrid. - Printmaking texture fused with soft pastel mini-world staging. - Smart, modern, collectible, and quietly distinctive. </finish> <avoid> - Avoid photoreal rendering. - Avoid deep cinematic perspective or strong realism. - Avoid overstuffing with too many tiny details. - Avoid using too many colors; keep it controlled and designed. </avoid>",
+    "title": "Editorial Miniature Style Composition",
+    "description": "A complex prompt for creating stylized editorial compositions that blend grainy line illustrations with soft pastel miniatures and still-life objects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690123699_cpfqtv_HPcPNsEXYAA95EP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31354,
+    "content": "A watercolor illustration depicts a {argument name=\"subject\" default=\"seagull\"} in flight with its wings spread wide, positioned centrally above the words \"{argument name=\"text\" default=\"Chasing Sunsets\"}\" written in a decorative, {argument name=\"font color\" default=\"coral-colored\"} font. The text is intertwined with stylized waves and seashells. Flanking the seagull are two palm trees, one on the left and one on the right, with colorful fronds. Behind the seagull, a sunset is suggested with radiating lines of yellow and orange against a watercolor sky with hints of blue and pink clouds. The lower portion of the image features dynamic blue waves crashing, with a nautilus shell on the left and a beach chair on a wave crest on the right. Small seashells and bubbles are scattered throughout the composition.",
+    "title": "Chasing Sunsets Seagull Watercolor",
+    "description": "A decorative watercolor illustration of a seagull with sunset typography and coastal elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690135546_e7q3jz_HPMaJ1gWcAEpzIk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31350,
+    "content": "Ultra-photorealistic high-fashion cover portrait of {argument name=\"subject\" default=\"Sadie sink\"}, wearing an jaw-dropping floor-length {argument name=\"dress color\" default=\"crimson red\"} silk gala gown with an exaggerated plunging sweetheart neckline, a dramatic thigh-high slit, and sculpted sharp shoulder accents, striking a powerful runway pose, looking directly into the camera with a captivating, fierce gaze, sleek wet-look Hollywood waves, vibrant high-contrast studio portraiture, deep {argument name=\"backlight color\" default=\"emerald velvet\"} backlighting creating a dramatic rim-light along her silhouette, forensic skin texture, micro pore detail, luxury Vogue editorial cover aesthetic, high-glamour specular highlights, full-body composition, vertical 4:5, subtle \"OzairAI\" watermark in the bottom right corner.",
+    "title": "Sadie Sink High-Fashion Portrait",
+    "description": "An ultra-photorealistic fashion cover prompt featuring Sadie Sink in a crimson gala gown with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690133213_0cbb0j_HPkQh2cbcAAjpkz.jpg",
+      "https://cms-assets.youmind.com/media/1786690133370_wpbrwq_HPkQh2bbcAAOa1k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31151,
     "content": "\"Black-and-white high-contrast studio portrait of a {argument name=\"subject\" default=\"your subject\"} against a pure black background, composed as a fragmented photo-collage. Multiple rectangular photographic cutouts are layered and misaligned across his/her face, creating a glitchy, dissociative, surreal effect. The base face is calm and frontal, but overlaid panels break it apart: one rectangular crop shows an eye being held wide open with fingers pulling the eyelid, another offset panel shows a second eye also being stretched open by fingers, and a large lower panel shows a wide, tense, teeth-baring grin with visible gums and strained lips. The seams between panels are hard-edged and slightly shifted, so the ears, cheeks, and jaw don't line up. Dramatic chiaroscuro lighting, deep shadows, fine skin texture, pores and stray hairs sharply detailed. Unsettling psychological horror mood, editorial fine-art photography, monochrome, shot on a macro-sharp lens, cinematic grain.\"",
     "title": "Black and White Fragmented Photo Collage",

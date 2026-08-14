@@ -1,11 +1,22 @@
 [
   {
-    "id": 31258,
-    "content": "A stylized, primitive illustration of a dog is rendered in {argument name=\"dog color\" default=\"a light pink\"} against {argument name=\"background color\" default=\"a dark red background\"}. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a stencil or woodcut print, with a rough, textured quality.",
-    "title": "Primitive Woodcut Dog Illustration",
-    "description": "A stylized, primitive illustration prompt for creating rough, textured animal art reminiscent of a woodcut or stencil print.",
+    "id": 31355,
+    "content": "Ultra-sharp cinematic still of four women from different forgotten cultures standing in perfect silence inside a vast subterranean cathedral carved entirely from living black ice, their traditional garments fused with crystalline armor that refracts frozen starlight, each woman holding a different glowing fragment of a shattered constellation map, dramatic volumetric god-rays piercing through fractures in the ice ceiling, anamorphic lens flares, hyper-detailed frost textures on skin and fabric, shallow depth of field, filmic color grade with deep cyan and amber highlights, 8K, photorealistic, never-before-seen composition. Ultra-sharp cinematic wide shot of a solitary colossal mechanical whale suspended mid-air above an endless desert of shattered porcelain plates, its brass and glass body slowly leaking liquid time that freezes into cascading hourglasses mid-fall, the whale’s eye reflecting an inverted sky filled with slow-motion lightning, dramatic side lighting with long shadows and volumetric dust, anamorphic bokeh, hyper-detailed rivets and cracked ceramic ground, film grain, 8K, photorealistic, never-before-seen perspective.",
+    "title": "Subterranean Ice Cathedral Portraits",
+    "description": "A hyper-detailed cinematic still of women in a black ice cathedral with crystalline armor and starlight refraction.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786603824714_zy5de3_HPCCoSPX0AAzKaz.jpg"
+      "https://cms-assets.youmind.com/media/1786690136989_kaghma_HPqJRkEaUAA2lQK.jpg",
+      "https://cms-assets.youmind.com/media/1786690137043_zuajxs_HPqJSFKaAAAM2X4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31340,
+    "content": "Four sequential vertical portrait images (tall 9:16 aspect ratio) telling a continuous romantic story of a young Chinese couple strolling on a charming European street, photorealistic, cinematic lighting, highly detailed faces with authentic Chinese features, soft natural skin texture, elegant casual clothing.\n\nPanel 1 (top): Early morning golden light, the Chinese couple walking side by side on a quiet cobblestone street in a historic European old town, smiling and holding hands, classic European architecture with flower boxes and cafe signs in the background, soft mist in the air.\n\nPanel 2: Mid-morning, the couple stops in front of an old bookstore with large glass windows, the man points excitedly at a book while the woman laughs, warm sunlight reflecting on the cobblestones, authentic Chinese facial features, natural expressions.\n\nPanel 3: Afternoon, the couple sits closely on a wooden bench under a blooming tree on the European street, sharing an ice cream, the woman resting her head on his shoulder, soft bokeh of European passersby and colorful buildings in the background, tender and intimate mood.\n\nPanel 4 (bottom): Golden hour evening, the Chinese couple walking away down the same European street hand in hand, the man carries a small bouquet of wildflowers, warm orange sunlight casting long shadows, romantic and peaceful atmosphere, cinematic depth of field.\n\nConsistent characters across all four panels, same Chinese couple, same clothing, seamless story progression from morning to evening, vertical composition, ultra-realistic, 8K detail, soft film color grading.",
+    "title": "Romantic Chinese Couple in Europe",
+    "description": "A multi-panel cinematic story prompt depicting a Chinese couple's romantic stroll through a historic European city from morning to evening.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690123710_56tjj0_HPmRoqiboAAN_uw.jpg"
     ],
     "needReferenceImages": false
   },
@@ -6348,6 +6359,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg",
       "https://cms-assets.youmind.com/media/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31356,
+    "content": "A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A {argument name=\"character\" default=\"fairy\"} in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a {argument name=\"modern item\" default=\"circular black robotic vacuum cleaner\"}",
+    "title": "Fairy on Robotic Vacuum Ink Painting",
+    "description": "A unique Gongbi-style ink painting prompt featuring a Tang Dynasty fairy standing on a modern robotic vacuum cleaner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786690137801_5ti1th_G6aa9VgWcAAklY6.jpg"
     ],
     "needReferenceImages": false
   },
