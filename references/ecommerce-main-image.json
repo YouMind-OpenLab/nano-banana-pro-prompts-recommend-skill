@@ -1,16 +1,16 @@
 [
   {
-    "id": 31341,
-    "content": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
-    "title": "Macro Food Stack Photography",
-    "description": "A professional food photography prompt for Nano Banana Pro featuring stacked items with liquid dripping effects.",
+    "id": 31465,
+    "content": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
+    "title": "Hyper Realistic Raspberry Product Shell",
+    "description": "A high-end commercial advertising prompt that encases a product inside a dew-covered, hyper-realistic raspberry cross-section.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690122979_2w8fkv_HPpX6WOagAA66GS.jpg",
-      "https://cms-assets.youmind.com/media/1786690122967_zvpxg3_HPpX6zgbwAEqAQS.jpg",
-      "https://cms-assets.youmind.com/media/1786690123013_otzzmm_HPpX7S6bQAAYTiS.jpg",
-      "https://cms-assets.youmind.com/media/1786690123909_6v4jqa_HPpX7z8agAA6W0W.jpg"
+      "https://cms-assets.youmind.com/media/1786774863425_pnbudc_HPuiXwBawAAatce.jpg",
+      "https://cms-assets.youmind.com/media/1786774863767_j981xy_HPuiYSwbEAAwv4Z.jpg",
+      "https://cms-assets.youmind.com/media/1786774863983_dnjank_HPuiYw1bQAApiNE.jpg",
+      "https://cms-assets.youmind.com/media/1786774864376_r9q27v_HPuiZP5a8AAPcB1.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 31061,

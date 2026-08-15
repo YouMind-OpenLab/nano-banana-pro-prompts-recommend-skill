@@ -1,12 +1,35 @@
 [
   {
+    "id": 31471,
+    "content": "A young East Asian woman with a {argument name=\"haircut\" default=\"short black bob haircut\"} and straight bangs, fair skin, and a soft neutral expression looking directly at the camera. She is wearing a {argument name=\"clothing\" default=\"classic Japanese sailor-style school uniform (seifuku)\"}: short-sleeved white blouse with a navy blue sailor collar, red ribbon necktie, and a long navy blue pleated skirt. She is sitting on a polished wooden classroom floor, leaning slightly against the wall under tall windows with cream curtains, one hand resting on the floor for support, legs folded to the side. Soft natural sunlight streams through the windows, casting bright geometric patches of light and long shadows across the warm wooden floorboards. Rows of empty wooden desks and chairs in the background, traditional Japanese classroom interior, shallow depth of field, photorealistic, natural skin texture, soft cinematic lighting, high detail, {argument name=\"lens\" default=\"85mm lens\"} look",
+    "title": "Japanese Schoolgirl Classroom Portrait",
+    "description": "A realistic portrait of a young woman in a Japanese school uniform sitting in a sunlit classroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774868939_8y2m0t_HPgULBkbsAACHnj.jpg",
+      "https://cms-assets.youmind.com/media/1786774868928_8h5l4a_HPgULBda8AAYdA_.jpg",
+      "https://cms-assets.youmind.com/media/1786774868923_f31elq_HPgULBmbYAAB633.jpg",
+      "https://cms-assets.youmind.com/media/1786774869614_vdpagv_HPgULBzacAAFkFA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31355,
     "content": "Ultra-sharp cinematic still of four women from different forgotten cultures standing in perfect silence inside a vast subterranean cathedral carved entirely from living black ice, their traditional garments fused with crystalline armor that refracts frozen starlight, each woman holding a different glowing fragment of a shattered constellation map, dramatic volumetric god-rays piercing through fractures in the ice ceiling, anamorphic lens flares, hyper-detailed frost textures on skin and fabric, shallow depth of field, filmic color grade with deep cyan and amber highlights, 8K, photorealistic, never-before-seen composition. Ultra-sharp cinematic wide shot of a solitary colossal mechanical whale suspended mid-air above an endless desert of shattered porcelain plates, its brass and glass body slowly leaking liquid time that freezes into cascading hourglasses mid-fall, the whale’s eye reflecting an inverted sky filled with slow-motion lightning, dramatic side lighting with long shadows and volumetric dust, anamorphic bokeh, hyper-detailed rivets and cracked ceramic ground, film grain, 8K, photorealistic, never-before-seen perspective.",
-    "title": "Subterranean Ice Cathedral Portraits",
-    "description": "A hyper-detailed cinematic still of women in a black ice cathedral with crystalline armor and starlight refraction.",
+    "title": "Subterranean Cathedral and Mechanical Whale",
+    "description": "Cinematic prompts for generating ethereal scenes involving forgotten cultures in ice cathedrals or mechanical creatures in surreal deserts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690136989_kaghma_HPqJRkEaUAA2lQK.jpg",
-      "https://cms-assets.youmind.com/media/1786690137043_zuajxs_HPqJSFKaAAAM2X4.jpg"
+      "https://cms-assets.youmind.com/media/1786774881858_g2xa9a_HPqJRkEaUAA2lQK.jpg",
+      "https://cms-assets.youmind.com/media/1786774881748_bj7z5c_HPqJSFKaAAAM2X4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31353,
+    "content": "A felt frog wearing {argument name=\"clothing\" default=\"blue polka-dot swim trunks\"} stands on a {argument name=\"setting\" default=\"sandy beach\"}. The frog is in the center of the frame, facing forward with a wide smile. The ocean with blue and white waves is behind the frog, and a {argument name=\"background object\" default=\"small red boat\"} is visible in the distance. The sky is a bright blue with fluffy white felt clouds. To the right of the frog, there are palm trees, a beach umbrella, a striped towel, and various shells and driftwood scattered on the sand. The overall scene is a whimsical, handmade diorama of a frog enjoying a day at the beach.",
+    "title": "Felt Frog Diorama Beach",
+    "description": "Creates a whimsical, handmade diorama scene of a felt frog enjoying a day at the beach with intricate craft-style details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774876094_g9umq5_HPMZUTSWYAA_zyT.jpg"
     ],
     "needReferenceImages": false
   },

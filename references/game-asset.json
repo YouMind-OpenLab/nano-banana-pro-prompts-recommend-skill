@@ -1,22 +1,67 @@
 [
   {
-    "id": 31345,
-    "content": "Union member field critic with cooling gear, airport ready.",
-    "title": "Airport Field Critic with Gear",
-    "description": "A character concept for a union member field critic equipped for airport settings.",
+    "id": 31471,
+    "content": "A young East Asian woman with a {argument name=\"haircut\" default=\"short black bob haircut\"} and straight bangs, fair skin, and a soft neutral expression looking directly at the camera. She is wearing a {argument name=\"clothing\" default=\"classic Japanese sailor-style school uniform (seifuku)\"}: short-sleeved white blouse with a navy blue sailor collar, red ribbon necktie, and a long navy blue pleated skirt. She is sitting on a polished wooden classroom floor, leaning slightly against the wall under tall windows with cream curtains, one hand resting on the floor for support, legs folded to the side. Soft natural sunlight streams through the windows, casting bright geometric patches of light and long shadows across the warm wooden floorboards. Rows of empty wooden desks and chairs in the background, traditional Japanese classroom interior, shallow depth of field, photorealistic, natural skin texture, soft cinematic lighting, high detail, {argument name=\"lens\" default=\"85mm lens\"} look",
+    "title": "Japanese Schoolgirl Classroom Portrait",
+    "description": "A realistic portrait of a young woman in a Japanese school uniform sitting in a sunlit classroom.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690127049_rsjlre_HPqLq_0WgAAdsM6.jpg"
+      "https://cms-assets.youmind.com/media/1786774868939_8y2m0t_HPgULBkbsAACHnj.jpg",
+      "https://cms-assets.youmind.com/media/1786774868928_8h5l4a_HPgULBda8AAYdA_.jpg",
+      "https://cms-assets.youmind.com/media/1786774868923_f31elq_HPgULBmbYAAB633.jpg",
+      "https://cms-assets.youmind.com/media/1786774869614_vdpagv_HPgULBzacAAFkFA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31469,
+    "content": "Transform the uploaded person into a premium original {argument name=\"color scheme\" default=\"black-and-crimson\"} futuristic {argument name=\"theme\" default=\"arachnid-inspired\"} character in a cinematic gaming-room environment while preserving the person’s natural appearance and recognizable identity.\nFORMAT LOCK\nVertical 3:4 composition. Full-body portrait. Subject completely visible from head to shoes. High-angle cinematic camera looking downward. Centered framing. Premium editorial gaming-room photography.\nIDENTITY LOCK\nUse the uploaded image as the only identity reference. Preserve the exact facial structure, hairstyle, skin tone, age, body proportions, expression, and overall recognizable appearance. Do not redesign, exaggerate, beautify, or alter the person’s natural features.\nCHARACTER DESIGN\nCreate a completely original futuristic tactical outfit using matte black technical fabric, deep crimson accents, subtle geometric patterns inspired by arachnid structures, realistic stitching, layered materials, and understated protective panels. Add a small original geometric chest insignia with no recognizable superhero symbol. The design should feel like premium futuristic fashion-tech, completely distinct from existing movie, comic, or game costumes.\nENVIRONMENT\nPremium modern gaming bedroom with charcoal interiors, crimson LED lighting, gaming desk, RGB keyboard and mouse, large monitor displaying abstract red geometric artwork, gaming chair, minimalist bed, collectible shelves, warm practical lighting, and dark wooden flooring. Keep the environment sophisticated, clean, cinematic, and uncluttered.\nPOSE\nSubject stands naturally in the center. One hand rests naturally inside the outfit pocket while the other holds a gaming controller. Direct eye contact with the camera. Calm, confident expression. Natural posture, relaxed shoulders, believable anatomy, and realistic hand positioning.\nCAMERA\nHigh-angle cinematic perspective looking downward. Full-body framing with enough surrounding environment to establish the gaming room. Natural lens perspective. Realistic depth of field. Subject remains the primary focal point.\nLIGHTING & STYLE\nSoft cinematic key lighting. Deep controlled shadows. Subtle crimson ambient illumination. Natural skin tones. Gentle rim lighting. Realistic fabric reflections. Soft volumetric atmosphere. Premium editorial color grading. Photorealistic fashion photography. Extremely detailed textures. Sharp facial detail. Realistic materials. High-end cinematic gaming campaign aesthetic. Ultra-detailed 8K quality.",
+    "title": "Futuristic Arachnid Gamer Persona",
+    "description": "A comprehensive character transformation prompt that turns an uploaded identity into a futuristic arachnid-inspired gamer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774867558_66snrz_HPskDdrW0AA1KBB.jpg",
+      "https://cms-assets.youmind.com/media/1786774867607_5l7ubd_HPskDdUWgAAbE8D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31482,
+    "content": "Whimsical miniature world depiction of a {argument name=\"subject\" default=\"grand botanical greenhouse conservatory\"} imagined and rendered in an {argument name=\"art style\" default=\"artistic clockpunk\"} style.",
+    "title": "Clockpunk Miniature Botanical Greenhouse",
+    "description": "A whimsical miniature world prompt that renders a grand botanical greenhouse conservatory in an intricate clockpunk artistic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774884248_2ixnrt_HPsVAUpbMAEn8oh.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31475,
+    "content": "A sleek high-performance frosted glass turbine workhorse engine with anodized aluminum housing and layered refractive glass prisms, firing an ultra-fast {argument name=\"light beam\" default=\"vivid mint light beam\"} with elongated holographic circuit light trails at extreme velocity, asymmetrical composition on rule of thirds grid :: Editorial 3D glassmorphism, refractive glass panels, smooth ceramic, brushed steel, anodized metallic elements, subsurface scattering, light dispersion, chromatic aberration, caustics :: {argument name=\"background\" default=\"Deep charcoal slate and midnight navy background\"}, soft glowing mint highlights with vivid emerald internal glow, subtle deep oceanic blue environmental reflections, clean color separation :: Cinematic studio lighting, volumetric lighting, f/1.8 aperture, extreme bokeh macro photography, deep-focus perspective, {argument name=\"composition\" default=\"minimalist, extreme negative space\"} --ar 16:9 --no text, font, letters, typography, words, watermarks, UI elements, borders, people, faces, humans, hands, laptops, desks, offices, cartoon, vector, clip art, fleshy, biological, organic, busy background, warm colors, red, yellow, purple, noise, clutter",
+    "title": "Futuristic Glass Turbine Engine",
+    "description": "A sleek 3D render of a glass turbine engine with mint holographic light trails and metallic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774873705_nwlq8t_HPrlVpcaoAADayY.jpg",
+      "https://cms-assets.youmind.com/media/1786774873489_vytibt_HPrlVpebsAAoZDd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31345,
+    "content": "{argument name=\"subject\" default=\"Union member field critic\"} with {argument name=\"equipment\" default=\"cooling gear\"}, airport ready.",
+    "title": "Airport Ready Cooling Gear Critic",
+    "description": "A character design prompt for a union member field critic equipped with cooling gear, optimized for travel settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774864120_lg5tf0_HPqLq_0WgAAdsM6.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 31355,
     "content": "Ultra-sharp cinematic still of four women from different forgotten cultures standing in perfect silence inside a vast subterranean cathedral carved entirely from living black ice, their traditional garments fused with crystalline armor that refracts frozen starlight, each woman holding a different glowing fragment of a shattered constellation map, dramatic volumetric god-rays piercing through fractures in the ice ceiling, anamorphic lens flares, hyper-detailed frost textures on skin and fabric, shallow depth of field, filmic color grade with deep cyan and amber highlights, 8K, photorealistic, never-before-seen composition. Ultra-sharp cinematic wide shot of a solitary colossal mechanical whale suspended mid-air above an endless desert of shattered porcelain plates, its brass and glass body slowly leaking liquid time that freezes into cascading hourglasses mid-fall, the whale’s eye reflecting an inverted sky filled with slow-motion lightning, dramatic side lighting with long shadows and volumetric dust, anamorphic bokeh, hyper-detailed rivets and cracked ceramic ground, film grain, 8K, photorealistic, never-before-seen perspective.",
-    "title": "Subterranean Ice Cathedral Portraits",
-    "description": "A hyper-detailed cinematic still of women in a black ice cathedral with crystalline armor and starlight refraction.",
+    "title": "Subterranean Cathedral and Mechanical Whale",
+    "description": "Cinematic prompts for generating ethereal scenes involving forgotten cultures in ice cathedrals or mechanical creatures in surreal deserts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690136989_kaghma_HPqJRkEaUAA2lQK.jpg",
-      "https://cms-assets.youmind.com/media/1786690137043_zuajxs_HPqJSFKaAAAM2X4.jpg"
+      "https://cms-assets.youmind.com/media/1786774881858_g2xa9a_HPqJRkEaUAA2lQK.jpg",
+      "https://cms-assets.youmind.com/media/1786774881748_bj7z5c_HPqJSFKaAAAM2X4.jpg"
     ],
     "needReferenceImages": false
   },

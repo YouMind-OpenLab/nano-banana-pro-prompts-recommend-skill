@@ -21,25 +21,142 @@
     "needReferenceImages": true
   },
   {
-    "id": 31341,
-    "content": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
-    "title": "Macro Food Stack Photography",
-    "description": "A professional food photography prompt for Nano Banana Pro featuring stacked items with liquid dripping effects.",
+    "id": 31477,
+    "content": "Create a photorealistic portrait of a {argument name=\"gender\" default=\"young woman\"} standing indoors against a {argument name=\"background color\" default=\"muted dusty-rose/pink\"} wall. She has fair, natural-looking skin with subtle texture, dark brown hair pulled back into a neat ponytail with a few soft strands framing her face, defined eyebrows, natural eye makeup, and a relaxed, friendly expression with a gentle open smile. She faces the camera directly with a confident but casual posture, shoulders relaxed, arms naturally lowered with her hands resting comfortably near the front of her trousers.\n\nShe is wearing a {argument name=\"outfit color\" default=\"mustard-yellow\"} cropped sleeveless top with a simple rounded neckline and matching loose mustard-yellow trousers featuring a delicate reddish-brown floral or paisley-inspired pattern. The outfit should look like tasteful contemporary casual fashion, with realistic fabric texture, natural folds, and accurate stitching. Keep the styling simple and elegant, with minimal accessories and no prominent logos.\n\nThe setting is a clean, minimal indoor studio or lifestyle room with a smooth dusty-rose wall providing a warm monochromatic backdrop. Use soft diffused window light coming from one side, producing gentle highlights on the face and subtle natural shadows without harsh contrast. Maintain realistic skin tones and preserve fine facial details.\n\nCamera and style: full-frame digital camera, approximately 85mm portrait lens, eye-level composition, medium-full portrait framing, shallow but natural depth of field, realistic perspective, crisp facial focus, soft background separation, high dynamic range, subtle cinematic color grading, balanced exposure, natural skin texture, realistic fabric detail, professional editorial photography, photorealistic quality, high detail, clean composition, no artificial beauty-filter effect.\n\nImportant: Preserve natural body proportions and realistic anatomy. Keep the pose relaxed and appropriate, with the emphasis on the subject's face, clothing, expression, and overall portrait aesthetic.",
+    "title": "Photorealistic Lifestyle Studio Portrait",
+    "description": "Generates a clean, professional lifestyle portrait with realistic skin textures and natural lighting in a studio setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690122979_2w8fkv_HPpX6WOagAA66GS.jpg",
-      "https://cms-assets.youmind.com/media/1786690122967_zvpxg3_HPpX6zgbwAEqAQS.jpg",
-      "https://cms-assets.youmind.com/media/1786690123013_otzzmm_HPpX7S6bQAAYTiS.jpg",
-      "https://cms-assets.youmind.com/media/1786690123909_6v4jqa_HPpX7z8agAA6W0W.jpg"
+      "https://cms-assets.youmind.com/media/1786774876706_zmge2t_HPvUh1raEAAOOUX.jpg",
+      "https://cms-assets.youmind.com/media/1786774874956_45a1lr_HPvUjeMa8AA6Tb8.jpg",
+      "https://cms-assets.youmind.com/media/1786774874943_zefnof_HPvUkY-bcAAWd1d.jpg",
+      "https://cms-assets.youmind.com/media/1786774875958_04ekvm_HPvUlPCbgAAj6Ak.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31474,
+    "content": "{\n\"image_generation_prompt\": {\n\"subject_details\": {\n\"description\": \"{argument name=\"subject description\" default=\"Young stylish woman with long straight brown hair\"}\",\n\"expression\": \"Subtle, confident smile\",\n\"outfit\": {\n\"top\": \"Soft pink T-shirt under an open black casual jacket\",\n\"bottom\": \"Fitted dark jeans\",\n\"shoes\": \"Polished black shoes\"\n},\n\"pose\": \"Standing on a street corner facing the camera, pointing with one hand toward a building behind her\"\n},\n\"background_scene\": {\n\"setting\": \"{argument name=\"setting\" default=\"Vibrant modern city at night\"}\",\n\"key_element\": \"Giant digital billboard on a tall glass building\",\n\"billboard_content\": {\n\"visual\": \"Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover\",\n\"text_headline\": \"{argument name=\"billboard text\" default=\"VOUGHT STYLE\"}\",\n\"text_subheading\": \"Smaller indistinct magazine-style text\"\n},\n\"atmosphere\": [\n\"Neon lights\",\n\"Glowing billboards\",\n\"Moving cars with motion blur\",\n\"Wet pavement with reflections\"\n]\n},\n\"technical_specs\": {\n\"style\": \"Cinematic, Photorealistic, Urban Night\",\n\"camera\": \"35mm lens\",\n\"depth_of_field\": \"Shallow with soft bokeh on city lights\",\n\"lighting\": \"Mixed neon ambient, directional light from billboard, moody shadows\",\n\"resolution\": \"8k, high definition\"\n}\n}\n}, Use the reference image as the primary source for the person's facial features, appearance, and identity. Preserve all distinguishing facial characteristics exactly as shown in the reference.",
+    "title": "Cyberpunk City Billboard Portrait",
+    "description": "A cinematic urban night scene of a woman standing in front of a giant digital billboard featuring herself.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774873497_3ekwy1_HPum1kMbkAA4axH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31465,
+    "content": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
+    "title": "Hyper Realistic Raspberry Product Shell",
+    "description": "A high-end commercial advertising prompt that encases a product inside a dew-covered, hyper-realistic raspberry cross-section.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774863425_pnbudc_HPuiXwBawAAatce.jpg",
+      "https://cms-assets.youmind.com/media/1786774863767_j981xy_HPuiYSwbEAAwv4Z.jpg",
+      "https://cms-assets.youmind.com/media/1786774863983_dnjank_HPuiYw1bQAApiNE.jpg",
+      "https://cms-assets.youmind.com/media/1786774864376_r9q27v_HPuiZP5a8AAPcB1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31478,
+    "content": "A private villa pool terrace, walled in rustic old masonry and overlooked by a quaint European village under a clear cobalt sky, frames this peaceful afternoon. An {argument name=\"nationality\" default=\"american\"} woman {argument name=\"name\" default=\"Deborah ann woll\"} in her twenties sits on the stone coping, her face tilted serenely upward, eyes gently open watching in camera in authentic surrender to the high midday sun. She wears a {argument name=\"swimsuit color\" default=\"neon yellow\"} ribbed-knit swimsuit and a zebra tan bucket hat with a small sign 'Keor' embroidered on it, the wet fabric and hat textures catching the light with a subtle sheen after a swim. Unfiltered summer sunlight arrives from high on the right side, transitioning smoothly from bright to shadow with clear directionality across her skin and shoulders. The background stacks in sunlit layers of terracotta rooftops, a tall leafy green tree, and the gentle turquoise ripple of the swimming pool. The scene captures a private, stolen moment of unguarded leisure, where comfort is expressed through the perfect intersection of light, heat, and privacy.",
+    "title": "Pool Terrace Summer Swimsuit",
+    "description": "A professional summer vibes portrait prompt featuring a subject at a private villa pool terrace with directed sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774878759_8h0i0z_HPtkbX_XMAAV1Vn.jpg",
+      "https://cms-assets.youmind.com/media/1786774878869_0o6nt6_HPtkbYDW0AAi38q.jpg",
+      "https://cms-assets.youmind.com/media/1786774879459_se0z44_HPtkbYBWoAARQCT.jpg",
+      "https://cms-assets.youmind.com/media/1786774880263_k6k15c_HPtkbX_WMAAqacV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31470,
+    "content": "High-fashion editorial photograph of a stylish young woman with a {argument name=\"hair style\" default=\"bright purple bob haircut\"} and chic sunglasses. She is wearing a {argument name=\"clothing\" default=\"deep blue velvet sleeveless jumpsuit\"} and holding out a large, luxurious {argument name=\"accessory\" default=\"emerald green leather handbag\"} with a gold metal clasp towards the camera. Low-angle perspective. Set inside an elegant classical European palace with stone arches, tall French windows, and soft natural sunlight. Photorealistic, 8k resolution, cinematic lighting, sharp focus, fashion magazine cover style.",
+    "title": "Palace Fashion Magazine Cover",
+    "description": "A high-fashion editorial prompt set in a European palace, featuring a purple bob hairstyle and luxury accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31480,
+    "content": "Create a highly realistic, warm indoor portrait of a {argument name=\"subject\" default=\"young woman\"} enjoying a cheerful moment in a cozy, sophisticated interior.\n\n1. Subject Description, Hair, Skin, Expression & Pose:\nA young woman with fair, naturally textured skin and long {argument name=\"hair color\" default=\"copper-red\"} hair styled into a neat high ponytail. A few loose strands fall naturally around her forehead and cheeks, adding softness to the hairstyle. She has realistic facial features, naturally shaped eyebrows, clear blue-gray eyes, subtle makeup, and a bright genuine smile showing a natural expression of happiness.\n\nHer head is turned slightly to one side while her eyes look toward someone or something just outside the camera's view, creating the feeling of a spontaneous candid moment. Her shoulders are relaxed and her posture is upright and comfortable. Both arms rest naturally at her sides, with one forearm positioned slightly forward. Maintain realistic anatomy, natural proportions, authentic skin texture, and accurately rendered hands.\n\n2. Clothing & Accessories:\nShe wears a sophisticated {argument name=\"dress color\" default=\"solid-red\"} sleeveless dress with a simple fitted upper design and a gently structured waist. The fabric should have a refined matte texture with realistic stitching, subtle folds, and natural draping.\n\nAccessorize the outfit with layered statement necklaces featuring turquoise-blue beads, small gold-toned decorative elements, and delicate pendants. Add small gold hoop earrings and several simple gold-toned bangles on one wrist. The accessories should have realistic metallic reflections and fine craftsmanship while remaining tasteful and coordinated.\n\n3. Environment & Lighting:\nPlace her inside a warmly decorated contemporary interior featuring rich natural wood paneling, dark wooden details, and subtle decorative elements. Include a tall green indoor plant in the softly blurred background and understated artistic or handcrafted objects that create a comfortable, refined atmosphere.\n\nUse warm ambient interior lighting with a soft key light falling gently across her face from one side. Create natural highlights on her hair, jewelry, and dress while retaining soft shadows around the background. The overall atmosphere should feel intimate, welcoming, and candid without looking like a studio setup.\n\n4. Camera & Style:\nPhotorealistic professional lifestyle portrait photography, vertical 4:5 composition, approximately 85mm lens, eye-level camera position, shallow natural depth of field, sharp focus on the woman's eyes and face, softly blurred background, realistic perspective, high dynamic range, accurate natural skin tones, individually rendered hair strands, detailed jewelry, realistic fabric texture, cinematic warm color grading, soft diffused indoor lighting, balanced exposure, subtle contrast, professional edit",
+    "title": "Warm Indoor Lifestyle Portrait",
+    "description": "A comprehensive prompt for a high-quality, candid-style indoor portrait with focus on natural lighting and sophisticated interior design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774877682_9a924m_HPsmRH4XQAAGSoE.jpg",
+      "https://cms-assets.youmind.com/media/1786774877746_mrkqtl_HPsmTQAWoAA1UKJ.jpg",
+      "https://cms-assets.youmind.com/media/1786774880882_81joyy_HPsmUq0XkAAao0l.jpg",
+      "https://cms-assets.youmind.com/media/1786774880088_nzqtah_HPsmVv_WMAEC6Zc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31468,
+    "content": "A DETAILED 3D INSTALLATION OF THE UPLOADED LOGO MOUNTED ON A SOLID CONCRETE WALL. ONLY THE LOGO ITSELF IS VACUUM-SEALED AND WRAPPED TIGHTLY IN A LAYER OF GLOSSY {argument name=\"color\" default=\"COLOR\"} PLASTIC SHRINK-WRAP, FOLLOWING THE EXACT CONTOUR OF EVERY LETTER AND SHAPE. THE PLASTIC FILM TIGHTLY HUGS THE EDGES OF THE LOGO, CREATING REALISTIC CRINKLES AND SHARP SPECULAR HIGHLIGHTS ON THE LOGO'S SURFACE. THE BACKGROUND WALL IS CLEAN CONCRETE, FREE OF ANY PLASTIC WRAPPING OR FRAMES. STUDIO SPOTLIGHTS CAST SOFT, REALISTIC DROP SHADOWS: FROM THE WRAPPED LOGO ONTO THE WALL. RATIO 1080X1350 VERTICAL.",
+    "title": "Vacuum Sealed Logo Installation",
+    "description": "A 3D installation prompt that places an uploaded logo on a concrete wall, wrapped in glossy plastic shrink-wrap for a realistic crinkle effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774865701_c02f05_HPsDnRIbkAAlDge.jpg",
+      "https://cms-assets.youmind.com/media/1786774865865_w6ta19_HPsDnREbAAA14PB.jpg",
+      "https://cms-assets.youmind.com/media/1786774865686_nwd4t2_HPsDnRDaEAA__S8.jpg",
+      "https://cms-assets.youmind.com/media/1786774866499_8h6ujx_HPsDnRFboAAcm7T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31475,
+    "content": "A sleek high-performance frosted glass turbine workhorse engine with anodized aluminum housing and layered refractive glass prisms, firing an ultra-fast {argument name=\"light beam\" default=\"vivid mint light beam\"} with elongated holographic circuit light trails at extreme velocity, asymmetrical composition on rule of thirds grid :: Editorial 3D glassmorphism, refractive glass panels, smooth ceramic, brushed steel, anodized metallic elements, subsurface scattering, light dispersion, chromatic aberration, caustics :: {argument name=\"background\" default=\"Deep charcoal slate and midnight navy background\"}, soft glowing mint highlights with vivid emerald internal glow, subtle deep oceanic blue environmental reflections, clean color separation :: Cinematic studio lighting, volumetric lighting, f/1.8 aperture, extreme bokeh macro photography, deep-focus perspective, {argument name=\"composition\" default=\"minimalist, extreme negative space\"} --ar 16:9 --no text, font, letters, typography, words, watermarks, UI elements, borders, people, faces, humans, hands, laptops, desks, offices, cartoon, vector, clip art, fleshy, biological, organic, busy background, warm colors, red, yellow, purple, noise, clutter",
+    "title": "Futuristic Glass Turbine Engine",
+    "description": "A sleek 3D render of a glass turbine engine with mint holographic light trails and metallic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774873705_nwlq8t_HPrlVpcaoAADayY.jpg",
+      "https://cms-assets.youmind.com/media/1786774873489_vytibt_HPrlVpebsAAoZDd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31479,
+    "content": "Create a highly realistic, serene wellness portrait of a {argument name=\"subject\" default=\"young woman\"} practicing an {argument name=\"action\" default=\"advanced yoga balance pose\"} inside a spacious, elegant meditation and yoga studio.\n\n1. Subject Description, Hair, Skin, Expression & Pose:\nA young woman with fair, naturally textured skin and long copper-red hair pulled into a sleek high ponytail that falls naturally behind her. Her facial features should look realistic and refined, with natural eyebrows, clear expressive eyes, subtle makeup, and a calm, focused expression.\n\nShe is performing a controlled advanced yoga balance pose on a {argument name=\"prop\" default=\"blue yoga mat\"}. One knee is grounded comfortably on the mat while the opposite leg extends vertically upward in a precise, carefully balanced position. Her torso remains upright and stable, with one hand resting naturally on a wooden support stool for balance while the other arm helps maintain the pose. Her head is turned slightly upward toward the raised leg, creating a graceful line through the composition.\n\nThe pose should communicate flexibility, concentration, balance, and disciplined yoga practice. Maintain realistic anatomy, natural proportions, believable joints, accurate hands and feet, and physically plausible posture.\n\n2. Clothing & Accessories:\nShe wears a modest, coordinated yoga outfit consisting of a pale cream or soft ivory long-sleeve wrap-style top layered over a light mustard-yellow athletic top, paired with flowing off-white yoga trousers. The fabrics should appear lightweight, comfortable, breathable, and suitable for yoga practice.\n\nInclude subtle realistic fabric folds, stitching, seams, and natural movement around the pose. Keep accessories minimal, such as a delicate bracelet or simple wrist accessory. Avoid distracting jewelry.\n\n3. Environment & Lighting:\nSet the scene inside a luxurious, peaceful yoga and meditation studio with warm natural materials. The floor is made from polished honey-toned wood, while the walls feature handcrafted decorative motifs inspired by lotus flowers and traditional meditation patterns.\n\nInclude large arched windows in the background overlooking leafy trees and a tranquil natural landscape. Place a blue yoga mat beneath the subject, with neatly stacked yoga blocks, a rolled meditation blanket, and a small traditional meditation bowl arranged nearby.\n\nSeveral elegant brass pendant lights hang from the ceiling, providing warm ambient illumination. Combine their golden glow with soft natural daylight entering through the large windows. Create gentle highlights on the woman's hair and clothing, subtle shadows across the wooden floor, and a peaceful golden atmosphere.\n\n4. Camera & Style:\nPhotorealistic professional wellness and yoga photography, vertical 4:5 composition, approximately 50–70mm lens perspective, eye-level",
+    "title": "Yoga Wellness Studio Portrait",
+    "description": "A detailed photography prompt for a serene yoga balance pose in a high-end meditation studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774879475_xz64j6_HPrjtr4bMAAVhuk.jpg",
+      "https://cms-assets.youmind.com/media/1786774878882_pt8qrl_HPrjxWfa0AE-ubT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31476,
+    "content": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
+    "title": "Food Photography Stack Macro",
+    "description": "A professional food photography prompt for creating high-detail macro shots of stacked items with dripping liquid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774875829_6mtmnh_HPqqXZDaMAAIu4E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31341,
+    "content": "a stack of three {argument name=\"subject\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
+    "title": "Macro Drip Food Photography",
+    "description": "A professional food photography prompt featuring a stack of items with realistic liquid drips and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774867135_ztd1gu_HPpX6WOagAA66GS.jpg",
+      "https://cms-assets.youmind.com/media/1786774867117_m2o8uo_HPpX6zgbwAEqAQS.jpg",
+      "https://cms-assets.youmind.com/media/1786774867146_i0a1qy_HPpX7S6bQAAYTiS.jpg",
+      "https://cms-assets.youmind.com/media/1786774867960_er41pc_HPpX7z8agAA6W0W.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 31336,
-    "content": "Use 100 percent face reference given strictly Portrait of a {argument name=\"subject\" default=\"young Asian woman\"} standing by the {argument name=\"location\" default=\"ocean\"}, looking back over her shoulder at the camera with a soft, confident gaze. She has long brunette hair styled in a low ponytail with face-framing strands, wearing gold hoop earrings. She's dressed in a black-and-white vertical striped oversized blazer layered over a modest high-neck {argument name=\"top color\" default=\"magenta\"} top. Soft natural daylight, ocean and sandy shore blurred in the background, shallow depth of field, fashion-editorial style, warm skin tones, crisp detail on fabric texture, professional beauty photography.",
-    "title": "Young Woman Ocean Portrait",
-    "description": "An editorial-style portrait prompt for an Asian woman by the sea, emphasizing fabric texture and soft daylight.",
+    "content": "Use 100 percent face refranace given strictly Portrait of a {argument name=\"subject\" default=\"young Asian woman\"} standing by the ocean, looking back over her shoulder at the camera with a soft, confident gaze. She has long brunette hair styled in a low ponytail with face-framing strands, wearing gold hoop earrings. She's dressed in a {argument name=\"outerwear\" default=\"black-and-white vertical striped oversized blazer\"} layered over a modest {argument name=\"top\" default=\"high-neck magenta top\"}. Soft natural daylight, ocean and sandy shore blurred in the background, shallow depth of field, fashion-editorial style, warm skin tones, crisp detail on fabric texture, professional beauty photography.",
+    "title": "Editorial Portrait on the Beach",
+    "description": "A fashion editorial style portrait of an Asian woman in a striped blazer by the ocean.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690120577_ut75w1_HPpJ_ZIaQAAQtgm.jpg"
+      "https://cms-assets.youmind.com/media/1786774869471_ptn7s4_HPpJ_ZIaQAAQtgm.jpg"
     ],
     "needReferenceImages": true
   },

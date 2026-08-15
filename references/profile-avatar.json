@@ -10,12 +10,58 @@
     "needReferenceImages": false
   },
   {
-    "id": 31337,
-    "content": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"young handsome man\"} with {argument name=\"glasses style\" default=\"round dark glasses\"} and messy dark hair with a neatly trimmed beard, holding a black DSLR camera with both hands. He wears an open black button-down shirt over a neutral grey-beige t-shirt, standing in a {argument name=\"setting\" default=\"dark, atmospheric photography studio\"}. Soft, natural side-lighting enters from a window on the right, illuminating his face and camera with gentle highlights and deep shadows. In the softly blurred background, studio softboxes and camera equipment add depth. Shot on a 50mm lens, shallow depth of field, muted color palette, high editorial fashion portrait quality.",
-    "title": "Cinematic Studio Portrait",
-    "description": "A cinematic portrait prompt of a man with a camera in a studio setting, utilizing soft side-lighting for a professional look.",
+    "id": 31472,
+    "content": "A photorealistic portrait of a beautiful young East Asian woman with fair porcelain skin, delicate facial features, large dark almond-shaped eyes with subtle makeup, long eyelashes, soft pink lips, and a gentle, slightly tilted head pose looking toward the camera. She has long, voluminous, wavy black hair cascading over her shoulders and down her back in soft, flowing curls with natural highlights and movement. She is wearing an {argument name=\"jacket\" default=\"oversized brown suede-style jacket\"} with a black leather collar, silver snap buttons, and a chest pocket embroidered with the text “SHOOTING”, worn open over a {argument name=\"top\" default=\"short black top\"}. She has one hand resting on her hip, revealing {argument name=\"clothing\" default=\"white opaque tights/pantyhose\"} on her legs. Confident, stylish pose with a relaxed yet alluring posture. Indoor setting with soft, warm directional lighting casting gentle shadows, slightly blurred background suggesting a room with mirrors or reflective surfaces, shallow depth of field, high detail on hair texture, fabric, and skin, cinematic color grading, 8k resolution, photorealistic.",
+    "title": "Stylish Urban Portrait in Suede Jacket",
+    "description": "A high-fashion portrait of an East Asian woman wearing an oversized suede jacket in an indoor setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786690122268_hm70m6_HPqW80mbAAA74JD.jpg"
+      "https://cms-assets.youmind.com/media/1786774869597_dx0uzf_HPgUBchbEAAE6qY.jpg",
+      "https://cms-assets.youmind.com/media/1786774869582_gfib49_HPgUBcjaEAAADAS.jpg",
+      "https://cms-assets.youmind.com/media/1786774869572_v27il0_HPgUBc6acAAqKgq.jpg",
+      "https://cms-assets.youmind.com/media/1786774870445_2db11h_HPgUBcnbsAAvSWm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31464,
+    "content": "A young East Asian woman with long, straight, {argument name=\"hair color\" default=\"dark brown\"} hair cascading over her shoulders and down her chest, taking a casual mirror selfie. She has a soft, youthful face with fair skin, defined eyebrows, subtle winged eyeliner, natural-looking makeup, and full lips slightly parted with her tongue playfully sticking out. She wears a tight, form-fitting short-sleeved {argument name=\"clothing\" default=\"red crop top\"} that hugs her figure and reveals a bit of her midriff and navel. A delicate silver necklace with a small pendant rests on her collarbone. She is standing indoors in a bright bathroom or kitchen with white tiled walls, a ceiling light creating a soft glow and mild lens flare, and part of a white appliance visible in the background. Soft indoor lighting, realistic photo style, high detail, natural skin texture, casual and playful expression.",
+    "title": "Playful Mirror Selfie Portrait",
+    "description": "A realistic photo prompt for a playful mirror selfie featuring an East Asian woman in a casual setting with natural textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774864053_7wo1if_HPgTq_KbgAEc9YG.jpg",
+      "https://cms-assets.youmind.com/media/1786774863981_0i8o0l_HPgTq8nbAAAAd29.jpg",
+      "https://cms-assets.youmind.com/media/1786774864037_tykjtk_HPgTq8ibcAArLol.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31469,
+    "content": "Transform the uploaded person into a premium original {argument name=\"color scheme\" default=\"black-and-crimson\"} futuristic {argument name=\"theme\" default=\"arachnid-inspired\"} character in a cinematic gaming-room environment while preserving the person’s natural appearance and recognizable identity.\nFORMAT LOCK\nVertical 3:4 composition. Full-body portrait. Subject completely visible from head to shoes. High-angle cinematic camera looking downward. Centered framing. Premium editorial gaming-room photography.\nIDENTITY LOCK\nUse the uploaded image as the only identity reference. Preserve the exact facial structure, hairstyle, skin tone, age, body proportions, expression, and overall recognizable appearance. Do not redesign, exaggerate, beautify, or alter the person’s natural features.\nCHARACTER DESIGN\nCreate a completely original futuristic tactical outfit using matte black technical fabric, deep crimson accents, subtle geometric patterns inspired by arachnid structures, realistic stitching, layered materials, and understated protective panels. Add a small original geometric chest insignia with no recognizable superhero symbol. The design should feel like premium futuristic fashion-tech, completely distinct from existing movie, comic, or game costumes.\nENVIRONMENT\nPremium modern gaming bedroom with charcoal interiors, crimson LED lighting, gaming desk, RGB keyboard and mouse, large monitor displaying abstract red geometric artwork, gaming chair, minimalist bed, collectible shelves, warm practical lighting, and dark wooden flooring. Keep the environment sophisticated, clean, cinematic, and uncluttered.\nPOSE\nSubject stands naturally in the center. One hand rests naturally inside the outfit pocket while the other holds a gaming controller. Direct eye contact with the camera. Calm, confident expression. Natural posture, relaxed shoulders, believable anatomy, and realistic hand positioning.\nCAMERA\nHigh-angle cinematic perspective looking downward. Full-body framing with enough surrounding environment to establish the gaming room. Natural lens perspective. Realistic depth of field. Subject remains the primary focal point.\nLIGHTING & STYLE\nSoft cinematic key lighting. Deep controlled shadows. Subtle crimson ambient illumination. Natural skin tones. Gentle rim lighting. Realistic fabric reflections. Soft volumetric atmosphere. Premium editorial color grading. Photorealistic fashion photography. Extremely detailed textures. Sharp facial detail. Realistic materials. High-end cinematic gaming campaign aesthetic. Ultra-detailed 8K quality.",
+    "title": "Futuristic Arachnid Gamer Persona",
+    "description": "A comprehensive character transformation prompt that turns an uploaded identity into a futuristic arachnid-inspired gamer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774867558_66snrz_HPskDdrW0AA1KBB.jpg",
+      "https://cms-assets.youmind.com/media/1786774867607_5l7ubd_HPskDdUWgAAbE8D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31473,
+    "content": "Vertical studio portrait in a 3:4 format. The frame is shot approximately from the waist up, with a slight camera tilt or dynamic diagonal composition. The main subject is positioned in the center, slightly shifted to the right, with his body subtly turned toward the viewer. The background is a {argument name=\"background\" default=\"solid, saturated red\"} with a grainy texture, creating the feeling of a vintage magazine cover or music poster. Main Subject: Use the person from the attached reference as the main character. Accurately reproduce his facial features and identity. Preserve his distinctive look: mysterious, confident, slightly detached expression, with his gaze partially concealed by narrow dark sunglasses. Pose: The subject stands in a relaxed yet expressive pose. His head is tilted slightly forward and to the side, as if he is intently listening during a phone conversation. With one hand, he holds a telephone receiver to his ear; with the other, he holds the other part of the telephone. The pose should feel effortless, fashionable, and cinematic. Clothing & Accessories: The subject wears a {argument name=\"outfit\" default=\"black oversized blazer\"} or jacket with a deep neckline, worn over bare skin or with no visible shirt underneath. The look is minimalist and dark, contrasting sharply against the vivid red background. He wears narrow black vintage-style sunglasses. In his hand is a {argument name=\"accessory\" default=\"wired telephone receiver\"} with a coiled cord. Additional Details: A visible coiled telephone cord connects the receiver to the device. The subject's hair is dark messy with well groomed beard. The lighting emphasizes his face, lips, and part of his neck, while the clothing nearly merges into the deep shadows. The red background should be rich and slightly rough, with vintage film noise. Photography Style: Fashion editorial photography Inspired by the 1980s-1990s, with the aesthetic of a glossy magazine, music album cover, or art poster. High contrast, deep shadows, pronounced grain, and a subtle film texture. Visual style: retro-futurism, fashion portrait, analog photography, dramatic studio lighting. Atmosphere: The atmosphere should feel mysterious, bold, and stylish. The image should evoke the feeling of nighttime urban culture, music, fashion, and a secretive phone conversation. The subject should appear charismatic, confident, slightly dangerous, and cinematic. Image Quality: Highly detailed image with pronounced film grain, deep shadows, and a vivid red background. Sharp focus on the face, sunglasses, hands, and retro telephone device. Preserve the vintage texture while maintaining high image quality, strong visual impact, and a polished fashion/editorial aesthetic",
+    "title": "Retro Studio Magazine Portrait",
+    "description": "A high-fashion 80s/90s style portrait with a vibrant red background and retro telephone accessory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774871833_5mouj6_HPsPCqGbIAA7A8L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31337,
+    "content": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"young handsome man\"} with {argument name=\"glasses\" default=\"round dark glasses\"} and messy dark hair with a neatly trimmed beard, holding a {argument name=\"camera\" default=\"black DSLR camera\"} with both hands. He wears an open black button-down shirt over a neutral grey-beige t-shirt, standing in a dark, atmospheric photography studio. Soft, natural side-lighting enters from a window on the right, illuminating his face and camera with gentle highlights and deep shadows. In the softly blurred background, studio softboxes and camera equipment add depth. Shot on a 50mm lens, shallow depth of field, muted color palette, high editorial fashion portrait quality.",
+    "title": "Cinematic Photographer Studio Portrait",
+    "description": "A mood-driven portrait of a man with a DSLR camera in a professional studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786774873622_09z73w_HPqW80mbAAA74JD.jpg"
     ],
     "needReferenceImages": false
   },
