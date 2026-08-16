@@ -10,15 +10,50 @@
     "needReferenceImages": false
   },
   {
-    "id": 31472,
-    "content": "A photorealistic portrait of a beautiful young East Asian woman with fair porcelain skin, delicate facial features, large dark almond-shaped eyes with subtle makeup, long eyelashes, soft pink lips, and a gentle, slightly tilted head pose looking toward the camera. She has long, voluminous, wavy black hair cascading over her shoulders and down her back in soft, flowing curls with natural highlights and movement. She is wearing an {argument name=\"jacket\" default=\"oversized brown suede-style jacket\"} with a black leather collar, silver snap buttons, and a chest pocket embroidered with the text “SHOOTING”, worn open over a {argument name=\"top\" default=\"short black top\"}. She has one hand resting on her hip, revealing {argument name=\"clothing\" default=\"white opaque tights/pantyhose\"} on her legs. Confident, stylish pose with a relaxed yet alluring posture. Indoor setting with soft, warm directional lighting casting gentle shadows, slightly blurred background suggesting a room with mirrors or reflective surfaces, shallow depth of field, high detail on hair texture, fabric, and skin, cinematic color grading, 8k resolution, photorealistic.",
-    "title": "Stylish Urban Portrait in Suede Jacket",
-    "description": "A high-fashion portrait of an East Asian woman wearing an oversized suede jacket in an indoor setting.",
+    "id": 31564,
+    "content": "Ultra-photorealistic, instantly captivating beauty portrait of a stunning young adult woman with an effortlessly glamorous, magnetic presence. She is lying comfortably with her head slightly tilted toward the camera, creating an intimate, unexpected composition that immediately grabs attention.\n\nHer face dominates the frame, featuring mesmerizing large dark-brown eyes with exceptionally realistic reflections, long naturally curled eyelashes, beautifully shaped dark eyebrows, a delicate nose with a tiny elegant nose stud, and naturally full, glossy rose-pink lips. Her expression is soft, confident, mysterious, and subtly alluring without looking posed.\n\nHer luxurious dark-brown curly hair surrounds her face in abundant natural ringlets, with individually visible strands, realistic frizz, soft highlights, and rich dimensional brown tones. One graceful hand rests near her neck, displaying elegant soft-pink manicured nails and a barely visible delicate necklace.\n\nPerfectly balanced warm cinematic lighting creates luminous skin, subtle facial highlights, and soft natural shadows. Preserve realistic pores, fine skin texture, tiny imperfections, individual eyelashes, authentic hair strands, and natural facial proportions—no plastic skin or artificial beauty-filter appearance.\n\nExtreme close-up composition, eye-level perspective, razor-sharp focus on the eyes, creamy bokeh around the hair, shallow depth of field, professional beauty-editorial photography, 85mm lens, f/1.8, natural warm color grading, high dynamic range, cinematic realism, sophisticated luxury aesthetic, emotionally engaging gaze, premium magazine quality, ultra-detailed 8K, vertical 3:4 composition, optimized for maximum visual impact and stop-scrolling appeal.",
+    "title": "Photorealistic Magnetic Beauty Portrait",
+    "description": "A high-detail prompt for an ultra-photorealistic beauty portrait of a woman with curly hair, focusing on realistic skin texture and cinematic lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786774869597_dx0uzf_HPgUBchbEAAE6qY.jpg",
-      "https://cms-assets.youmind.com/media/1786774869582_gfib49_HPgUBcjaEAAADAS.jpg",
-      "https://cms-assets.youmind.com/media/1786774869572_v27il0_HPgUBc6acAAqKgq.jpg",
-      "https://cms-assets.youmind.com/media/1786774870445_2db11h_HPgUBcnbsAAvSWm.jpg"
+      "https://cms-assets.youmind.com/media/1786861116201_w0hr4u_HPxsDBibcAEN2yr.jpg",
+      "https://cms-assets.youmind.com/media/1786861116819_pwc2xz_HPxsEe4aQAAefy-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31574,
+    "content": "Create a photorealistic lifestyle fitness portrait of a young woman taking a mirror selfie in a modern, softly lit fitness studio.\\n\\n1. Subject description, hair, skin, expression and pose:\\nA young woman with fair skin and a natural complexion, including subtle freckles and realistic skin texture. She has medium-to-long {argument name=\"hair color\" default=\"copper-red\"} hair pulled into a neat ponytail, with a few naturally loose strands around the sides of her face. Her eyebrows are softly defined, her makeup is minimal and natural, and her expression is calm and slightly thoughtful as she looks toward the phone screen.\\n\\nShe is seated comfortably on a padded gym bench, maintaining a relaxed upright posture. One hand holds a {argument name=\"item held\" default=\"smartphone\"} in front of her face while the other rests naturally near her side. Her pose should look like an authentic casual fitness mirror selfie rather than a staged fashion pose.\\n\\n2. Clothing and accessories:\\nShe wears a coordinated {argument name=\"outfit color\" default=\"mustard-gold\"} athletic outfit consisting of a ribbed sleeveless training top and matching high-waisted athletic leggings. The fabric should have football ribbing, realistic stretch, natural folds, and professional sportswear construction.\\nAdd a simple delicate necklace, a modern smartwatch on her wrist, and a couple of understated rings. The smartphone has a dark protective case. Keep accessories minimal and tasteful, with no prominent brand logos.\\n\\n3. Environment and lighting\\nPlace her inside a contemporary fitness studio with dark gym equipment, mirrors, structural elements, and subtle reflections in the background. Keep the background slightly out of focus so the woman remains the primary subject.\\nStrong but natural late-afternoon sunlight enters through nearby windows, creating warm highlights across her hair and clothing while producing soft geometric shadows across the scene. Maintain realistic ambient indoor lighting, natural reflections, and balanced skin tones.\\n\\n4. Camera / photography style:\\nPhotographed as a high-end smartphone mirror selfie combined with professional photography aesthetics, approximately 50mm equivalent perspective, natural camera height, realistic mirror reflection, shallow-to-moderate depth of field, crisp focus on the subject, detailed hair strands, realistic skin texture, accurate fabric detail, cinematic warm color grading, high dynamic range, natural contrast, subtle lens characteristics, and photorealistic high-resolution quality.",
+    "title": "Fitness Mirror Selfie in Modern Studio",
+    "description": "A realistic gym mirror selfie prompt featuring a woman in athletic wear, utilizing natural afternoon sunlight in a contemporary fitness studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786861131387_yafu9i_HPwNj_1aQAAvptL.jpg",
+      "https://cms-assets.youmind.com/media/1786861129578_pcwedy_HPwNnQabgAAvESu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31477,
+    "content": "Create a photorealistic portrait of a young woman standing indoors against a muted {argument name=\"wall color\" default=\"dusty-rose/pink\"} wall. She has fair, natural-looking skin with subtle texture, dark brown hair pulled back into a neat ponytail with a few soft strands framing her face, defined eyebrows, natural eye makeup, and a relaxed, friendly expression with a gentle open smile. She faces the camera directly with a confident but casual posture, shoulders relaxed, arms naturally lowered with her hands resting comfortably near the front of her trousers.\\n\\nShe is wearing a {argument name=\"outfit color\" default=\"mustard-yellow\"} cropped sleeveless top with a simple rounded neckline and matching loose mustard-yellow trousers featuring a delicate {argument name=\"pattern\" default=\"reddish-brown floral or paisley-inspired\"} pattern. The outfit should look like tasteful contemporary casual fashion, with realistic fabric texture, natural folds, and accurate stitching. Keep the styling simple and elegant, with minimal accessories and no prominent logos.\\n\\nThe setting is a clean, minimal indoor studio or lifestyle room with a smooth dusty-rose wall providing a warm monochromatic backdrop. Use soft diffused window light coming from one side, producing gentle highlights on the face and subtle natural shadows without harsh contrast. Maintain realistic skin tones and preserve fine facial details.\\n\\nCamera and style: full-frame digital camera, approximately 85mm portrait lens, eye-level composition, medium-full portrait framing, shallow but natural depth of field, realistic perspective, crisp facial focus, soft background separation, high dynamic range, subtle cinematic color grading, balanced exposure, natural skin texture, realistic fabric detail, professional editorial photography, photorealistic quality, high detail, clean composition, no artificial beauty-filter effect.\\n\\nImportant: Preserve natural body proportions and realistic anatomy. Keep the pose relaxed and appropriate, with the emphasis on the subject's face, clothing, expression, and overall portrait aesthetic.",
+    "title": "Woman in Yellow Floral Trousers",
+    "description": "A photorealistic editorial portrait of a woman in a yellow top and floral trousers against a warm dusty-rose monochromatic background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786861129985_mk8mhl_HPvUh1raEAAOOUX.jpg",
+      "https://cms-assets.youmind.com/media/1786861129907_e9p165_HPvUjeMa8AA6Tb8.jpg",
+      "https://cms-assets.youmind.com/media/1786861129997_0z8d5g_HPvUkY-bcAAWd1d.jpg",
+      "https://cms-assets.youmind.com/media/1786861131093_l5w0v8_HPvUlPCbgAAj6Ak.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31472,
+    "content": "A photorealistic portrait of a beautiful young East Asian woman with fair porcelain skin, delicate facial features, large dark almond-shaped eyes with subtle makeup, long eyelashes, soft pink lips, and a gentle, slightly tilted head pose looking toward the camera. She has long, voluminous, wavy black hair cascading over her shoulders and down her back in soft, flowing curls with natural highlights and movement. \nShe is wearing an oversized brown suede-style jacket with a black leather collar, silver snap buttons, and a chest pocket embroidered with the text “SHOOTING”, worn open over a short black top. She has one hand resting on her hip, revealing white opaque tights/pantyhose on her legs. Confident, stylish pose with a relaxed yet alluring posture.\nIndoor setting with soft, warm directional lighting casting gentle shadows, slightly blurred background suggesting a room with mirrors or reflective surfaces, shallow depth of field, high detail on hair texture, fabric, and skin, cinematic color grading, 8k resolution, photorealistic.",
+    "title": "Detailed East Asian Woman Portrait",
+    "description": "A photorealistic portrait prompt of a young East Asian woman in a suede jacket, focusing on delicate facial features and cascades of wavy black hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786861118424_hs6u0t_HPgUBchbEAAE6qY.jpg",
+      "https://cms-assets.youmind.com/media/1786861118432_7o07hz_HPgUBcjaEAAADAS.jpg",
+      "https://cms-assets.youmind.com/media/1786861118395_1w8acw_HPgUBc6acAAqKgq.jpg",
+      "https://cms-assets.youmind.com/media/1786861119883_s2oaso_HPgUBcnbsAAvSWm.jpg"
     ],
     "needReferenceImages": false
   },

@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 31567,
+    "content": "A close-up, side-profile view of a human brain sculpture made of dried flowers and feathers. The brain's shape is clearly defined, with the cerebrum and cerebellum visible. The cerebrum is adorned with an arrangement of delicate, dried flowers in various shades of white, cream, peach, and muted red. Some of the flowers appear to be roses and peonies, while smaller, clustered blossoms add texture. The cerebellum is represented by a cluster of blue-green, feather-like elements, and a striking peacock feather is positioned at the base of the cerebellum, its eye-like pattern prominent. The entire sculpture is set against a dark distressed and grainy background, emphasizing the intricate details and textures of the materials used.",
+    "title": "Dried Flower Brain Sculpture",
+    "description": "An intricate prompt for a surreal sculpture of a human brain composed of delicate dried flowers and feathers against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786861121172_sgd7sf_HPcwTe3WYAE1P5X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30813,
     "content": "A close-up, eye-level shot captures a {argument name=\"animal type\" default=\"European hamster\"} in a field of dry grass. The {argument name=\"animal type\" default=\"hamster\"}, with its distinctive brown and black fur, is positioned slightly to the left of the frame, facing right. Its tiny paws are holding a {argument name=\"food item\" default=\"small green leaf\"}, which it appears to be eating. The {argument name=\"animal type\" default=\"hamster\"}'s dark, beady eyes are sharp and focused, and its long whiskers are prominent.",
     "title": "European Hamster Wildlife Photography",

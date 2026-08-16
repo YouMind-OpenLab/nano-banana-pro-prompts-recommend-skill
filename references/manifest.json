@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-16T01:47:04.716Z",
-  "totalPrompts": 15211,
+  "updatedAt": "2026-08-16T12:48:45.331Z",
+  "totalPrompts": 15225,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 1967
+      "count": 1970
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9490
+      "count": 9503
     },
     {
       "slug": "infographic-edu-visual",
       "title": "Infographic / Edu Visual",
       "file": "infographic-edu-visual.json",
-      "count": 593
+      "count": 594
     },
     {
       "slug": "youtube-thumbnail",
@@ -30,13 +30,13 @@
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
-      "count": 646
+      "count": 648
     },
     {
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5546
+      "count": 5553
     },
     {
       "slug": "ecommerce-main-image",
@@ -48,25 +48,25 @@
       "slug": "game-asset",
       "title": "Game Asset",
       "file": "game-asset.json",
-      "count": 698
+      "count": 697
     },
     {
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 948
+      "count": 949
     },
     {
       "slug": "app-web-design",
       "title": "App / Web Design",
       "file": "app-web-design.json",
-      "count": 231
+      "count": 232
     },
     {
       "slug": "others",
       "title": "Uncategorized",
       "file": "others.json",
-      "count": 1089
+      "count": 1090
     }
   ]
 }

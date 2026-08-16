@@ -2,13 +2,13 @@
   {
     "id": 31465,
     "content": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
-    "title": "Hyper Realistic Raspberry Product Shell",
-    "description": "A high-end commercial advertising prompt that encases a product inside a dew-covered, hyper-realistic raspberry cross-section.",
+    "title": "Raspberry Shell Product Photography",
+    "description": "A commercial product photography prompt featuring a product held within a hyper-realistic, juice-dripping raspberry cross-section.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786774863425_pnbudc_HPuiXwBawAAatce.jpg",
-      "https://cms-assets.youmind.com/media/1786774863767_j981xy_HPuiYSwbEAAwv4Z.jpg",
-      "https://cms-assets.youmind.com/media/1786774863983_dnjank_HPuiYw1bQAApiNE.jpg",
-      "https://cms-assets.youmind.com/media/1786774864376_r9q27v_HPuiZP5a8AAPcB1.jpg"
+      "https://cms-assets.youmind.com/media/1786861118125_5etqo8_HPuiXwBawAAatce.jpg",
+      "https://cms-assets.youmind.com/media/1786861118109_96hh3y_HPuiYSwbEAAwv4Z.jpg",
+      "https://cms-assets.youmind.com/media/1786861118389_a1sfeo_HPuiYw1bQAApiNE.jpg",
+      "https://cms-assets.youmind.com/media/1786861119491_eytjfp_HPuiZP5a8AAPcB1.jpg"
     ],
     "needReferenceImages": true
   },

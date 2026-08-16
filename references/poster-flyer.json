@@ -20,12 +20,22 @@
     "needReferenceImages": false
   },
   {
-    "id": 31474,
-    "content": "{\n\"image_generation_prompt\": {\n\"subject_details\": {\n\"description\": \"{argument name=\"subject description\" default=\"Young stylish woman with long straight brown hair\"}\",\n\"expression\": \"Subtle, confident smile\",\n\"outfit\": {\n\"top\": \"Soft pink T-shirt under an open black casual jacket\",\n\"bottom\": \"Fitted dark jeans\",\n\"shoes\": \"Polished black shoes\"\n},\n\"pose\": \"Standing on a street corner facing the camera, pointing with one hand toward a building behind her\"\n},\n\"background_scene\": {\n\"setting\": \"{argument name=\"setting\" default=\"Vibrant modern city at night\"}\",\n\"key_element\": \"Giant digital billboard on a tall glass building\",\n\"billboard_content\": {\n\"visual\": \"Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover\",\n\"text_headline\": \"{argument name=\"billboard text\" default=\"VOUGHT STYLE\"}\",\n\"text_subheading\": \"Smaller indistinct magazine-style text\"\n},\n\"atmosphere\": [\n\"Neon lights\",\n\"Glowing billboards\",\n\"Moving cars with motion blur\",\n\"Wet pavement with reflections\"\n]\n},\n\"technical_specs\": {\n\"style\": \"Cinematic, Photorealistic, Urban Night\",\n\"camera\": \"35mm lens\",\n\"depth_of_field\": \"Shallow with soft bokeh on city lights\",\n\"lighting\": \"Mixed neon ambient, directional light from billboard, moody shadows\",\n\"resolution\": \"8k, high definition\"\n}\n}\n}, Use the reference image as the primary source for the person's facial features, appearance, and identity. Preserve all distinguishing facial characteristics exactly as shown in the reference.",
-    "title": "Cyberpunk City Billboard Portrait",
-    "description": "A cinematic urban night scene of a woman standing in front of a giant digital billboard featuring herself.",
+    "id": 31567,
+    "content": "A close-up, side-profile view of a human brain sculpture made of dried flowers and feathers. The brain's shape is clearly defined, with the cerebrum and cerebellum visible. The cerebrum is adorned with an arrangement of delicate, dried flowers in various shades of white, cream, peach, and muted red. Some of the flowers appear to be roses and peonies, while smaller, clustered blossoms add texture. The cerebellum is represented by a cluster of blue-green, feather-like elements, and a striking peacock feather is positioned at the base of the cerebellum, its eye-like pattern prominent. The entire sculpture is set against a dark distressed and grainy background, emphasizing the intricate details and textures of the materials used.",
+    "title": "Dried Flower Brain Sculpture",
+    "description": "An intricate prompt for a surreal sculpture of a human brain composed of delicate dried flowers and feathers against a dark background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786774873497_3ekwy1_HPum1kMbkAA4axH.jpg"
+      "https://cms-assets.youmind.com/media/1786861121172_sgd7sf_HPcwTe3WYAE1P5X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31474,
+    "content": "{\\n\"image_generation_prompt\": {\\n\"subject_details\": {\\n\"description\": \"{argument name=\"subject\" default=\"Young stylish woman with long straight brown hair\"}\",\\n\"expression\": \"Subtle, confident smile\",\\n\"outfit\": {\\n\"top\": \"Soft pink T-shirt under an open black casual jacket\",\\n\"bottom\": \"Fitted dark jeans\",\\n\"shoes\": \"Polished black shoes\"\\n},\\n\"pose\": \"Standing on a street corner facing the camera, pointing with one hand toward a building behind her\"\\n},\\n\"background_scene\": {\\n\"setting\": \"Vibrant modern city at night\",\\n\"key_element\": \"{argument name=\"billboard element\" default=\"Giant digital billboard on a tall glass building\"}\",\\n\"billboard_content\": {\\n\"visual\": \"Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover\",\\n\"text_headline\": \"{argument name=\"billboard text\" default=\"VOUGHT STYLE\"}\",\\n\"text_subheading\": \"Smaller indistinct magazine-style text\"\\n},\\n\"atmosphere\": [\\n\"Neon lights\",\\n\"Glowing billboards\",\\n\"Moving cars with motion blur\",\\n\"Wet pavement with reflections\"\\n]\\n},\\n\"technical_specs\": {\\n\"style\": \"Cinematic, Photorealistic, Urban Night\",\\n\"camera\": \"35mm lens\",\\n\"depth_of_field\": \"Shallow with soft bokeh on city lights\",\\n\"lighting\": \"Mixed neon ambient, directional light from billboard, moody shadows\",\\n\"resolution\": \"8k, high definition\"\\n}\\n}\\n}, Use the reference image as the primary source for the person's facial features, appearance, and identity. Preserve all distinguishing facial characteristics exactly as shown in the reference.",
+    "title": "Cinematic Urban Night Billboard Portrait",
+    "description": "A cinematic urban night portrait of a woman on a city street, featuring a digital billboard reflecting her image in a high-fashion style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786861127690_4wl8n9_HPum1kMbkAA4axH.jpg"
     ],
     "needReferenceImages": true
   },
