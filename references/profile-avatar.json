@@ -10,6 +10,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 31664,
+    "content": "ar 9:16 4K\n\nA young East/Southeast Asian woman with soft fair skin, delicate features, dark brown eyes, and a gentle closed-mouth smile looking directly at the camera. She is wearing a smooth, {argument name=\"hijab color\" default=\"light taupe/beige\"} chiffon-style hijab wrapped neatly around her head and neck, with soft folds framing her face.  \n\nShe wears a white long-sleeve top under a {argument name=\"clothing\" default=\"cream/beige open cardigan or bolero\"} with ruffled edges and small fabric bows/ties on the front. Light blue jeans. One arm is crossed over her body, showing a wristwatch with a reddish-brown leather strap and a few thin bracelets.  \n\nShe is seated indoors in a {argument name=\"setting\" default=\"cozy, dimly lit wooden café\"} or restaurant with dark walls, wooden tables and benches, soft ambient lighting, slight depth of field blur in the background. Natural, realistic portrait photography style, soft warm lighting, high detail, photorealistic.",
+    "title": "Cozy Cafe Hijab Portrait",
+    "description": "A photorealistic portrait prompt of a woman in a taupe hijab and ruffled cardigan, set in a dimly lit, cozy wooden cafe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786947852012_rxqy6s_HPqAOe2bwAAcQcC.jpg",
+      "https://cms-assets.youmind.com/media/1786947851951_4sb3ro_HPqAOfBagAAe04s.jpg",
+      "https://cms-assets.youmind.com/media/1786947851990_5naxe2_HPqAOgOa8AEqbKL.jpg",
+      "https://cms-assets.youmind.com/media/1786947854335_wdjs71_HPqAOgAaIAAQhub.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31656,
+    "content": "A photorealistic outdoor lifestyle portrait of a young woman with fair skin, {argument name=\"hair color\" default=\"long golden-blonde hair\"} gathered into a high ponytail, with softly textured strands falling over one shoulder. She has neatly shaped eyebrows, light-colored eyes, subtle natural makeup, and a composed, confident expression while looking directly toward the camera. She is seated comfortably on a clean {argument name=\"accessory\" default=\"white picnic blanket\"} placed on a well-maintained lawn, with both hands resting naturally on the blanket and her posture relaxed and balanced.\\n\\nShe is wearing a fitted dusty-pink short-sleeve top with a modest rounded neckline and high-waisted blue denim shorts with subtle distressed detailing. Add simple understated accessories such as small earrings and a delicate bracelet, keeping the overall styling casual, polished, and contemporary.\\n\\nThe setting is a beautifully landscaped {argument name=\"setting\" default=\"garden or residential courtyard\"} with freshly trimmed hedges, mature green trees, ornamental plants, and a modern building softly visible in the background. Place a small arrangement of fresh red rose petals on one side of the white blanket for a tasteful decorative detail. Use bright natural daylight filtered through surrounding trees, producing soft highlights, gentle shadows, and realistic greenery. Create a fresh, peaceful summer atmosphere with natural depth and dimensionality.\\n\\nPhotographed with an 85mm portrait lens at eye level, shallow depth of field, realistic perspective, crisp facial focus, softly blurred background, natural skin texture, detailed hair strands, realistic fabric texture, accurate anatomy, high dynamic range, subtle cinematic color grading, balanced exposure, warm natural tones, professional outdoor lifestyle photography, ultra-detailed photorealistic finish, high resolution, vertical portrait composition, no celebrity likeness, no text, no watermark.",
+    "title": "Golden-Blonde Garden Portrait",
+    "description": "A photorealistic portrait of a blonde woman relaxing on a picnic blanket in a peaceful residential courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786947845205_6l36uy_HP5hpLDbcAAFIsU.jpg",
+      "https://cms-assets.youmind.com/media/1786947845202_wwtgwf_HP5htYhacAABiDO.jpg",
+      "https://cms-assets.youmind.com/media/1786947845239_9ae1p0_HP5huW1bwAAgWWC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31662,
+    "content": "A attractive {argument name=\"ethnicity\" default=\"south asian indian\"} female model with a dimorphic round face, aquiline nose, rose lips, neat hairstyle with full hair, clear ivory skin, a {argument name=\"outfit\" default=\"black rib knit turtleneck with a rich threading\"}, a {argument name=\"background\" default=\"plain white background\"} the models hair is black and has a full brow, roman nose, clear skin etc,. white background clear sclera bright face, rich photogenic look",
+    "title": "Cinematic South Asian Female Portrait",
+    "description": "A photorealistic portrait prompt for a South Asian model, focusing on facial features, skin texture, and simple studio lighting against a plain background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786947850129_0ddxzj_HP49jsRbsAAbsLj.jpg",
+      "https://cms-assets.youmind.com/media/1786947850180_n2tysg_HP49kI2bsAAR3Ec.jpg",
+      "https://cms-assets.youmind.com/media/1786947850149_goy8fg_HP49kptawAAek4y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31660,
+    "content": "A photorealistic portrait of a young woman with {argument name=\"hair style\" default=\"long, straight dark-brown hair styled in a high ponytail\"}, with a few natural strands framing her face. She has a warm, even complexion, defined eyebrows, expressive brown eyes, and a calm, confident expression with a subtle closed-mouth smile. She is seated comfortably on a neatly made bed, facing the camera with relaxed posture. One hand rests naturally on the bed beside her while the other is raised near her hair, creating a casual lifestyle-photo pose.\\n\\nShe is wearing a {argument name=\"clothing\" default=\"deep-purple sleeveless top paired with a brown patterned short\"} featuring a subtle geometric print and a comfortable waistband. Add understated metallic stacked bracelets and minimal jewelry for a refined, contemporary look. Keep the clothing tasteful, naturally fitted, and realistically textured.\\n\\nThe setting is a {argument name=\"setting\" default=\"cozy modern bedroom\"} with a warm wooden headboard, crisp white bedding, neutral-colored walls, and softly illuminated bedside lamps. Use warm ambient lighting combined with gentle natural light entering from an unseen window, creating soft highlights across the subject while maintaining realistic shadows. The overall atmosphere should feel comfortable, elegant, and relaxed.\\n\\nPhotographed at eye level with an 85mm portrait lens, shallow depth of field, natural perspective, realistic skin texture, accurate fabric details, soft background separation, subtle cinematic color grading, balanced exposure, warm neutral tones, professional lifestyle photography, high dynamic range, fine details, realistic proportions, natural anatomy, sharp facial focus, and an authentic photographic appearance. Vertical portrait composition, high resolution, polished but natural finish, no text, no watermark.",
+    "title": "Cozy Bedroom Lifestyle Portrait",
+    "description": "A warm and relaxed lifestyle portrait of a woman in a purple top sitting on a bed in a modern, softly lit bedroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786947845662_n9cm91_HP37NynaIAA_BQ4.jpg",
+      "https://cms-assets.youmind.com/media/1786947845815_i1xu89_HP37R6daMAAIFw3.jpg",
+      "https://cms-assets.youmind.com/media/1786947845601_kea55i_HP37TEya4AAi6jY.jpg",
+      "https://cms-assets.youmind.com/media/1786947846484_702dzx_HP37UAQagAAYvVJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31564,
     "content": "Ultra-photorealistic, instantly captivating beauty portrait of a stunning young adult woman with an effortlessly glamorous, magnetic presence. She is lying comfortably with her head slightly tilted toward the camera, creating an intimate, unexpected composition that immediately grabs attention.\n\nHer face dominates the frame, featuring mesmerizing large dark-brown eyes with exceptionally realistic reflections, long naturally curled eyelashes, beautifully shaped dark eyebrows, a delicate nose with a tiny elegant nose stud, and naturally full, glossy rose-pink lips. Her expression is soft, confident, mysterious, and subtly alluring without looking posed.\n\nHer luxurious dark-brown curly hair surrounds her face in abundant natural ringlets, with individually visible strands, realistic frizz, soft highlights, and rich dimensional brown tones. One graceful hand rests near her neck, displaying elegant soft-pink manicured nails and a barely visible delicate necklace.\n\nPerfectly balanced warm cinematic lighting creates luminous skin, subtle facial highlights, and soft natural shadows. Preserve realistic pores, fine skin texture, tiny imperfections, individual eyelashes, authentic hair strands, and natural facial proportions—no plastic skin or artificial beauty-filter appearance.\n\nExtreme close-up composition, eye-level perspective, razor-sharp focus on the eyes, creamy bokeh around the hair, shallow depth of field, professional beauty-editorial photography, 85mm lens, f/1.8, natural warm color grading, high dynamic range, cinematic realism, sophisticated luxury aesthetic, emotionally engaging gaze, premium magazine quality, ultra-detailed 8K, vertical 3:4 composition, optimized for maximum visual impact and stop-scrolling appeal.",
     "title": "Photorealistic Magnetic Beauty Portrait",
