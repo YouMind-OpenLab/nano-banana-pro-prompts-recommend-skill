@@ -10,15 +10,77 @@
     "needReferenceImages": false
   },
   {
-    "id": 31664,
-    "content": "ar 9:16 4K\n\nA young East/Southeast Asian woman with soft fair skin, delicate features, dark brown eyes, and a gentle closed-mouth smile looking directly at the camera. She is wearing a smooth, {argument name=\"hijab color\" default=\"light taupe/beige\"} chiffon-style hijab wrapped neatly around her head and neck, with soft folds framing her face.  \n\nShe wears a white long-sleeve top under a {argument name=\"clothing\" default=\"cream/beige open cardigan or bolero\"} with ruffled edges and small fabric bows/ties on the front. Light blue jeans. One arm is crossed over her body, showing a wristwatch with a reddish-brown leather strap and a few thin bracelets.  \n\nShe is seated indoors in a {argument name=\"setting\" default=\"cozy, dimly lit wooden café\"} or restaurant with dark walls, wooden tables and benches, soft ambient lighting, slight depth of field blur in the background. Natural, realistic portrait photography style, soft warm lighting, high detail, photorealistic.",
-    "title": "Cozy Cafe Hijab Portrait",
-    "description": "A photorealistic portrait prompt of a woman in a taupe hijab and ruffled cardigan, set in a dimly lit, cozy wooden cafe.",
+    "id": 31759,
+    "content": "A realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman\"} sitting in the front seat of a car, taken from a slightly high and tilted angle (phone held above). She has {argument name=\"hair\" default=\"long, voluminous, wavy dark brown hair\"} cascading over her shoulders and partially covering her right side, with soft natural volume and subtle highlights. Her face is turned slightly toward the camera with a soft, neutral-to-slightly pouty expression, lips gently parted and tinted soft pink. She has fair skin, delicate features, defined eyebrows, and subtle winged black eyeliner. She is wearing a simple beige or light tan sleeveless top with a small visible button on the strap, and a delicate silver necklace with a small circular pendant resting on her collarbone. {argument name=\"lighting\" default=\"soft natural daylight\"} illuminates her face from the car window, creating gentle highlights on her hair and skin. The background shows the dark interior of a car (seat headrest and window frame visible) with a soft, slightly blurred outdoor view through the window. High detail, photorealistic, natural skin texture, sharp focus on the face, shallow depth of field.",
+    "title": "Car Interior Woman Selfie",
+    "description": "A photorealistic close-up selfie of a young East Asian woman in a car, taken from a high angle with soft natural daylight and shallow depth of field.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786947852012_rxqy6s_HPqAOe2bwAAcQcC.jpg",
-      "https://cms-assets.youmind.com/media/1786947851951_4sb3ro_HPqAOfBagAAe04s.jpg",
-      "https://cms-assets.youmind.com/media/1786947851990_5naxe2_HPqAOgOa8AEqbKL.jpg",
-      "https://cms-assets.youmind.com/media/1786947854335_wdjs71_HPqAOgAaIAAQhub.jpg"
+      "https://cms-assets.youmind.com/media/1787034154342_rwmnki_HP5GWyOaIAAHm2R.jpg",
+      "https://cms-assets.youmind.com/media/1787034154297_iuxwm8_HP5GWyUacAAuskH.jpg",
+      "https://cms-assets.youmind.com/media/1787034154298_vd573u_HP5GWyVaQAAU8NS.jpg",
+      "https://cms-assets.youmind.com/media/1787034154975_8gwge9_HP5GWyWbcAAZvKz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31747,
+    "content": "A realistic close-up selfie portrait of a {argument name=\"subject description\" default=\"young East Asian woman in her early 20s\"}, with fair skin, soft natural makeup, light pink glossy lips, and a gentle closed-mouth smile. She has long, silky dark brown hair with soft waves, parted slightly to the side, cascading over her right shoulder and framing her face. She is wearing a {argument name=\"outfit\" default=\"plain white long-sleeve Calvin Klein t-shirt\"} with the small black logo visible on the left chest, and a thin delicate silver chain necklace. Soft natural side lighting (warm sunlight) illuminates the left side of her face, creating gentle highlights on her cheek and hair while casting soft shadows on the right. {argument name=\"background setting\" default=\"Indoor setting with a plain gray wall in the background\"}, a tall light-gray plastic storage cabinet with stacked drawers on the right side, some folded towels, bottles, and small items on top of the cabinet. Casual, natural, high-detail, photorealistic style, slightly low angle selfie perspective, shallow depth of field, warm and soft atmosphere.",
+    "title": "East Asian Woman Casual Selfie",
+    "description": "A photorealistic selfie prompt featuring a young East Asian woman in casual attire with warm natural sunlight and a high-detail indoor background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034144870_et0zlc_HP5GGa5akAAFibc.jpg",
+      "https://cms-assets.youmind.com/media/1787034144543_7a6uk1_HP5GGa2bAAALzgi.jpg",
+      "https://cms-assets.youmind.com/media/1787034145066_wm2zkt_HP5GGawaQAA3jKw.jpg",
+      "https://cms-assets.youmind.com/media/1787034145543_cd8qme_HP5GGayasAAkKi6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31756,
+    "content": "A close-up selfie portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with {argument name=\"hair\" default=\"long, wavy dark brown hair\"} cascading over her shoulders. She is playfully running her right hand through her hair near the top of her head, looking directly at the camera with a soft, gentle smile and slightly parted glossy lips. She has large dark eyes with subtle eyeliner and mascara, well-groomed arched eyebrows, and light natural makeup with a soft glow on her cheeks. She is wearing a {argument name=\"outfit\" default=\"white collared button-up shirt with a maroon/burgundy necktie\"} loosely draped around her neck. The lighting is soft and warm indoor lighting, creating gentle highlights on her face and hair. Background is slightly blurred, showing a patterned fabric surface (like a bed or couch) and dark curtains. Shot from a high selfie angle, realistic photography style, high detail, natural skin texture, soft bokeh.",
+    "title": "East Asian Woman Selfie Portrait",
+    "description": "A realistic close-up selfie portrait of a young East Asian woman with wavy brown hair, featuring soft indoor lighting and a natural photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034150715_wne8n8_HP5FvfXbYAAQ4t2.jpg",
+      "https://cms-assets.youmind.com/media/1787034150694_4ll7ut_HP5FvfpawAA2hw2.jpg",
+      "https://cms-assets.youmind.com/media/1787034150672_d5sfeu_HP5FvfZa4AAwMn2.jpg",
+      "https://cms-assets.youmind.com/media/1787034151706_uhzues_HP5FvfTaQAAOnHS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31754,
+    "content": "A waist-up shot of {argument name=\"subject\" default=\"an athletic adult male\"} positioned center-right, exuding a confident, serious, and guarded expression. He is dressed in {argument name=\"clothing\" default=\"a crisp white polo shirt\"}, cream pleated trousers secured by a brown leather belt, a silver watch, and dark tortoiseshell sunglasses that conceal his eyes as he gazes far left off-camera. His hair is short on the sides with two to three inches of wavy texture on top, pushed back without a distinct part, showcasing a natural matte finish with slight frizz, varied strand clumping, and delicately backlit flyaways at the crown. His relaxed mouth remains in a closed neutral pose, while his body leans casually back against a slightly worn, matte black chain-link fence with his weight shifted slightly to the left, relaxing his shoulders into the lean. His left hand rests naturally on the fence's top tubular rail, with fingers draped loosely over the curved edge, visible from wrist to knuckles, while his right hand is tucked deep into his front trouser pocket, exposing only a sliver of his wrist and thumb knuckle. Anchoring the lower third foreground, the fence features a thick diamond wire mesh and a cylindrical top bar that catches the sunlight. Behind him, the deep spatial depth transitions into a pristine midground consisting of a {argument name=\"setting\" default=\"manicured olive-green grass tennis court\"} intersected by crisp white painted lawnmower stripes and solid boundary lines, alongside a pristine black tennis net bordered by a thick white canvas top band. The background is anchored on the upper right by an immaculate white clubhouse pavilion boasting vertical structural pillars, architectural molding, smooth painted wood, and a dark gabled roof, balanced by thriving, dense leafy tree canopies on the top left and far right. The atmosphere is saturated in a sophisticated, dramatic outdoor golden hour, defined by a highly directional, singular hard sun source casting bright, warm light from exactly ninety degrees to the mid-left. This creates a high contrast ratio with deep black shadows nestled within the folds of his clothing and harsh, defined long shadows stretching out from the fence across the grass, blanketing the right side of his face and body in dramatic darkness. Conversely, preserved golden-yellow highlights softly illuminate the left side of his face and left arm, while crisp rim lighting accentuates the textured flyaways of his hair and the top edge of the fence rail, all slightly softened by a warm ambient sky fill. The scene employs an analogous color palette with striking neutral contrasts, harmonizing the warm off-white of his clothing with the olive greens of the environment and the dark brown and black accents. Captured through digital photography using an 85mm prime lens from a straight-on, slightly low angle at chest height, the image utilizes an f/1.8 aperture for a shallow depth of field that renders the subject tack sharp while melting the clubhouse and trees into bokeh.",
+    "title": "Golden Hour Tennis Court Portrait",
+    "description": "A highly detailed portrait prompt of an athletic male leaning against a fence at a tennis court during golden hour with dramatic hard lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034149543_ccbenf_HPv4iy4XIAAzYOH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31751,
+    "content": "A {argument name=\"woman description\" default=\"young East Asian woman\"} lying on her back in a {argument name=\"meadow background\" default=\"sunny meadow of soft green grass and blooming purple-blue aster-like wildflowers\"}, looking directly at the camera with a gentle, slightly dreamy expression. She has long, straight, silky dark brown hair spread out on the grass, fair skin with soft natural blush on her cheeks, delicate features, and slightly parted lips. She is wearing a {argument name=\"clothing\" default=\"white collared shirt under a dark navy blue sleeveless vest/sweater vest\"}. Her right hand holds a single purple flower near her face. Soft natural sunlight filters through, creating gentle dappled light and soft shadows across her face and body. Shallow depth of field, with foreground flowers slightly out of focus. Cinematic, photorealistic, high detail, warm and serene atmosphere, soft golden hour lighting.",
+    "title": "Dreamy Meadow Portrait",
+    "description": "A serene and cinematic portrait prompt of an East Asian woman lying in a meadow of wildflowers, captured during golden hour with soft sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034146557_rv70jh_HPqAYIVawAArQcM.jpg",
+      "https://cms-assets.youmind.com/media/1787034146585_h55id6_HPqAYILaoAErSJx.jpg",
+      "https://cms-assets.youmind.com/media/1787034146537_5krtae_HPqAYIHa8AAOKb9.jpg",
+      "https://cms-assets.youmind.com/media/1787034147527_sjc2yf_HPqAYINaUAAt-kr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31664,
+    "content": "A {argument name=\"subject\" default=\"young East/Southeast Asian woman\"} with soft fair skin, delicate features, dark brown eyes, and a gentle closed-mouth smile looking directly at the camera. She is wearing a {argument name=\"outfit\" default=\"smooth, light taupe/beige chiffon-style hijab\"} wrapped neatly around her head and neck, with soft folds framing her face. She wears a white long-sleeve top under a cream/beige open cardigan or bolero with ruffled edges and small fabric bows/ties on the front. Light blue jeans. One arm is crossed over her body, showing a wristwatch with a reddish-brown leather strap and a few thin bracelets. She is seated {argument name=\"setting\" default=\"indoors in a cozy, dimly lit wooden café or restaurant\"} with dark walls, wooden tables and benches, soft ambient lighting, slight depth of field blur in the background. Natural, realistic portrait photography style, soft warm lighting, high detail, photorealistic.",
+    "title": "Hijab Portrait Cafe Aesthetic",
+    "description": "A photorealistic portrait of a young woman wearing a chiffon-style hijab, seated in a cozy, dimly lit café with natural portrait lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034152455_y1lhwx_HPqAOe2bwAAcQcC.jpg",
+      "https://cms-assets.youmind.com/media/1787034152391_g8vd8y_HPqAOfBagAAe04s.jpg",
+      "https://cms-assets.youmind.com/media/1787034152388_b41v3m_HPqAOgOa8AEqbKL.jpg",
+      "https://cms-assets.youmind.com/media/1787034153256_dmgp65_HPqAOgAaIAAQhub.jpg"
     ],
     "needReferenceImages": false
   },
@@ -35,14 +97,25 @@
     "needReferenceImages": false
   },
   {
-    "id": 31662,
-    "content": "A attractive {argument name=\"ethnicity\" default=\"south asian indian\"} female model with a dimorphic round face, aquiline nose, rose lips, neat hairstyle with full hair, clear ivory skin, a {argument name=\"outfit\" default=\"black rib knit turtleneck with a rich threading\"}, a {argument name=\"background\" default=\"plain white background\"} the models hair is black and has a full brow, roman nose, clear skin etc,. white background clear sclera bright face, rich photogenic look",
-    "title": "Cinematic South Asian Female Portrait",
-    "description": "A photorealistic portrait prompt for a South Asian model, focusing on facial features, skin texture, and simple studio lighting against a plain background.",
+    "id": 31755,
+    "content": "Close-up selfie portrait, camera very close to the face, slight high angle, shot cropped at the chest. One hand presses a {argument name=\"bouquet\" default=\"huge bouquet of 1001 dark fuchsia small spray roses\"} against the body. Shoulder is slightly raised, relaxed confident pose, gaze directly into the camera through curls. The bouquet is very massive, plush, and dense with about 1001 stems in white matte multi-layered packaging. Hair: {argument name=\"hair\" default=\"very voluminous curly hair\"} down to the waist. Dense, elastic, large spiral curls with messy defined texture. Large volume at the roots, dark chocolate shade, individual curls chaotically fall onto the face and partially cover one eye. Salon-defined curls, glossy frizz-free finish. Makeup: Long lashes with a fox-eye effect, laminated eyebrows, lips painted with {argument name=\"makeup\" default=\"matte dusty pink lipstick\"}. Clothing: Form-fitting white ribbed top and a pink rhinestone-studded shirt, slightly slipped off the shoulder. Accessories: Thin translucent chain with a diamond, gold stud earrings. Pose: Head slightly tilted to the side and slightly forward, hair falling onto the face, lips slightly relaxed, gaze intense and focused. Location: Indoor, bokeh effects. Lighting: Background is darkened, main lighting from a smartphone screen, the room is dark. Technical: Photorealism, high detail of skin, fabric, and props. Motion photo. Image quality like an iPhone 17.",
+    "title": "Curly Hair Rose Selfie Portrait",
+    "description": "A detailed close-up selfie portrait featuring voluminous spiral curls and a massive bouquet of spray roses, shot with a high-end smartphone photography look.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786947850129_0ddxzj_HP49jsRbsAAbsLj.jpg",
-      "https://cms-assets.youmind.com/media/1786947850180_n2tysg_HP49kI2bsAAR3Ec.jpg",
-      "https://cms-assets.youmind.com/media/1786947850149_goy8fg_HP49kptawAAek4y.jpg"
+      "https://cms-assets.youmind.com/media/1787034150818_sflgqj_HP2RVQHbkAAxMC3.jpg",
+      "https://cms-assets.youmind.com/media/1787034151319_pw9gde_HP2RbF0aYAAE40U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31662,
+    "content": "A attractive {argument name=\"subject\" default=\"south asian indian female model\"} with a dimorphic round face, aquiline nose, rose lips, neat hairstyle with full hair, clear ivory skin, a {argument name=\"clothing\" default=\"black rib knit turtleneck\"} with a rich threading, a {argument name=\"background\" default=\"plain white background\"} the models hair is black and has a full brow, roman nose, clear skin etc,. white background clear sclera bright face, rich photogenic look",
+    "title": "Cinematic South Asian Model Portrait",
+    "description": "A photogenic fashion prompt for a South Asian female model in a black turtleneck against a plain white background, focusing on facial details and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034150526_hjuv8s_HP49jsRbsAAbsLj.jpg",
+      "https://cms-assets.youmind.com/media/1787034150527_86hidi_HP49kI2bsAAR3Ec.jpg",
+      "https://cms-assets.youmind.com/media/1787034150578_opjv6o_HP49kptawAAek4y.jpg"
     ],
     "needReferenceImages": false
   },

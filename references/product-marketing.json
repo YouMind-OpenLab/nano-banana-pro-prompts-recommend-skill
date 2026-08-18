@@ -21,15 +21,59 @@
     "needReferenceImages": true
   },
   {
-    "id": 31658,
-    "content": "A bright, stylized still life and a conceptual photograph from an advertisement for {argument name=\"product\" default=\"premium chocolate\"} on a {argument name=\"background color\" default=\"delicate, pastel pink background\"}. In the center is a luxurious dark chocolate bar wrapped in gold foil, slightly unwrapped to reveal glossy chocolate lying on a small pink velvet cushion. It is surrounded by a custom-made multi-tiered glass tray system descending from the top left. On the topmost tier there are whole cocoa beans, on the middle - pieces of roasted almonds, and on the bottom - small pieces of chocolate that fall into an elegant pink porcelain bowl. Various chocolate ingredients are laid out on the pink surface around the bar: right in front of the bar, on a delicate pink napkin, there is a large round plate filled with chocolate truffles. There is a small gold spoon and fork next to it. On the right is a tall cylindrical pink container with a golden label of the chocolate brand. There is an inscription on the lid: \"{argument name=\"slogan\" default=\"LUXURY CHOCOLATE IS A PREMIUM CHOICE\"}.\" On the side: \"HANDMADE CHOCOLATE, 150 g\" with large letters \"LUX\". Around the main plate are three separate pink plates with ingredients: a plate with whole cocoa beans (far left), a small central plate with pieces of caramel and a long plate with roasted almonds (far right). There are several pieces of chocolate and truffles scattered on the surface of the table, and five small truffles are neatly arranged on the rightmost plate. There are many text elements on and around the image: Top right: \"LUXURY TASTE\", typed in a clean white font. On the left (vertically): \"Contact- 1 (800) 555 2020\", On the handset (vertically): \"Focus on creativity in photography and video.\" At the bottom of the center: \"LUXE VISION\". Logos in the form of three intertwining circles are located at the top left and bottom left. The soft but clear lighting highlights the texture of the chocolate and ingredients, and the overall composition is carefully chosen to show the transformation of raw cocoa into refined, ready-to-eat chocolate",
-    "title": "Luxury Chocolate Still Life Advertisement",
-    "description": "A detailed commercial photography prompt for a high-end chocolate brand, featuring a gold-wrapped bar and raw ingredients on a soft pastel pink background with professional product styling.",
+    "id": 31749,
+    "content": "Create a high-fashion editorial portrait of {argument name=\"subject\" default=\"a young woman\"} from the reference image.",
+    "title": "Fashion Editorial Reference Portrait",
+    "description": "An image generation prompt designed to create high-fashion editorial portraits by following the structure and subject of a reference image.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786947847239_ks30xd_HP5xPIWaQAAXOUa.jpg",
-      "https://cms-assets.youmind.com/media/1786947847235_jgstap_HP5xPoVaAAAkJH8.jpg",
-      "https://cms-assets.youmind.com/media/1786947847312_gwg2i5_HP5xQIdbYAAqA5j.jpg",
-      "https://cms-assets.youmind.com/media/1786947848056_tpp8tz_HP5xQqVbMAEVdnz.jpg"
+      "https://cms-assets.youmind.com/media/1787034146947_ccdiiv_HP8WOO4XIAAsZSl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31750,
+    "content": "A candid street style photograph at night. A person wearing {argument name=\"clothing\" default=\"an oversized designer blazer\"} is {argument name=\"action\" default=\"walking briskly through a busy city street\"}. The camera pans along with them, keeping their face and neutral expression perfectly sharp. The surrounding traffic and pedestrians are transformed into {argument name=\"visual effect\" default=\"vibrant streaks of horizontal motion blur\"}. The distant city lights form soft, colorful bokeh. Film grain, realistic texture, eye-level shot.",
+    "title": "Candid Night Street Motion Blur",
+    "description": "Captures a sharp subject moving through a busy city at night with vibrant horizontal motion blur from surrounding traffic and pedestrians.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034147170_9rws8b_HP6sXzkXsAAUziL.jpg",
+      "https://cms-assets.youmind.com/media/1787034147215_1q7ude_HP6sXziXwAAxrV9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31758,
+    "content": "A {argument name=\"style\" default=\"high-end urban streetwear fashion magazine cover\"} / editorial poster, clean modern layout, pure white background with bold large-scale red abstract typography partially visible behind the subject. Central figure: beautiful anime-style young woman with long straight black hair with thick bangs, pale skin, sharp features, heavy red eyeshadow and makeup, slightly parted lips, looking directly at the viewer. She has one finger raised to her lips in a quiet/shushing pose. She wears a red baseball cap with white over-ear headphones, a {argument name=\"outfit\" default=\"cropped oversized red-and-white varsity/baseball jacket\"} with black sleeves, bold “BAD ONES” lettering across the chest, an eye logo, and red accents. Underneath is a black top. She wears a short black ruffled mini skirt with red trim, multiple black belts and harness straps around the waist and thighs, red thigh-high stockings with black straps and heart-shaped hardware, and black footwear. A large metallic silver curved ring/halo floats around her upper body. She holds a long thin black rod or pole in her other hand. Typography and design elements: Top left: “VOL 01”; Top right: “STREET”; Large bold red lowercase title “{argument name=\"text\" default=\"scarlet\"}” with elegant black cursive signature “Crimson\" overlapping it; Small vertical text box on the left labeled “bold” containing product-style details; “scarlet crimson!” text and barcode-like graphic on the right; Bottom black banner with descriptive paragraph text about the fashion poster. Style: high-detail digital illustration, sharp clean lines, vibrant red-black-white color palette, modern street fashion aesthetic mixed with anime character design, professional magazine layout, Photoshop-quality graphic design, highly polished editorial photography look, volumetric soft lighting, crisp details on clothing textures and metal accessories.",
+    "title": "Urban Streetwear Magazine Editorial",
+    "description": "A high-end urban streetwear magazine cover illustration featuring an anime-style character in a bold red-and-white varsity jacket with graphic design elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034152407_2xbvca_HPqAfEuawAAWjsN.jpg",
+      "https://cms-assets.youmind.com/media/1787034152337_7bjwvg_HPqAfEtbcAAwibZ.jpg",
+      "https://cms-assets.youmind.com/media/1787034152430_68xlj9_HPqAfFJbsAE0l4K.jpg",
+      "https://cms-assets.youmind.com/media/1787034153309_ylzf80_HPqAfFHaEAADvOh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31754,
+    "content": "A waist-up shot of {argument name=\"subject\" default=\"an athletic adult male\"} positioned center-right, exuding a confident, serious, and guarded expression. He is dressed in {argument name=\"clothing\" default=\"a crisp white polo shirt\"}, cream pleated trousers secured by a brown leather belt, a silver watch, and dark tortoiseshell sunglasses that conceal his eyes as he gazes far left off-camera. His hair is short on the sides with two to three inches of wavy texture on top, pushed back without a distinct part, showcasing a natural matte finish with slight frizz, varied strand clumping, and delicately backlit flyaways at the crown. His relaxed mouth remains in a closed neutral pose, while his body leans casually back against a slightly worn, matte black chain-link fence with his weight shifted slightly to the left, relaxing his shoulders into the lean. His left hand rests naturally on the fence's top tubular rail, with fingers draped loosely over the curved edge, visible from wrist to knuckles, while his right hand is tucked deep into his front trouser pocket, exposing only a sliver of his wrist and thumb knuckle. Anchoring the lower third foreground, the fence features a thick diamond wire mesh and a cylindrical top bar that catches the sunlight. Behind him, the deep spatial depth transitions into a pristine midground consisting of a {argument name=\"setting\" default=\"manicured olive-green grass tennis court\"} intersected by crisp white painted lawnmower stripes and solid boundary lines, alongside a pristine black tennis net bordered by a thick white canvas top band. The background is anchored on the upper right by an immaculate white clubhouse pavilion boasting vertical structural pillars, architectural molding, smooth painted wood, and a dark gabled roof, balanced by thriving, dense leafy tree canopies on the top left and far right. The atmosphere is saturated in a sophisticated, dramatic outdoor golden hour, defined by a highly directional, singular hard sun source casting bright, warm light from exactly ninety degrees to the mid-left. This creates a high contrast ratio with deep black shadows nestled within the folds of his clothing and harsh, defined long shadows stretching out from the fence across the grass, blanketing the right side of his face and body in dramatic darkness. Conversely, preserved golden-yellow highlights softly illuminate the left side of his face and left arm, while crisp rim lighting accentuates the textured flyaways of his hair and the top edge of the fence rail, all slightly softened by a warm ambient sky fill. The scene employs an analogous color palette with striking neutral contrasts, harmonizing the warm off-white of his clothing with the olive greens of the environment and the dark brown and black accents. Captured through digital photography using an 85mm prime lens from a straight-on, slightly low angle at chest height, the image utilizes an f/1.8 aperture for a shallow depth of field that renders the subject tack sharp while melting the clubhouse and trees into bokeh.",
+    "title": "Golden Hour Tennis Court Portrait",
+    "description": "A highly detailed portrait prompt of an athletic male leaning against a fence at a tennis court during golden hour with dramatic hard lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034149543_ccbenf_HPv4iy4XIAAzYOH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31658,
+    "content": "A bright, stylized still life and a conceptual photograph from an advertisement for {argument name=\"product\" default=\"premium chocolate\"} on a {argument name=\"background color\" default=\"delicate, pastel pink background\"}. In the center is a luxurious dark chocolate bar wrapped in gold foil, slightly unwrapped to reveal glossy chocolate lying on a small pink velvet cushion. It is surrounded by a custom-made multi-tiered glass tray system descending from the top left. On the topmost tier there are whole cocoa beans, on the middle - pieces of roasted almonds, and on the bottom - small pieces of chocolate that fall into an elegant pink porcelain bowl. Various chocolate ingredients are laid out on the pink surface around the bar: right in front of the bar, on a delicate pink napkin, there is a large round plate filled with chocolate truffles. There is a small gold spoon and fork next to it. On the right is a tall cylindrical pink container with a golden label of the chocolate brand. There is an inscription on the lid: \"{argument name=\"main text\" default=\"LUXURY CHOCOLATE IS A PREMIUM CHOICE\"}.\" On the side: \"HANDMADE CHOCOLATE, 150 g\" with large letters \"LUX\". Around the main plate are three separate pink plates with ingredients: a plate with whole cocoa beans (far left), a small central plate with pieces of caramel and a long plate with roasted almonds (far right). There are several pieces of chocolate and truffles scattered on the surface of the table, and five small truffles are neatly arranged on the rightmost plate. There are many text elements on and around the image: Top right: \"LUXURY TASTE\", typed in a clean white font. On the left (vertically): \"Contact- 1 (800) 555 2020\", On the handset (vertically): \"Focus on creativity in photography and video.\" At the bottom of the center: \"LUXE VISION\". Logos in the form of three intertwining circles are located at the top left and bottom left. The soft but clear lighting highlights the texture of the chocolate and ingredients, and the overall composition is carefully chosen to show the transformation of raw cocoa into refined, ready-to-eat chocolate",
+    "title": "Luxury Chocolate Ad Still Life",
+    "description": "A complex advertisement layout for premium chocolate featuring tiered glass trays, ingredients, and gold-foiled packaging on a pink background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034148215_konuoa_HP5xPIWaQAAXOUa.jpg",
+      "https://cms-assets.youmind.com/media/1787034148165_o7j5ax_HP5xPoVaAAAkJH8.jpg",
+      "https://cms-assets.youmind.com/media/1787034148171_kdnoti_HP5xQIdbYAAqA5j.jpg",
+      "https://cms-assets.youmind.com/media/1787034148977_3gqt63_HP5xQqVbMAEVdnz.jpg"
     ],
     "needReferenceImages": false
   },

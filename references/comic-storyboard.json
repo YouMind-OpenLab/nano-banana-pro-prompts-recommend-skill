@@ -1,5 +1,15 @@
 [
   {
+    "id": 31752,
+    "content": "{\n  \"title\": \"The Interview\",\n\n  \"scene\": \"A luxurious corporate office on the 98th floor overlooking a futuristic city.\",\n\n  \"subject\": \"A tiny orange cat sits confidently in a CEO chair while six nervous humans wait across the table for their interview.\",\n\n  \"detail\": \"One human's resume reads '12 years experience.' The cat slowly pushes it aside without looking.\",\n\n  \"image_text\": \"\\\"Next.\\\"\",\n\n  \"atmosphere\": \"deadpan humor, cinematic, premium aesthetic\",\n\n  \"style\": \"hyper realistic, Hollywood movie still, ultra detailed, Roger Deakins lighting, 8K\"\n}",
+    "title": "The Cat CEO Office Interview",
+    "description": "A deadpan humor prompt featuring a tiny orange cat sitting in a CEO chair interviewing humans in a futuristic skyscraper office.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034148281_vjkob4_HP76UENbIAEDLI7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31563,
     "content": "Transform the uploaded person into a premium ultra-realistic surreal clone-photography scene. Create an aerial high-angle view of the same person standing completely still in the center of a large empty street or pathway while multiple identical copies walk around them in different directions.\nIDENTITY LOCK\nUse the uploaded image as the only identity reference. Preserve the exact recognizable face, facial structure, hairstyle, skin tone, eyebrows, eyes, nose, lips, jawline, hair texture, facial proportions, age, and overall appearance. Every clone must clearly be the same person. Do not change or redesign the identity.\nCENTRAL SUBJECT\nThe central person remains perfectly sharp and motionless, standing confidently with both hands in the pockets. Dress them in {argument name=\"sweatshirt color\" default=\"RED / PINK / ANY COLOR\"} oversized sweatshirt, black loose pants, and white sneakers. The central figure is the primary focal point.\nCLONES\nCreate numerous identical copies of the same person wearing the exact same outfit and maintaining the same identity. Position the clones walking naturally in different directions around the central subject. Use varied walking poses and distances to create a believable repetitive “NPC crowd\" effect. Moving clones may have controlled directional motion blur while the central subject stays completely sharp.\nENVIRONMENT\nLarge empty tiled street or pathway in an understated urban outdoor setting. Minimal distractions. Clean architectural surroundings. Realistic pavement textures. Spacious composition with strong depth and perspective.\nCAMERA & COMPOSITION\nAerial high-angle perspective looking downward. Compressed cinematic perspective. Tilt-shift depth effect. Central subject positioned precisely in the middle with surrounding clones creating a radial visual flow. Strong negative space around the group.\nLIGHTING & STYLE\nSoft natural sunlight. Warm neutral tones. Subtle atmospheric haze. Realistic shadows. Cinematic depth of field. Gentle film grain. Hyper-realistic skin texture. Natural proportions. Street photography mixed with luxury fashion editorial aesthetics. Surreal identity concept. Premium cinematic color grading. Ultra-detailed 8K quality.\nVISUAL HIERARCHY\nCentral subject = sharp and still.\nSurrounding clones = moving and slightly blurred.\nBackground = clean and atmospheric.\nThe contrast should communicate loneliness, individuality, and calmness while everything around the subject remains in motion.",
     "title": "Aerial Surreal Clone Photography",
@@ -52,6 +62,17 @@
     "description": "Creates a whimsical, handmade diorama scene of a felt frog enjoying a day at the beach with intricate craft-style details.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1786774876094_g9umq5_HPMZUTSWYAA_zyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31748,
+    "content": "A realistic, wide-angle cinematic shot from behind a man standing on a wet outdoor train station platform, looking toward a vintage passenger train on the tracks. He is wearing a black beanie, a dark winter jacket, dark trousers, and a backpack, holding a worn brown vintage leather suitcase at his side. On the left side of the frame stands an old brick and wooden train station building with a weathered sign reading \"MOUNTAIN PASS STATION\". To the right of the station, an old, slightly rusted passenger train sits on the tracks, its windows softly illuminated with warm glowing orange interior light. In the background, dramatic, towering mountain peaks are surrounded by dense fog and low clouds, with visible sunbeams (god rays) piercing through the misty overcast sky. The ground is damp with small puddles, fallen autumn leaves, and overgrown weeds along the tracks. Moody, cool color palette, cinematic lighting, 35mm lens photography, 8k resolution. Recommended Parameters Aspect Ratio: 16:9 Style: Photographic, Cinematic, Moody Lighting: Atmospheric, God rays, Soft backlighting. A realistic, wide-angle cinematic photo of a young man walking along an outdoor train station platform in a dramatic mountain landscape. He is wearing a dark blue winter parka coat with a hood, dark pants, sturdy boots, and a backpack, carrying a classic brown vintage leather suitcase in his hand. To his right, a vintage green and beige passenger train is stopped along the tracks, with warm yellow light glowing inside the train windows. The stone train station has a vintage sign that reads \"OCN\". In the background, towering, rugged alpine mountains are shrouded in atmospheric low-hanging mist and clouds. Soft, diffuse morning sunlight breaks through the foggy air, casting gentle highlights on the damp platform and wet train tracks. Moody, cool color palette with high cinematic realism, subtle cinematic grain, 35mm lens,depth of field 8k resolution.",
+    "title": "Cinematic Train Station Traveler",
+    "description": "A wide-angle cinematic prompt depicting a man with a vintage suitcase at a misty mountain train station, featuring moody atmospheric lighting and god rays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787034144901_xn311t_HPmbMXHaAAAswqc.jpg",
+      "https://cms-assets.youmind.com/media/1787034145086_7tez3c_HPmbNTFbMAAzGzG.jpg"
     ],
     "needReferenceImages": false
   },
