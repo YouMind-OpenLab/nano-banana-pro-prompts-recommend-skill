@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T12:57:40.810Z",
-  "totalPrompts": 15248,
+  "updatedAt": "2026-08-19T01:42:16.306Z",
+  "totalPrompts": 15246,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -12,7 +12,7 @@
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9508
+      "count": 9506
     },
     {
       "slug": "infographic-edu-visual",
@@ -36,7 +36,7 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5560
+      "count": 5559
     },
     {
       "slug": "ecommerce-main-image",
