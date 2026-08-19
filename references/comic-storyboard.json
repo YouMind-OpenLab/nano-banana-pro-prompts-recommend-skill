@@ -1,5 +1,51 @@
 [
   {
+    "id": 31885,
+    "content": "Cinematic {argument name=\"character\" default=\"Android\"} in {argument name=\"setting\" default=\"Meadow\"}",
+    "title": "Cinematic Android in Nature",
+    "description": "A cinematic prompt for Nano Banana Pro used to generate an android character set against a lush, natural meadow background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120741335_arstps_HQAhYD6WAAAGizs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31880,
+    "content": "Inside an opulent salon wrapped in golden damask and rich parquet, an aura of quiet defiance takes hold. A close-up of a poised young {argument name=\"subject\" default=\"nurse woman\"} commands the room with an unwavering gaze and heavy-lidded confidence, sitting on a {argument name=\"furniture\" default=\"old red armchair\"}. She wears a {argument name=\"outfit\" default=\"white crop top, a white skirt with white stockings and white high heels with red cross on it, and a nurse hat with red cross on it\"}. Her tailored ensemble and delicate lace textures contrast sharply against the heavy heritage decor. Warm amber directional light sculpts her features and drapes across the scene with luminous clarity. Antique marble fireplaces and receding classical rooms dissolve into a painterly palette of warm umber and gold. A huge golden painting of Delacroix is hanged from floor to ceiling on backdrop.The scene captures pure editorial power where timeless tradition meets fierce contemporary self-possession.",
+    "title": "Editorial Nurse in Opulent Salon",
+    "description": "A high-fashion editorial portrait of a nurse in a white ensemble, set in a gold-damask luxury salon with classical decor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120735839_aux1ho_HQAdQKNXsAAMSvQ.jpg",
+      "https://cms-assets.youmind.com/media/1787120735810_5tj92v_HQAdQKSXUAAn2QY.jpg",
+      "https://cms-assets.youmind.com/media/1787120735885_bbd9bf_HQAdQKPWYAATXZr.jpg",
+      "https://cms-assets.youmind.com/media/1787120736538_y820f4_HQAdQKMXkAEWdPa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31757,
+    "content": "A black and white, highly detailed, surrealist illustration depicts a {argument name=\"animal\" default=\"flamingo\"} standing on a checkered floor. The {argument name=\"animal\" default=\"flamingo\"}'s body is adorned with a voluminous, ruffled {argument name=\"clothing\" default=\"tutu\"}, resembling layers of delicate fabric. Its long, slender legs are visible beneath the {argument name=\"clothing\" default=\"tutu\"}, and its neck is gracefully curved, with its head turned to the side. The background is dark and atmospheric, with hints of abstract shapes and textures, suggesting a dreamlike or theatrical setting. The overall mood is elegant and slightly melancholic, with a vintage aesthetic due to the grainy texture and dark, moody lighting.",
+    "title": "Surreal Flamingo in Tutu",
+    "description": "A detailed surrealist illustration of a flamingo wearing a voluminous ruffled tutu on a checkered floor, set in a moody vintage atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120731915_pmg62t_HPcwmoQWcAAuU2T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31877,
+    "content": "VELVET AFTERLIGHT\n\nRewrite the user’s text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, exact text, and requested or source ratio.\n\nUse three systems. Relation Chamber organizes one gaze, reach, contact, reflection, path, or shared-light relation through height, posture, dark framing masses, and an open interval. Painted Cel Register uses age-appropriate anime anatomy, thin colored contour, broad hand-painted values, grouped hair, selective soft transitions, and material-specific highlights. Afterlight Veil uses one cool rear or side source, narrow edge illumination, weak returned fill, localized violet-blue halation, and selective contour loss.\n\nPreserve subject, count, identity, action, setting, clothing, objects, colors, text, and references. For edits, preserve unrequested content.\n\nChoose one exact moment and one relational axis. Height, reach, gaze, support, and contact need physical causes. Keep one open interval and one quiet region. A single subject relates to an object, light, reflection, threshold, shadow, or off-frame target rather than gaining an invented companion.\n\nUse thin indigo, plum, brown, or charcoal contour. Strengthen line at eyes, hands, seams, rims, and overlaps. Reduce it on bright edges, soft face planes, distant forms, mist, and dark-on-dark contact. Use two to four value groups with selective airbrushed transitions. Do not use uniform outlines, vector edges, plastic skin, or smooth 3D rendering.\n\nHair uses one large mass, secondary locks, and limited strands. Materials retain separate responses. Edge light appears only on source-facing contours and breaks under occlusion. Returned light reveals selected face, hand, garment, or object planes and remains weaker than the direct source. Bloom stays near real bright edges. No complete glowing outline, global purple filter, random particles, or full-frame blur.\n\nGPT: return 500 to 800 words in five paragraphs covering scene, subjects, relation, painted construction, light, transitions, composition, references, text, and failures.\n\nNANO: return JSON only, 1000 to 1800 tokens, using “aspect_ratio”, “references”, “scene”, “subjects”, “relation_chamber”, “painted_cel_register”, “afterlight_veil”, “transitions”, “composition”, “surface_and_palette”, “text”, “avoid”. Omit unused fields. No metadata, IDs, weights, comments, or repetition.\n\nReturn only the finished prompt.",
+    "title": "Velvet Afterlight System Prompt",
+    "description": "A sophisticated system instruction set for creating painterly, anime-styled image prompts with specific lighting and relational focus.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120732962_omxduy_HP9a6P7bQAAMod9.jpg",
+      "https://cms-assets.youmind.com/media/1787120732980_e6siop_HP9a6P5bwAAqD2y.jpg",
+      "https://cms-assets.youmind.com/media/1787120733045_6w5wu5_HP9a6P8bQAAAIj6.jpg",
+      "https://cms-assets.youmind.com/media/1787120733661_ib9jk2_HP9a6P1asAAANCw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31752,
     "content": "{\n  \"title\": \"The Interview\",\n\n  \"scene\": \"A luxurious corporate office on the 98th floor overlooking a futuristic city.\",\n\n  \"subject\": \"A tiny orange cat sits confidently in a CEO chair while six nervous humans wait across the table for their interview.\",\n\n  \"detail\": \"One human's resume reads '12 years experience.' The cat slowly pushes it aside without looking.\",\n\n  \"image_text\": \"\\\"Next.\\\"\",\n\n  \"atmosphere\": \"deadpan humor, cinematic, premium aesthetic\",\n\n  \"style\": \"hyper realistic, Hollywood movie still, ultra detailed, Roger Deakins lighting, 8K\"\n}",
     "title": "The Cat CEO Office Interview",

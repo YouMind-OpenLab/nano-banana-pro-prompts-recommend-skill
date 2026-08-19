@@ -10,15 +10,72 @@
     "needReferenceImages": false
   },
   {
-    "id": 31759,
-    "content": "A realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman\"} sitting in the front seat of a car, taken from a slightly high and tilted angle (phone held above). She has {argument name=\"hair\" default=\"long, voluminous, wavy dark brown hair\"} cascading over her shoulders and partially covering her right side, with soft natural volume and subtle highlights. Her face is turned slightly toward the camera with a soft, neutral-to-slightly pouty expression, lips gently parted and tinted soft pink. She has fair skin, delicate features, defined eyebrows, and subtle winged black eyeliner. She is wearing a simple beige or light tan sleeveless top with a small visible button on the strap, and a delicate silver necklace with a small circular pendant resting on her collarbone. {argument name=\"lighting\" default=\"soft natural daylight\"} illuminates her face from the car window, creating gentle highlights on her hair and skin. The background shows the dark interior of a car (seat headrest and window frame visible) with a soft, slightly blurred outdoor view through the window. High detail, photorealistic, natural skin texture, sharp focus on the face, shallow depth of field.",
-    "title": "Car Interior Woman Selfie",
-    "description": "A photorealistic close-up selfie of a young East Asian woman in a car, taken from a high angle with soft natural daylight and shallow depth of field.",
+    "id": 31875,
+    "content": "Close-up selfie portrait, camera very close to the face, slight high angle, shot cropped at the chest. One hand presses a {argument name=\"flowers\" default=\"huge bouquet of 1001 dark fuchsia small spray roses\"} against the body. Shoulder is slightly raised, relaxed confident pose, gaze directly into the camera through curls. The bouquet is very massive, plush, and dense with about 1001 stems in white matte multi-layered packaging.\n\nHair:\nVery long, multi-layered, very voluminous curly hair down to the waist. Dense, elastic, large spiral curls with messy defined texture. Large volume at the roots, {argument name=\"hair color\" default=\"dark chocolate shade\"}, individual curls chaotically fall onto the face and partially cover one eye. Salon-defined curls, glossy frizz-free finish.\n\nMakeup:\nLong lashes with a fox-eye effect, laminated eyebrows, lips painted with matte dusty pink lipstick.\n\nClothing:\nForm-fitting white ribbed top and a pink rhinestone-studded shirt, slightly slipped off the shoulder.\n\nAccessories:\nThin translucent chain with a diamond, gold stud earrings.\n\nPose:\nHead slightly tilted to the side and slightly forward, hair falling onto the face, lips slightly relaxed, gaze intense and focused.\n\nLocation:\nIndoor, bokeh effects.\n\nLighting:\nBackground is darkened, {argument name=\"lighting\" default=\"main lighting from a smartphone screen\"}, the room is dark.\n\nTechnical:\nPhotorealism, high detail of skin, fabric, and props. Motion photo. Image quality like an iPhone 17.",
+    "title": "Large Rose Bouquet Close-up Selfie",
+    "description": "A dramatic close-up selfie prompt featuring a massive bouquet of spray roses, voluminous hair, and smartphone screen lighting in a dark room.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787034154342_rwmnki_HP5GWyOaIAAHm2R.jpg",
-      "https://cms-assets.youmind.com/media/1787034154297_iuxwm8_HP5GWyUacAAuskH.jpg",
-      "https://cms-assets.youmind.com/media/1787034154298_vd573u_HP5GWyVaQAAU8NS.jpg",
-      "https://cms-assets.youmind.com/media/1787034154975_8gwge9_HP5GWyWbcAAZvKz.jpg"
+      "https://cms-assets.youmind.com/media/1787120730954_whjaaf_HQDn6NxaUAA7cuY.jpg",
+      "https://cms-assets.youmind.com/media/1787120730872_skm5ik_HQDn6N9bQAA0Gw_.jpg",
+      "https://cms-assets.youmind.com/media/1787120730872_u0o5c0_HQDn6NzaoAAmHOR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31870,
+    "content": "A young woman with fair skin and soft facial features, smiling warmly toward the camera with a relaxed and natural expression. She has {argument name=\"hair style\" default=\"long blonde hair pulled into a casual high ponytail\"}, with a few loose strands framing her face. She is standing in a {argument name=\"setting\" default=\"rustic indoor kitchen area\"}, slightly turned toward the camera, holding a small metal pot in one hand and a white ceramic cup in the other, creating a candid everyday moment. Her pose feels comfortable and natural, with a gentle smile and calm confidence. She is wearing a {argument name=\"outfit\" default=\"light pink sleeveless crop top and light blue casual pajama-style pants\"} with small playful printed designs. The outfit has a simple homewear aesthetic, complemented by a natural, relaxed appearance without additional accessories. The environment is a rustic room with textured earthen walls, a simple wooden and concrete workspace, and an open window in the background showing soft greenery outside. Warm daylight enters through the window, creating a cozy atmosphere with natural shadows, subtle highlights on the subject, and an authentic countryside kitchen feeling. Shot on an 85mm lens with shallow depth of field, soft natural window light, realistic skin texture, cinematic color grading, high detail, professional lifestyle photography style, balanced composition, warm tones, natural contrast, ultra realistic, documentary-inspired photography.",
+    "title": "Rustic Kitchen Lifestyle Portrait",
+    "description": "A cozy, documentary-style photography prompt capturing a candid moment in a rustic countryside kitchen with warm natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120724506_blscaf_HQBmmDeW0AA0gOI.jpg",
+      "https://cms-assets.youmind.com/media/1787120724486_1tqcn3_HQBmpm0XwAAxv0i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31879,
+    "content": "A beautiful young adult woman in her {argument name=\"age\" default=\"mid-20s\"} with a naturally feminine, elegant appearance and realistic proportions. She has long, slightly wavy {argument name=\"hair color\" default=\"dark brown\"} hair with natural {argument name=\"hair style\" default=\"layered strands\"}, soft volume, and subtle highlights. Her face has delicate but realistic features, expressive dark brown eyes, naturally shaped eyebrows, a soft straight nose, naturally full lips, a subtle defined jawline, and a gentle confident expression. Warm light-to-medium skin tone with realistic skin texture, natural pores, subtle imperfections, and authentic facial detail.\n\nShe has a slim, naturally proportioned physique with realistic anatomy and graceful posture. Her overall appearance is youthful, sophisticated, effortlessly attractive, and photorealistic rather than overly polished. Natural makeup or minimal makeup, soft rosy complexion, realistic eyelashes and eyebrows. Anatomically accurate hands, fingers, arms, shoulders, and body proportions.\n\nMaintain the exact same facial identity, hairstyle, hair color, eye shape, facial structure, skin tone, body proportions, and overall appearance across every image, regardless of outfit, pose, location, camera angle, or lighting. High-end realistic lifestyle photography, authentic human appearance, natural skin texture, sharp facial details, full-frame camera look, cinematic realism, no cartoon, no CGI, no plastic skin, no exaggerated features.",
+    "title": "Elegant Young Woman Portrait",
+    "description": "A photorealistic close-up portrait of a woman in her mid-20s, emphasizing natural skin texture and sophisticated features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120733911_5gstar_HQBi5NrbkAAvZWg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31872,
+    "content": "Create a photorealistic indoor portrait of two young women standing closely together in a {argument name=\"setting\" default=\"cozy wooden doorway\"}, photographed at eye level. The woman on the left has long, naturally wavy auburn-red hair falling over her shoulders, fair skin with subtle freckles, light-colored eyes, softly defined eyebrows, and a calm, composed expression. She looks directly into the camera with a relaxed, neutral gaze. The woman on the right has long, straight golden-blonde hair with soft curtain bangs framing her face, fair skin with a natural warm glow, light-colored eyes, and a subtle, confident expression while looking directly at the camera. Both women should have realistic facial features, natural skin texture, detailed hair strands, and understated makeup. Position the two women shoulder to shoulder in a natural friendship portrait. Their posture should be relaxed and comfortable, with the woman on the left standing slightly forward and the woman on the right positioned beside her. Keep their expressions natural and composed rather than exaggerated, creating the feeling of an authentic candid photograph taken indoors. The woman on the left wears an {argument name=\"left outfit\" default=\"elegant dark forest-green fitted top\"} with a simple rounded neckline and minimal styling. The woman on the right wears a {argument name=\"right outfit\" default=\"sophisticated deep navy-blue sleeveless top\"} with delicate shoulder straps and a smooth satin-like texture. Keep both outfits tasteful, polished, and suitable for a casual indoor fashion portrait. Add minimal, understated accessories and natural makeup without distracting from their faces. Set the scene inside a warm wooden building or hostel-style hallway. Surround the doorway with detailed honey-colored wooden trim, visible door hinges, wooden doors, cream-colored walls, and bulletin boards containing small background notices and posters. Include a darker hallway behind them with subtle architectural details, creating realistic depth and atmosphere. Keep any background writing indistinct and unreadable. Use warm indoor ambient lighting combined with soft frontal illumination, producing gentle highlights across the faces and natural shadows around the doorway. Preserve realistic skin tones, subtle facial texture, natural hair highlights, and authentic fabric reflections. Avoid excessive smoothing or artificial beauty retouching. Capture the image with an 85mm portrait lens at eye level, natural perspective, shallow depth of field, precise focus on both faces, realistic background separation, high-resolution detail, and professional lifestyle portrait photography. Use a cinematic but natural color grade with warm wooden tones, balanced exposure, soft contrast, realistic dynamic range, crisp facial detail, authentic textures, and a slightly",
+    "title": "Indoor Friendship Fashion Portrait",
+    "description": "A professional portrait prompt for generating a high-resolution image of two women in a cozy wooden interior with soft ambient lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120724437_868k5f_HQAl8pfagAAGb-_.jpg",
+      "https://cms-assets.youmind.com/media/1787120724434_d1i9y6_HQAmBt1bUAAG-4c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31759,
+    "content": "A realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman\"} sitting in the front seat of a car, taken from a slightly high and tilted angle (phone held above). She has long, voluminous, wavy dark brown hair cascading over her shoulders and partially covering her right side, with soft natural volume and subtle highlights. Her face is turned slightly toward the camera with a soft, neutral-to-slightly pouty expression, lips gently parted and tinted soft pink. She has fair skin, delicate features, defined eyebrows, and subtle winged black eyeliner. She is wearing a {argument name=\"clothing\" default=\"simple beige or light tan sleeveless top\"} with a small visible button on the strap, and a {argument name=\"accessory\" default=\"delicate silver necklace with a small circular pendant\"} resting on her collarbone. Soft natural daylight illuminates her face from the car window, creating gentle highlights on her hair and skin. The background shows the dark interior of a car (seat headrest and window frame visible) with a soft, slightly blurred outdoor view through the window. High detail, photorealistic, natural skin texture, sharp focus on the face, shallow depth of field.",
+    "title": "Realistic Car Interior Selfie",
+    "description": "A close-up selfie prompt for a realistic car interior shot with soft natural window lighting and high detail on facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120727898_i9j8tz_HP5GWyOaIAAHm2R.jpg",
+      "https://cms-assets.youmind.com/media/1787120728176_odzjq8_HP5GWyUacAAuskH.jpg",
+      "https://cms-assets.youmind.com/media/1787120728080_mcgy96_HP5GWyVaQAAU8NS.jpg",
+      "https://cms-assets.youmind.com/media/1787120729473_l8y58s_HP5GWyWbcAAZvKz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31874,
+    "content": "Create a photorealistic lifestyle portrait of a young woman standing indoors in a {argument name=\"setting\" default=\"bright, modern home\"}. She has medium-brown hair pulled into a neat high ponytail, with a few natural strands around her face. Her complexion is fair with realistic skin texture and subtle natural details. She has light blue-gray eyes, softly defined eyebrows, and a calm, confident expression while looking directly toward the camera. She stands naturally beside a textured off-white interior wall. Her left hand rests casually near her waist while her right hand is raised toward her ponytail, creating a relaxed, everyday pose. Keep her posture natural and anatomically realistic, with balanced proportions and authentic body language. She wears a {argument name=\"outfit\" default=\"pink long-sleeve one-piece casual outfit featuring a delicate repeating floral pattern\"} in muted gray tones. The fabric has subtle texture and natural folds, creating a comfortable contemporary appearance. Add minimal jewelry and no distracting accessories, keeping the styling clean and understated. The background is a warm contemporary home interior with light wooden flooring, large windows, curtains, framed wall artwork, and several green indoor plants in simple ceramic pots. Soft daylight enters through the windows and gently illuminates the room, producing natural highlights on the subject and subtle shadows along the wall and floor. Use a warm, peaceful, airy atmosphere with realistic interior details and natural depth. Photographed on an 85mm portrait lens at approximately f/2.8, eye-level perspective, natural lens compression, sharp focus on the eyes and face, softly blurred background, realistic skin texture, detailed individual hair strands, accurate fabric texture and floral pattern, natural window light, balanced exposure, gentle cinematic color grading, high dynamic range, realistic shadows, professional lifestyle photography, photorealistic rendering, high detail, clean vertical composition, high resolution.",
+    "title": "Modern Home Interior Lifestyle Portrait",
+    "description": "A clean and polished lifestyle portrait prompt set in a modern contemporary home with soft daylight and floral fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787120728195_hkd104_HP9Fgxdb0AADeR6.jpg",
+      "https://cms-assets.youmind.com/media/1787120728204_ld0jqv_HP9FitZbQAAjnmE.jpg",
+      "https://cms-assets.youmind.com/media/1787120727914_4w9dc7_HP9FjmIaIAAgIsM.jpg",
+      "https://cms-assets.youmind.com/media/1787120728976_oheowd_HP9FkQSaoAA9hew.jpg"
     ],
     "needReferenceImages": false
   },
