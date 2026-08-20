@@ -1,5 +1,35 @@
 [
   {
+    "id": 31998,
+    "content": "a curious {argument name=\"subject\" default=\"ferret\"} joyfully playing in a {argument name=\"location\" default=\"colorful plastic ballpit\"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name=\"art style\" default=\"whimsical illustration style\"}",
+    "title": "Whimsical Ferret in Ball Pit",
+    "description": "A playful illustration prompt for a ferret playing in a colorful ball pit with soft lighting and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208878286_2q4kjp_HPCBtIFXUAAaNAs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31995,
+    "content": "TITLE: Premium Organic Honey Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury food product campaign\n• 8 cinematic storyboard scenes\n• Product remains the visual hero\n• Premium advertising agency presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: {argument name=\"duration\" default=\"20 Seconds\"}\n  - Style: Natural Luxury Food Commercial\n  - Product: {argument name=\"product\" default=\"Organic Honey\"}\n  - Audio: Soft Nature ASMR\n• Why This Style Works section\n• {argument name=\"color theme\" default=\"Cream, amber and gold\"} aesthetic\n• Minimal honeycomb decorative details\n\nSTORYBOARD:\n1. Premium honey jar standing on a warm wooden surface\n2. Jar lid slowly opening in macro close-up\n3. Golden honey being lifted with a wooden honey dipper\n4. Honey flowing in an extremely slow silky stream\n5. Macro shot of honey texture and natural highlights\n6. Honey dripping over warm toast\n7. Honey jar surrounded by honeycomb and fresh ingredients\n8. Final luxury hero packshot with golden honey splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion liquid photography, controlled push-in, top-down composition, shallow depth of field, cinematic hero shot.\n\nSTYLE:\nUltra-realistic honey texture, realistic liquid physics, warm natural lighting, premium food photography, glossy glass jar, elegant reflections, luxury organic branding, 8K.",
+    "title": "Premium Organic Honey Commercial Storyboard",
+    "description": "A detailed storyboard prompt for a luxury organic honey commercial, featuring macro shots, liquid textures, and a warm golden aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208876029_xmncg0_HQF19kdacAATv1I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31997,
+    "content": "TITLE: Premium Instant Noodles Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• High-energy food advertisement\n• 8 cinematic product scenes\n• Product-focused commercial presentation\n\nHEADER:\n• Modern bold typography\n• Information cards:\n  - Duration: {argument name=\"duration\" default=\"20 Seconds\"}\n  - Style: Cinematic Food Advertisement\n  - Product: {argument name=\"product\" default=\"Instant Noodles\"}\n  - Audio: Cooking ASMR + Energetic Beat\n• Why This Style Works section\n• {argument name=\"accent colors\" default=\"Warm yellow and red\"} accents\n\nSTORYBOARD:\n1. Instant noodle packet standing upright with dramatic lighting\n2. Packet opening and noodles sliding into a bowl\n3. Boiling water pouring over noodles\n4. Noodles cooking with realistic steam rising\n5. Seasoning powder being added\n6. Chopsticks lifting perfectly cooked noodles\n7. Extreme macro shot of glossy noodles with toppings\n8. Final hero bowl beside the original product packet\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Visual\n• Action\n• Camera direction\n• Product detail\n\nCAMERA:\nMacro food photography, overhead composition, steam close-up, noodle pull shot, dramatic product push-in, cinematic hero framing.\n\nSTYLE:\nUltra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.",
+    "title": "Premium Instant Noodles Ad Storyboard",
+    "description": "A high-energy food advertisement storyboard prompt focused on macro photography and dynamic lighting for instant noodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208877458_0x85ko_HQE90xdaYAA8DRm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31885,
     "content": "Cinematic {argument name=\"character\" default=\"Android\"} in {argument name=\"setting\" default=\"Meadow\"}",
     "title": "Cinematic Android in Nature",

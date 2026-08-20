@@ -10,14 +10,80 @@
     "needReferenceImages": false
   },
   {
-    "id": 31875,
-    "content": "Close-up selfie portrait, camera very close to the face, slight high angle, shot cropped at the chest. One hand presses a {argument name=\"flowers\" default=\"huge bouquet of 1001 dark fuchsia small spray roses\"} against the body. Shoulder is slightly raised, relaxed confident pose, gaze directly into the camera through curls. The bouquet is very massive, plush, and dense with about 1001 stems in white matte multi-layered packaging.\n\nHair:\nVery long, multi-layered, very voluminous curly hair down to the waist. Dense, elastic, large spiral curls with messy defined texture. Large volume at the roots, {argument name=\"hair color\" default=\"dark chocolate shade\"}, individual curls chaotically fall onto the face and partially cover one eye. Salon-defined curls, glossy frizz-free finish.\n\nMakeup:\nLong lashes with a fox-eye effect, laminated eyebrows, lips painted with matte dusty pink lipstick.\n\nClothing:\nForm-fitting white ribbed top and a pink rhinestone-studded shirt, slightly slipped off the shoulder.\n\nAccessories:\nThin translucent chain with a diamond, gold stud earrings.\n\nPose:\nHead slightly tilted to the side and slightly forward, hair falling onto the face, lips slightly relaxed, gaze intense and focused.\n\nLocation:\nIndoor, bokeh effects.\n\nLighting:\nBackground is darkened, {argument name=\"lighting\" default=\"main lighting from a smartphone screen\"}, the room is dark.\n\nTechnical:\nPhotorealism, high detail of skin, fabric, and props. Motion photo. Image quality like an iPhone 17.",
-    "title": "Large Rose Bouquet Close-up Selfie",
-    "description": "A dramatic close-up selfie prompt featuring a massive bouquet of spray roses, voluminous hair, and smartphone screen lighting in a dark room.",
+    "id": 31999,
+    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A {argument name=\"subject\" default=\"handsome man\"} same face photograph of the same young man from image_0.png, maintaining his charming smile and direct eye contact. He is upward looking back to face on a surface, looking at the camera. He wears a {argument name=\"clothing\" default=\"purple shifon kurta\"}, with the sleeves showing. rolix watch. black ring. His dark brown hair. The lighting is soft and natural. The background is nhait mood {argument name=\"background color\" default=\"sky blue\"} ton simple and out of focus. Skin: Porcelain-smoth, \"glass skin\"",
+    "title": "Identity-Preserving Portrait in Kurta",
+    "description": "An image transformation prompt designed to preserve facial identity while placing the subject in a new setting with specific clothing and lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787120730954_whjaaf_HQDn6NxaUAA7cuY.jpg",
-      "https://cms-assets.youmind.com/media/1787120730872_skm5ik_HQDn6N9bQAA0Gw_.jpg",
-      "https://cms-assets.youmind.com/media/1787120730872_u0o5c0_HQDn6NzaoAAmHOR.jpg"
+      "https://cms-assets.youmind.com/media/1787208878934_pr69y8_HQILONqbAAEi-Ae.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31993,
+    "content": "A photorealistic portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman in her early 20s, fair porcelain skin, large soft brown eyes with long eyelashes and subtle winged eyeliner, delicate arched eyebrows, full glossy pink-coral lips, long wavy {argument name=\"hair color\" default=\"chestnut-brown\"} hair cascading over her right shoulder and down her back with soft volume and natural shine. Black rectangular cat-eye sunglasses perched on top of her head. She is wearing a cozy off-the-shoulder {argument name=\"clothing\" default=\"ribbed knit sweater with bold horizontal stripes in chocolate brown and cream white\"}, the neckline slipped down to reveal her left shoulder and collarbone. Soft natural window light from the right casting gentle shadows across her face and body, warm golden-hour glow. Pose: slightly tilted head, direct eye contact with a soft neutral expression, left arm crossed over her body with manicured nails in muted burgundy resting on her right upper arm. Background: plain soft pastel pink wall, elegant crystal wall sconce lamp with dangling pendant on the left, white double electrical outlet near the floor, minimalist indoor bedroom setting. Shot on 85mm lens, shallow depth of field, ultra-detailed skin texture, realistic fabric knit, high resolution, cinematic soft lighting.",
+    "title": "Asian Woman in Striped Sweater",
+    "description": "A photorealistic portrait of an East Asian woman in a ribbed knit sweater, featuring warm golden-hour lighting and a minimalist bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208872395_2ultci_HP-ssAYaYAANMfh.jpg",
+      "https://cms-assets.youmind.com/media/1787208872404_586g2b_HP-sr_qa4AAAk8c.jpg",
+      "https://cms-assets.youmind.com/media/1787208872400_v30ltz_HP-sr_wbAAAEkpL.jpg",
+      "https://cms-assets.youmind.com/media/1787208873063_jeadnz_HP-sr_wbcAAZYaN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31989,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"appearance\": \"{argument name=\"hair style\" default=\"Slim young woman with straight, mid-length natural, vibrant coppery-red\"}\",\n      \"reference_celeb\": \"Sadie Sink\",\n      \"expression\": \"Neutral, direct gaze at the camera\",\n      \"physical_details\": \"Toned midriff, prominent belly button piercing with a clear stone barbell, slight freckles\",\n      \"face_details\": \"Soft facial features, natural lip color, eyebrows lightly filled\"\n    },\n    \"attire\": {\n      \"garment_top\": \"{argument name=\"top\" default=\"Long-sleeved, ribbed knit, very short cropped cerulean blue cardigan\"}\",\n      \"styling_top\": \"Fully buttoned, creating a tight fit\"\n    },\n    \"pose\": {\n      \"stance\": \"Standing frontally with body slightly angled to the viewer's left\",\n      \"arms\": \"Both arms extended downwards at her sides, hands partially obscured\"\n    },\n    \"setting\": {\n      \"environment\": \"{argument name=\"setting\" default=\"Sunny, outdoor field with dense, tall green and yellow-green grassy vegetation\"}\",\n      \"background_details\": [\n        \"Field of grass\",\n        \"Partial view of a black padded element (seat/cushion) on the lower right\"\n      ]\n    },\n    \"composition\": {\n      \"framing\": \"Medium waist-up shot, framing the entire midriff\",\n      \"depth_of_field\": \"Shallow depth of field, sharp focus on subject, blurred background\",\n      \"lighting\": \"Natural daylight, bright and even\",\n    },\n    \"photography_style\": {\n      \"aesthetic\": \"Outdoor lifestyle photography, documentary feel\",\n      \"film_grain\": \"Subtle, natural film grain\",\n      \"color_grading\": \"Natural, slightly warm saturation\"\n    }\n  }\n}",
+    "title": "Sadie Sink Grassy Field Portrait",
+    "description": "A JSON-structured lifestyle photography prompt for a Sadie Sink-inspired portrait in a sunny field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208870662_t9spzj_HQGV4gxWUAAfiUh.jpg",
+      "https://cms-assets.youmind.com/media/1787208870639_200x4z_HQGWZXQW0AA9DBx.jpg",
+      "https://cms-assets.youmind.com/media/1787208870796_gy9wp8_HQGWaZsWYAAIOPs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31985,
+    "content": "Professional headshot of a {argument name=\"age and ethnicity\" default=\"32-year-old South Asian woman\"}, soft natural window light from the left, 85mm lens, shallow depth of field, realistic skin texture with natural pores, confident but approachable expression, {argument name=\"background\" default=\"neutral gray background\"}, editorial photography style",
+    "title": "Professional Female Portrait Headshot",
+    "description": "A structured prompt for creating clean, professional headshots with realistic skin textures using Nano Banana.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208868026_n95ye6_HQGNLrsbMAACp5M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31988,
+    "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"appearance\": \"{argument name=\"subject appearance\" default=\"Young, beautiful woman with a dark black hair\"}\",\n      \"reference_celeb\": \"Jenna Ortega\",\n      \"ethnicity\": \"Latin/Caucasian mix, smooth, radiant complexion\",\n      \"expression\": \"Engaged and gentle, looking directly and softly at the camera with a subtle smile\",\n      \"physical_details\": \"Delicate collarbones and shoulders visible; wearing small, gold stud earrings, \\\"Vireon\\\" text necklace\"\n    },\n    \"attire\": {\n      \"garment_1\": \"{argument name=\"top style\" default=\"Off-white lace and tiered fabric crop top; one strap is a delicate spaghetti strap, while the main body is layered, textured lace that drapes off the shoulders\"}\",\n      \"garment_2\": \"High-waisted, simple black shorts, partially visible\"\n    },\n    \"pose\": {\n      \"stance\": \"Sitting on the floor, upper body angled slightly to the left, head turned to look back over her right shoulder at the viewer\",\n      \"arms\": \"Both arms are resting on the floor or near her lap, with the camera angle positioned slightly above her, looking down\"\n    },\n    \"setting\": {\n      \"environment\": \"{argument name=\"setting\" default=\"Minimalist and light indoor space, potentially a modern living room or office with light grey textured wood or laminate flooring\"}\",\n      \"background_details\": [\n        \"Light-colored, possibly off-white, paneled wall cabinetry or paneling with vertical lines\",\n        \"Multiple sheets of white paper with generic printed text scattered in the midground and background, including one directly in front of her (out of focus)\",\n        \"The overall environment is clean, uncluttered, and bright\"\n      ]\n    },\n    \"photography_style\": {\n      \"aesthetic\": \"High-resolution, photorealistic, professional portraiture with a lifestyle feel\",\n      \"lighting\": \"Soft, diffused natural daylight, creating gentle, flattering highlights on skin and hair\",\n      \"composition\": \"High-angle, overhead perspective looking down at the subject, close-up to medium-shot framing from her head to mid-thigh, with a shallow depth of field, keeping her eyes and face in sharp focus\"\n    }\n  }\n}",
+    "title": "Jenna Ortega Indoor Lifestyle Portrait",
+    "description": "A complex JSON-structured prompt for generating a high-resolution portrait of Jenna Ortega in a minimalist indoor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208869383_4g9t4a_HQGFvqlX0AAH_yV.jpg",
+      "https://cms-assets.youmind.com/media/1787208869389_ly9ob4_HQGFwO-WUAIgpGj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31990,
+    "content": "A RAW black-and-white street portrait generated from the input photo.\nVIBE: {argument name=\"vibe\" default=\"Harsh noir, artistic rebellion, punk-chic style\"}.\nENVIRONMENT: Plain, light-toned background.\nCOMPOSITION: Tight close-up shot. The person’s hand makes a {argument name=\"gesture\" default=\"bold gesture over the eye using two fingers\"}.\nLIGHTING: High-contrast black-and-white with dramatic shadows emphasizing intense eye contact.\nSTYLE: Black crew-neck T-shirt. Heavy silver rings (weapon-themed), silver bracelet, and a thick pearl necklace with silver details.\nEXPRESSION: Harsh, piercing gaze with a defiant attitude.\nTECHNICAL: {argument name=\"film style\" default=\"35mm film aesthetic, heavy Kodak Tri-X grain\"}, high contrast, sharp textures.",
+    "title": "Noir Punk Street Portrait",
+    "description": "A high-contrast noir-style street portrait prompt for transforming a personal photo into an artistic punk-chic image with heavy film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208871327_qy3p1l_HQF6yWjWoAE8jeI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31875,
+    "content": "Close-up selfie portrait, camera very close to the face, slight high angle, shot cropped at the chest. One hand presses a {argument name=\"bouquet details\" default=\"huge bouquet of 1001 dark fuchsia small spray roses\"} against the body. Shoulder is slightly raised, relaxed confident pose, gaze directly into the camera through curls. The bouquet is very massive, plush, and dense with about 1001 stems in white matte multi-layered packaging.\n\nHair:\n\nVery long, multi-layered, very voluminous curly hair down to the waist. Dense, elastic, large spiral curls with messy defined texture. Large volume at the roots, {argument name=\"hair color\" default=\"dark chocolate shade\"}, individual curls chaotically fall onto the face and partially cover one eye. Salon-defined curls, glossy frizz-free finish.\n\nMakeup:\n\nLong lashes with a fox-eye effect, laminated eyebrows, lips painted with {argument name=\"lipstick\" default=\"matte dusty pink lipstick\"}.\n\nClothing:\n\nForm-fitting white ribbed top and a pink rhinestone-studded shirt, slightly slipped off the shoulder.\n\nAccessories:\n\nThin translucent chain with a diamond, gold stud earrings.\n\nPose:\n\nHead slightly tilted to the side and slightly forward, hair falling onto the face, lips slightly relaxed, gaze intense and focused.\n\nLocation:\n\nIndoor, bokeh effects.\n\nLighting:\n\nBackground is darkened, main lighting from a smartphone screen, the room is dark.\n\nTechnical:\n\nPhotorealism, high detail of skin, fabric, and props. Motion photo. Image quality like an iPhone 17.",
+    "title": "Fuchsia Rose Bouquet Selfie",
+    "description": "A detailed prompt for an iPhone-style close-up selfie holding a massive bouquet of spray roses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787208869671_cuiguq_HQDn6NxaUAA7cuY.jpg",
+      "https://cms-assets.youmind.com/media/1787208869680_k90o9l_HQDn6N9bQAA0Gw_.jpg",
+      "https://cms-assets.youmind.com/media/1787208869666_k59lzl_HQDn6NzaoAAmHOR.jpg"
     ],
     "needReferenceImages": false
   },
