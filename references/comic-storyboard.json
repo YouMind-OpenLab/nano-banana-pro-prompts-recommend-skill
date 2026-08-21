@@ -1,11 +1,12 @@
 [
   {
-    "id": 31998,
-    "content": "a curious {argument name=\"subject\" default=\"ferret\"} joyfully playing in a {argument name=\"location\" default=\"colorful plastic ballpit\"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name=\"art style\" default=\"whimsical illustration style\"}",
-    "title": "Whimsical Ferret in Ball Pit",
-    "description": "A playful illustration prompt for a ferret playing in a colorful ball pit with soft lighting and high detail.",
+    "id": 31992,
+    "content": "A cute white bear sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a soft, anime-inspired art style. A cute white cartoon cat with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a soft, whimsical art style.",
+    "title": "Whimsical Animal at Night",
+    "description": "A soft, whimsical prompt for creating cute cartoon animals like cats in a serene, star-filled night environment by a lake.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787208878286_2q4kjp_HPCBtIFXUAAaNAs.jpg"
+      "https://cms-assets.youmind.com/media/1787293543889_1p4qb1_HQHRazNXYAAu3r1.jpg",
+      "https://cms-assets.youmind.com/media/1787293543883_e4porw_HQHRbUNXkAA5XPm.jpg"
     ],
     "needReferenceImages": false
   },

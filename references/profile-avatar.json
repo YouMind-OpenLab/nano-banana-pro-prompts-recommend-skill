@@ -10,12 +10,115 @@
     "needReferenceImages": false
   },
   {
-    "id": 31999,
-    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A {argument name=\"subject\" default=\"handsome man\"} same face photograph of the same young man from image_0.png, maintaining his charming smile and direct eye contact. He is upward looking back to face on a surface, looking at the camera. He wears a {argument name=\"clothing\" default=\"purple shifon kurta\"}, with the sleeves showing. rolix watch. black ring. His dark brown hair. The lighting is soft and natural. The background is nhait mood {argument name=\"background color\" default=\"sky blue\"} ton simple and out of focus. Skin: Porcelain-smoth, \"glass skin\"",
-    "title": "Identity-Preserving Portrait in Kurta",
-    "description": "An image transformation prompt designed to preserve facial identity while placing the subject in a new setting with specific clothing and lighting.",
+    "id": 32095,
+    "content": "Create a photorealistic portrait of a young woman with fair skin and a warm natural complexion, subtle freckles, light-colored eyes, and long {argument name=\"hair color\" default=\"copper-red\"} hair gathered into a high, slightly tousled ponytail. A few loose strands frame her face naturally. Her expression is soft and thoughtful, with a relaxed gaze directed toward the camera and a subtle, understated smile. She is positioned beside a large window, turned slightly sideways toward the camera, with one hand gently raised near her face and the other resting naturally along her side. Her posture is relaxed and candid, conveying the feeling of an authentic lifestyle photograph. She is wearing a fitted {argument name=\"top color\" default=\"deep-red\"} short-sleeve top with comfortable {argument name=\"bottoms\" default=\"light-gray\"} casual shorts. Keep the outfit simple, tasteful, contemporary, and natural. Add only minimal understated jewelry, such as a thin bracelet, with no distracting accessories. The setting is a cozy bedroom with a dark charcoal wall, a neatly arranged bed partially visible in the background, a few everyday personal items on a bedside surface, and a tall bright window on the right side of the frame. Soft daylight enters through the window, illuminating her face and hair while creating gentle shadows toward the darker interior. Use realistic ambient room light, subtle window reflections, natural tonal falloff, and a calm intimate atmosphere. Photographed with an 85mm portrait lens, natural perspective, shallow depth of field, soft window light, realistic skin texture, finely detailed individual hair strands, authentic fabric texture, accurate anatomy, crisp focus on the eyes and face, gentle background blur, balanced exposure, cinematic but natural color grading, warm neutral tones, soft contrast, high dynamic range, professional lifestyle photography, subtle film grain, photorealistic detail, vertical composition, candid editorial aesthetic.",
+    "title": "Copper-Red Hair Window Portrait",
+    "description": "An editorial-style lifestyle photography prompt for a thoughtful portrait of a woman with copper-red hair by a large window with soft natural lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787208878934_pr69y8_HQILONqbAAEi-Ae.jpg"
+      "https://cms-assets.youmind.com/media/1787293540164_et246n_HQOQyl5bQAA_--T.jpg",
+      "https://cms-assets.youmind.com/media/1787293541445_vqwj3f_HQOQ1PmbMAAcR2U.jpg",
+      "https://cms-assets.youmind.com/media/1787293540095_rgdbug_HQOQ2Q-bQAAMx0q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32105,
+    "content": "A cinematic, grainy close-up portrait of a {argument name=\"subject\" default=\"young woman\"}.\n\nShe is standing in a {argument name=\"location\" default=\"summer cottage garden near trees laden with large red cherries\"}. She holds a large enamel basin filled with red cherries against her hip with one hand, while the other hand holds a cherry-laden branch up to her mouth.\n\nShe is wearing a {argument name=\"clothing\" default=\"form-fitting pink romper with thin straps and a small cherry print\"}.\n\nShe wears a white lace headscarf.\n\nHer very long, wavy hair is worn loose, with a few strands framing her face.\n\nDaylight with a moody, shadowed quality.",
+    "title": "Cinematic Summer Garden Portrait",
+    "description": "A moody, cinematic portrait prompt of a woman in a cottage garden surrounded by cherries, captured with a grainy film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293549460_3bimjw_HQJWUMsbMAABRat.jpg",
+      "https://cms-assets.youmind.com/media/1787293549685_yzostj_HQJXKVIbEAAzq9l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32109,
+    "content": "A close-up selfie of a young {argument name=\"ethnicity\" default=\"Southeast Asian\"} woman with fair skin, large dark brown eyes, and soft facial features, wearing a neatly wrapped dark brown/black hijab that fully covers her hair and frames her face. She is playfully sticking her tongue out slightly while looking directly at the camera with a cute, teasing expression and subtle pinkish-red lip tint. Silver metallic over-ear headphones rest around her neck. She wears a fitted {argument name=\"top color\" default=\"dark green\"} long-sleeved knit top with small white buttons down the front. A lanyard with an orange-brown mesh strap hangs around her neck; the strap has the text “Iryan Komputer” printed on it, and a clear plastic ID badge with a circular logo hangs from it. She holds a slim maroon/burgundy laptop or folder under her right arm. The photo is taken outdoors in {argument name=\"lighting\" default=\"warm golden-hour\"} lighting, with soft natural sunlight highlighting her face. Background shows a weathered wooden building with a reddish-brown door and corrugated metal wall, a paved outdoor path, and some greenery. Shallow depth of field, realistic skin texture, natural colors, high detail, casual everyday aesthetic.",
+    "title": "Casual Hijab Selfie Portrait",
+    "description": "A close-up selfie prompt for a Southeast Asian woman in a dark green knit top and hijab, featuring realistic golden-hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293552813_0ec3ay_HP_VXTibUAA6qRt.jpg",
+      "https://cms-assets.youmind.com/media/1787293552860_13ote6_HP_VXTbbQAA9a1b.jpg",
+      "https://cms-assets.youmind.com/media/1787293552855_u5sv2k_HP_VXTgacAANMbw.jpg",
+      "https://cms-assets.youmind.com/media/1787293553754_fiy3in_HP_VXTjbcAA0UMs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32096,
+    "content": "{\"subject\": {\"description\": \"Young woman brunette posing confidently as a photorealistic cosplayer. Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Thin necklace resting on the collarbone.\", \"pose\": \"Close-up wide-angle smartphone selfie perspective with one arm extended toward the camera. Leaning forward slightly with shoulders drawn back in an elegant S-curve posture. Head tilted slightly backward and to the side, chin raised. Soft and flirtatious expression with half-lidded eyes and a subtle confident smirk.\", \"clothing\": {\"main\": \"Fitted pink-and-red Boa Hancock-inspired one-piece swimsuit with thin spaghetti straps, deep V-neckline, smooth stretch fabric, and sleek minimalist design. Features bold heart and snake-inspired symbols with elegant gold accents. Small elegant 'Keor' embroidery on the border. Paired with matching red stockings.\", \"style\": \"Contours naturally to the body with realistic fabric tension and soft folds around the waist and torso.\"}}, \"setting\": {\"environment\": \"Galleon room — ornate wooden pirate ship cabin with carved beams, nautical maps, hanging lanterns, a large wooden table with charts and compasses, a bed with tangled sheets, bookshelves of old books, and personal belongings creating an authentic lived-in ship atmosphere.\", \"lighting\": \"Soft natural daylight from a nearby porthole window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff.\"}, \"style\": {\"photography\": \"Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer, high-end lifestyle photography, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution.\", \"mood\": \"Confident, glamorous, and self-assured.\", \"composition\": \"Close-up wide-angle POV selfie, camera slightly below face level and angled upward.\"}, \"full_prompt\": \"Ultra-realistic selfie-style fashion portrait of madison beer as a photorealistic cosplayer posing confidently in a galleon room. She wears a fitted pink-and-red Boa Hancock-inspired one-piece swimsuit with thin spaghetti straps, deep V-neckline, bold heart and snake-inspired symbols, plus a small 'Keor' embroidery, and red stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed wooden ship cabin with nautical maps and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture.\"}",
+    "title": "Madison Beer Boa Hancock Cosplay",
+    "description": "A detailed prompt for generating a photorealistic cosplay portrait of Madison Beer as the character Boa Hancock, set in a meticulously detailed wooden pirate ship cabin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293541482_yc3gvl_HQKgw6zXUAAbhGz.jpg",
+      "https://cms-assets.youmind.com/media/1787293541337_ixuyfv_HQKgxuiW0AADzcq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32098,
+    "content": "Create an ultra-detailed realistic 4K cinematic portrait of one young adult woman seated outdoors in a {argument name=\"location\" default=\"spring park\"}, preserving the same visible identity, facial structure, {argument name=\"hair color\" default=\"blonde\"} hair color, calm direct gaze, pose, {argument name=\"outfit\" default=\"blue summer dress\"}, wooden bench, blooming pink tree background, warm sunlight, shallow depth of field, and natural editorial photo style.\n\nSUBJECT LOCK:\n\nOne young adult woman with a refined feminine appearance, fair warm skin tone, calm neutral expression, looking directly into the camera. Preserve the same elegant, relaxed presence and natural beauty, with realistic skin detail and no change to her visible identity.\n\nFACE / IDENTITY DETAILS:\n\nPreserve the same oval face shape, balanced facial proportions, softly defined cheekbones, straight nose, full natural lips, light-colored eyes, defined natural eyebrows, subtle natural makeup, smooth but realistic fair skin, small natural marks and pores, and composed camera-facing expression. Do not alter facial features.\n\nHAIR / HEAD DETAILS:\n\nPreserve the same blonde hair color exactly. Long glossy blonde hair, softly voluminous, slightly wavy and loosely curled, parted naturally with lift at the crown. A gentle wind moves loose strands and flyaways around the face and shoulders while keeping the same hairstyle and color.\n\nBODY / PROPORTION DETAILS:\n\nSlender young adult proportions, seated posture, shoulders relaxed, upper body turned slightly toward the camera. Arms rest naturally downward with hands placed together on the lap. Preserve natural anatomy and realistic limb proportions.\n\nPOSE / GESTURE LOCK:\n\nShe sits on the edge of a weathered wooden park bench, facing forward with a slight body angle, looking directly into the lens. Hands are folded neatly on her lap, fingers visible, nails in a clean French manicure. Pose remains elegant, still, and relaxed.\n\nOUTFIT / ACCESSORY LOCK:\n\nblue summer dress with a soft square neckline, fitted bodice, airy skirt, and semi-transparent organza bows tied on both shoulders. Lightweight fabric with delicate translucency at the edges, soft folds, and realistic cloth texture. No jewelry or extra accessories unless naturally subtle.\n\nSCENE / BACKGROUND LOCK:\n\nOutdoor park setting in spring, near a blooming tree filled with pale pink flowers. Weathered wooden bench with visible grain and aged texture. Background includes tree branches, blossoms, greenery, warm sunlit garden depth, and soft natural bokeh.\n\nCOMPOSITION / CAMERA LOCK:\n\nVertical portrait composition, medium seated framing from head to knees, subject centered slightly forward on the bench. Camera at approximately eye level with a natural portrait lens feel, shallow depth of field, softly blurred floral background, realistic perspective, and intimate editorial framing.\n\nLIGHTING LOCK:\n\nWarm natural sunlight from behind and slightly above, creating soft rim light on blonde hair, gentle highlights on face, shoulders, arms, and dress, with natural shadows and glow",
+    "title": "Ultra-Detailed Cinematic Spring Portrait",
+    "description": "A highly specific prompt for generating consistent, realistic portraits of a woman in a park setting, featuring detailed identity and environment controls.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293542854_n5v8zb_HQESqimbEAAH3q2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32106,
+    "content": "Use the reference image for the character’s face and identity. Keep the face highly consistent and recognizable, preserving the same facial features, skin tone, hairstyle, and overall appearance.\n\nCreate a vertical 9:16 portrait, waist-up cinematic shot of the {argument name=\"character\" default=\"character\"} standing deep inside a {argument name=\"location\" default=\"dense tropical forest\"}. He is wearing {argument name=\"clothing\" default=\"rugged forest survival clothing\"} made from natural-looking brown and dark green fabrics, with practical leather straps, simple handmade accessories, weathered textures, and a rugged outdoor appearance. The outfit should look functional, adventurous, and suitable for exploring a remote forest.\n\nHe is facing the camera with a confident and serious expression. Surround him with enormous trees, thick vines, dense green vegetation, soft mist, and beautiful sunlight rays passing through the forest canopy.\n\nPhotorealistic cinematic photography, realistic skin and clothing textures, natural proportions, dramatic lighting, shallow depth of field, detailed environment, cinematic color grading, adventurous atmosphere, ultra-realistic, high detail, portrait composition, 9:16, no modern technology, no text, no watermark.",
+    "title": "Cinematic Tropical Forest Survival Portrait",
+    "description": "A cinematic survival-themed portrait prompt set deep in a tropical forest, designed to keep a consistent character identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293550704_as7bni_HQJ_5sCa0AArLFR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32097,
+    "content": "A young woman with fair skin, delicate natural facial features, and long {argument name=\"hair color\" default=\"dark brown\"} hair styled in a loose ponytail. Several soft strands fall naturally around her face, giving her hairstyle a relaxed, effortless appearance. She has a calm, composed expression with a subtle neutral smile and is looking toward the smartphone screen while taking a mirror photograph. Her pose is casual and confident, with one hand holding a smartphone in front of the mirror and the other hand raised in a relaxed peace-sign gesture. She is wearing an elegant {argument name=\"dress color\" default=\"royal-blue\"} satin dress with thin shoulder straps, a softly draped neckline, and a fitted silhouette with natural fabric folds and realistic satin reflections. The lower portion of the outfit features decorative blue feather-like trim, adding texture and a glamorous evening-fashion aesthetic. She carries a structured {argument name=\"handbag color\" default=\"dark-blue\"} handbag with a long gold chain strap. Her accessories include delicate layered necklaces, slim gold bracelets, and a few understated rings. Keep the overall styling polished, sophisticated, and tasteful. The scene takes place in a luxurious modern interior with a large full-length mirror surrounded by dark marble panels featuring subtle natural veining. The reflective surfaces create depth and an upscale atmosphere. Warm ambient interior lighting illuminates the subject softly from the front and sides, producing gentle highlights on the satin fabric, natural skin tones, and subtle reflections in the mirror. Maintain realistic shadows and believable reflective surfaces. Compose the image as a high-quality smartphone mirror portrait with the phone naturally visible in the foreground. Use realistic smartphone perspective, accurate mirror reflection, natural anatomy and proportions, detailed hands and fingers, realistic hair strands, and finely rendered clothing textures. Shot with a portrait-style camera aesthetic equivalent to an 85mm lens, soft diffused indoor lighting, cinematic color grading, rich but natural blue tones, warm neutral skin tones, moderate background separation, high dynamic range, realistic reflections, crisp subject detail, photorealistic rendering, high resolution, polished editorial lifestyle photography, sophisticated evening atmosphere.",
+    "title": "Royal Blue Satin Dress Mirror Portrait",
+    "description": "A comprehensive prompt for a high-quality smartphone mirror portrait featuring a woman in an elegant royal-blue satin dress with feather trim within a luxury interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg",
+      "https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg",
+      "https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg",
+      "https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32000,
+    "content": "Ultra-realistic {argument name=\"camera\" default=\"fisheye lens\"} photo, extreme low-angle looking up, {argument name=\"subject\" default=\"beautiful young East Asian woman\"} with long wavy dark brown hair cascading over her shoulders, wearing {argument name=\"clothing\" default=\"oversized black oval sunglasses\"} with gold logos on the temples, black tight tank top, small gold hoop earrings, layered delicate gold necklaces, glossy full lips slightly parted, subtle makeup, confident and alluring expression, standing behind the counter of a {argument name=\"location\" default=\"brightly lit convenience store at night\"}, green fluorescent ceiling lights casting a cool teal glow, shelves densely packed with cigarette packs (Marlboro, Winston, local brands in red, blue, gold, white boxes) on the left and snacks/drinks on the right, white tiled floor, cash register, card terminal, scattered papers, pens and small cups on the counter in the foreground, strong barrel distortion from the fisheye lens, high detail, sharp focus, cinematic lighting, photorealistic, 8k",
+    "title": "Fisheye Convenience Store Portrait",
+    "description": "A realistic fisheye lens photography prompt featuring an East Asian woman in a teal-lit convenience store at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293550455_o3eqx7_HP-tO66bYAAmn5u.jpg",
+      "https://cms-assets.youmind.com/media/1787293550354_p1o89v_HP-tO6MbwAAa7V1.jpg",
+      "https://cms-assets.youmind.com/media/1787293550428_0zoqkz_HP-tO6Na8AA00KF.jpg",
+      "https://cms-assets.youmind.com/media/1787293551118_zr53lc_HP-tO6PboAAV6aS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32002,
+    "content": "Use the uploaded reference image to preserve the girl’s exact face and identity. Create a highly realistic, aesthetic cinematic scene of {argument name=\"character\" default=\"her as a simple village girl\"} enjoying nature beside a {argument name=\"setting\" default=\"beautiful flowing river\"}, surrounded by lush green fields, trees, and majestic mountains. She wears {argument name=\"clothing\" default=\"elegant traditional rural clothing\"}, with a natural, peaceful expression. Warm golden-hour sunlight, soft breeze, authentic village atmosphere, photorealistic details, natural skin texture, dreamy composition, cinematic depth of field, ultra-realistic photography.",
+    "title": "Cinematic Rural Village Portrait",
+    "description": "A cinematic portrait prompt designed to place a specific person into a peaceful rural village setting while maintaining their identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293546136_xs4azi_HQIh-auaoAAcqZf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31999,
+    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A handsome man same face photograph of the same young man from image_0.png, maintaining his charming smile and direct eye contact. He is upward looking back to face on a surface, looking at the camera. He wears a {argument name=\"clothing\" default=\"purple shifon kurta\"}, with the sleeves showing. {argument name=\"accessory\" default=\"rolix watch\"}. black ring. His {argument name=\"hair color\" default=\"dark brown\"} hair. The lighting is soft and natural. The background is nhait mood sky blue ton simple and out of focus. Skin: Porcelain-smooth, \"glass skin\"",
+    "title": "Facial Identity Preservation Portrait",
+    "description": "A technical prompt designed to maintain 100% facial identity and skin texture while transforming a reference portrait into a stylized professional photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787293544255_34cylv_HQILONqbAAEi-Ae.jpg"
     ],
     "needReferenceImages": true
   },

@@ -13,13 +13,15 @@
     "needReferenceImages": true
   },
   {
-    "id": 31992,
-    "content": "Prompt 1:\nA cute {argument name=\"animal 1\" default=\"white bear\"} sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a {argument name=\"style 1\" default=\"soft, anime-inspired art style\"}.\n\nPrompt 2:\nA cute {argument name=\"animal 2\" default=\"white cartoon cat\"} with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a {argument name=\"style 2\" default=\"soft, whimsical art style\"}.",
-    "title": "Whimsical Animal Waterfront Illustrations",
-    "description": "Two whimsical prompts for generating cute animals (a bear and a cat) sitting by water under a starry sky in a soft anime or cartoon style.",
+    "id": 32101,
+    "content": "SYSTEM PROMPT: BLACKGLASS ASCENDANT\n\nRewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, text, references, and requested or source ratio.\n\nUse three systems. Ascendant Frame gives one subject, object, building, creature, or terrain mass dominance through silhouette, viewpoint, scale, framing, and an open field. Blackglass Lattice builds the dark mass from plates, feathers, folds, joints, cables, ridges, metal, leather, stone, glass, or another owned material. Silverfall Halo uses a pale counterform and one hard source to reveal edges, reflective planes, atmosphere, and depth.\n\nDetermine subject, state, silhouette, viewpoint, dark-material owner, construction, pale counterform, source, edge route, focal transition, scale marker, and quiet region.\n\nDark surfaces need separation. Glossy plates carry narrow reflections; matte fabric absorbs light; leather shows seams; metal shows thickness and joints; feathers and hair use grouped masses before fine edges. Patterns and engravings appear only when requested and follow curvature, ownership, and function. Preserve anatomy, object use, support, access, and perspective.\n\nLight appears only on source-facing contours. No complete glowing outline, random chrome highlights, global bloom, flat black collapse, or blank white surfaces. Atmosphere, snow, ash, rain, or dust needs a source and direction. Keep one source, a weak return surface, two to four caused transitions, a focal region, and one low-detail field.\n\nUse five values from deep black to white edge. Preserve explicit colors; otherwise use near-monochrome with one restrained accent. Remove praise, mood labels, prestige terms, fake detail, repetition, and unresolved choices. Use concrete nouns and active verbs. No em dash or en dash.\n\nGPT: return 500 to 800 words in five paragraphs covering scene, subjects, frame, lattice, halo, transitions, composition, references, text, and failures.\n\nNANO: return JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"ascendant_frame\", \"blackglass_lattice\", \"silverfall_halo\", \"transitions\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, or comments.\n\nReturn only the finished prompt.",
+    "title": "Blackglass Ascendant System Prompt",
+    "description": "A comprehensive system prompt designed for large language models to generate highly specific and structured image generation prompts for Nano Banana Pro.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787208872546_lt08wq_HQHRazNXYAAu3r1.jpg",
-      "https://cms-assets.youmind.com/media/1787208872571_efmzfi_HQHRbUNXkAA5XPm.jpg"
+      "https://cms-assets.youmind.com/media/1787293544474_wnrzdy_HQKbHMUWcAEvEG6.jpg",
+      "https://cms-assets.youmind.com/media/1787293544259_qklyok_HQKbHMOWwAAANx4.jpg",
+      "https://cms-assets.youmind.com/media/1787293544539_fjpf1u_HQKbHMeXYAAsjDS.jpg",
+      "https://cms-assets.youmind.com/media/1787293545226_jwjbkl_HQKbHMLW8AANU-_.jpg"
     ],
     "needReferenceImages": false
   },
