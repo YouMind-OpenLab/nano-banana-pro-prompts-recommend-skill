@@ -21,12 +21,36 @@
     "needReferenceImages": true
   },
   {
-    "id": 32099,
-    "content": "A high-quality professional product photograph of a premium strawberry milkshake served in a tall transparent glass, centered against a soft pastel pink seamless studio background. The milkshake has a thick creamy strawberry texture, glossy strawberry syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh strawberry slices, and delicate pink sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K. Aspect Ratio: 1:1 Create a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake. Top → Bottom structure: Fresh Strawberry Garnish → Whipped Cream → Strawberry Syrup → Creamy Strawberry Shake → Crushed Ice → Transparent Glass Base All elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K. Add clean minimalist infographic text labels with thin pointer lines using these exact labels: \"Strawberry\" \"Whipped Cream\" \"Strawberry Syrup\" \"Milkshake\" \"Ice\" \"Glass\" Aspect Ratio: 1:1 The milkshake starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, creamy, and controlled with no extra effects.",
-    "title": "Milkshake Product Infographic",
-    "description": "An exploded-view infographic prompt for a premium beverage, displaying layered ingredients with professional studio lighting and textures.",
+    "id": 32200,
+    "content": "Elegant {argument name=\"color\" default=\"Black\"} {argument name=\"material\" default=\"Organza\"} Ribbon",
+    "title": "Elegant Black Organza Ribbon",
+    "description": "A minimalist image generation prompt for creating a high-quality, detailed black organza ribbon focusing on its delicate texture and elegance.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787293542885_bofwo3_HQOIyO5bMAAfMOO.jpg"
+      "https://cms-assets.youmind.com/media/1787379863537_o4kkad_HQSrCbNbUAAFin6.jpg",
+      "https://cms-assets.youmind.com/media/1787379862312_ngg148_HQSrHiAbEAAuvwV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32196,
+    "content": "ar 9:16 High\n\nA beautiful {argument name=\"subject\" default=\"young Southeast Asian woman (Indonesian features)\"} sitting gracefully on a {argument name=\"furniture\" default=\"soft cream-colored bouclé sofa\"}, looking directly at the camera with a soft, elegant smile and gentle eye contact. She has fair skin with soft pink blush on her cheeks, defined winged eyeliner, long lashes, and glossy rose-pink lips. Her dark black hair is styled in a neat, polished updo with a braided crown and a few delicate loose strands framing her face.\n\nShe is wearing a {argument name=\"clothing\" default=\"delicate light powder-blue kebaya\"} made of intricate floral lace with sheer long sleeves, pearl buttons running down the front, and a fitted silhouette. The kebaya is paired with a traditional dark batik kain with intricate gold and cream geometric patterns. Layered jewelry includes a strand of white pearls, multiple delicate gold necklaces with small pendants, pearl stud earrings, gold rings, and a thin gold bracelet. A light blue quilted shoulder bag with a gold clasp rests on her left side.\n\nHer right hand is raised near her face in a soft, elegant pose with one finger lightly touching near her cheek, while her left arm rests naturally. Soft natural lighting highlights her features and the lace texture. Background features vertical beige-and-cream striped wallpaper and a large green leafy plant in a white ceramic pot on a gold stand to the left.\n\nElegant, refined, traditional-modern fusion style, high detail, photorealistic, soft glam makeup, studio portrait quality.",
+    "title": "Traditional Southeast Asian Portrait",
+    "description": "A sophisticated prompt for generating a portrait of a woman in a traditional kebaya, blending cultural heritage with modern studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379857127_pdhic8_HQD2ABPagAAbBJH.jpg",
+      "https://cms-assets.youmind.com/media/1787379857169_i25fzt_HQD2ABQbgAAO84z.jpg",
+      "https://cms-assets.youmind.com/media/1787379857157_4gygiw_HQD2ABOa8AAGjCe.jpg",
+      "https://cms-assets.youmind.com/media/1787379858013_ee9n8d_HQD2ABWacAAsDxV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32099,
+    "content": "A high-quality professional product photograph of a premium {argument name=\"flavor\" default=\"strawberry\"} milkshake served in a tall transparent glass, centered against a soft {argument name=\"background color\" default=\"pastel pink\"} seamless studio background. The milkshake has a thick creamy texture, glossy syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh fruit slices, and delicate sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K. \n\nCreate a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake. \nTop → Bottom structure: \nFresh Strawberry Garnish \n→ Whipped Cream \n→ Strawberry Syrup \n→ Creamy Strawberry Shake \n→ Crushed Ice \n→ Transparent Glass Base \nAll elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K. \nAdd clean minimalist infographic text labels with thin pointer lines using these exact labels: \n\"Strawberry\" \n\"Whipped Cream\" \n\"Strawberry Syrup\" \n\"Milkshake\" \n\"Ice\" \n\"Glass\"",
+    "title": "Strawberry Milkshake Product and Infographic",
+    "description": "Comprehensive prompts for both a professional product shot of a strawberry milkshake and a hyper-realistic vertical exploded infographic of the ingredients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379854342_tnj7s4_HQOIyO5bMAAfMOO.jpg"
     ],
     "needReferenceImages": false
   },
@@ -40,6 +64,19 @@
       "https://cms-assets.youmind.com/media/1787293551145_xviw0w_HQM7ZsaXMAAuUM0.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 32193,
+    "content": "Create an ultra-realistic portrait using the reference image as the identity source. Preserve the subject's exact identity with absolute fidelity, including facial features, bone structure, facial proportions, skin tone, facial asymmetry, and unique characteristics. Do not beautify, reshape, retouch, age, rejuvenate, or modify any facial feature. Maintain authentic facial geometry, natural likeness, and complete identity consistency throughout the entire image. Subject & Pose: Shoulders relaxed and bare, body angled slightly forward, head tilted downward and to the right.\nExpression: Soft, melancholic, serene, gazing downward.\nWardrobe & Styling: Voluminous {argument name=\"dress color\" default=\"pale grey/icy-blue\"} tulle dress. Dangling transparent crystal floral earrings. Large {argument name=\"bouquet theme\" default=\"winter-themed\"} bouquet (white blooms, silver foliage).\nHair & Makeup: Messy dark brown updo with loose, wispy tendrils. Fair skin with soft pink blush, glossed pink lips, and subtle peach/pink eye contour.\nSetting: {argument name=\"background\" default=\"Abstract, mottled grey-white textured studio wall\"}.\nLighting: Diffused, cool-toned window light originating from the right, casting a soft, ethereal glow and gentle shadows on the left.\nCamera & Optical: 85mm portrait lens, f/1.4 aperture, shallow depth of field focusing on the face and earrings.\nRealism Enhancers: Cinematic lighting, 32k resolution, subsurface scattering for skin, highly detailed fabric texture, volumetric glow.",
+    "title": "Identity-Preserving Tulle Dress Portrait",
+    "description": "A highly specific prompt designed to preserve a subject's identity with absolute fidelity while placing them in a voluminous tulle dress with winter-themed accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379854981_d4kctx_HQM2W3WXsAA75VL.jpg",
+      "https://cms-assets.youmind.com/media/1787379855016_oi0xq9_HQM2W3UWAAA7LDp.jpg",
+      "https://cms-assets.youmind.com/media/1787379854995_acoytw_HQM2W3VWwAAxo2n.jpg",
+      "https://cms-assets.youmind.com/media/1787379855777_6a08bw_HQM2W3RXUAElOCj.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32103,

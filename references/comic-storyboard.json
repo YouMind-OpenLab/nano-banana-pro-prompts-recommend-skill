@@ -1,5 +1,15 @@
 [
   {
+    "id": 32194,
+    "content": "{argument name=\"group\" default=\"a left party\"} from {argument name=\"country\" default=\"iran\"} {argument name=\"decade\" default=\"70s\"} in tehran , like a communism man",
+    "title": "70s Iran Political Group Portrait",
+    "description": "A prompt to generate a historical scene of a political group in 1970s Tehran with a specific period-accurate aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379856020_x8scoe_HQRp55lXMAE50GZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31992,
     "content": "A cute white bear sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a soft, anime-inspired art style. A cute white cartoon cat with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a soft, whimsical art style.",
     "title": "Whimsical Animal at Night",

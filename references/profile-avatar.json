@@ -10,6 +10,73 @@
     "needReferenceImages": false
   },
   {
+    "id": 32189,
+    "content": "Stylish young woman with elegant makeup standing confidently in front of a dark wood door with decorative glass panels. She is wearing a loose {argument name=\"sweater color\" default=\"red\"} ribbed sweater and matching {argument name=\"trousers color\" default=\"red\"} trousers. She holds a festive bouquet of {argument name=\"plant type\" default=\"pine branches\"} decorated with bright red berries, wrapped in brown paper. Her left hand is casually extended, leaning against the door frame. Eye-level camera, medium shot, emphasizing a confident pose and festive style. The background features a slightly blurred reflection in the glass panel, hinting at an elegant cityscape. Soft, flattering lighting creates a festive yet sophisticated atmosphere with warm tones. Shot on phone, shallow depth of field, high resolution, amateur photography style, festive aesthetic, high quality.",
+    "title": "Festive Fashion Portrait with Red Sweater",
+    "description": "A descriptive prompt for generating a stylish woman in a red ribbed sweater holding a pine bouquet, featuring soft lighting and a sophisticated festive atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379853343_7gpg2u_HQOW3ldakAAZG_u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32190,
+    "content": "A dramatic black-and-white studio portrait of a {argument name=\"subject\" default=\"young man\"} wearing a {argument name=\"clothing\" default=\"plain black t-shirt and glasses\"}, seated on a chair, posing confidently. Dark minimalist background, cinematic lighting with strong shadows, high contrast, sharp details, professional photography style, moody atmosphere.",
+    "title": "Dramatic Monochrome Studio Portrait",
+    "description": "A prompt for a high-contrast black-and-white studio portrait of a man, emphasizing sharp details and a moody, cinematic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379853747_a6d74y_HQTIMvjacAA1fCe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32195,
+    "content": "ar 9:16\n\nA realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman in her early 20s\"}, taken from a slightly high angle. She has soft, fair skin with a natural dewy glow, subtle rosy blush on her cheeks, light makeup with defined eyes, soft pink lips in a gentle neutral expression, and a few strands of hair falling across her face. Her dark brown hair is medium-length, slightly wavy and tousled, with soft bangs partially covering her forehead and one eye. She is looking directly at the camera with a calm, soft gaze.\n\nShe is wearing a {argument name=\"clothing\" default=\"maroon/burgundy ribbed knit cardigan\"} that is open and loosely tied at the front with a small bow, layered over a white t-shirt featuring a large red heart graphic and partial black lettering (“I ♥” visible). A delicate silver necklace with a small key-shaped pendant rests against her collarbone.\n\nThe background shows a {argument name=\"vehicle\" default=\"bright blue vintage-style van or minibus\"} with a partial orange-and-blue logo/sticker visible on the side, set in an outdoor daytime environment with soft natural lighting. The overall aesthetic is casual, trendy, and soft-focus with natural skin texture and realistic lighting. High detail, photorealistic style.",
+    "title": "Casual Vintage Van Selfie",
+    "description": "A photorealistic selfie prompt featuring a casual aesthetic, soft lighting, and a trendy vintage vehicle background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379857317_w05lum_HQD3IFJagAAJ2cU.jpg",
+      "https://cms-assets.youmind.com/media/1787379857313_0sp2lo_HQD3IFGaMAAPuKF.jpg",
+      "https://cms-assets.youmind.com/media/1787379857308_z0gftl_HQD3IFXaAAEc8ja.jpg",
+      "https://cms-assets.youmind.com/media/1787379858216_atx66j_HQD3IFVbsAAMMdH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32197,
+    "content": "ar 9:16 4K\n\nA photorealistic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with fair, smooth skin and a soft natural glow. She has long, straight, silky black hair parted in the middle, cascading over both shoulders with a few loose strands falling across her chest and framing her face. The hair has natural volume at the crown and a slight sheen under the light.\n\nShe faces the camera directly with a gentle, closed-mouth smile, soft pink glossy lips, large expressive brown eyes with double eyelids, long natural-looking eyelashes, subtle eyeliner, and a light dusting of pink blush on her cheeks. Her expression is warm, friendly, and slightly playful. She has a rounded oval face, soft jawline, and a small, neat nose.\n\nShe is wearing a {argument name=\"clothing\" default=\"red short-sleeved athletic jersey\"} with a white V-neck collar and white Adidas-style triple stripes running down the sleeves. Across the chest is bold yellow text reading “PAM” in large capital letters, with smaller yellow text “AMOS ESP” underneath.\n\nThe background is an indoor room: on the left, a floral curtain with pink roses and green leaves on a light beige fabric; on the right, a plain, slightly textured dark gray wall. Soft, diffused indoor lighting illuminates her face evenly with gentle highlights on the forehead, nose, and cheeks. Shallow depth of field keeps the subject sharp while the background is softly blurred. Natural skin texture, realistic hair strands, and high detail throughout. Vertical portrait orientation, casual and intimate snapshot style.",
+    "title": "Athletic Jersey Portrait",
+    "description": "A close-up portrait prompt for a young woman in athletic wear, utilizing indoor lighting and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379857716_1mfytv_HQD1C9-bwAA7ycQ.jpg",
+      "https://cms-assets.youmind.com/media/1787379857472_y55vg8_HQD1C9xbYAANe7s.jpg",
+      "https://cms-assets.youmind.com/media/1787379857551_7uy8u0_HQD1C9ybUAAkLdg.jpg",
+      "https://cms-assets.youmind.com/media/1787379860279_r70ow7_HQD1C92asAAGXAV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32187,
+    "content": "Ultra-realistic cinematic portrait of a me(use my image for refrence with accurate face)relaxing on a {argument name=\"setting\" default=\"luxury yacht at sunset\"}. Face with the face from the uploaded image, keeping the facial features exactly the same.wearing a {argument name=\"clothing\" default=\"white unbuttoned shirt with white trousers\"}, and stylishblack glasses. The person leansback casually on the yacht seat, barefoot, exuding a confident and relaxed vibe. The ocean waves trail behind the boat under the scaffolding sky, creating an ultrasound serene details",
+    "title": "Ultra-Realistic Yacht Sunset Portrait",
+    "description": "A cinematic portrait of a person relaxing on a luxury yacht at sunset, designed to use a reference photo for facial accuracy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379851823_89pbg2_HQQXSBeWoAAVWkj.jpg",
+      "https://cms-assets.youmind.com/media/1787379851815_h2w9c0_HQQXSBoXAAEQbE6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32191,
+    "content": "A striking photorealistic portrait features a {argument name=\"subject\" default=\"woman\"} with {argument name=\"hair style\" default=\"long, wavy brown and blonde layered hair\"}, dramatic eye makeup, and glossy lips, exuding a sophisticated aura. She is adorned with sparkling diamond earrings and a necklace, wearing a {argument name=\"clothing\" default=\"black collared shirt and black leather gloves\"}, holding a lit joint.",
+    "title": "Sophisticated Portrait with Diamonds and Gloves",
+    "description": "A striking photorealistic portrait prompt of a woman with sophisticated makeup and accessories, including diamond jewelry and leather gloves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787379854783_93ioba_HQJ2cBEa8AAveEE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32095,
     "content": "Create a photorealistic portrait of a young woman with fair skin and a warm natural complexion, subtle freckles, light-colored eyes, and long {argument name=\"hair color\" default=\"copper-red\"} hair gathered into a high, slightly tousled ponytail. A few loose strands frame her face naturally. Her expression is soft and thoughtful, with a relaxed gaze directed toward the camera and a subtle, understated smile. She is positioned beside a large window, turned slightly sideways toward the camera, with one hand gently raised near her face and the other resting naturally along her side. Her posture is relaxed and candid, conveying the feeling of an authentic lifestyle photograph. She is wearing a fitted {argument name=\"top color\" default=\"deep-red\"} short-sleeve top with comfortable {argument name=\"bottoms\" default=\"light-gray\"} casual shorts. Keep the outfit simple, tasteful, contemporary, and natural. Add only minimal understated jewelry, such as a thin bracelet, with no distracting accessories. The setting is a cozy bedroom with a dark charcoal wall, a neatly arranged bed partially visible in the background, a few everyday personal items on a bedside surface, and a tall bright window on the right side of the frame. Soft daylight enters through the window, illuminating her face and hair while creating gentle shadows toward the darker interior. Use realistic ambient room light, subtle window reflections, natural tonal falloff, and a calm intimate atmosphere. Photographed with an 85mm portrait lens, natural perspective, shallow depth of field, soft window light, realistic skin texture, finely detailed individual hair strands, authentic fabric texture, accurate anatomy, crisp focus on the eyes and face, gentle background blur, balanced exposure, cinematic but natural color grading, warm neutral tones, soft contrast, high dynamic range, professional lifestyle photography, subtle film grain, photorealistic detail, vertical composition, candid editorial aesthetic.",
     "title": "Copper-Red Hair Window Portrait",
@@ -18,17 +85,6 @@
       "https://cms-assets.youmind.com/media/1787293540164_et246n_HQOQyl5bQAA_--T.jpg",
       "https://cms-assets.youmind.com/media/1787293541445_vqwj3f_HQOQ1PmbMAAcR2U.jpg",
       "https://cms-assets.youmind.com/media/1787293540095_rgdbug_HQOQ2Q-bQAAMx0q.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 32105,
-    "content": "A cinematic, grainy close-up portrait of a {argument name=\"subject\" default=\"young woman\"}.\n\nShe is standing in a {argument name=\"location\" default=\"summer cottage garden near trees laden with large red cherries\"}. She holds a large enamel basin filled with red cherries against her hip with one hand, while the other hand holds a cherry-laden branch up to her mouth.\n\nShe is wearing a {argument name=\"clothing\" default=\"form-fitting pink romper with thin straps and a small cherry print\"}.\n\nShe wears a white lace headscarf.\n\nHer very long, wavy hair is worn loose, with a few strands framing her face.\n\nDaylight with a moody, shadowed quality.",
-    "title": "Cinematic Summer Garden Portrait",
-    "description": "A moody, cinematic portrait prompt of a woman in a cottage garden surrounded by cherries, captured with a grainy film aesthetic.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787293549460_3bimjw_HQJWUMsbMAABRat.jpg",
-      "https://cms-assets.youmind.com/media/1787293549685_yzostj_HQJXKVIbEAAzq9l.jpg"
     ],
     "needReferenceImages": false
   },
