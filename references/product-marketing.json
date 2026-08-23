@@ -21,6 +21,48 @@
     "needReferenceImages": true
   },
   {
+    "id": 32322,
+    "content": "A high-quality professional product photograph of three premium loaded beef tacos arranged neatly on a dark ceramic plate, centered against a warm terracotta-orange seamless studio background. Each taco features a crisp golden corn shell filled with juicy seasoned grilled beef, melted cheddar cheese, fresh shredded lettuce, diced tomatoes, purple onions, jalapeño slices, and creamy lime sauce. The beef has realistic grilled texture and subtle char marks, while the vegetables appear fresh and vibrant with natural moisture. Soft cinematic studio lighting creates rich highlights and subtle shadows beneath the plate. Ultra-sharp focus, DSLR macro food photography, premium Mexican fast-food advertisement style, hyper realistic, clean commercial composition, 8K. Aspect Ratio: 1:1 Create a hyper-realistic exploded vertical infographic composition of a premium loaded beef taco. Top → Bottom structure: Fresh Cilantro Garnish → Lime Crema → Jalapeño Slices → Diced Tomato & Onion → Shredded Lettuce → Melted Cheddar Cheese → Seasoned Grilled Beef → Crispy Corn Shell Every element must be perfectly centered, evenly spaced, and aligned vertically. Show realistic grilled beef texture, melted cheese, crisp vegetables, fresh herbs, creamy sauce, and a detailed crunchy corn shell. Use a warm terracotta-orange seamless studio background, soft commercial lighting, subtle realistic shadows beneath every floating element, ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, hyper realistic, 8K. Add clean minimalist infographic text labels with thin pointer lines using these exact labels: \"Cilantro\" \"Lime Crema\" \"Jalapeños\" \"Tomato & Onion\" \"Lettuce\" \"Cheddar Cheese\" \"Grilled Beef\" \"Corn Shell\" Aspect Ratio: 1:1 The tacos start to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, appetizing, and controlled with no extra effects.",
+    "title": "Professional Beef Taco Product Photography",
+    "description": "A high-end food photography prompt designed to create appetizing commercial visuals of loaded beef tacos with cinematic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466537773_lhlib8_HQVoTC-a0AAbNyI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32325,
+    "content": "A cinematic shot with a film-grain effect. This is an extreme close-up portrait of a {argument name=\"subject description\" default=\"woman, focusing on her eyes and lips\"}. She gazes directly into the camera with a confident look. Her eyes stand out thanks to bold eyeliner—a fine black line that smoothly flares out. She wears a soft matte brown shade on her lips, and freckles are visible on her face and shoulders. {argument name=\"lighting\" default=\"Sunlight falls from one side, casting soft shadows that highlight the contours of her face\"}. She is lying amidst {argument name=\"flower type\" default=\"sunflowers\"}; the flowers partially overlap her face, and there is an abundance of them surrounding her. She holds a sunflower against her cheek with her hand, her lips slightly parted. Her skin is highlighted. Her hair is voluminous, long, and glossy.",
+    "title": "Sunflowers and Cinematic Eye-Lip Portrait",
+    "description": "A cinematic close-up portrait prompt focusing on eyes and lips, featuring a subject lying among sunflowers with a film-grain aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466539172_g91rbd_HQOYhO9aMAAPFNs.jpg",
+      "https://cms-assets.youmind.com/media/1787466539187_f2u87b_HQOYy2jaMAEM270.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32319,
+    "content": "A medium close-up, waist-up portrait of an {argument name=\"subject\" default=\"adult Mediterranean male\"} with warm bronze skin and short stubble, exuding a confident, guarded coolness as he stands with his chest facing the camera and his head turned forty-five degrees to the right. He wears an {argument name=\"clothing\" default=\"off-white, wrinkly linen shirt\"}, deeply unbuttoned to create a natural V-neckline revealing a thin gold chain, paired with clear transparent frame sunglasses featuring dark lenses that obscure his gaze. His dark brown hair is styled with two to three inches of volume on top and tapered sides, treated with a slightly wet, glossy product to define thick natural waves and uneven curls, complete with natural flyaways and loose strands falling gently across his forehead. His posture is relaxed and centered, arms resting naturally out of view, as his level shoulders lean slightly back against a weathered historic structure. The softly out-of-focus background reveals a {argument name=\"background\" default=\"warm, light beige raw-cut limestone environment\"}, featuring a massive, rough-pitted carved stone pillar base dominating the right midground and a historic weathered stone building facade receding on the left. A bright, single-source direct hard sunlight beams from the front-top-left at a forty-five-degree angle, bathing the scene in a sun-drenched, elegant European summer warmth. This highly directional light casts harsh, deep black shadows from his sunglasses onto his cheek, from his collar onto his chest, beneath his jawline, and inside the depths of his hair curls, while striking specular highlights are preserved on his forehead, the tip of his nose, cheekbones, collarbone, and the peaks of his curls. Captured as a high-end editorial digital photograph straight on at eye level using an 85mm lens at f/2.8, the image boasts a shallow depth of field that keeps the subject tack sharp, flawlessly resolving the organic linen weave and fine skin pores while isolating him from the architecture, enhanced by a warm golden color grade and high contrast curve, framed in a 2:3 aspect ratio.",
+    "title": "Mediterranean Male Sun-Drenched Portrait",
+    "description": "An editorial-style photograph of a Mediterranean man in a linen shirt, featuring high contrast shadows and an elegant European summer vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466534491_ydondn_HQUb3Q0W8AAvHcE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32321,
+    "content": "Create a photorealistic outdoor lifestyle portrait of a young woman with fair, warm-toned skin, light-colored eyes, and {argument name=\"hair style\" default=\"long blonde hair styled in a loose, slightly tousled ponytail\"} with soft strands framing her face. She has natural facial features, subtle makeup, softly defined eyebrows, and a calm, confident expression while gazing slightly past the camera. She is standing upright on a {argument name=\"location\" default=\"spacious residential balcony\"}, facing the camera with a relaxed posture, both arms extended naturally to rest lightly on the decorative railing, and one foot positioned slightly ahead of the other for a casual, balanced stance. She is wearing an elegant {argument name=\"outfit\" default=\"deep burgundy-red outfit\"} with a sleek, structured silhouette, broad shoulder straps, and clean minimalist detailing. The fabric has a subtle smooth texture with realistic folds and highlights. Keep the styling sophisticated and contemporary, with minimal accessories and a small understated tattoo on the forearm. The setting is a beautiful upscale residential neighborhood viewed from a tiled balcony, featuring manicured lawns, mature green trees, paved walkways, elegant detached homes, rooftops, and distant suburban details. The balcony has warm wood-look floor tiles, a black decorative metal railing with circular motifs, and potted greenery near the edges. Capture a peaceful golden-hour atmosphere with warm sunlight coming from behind and slightly to the side of the subject, creating a soft golden rim light around her hair and shoulders while maintaining gentle facial illumination and realistic shadows. The sky should have a warm pale-gold gradient with subtle evening haze. Photographed with an 85mm lens, natural perspective, shallow depth of field, crisp focus on the face and eyes, realistic background separation, detailed individual hair strands, authentic skin texture, accurate fabric texture, realistic hands and feet, balanced exposure, soft highlight rolloff, cinematic warm color grading, subtle filmic contrast, high dynamic range, professional outdoor editorial photography, photorealistic detail, natural color reproduction, vertical composition, elegant candid lifestyle aesthetic.",
+    "title": "Outdoor Lifestyle Balcony Portrait",
+    "description": "A photorealistic lifestyle portrait prompt of a young woman in a burgundy outfit on a residential balcony during golden hour, emphasizing natural skin textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466535861_p2q93s_HQSuhmEaQAAs7Ur.jpg",
+      "https://cms-assets.youmind.com/media/1787466535847_8eqgj4_HQSuliKbIAArERB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32200,
     "content": "Elegant {argument name=\"color\" default=\"Black\"} {argument name=\"material\" default=\"Organza\"} Ribbon",
     "title": "Elegant Black Organza Ribbon",

@@ -10,12 +10,35 @@
     "needReferenceImages": false
   },
   {
-    "id": 32189,
-    "content": "Stylish young woman with elegant makeup standing confidently in front of a dark wood door with decorative glass panels. She is wearing a loose {argument name=\"sweater color\" default=\"red\"} ribbed sweater and matching {argument name=\"trousers color\" default=\"red\"} trousers. She holds a festive bouquet of {argument name=\"plant type\" default=\"pine branches\"} decorated with bright red berries, wrapped in brown paper. Her left hand is casually extended, leaning against the door frame. Eye-level camera, medium shot, emphasizing a confident pose and festive style. The background features a slightly blurred reflection in the glass panel, hinting at an elegant cityscape. Soft, flattering lighting creates a festive yet sophisticated atmosphere with warm tones. Shot on phone, shallow depth of field, high resolution, amateur photography style, festive aesthetic, high quality.",
-    "title": "Festive Fashion Portrait with Red Sweater",
-    "description": "A descriptive prompt for generating a stylish woman in a red ribbed sweater holding a pine bouquet, featuring soft lighting and a sophisticated festive atmosphere.",
+    "id": 32324,
+    "content": "A realistic selfie of a {argument name=\"subject ethnicity\" default=\"young Southeast Asian girl (Indonesian appearance)\"} with fair skin, soft facial features, and a calm, slightly pouty expression. She has long, straight black hair with slight waves, partially covering one side of her face. Her right hand is raised, fingers gently running through her hair near the top of her head. She is looking directly at the camera with soft brown eyes and light natural makeup. She is wearing a {argument name=\"clothing item\" default=\"light brown Pramuka (Indonesian Scout) uniform shirt\"} with a pointed collar. Around her neck is a red-and-white striped neckerchief secured with a brown leather woggle. The photo is taken indoors in a {argument name=\"room setting\" default=\"bedroom with a textured soft pink wall\"}. Soft natural lighting, slightly warm tone, casual and intimate selfie angle, high detail, photorealistic.",
+    "title": "Indonesian Scout Uniform Realistic Selfie",
+    "description": "A realistic selfie prompt of a young Southeast Asian girl in a traditional Indonesian Scout (Pramuka) uniform, featuring detailed clothing and natural bedroom lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787379853343_7gpg2u_HQOW3ldakAAZG_u.jpg"
+      "https://cms-assets.youmind.com/media/1787466537811_7dz3pn_HQEhq2XakAA1kPU.jpg",
+      "https://cms-assets.youmind.com/media/1787466537811_qn3s1a_HQEhq2WbUAEh5mr.jpg",
+      "https://cms-assets.youmind.com/media/1787466537809_s1nafy_HQEhq2SaUAAjy1A.jpg",
+      "https://cms-assets.youmind.com/media/1787466538988_9rdupg_HQEhq2SaAAA6zZI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32323,
+    "content": "A dramatic black-and-white studio portrait of a {argument name=\"subject description\" default=\"young man wearing a plain black t-shirt and glasses\"}, seated on a chair, posing confidently. {argument name=\"background\" default=\"Dark minimalist background\"}, {argument name=\"lighting\" default=\"cinematic lighting with strong shadows\"}, high contrast, sharp details, professional photography style, moody atmosphere.",
+    "title": "Cinematic Male Studio Portrait",
+    "description": "A dramatic black-and-white studio portrait prompt for a young man, focusing on high contrast lighting and professional photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466538021_lydbtk_HQUgxs4WsAAiCwi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32189,
+    "content": "Stylish young woman with elegant makeup standing confidently in front of a {argument name=\"door type\" default=\"dark wood door with decorative glass panels\"}. She is wearing a {argument name=\"sweater style\" default=\"loose red ribbed sweater\"} and matching red trousers. She holds a {argument name=\"item held\" default=\"festive bouquet of pine branches decorated with bright red berries\"}, wrapped in brown paper. Her left hand is casually extended, leaning against the door frame. Eye-level camera, medium shot, emphasizing a confident pose and festive style. The background features a slightly blurred reflection in the glass panel, hinting at an elegant cityscape. Soft, flattering lighting creates a festive yet sophisticated atmosphere with warm tones. Shot on phone, shallow depth of field, high resolution, amateur photography style, festive aesthetic, high quality.",
+    "title": "Woman in Festive Red Sweater Portrait",
+    "description": "A high-resolution editorial-style photo of a stylish woman in a red sweater holding pine branches, capturing a sophisticated festive atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466532934_jcaflg_HQOW3ldakAAZG_u.jpg"
     ],
     "needReferenceImages": false
   },
@@ -31,16 +54,26 @@
   },
   {
     "id": 32195,
-    "content": "ar 9:16\n\nA realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman in her early 20s\"}, taken from a slightly high angle. She has soft, fair skin with a natural dewy glow, subtle rosy blush on her cheeks, light makeup with defined eyes, soft pink lips in a gentle neutral expression, and a few strands of hair falling across her face. Her dark brown hair is medium-length, slightly wavy and tousled, with soft bangs partially covering her forehead and one eye. She is looking directly at the camera with a calm, soft gaze.\n\nShe is wearing a {argument name=\"clothing\" default=\"maroon/burgundy ribbed knit cardigan\"} that is open and loosely tied at the front with a small bow, layered over a white t-shirt featuring a large red heart graphic and partial black lettering (“I ♥” visible). A delicate silver necklace with a small key-shaped pendant rests against her collarbone.\n\nThe background shows a {argument name=\"vehicle\" default=\"bright blue vintage-style van or minibus\"} with a partial orange-and-blue logo/sticker visible on the side, set in an outdoor daytime environment with soft natural lighting. The overall aesthetic is casual, trendy, and soft-focus with natural skin texture and realistic lighting. High detail, photorealistic style.",
-    "title": "Casual Vintage Van Selfie",
-    "description": "A photorealistic selfie prompt featuring a casual aesthetic, soft lighting, and a trendy vintage vehicle background.",
+    "content": "A realistic close-up selfie of a {argument name=\"subject\" default=\"young East Asian woman in her early 20s\"}, taken from a slightly high angle. She has soft, fair skin with a natural dewy glow, subtle rosy blush on her cheeks, light makeup with defined eyes, soft pink lips in a gentle neutral expression, and a few strands of hair falling across her face. Her {argument name=\"hair color\" default=\"dark brown\"} hair is medium-length, slightly wavy and tousled, with soft bangs partially covering her forehead and one eye. She is looking directly at the camera with a calm, soft gaze. She is wearing a {argument name=\"clothing\" default=\"maroon/burgundy ribbed knit cardigan\"} that is open and loosely tied at the front with a small bow, layered over a white t-shirt featuring a large red heart graphic and partial black lettering (“I ♥” visible). A delicate silver necklace with a small key-shaped pendant rests against her collarbone. The background shows a bright blue vintage-style van or minibus with a partial orange-and-blue logo/sticker visible on the side, set in an outdoor daytime environment with soft natural lighting. The overall aesthetic is casual, trendy, and soft-focus with natural skin texture and realistic lighting. High detail, photorealistic style.",
+    "title": "East Asian Woman Realistic Selfie",
+    "description": "A photorealistic high-angle selfie of a young East Asian woman with a natural glow, set against a vintage blue van.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787379857317_w05lum_HQD3IFJagAAJ2cU.jpg",
-      "https://cms-assets.youmind.com/media/1787379857313_0sp2lo_HQD3IFGaMAAPuKF.jpg",
-      "https://cms-assets.youmind.com/media/1787379857308_z0gftl_HQD3IFXaAAEc8ja.jpg",
-      "https://cms-assets.youmind.com/media/1787379858216_atx66j_HQD3IFVbsAAMMdH.jpg"
+      "https://cms-assets.youmind.com/media/1787466534325_c83xua_HQD3IFJagAAJ2cU.jpg",
+      "https://cms-assets.youmind.com/media/1787466534311_dyl20p_HQD3IFGaMAAPuKF.jpg",
+      "https://cms-assets.youmind.com/media/1787466532894_pmtrwg_HQD3IFXaAAEc8ja.jpg",
+      "https://cms-assets.youmind.com/media/1787466533877_mc7rrr_HQD3IFVbsAAMMdH.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 32192,
+    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. Use my pic face The image depicts a {argument name=\"subject\" default=\"young man with dark, same hair\"} sitting confidently at an {argument name=\"setting\" default=\"outdoor dining area\"} during nighttime and catch the drink glass in one hand. He is dressed in a black kurta pajama with stylish shoes pishwari and with a calm and composed expression on his face. Behind him, there are several other people seated at tables, engaging in conversations and enjoying their evening. The setting features decorative lighting, including two prominent, warm-toned pendant lights hanging from the ceiling, and a blue accent lighting illuminating the background. There are lush plants and foliage along a railing, with hanging flower decorations contributing to a cozy, stylish ambiance. In the background, some people are dressed in traditional or formal attire, and there is a hookah being used, indicating a social, leisure atmosphere. The flooring consists of patterned tiles, adding to the aesthetic appeal of the venue.",
+    "title": "Outdoor Night Dining Identity Preservation",
+    "description": "A prompt for generating a stylish night scene at an outdoor restaurant while preserving the facial identity of an uploaded reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466535713_8ry479_HQSd5hEaMAAH0qQ.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32197,

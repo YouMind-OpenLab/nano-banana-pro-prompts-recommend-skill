@@ -1,5 +1,15 @@
 [
   {
+    "id": 32318,
+    "content": "A full-body stylized 3D cartoon girl with {argument name=\"eye color\" default=\"large sparkling emerald-green\"} eyes, soft rosy cheeks, a gentle smile, and an innocent expression. She has {argument name=\"hair style\" default=\"messy platinum-blonde hair tied in a voluminous bun\"} with loose strands framing her face. She is sitting on a small stone stool with both hands supporting her cheeks in a cute, dreamy pose. She wears an {argument name=\"outfit\" default=\"off-shoulder light gray top, loose white harem pants with a rustic fabric belt\"}, and is barefoot with delicate ankle wraps. A small blue butterfly rests near her feet, with a white flower on the ground. Soft studio background, cinematic lighting, highly detailed stylized 3D rendering, painterly textures, smooth skin shading, whimsical fantasy atmosphere, premium animated feature film quality.",
+    "title": "3D Stylized Cartoon Girl on Stone Stool",
+    "description": "A detailed 3D stylized rendering of a cartoon girl with emerald eyes and platinum-blonde hair, sitting in a dreamy pose on a stone stool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787466532881_16qv2a_HQV3iYCbUAA0jWx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32194,
     "content": "{argument name=\"group\" default=\"a left party\"} from {argument name=\"country\" default=\"iran\"} {argument name=\"decade\" default=\"70s\"} in tehran , like a communism man",
     "title": "70s Iran Political Group Portrait",
