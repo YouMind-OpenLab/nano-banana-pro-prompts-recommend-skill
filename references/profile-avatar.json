@@ -10,6 +10,56 @@
     "needReferenceImages": false
   },
   {
+    "id": 32408,
+    "content": "A close-up portrait of {argument name=\"subject\" default=\"a young East Asian woman with fair skin, soft natural makeup featuring subtle pink blush on the cheeks, defined eyelashes, and glossy light pink lips\"}. She has straight shoulder-length black hair with soft bangs framing her forehead. Two thin braids run along the sides of her head, one of them adorned with a small clear or white bead/clip. She is wearing large rectangular transparent/clear-frame glasses with a slight warm beige or champagne tint.\\n\\nHer right hand is raised near the right side of her face, with the index finger gently resting against her temple/glasses frame in a casual, thoughtful pose. She is wearing {argument name=\"clothing\" default=\"an oversized light blue-gray crewneck sweatshirt with bold, distressed black graphic lettering across the chest that partially reads “SUPP LIE”\"}.\\n\\n{argument name=\"background\" default=\"The background is a plain neutral gray concrete wall with subtle texture and a few soft white speckles/particles floating in the air\"}. Soft, even studio lighting with gentle highlights on her face and hair, shallow depth of field, highly detailed skin texture, realistic photography style, vertical portrait composition.",
+    "title": "Streetwear Oversized Sweatshirt Portrait",
+    "description": "A highly detailed studio portrait prompt of a young woman in transparent glasses and an oversized streetwear sweatshirt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787552789771_xvvy4s_HQJk2h7agAAhLZw.jpg",
+      "https://cms-assets.youmind.com/media/1787552789836_9t7miw_HQJk2iraoAA0bcZ.jpg",
+      "https://cms-assets.youmind.com/media/1787552789798_l2e0db_HQJk2jZbkAA8OZH.jpg",
+      "https://cms-assets.youmind.com/media/1787552790651_yw8ftg_HQJk2iXagAAp3zN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32402,
+    "content": "A photorealistic vertical portrait of {argument name=\"subject\" default=\"a young Southeast Asian woman (Indonesian features)\"} standing indoors in front of {argument name=\"background\" default=\"a plain muted gray wall\"}. She wears a smooth light beige hijab wrapped neatly around her head and neck. Her expression is soft and slightly smiling, with gentle eyes looking straight at the camera. She has light natural makeup and clear skin. She is dressed in {argument name=\"outfit\" default=\"a fitted black long-sleeve top and high-waisted light beige trousers\"}. A thin gold metallic chain of a shoulder bag hangs across her body. Soft diffused indoor lighting casts a subtle shadow behind her on the wall. Shallow depth of field, natural skin texture, realistic fabric folds, calm and modest aesthetic, high detail, 4k quality.",
+    "title": "Indonesian Woman Hijab Portrait",
+    "description": "A photorealistic vertical portrait of a Southeast Asian woman wearing a beige hijab and black top against a muted gray wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787552785582_xr3gth_HQJjX9QaUAAL9X7.jpg",
+      "https://cms-assets.youmind.com/media/1787552785355_ovjx08_HQJjX-DboAAU9cX.jpg",
+      "https://cms-assets.youmind.com/media/1787552785892_h15ytn_HQJjX9Ya4AAGLFq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32406,
+    "content": "Close-up portrait of {argument name=\"subject\" default=\"a beautiful young Southeast Asian woman\"}, {argument name=\"hair style\" default=\"long wavy hair with dark roots and honey blonde ash caramel balayage highlights, soft curtain bangs\"}, large dark almond eyes, natural dewy skin, soft coral pink lips, gentle gaze, {argument name=\"lighting\" default=\"warm afternoon window sunlight streaming in, dappled light across face, soft golden glow\"}, loose natural waves with luminous shine, soft blurred indoor background, intimate cozy atmosphere, photorealistic, high detail, soft warm color grading, natural skin texture, dreamy soft lighting, 8K, selfie angle",
+    "title": "Balayage Hair Golden Hour Portrait",
+    "description": "A dreamy close-up portrait prompt of a young woman with multi-tonal balayage hair captured in warm afternoon window sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787552787709_3cyu90_HQEllazasAAgFM-.jpg",
+      "https://cms-assets.youmind.com/media/1787552787798_zk2aqj_HQElla6aMAAnCFu.jpg",
+      "https://cms-assets.youmind.com/media/1787552787703_ol967w_HQEllbEbYAAsz2i.jpg",
+      "https://cms-assets.youmind.com/media/1787552788649_ddv48p_HQEllbDasAAo2Q3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32401,
+    "content": "Create a photorealistic lifestyle mirror portrait of {argument name=\"subject\" default=\"a young woman with fair skin, natural complexion, dark brown hair pulled back into a relaxed ponytail with subtle loose strands around her face, and softly defined facial features. She has a warm, genuine smile and is looking toward the smartphone screen through the mirror\"}. Her expression feels relaxed, cheerful, and natural. She is standing comfortably in front of a large rounded-edge mirror, holding a smartphone in one hand while extending the other arm slightly outward, creating an authentic casual mirror-selfie composition.\\n\\nShe is wearing {argument name=\"outfit\" default=\"a coordinated light-blue outfit with a black polka-dot pattern: a short-sleeved gathered top with softly puffed sleeves, a central tie detail, and a matching high-waisted skirt with a tied waist detail and a tasteful side opening\"}. The clothing should have realistic fabric texture, natural folds, stitching, and believable draping. Add a delicate minimal bracelet and keep other accessories understated.\\n\\n{argument name=\"setting\" default=\"The scene is a warm, modern bedroom or home studio with a large wooden wardrobe or wall panel behind her, a white digital piano positioned against the wall, a simple wooden chair, a small potted green plant, a framed minimalist artwork, and a small table lamp producing a cozy glow\"}. Include a softly curved mirror frame and subtle reflections throughout the room. Use a combination of gentle natural daylight and warm ambient lamp light, creating soft highlights on the subject and furniture with realistic shadows and a comfortable evening-at-home atmosphere.\\n\\nShot on a high-quality smartphone camera with a natural 35mm-equivalent perspective, realistic mirror reflection, balanced framing, moderate depth of field, authentic indoor exposure, soft cinematic color grading, high dynamic range, detailed skin texture, individual hair strands, accurate hands and fingers, realistic fabric texture, natural proportions, subtle photographic grain, polished lifestyle photography, high detail, photorealistic rendering.",
+    "title": "Polka Dot Outfit Mirror Selfie",
+    "description": "A detailed prompt for generating a photorealistic mirror selfie of a woman wearing a blue and black polka-dot outfit in a modern home studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787552785019_rlg8fy_HQYAXVfb0AA7Jp2.jpg",
+      "https://cms-assets.youmind.com/media/1787552785280_baog97_HQYAaKVacAAIMQo.jpg",
+      "https://cms-assets.youmind.com/media/1787552785063_x0ukgb_HQYAa40boAEjPfr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32324,
     "content": "A realistic selfie of a {argument name=\"subject ethnicity\" default=\"young Southeast Asian girl (Indonesian appearance)\"} with fair skin, soft facial features, and a calm, slightly pouty expression. She has long, straight black hair with slight waves, partially covering one side of her face. Her right hand is raised, fingers gently running through her hair near the top of her head. She is looking directly at the camera with soft brown eyes and light natural makeup. She is wearing a {argument name=\"clothing item\" default=\"light brown Pramuka (Indonesian Scout) uniform shirt\"} with a pointed collar. Around her neck is a red-and-white striped neckerchief secured with a brown leather woggle. The photo is taken indoors in a {argument name=\"room setting\" default=\"bedroom with a textured soft pink wall\"}. Soft natural lighting, slightly warm tone, casual and intimate selfie angle, high detail, photorealistic.",
     "title": "Indonesian Scout Uniform Realistic Selfie",

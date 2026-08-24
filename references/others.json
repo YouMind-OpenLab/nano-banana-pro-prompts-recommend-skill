@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 32413,
+    "content": "Replace the magenta region with an object matching the size/shape/lighting of nearby {argument name=\"subject\" default=\"subject\"}, but in {argument name=\"color\" default=\"color\"}. Keep everything else unchanged.",
+    "title": "Object Replacement Inpainting Prompt",
+    "description": "A specific inpainting instruction for Nano Banana Pro to replace color-marked regions with new objects that match the original scene's lighting and shape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787552793635_cmwx69_HQbC89_WsAAXS3h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32198,
     "content": "{argument name=\"animal\" default=\"A very fat cat\"} is lounging on a {argument name=\"furniture\" default=\"plush, ornate armchair\"}. The cat is predominantly white with patches of brown and black tabby markings on its head, back, and tail. Its belly is exceptionally large and hangs down. The cat is positioned with its front paws resting on the armrest and its hind legs stretched out. The armchair has a patterned fabric in shades of brown and gold. In the background, a framed painting with a landscape scene is visible. The overall style of the image is reminiscent of a {argument name=\"style\" default=\"classical painting\"}.",
     "title": "Classical Fat Cat Painting",
