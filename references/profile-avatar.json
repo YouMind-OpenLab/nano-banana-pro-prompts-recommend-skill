@@ -10,15 +10,40 @@
     "needReferenceImages": false
   },
   {
-    "id": 32408,
-    "content": "A close-up portrait of {argument name=\"subject\" default=\"a young East Asian woman with fair skin, soft natural makeup featuring subtle pink blush on the cheeks, defined eyelashes, and glossy light pink lips\"}. She has straight shoulder-length black hair with soft bangs framing her forehead. Two thin braids run along the sides of her head, one of them adorned with a small clear or white bead/clip. She is wearing large rectangular transparent/clear-frame glasses with a slight warm beige or champagne tint.\\n\\nHer right hand is raised near the right side of her face, with the index finger gently resting against her temple/glasses frame in a casual, thoughtful pose. She is wearing {argument name=\"clothing\" default=\"an oversized light blue-gray crewneck sweatshirt with bold, distressed black graphic lettering across the chest that partially reads “SUPP LIE”\"}.\\n\\n{argument name=\"background\" default=\"The background is a plain neutral gray concrete wall with subtle texture and a few soft white speckles/particles floating in the air\"}. Soft, even studio lighting with gentle highlights on her face and hair, shallow depth of field, highly detailed skin texture, realistic photography style, vertical portrait composition.",
-    "title": "Streetwear Oversized Sweatshirt Portrait",
-    "description": "A highly detailed studio portrait prompt of a young woman in transparent glasses and an oversized streetwear sweatshirt.",
+    "id": 32514,
+    "content": "A realistic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} in her early 20s, with soft light brown shoulder-length hair styled with soft bangs and gentle waves framing her face. She is wearing {argument name=\"accessory\" default=\"oversized black rectangular sunglasses\"} with dark gradient lenses and a thick black frame. Her makeup is natural and polished: soft defined eyebrows, subtle blush, and glossy coral-peach lips. She wears small silver double hoop earrings. She is dressed in a fitted black ribbed knit halter top with a high round neckline that leaves her shoulders and upper chest bare. Her pose is a soft selfie-style angle: body slightly turned, one hand resting near her opposite shoulder, looking over her shoulder toward the camera with a calm, confident expression. The background is a {argument name=\"background\" default=\"plain light beige wall\"} with soft natural window light casting distinct geometric window-pane shadows across the wall and her face. Soft directional sunlight creates gentle highlights on her hair, skin, and the texture of the ribbed top. High-detail realistic photography style, natural skin texture, soft bokeh, elegant and modern aesthetic, high resolution.",
+    "title": "Modern Selfie-Style Close-up",
+    "description": "A chic close-up portrait prompt of an East Asian woman in a halter top and sunglasses, featuring geometric window shadows.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787552789771_xvvy4s_HQJk2h7agAAhLZw.jpg",
-      "https://cms-assets.youmind.com/media/1787552789836_9t7miw_HQJk2iraoAA0bcZ.jpg",
-      "https://cms-assets.youmind.com/media/1787552789798_l2e0db_HQJk2jZbkAA8OZH.jpg",
-      "https://cms-assets.youmind.com/media/1787552790651_yw8ftg_HQJk2iXagAAp3zN.jpg"
+      "https://cms-assets.youmind.com/media/1787639844370_ux2pwq_HQTuADcbMAANZqm.jpg",
+      "https://cms-assets.youmind.com/media/1787639844366_orx32q_HQTuAF4bAAA343V.jpg",
+      "https://cms-assets.youmind.com/media/1787639844473_d371tu_HQTuADTacAA_Xc8.jpg",
+      "https://cms-assets.youmind.com/media/1787639846726_e1n4kw_HQTuAEabgAAaye9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32505,
+    "content": "Create a photorealistic urban portrait of a young woman taking a casual selfie outdoors on a city sidewalk during the evening. She has {argument name=\"hair\" default=\"long dark brown hair\"} styled in a loose ponytail with soft natural strands around her face. Her complexion is warm and natural with realistic skin texture, subtle facial details, and soft highlights from nearby street lighting. She has expressive eyes, neatly shaped eyebrows, and a gentle confident smile with a relaxed and friendly expression. Her head is slightly tilted toward the camera, creating an authentic candid selfie composition.\n\nThe subject is standing on a city street with one arm extended naturally toward the camera as if capturing a selfie. Her posture is relaxed and confident, with a natural stance and realistic body proportions. Maintain accurate anatomy, natural hands, and an everyday lifestyle photography feel.\n\nShe is wearing a {argument name=\"outfit\" default=\"fitted superhero-inspired red and blue full-body athletic suit\"} with a textured fabric pattern, subtle web-like surface details, and a stylized spider emblem on the front area. The costume should appear as a fictional fantasy outfit with realistic stitching, fabric texture, and professional costume design. Add minimal accessories and keep the overall appearance clean, modern, and polished.\n\nThe {argument name=\"environment\" default=\"environment is a lively urban neighborhood street\"} with sidewalks, parked cars, trees, apartment buildings, storefront walls, and warm street lamps in the background. The scene should feel like a real city evening with natural surroundings and realistic architectural details. Include soft reflections from nearby lights and a slightly blurred background to emphasize the subject.\n\nUse warm evening lighting with a mix of fading natural twilight and golden street illumination. Create soft highlights on the face and costume, gentle shadows for depth, and realistic ambient city light. The background should have subtle bokeh from streetlights and distant buildings while maintaining a believable outdoor atmosphere.\n\nPhotograph the scene with an 85mm portrait lens at approximately f/1.8, using a close selfie-style perspective with natural depth of field. Keep the subject's face and eyes sharply focused while allowing the background to softly blur. Use realistic camera optics, detailed hair strands, natural skin texture, accurate fabric rendering, high dynamic range, and professional editorial photography quality. Apply a cinematic color grade with balanced reds and blues, warm skin tones, soft contrast, realistic saturation, and smooth highlight transitions. The final image should look like a high-quality cinematic street portrait with authentic lighting, realistic detail, and a natural photographic style",
+    "title": "Urban Selfie Superhero Fashion",
+    "description": "A unique urban portrait prompt combining the casual aesthetic of a selfie with stylized superhero costume elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787639837487_jia6kq_HQfgmkgaAAAioOD.jpg",
+      "https://cms-assets.youmind.com/media/1787639837507_vzzavj_HQfgn0iawAAuFJp.jpg",
+      "https://cms-assets.youmind.com/media/1787639837503_l6dhkb_HQfgozSaQAEptUM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32408,
+    "content": "A close-up portrait of a {argument name=\"ethnicity\" default=\"young East Asian woman\"} with fair skin, soft natural makeup featuring subtle pink blush on the cheeks, defined eyelashes, and glossy light pink lips. She has straight shoulder-length black hair with soft bangs framing her forehead. Two thin braids run along the sides of her head, one of them adorned with a small clear or white bead/clip. She is wearing large {argument name=\"glasses style\" default=\"rectangular transparent/clear-frame glasses\"} with a slight warm beige or champagne tint.\n\nHer right hand is raised near the right side of her face, with the index finger gently resting against her temple/glasses frame in a casual, thoughtful pose. She is wearing an oversized {argument name=\"clothing\" default=\"light blue-gray crewneck sweatshirt\"} with bold, distressed black graphic lettering across the chest that partially reads “SUPP LIE” (or similar streetwear-style text).\n\nThe background is a plain neutral gray concrete wall with subtle texture and a few soft white speckles/particles floating in the air. Soft, even studio lighting with gentle highlights on her face and hair, shallow depth of field, highly detailed skin texture, realistic photography style, vertical portrait composition.",
+    "title": "Casual Streetwear Studio Portrait",
+    "description": "A highly detailed close-up portrait prompt featuring a young woman in streetwear with transparent glasses and distinct accessory details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787639835925_sn16aq_HQJk2h7agAAhLZw.jpg",
+      "https://cms-assets.youmind.com/media/1787639835293_iiz36q_HQJk2iraoAA0bcZ.jpg",
+      "https://cms-assets.youmind.com/media/1787639835953_a88dlk_HQJk2jZbkAA8OZH.jpg",
+      "https://cms-assets.youmind.com/media/1787639836210_wjleib_HQJk2iXagAAp3zN.jpg"
     ],
     "needReferenceImages": false
   },
