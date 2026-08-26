@@ -21,26 +21,37 @@
     "needReferenceImages": true
   },
   {
-    "id": 32509,
-    "content": "Create a photorealistic {argument name=\"car model\" default=\"prototype Tesla\"} designed exclusively for {argument name=\"vehicle type\" default=\"single-occupancy autonomous driving\"}. Extremely compact one-person cabin, no steering wheel or pedals, centered reclining driver seat, futuristic glass canopy, minimalist aerodynamic body, enclosed wheels, and subtle Tesla design language. Make it look like a real experimental concept vehicle photographed at a {argument name=\"location\" default=\"Tesla engineering facility\"}, not sci-fi fantasy. Ultra-realistic materials, believable engineering, cinematic automotive photography.",
-    "title": "Autonomous Concept Car Prototype",
-    "description": "A technical and realistic prompt for a futuristic Tesla concept vehicle, focused on believable engineering and automotive photography.",
+    "id": 32579,
+    "content": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
+    "title": "Olive Green Cinematic Editorial Transformation",
+    "description": "Transforms a reference photo into a high-end cinematic fashion portrait with olive-green tones and professional editorial lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787639841032_b0vib2_HQitOt1akAAOSdi.jpg",
-      "https://cms-assets.youmind.com/media/1787639841120_3k5545_HQitOt1aoAAwMEv.jpg",
-      "https://cms-assets.youmind.com/media/1787639841056_biate3_HQitOtzaIAE2EhQ.jpg",
-      "https://cms-assets.youmind.com/media/1787639842229_h71sa6_HQitOtzaUAAiMrg.jpg"
+      "https://cms-assets.youmind.com/media/1787725583769_xmybzb_HQmCD-zb0AAXzFL.jpg",
+      "https://cms-assets.youmind.com/media/1787725583858_39fg17_HQmCJAdacAAh6ZM.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
-    "id": 32507,
-    "content": "{\n  \"subject\": \"{argument name=\"subject\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\",\n  \"outfit\": {\n    \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\",\n    \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\",\n    \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\",\n    \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\",\n    \"props\": \"A slim crystal champagne flute held loosely in one hand\"\n  },\n  \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\",\n  \"setting\": \"{argument name=\"setting\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath. Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\"}\",\n  \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\",\n  \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\"\n}",
-    "title": "1980s Cobalt Blue Cocktail Dress",
-    "description": "A highly detailed studio portrait prompt for a woman in an 80s-inspired metallic cobalt blue cocktail dress, featuring specific camera angles and 35mm flash lighting.",
+    "id": 32582,
+    "content": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
+    "title": "Premium Beverage Advertising Photography",
+    "description": "A professional advertising photography prompt designed to create a photorealistic hero shot for a beverage brand, incorporating character and product references.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787639839609_i0s3is_HQgC8DlXUAA3Gqu.jpg",
-      "https://cms-assets.youmind.com/media/1787639839849_ko74ry_HQgDDbFXEAAD3Vc.jpg"
+      "https://cms-assets.youmind.com/media/1787725587170_ybmfk7_HQkQQPWXQAEWzlh.jpg",
+      "https://cms-assets.youmind.com/media/1787725586482_xe4ag2_HQkQR8NWoAAhzRJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32509,
+    "content": "Create a photorealistic prototype {argument name=\"brand\" default=\"Tesla\"} designed exclusively for {argument name=\"occupancy\" default=\"single-occupancy\"} autonomous driving. Extremely compact one-person cabin, no steering wheel or pedals, centered reclining driver seat, {argument name=\"feature\" default=\"futuristic glass canopy\"}, minimalist aerodynamic body, enclosed wheels, and subtle Tesla design language. Make it look like a real experimental concept vehicle photographed at a Tesla engineering facility, not sci-fi fantasy. Ultra-realistic materials, believable engineering, cinematic automotive photography.",
+    "title": "Photorealistic Tesla Autonomous Prototype",
+    "description": "A detailed automotive prompt for a single-occupancy Tesla prototype concept vehicle in an engineering facility.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787725585732_6qf7w9_HQitOt1akAAOSdi.jpg",
+      "https://cms-assets.youmind.com/media/1787725586239_8szp1c_HQitOt1aoAAwMEv.jpg",
+      "https://cms-assets.youmind.com/media/1787725585797_urnfwa_HQitOtzaIAE2EhQ.jpg",
+      "https://cms-assets.youmind.com/media/1787725586594_1hchy5_HQitOtzaUAAiMrg.jpg"
     ],
     "needReferenceImages": false
   },

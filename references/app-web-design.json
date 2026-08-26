@@ -1,18 +1,5 @@
 [
   {
-    "id": 32509,
-    "content": "Create a photorealistic {argument name=\"car model\" default=\"prototype Tesla\"} designed exclusively for {argument name=\"vehicle type\" default=\"single-occupancy autonomous driving\"}. Extremely compact one-person cabin, no steering wheel or pedals, centered reclining driver seat, futuristic glass canopy, minimalist aerodynamic body, enclosed wheels, and subtle Tesla design language. Make it look like a real experimental concept vehicle photographed at a {argument name=\"location\" default=\"Tesla engineering facility\"}, not sci-fi fantasy. Ultra-realistic materials, believable engineering, cinematic automotive photography.",
-    "title": "Autonomous Concept Car Prototype",
-    "description": "A technical and realistic prompt for a futuristic Tesla concept vehicle, focused on believable engineering and automotive photography.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787639841032_b0vib2_HQitOt1akAAOSdi.jpg",
-      "https://cms-assets.youmind.com/media/1787639841120_3k5545_HQitOt1aoAAwMEv.jpg",
-      "https://cms-assets.youmind.com/media/1787639841056_biate3_HQitOtzaIAE2EhQ.jpg",
-      "https://cms-assets.youmind.com/media/1787639842229_h71sa6_HQitOtzaUAAiMrg.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 32503,
     "content": "{\n  \"image_generation_prompt\": {\n    \"shot_type\": \"exterior shot, photo\",\n    \"subject\": \"{argument name=\"subject\" default=\"A luxurious retrofuturistic train\"}\",\n    \"color_palette\": [\n      \"{argument name=\"primary color\" default=\"pastel pink\"}\",\n      \"{argument name=\"secondary color\" default=\"mint green\"}\"\n    ],\n    \"interior_design\": {\n      \"style\": \"Zaha Hadid\",\n      \"elements\": \"filled with flowers\",\n      \"features\": \"large windows\"\n    },\n    \"setting\": \"{argument name=\"environment\" default=\"overlooking Paris during cherry blossom season\"}\",\n    \"focus\": \"train exterior\",\n    \"parameters\": {\n      \"aspect_ratio\": \"9:16\",\n      \"version\": 7\n    }\n  }\n}",
     "title": "Luxurious Retrofuturistic Train Exterior",

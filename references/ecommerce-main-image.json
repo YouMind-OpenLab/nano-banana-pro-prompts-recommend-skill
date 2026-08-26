@@ -1,5 +1,16 @@
 [
   {
+    "id": 32582,
+    "content": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
+    "title": "Premium Beverage Advertising Photography",
+    "description": "A professional advertising photography prompt designed to create a photorealistic hero shot for a beverage brand, incorporating character and product references.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787725587170_ybmfk7_HQkQQPWXQAEWzlh.jpg",
+      "https://cms-assets.youmind.com/media/1787725586482_xe4ag2_HQkQR8NWoAAhzRJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32200,
     "content": "Elegant {argument name=\"color\" default=\"Black\"} {argument name=\"material\" default=\"Organza\"} Ribbon",
     "title": "Elegant Black Organza Ribbon",
