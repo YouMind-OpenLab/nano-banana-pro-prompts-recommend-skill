@@ -10,6 +10,75 @@
     "needReferenceImages": false
   },
   {
+    "id": 32664,
+    "content": "A close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman with fair, smooth skin and soft natural makeup, looking directly at the camera with a calm, slightly pouty neutral expression. She has dark brown/black hair styled in a messy half-up half-down look: the top section is loosely twisted into a high messy bun/updo with loose strands and face-framing tendrils falling around her forehead and cheeks. She wears stylish black-and-silver browline glasses (thick black upper frames, thin metallic lower rims). Soft pink lips, defined but natural eyebrows, and subtle eye makeup. She is wearing a {argument name=\"clothing\" default=\"black off-the-shoulder top\"} that exposes her collarbones and shoulders, paired with a delicate thin gold chain necklace featuring a small five-pointed star pendant resting at the center of her chest. The lighting is soft and atmospheric: strong cool purple/magenta ambient LED lighting washes over the right side of her face, neck, and shoulders, creating a gentle glow and subtle color cast on her skin, while a warm yellow lamp light from the left provides contrast. The background is a {argument name=\"room style\" default=\"cozy bedroom wall densely covered in a collage of small photos and posters\"} (including a prominent BTS group poster), with a glowing table lamp visible on the left, a soft stuffed animal, and part of a bed with gray bedding. Soft bokeh and dreamy atmosphere, photorealistic, high detail, sharp focus on the face, shallow depth of field, vertical portrait composition, aesthetic K-pop fan room vibe, cinematic purple lighting, 8k quality.",
+    "title": "Atmospheric K-pop Fan Room Portrait",
+    "description": "Generates a close-up portrait of a woman with browline glasses in a room lit by cool purple and warm yellow ambient light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824275452_qxzfka_HQeCMfWacAAsUK-.jpg",
+      "https://cms-assets.youmind.com/media/1787824275628_agzj7o_HQeCMeobcAATUT8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32676,
+    "content": "A real {argument name=\"ethnicity\" default=\"East Asian Korean\"} woman with a similar appearance to this anime character. {argument name=\"hair style\" default=\"long black hair\"}, wearing {argument name=\"outfit\" default=\"a black beret, a black lace top, and a black skirt\"}. Realistic photo style, live-action portrait, not anime, not 3D rendering, white background",
+    "title": "Anime Character Humanization",
+    "description": "A prompt for humanizing an anime character into a realistic Korean woman, with specific focus on replicating the character's appearance while specifying realistic textures and attire like a beret and lace top.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824284221_4mi4ga_HQpvjbDbQAA592-.jpg",
+      "https://cms-assets.youmind.com/media/1787824284231_bh70nm_HQpvlF0bkAAcy9p.jpg",
+      "https://cms-assets.youmind.com/media/1787824284217_wn405n_HQpvmv-bYAAvkU7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32674,
+    "content": "A completely natural, photorealistic smartphone photo of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman sitting casually inside a cozy small café or restaurant, photographed spontaneously by a friend using a modern phone camera. She has very long, straight {argument name=\"hair color\" default=\"dark-brown\"} hair with soft wispy bangs, naturally smooth skin, subtle everyday makeup, glossy pink lips, and a relaxed slightly dreamy expression while looking off to the side instead of directly at the camera. She wears a {argument name=\"clothing\" default=\"fitted off-white graphic T-shirt with a blue vintage-style print\"}, loose light-wash baggy jeans, and colorful beaded bracelets on her wrist. She sits casually on a chair with her legs relaxed and her hands resting naturally near her knees, giving the photo an unposed everyday feeling. Behind her are warm wooden shelves filled with assorted bottles, jars, glasses, and small café items, creating a cozy lived-in restaurant atmosphere. Warm indoor ceiling and shelf lighting, realistic mixed exposure, natural shadows, slight smartphone HDR, mild wide-angle perspective, imperfect framing, subtle motion softness, authentic skin pores and fine hair strands, realistic fabric texture, ordinary background details, no studio setup, no cinematic lighting, no beauty filter, no excessive retouching, no artificial sharpness. The final image should look exactly like a real casual phone photograph someone took while sitting in the café, slightly imperfect but highly believable, vertical portrait composition, natural colors, realistic smartphone camera quality.",
+    "title": "Realistic Smartphone Cafe Portrait",
+    "description": "Generates a candid, unposed smartphone photo of a woman sitting in a cozy cafe, focusing on natural lighting and believable imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824282105_6h1dj7_HQpqcCGakAA0dwE.jpg",
+      "https://cms-assets.youmind.com/media/1787824282162_syoid3_HQpqfNYa8AAumB0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32671,
+    "content": "ar 9:16 High A close-up selfie portrait of a young woman with fair skin, soft rounded facial features, large expressive green-hazel eyes with long dark lashes and subtle winged eyeliner, light natural makeup with a soft pink blush on the cheeks, and glossy pink lips slightly parted. She is wearing a smooth, solid dusty-rose / muted maroon hijab that fully covers her hair and frames her face, with the fabric neatly draped over her shoulders and chest. Her right hand is raised near the side of her head, gently holding and adjusting the edge of the hijab with relaxed fingers. She is dressed in a long-sleeved, ribbed, deep red / burgundy top that matches the warm tones of the hijab. Soft, flattering indoor lighting with a gentle glow, subtle pink LED fairy lights visible in the blurred background on the left, floral-patterned wallpaper or curtain behind her, and a beige drape on the right. Shallow depth of field, high detail on the face and fabric texture, natural skin texture, realistic photography style, intimate and calm expression looking directly at the camera. - Core subject: young woman, fair skin, large green-hazel eyes, long lashes, soft pink blush, glossy lips, dusty-rose/maroon hijab, deep red ribbed long-sleeve top, right hand adjusting hijab near temple. - Pose & expression: close-up selfie angle, direct eye contact, neutral-to-soft expression with slightly parted lips, one hand raised to the hijab. - Clothing & fabric: smooth matte hijab fabric with soft folds, ribbed knit texture on the sleeves and bodice, color harmony between hijab (muted rose-maroon) and top (deeper red). - Lighting & atmosphere: soft diffused indoor light + warm pink ambient glow from fairy lights, gentle catchlights in the eyes, realistic skin texture and fabric detail. - Background: slightly out-of-focus floral wallpaper/curtain and beige drape, cozy indoor setting. Intimate close-up portrait of a young woman in a muted maroon hijab and matching deep red knit top, large expressive green eyes looking into the camera, soft natural makeup, one hand delicately holding the edge of her hijab, warm pink ambient lighting and soft bokeh fairy lights, floral patterned background, ultra-realistic skin and fabric texture, shallow depth of field, high detail.",
+    "title": "Muted Maroon Hijab Selfie",
+    "description": "A realistic close-up selfie prompt of a woman wearing a dusty-rose hijab and burgundy top, featuring soft indoor lighting and pink ambient glow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824280165_1ba9ez_HQdT74pbkAAZgG1.jpg",
+      "https://cms-assets.youmind.com/media/1787824280153_xcbqtv_HQdT74qbUAAXSXo.jpg",
+      "https://cms-assets.youmind.com/media/1787824280149_wv5fi9_HQdT747akAAhcLp.jpg",
+      "https://cms-assets.youmind.com/media/1787824280946_vkoage_HQdT74vawAAWnpF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32668,
+    "content": "A close-up portrait of a young {argument name=\"subject\" default=\"East/Southeast Asian woman\"} with fair skin, long dark brown-to-black hair that falls loosely around her shoulders and partially across her face in soft, slightly messy strands. She is winking with her left eye closed while looking at the camera with a soft, playful, slightly coquettish expression and a gentle closed-mouth smile. Her right hand is raised, fingers gently running through the hair on the top of her head.  \n\nShe wears a {argument name=\"outfit\" default=\"simple black spaghetti-strap camisole/top\"} that shows her collarbones and upper chest. A delicate thin silver chain necklace with a small clear teardrop or heart-shaped pendant rests at the base of her neck.  \n\nStrong cinematic {argument name=\"lighting\" default=\"purple and magenta neon lighting\"} bathes the scene, casting soft pink-purple highlights and rim light on her hair, face, and shoulders, creating a moody, intimate atmosphere. The background is a plain indoor wall with soft purple ambient glow, slightly out of focus.  \n\nShot from a slightly high angle in a selfie style, shallow depth of field, realistic skin texture, natural soft makeup with defined eyebrows, subtle eyeliner, and soft pink-coral lips. High detail, photorealistic, soft bokeh, atmospheric lighting.",
+    "title": "Neon Winking Selfie Portrait",
+    "description": "A cinematic, neon-lit selfie prompt featuring a winking woman in a moody, intimate indoor setting with purple and magenta highlights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824278434_jjgpzu_HQdTaFKakAArnKG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32663,
+    "content": "A photorealistic portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman with {argument name=\"hair style\" default=\"long, voluminous, wavy black hair\"} cascading over her shoulders and down her back, soft curtain bangs framing her face. She has fair porcelain skin, delicate features, large expressive brown eyes looking upward and slightly to the side with a soft, dreamy, serene expression, full lips gently pursed as she blows soap bubbles. She is wearing an {argument name=\"clothing\" default=\"elegant white lace blouse\"} with intricate floral lace detailing around the high neckline, cuffs, and front, soft and romantic in style. Her nails are painted a soft pastel blue. In her right hand she holds a white bubble wand close to her mouth, actively blowing a stream of iridescent soap bubbles; her left hand holds a small clear bottle of bubble solution with a gold-colored cap. Dozens of translucent, rainbow-iridescent soap bubbles of varying sizes float all around her — some sharp and close to the camera, others softly blurred in the background — catching the light with vibrant prismatic reflections. Setting: outdoor park on a bright sunny day, soft golden-hour-like natural light filtering through green trees, creating a dreamy bokeh background of lush foliage and circular light orbs. Warm sunlight highlights her hair and the bubbles, with gentle rim lighting. Shallow depth of field, cinematic composition, medium close-up portrait, high detail, soft ethereal atmosphere, whimsical and romantic mood. Style: ultra-realistic photography, sharp focus on the subject’s face and hands, creamy bokeh, natural skin texture, delicate lighting, aesthetic and feminine.",
+    "title": "Dreamy Portrait of Woman Blowing Bubbles",
+    "description": "A highly detailed prompt for creating a whimsical, romantic portrait of a woman blowing iridescent soap bubbles in a sunlit park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787824275384_ydwz3e_HQdTD8aaQAA6osZ.jpg",
+      "https://cms-assets.youmind.com/media/1787824275347_xlkvgx_HQdTD-RbAAAXEN_.jpg",
+      "https://cms-assets.youmind.com/media/1787824275282_fnxqoj_HQdTD8yb0AActev.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32578,
     "content": "A {argument name=\"subject\" default=\"well-dressed handsome male\"} stands perfectly centered in a classic portrait pose, taking a mirror selfie. He maintains a serious, deliberately posed expression with a closed neutral mouth and a direct gaze. His glossy, medium-short hair features a classic gentleman's cut with a deep side part and a subtle front quiff, styled with a slightly wet pomade finish that still reveals natural flyaways and stray hairs along the top crown and sides, with moderate volume at the front hairline that slicks flatter towards the back. He wears a {argument name=\"outfit\" default=\"deep black double-breasted blazer\"} over a {argument name=\"shirt\" default=\"light blue button-up dress shirt\"}, complemented by a white pocket square and off-white pleated trousers. His right hand rests casually tucked into his trouser pocket, revealing only his thumb, wrist, and a polished gold wristwatch, while his left hand is held at chest height, securely gripping the edges of a white smartphone with his index finger relaxed along the back. He is framed symmetrically within a pristine, large oval mirror that reflects a deep, luxurious upscale dressing room. The background showcases perfectly smooth, matte warm cream walls with structurally clean recessed alcoves and polished gold brass floor-to-ceiling vertical architectural divider poles. Above, a light oak wood ceiling accent panel features a single recessed spotlight, while the midground to the left reveals a smaller oval mirror reflecting a pristine white sink vanity, a minimalist silver faucet, and a dark cylindrical bottle resting on the counter. The atmosphere is sophisticated, confident, and private, bathed in warm, golden mixed lighting from diffused overhead sources and ambient room fill. This soft light casts short, gradual gray shadows under his chin, beneath his jacket lapels, and inside his shirt collar, while catching subtle specular highlights on his forehead, nose bridge, the white phone case, his gold watch, and the brass background fixtures. The complementary color palette strikes a high-contrast balance between the warm creams of the background and the deep blacks and off-whites of his attire. Shot with tack-sharp digital photography mimicking a 24mm equivalent smartphone lens at f/2.2 for a medium depth of field, the pristine, grain-free image channels a clean menswear editorial and lifestyle influencer aesthetic. The rendering employs an ISO 100 exposure with spot metering on the face, enhanced by warm color grading that pushes yellow and cream tones, along with subtle clarity adjustments to retain the rich texture of the black blazer fabric, all beautifully framed in a 9:16 aspect ratio.",
     "title": "Gentleman's Editorial Mirror Selfie",
