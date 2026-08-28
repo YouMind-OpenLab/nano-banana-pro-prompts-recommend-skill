@@ -1,11 +1,31 @@
 [
   {
-    "id": 32661,
-    "content": "Three claymation style {argument name=\"alien color\" default=\"green\"} aliens in {argument name=\"outfit style\" default=\"silver suits\"} stand in a {argument name=\"environment\" default=\"desert landscape\"} at night. The aliens are positioned in the center of the frame, with the middle alien slightly taller than the other two. They are all wearing silver jumpsuits with black belts and boots. The background features a large, full moon in a starry sky, with dark clouds obscuring parts of it. Cacti and desert plants surround the aliens, and rocky terrain is visible in the foreground. The lighting suggests a nighttime scene, with the moon casting a soft glow.",
-    "title": "Claymation Style Aliens in Desert",
-    "description": "Generates a charming claymation-style scene featuring green aliens in silver jumpsuits under a full moon in a desert landscape.",
+    "id": 32746,
+    "content": "Subject: A young East Asian man in his {argument name=\"age\" default=\"late 20s\"} with tousled, dark side-swept hair, standing in three-quarter profile and looking directly back over his shoulder toward the camera with an intense, guarded expression. He wears a sharp black suit jacket over a white collared shirt, unbuttoned at the collar, no tie. His posture is still and upright amid the surrounding motion.\n\nMedium & Art Style: Cinematic photography with a hyperrealistic, editorial film-still quality — reminiscent of a modern noir thriller or A24-style character drama.\n\nEnvironment/Setting: A crowded underground subway platform at night or during rush hour. A silver train with its doors open sits parked beside the platform, marked with a partial car number (\"...02\"). Overhead fluorescent strip lighting runs along the ceiling. Blurred commuters in dark jackets move past in the foreground and background, creating a sense of density and urban anonymity.",
+    "title": "Noir Subway Platform Portrait",
+    "description": "Generates a cinematic noir thriller film still of a young East Asian man on a crowded subway platform at night, focusing on intense expressions and urban density.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787824273892_luubwm_HQo1H1DWAAEE31Y.jpg"
+      "https://cms-assets.youmind.com/media/1787910197081_whknhy_HQxph54asAACzO7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32742,
+    "content": "A charming ghost wearing a {argument name=\"hat type\" default=\"witch hat\"} adorned with {argument name=\"flower\" default=\"daisies\"} stands in a field of wildflowers. The ghost is a pale, translucent white with two simple black dots for eyes. The witch hat is black and pointed, with a brim decorated with a garland of small white daisies and yellow accents. The surrounding field is a dense mix of tall grasses, daisies with white petals and yellow centers, and clusters of small yellow flowers. The background is a dark, solid color, making the ghost and the flowers stand out. The overall mood is whimsical and slightly spooky, with a touch of autumnal beauty.",
+    "title": "Whimsical Ghost in Wildflower Field",
+    "description": "A whimsical and slightly spooky prompt featuring a translucent ghost wearing a daisy-adorned witch hat in a floral meadow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787910194474_0p7m3b_HQuHa1vWUAAVrj3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32661,
+    "content": "{argument name=\"alien count\" default=\"Three\"} claymation style green aliens in silver suits stand in a desert landscape at night. The aliens are positioned in the center of the frame, with the middle alien slightly taller than the other two. They are all wearing silver jumpsuits with black belts and boots. The background features a large, full moon in a starry sky, with dark clouds obscuring parts of it. Cacti and desert plants surround the aliens, and rocky terrain is visible in the foreground. The lighting suggests a nighttime scene, with the moon casting a soft glow.",
+    "title": "Claymation Aliens Desert Landscape",
+    "description": "Generates a charming claymation-style image of three green aliens in silver suits standing in a moonlit desert scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787910196023_dd5vfk_HQo1H1DWAAEE31Y.jpg"
     ],
     "needReferenceImages": false
   },

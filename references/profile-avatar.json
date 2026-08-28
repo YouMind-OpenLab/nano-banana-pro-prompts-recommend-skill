@@ -10,6 +10,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 32751,
+    "content": "Young beutifull girl white skin, {argument name=\"hair style\" default=\"long shine courly bloundy hair\"}, {argument name=\"body type\" default=\"atletic body\"}, {argument name=\"eye color\" default=\"blue\"} eyes",
+    "title": "Athletic Blonde Curly Hair Portrait",
+    "description": "A straightforward and effective character prompt for generating images of a young woman with specific athletic and aesthetic features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787910199112_u9cb5p_HQtNufYa8AAP1P6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32745,
+    "content": "USE THE UPLOADED FACE PHOTO AS THE ONLY IDENTITY REFERENCE. PRESERVE THE EXACT FACIAL STRUCTURE, PROPORTIONS, HAIRLINE, HAIRSTYLE, EYES, NOSE, LIPS, SKIN TONE, TEXTURE, AND UNIQUE FEATURES. NO BEAUTIFICATION, RESHAPING, OR IDENTITY CHANGES.\n\nCREATE AN ULTRA-REALISTIC IPHONE 16 PRO MAX FRONT-CAMERA SELFIE, 9:16, OF THE SAME YOUNG WOMAN RELAXING ON A WHITE MOTORBOAT. SHE IS RECLINED ON TAUPE-BROWN CUSHIONED SEATING, HOLDING THE PHONE AT ARM’S LENGTH FROM A SLIGHTLY DOWNWARD ANGLE, WITH A CALM CONFIDENT EXPRESSION AND SUBTLE SMILE. SHE WEARS AMBER-GRADIENT SQUARE SUNGLASSES, A WHITE PIQUÉ POLO, CHARCOAL-GREY SWEATER TIED AROUND HER SHOULDERS, AND BLUE-WHITE PINSTRIPE SHORTS.\n\nSHOW DARK RIPPLING OPEN WATER BEHIND HER WITH SUBTLE BOAT DETAILS AND CHROME RAILING. USE SOFT OVERCAST DAYLIGHT, NATURAL SKIN TEXTURE, REALISTIC HAIR AND CLOTHING FOLDS, BELIEVABLE SUNGLASSES REFLECTIONS, AUTHENTIC SMARTPHONE HDR, SLIGHT WIDE-ANGLE DISTORTION, AND NATURAL HANDHELD IMPERFECTIONS.\n\nMAKE IT LOOK LIKE A GENUINE SPONTANEOUS IPHONE SELFIE, NOT AI-GENERATED OR PROFESSIONALLY SHOT. NATURAL COLORS AND REALISTIC MATERIALS. NO BEAUTY FILTERS, FACIAL CHANGES, PLASTIC SKIN, DSLR LOOK, EXCESSIVE BOKEH, CINEMATIC GRADING, ARTIFICIAL BLUR, WARPED HANDS, EXTRA FINGERS, DISTORTED FACE, FAKE WATER, OR STIFF POSING.",
+    "title": "Smartphone Selfie on Motorboat",
+    "description": "Generates an ultra-realistic iPhone selfie of a specific person on a motorboat, preserving facial identity using a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787910195721_a57lq7_HQuZdKXbwAAERFl.jpg",
+      "https://cms-assets.youmind.com/media/1787910195730_i7e928_HQuZd0LaUAA3YU0.jpg",
+      "https://cms-assets.youmind.com/media/1787910195719_yzrys5_HQuZeiObQAAAdAs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32664,
     "content": "A close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman with fair, smooth skin and soft natural makeup, looking directly at the camera with a calm, slightly pouty neutral expression. She has dark brown/black hair styled in a messy half-up half-down look: the top section is loosely twisted into a high messy bun/updo with loose strands and face-framing tendrils falling around her forehead and cheeks. She wears stylish black-and-silver browline glasses (thick black upper frames, thin metallic lower rims). Soft pink lips, defined but natural eyebrows, and subtle eye makeup. She is wearing a {argument name=\"clothing\" default=\"black off-the-shoulder top\"} that exposes her collarbones and shoulders, paired with a delicate thin gold chain necklace featuring a small five-pointed star pendant resting at the center of her chest. The lighting is soft and atmospheric: strong cool purple/magenta ambient LED lighting washes over the right side of her face, neck, and shoulders, creating a gentle glow and subtle color cast on her skin, while a warm yellow lamp light from the left provides contrast. The background is a {argument name=\"room style\" default=\"cozy bedroom wall densely covered in a collage of small photos and posters\"} (including a prominent BTS group poster), with a glowing table lamp visible on the left, a soft stuffed animal, and part of a bed with gray bedding. Soft bokeh and dreamy atmosphere, photorealistic, high detail, sharp focus on the face, shallow depth of field, vertical portrait composition, aesthetic K-pop fan room vibe, cinematic purple lighting, 8k quality.",
     "title": "Atmospheric K-pop Fan Room Portrait",
