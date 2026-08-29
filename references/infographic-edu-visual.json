@@ -56,6 +56,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 32847,
+    "content": "2x2 grid, 16:9, do this for 4 under rated breakfasts of Southern hemisphere: INPUT = [{argument name=\"category\" default=\"TOPIC_CATEGORY\"} / {argument name=\"region\" default=\"REGION_SET\"} / {argument name=\"criteria\" default=\"SELECTION_CRITERIA\"} / {argument name=\"mood\" default=\"MOOD\"}]\nMODE = no_hardcoding / inference_only\n\nRun REGIONAL_CULTURAL_ATLAS_EXTRACTION:\n\nCATEGORY_DNA := infer what type of thing is being compared, how it is used, why it matters, and what makes it visually recognizable\n\nREGION_DNA[each] := infer local environment, visual culture, palette, typography attitude, textures, symbols, landscapes, tools, rituals, and social context\n\nITEM_SELECTION[each] := infer one overlooked or representative item that fits TOPIC_CATEGORY + REGION + SELECTION_CRITERIA\n\nHERO_VISUAL[each] := infer the best visual treatment:\nplated food, product close-up, ritual scene, tool layout, garment portrait, object still life, landscape-backed artifact, map-backed diagram, or symbolic vignette\n\nCOPY_SYSTEM[each] := generate:\n- large item title\n- short emotional tagline\n- origin/location label\n- 2–4 tiny descriptors\n- stamp or badge phrase\n- small contextual note\n\nGRAPHIC_SYSTEM := infer torn paper, printed grid, muted color blocks, topographic lines, stamps, borders, halftone, atlas marks, and editorial spacing\n\nRender:\nA premium regional comparison poster where each panel feels locally specific but belongs to one unified cultural theme.\n\nForbidden:\nhard-coded Southern Hemisphere, fixed breakfasts, fixed foods, fixed countries, fixed beige/red/green palette, fake local facts, random travel-poster clichés.",
+    "title": "Regional Cultural Atlas Poster",
+    "description": "An advanced prompt for creating a structured 2x2 grid poster that compares regional cultural aesthetics through food and artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985296015_yhzvl7_HQsNGCaXMAA-Hsp.jpg",
+      "https://cms-assets.youmind.com/media/1787985295956_xuicyq_HQsNGCOWgAAy1fH.jpg",
+      "https://cms-assets.youmind.com/media/1787985296026_osei01_HQsNGCRXgAA0TSo.jpg",
+      "https://cms-assets.youmind.com/media/1787985296715_n3x13b_HQsNGCZXUAAJAcb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32501,
     "content": "A black and white line drawing features the text \"{argument name=\"quote\" default=\"DOING MY BEST RESULTS MAY VARY\"}\" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.",
     "title": "Whimsical Coloring Page Illustration",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 32844,
+    "content": "Create a breathtaking, ultra-premium anime cinematic artwork set in a dark fantasy world, designed to look like a frame from the most expensive anime ever produced. A {argument name=\"character\" default=\"calm, impossibly charismatic male warrior stands alone on the edge of a massive ruined temple overlooking a futuristic ancient city at night\"}. He has sharp expressive eyes, detailed black hair moving naturally in the wind, an elegant dark combat coat with intricate silver detailing, subtle battle damage, and an effortless, intimidating posture. He is not attacking or shouting. He simply stands completely still, looking slightly downward with an emotionless, confident expression. His presence alone dominates the entire scene. Around him is an {argument name=\"aura effect\" default=\"enormous aura field—deep atmospheric energy flowing naturally through the environment like invisible pressure made visible\"}. Thin luminous particles, drifting embers, fragments of dust and rain curve around his body. The ground beneath his feet shows subtle cracks from the sheer pressure of his presence. His coat and hair move dramatically in the energy-filled wind. Behind him, enormous storm clouds spiral across the sky, illuminated by distant lightning. A gigantic moon breaks through the clouds, creating a powerful silhouette around his figure. Far below, thousands of tiny city lights create immense depth and scale. The aura should feel beautiful, intimidating and otherworldly, not like a generic glowing outline. Use layered translucent energy, atmospheric distortion, subtle light refraction, floating particles and faint wave-like pressure around the character. Keep the character's face and body sharply defined while the environment reacts to his presence. Composition: low-angle hero shot, character positioned slightly off-center, massive negative space above him, dramatic depth, foreground particles, distant city below, enormous sky, cinematic perspective. Visual style: elite modern anime production, extraordinarily detailed linework, painterly backgrounds, realistic lighting, physically believable shadows, cinematic color grading, realistic atmospheric perspective, highly detailed eyes, hair strands and fabric, subtle skin texture, volumetric moonlight, high contrast, razor-sharp focal subject, breathtaking environmental detail. Blend stylized anime character design with realistic cinematic rendering, so the image feels like a premium anime still rather than a generic illustration. The character should radiate the ultimate “aura farming” energy: silent confidence, overwhelming presence, effortless dominance, mysterious power, elegance and danger. No text, no logos, no watermark, no goofy expression, no exaggerated screaming, no giant muscles, no generic superhero costume, no messy composition, no excessive neon, no blurry face, no distorted anatomy, no extra fingers, no deformed hands, no cheap CGI appearance. Aspect ratio: 16:9. Ultra-detailed, cine",
+    "title": "Premium Dark Fantasy Anime Cinematic",
+    "description": "A comprehensive prompt for creating high-budget anime cinematic artwork, focusing on a charismatic warrior with an intense energy aura and dramatic environmental depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985294128_4oxlwo_HQy_C7RbQAATwZP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32744,
     "content": "Create a photorealistic cinematic diorama emerging physically from an open book. Infer automatically: HERO_ENTITY TITLE WORLD TITLE_MATERIAL FOREGROUND_EVENT MINIATURE_ACTORS PROP_SET LIGHT_DNA FX_DNA Composition: - open hardcover book occupies the lower majority of the frame - book pages physically transform into {argument name=\"topic\" default=\"scifi book\"} rather than remaining clean paper - TITLE becomes massive freestanding 3D typography embedded within the terrain - TITLE material and construction are inferred from TOPIC - HERO_ENTITY rises behind, above, through, or around the typography at monumental relative scale - FOREGROUND_EVENT unfolds across the front page as a miniature narrative scene - miniature actors, vehicles, tools, vegetation, debris, structures, or props are inferred only when semantically useful - page edges remain visible so the illusion of “world emerging from book” is unmistakable Lighting: cinematic practical lighting inferred from TOPIC plus believable environmental illumination. Rendering: macro practical-effects photography, real book fibers, physical miniature materials, contact shadows, dust and surface imperfections, atmospheric depth, high-end handcrafted diorama realism. No hard-coded title, character, environment, material, action, vehicle, or visual effect.",
     "title": "Scifi Book Cinematic Diorama",
@@ -5372,17 +5382,6 @@
       "https://cms-assets.youmind.com/media/1768804300228_vgyh8m_G-6zn0XaUAAJDSL.jpg",
       "https://cms-assets.youmind.com/media/1768804300310_bxodc0_G-6zoUpWwAA3YBF.jpg",
       "https://cms-assets.youmind.com/media/1768804301814_rfw4oq_G-6zsnAXwAAyVnh.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 6680,
-    "content": "Please describe this character's room in an imaginary isometric illustration.\nNo depiction of the person is requested.",
-    "title": "Generating an Isometric Room Illustration Based on a Character Concept",
-    "description": "A prompt used with Nano Banana Pro to generate an isometric illustration of a room that reflects a specific character's personality, explicitly excluding the character themselves from the image.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg",
-      "https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg"
     ],
     "needReferenceImages": false
   },

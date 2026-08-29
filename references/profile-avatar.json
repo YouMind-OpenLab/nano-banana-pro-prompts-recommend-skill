@@ -10,6 +10,59 @@
     "needReferenceImages": false
   },
   {
+    "id": 32843,
+    "content": "A candid, high-resolution raw film photograph, based on image_1.png, featuring the young woman with dark hair curled playfully in the vintage brown leather armchair. The scene retains her core pose and pastel pink sweatsuit, but all background elements are rendered in sharp focus. ONLY change: the outfit color is modified to a {argument name=\"outfit color\" default=\"pastel pink\"} sweatsuit, while preserving the exact same fabric texture, folds, stitching, shading, and fit with no redesign or alteration of style. The detailed leather chair, with its ornate starburst-patterned stitching, shows clear grain and texture. The adjacent wooden side desk with the vintage analog camera and stack of film negative strips is perfectly sharp, revealing intricate details on the lens and paper edges. The curtains are distinct. On the right-hand wall, replace the previous detailed data plaque entirely with a clean, precise, legible metallic plaque that simply reads '{argument name=\"plaque text\" default=\"NOAH\"}' in sharp engraved lettering with realistic metallic reflections. Subtle natural film grain is present throughout the entire deep-focus scene, emphasizing a raw, archival photograph aesthetic without any visual blur.",
+    "title": "Vintage Character Film Restoration",
+    "description": "An image transformation prompt that modifies outfit color to pink while maintaining raw film grain and detailed background textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985291840_lhw55b_HQ0XP7QaMAAnLgu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32839,
+    "content": "create a cinematic, ultra-realistic monochrome portrait of me inspired by the attached reference image. Place me standing centered and facing directly toward the camera in a dark, minimal black studio environment. Keep my real face completely visible and recognizable with NO mask, NO helmet, NO face covering, and NO superhero cowl. Dress me in a {argument name=\"suit style\" default=\"sophisticated matte-black futuristic tactical suit\"} with sculpted armor panels, a subtle dark chest emblem, and a dramatic heavy black cape draped naturally over my shoulders. Use {argument name=\"lighting\" default=\"intense low-key lighting from directly above\"} to illuminate the top of my head, forehead, facial structure, shoulders, and chest while allowing the rest of the scene to disappear gradually into deep shadows. Create strong chiaroscuro, deep blacks, subtle highlights, realistic skin texture, natural facial proportions, sharp eyes, closed lips, and a serious, calm, powerful expression. Compose the shot symmetrically with generous negative space, an almost completely black background, premium cinematic photography, dramatic contrast, atmospheric shadows, photorealistic materials, extremely detailed fabric and armor textures, subtle film grain, editorial movie-poster aesthetic, mysterious and intimidating mood, razor-sharp subject with soft shadow falloff, 85mm portrait photography look, high dynamic range, extremely realistic, cinematic, aesthetic, sophisticated, minimal, 8K detail. Add widely spaced minimalist white text behind me reading \"{argument name=\"name\" default=\"SHUSHANT\"}\", partially obscured naturally by my head and body, matching the typography and composition of a premium dark superhero movie poster.",
+    "title": "Monochrome Batman Superhero Portrait",
+    "description": "An extensive prompt for a cinematic, low-key monochrome superhero portrait inspired by a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985288642_cfsdr6_HQ0HMb2aYAAVYjK.jpg",
+      "https://cms-assets.youmind.com/media/1787985290132_99pu32_HQ0HMw3bAAAimYY.jpg",
+      "https://cms-assets.youmind.com/media/1787985289908_76m3bm_HQ0HNTNacAA9kSD.jpg",
+      "https://cms-assets.youmind.com/media/1787985289351_kjp13x_HQ0HNhaaoAAUXjq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32845,
+    "content": "STRICTLY preserve appearance 1:1 — face, features, proportions, skin texture, skin tone, age, color and hair length without changes, without retouching. Format 4:5. Photorealistic outdoor portrait in {argument name=\"setting\" default=\"high grass\"}. Camera: {argument name=\"lens\" default=\"full frame, 85mm, f/3.2\"}, ISO 200, 1/500. body slightly unfolded, head straight, looking at the camera, expression calm, deep, slightly pensive. The right hand is raised to the chin, the fingers are relaxed on the face. The hair is loose, soft waves, several thin strands pass over the face from the wind. Outfit: {argument name=\"clothing\" default=\"free blue knitted sweater oversize with long sleeves, soft textured wool\"}. Soft natural daytime light, without direct sun, slightly cloudy atmosphere, muted shades, natural leather, light film grain. meadow depth, without strong bokeh.",
+    "title": "Photorealistic Outdoor Sweater Portrait",
+    "description": "A high-fidelity portrait prompt focusing on preserving 1:1 appearance, soft natural lighting, and pensive expression in an outdoor meadow setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985294805_ltx2rk_HQtWNtNaIAANeSm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32747,
+    "content": "A confident handsome male in his twenties is positioned centrally, captured from a low angle in a leaning posture with his weight shifted and shoulders level. He wears a {argument name=\"jacket style\" default=\"thick black leather aviator jacket\"} featuring a striking, large tan shearling collar, layered over a gray turtleneck and paired with black trousers. His face displays a deliberately posed, sophisticated expression with a closed mouth, relaxed eyebrows, and squinting eyes. His left hand is clutched at lower chest level holding a pair of black leather gloves with knuckles visible, while his right hand rests gently over the left with his thumb visible, organically securing the gloves. He leans against a pristine white stone balustrade with turned concrete pillars and a flat handrail that crosses the foreground. The deep spatial depth reveals a crisp, affluent outdoor estate setting. Behind the subject, a dominant classic estate building rises, featuring a perfectly smooth matte off-white painted facade, architectural molding, a dark slate roof, dormer windows, and white-framed windows with dark glass. A tall, thriving {argument name=\"tree type\" default=\"conical evergreen tree\"} towers over the center roofline, flanked by large deciduous trees on the left, while a light gray solid tiled walkway occupies the foreground right. The scene is bathed in bright, highly directional natural hard daylight from a single source, creating a cool, energetic, and high-contrast atmosphere dominated by rich blacks, crisp whites, and a vibrant clear sky blue background. Deep black, harsh-edged dramatic shadows are cast sharply under his chin, on the right side of his face, across the right side of his jacket, and along the balustrade. Meanwhile, bright preserved highlights illuminate the left side of his face, his hair, the textured tan shearling collar, and the left facade of the pristine white building. The image is executed as a tack sharp, realistic contemporary men's fashion lifestyle editorial, shot digitally on a {argument name=\"camera lens\" default=\"35mm to 50mm lens\"} at an f/5.6 to f/8 aperture with a fast 1/1000s shutter speed at ISO 100 to cut the bright daylight. The post-processing features a high contrast color grade with crushed shadows for deeper blacks in the clothing, slightly pushed whites, and enhanced saturated sky blues, culminating in a clean, old money luxury aesthetic framed in a 4:5 aspect ratio.",
+    "title": "Old Money Men's Fashion Editorial",
+    "description": "A high-fashion lifestyle prompt featuring a male model in an aviator jacket at a luxury estate with high-contrast cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985291635_g18fx2_HQUZia2X0AAulKv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32746,
+    "content": "Subject: {argument name=\"character description\" default=\"A young East Asian man in his late 20s with tousled, dark side-swept hair, standing in three-quarter profile and looking directly back over his shoulder toward the camera with an intense, guarded expression\"}. He wears a {argument name=\"outfit\" default=\"sharp black suit jacket over a white collared shirt, unbuttoned at the collar, no tie\"}. His posture is still and upright amid the surrounding motion. Medium & Art Style: Cinematic photography with a hyperrealistic, editorial film-still quality — reminiscent of a modern noir thriller or A24-style character drama. Environment/Setting: {argument name=\"location\" default=\"A crowded underground subway platform at night or during rush hour\"}. A silver train with its doors open sits parked beside the platform, marked with a partial car number (\"...02\"). Overhead fluorescent strip lighting runs along the ceiling. Blurred commuters in dark jackets move past in the foreground and background, creating a sense of density and urban anonymity.",
+    "title": "Noir Subway Editorial Film Still",
+    "description": "A cinematic noir-inspired prompt for a high-intensity character study of a man on a crowded subway platform, featuring editorial film quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985293733_77tj48_HQxph54asAACzO7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32751,
     "content": "Young beutifull girl white skin, {argument name=\"hair style\" default=\"long shine courly bloundy hair\"}, {argument name=\"body type\" default=\"atletic body\"}, {argument name=\"eye color\" default=\"blue\"} eyes",
     "title": "Athletic Blonde Curly Hair Portrait",
@@ -14400,16 +14453,6 @@
       "https://cms-assets.youmind.com/media/1768717595396_5ew9w0_G-3UsMyXcAA4ILU.jpg",
       "https://cms-assets.youmind.com/media/1768717595410_rhdmcg_G-3UsUnWYAA2gQv.jpg",
       "https://cms-assets.youmind.com/media/1768717595637_xnn8kg_G-3UsQoW8AACB13.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 6421,
-    "content": "{\n  \"specification_metadata\": {\n    \"version\": \"16.0_modular_atomic\",\n    \"rendering_engine\": \"8K Photorealistic Hyper-Definition\",\n    \"aspect_ratio\": \"9:16\",\n    \"style_intent\": \"High-End Influencer Lifestyle Photography\"\n  },\n  \"subject_schema\": {\n    \"biometrics\": {\n      \"identity\": \"Ana de Armas\",\n      \"physique\": \"Athletic / Toned build\",\n      \"facial_profile\": {\n        \"complexion\": \"Clear / Flawless\",\n        \"features\": \"Refined / Sharp\",\n        \"skin_shader\": \"Luminous / Natural texture\"\n      }\n    },\n    \"capillary_logic\": {\n      \"color\": \"Long, sleek blonde\",\n      \"style\": \"Straightened / High-sheen\",\n      \"fringe_logic\": \"Messy bangs spread naturally across the forehead\",\n      \"physics\": \"Silky texture / Individual strand rendering\"\n    },\n    \"performance_kinematics\": {\n      \"pose_archetype\": \"Crouching low mirror selfie\",\n      \"spatial_orientation\": \"Full-body reflection\",\n      \"gesture\": \"Holding device with both hands at a slight downward tilt\"\n    }\n  },\n  \"wardrobe_schema\": {\n    \"apparel_system\": {\n      \"type\": \"Avant-Garde Two-Piece Set\",\n      \"fabric_logic\": {\n        \"texture\": \"Shimmery / Glittery / Reflective\",\n        \"material\": \"High-luster metallic weave\"\n      },\n      \"chroma_profile\": {\n        \"primary\": \"Vibrant Hot Pink\",\n        \"accent\": \"Light Yellow\"\n      },\n      \"garment_architecture\": {\n        \"upper\": \"Strapless bandeau / Diagonal midriff cutout\",\n        \"lower\": \"High-waisted maxi skirt / Dramatic thigh-high slit / Hip-knot detailing\"\n      }\n    },\n    \"accessory_system\": {\n      \"material\": \"Polished Silver\",\n      \"items\": [\n        { \"type\": \"Necklace\", \"detail\": \"Layered silver chains\" },\n        { \"type\": \"Earrings\", \"detail\": \"Ornate silver chandeliers\" },\n        { \"type\": \"Bracelets\", \"detail\": \"Multiple thin silver bands\" }\n      ]\n    }\n  },\n  \"hardware_node\": {\n    \"device_spec\": {\n      \"model\": \"iPhone 16 Pro Max\",\n      \"finish\": \"Silver / Gray Titanium\",\n      \"peripheral\": \"Hot Pink phone case (High-saturation pop color)\"\n    }\n  },\n  \"environmental_rig\": {\n    \"scenography\": {\n      \"interior_style\": \"Modern Minimalist\",\n      \"surfaces\": {\n        \"floor\": \"Light wood planks\",\n        \"rug\": \"Light grey shag / High-pile texture\",\n        \"walls\": \"Neutral matte white\"\n      },\n      \"props\": {\n        \"mirror\": \"Large floor-length mirror with an ornate gold frame\"\n      }\n    },\n    \"illumination_architecture\": {\n      \"source_type\": \"Natural soft indoor daylight\",\n      \"distribution\": \"Even / Diffused\",\n      \"shadow_logic\": \"Soft-ambient / Zero harsh contrast\"\n    }\n  },\n  \"technical_logic_node\": {\n    \"optical_parameters\": {\n      \"shot_type\": \"Wide-angle mirror reflection\",\n      \"perspective\": \"Eye-level / Slightly tilted downward\",\n      \"focus_mapping\": \"Sharp focus on subject and garment textures\"\n    },\n    \"color_theory\": {\n      \"base_palette\": [\"Monochromatic grays\", \"Metallic silver\"],\n      \"contra",
-    "title": "Ana de Armas Pink Metallic Mirror Selfie",
-    "description": "A highly structured, modular prompt for generating a high-end influencer-style mirror selfie of a woman resembling Ana de Armas. It specifies a crouching pose, a shimmery hot pink metallic two-piece outfit, and detailed technical parameters for lighting and focus to achieve an ultra-realistic, high-sheen result, including specific iPhone and case details.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1768717539629_qe3957_G-22Or6WgAAitD3.jpg"
     ],
     "needReferenceImages": false
   },

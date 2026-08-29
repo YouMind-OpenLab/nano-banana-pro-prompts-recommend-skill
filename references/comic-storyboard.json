@@ -1,11 +1,21 @@
 [
   {
-    "id": 32746,
-    "content": "Subject: A young East Asian man in his {argument name=\"age\" default=\"late 20s\"} with tousled, dark side-swept hair, standing in three-quarter profile and looking directly back over his shoulder toward the camera with an intense, guarded expression. He wears a sharp black suit jacket over a white collared shirt, unbuttoned at the collar, no tie. His posture is still and upright amid the surrounding motion.\n\nMedium & Art Style: Cinematic photography with a hyperrealistic, editorial film-still quality — reminiscent of a modern noir thriller or A24-style character drama.\n\nEnvironment/Setting: A crowded underground subway platform at night or during rush hour. A silver train with its doors open sits parked beside the platform, marked with a partial car number (\"...02\"). Overhead fluorescent strip lighting runs along the ceiling. Blurred commuters in dark jackets move past in the foreground and background, creating a sense of density and urban anonymity.",
-    "title": "Noir Subway Platform Portrait",
-    "description": "Generates a cinematic noir thriller film still of a young East Asian man on a crowded subway platform at night, focusing on intense expressions and urban density.",
+    "id": 32841,
+    "content": "TITLE:\nPremium Strawberry Jam Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury breakfast food campaign\n• 8 cinematic product-focused scenes\n• Product remains the visual hero\n• High-end advertising presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Gourmet Breakfast Commercial\n  - Product: {argument name=\"product name\" default=\"Strawberry Jam\"}\n  - Audio: Soft Food ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"Strawberry red, cream and soft pink\"} aesthetic\n• Minimal fruit-inspired decorative details\n\nSTORYBOARD:\n1. Premium jam jar surrounded by fresh strawberries\n2. Jar lid opening in an extreme macro shot\n3. Spoon dipping slowly into thick strawberry jam\n4. Glossy jam stretching from spoon in slow motion\n5. Fresh strawberry pieces dropping into the jam\n6. Jam spreading smoothly across warm toasted bread\n7. Extreme macro showing strawberry seeds and rich texture\n8. Final hero jar with toast, strawberries and glossy jam splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion spread, overhead food composition, smooth camera push-in, shallow depth of field, premium packshot.\n\nSTYLE:\nUltra-realistic food photography, glossy fruit texture, realistic jam consistency, fresh strawberries, warm natural lighting, premium glass packaging, luxury breakfast advertising, 8K.",
+    "title": "Premium Strawberry Jam Storyboard",
+    "description": "A comprehensive structured prompt to generate a single-page luxury commercial storyboard for food products, specifically strawberry jam.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787910197081_whknhy_HQxph54asAACzO7.jpg"
+      "https://cms-assets.youmind.com/media/1787985289935_y8m08d_HQ0vDf8akAAXOp1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32746,
+    "content": "Subject: {argument name=\"character description\" default=\"A young East Asian man in his late 20s with tousled, dark side-swept hair, standing in three-quarter profile and looking directly back over his shoulder toward the camera with an intense, guarded expression\"}. He wears a {argument name=\"outfit\" default=\"sharp black suit jacket over a white collared shirt, unbuttoned at the collar, no tie\"}. His posture is still and upright amid the surrounding motion. Medium & Art Style: Cinematic photography with a hyperrealistic, editorial film-still quality — reminiscent of a modern noir thriller or A24-style character drama. Environment/Setting: {argument name=\"location\" default=\"A crowded underground subway platform at night or during rush hour\"}. A silver train with its doors open sits parked beside the platform, marked with a partial car number (\"...02\"). Overhead fluorescent strip lighting runs along the ceiling. Blurred commuters in dark jackets move past in the foreground and background, creating a sense of density and urban anonymity.",
+    "title": "Noir Subway Editorial Film Still",
+    "description": "A cinematic noir-inspired prompt for a high-intensity character study of a man on a crowded subway platform, featuring editorial film quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787985293733_77tj48_HQxph54asAACzO7.jpg"
     ],
     "needReferenceImages": false
   },
