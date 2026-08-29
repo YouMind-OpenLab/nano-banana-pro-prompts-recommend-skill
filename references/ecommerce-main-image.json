@@ -4202,6 +4202,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 6608,
+    "content": "{argument name=\"food item\" default=\"[Food]\"} Premium food advertising, white seamless background, high key studio lighting, floating stacked composition, levitating pieces, {argument name=\"ingredient details\" default=\"[ingredient_bits]\"} scattered, clean minimal layout, crisp soft shadow on surface, ultra realistic, macro product photography, 100mm lens look, f/8 sharp focus, subtle texture detail, editorial commercial, 8k",
+    "title": "Macro Product Photography for Floating Food",
+    "description": "A concise text prompt for Nano Banana Pro to generate a premium food advertisement image featuring levitating ingredients in a stacked composition against a white seamless background, emphasizing macro detail and commercial editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804278441_4mxmy7_G-6l3LuXwAAcPza.jpg",
+      "https://cms-assets.youmind.com/media/1768804278584_8cxrej_G-6l3NhWEAAFJD1.jpg",
+      "https://cms-assets.youmind.com/media/1768804278726_xhgx5l_G-6l3PkXkAEQtX-.jpg",
+      "https://cms-assets.youmind.com/media/1768804279887_riv44a_G-6l3RtXoAAZlEH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 6493,
     "content": "\"resolution\": \"{argument name=\"resolution\" default=\"8K UHD\"}\",\n\n\"aspect_ratio\": \"3:4\",\n\n{ \"image_style\": \"{argument name=\"image style\" default=\"hyper-realistic commercial food photography\"}\", \"quality\": \"Ultra-high detail, sharp focus, studio-grade clarity\", \"lighting\": \"Soft but controlled studio lighting with visible highlights and splash definition\", \"motion\": \"Frozen mid-air action, ingredients suspended\",\n\n\"global_settings\": {\n\n\"background_style\": \"Solid or smooth gradient background, color varies per module\", \n\"camera\": \"High-speed photography look, shallow to medium depth of field\", \"post_processing\": \"Balanced contrast, natural saturation, no artificial glow\" }}",
     "title": "Hyper-Realistic Commercial Food Photography Prompt",

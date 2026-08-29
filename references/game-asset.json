@@ -5387,6 +5387,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 6680,
+    "content": "Please describe this character's room in an imaginary isometric illustration.\nNo depiction of the person is requested.",
+    "title": "Generating an Isometric Room Illustration Based on a Character Concept",
+    "description": "A prompt used with Nano Banana Pro to generate an isometric illustration of a room that reflects a specific character's personality, explicitly excluding the character themselves from the image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg",
+      "https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 6509,
     "content": "[SCENE] = {argument name=\"scene description\" default=\"Troy, Anatolia, approx. 12th century BC. The moments after the Trojan Horse is pulled inside the city walls.\"}\n\nMake a 360-degree equirectangular panorama in 21:9 aspect ratio.\nRender the scene as a full spherical panorama with correct equirectangular projection.\nSet the entire environment strictly based on [SCENE].\nPlace the camera at the exact center of the scene with a fixed viewpoint.\nDesign the environment as a continuous, circular world with no left or right edge.\nEnsure the first and last horizontal edges align perfectly.\nDistribute architecture, people, and objects evenly around the full 360° view.\nUse realistic real-world lighting, materials, and physical behavior.\nKeep sharp focus across the entire panorama.\nUse uniform natural daylight with no dominant light direction.\nEnsure lighting intensity and color remain consistent across the full 360° panorama.\nTreat the environment as lit by an evenly diffused sky dome rather than a single sun source.\nApply soft global shadows that do not favor any horizontal direction.\nAvoid directional sunlight gradients that could cause seam lighting mismatches.\nAvoid modern elements, UI overlays, borders, frames, cropped views, fantasy styling, or broken panorama seams.",
     "title": "360-Degree Equirectangular Panorama Prompt",
