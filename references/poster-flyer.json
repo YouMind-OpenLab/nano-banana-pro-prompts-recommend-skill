@@ -20,6 +20,84 @@
     "needReferenceImages": false
   },
   {
+    "id": 32911,
+    "content": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"brand color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive glossy red sports car stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories. In the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car. Bottom center tagline: “Power, perfected. Presence, defined.” Moody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details. Aspect ratio: 3:4",
+    "title": "Luxury Automotive Surrealist Poster",
+    "description": "A premium high-fashion poster featuring a luxury sports car and a male model in a minimalist crimson studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071771777_rig7l0_HQ8Z1QPbUAADNhT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32918,
+    "content": "A {argument name=\"style\" default=\"vintage-style\"} illustration depicts a whimsical {argument name=\"theme\" default=\"Halloween scene\"} under a large, grinning full moon. The central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head. Beside him stands a black cat with a bow tie. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
+    "title": "Whimsical Vintage Halloween Illustration",
+    "description": "A detailed vintage-style illustration for a whimsical Halloween scene, featuring a dapper pumpkin character and a black cat under a full moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071776170_de0wks_HQuHyz3XwAAPRGC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32916,
+    "content": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored {argument name=\"suit color\" default=\"dark green\"} suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
+    "title": "Luxury Watch Brand Surrealist Poster",
+    "description": "A high-fashion surrealist prompt for a luxury watch brand advertisement, featuring minimalist studio lighting and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071774356_ycdjp7_HQ45ZOSa8AAtbrq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32913,
+    "content": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—{argument name=\"locations\" default=\"Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey\"}. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetics. Small archival labels: “Bangkok / Field Note 052”, “Lisbon / Field Note 031”, “Marrakech / Field Note 017”, “Istanbul / Field Note 039”. No logos, watermark, HDR, oversaturation, or modern clutter.",
+    "title": "Vintage Travel Journal Collage",
+    "description": "Generates a multi-city travel editorial collage featuring photorealistic street photography and screen-print illustrations on aged paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071771404_uu1ujl_HQ4rl-GbcAER37m.jpg",
+      "https://cms-assets.youmind.com/media/1788071772880_aaf3xm_HQ4rl-Na4AA14EQ.jpg",
+      "https://cms-assets.youmind.com/media/1788071772890_knzhxx_HQ4rl-NbkAAFN1H.jpg",
+      "https://cms-assets.youmind.com/media/1788071772609_0xhs0d_HQ4rl-KagAAwsio.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32920,
+    "content": "A girl in a {argument name=\"dress color\" default=\"red lace dress\"} stands against a {argument name=\"wall color\" default=\"blue wall\"}, illuminated by warm side lighting. Her hair is in a low ponytail. A large shadow with horns is visible on the wall behind her, creating a mystical atmosphere. High contrast lighting with warm light on the model and a cold background. Cinematic style, Halloween fine art, mysterious mood, high detail.",
+    "title": "Mysterious Shadow Red Dress Portrait",
+    "description": "A cinematic Halloween-inspired fine art prompt featuring a girl in a red dress with a mysterious horned shadow projected on a blue wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071778026_8hvajj_HQyXOrxbkAAf_wS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32924,
+    "content": "cinematic, ultra-realistic portrait of me styled as a {argument name=\"warrior type\" default=\"powerful ancient Spartan warrior\"}, shown in dramatic side profile against a pitch-black background, wearing an ornate black metallic Spartan helmet with a tall {argument name=\"crest color\" default=\"crimson-red\"} horsehair crest while keeping my entire face completely uncovered and clearly recognizable, with no mask or face covering; add polished black battle armor and a flowing deep-red Spartan cape draped over my shoulders, intense low-key lighting, sharp red rim light outlining the helmet and cape, deep shadows, high contrast, subtle metallic reflections, mysterious heroic atmosphere, minimalist composition, photorealistic textures, premium cinematic poster aesthetic, highly detailed, dramatic and imposing",
+    "title": "Cinematic Spartan Warrior Avatar",
+    "description": "A tutorial prompt for creating a cinematic and impositional Spartan warrior portrait while maintaining the user's facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071779381_5ed4ys_HQ3_TLGaYAAT4H0.jpg",
+      "https://cms-assets.youmind.com/media/1788071779435_t7nf4b_HQ3_TeXawAAL1FX.jpg",
+      "https://cms-assets.youmind.com/media/1788071779419_scpp7q_HQ3_Tv9bEAAUVdC.jpg",
+      "https://cms-assets.youmind.com/media/1788071782350_6ll0jw_HQ3_UAvagAACDN1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32921,
+    "content": "A highly detailed, vibrant oil painting in an {argument name=\"style\" default=\"abstract expressionist style\"} of a {argument name=\"subject\" default=\"young man with short, dark curly hair\"}, his head tilted sharply upward and back, mouth slightly open in an expression of intensity or release. The upper portion of his face and eyes are completely obscured and dissolved into thick, chaotic swirls of dark paint mixed with explosive bursts of color. Explosive abstract paint eruptions surge from and around his head: molten oranges, fiery yellows, deep reds, electric blues, greens, purples, and blacks, rendered with heavy impasto texture, visible bold brushstrokes, dripping and splattered paint, and dynamic swirling motion that creates a sense of energy, emotion, and mental or spiritual eruption. His neck and lower face are painted in dramatic light-to-shadow gradients of warm yellows, golds, and cool blues, with strong directional lighting from above. He wears a simple blue t-shirt, the fabric also treated with expressive, textured brushwork and scattered colorful paint accents. The background is a light, off-white or cream surface with loose paint splatters and drips, allowing the figure and the colorful explosion to dominate. Thick, tactile oil paint texture throughout, rich saturated colors, high contrast between warm fiery tones and cool blues, emotional intensity, energetic and turbulent composition, masterpiece quality, ultra-detailed brushwork.",
+    "title": "Abstract Expressionist Paint Eruption",
+    "description": "A dynamic oil painting prompt in an abstract expressionist style, featuring a young man with explosive colorful paint eruptions emerging from his head.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071778339_ity40c_HQju_1kbkAAk8DF.jpg",
+      "https://cms-assets.youmind.com/media/1788071778359_1iloa0_HQju_1ub0AA3kgf.jpg",
+      "https://cms-assets.youmind.com/media/1788071778287_u4ugvp_HQju_10aoAAfw64.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32839,
     "content": "create a cinematic, ultra-realistic monochrome portrait of me inspired by the attached reference image. Place me standing centered and facing directly toward the camera in a dark, minimal black studio environment. Keep my real face completely visible and recognizable with NO mask, NO helmet, NO face covering, and NO superhero cowl. Dress me in a {argument name=\"suit style\" default=\"sophisticated matte-black futuristic tactical suit\"} with sculpted armor panels, a subtle dark chest emblem, and a dramatic heavy black cape draped naturally over my shoulders. Use {argument name=\"lighting\" default=\"intense low-key lighting from directly above\"} to illuminate the top of my head, forehead, facial structure, shoulders, and chest while allowing the rest of the scene to disappear gradually into deep shadows. Create strong chiaroscuro, deep blacks, subtle highlights, realistic skin texture, natural facial proportions, sharp eyes, closed lips, and a serious, calm, powerful expression. Compose the shot symmetrically with generous negative space, an almost completely black background, premium cinematic photography, dramatic contrast, atmospheric shadows, photorealistic materials, extremely detailed fabric and armor textures, subtle film grain, editorial movie-poster aesthetic, mysterious and intimidating mood, razor-sharp subject with soft shadow falloff, 85mm portrait photography look, high dynamic range, extremely realistic, cinematic, aesthetic, sophisticated, minimal, 8K detail. Add widely spaced minimalist white text behind me reading \"{argument name=\"name\" default=\"SHUSHANT\"}\", partially obscured naturally by my head and body, matching the typography and composition of a premium dark superhero movie poster.",
     "title": "Monochrome Batman Superhero Portrait",

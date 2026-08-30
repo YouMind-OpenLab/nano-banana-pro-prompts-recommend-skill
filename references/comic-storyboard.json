@@ -1,5 +1,25 @@
 [
   {
+    "id": 32918,
+    "content": "A {argument name=\"style\" default=\"vintage-style\"} illustration depicts a whimsical {argument name=\"theme\" default=\"Halloween scene\"} under a large, grinning full moon. The central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head. Beside him stands a black cat with a bow tie. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
+    "title": "Whimsical Vintage Halloween Illustration",
+    "description": "A detailed vintage-style illustration for a whimsical Halloween scene, featuring a dapper pumpkin character and a black cat under a full moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071776170_de0wks_HQuHyz3XwAAPRGC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32925,
+    "content": "A dreamy cinematic portrait of a young woman walking alone through an {argument name=\"setting\" default=\"abandoned greenhouse\"} completely overgrown with {argument name=\"flowers\" default=\"flowers and vines\"}. Soft sunlight streams through broken glass panels creating magical light rays. She gently touches the flowers while looking away from the camera, mysterious atmosphere, fairytale realism, cinematic storytelling, ultra-detailed environment, soft haze, dreamy bokeh, masterpiece composition, photorealistic.",
+    "title": "Abandoned Greenhouse Cinematic Portrait",
+    "description": "A fairytale realism prompt for a cinematic portrait of a young woman in an overgrown, sunlight-streaked abandoned greenhouse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071782405_kkbgov_HQ56cGfakAAk4ws.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32841,
     "content": "TITLE:\nPremium Strawberry Jam Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury breakfast food campaign\n• 8 cinematic product-focused scenes\n• Product remains the visual hero\n• High-end advertising presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Gourmet Breakfast Commercial\n  - Product: {argument name=\"product name\" default=\"Strawberry Jam\"}\n  - Audio: Soft Food ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"Strawberry red, cream and soft pink\"} aesthetic\n• Minimal fruit-inspired decorative details\n\nSTORYBOARD:\n1. Premium jam jar surrounded by fresh strawberries\n2. Jar lid opening in an extreme macro shot\n3. Spoon dipping slowly into thick strawberry jam\n4. Glossy jam stretching from spoon in slow motion\n5. Fresh strawberry pieces dropping into the jam\n6. Jam spreading smoothly across warm toasted bread\n7. Extreme macro showing strawberry seeds and rich texture\n8. Final hero jar with toast, strawberries and glossy jam splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion spread, overhead food composition, smooth camera push-in, shallow depth of field, premium packshot.\n\nSTYLE:\nUltra-realistic food photography, glossy fruit texture, realistic jam consistency, fresh strawberries, warm natural lighting, premium glass packaging, luxury breakfast advertising, 8K.",
     "title": "Premium Strawberry Jam Storyboard",

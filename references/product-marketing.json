@@ -21,6 +21,52 @@
     "needReferenceImages": true
   },
   {
+    "id": 32912,
+    "content": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a luxury fashion magazine cover shoot with a {argument name=\"outfit\" default=\"sophisticated designer outfit\"}, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, 85mm portrait lens look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
+    "title": "High Fashion Editorial Portrait",
+    "description": "Creates a sophisticated luxury magazine cover portrait that preserves the subject's unique facial features and hairstyle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071771388_1jb98i_HQ8sgbubMAAqekJ.jpg",
+      "https://cms-assets.youmind.com/media/1788071771393_pzj5xd_HQ8sgqDawAAvx2_.jpg",
+      "https://cms-assets.youmind.com/media/1788071772765_bjtdos_HQ8sg3jaUAAZKNo.jpg",
+      "https://cms-assets.youmind.com/media/1788071772188_in5yl0_HQ8shE_a4AEmxXw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32911,
+    "content": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"brand color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive glossy red sports car stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories. In the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car. Bottom center tagline: “Power, perfected. Presence, defined.” Moody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details. Aspect ratio: 3:4",
+    "title": "Luxury Automotive Surrealist Poster",
+    "description": "A premium high-fashion poster featuring a luxury sports car and a male model in a minimalist crimson studio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071771777_rig7l0_HQ8Z1QPbUAADNhT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32916,
+    "content": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored {argument name=\"suit color\" default=\"dark green\"} suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
+    "title": "Luxury Watch Brand Surrealist Poster",
+    "description": "A high-fashion surrealist prompt for a luxury watch brand advertisement, featuring minimalist studio lighting and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071774356_ycdjp7_HQ45ZOSa8AAtbrq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32926,
+    "content": "A highly detailed, photorealistic close-up portrait of a young East Asian woman with fair, porcelain-like skin and a soft natural glow. She has straight, dark brown hair with neat, blunt bangs cut just above her eyebrows, framing her face. Her large, expressive brown eyes are gazing upward and slightly to the side (viewer’s left), with long, natural-looking lashes and subtle eye makeup. Soft pink blush is applied to the apples of her cheeks, creating a flushed, healthy look. Her lips are slightly parted, glossy, and natural pink. A small, subtle beauty mark sits on her left cheek. She is nestled inside a {argument name=\"clothing\" default=\"thick, fluffy, pure white faux-fur hood or parka\"} that completely frames her face, with the soft, dense fur texture surrounding her head and shoulders. Soft, diffused studio lighting highlights the skin texture, the delicate sheen on her lips, and the luxurious volume of the white fur. Shallow depth of field, dreamy and intimate atmosphere, high-resolution beauty photography style, ultra-detailed skin pores and fur strands, clean soft background created entirely by the white fur.",
+    "title": "Faux Fur Hood Beauty Portrait",
+    "description": "A high-resolution beauty photography prompt for an intimate portrait of an East Asian woman nestled in a white faux-fur hood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071782459_mrtkz9_HQjvQwCaAAAZ9VG.jpg",
+      "https://cms-assets.youmind.com/media/1788071782200_3m2h55_HQjvQwObsAAgAoL.jpg",
+      "https://cms-assets.youmind.com/media/1788071783343_nf964j_HQjvQwIaAAAVf9o.jpg",
+      "https://cms-assets.youmind.com/media/1788071783698_im40mg_HQjvQwWbcAAfgGu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32841,
     "content": "TITLE:\nPremium Strawberry Jam Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury breakfast food campaign\n• 8 cinematic product-focused scenes\n• Product remains the visual hero\n• High-end advertising presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Gourmet Breakfast Commercial\n  - Product: {argument name=\"product name\" default=\"Strawberry Jam\"}\n  - Audio: Soft Food ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"Strawberry red, cream and soft pink\"} aesthetic\n• Minimal fruit-inspired decorative details\n\nSTORYBOARD:\n1. Premium jam jar surrounded by fresh strawberries\n2. Jar lid opening in an extreme macro shot\n3. Spoon dipping slowly into thick strawberry jam\n4. Glossy jam stretching from spoon in slow motion\n5. Fresh strawberry pieces dropping into the jam\n6. Jam spreading smoothly across warm toasted bread\n7. Extreme macro showing strawberry seeds and rich texture\n8. Final hero jar with toast, strawberries and glossy jam splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion spread, overhead food composition, smooth camera push-in, shallow depth of field, premium packshot.\n\nSTYLE:\nUltra-realistic food photography, glossy fruit texture, realistic jam consistency, fresh strawberries, warm natural lighting, premium glass packaging, luxury breakfast advertising, 8K.",
     "title": "Premium Strawberry Jam Storyboard",

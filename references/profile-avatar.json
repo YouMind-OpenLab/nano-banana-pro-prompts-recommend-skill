@@ -10,6 +10,79 @@
     "needReferenceImages": false
   },
   {
+    "id": 32912,
+    "content": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a luxury fashion magazine cover shoot with a {argument name=\"outfit\" default=\"sophisticated designer outfit\"}, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, 85mm portrait lens look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
+    "title": "High Fashion Editorial Portrait",
+    "description": "Creates a sophisticated luxury magazine cover portrait that preserves the subject's unique facial features and hairstyle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071771388_1jb98i_HQ8sgbubMAAqekJ.jpg",
+      "https://cms-assets.youmind.com/media/1788071771393_pzj5xd_HQ8sgqDawAAvx2_.jpg",
+      "https://cms-assets.youmind.com/media/1788071772765_bjtdos_HQ8sg3jaUAAZKNo.jpg",
+      "https://cms-assets.youmind.com/media/1788071772188_in5yl0_HQ8shE_a4AEmxXw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32922,
+    "content": "A photorealistic close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} ({argument name=\"age\" default=\"early 20s\"}) with fair, smooth porcelain skin and soft natural makeup. She has large, expressive brown eyes with subtle double eyelids, looking directly at the camera with a gentle, slightly pouty and melancholic expression. Her black hair is styled in a high, messy bun with loose strands and soft bangs framing her face. She is wearing a cozy white ribbed long-sleeve knit sweater and light grey sweatpants, sitting cross-legged or with knees drawn up while tightly hugging a soft, plush beige rectangular pillow against her chest and chin. Soft warm indoor lighting from a bedside lamp on the right creates gentle highlights and a cozy atmosphere. Blurred background shows a bedroom with a beige wall featuring a collage of small polaroid photos on the left, a soft lamp, and neutral home decor. Shallow depth of field, natural skin texture, realistic fabric details, soft bokeh, intimate and serene mood, highly detailed, 8k quality.",
+    "title": "Cozy Bedroom Intimate Portrait",
+    "description": "An intimate photorealistic portrait of an East Asian woman in a cozy bedroom setting, focusing on soft lighting and natural textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071778107_saegd3_HQn1Z9fakAAPhlz.jpg",
+      "https://cms-assets.youmind.com/media/1788071778144_z7mdbx_HQn1Z9ZbIAAuZ5t.jpg",
+      "https://cms-assets.youmind.com/media/1788071778144_q5ehc1_HQn1Z9XboAAyBTA.jpg",
+      "https://cms-assets.youmind.com/media/1788071779013_sdcnkz_HQn1Z9lasAAkDoT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32914,
+    "content": "A close-up photographic portrait of {argument name=\"subject description\" default=\"a young East Asian woman with long, wavy dark brown hair\"} illuminated by soft rim lighting. Rays of sunlight pass through foliage, casting delicate intricate leaf shadows across her face and forehead. She has a contemplative expression with one hand softly resting near her lips, wearing a dark navy blue sweater The background is completely dark creating a high-contrast cinematic chiaroscuro effect with warm golden light highlights hyper-realistic, 8k resolution, shot on an 85mm portrait lens with soft depth of field.",
+    "title": "Golden Light Cinematic Portrait",
+    "description": "A stunning chiaroscuro portrait of a woman with delicate leaf shadows and warm golden highlights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071773279_e1ji52_HQ5jiJJaoAApZ82.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32926,
+    "content": "A highly detailed, photorealistic close-up portrait of a young East Asian woman with fair, porcelain-like skin and a soft natural glow. She has straight, dark brown hair with neat, blunt bangs cut just above her eyebrows, framing her face. Her large, expressive brown eyes are gazing upward and slightly to the side (viewer’s left), with long, natural-looking lashes and subtle eye makeup. Soft pink blush is applied to the apples of her cheeks, creating a flushed, healthy look. Her lips are slightly parted, glossy, and natural pink. A small, subtle beauty mark sits on her left cheek. She is nestled inside a {argument name=\"clothing\" default=\"thick, fluffy, pure white faux-fur hood or parka\"} that completely frames her face, with the soft, dense fur texture surrounding her head and shoulders. Soft, diffused studio lighting highlights the skin texture, the delicate sheen on her lips, and the luxurious volume of the white fur. Shallow depth of field, dreamy and intimate atmosphere, high-resolution beauty photography style, ultra-detailed skin pores and fur strands, clean soft background created entirely by the white fur.",
+    "title": "Faux Fur Hood Beauty Portrait",
+    "description": "A high-resolution beauty photography prompt for an intimate portrait of an East Asian woman nestled in a white faux-fur hood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071782459_mrtkz9_HQjvQwCaAAAZ9VG.jpg",
+      "https://cms-assets.youmind.com/media/1788071782200_3m2h55_HQjvQwObsAAgAoL.jpg",
+      "https://cms-assets.youmind.com/media/1788071783343_nf964j_HQjvQwIaAAAVf9o.jpg",
+      "https://cms-assets.youmind.com/media/1788071783698_im40mg_HQjvQwWbcAAfgGu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32924,
+    "content": "cinematic, ultra-realistic portrait of me styled as a {argument name=\"warrior type\" default=\"powerful ancient Spartan warrior\"}, shown in dramatic side profile against a pitch-black background, wearing an ornate black metallic Spartan helmet with a tall {argument name=\"crest color\" default=\"crimson-red\"} horsehair crest while keeping my entire face completely uncovered and clearly recognizable, with no mask or face covering; add polished black battle armor and a flowing deep-red Spartan cape draped over my shoulders, intense low-key lighting, sharp red rim light outlining the helmet and cape, deep shadows, high contrast, subtle metallic reflections, mysterious heroic atmosphere, minimalist composition, photorealistic textures, premium cinematic poster aesthetic, highly detailed, dramatic and imposing",
+    "title": "Cinematic Spartan Warrior Avatar",
+    "description": "A tutorial prompt for creating a cinematic and impositional Spartan warrior portrait while maintaining the user's facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071779381_5ed4ys_HQ3_TLGaYAAT4H0.jpg",
+      "https://cms-assets.youmind.com/media/1788071779435_t7nf4b_HQ3_TeXawAAL1FX.jpg",
+      "https://cms-assets.youmind.com/media/1788071779419_scpp7q_HQ3_Tv9bEAAUVdC.jpg",
+      "https://cms-assets.youmind.com/media/1788071782350_6ll0jw_HQ3_UAvagAACDN1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32927,
+    "content": "Use the attached person as they are and only change the {argument name=\"change\" default=\"composition\"}",
+    "title": "Minimal Prompt for Character Consistency",
+    "description": "A specialized instruction for Nano Banana to maintain character consistency by focusing only on composition changes rather than repetitive descriptive details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788071786561_dtq9w0_HQ37fJcaIAA1RBT.jpg",
+      "https://cms-assets.youmind.com/media/1788071786672_tjlyn0_HQ37h4baMAAEWS5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32843,
     "content": "A candid, high-resolution raw film photograph, based on image_1.png, featuring the young woman with dark hair curled playfully in the vintage brown leather armchair. The scene retains her core pose and pastel pink sweatsuit, but all background elements are rendered in sharp focus. ONLY change: the outfit color is modified to a {argument name=\"outfit color\" default=\"pastel pink\"} sweatsuit, while preserving the exact same fabric texture, folds, stitching, shading, and fit with no redesign or alteration of style. The detailed leather chair, with its ornate starburst-patterned stitching, shows clear grain and texture. The adjacent wooden side desk with the vintage analog camera and stack of film negative strips is perfectly sharp, revealing intricate details on the lens and paper edges. The curtains are distinct. On the right-hand wall, replace the previous detailed data plaque entirely with a clean, precise, legible metallic plaque that simply reads '{argument name=\"plaque text\" default=\"NOAH\"}' in sharp engraved lettering with realistic metallic reflections. Subtle natural film grain is present throughout the entire deep-focus scene, emphasizing a raw, archival photograph aesthetic without any visual blur.",
     "title": "Vintage Character Film Restoration",
