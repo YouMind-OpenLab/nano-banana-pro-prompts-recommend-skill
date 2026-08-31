@@ -20,32 +20,42 @@
     "needReferenceImages": false
   },
   {
-    "id": 32911,
-    "content": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"brand color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive glossy red sports car stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories. In the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car. Bottom center tagline: “Power, perfected. Presence, defined.” Moody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details. Aspect ratio: 3:4",
-    "title": "Luxury Automotive Surrealist Poster",
-    "description": "A premium high-fashion poster featuring a luxury sports car and a male model in a minimalist crimson studio.",
+    "id": 32985,
+    "content": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetic.",
+    "title": "Vintage Travel Journal Editorial Collage",
+    "description": "A prompt for a complex, vertical travel editorial collage combining documentary photography with hand-drawn illustrations.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788071771777_rig7l0_HQ8Z1QPbUAADNhT.jpg"
+      "https://cms-assets.youmind.com/media/1788159793398_hgiv0u_HRB6ttpa8AA8pm3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32911,
+    "content": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive {argument name=\"vehicle\" default=\"glossy red sports car\"} stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories.\\n\\nIn the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car.\\n\\nBottom center tagline: “{argument name=\"tagline\" default=\"Power, perfected. Presence, defined.\"}”\\n\\nMoody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details.\\nAspect ratio: 3:4",
+    "title": "Luxury Surrealist Automotive Poster",
+    "description": "A high-fashion surrealist poster prompt for a luxury automotive brand featuring a male model and a sculptural sports car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159794839_i53tkq_HQ8Z1QPbUAADNhT.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32918,
-    "content": "A {argument name=\"style\" default=\"vintage-style\"} illustration depicts a whimsical {argument name=\"theme\" default=\"Halloween scene\"} under a large, grinning full moon. The central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head. Beside him stands a black cat with a bow tie. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
-    "title": "Whimsical Vintage Halloween Illustration",
-    "description": "A detailed vintage-style illustration for a whimsical Halloween scene, featuring a dapper pumpkin character and a black cat under a full moon.",
+    "content": "A vintage-style illustration depicts a whimsical Halloween scene under a large, grinning full moon. The {argument name=\"subject\" default=\"central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head\"}. Beside him stands a {argument name=\"companion\" default=\"black cat with a bow tie\"}. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
+    "title": "Vintage Whimsical Halloween Illustration",
+    "description": "An illustration prompt for a festive and eerie vintage-style Halloween scene featuring a dapper pumpkin man and a black cat.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788071776170_de0wks_HQuHyz3XwAAPRGC.jpg"
+      "https://cms-assets.youmind.com/media/1788159791184_wsxvs4_HQuHyz3XwAAPRGC.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32916,
-    "content": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored {argument name=\"suit color\" default=\"dark green\"} suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
-    "title": "Luxury Watch Brand Surrealist Poster",
-    "description": "A high-fashion surrealist prompt for a luxury watch brand advertisement, featuring minimalist studio lighting and bold typography.",
+    "content": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
+    "title": "Surrealist Rolex Brand Poster",
+    "description": "A high-fashion surrealist marketing poster concept for Rolex featuring a minimalist studio and monument-sized watch.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788071774356_ycdjp7_HQ45ZOSa8AAtbrq.jpg"
+      "https://cms-assets.youmind.com/media/1788159792923_ze685v_HQ45ZOSa8AAtbrq.jpg"
     ],
     "needReferenceImages": false
   },

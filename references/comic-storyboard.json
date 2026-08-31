@@ -1,11 +1,11 @@
 [
   {
-    "id": 32918,
-    "content": "A {argument name=\"style\" default=\"vintage-style\"} illustration depicts a whimsical {argument name=\"theme\" default=\"Halloween scene\"} under a large, grinning full moon. The central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head. Beside him stands a black cat with a bow tie. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
-    "title": "Whimsical Vintage Halloween Illustration",
-    "description": "A detailed vintage-style illustration for a whimsical Halloween scene, featuring a dapper pumpkin character and a black cat under a full moon.",
+    "id": 32986,
+    "content": "Create a vertical 4:5 cooking storyboard with exactly 10 panels in a {argument name=\"grid\" default=\"2×5 grid\"}. {argument name=\"surface\" default=\"warm wooden tabletop\"}, perfect top-down view, thin white borders, dusty-pink rounded headers, cream caption boxes, numbered circles and black handwritten typography.\\n\\nShow the exact sequence: {argument name=\"dish\" default=\"dish\"} packet → packet opens → noodles enter silver pot → noodles boil → seasoning sachets come out → cooked noodles enter black bowl → seasonings fall in → noodles mix → fried egg placed on top → finished mie goreng with egg and garnishes.\\n\\nUse clear white curved arrows, motion lines and sparkles to show every movement. Keep identical object continuity, realistic food, warm lighting, clean cute editorial storyboard style, sharp details and balanced spacing. No people, no hands, no extra panels.",
+    "title": "Editorial Cooking Storyboard Layout",
+    "description": "A detailed storyboard prompt for a cooking sequence featuring mie goreng, styled for editorial food photography with technical annotations.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788071776170_de0wks_HQuHyz3XwAAPRGC.jpg"
+      "https://cms-assets.youmind.com/media/1788159793558_g5uwid_HQ9c_qzagAA6XNE.jpg"
     ],
     "needReferenceImages": false
   },

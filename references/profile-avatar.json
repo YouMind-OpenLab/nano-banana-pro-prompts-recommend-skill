@@ -10,17 +10,47 @@
     "needReferenceImages": false
   },
   {
-    "id": 32912,
-    "content": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a luxury fashion magazine cover shoot with a {argument name=\"outfit\" default=\"sophisticated designer outfit\"}, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, 85mm portrait lens look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
-    "title": "High Fashion Editorial Portrait",
-    "description": "Creates a sophisticated luxury magazine cover portrait that preserves the subject's unique facial features and hairstyle.",
+    "id": 32984,
+    "content": "A photorealistic vertical portrait photograph of a young woman with pale, freckled skin and {argument name=\"subject hair\" default=\"long, voluminous, wavy ginger hair\"} standing in a {argument name=\"setting\" default=\"sunlit forest clearing\"}. She is positioned with her back mostly to the viewer, turning her head to look over her left shoulder with a soft, direct gaze. Her eyes are a pale blue-grey, her face is dusted with freckles across the nose and cheeks, and her lips are slightly parted in a neutral, ethereal expression.",
+    "title": "Ginger Hair Forest Portrait",
+    "description": "A photography prompt for a vertical portrait of a young woman with voluminous ginger hair in a sunlit forest clearing.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788071771388_1jb98i_HQ8sgbubMAAqekJ.jpg",
-      "https://cms-assets.youmind.com/media/1788071771393_pzj5xd_HQ8sgqDawAAvx2_.jpg",
-      "https://cms-assets.youmind.com/media/1788071772765_bjtdos_HQ8sg3jaUAAZKNo.jpg",
-      "https://cms-assets.youmind.com/media/1788071772188_in5yl0_HQ8shE_a4AEmxXw.jpg"
+      "https://cms-assets.youmind.com/media/1788159792168_y24wjb_HRA9toXaMAA4THS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32982,
+    "content": "A creative double-exposure watercolor portrait composition. In the foreground, a {argument name=\"subject\" default=\"young South Asian woman\"} sits gracefully on a {argument name=\"setting\" default=\"black metal park bench\"}, wearing an {argument name=\"outfit\" default=\"elegant black sleeveless frock layered over a white top\"}, with hair styled in a neat bun. She wears bold red lipstick and a delicate white necklace, no dupatta or head covering. She rests her chin thoughtfully on her hand, one arm across her knee, smiling softly while looking off to the side.",
+    "title": "Double Exposure Watercolor Portrait",
+    "description": "A detailed prompt for creating a stylized double-exposure watercolor portrait of a woman sitting on a park bench, featuring elegant attire and a thoughtful expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159789325_q3zhmb_HQ-guxKaAAACX76.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32912,
+    "content": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a {argument name=\"style\" default=\"luxury fashion magazine cover shoot\"} with a sophisticated designer outfit, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, {argument name=\"lens\" default=\"85mm portrait lens\"} look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
+    "title": "High-Fashion Magazine Cover Identity Lock",
+    "description": "A comprehensive prompt for creating a luxurious fashion editorial portrait that maintains precise facial likeness of the user.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159796974_h6xk3m_HQ8sgbubMAAqekJ.jpg",
+      "https://cms-assets.youmind.com/media/1788159797167_dj7pcm_HQ8sgqDawAAvx2_.jpg",
+      "https://cms-assets.youmind.com/media/1788159796981_mtauk1_HQ8sg3jaUAAZKNo.jpg",
+      "https://cms-assets.youmind.com/media/1788159797578_f3iezy_HQ8shE_a4AEmxXw.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 32988,
+    "content": "Ultra realistic DSLR-style selfie portrait of a {argument name=\"subject\" default=\"girl\"} with similar facial features and body proportion, and same skin tone standing indoors during {argument name=\"lighting\" default=\"golden hour sunlight\"}, camera held slightly above eye level with natural arm extension visible in foreground, centered composition, soft confident smile, direct eye contact with camera, delicate feminine facial structure, oval face shape, smooth glowing skin with visible natural texture and pores, subtle rosy cheeks, natural glossy lips, expressive",
+    "title": "Realistic DSLR Selfie Portrait",
+    "description": "A detailed prompt for generating a lifelike DSLR-style selfie of a person, focusing on natural lighting, skin texture, and eye contact.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159795473_uy7pss_HQ8XCgmakAA6rWG.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 32922,

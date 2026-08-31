@@ -1,5 +1,26 @@
 [
   {
+    "id": 32989,
+    "content": "GTA set in {argument name=\"setting\" default=\"near-future\"} {argument name=\"location\" default=\"London\"} Concept Art",
+    "title": "Future London GTA Concept Art",
+    "description": "Generates gritty GTA-inspired concept art set in a futuristic London environment using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159796591_2sdmj6_HQ72YnVWMAAsJQl.jpg",
+      "https://cms-assets.youmind.com/media/1788159796694_51djig_HQ72Z59WEAANzP_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32919,
+    "content": "a {argument name=\"subject\" default=\"green glass marble\"} on {argument name=\"surface\" default=\"wet black slate\"}",
+    "title": "Glass Marble on Wet Slate",
+    "description": "A simple yet effective test prompt for comparing realism across multiple image generation models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788159790861_t81fyl_HQ7M1_tWMAE8Y1E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32844,
     "content": "Create a breathtaking, ultra-premium anime cinematic artwork set in a dark fantasy world, designed to look like a frame from the most expensive anime ever produced. A {argument name=\"character\" default=\"calm, impossibly charismatic male warrior stands alone on the edge of a massive ruined temple overlooking a futuristic ancient city at night\"}. He has sharp expressive eyes, detailed black hair moving naturally in the wind, an elegant dark combat coat with intricate silver detailing, subtle battle damage, and an effortless, intimidating posture. He is not attacking or shouting. He simply stands completely still, looking slightly downward with an emotionless, confident expression. His presence alone dominates the entire scene. Around him is an {argument name=\"aura effect\" default=\"enormous aura field—deep atmospheric energy flowing naturally through the environment like invisible pressure made visible\"}. Thin luminous particles, drifting embers, fragments of dust and rain curve around his body. The ground beneath his feet shows subtle cracks from the sheer pressure of his presence. His coat and hair move dramatically in the energy-filled wind. Behind him, enormous storm clouds spiral across the sky, illuminated by distant lightning. A gigantic moon breaks through the clouds, creating a powerful silhouette around his figure. Far below, thousands of tiny city lights create immense depth and scale. The aura should feel beautiful, intimidating and otherworldly, not like a generic glowing outline. Use layered translucent energy, atmospheric distortion, subtle light refraction, floating particles and faint wave-like pressure around the character. Keep the character's face and body sharply defined while the environment reacts to his presence. Composition: low-angle hero shot, character positioned slightly off-center, massive negative space above him, dramatic depth, foreground particles, distant city below, enormous sky, cinematic perspective. Visual style: elite modern anime production, extraordinarily detailed linework, painterly backgrounds, realistic lighting, physically believable shadows, cinematic color grading, realistic atmospheric perspective, highly detailed eyes, hair strands and fabric, subtle skin texture, volumetric moonlight, high contrast, razor-sharp focal subject, breathtaking environmental detail. Blend stylized anime character design with realistic cinematic rendering, so the image feels like a premium anime still rather than a generic illustration. The character should radiate the ultimate “aura farming” energy: silent confidence, overwhelming presence, effortless dominance, mysterious power, elegance and danger. No text, no logos, no watermark, no goofy expression, no exaggerated screaming, no giant muscles, no generic superhero costume, no messy composition, no excessive neon, no blurry face, no distorted anatomy, no extra fingers, no deformed hands, no cheap CGI appearance. Aspect ratio: 16:9. Ultra-detailed, cine",
     "title": "Premium Dark Fantasy Anime Cinematic",
