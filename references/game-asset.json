@@ -1,5 +1,25 @@
 [
   {
+    "id": 33105,
+    "content": "A single apple crossing a black void, moving right to left, progressively transforming along that horizontal axis. At the right edge: a complete photographic apple, taut red skin, one sharp specular highlight. Through the centre: the skin becomes clear refractive glass",
+    "title": "Prompt:\n\nA single apple crossing a black void, mov",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245881072_bs81uo_HRGtFW6WwAAUp2C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33083,
+    "content": "Create a breathtaking, ultra-premium anime cinematic artwork set in a dark fantasy world, designed to look like a frame from the most expensive anime ever produced.\n\n{argument name=\"warrior\" default=\"A calm, impossibly charismatic male warrior\"} stands alone on the edge of a massive ruined temple overlooking a futuristic ancient city at night. He has sharp expressive eyes, detailed black hair moving naturally in the wind, an elegant dark combat coat with intricate silver detailing, subtle battle damage, and an effortless, intimidating posture.\n\nHe is not attacking or shouting. He simply stands completely still, looking slightly downward with an emotionless, confident expression. His presence alone dominates the entire scene.\n\nAround him is an {argument name=\"aura\" default=\"enormous aura field—deep atmospheric energy\"} flowing naturally through the environment like invisible pressure made visible. Thin luminous particles, drifting embers, fragments of dust and rain curve around his body. The ground beneath his feet shows subtle cracks from the sheer pressure of his presence. His coat and hair move dramatically in the energy-filled wind.\n\nBehind him, enormous storm clouds spiral across the sky, illuminated by distant lightning. A {argument name=\"moon\" default=\"gigantic moon\"} breaks through the clouds, creating a powerful silhouette around his figure. Far below, thousands of tiny city lights create immense depth and scale.\n\nThe aura should feel beautiful, intimidating and otherworldly, not like a generic glowing outline. Use layered translucent energy, atmospheric distortion, subtle light refraction, floating particles and faint wave-like pressure around the character. Keep the character's face and body sharply defined while the environment reacts to his presence.\n\nComposition: low-angle hero shot, character positioned slightly off-center, massive negative space above him, dramatic depth, foreground particles, distant city below, enormous sky, cinematic perspective.\n\nVisual style: elite modern anime production, extraordinarily detailed linework, painterly backgrounds, realistic lighting, physically believable shadows, cinematic color grading, realistic atmospheric perspective, highly detailed eyes, hair strands and fabric, subtle skin texture, volumetric moonlight, high contrast, razor-sharp focal subject, breathtaking environmental detail.\n\nBlend stylized anime character design with realistic cinematic rendering, so the image feels like a premium anime still rather than a generic illustration.\n\nThe character should radiate the ultimate “aura farming” energy: silent confidence, overwhelming presence, effortless dominance, mysterious power, elegance and danger.\n\nNo text, no logos, no watermark, no goofy expression, no exaggerated screaming, no giant muscles, no generic superhero costume, no messy composition, no excessive neon, no blurry face, no distorted anatomy, no extra fingers, no deformed hands, no cheap CGI appearance.\n\nAspect ratio: 16:9. Ultra-detailed, cinematic, breathtaking, premium anime key visual",
+    "title": "Elite Anime Cinematic Warrior Aura",
+    "description": "A prompt for generating high-end anime key visuals featuring a charismatic warrior with a dominant, atmospheric energy aura in a ruined temple setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245868600_lycm8i_HRCHmQVawAANNQN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32989,
     "content": "GTA set in {argument name=\"setting\" default=\"near-future\"} {argument name=\"location\" default=\"London\"} Concept Art",
     "title": "Future London GTA Concept Art",

@@ -10,12 +10,88 @@
     "needReferenceImages": false
   },
   {
-    "id": 32984,
-    "content": "A photorealistic vertical portrait photograph of a young woman with pale, freckled skin and {argument name=\"subject hair\" default=\"long, voluminous, wavy ginger hair\"} standing in a {argument name=\"setting\" default=\"sunlit forest clearing\"}. She is positioned with her back mostly to the viewer, turning her head to look over her left shoulder with a soft, direct gaze. Her eyes are a pale blue-grey, her face is dusted with freckles across the nose and cheeks, and her lips are slightly parted in a neutral, ethereal expression.",
-    "title": "Ginger Hair Forest Portrait",
-    "description": "A photography prompt for a vertical portrait of a young woman with voluminous ginger hair in a sunlit forest clearing.",
+    "id": 33084,
+    "content": "A close-up portrait of a serene young woman with closed eyes and a peaceful expression. She has pale skin with soft rosy cheeks, fine freckles across her nose and cheeks, and subtle pink lips. Her long, flowing hair is a {argument name=\"hair color\" default=\"vibrant, rich teal-blue\"} with soft waves framing her face. She is wearing a {argument name=\"hat\" default=\"cozy, chunky knit mustard-yellow beanie\"} pulled low and a matching thick, textured mustard-yellow woolen scarf wrapped warmly around her neck. Dreamy, painterly illustration style with soft colored pencil textures, pastel shading, and fine grain on a {argument name=\"background\" default=\"dark teal background\"} with delicate specks and flecks of gold and white paint splatter.",
+    "title": "Teal Hair Serene Portrait Illustration",
+    "description": "A painterly illustration prompt for a serene woman with teal-blue hair and a mustard-yellow beanie, featuring soft pencil textures and gold splatter.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788159792168_y24wjb_HRA9toXaMAA4THS.jpg"
+      "https://cms-assets.youmind.com/media/1788245868986_uim5ow_HRDqKJFbIAAPeWw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33090,
+    "content": "Breathtakingly beautiful young woman with {argument name=\"hair type\" default=\"dark brunette\"} hair loosely swept up into a casual undone updo with {argument name=\"bangs style\" default=\"wispy curtain bangs\"} falling softly over her forehead, mesmerizing deep olive-green eyes with a direct magnetic gaze, naturally scattered fine freckles across her nose and cheeks, dramatically flushed rose-pink cheeks, full softly parted terracotta-peach glossy lips, luminously dewy glowing {argument name=\"skin tone\" default=\"porcelain\"} skin — one hand raised delicately with knuckles resting against her chin,",
+    "title": "Brunette Portrait with Casual Updo",
+    "description": "A high-detail portrait prompt for a young woman with brunette hair and olive-green eyes, focusing on soft lighting and natural skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245871979_usrchw_HRG_l91aMAAY0LQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33086,
+    "content": "Use my uploaded photo as the exact face reference. Preserve my facial features, beard, hairstyle, skin tone, and identity exactly. Create an ultra-realistic cinematic studio headshot with {argument name=\"lighting\" default=\"dramatic Rembrandt lighting\"}. Black background with soft {argument name=\"rim light\" default=\"red rim light\"} and subtle purple accent light. Looking to the side with an intense expression. {argument name=\"lens\" default=\"85mm lens\"}, f/1.4, razor-sharp eyes, natural skin texture, high contrast, Hollywood color grading, volumetric lighting, ultra-realistic 8K, DSLR quality, no watermark, no text, no face alteration.",
+    "title": "Realistic Cinematic Headshot",
+    "description": "An ultra-realistic studio headshot prompt that preserves facial features from a reference photo while adding dramatic Rembrandt lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245870412_8nmv3s_HRG4mTla0AA19ZO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33104,
+    "content": "Create an image side-profile artistic portrait of a woman looking away from the camera toward a light source. ​Her voluminous dark brown hair is styled in loose waves, catching soft highlights. ​She wears a {argument name=\"clothing\" default=\"delicate off-the-shoulder white lace garment\"} featuring intricate floral lace patterns. ​Sheer, puffy organza sleeves add a soft, romantic, and dreamy quality to her attire. ​Soft daylight filters through sheer curtains in the background, creating a gentle backlight.",
+    "title": "Side-Profile Dreamy Lace Portrait",
+    "description": "An artistic portrait prompt featuring a side-profile view of a woman in romantic lace and organza, illuminated by soft natural light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245880798_il1iuo_HRGtRG1b0AAsBOF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33097,
+    "content": "A close-up mixed-media portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} with vibrant {argument name=\"hair color\" default=\"electric-blue\"} hair and striking {argument name=\"eye color\" default=\"cyan\"} eyes. She has scattered freckles across her nose and cheeks, glowing luminous skin, and glossy cherry-red lips slightly parted. The artwork is created in a contemporary urban collage and decollage street-art style, featuring layered textures over a distressed wooden surface. Overlaid elements include torn vintage ephemera, faded postage stamps, delicate architectural line sketches, scribbled pencil marks, white paint splatters, and subtle cracked textures across the canvas. High contrast, intricate details, textured mixed-media painting, fine art gallery quality.",
+    "title": "Mixed-Media Portrait with World Map Textures",
+    "description": "A creative mixed-media portrait prompt that blends urban collage styles with vintage map textures and vibrant blue hair for a contemporary street-art aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245876730_qlnb8q_HRGfM85aAAAgDU4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33096,
+    "content": "A high-quality, close-up oil painting portrait of a {argument name=\"subject\" default=\"young East Asian woman\"}, rendered in a bold, expressive, highly texturized style with dynamic, swirling brushstrokes. The woman, with her head resting thoughtfully on her right hand, gazes directly and confidently at the viewer. She has dark, wavy, shoulder-length hair that flows dynamically with the visible, swirling patterns of paint. The entire background is composed of a vortex of fiery, swirling brushstrokes in a palette of deep golds, oranges, and warm reds, creating a powerful sense of movement and energy. She is wearing a {argument name=\"clothing\" default=\"simple, light lavender-purple crewneck t-shirt\"} and dark, perhaps denim, bottoms, with the visible strap of a messenger bag over her left shoulder. The paint application is heavy and impasto throughout the figure, face, clothing, and background, giving the artwork a tangible, sculpted feel where every stroke is visible. The light is warm and dramatic, originating from the swirling background, highlighting her features and the texture of the paint. The canvas is vertical. Signed '{argument name=\"signature\" default=\"K\"}' in the bottom right. The focus is sharp on her face and eyes, while the hair and background dissolve into the vortex of paint. Captured with a macro lens to show the detail of the paint and canvas.",
+    "title": "Impasto Oil Painting Soulful Portrait",
+    "description": "A detailed prompt for generating expressive oil painting portraits with heavy impasto textures and dynamic, swirling backgrounds that convey a sense of movement and energy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245876263_px8f1s_HRCFE1rawAABPum.jpg",
+      "https://cms-assets.youmind.com/media/1788245876260_jl6y0c_HRCFE1yb0AANQPU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33099,
+    "content": "Close-up realistic selfie portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} in her {argument name=\"age\" default=\"early 20s\"}, long straight silky black hair with soft curtain bangs and a small red hair clip on the left side, fair porcelain skin with natural soft makeup, glossy plump lips with a subtle pink tint, {argument name=\"eye color\" default=\"light blue-gray\"} eyes looking directly at the camera with a calm slightly pouty expression, thin red oval metal-frame glasses, resting her right cheek on her hand with fingers gently curled under her chin, wearing a white long-sleeve cardigan over a black top, soft natural indoor lighting with gentle highlights on her face and hair, dark blurred background, shallow depth of field, highly detailed face and eyes, photorealistic, 8k, sharp focus --ar 2:3 --stylize 250 --v 6",
+    "title": "Realistic Selfie Portrait with Red Glasses",
+    "description": "A detailed prompt for generating a hyper-realistic indoor selfie of a young East Asian woman, featuring soft natural lighting and distinctive red glasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245877087_hf5lo1_HQx4NM8asAEi0Ix.jpg",
+      "https://cms-assets.youmind.com/media/1788245877045_09m3nm_HQx4NMyaIAAdEwE.jpg",
+      "https://cms-assets.youmind.com/media/1788245877038_u1wnog_HQx4NNKaEAA5U6d.jpg",
+      "https://cms-assets.youmind.com/media/1788245877868_1whw8g_HQx4NM9a8AAh6M4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33095,
+    "content": "A soft close-up portrait of a young East Asian woman with fair, smooth skin and a gentle, slightly sideways gaze looking toward the camera. She has large dark eyes with long, fluttery eyelashes, soft winged eyeliner, defined arched eyebrows, light pink blush on her cheeks, and glossy soft-pink lips. She is wearing a {argument name=\"hijab color\" default=\"light dusty-pink (mauve-rose)\"} hijab made of soft, slightly wrinkled fabric that is loosely draped around her head and neck, with gentle folds framing her face. She wears a {argument name=\"top style\" default=\"fitted white ribbed long-sleeve top\"} with delicate ruffled cuffs. One hand is lightly raised near her chest, fingers gently touching the hijab. Soft, warm indoor lighting creates gentle shadows on the right side of her face and a soft glow on her skin. The background is slightly blurred with {argument name=\"background details\" default=\"muted greenish-brown curtains and a few small photos pinned on the wall\"}. Intimate, natural, soft aesthetic, high detail, realistic skin texture, cinematic soft lighting, shallow depth of field.",
+    "title": "Intimate Hijab Portrait",
+    "description": "A soft, intimate close-up portrait prompt of a woman in a dusty-pink hijab, focusing on warm lighting and delicate textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg",
+      "https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg",
+      "https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg"
     ],
     "needReferenceImages": false
   },

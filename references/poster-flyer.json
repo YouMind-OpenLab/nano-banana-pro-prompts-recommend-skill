@@ -20,6 +20,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 33092,
+    "content": "Ultra-detailed editorial portrait, using enclosed objects. Close-up frontal composition, serious and exhausted expression. Style: {argument name=\"art style\" default=\"hybrid technical pen and ink engraving\"} + neo-noir graphic novel + architectural blueprint collage + modern infographic layout. The face is drawn with very fine cross-hatching lines, ultra-sharp micro-details, high-precision vector ink textures, dramatic high-contrast lighting. The color palette is strictly limited to monochrome grayscale with {argument name=\"accent color\" default=\"bold red\"} accent panels. The {argument name=\"background color\" default=\"cardboard brown\"} background, composed of UI framework aesthetics, micro-typography blocks, technical schematics, surveillance photo frames, data grids. Include several small inset portrait panels of the same character on the right side in various poses, maintaining a consistent engraving style. Add subtle rain textures and ink splatters for a grainy realism. Vertical poster layout composition, editorial magazine quality, very clean edges, balanced negative space.",
+    "title": "Noir Editorial Graphic Portrait",
+    "description": "A complex editorial illustration prompt combining technical pen engraving, noir aesthetics, and architectural elements for a dramatic portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245873530_r11p38_HRG5losaoAEaSCK.jpg",
+      "https://cms-assets.youmind.com/media/1788245873589_nr1ako_HRG5lovbAAAODX-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33088,
+    "content": "High-fashion studio portrait of an elegant woman in {argument name=\"lighting\" default=\"dramatic chiaroscuro lighting\"} against a solid dark gray backdrop. She wears an {argument name=\"accessory\" default=\"oversized wide-brimmed black wool felt hat\"} tilted downward, casting deep shadows that completely obscure her eyes and forehead. Visible are her delicate jawline, sculpted cheekbones, and bold matte crimson red lips. She is dressed in an {argument name=\"clothing\" default=\"off-the-shoulder black bandage evening dress\"}, highlighting her exposed collarbone and sleek neck. Directional soft key light from the side, deep shadows, minimalist, sophisticated, shot on 85mm lens, f/1.8, crisp detail, vogue editorial style.",
+    "title": "Chiaroscuro Fashion Portrait",
+    "description": "A high-fashion studio portrait prompt utilizing dramatic chiaroscuro lighting and an oversized hat to create mystery and elegance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245870934_xvemmd_HRDlZMvbkAAqKRy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33094,
+    "content": "Create a premium, hyper-realistic high-fashion editorial magazine cover using my uploaded face as the ONLY identity reference for the main {argument name=\"gender\" default=\"male\"} model. Preserve my exact facial identity, facial structure, skin tone, eyes, eyebrows, nose, lips, jawline, beard/facial hair, hair characteristics, and natural features. Keep me instantly recognizable and do not beautify, reshape, feminize, or alter my facial proportions.\n\nRecreate the overall composition and dramatic luxury aesthetic of the reference image: a sophisticated fashion portrait with the model seated confidently in a large, oversized sculptural armchair, surrounded by an enormous luxurious {argument name=\"coat color\" default=\"deep midnight-blue and icy-blue\"} faux-fur coat/blanket flowing dramatically around the chair. The model wears an elegant black high-fashion tailored outfit, creating a strong contrast against the blue fur.\n\nPose: seated in a relaxed but powerful editorial posture, one leg extending naturally forward, shoulders relaxed, body facing slightly toward the camera, one arm resting naturally, confident direct eye contact with the camera. Maintain realistic masculine proportions and anatomy.\n\nLighting: cinematic studio lighting, soft directional key light on the face, subtle rim lighting around the hair and shoulders, deep controlled shadows, glossy fashion-editorial highlights, rich midnight-blue atmosphere.\n\nBackground: seamless dark navy-blue studio backdrop with subtle tonal gradients, luxurious and minimal, creating a sophisticated winter-night mood.\n\nComposition: vertical 4:5, full editorial cover framing, model centered, dramatic negative space around the upper portion, highly polished magazine photography, realistic skin texture, individual hair strands, extremely detailed fur fibers, natural shadows, premium fashion photography, 85mm lens aesthetic, shallow depth of field, ultra-realistic, cinematic, sophisticated, expensive and exclusive.\n\nAdd a large “{argument name=\"magazine title\" default=\"VOGUE\"}”-style fashion magazine masthead at the top, with elegant white serif typography. Add minimal tasteful fictional editorial headlines around the model, keeping the typography clean and believable. Do not copy any real magazine cover text or logos exactly.\n\nOverall mood: dark luxury, winter couture, mysterious, powerful, sophisticated, cinematic high fashion.",
+    "title": "Luxury Fashion Editorial Magazine Cover",
+    "description": "A detailed prompt for creating a luxury fashion magazine cover, designed to preserve the user's facial identity while placing them in a sophisticated studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245875218_zr2od5_HRGBgUpbcAApjhE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33089,
+    "content": "Fine art photography, head and torso portrait, warm light, soft saturation, early 20's supermodel, tousled bronde ombré hair, {argument name=\"eye color\" default=\"emerald green eyes\"}, parted pink lips, {argument name=\"clothing\" default=\"white silk gown\"}, {argument name=\"accessory\" default=\"gold necklace and earrings\"}. Soft bokeh background, dust particles in light beam. deep contrast.",
+    "title": "Fine Art Model Portrait",
+    "description": "A fine art photography prompt for a supermodel portrait with warm lighting, soft bokeh, and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245871824_7of685_HRCE_oDbcAAITS9.jpg",
+      "https://cms-assets.youmind.com/media/1788245871820_3fqg8e_HRCE_oDakAAny0u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32985,
     "content": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetic.",
     "title": "Vintage Travel Journal Editorial Collage",
@@ -28,6 +70,17 @@
       "https://cms-assets.youmind.com/media/1788159793398_hgiv0u_HRB6ttpa8AA8pm3.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 33082,
+    "content": "Create a premium, hyper-realistic fashion editorial magazine cover using my uploaded face as the ONLY identity reference for the main model. Preserve my exact facial identity, facial structure, skin tone, eyes, eyebrows, nose, lips, face shape, hair characteristics, and natural features. Keep me instantly recognizable and do not beautify, reshape, or alter my facial proportions.\n\nRecreate the overall composition and sophisticated editorial mood of the reference: a stylish woman seated confidently in a large sculptural luxury armchair, relaxed yet powerful posture, one arm resting naturally on the chair and the other resting elegantly near the lap, legs positioned naturally, looking directly toward the camera with a calm, confident expression. Full-body fashion portrait with the chair and model clearly visible.\n\nReplace all branding and typography from the reference with a completely new visual identity:\n\nLarge elegant “A” as the dominant oversized background letter\n“{argument name=\"model name\" default=\"ANIYA\"}” as the main name\nSmall text: “VISUAL IDENTITY”\nSmall editorial text: “FASHION • LIFESTYLE”\nYear: “2026”\nVertical side text: “A NEW CHAPTER OF CREATIVITY AND IDENTITY”\nKeep the typography minimal, refined, luxury-magazine inspired, with clean modern spacing.\n\nNew outfit\n\nReplace the original olive suit with a much more attractive {argument name=\"outfit\" default=\"deep burgundy and champagne luxury fashion ensemble\"}: a tailored burgundy velvet blazer with subtle satin lapels, fitted champagne silk camisole underneath, high-waisted wide-leg burgundy trousers with elegant flowing fabric, delicate gold jewelry, and sophisticated pointed-toe metallic champagne heels. Make the clothing extremely realistic with visible velvet texture, silk highlights, natural folds, stitching, and premium tailoring.\n\nColor & atmosphere\n\nUse a sophisticated deep burgundy, warm champagne-gold, and dark espresso color palette instead of the original green tones. Create a dramatic luxury studio environment with a warm champagne spotlight behind the oversized “A”, subtle golden rim lighting around the hair and shoulders, soft cinematic shadows, gentle highlights on the face, and a dark burgundy gradient background.\n\nThe {argument name=\"chair\" default=\"armchair should be a large sculptural contemporary chair in deep wine-burgundy velvet\"}, with realistic fabric texture and elegant architectural curves.\n\nUltra-photorealistic skin texture, realistic pores, individual hair strands, natural facial expression, realistic hands and fingers, physically accurate fabric, premium jewelry reflections, cinematic depth of field, subtle film grain, sophisticated color grading, high dynamic range, luxury fashion campaign photography, Vogue-inspired editorial aesthetic, elegant and expensive visual language.\n\nVertical 4:5 composition, full-body portrait, model and chair centered slightly toward the lower-middle of the frame, oversized “A” dominating the background without obscuring the subject, balanced negative space for typography, extremely polished commercial photo",
+    "title": "Luxury Fashion Editorial Magazine Cover",
+    "description": "A detailed prompt for creating a sophisticated burgundy-themed fashion magazine cover with a customized model identity and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788245868093_03ng20_HQ-qApNaAAAKdh1.jpg",
+      "https://cms-assets.youmind.com/media/1788245868254_c8jb4w_HQ-qApEbEAAaVS9.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32911,
