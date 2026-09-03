@@ -1,5 +1,56 @@
 [
   {
+    "id": 33268,
+    "content": "Create a cinematic 3D animated-film still for an original animated series called BOTU Universe. {argument name=\"character\" default=\"BOTU\"} is the main character: a small child-like AI Bureau archivist with a cream-colored bald head, large expressive brown eyes, a silver circular Memory Aperture centered on his forehead, glowing blue circular Listening Orbit rings around his ears, and a black leather-textured Bureau coat with gold piping and a gold BOTU Bureau emblem. Keep this character design consistent and clearly recognizable. SCENE: {argument name=\"scene\" default=\"Inside the mysterious BOTU Bureau Archive, BOTU suddenly discovers that it is raining indoors\"}. BOTU stands alone on a polished dark marble floor surrounded by enormous archive shelves, mysterious files, brass lamps and floating blue Memory Threads. Rain falls directly over BOTU in a small concentrated patch. BOTU looks upward in complete confusion. The floor around him is mostly dry, making the impossible indoor rain immediately obvious. His expression should communicate: \"What is happening?\" The silver Memory Aperture on BOTU's forehead must be clearly visible. COMPOSITION: Wide cinematic shot with BOTU clearly visible in the center. Strong visual storytelling. Rain clearly visible. Large mysterious Bureau Archive surrounding him. Dynamic perspective and depth. No empty areas. STYLE: {argument name=\"style\" default=\"High-quality stylized 3D animated feature-film aesthetic\"}. Expressive character acting. Cinematic lighting. Detailed environment. Polished materials. Warm gold Bureau lighting contrasted with cool blue Memory Thread glow. Family-friendly mystery-comedy tone. IMPORTANT: BOTU's character design must remain unchanged. Do not remove or alter the forehead Memory Aperture. Do not change his clothing, proportions, face, eyes, colors or Bureau emblem. No other characters. No text. No watermark. Aspect ratio: 16:9. Story Boarding",
+    "title": "Cinematic Animated AI Archivist",
+    "description": "A cinematic 3D animated film still for an original series featuring a consistent character design of a small AI archivist in a mysterious library archive.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418032857_litw4u_HRO0NUdbUAA11wx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33267,
+    "content": "Triptych 9:16, left large panel + 2 stacked right, thin white borders. Use exact face identity 100% like ref, FACE LOCKED; young Caucasian woman, freckles, {argument name=\"hair style\" default=\"dark-brown layered hair, wispy bangs\"}. {argument name=\"outfit\" default=\"Burgundy/cream striped rugby polo, light-wash wide-leg jeans, white sneakers, burgundy scrunchie\"}. Silver ribbed suitcase + burgundy bow bag. {argument name=\"scene\" default=\"Left: standing by suitcase, arm raised peace sign, big smile. Top-right: hand in hair, eyes closed, happy smile.\"}",
+    "title": "Airport Golden Hour Triptych",
+    "description": "A detailed multi-panel triptych layout featuring a young woman at an airport during golden hour, focused on maintaining consistent facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418032272_1v08pk_HROBzTMbMAA4ruh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33191,
+    "content": "A photorealistic young woman with {argument name=\"hair style\" default=\"long wavy dark hair\"}, natural makeup, expressive eyes and a gentle smile, wearing a {argument name=\"outfit\" default=\"white off-shoulder blouse, pastel pink pleated skirt\"}, delicate jewelry and a slim white shoulder bag. Create a romantic feminine editorial collage with one large portrait on the right and two smaller portraits on the left. White background with {argument name=\"background details\" default=\"pink water color splashes, flowers, butterflies and botanical elements\"}.",
+    "title": "Romantic Feminine Editorial Collage",
+    "description": "Creates a romantic and feminine editorial collage featuring a photorealistic woman, pastel colors, and botanical design elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418039630_dhdd3n_HRLl2eBaoAAG4v_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33206,
+    "content": "Ethereal ocean-fantasy anime illustration of a beautiful young adult woman, vertical 9:16 composition. She has a delicate youthful face, large expressive blue-gray eyes, soft peach-toned skin, a small elegant nose, and a bright gentle smile. Her hair is long, voluminous {argument name=\"hair color\" default=\"aqua-blue and turquoise\"}, flowing dramatically around her body as if carried by underwater currents. Loose curled strands frame her face, with decorative braids and small ocean-inspired ornaments woven into the hair.\n\nShe wears an elegant flowing {argument name=\"outfit\" default=\"sea-blue fantasy gown\"} inspired by ancient Greek and mermaid aesthetics. The dress has a fitted strapless pale aqua bodice with soft gathered fabric and subtle translucent layers. A wide ornate waist sash wraps around her waist, decorated with golden rope, seashell-like details, pearls, and intricate metallic ornaments. The lower dress is long, flowing, and lightweight, with layered translucent blue fabric sweeping dramatically outward.\n\nAccessories\nDelicate gold forehead ornament\nLayered pearl and turquoise necklace\nSmall seashell and floral hair ornaments\nGold bracelets and thin bangles\nElegant decorative earrings\nFine gold detailing throughout the outfit\nPose\n\nShe stands gracefully with both arms raised above her head, hands gently overlapping, creating an elegant flowing silhouette. Her body is slightly turned while her face looks toward the viewer. Her long blue hair and dress billow dramatically around her, creating a sense of movement and magical energy.\n\nBackground\n\nA fantasy ocean environment filled with sweeping turquoise waves, foamy white water, floating droplets, soft mist, and flowing ribbons of blue water. The composition should feel as though she is emerging from a magical sea. White negative space and pale aqua tones contrast beautifully with the vivid turquoise elements.\n\nArt Style\n\n{argument name=\"style\" default=\"High-detail Japanese fantasy illustration\"}, elegant anime character art, watercolor and ink painting, delicate linework, soft cel-shading, painterly textures, luminous highlights, flowing fabric, dynamic hair movement, intricate costume design, magical ocean atmosphere, graceful feminine composition, dreamy fantasy poster aesthetic.\n\nColor palette: turquoise, aqua blue, pale cyan, ivory white, soft gold, subtle peach skin tones.\n\nNegative prompt: photorealistic, 3D CGI, plastic texture, modern clothing, dull colors, distorted anatomy, extra fingers, malformed hands, asymmetrical eyes, messy facial features, low detail, blurry artwork, heavy outlines, text, watermark, logo.",
+    "title": "Ethereal Mermaid Fantasy Anime Art",
+    "description": "A detailed Japanese fantasy illustration prompt featuring an ethereal woman with flowing aqua-blue hair. The scene is set in a magical ocean environment with watercolor textures and intricate costume details inspired by ancient Greek and mermaid aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418045895_rn9hdl_HRGyrx8acAAV86w.jpg",
+      "https://cms-assets.youmind.com/media/1788418043979_ry3lb1_HRGys9Xa8AAHjok.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33284,
+    "content": "TITLE: Premium Coconut Water Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium natural beverage campaign\n• 8 cinematic product-focused scenes\n• Product remains the central hero\n• High-end advertising agency presentation\n\nHEADER:\n• Clean modern typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Fresh Natural Beverage Commercial\n  - Product: Coconut Water\n  - Audio: Tropical Water + Refreshing ASMR\n• Why This Style Works section\n• White, coconut green and natural beige aesthetic\n• Minimal tropical decorative accents\n\nSTORYBOARD:\n1. Chilled coconut water bottle standing on wet natural stone, covered in condensation\n2. Bottle cap opening with a crisp close-up of the seal\n3. Coconut water pouring into a transparent glass\n4. Clear liquid swirling inside the glass with tiny bubbles\n5. Fresh coconut pieces dropping beside the bottle in slow motion\n6. Ice cubes falling into the drink and creating a controlled splash\n7. Extreme macro of condensation droplets running down the bottle\n8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.\n\nSTYLE:\nUltra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.",
+    "title": "Coconut Water Product Storyboard",
+    "description": "A detailed multi-panel storyboard prompt for a premium coconut water commercial. It outlines eight cinematic scenes focusing on product details like condensation, liquid swirls, and splashes, presented in a high-end agency style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418042772_wytgm3_HRIV2OMWEAAdkxS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33092,
     "content": "Ultra-detailed editorial portrait, using enclosed objects. Close-up frontal composition, serious and exhausted expression. Style: {argument name=\"visual style\" default=\"hybrid technical pen and ink engraving + neo-noir graphic novel + architectural blueprint collage + modern infographic layout\"}. The face is drawn with very fine cross-hatching lines, ultra-sharp micro-details, high-precision vector ink textures, dramatic high-contrast lighting. The color palette is strictly limited to {argument name=\"color scheme\" default=\"monochrome grayscale with bold red accent panels\"}. The {argument name=\"background style\" default=\"cardboard brown background, composed of UI framework aesthetics, micro-typography blocks, technical schematics\"}, surveillance photo frames, data grids. Include several small inset portrait panels of the same character on the right side in various poses, maintaining a consistent engraving style. Add subtle rain textures and ink splatters for a grainy realism. Vertical poster layout composition, editorial magazine quality, very clean edges, balanced negative space.",
     "title": "Technical Engraving Editorial Portrait",

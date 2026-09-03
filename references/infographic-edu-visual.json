@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 33285,
+    "content": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" default=\"chart showing annual growth\"}.",
+    "title": "Corporate Revenue Report Infographic",
+    "description": "A clean and professional infographic prompt for presenting financial data, such as a company's revenue report. It includes clear headings and charts for annual growth visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418046936_8ijwch_HRMjI63X0AEYwgg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32985,
     "content": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetic.",
     "title": "Vintage Travel Journal Editorial Collage",

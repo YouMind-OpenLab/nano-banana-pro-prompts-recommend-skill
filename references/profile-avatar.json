@@ -10,6 +10,46 @@
     "needReferenceImages": false
   },
   {
+    "id": 33282,
+    "content": "Pearls in the light. Mind somewhere else [A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a {argument name=\"setting\" default=\"cozy study room\"}. He has textured brownish hair, wearing a {argument name=\"outfit\" default=\"loose-fit, relaxed white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
+    "title": "Study Room Sunset Portrait",
+    "description": "A cinematic close-up film portrait of a man in a cozy study room during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418041487_8sendd_HRRVwlybUAAiiFc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33281,
+    "content": "A close-up cinematic portrait of a {argument name=\"subject\" default=\"young woman with natural beauty, hazel eyes\"}, and slightly parted lips. Her {argument name=\"hair\" default=\"wavy, warm-brown hair\"} is loosely tied back with soft, messy tendrils framing her face. She is wearing a {argument name=\"outfit\" default=\"fitted black ribbed knit mock-neck top\"}. Golden hour sunlight streams through a window, casting sharp, dramatic slatted shadow patterns diagonally across her face and neck. High-contrast chiaroscuro lighting, warm golden tones with deep shadows, visible skin texture and subtle freckles, shot on 85mm f/1.4 lens, shallow depth of field, soft muted background, moody editorial photography.",
+    "title": "Golden Hour Slatted Shadows",
+    "description": "A moody cinematic portrait featuring dramatic window shadow patterns and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418041131_tzw1om_HROk6DfbcAANuUX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33271,
+    "content": "Turn this image into a: Ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"confident man\"}, with {same} expressions on his face & he must watching straightly towards the camera,his body, face & eyes also must be exactly straightly towards the camera. Image must look Premium studio-quality facial details, highly realistic skin texture with visible pores, natural forehead lines, subtle wrinkles, fine facial imperfections, realistic subsurface scattering, detailed beard follicles, sharp beard edges, natural lip texture, realistic eyelashes, and high-definition eyebrows. Warm brown eyes with bright catchlights and crystal-clear iris detail. Cinematic YouTube thumbnail style, extremely sharp focus on face, shallow depth of field, professional key light from front-left, soft rim light around head and shoulders, subtle contrast enhancement, dramatic but clean lighting, premium camera quality, hyper-detailed skin rendering, photorealistic facial anatomy, 8K detail, ultra-clean image quality. (Remove the mic & chain) Preserve the exact facial identity, facial structure, proportions, eye shape, nose shape, beard pattern, hairline, skin tone, and all unique facial features from the reference image. Do not alter the person's face in any way. Maintain 100% likeness and identity accuracy. Show his body from up of his hairs to slightly up from the navel. Bg: {argument name=\"background\" default=\"Pure white\"}.",
+    "title": "High Definition Portrait Transformation",
+    "description": "A comprehensive image transformation prompt for creating an ultra-realistic, studio-quality close-up portrait with precise control over facial identity and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418034299_oyrq26_HRO9qF1W0AUIeas.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33277,
+    "content": "Photorealistic candid mirror selfie of two adult women in a modern commercial gym after an intense workout. Vertical smartphone photograph, full-body composition. On the left, a fair-skinned adult woman with long naturally wavy auburn-red hair, wearing a fitted black cropped athletic T-shirt and snug off-white workout shorts. She stands in a relaxed three-quarter pose, looking toward the mirror with a subtle genuine smile. On the right, a tan-skinned adult woman with long dark brown wet-looking hair, wearing a fitted long-sleeve gray athletic top and matching gray workout shorts. She holds a modern smartphone at chest height, taking the mirror selfie, with a relaxed slightly tired post-workout expression. Large wall-to-wall gym mirror, realistic reflection, rows of weight machines, benches, cable machines, dumbbells and workout equipment visible in the background. Dark rubber gym flooring, industrial modern fitness-center interior, muted gray and black color palette, overhead fluorescent lighting. Both women have natural skin texture, slight perspiration from exercising, realistic hair strands, authentic athletic clothing fabric and believable anatomy. Natural smartphone photography, candid unposed feeling, realistic perspective, subtle wide-angle phone lens distortion, detailed mirror reflections, realistic shadows, balanced exposure, slightly imperfect everyday photograph, documentary fitness photography aesthetic, ultra-photorealistic, high detail, no studio lighting, no glamour retouching.",
+    "title": "Candid Gym Mirror Selfie",
+    "description": "A photorealistic prompt for a candid gym mirror selfie featuring two women after a workout, focusing on natural skin and realistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418038160_828lbh_HROJon8W8AQo8V0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33193,
     "content": "ar 9:16 4K\n\nA highly realistic, cinematic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman with fair, dewy skin\"}, turning her head to look back over her right shoulder toward the camera. She has shoulder-length messy, windswept dark brown hair that is wet and tousled, with loose strands falling across her face and forehead. Soft natural features, large expressive brown eyes with a subtle gaze, slightly parted full lips, and a gentle, intimate expression. Her bare upper back and right shoulder are prominently visible, glistening with water droplets and catching warm golden light that creates soft highlights and a subtle sheen on her skin. She appears to be in a {argument name=\"setting\" default=\"swimming pool or body of water at dusk\"}, with the water surface gently rippling around her.\n\nBackground is a softly blurred {argument name=\"background\" default=\"urban cityscape at twilight\"}: modern high-rise buildings with glowing windows and warm artificial lights creating beautiful bokeh orbs in soft yellows, oranges, and whites against a muted blue-gray evening sky. Distant figures faintly visible in the water. Soft, warm golden-hour lighting from the side and behind, mixed with cool ambient evening tones, volumetric light, high detail on skin texture and water droplets, shallow depth of field, photorealistic, ultra-detailed, 8k quality, intimate and atmospheric mood.",
     "title": "Cinematic Urban Twilight Portrait",
@@ -23,12 +63,32 @@
     "needReferenceImages": false
   },
   {
+    "id": 33273,
+    "content": "Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, {argument name=\"subject\" default=\"a beautiful young female model\"}. Wearing a {argument name=\"outfit\" default=\"casual, silky taupe button-down collared shirt\"}, accessorized with {argument name=\"accessories\" default=\"classic silver hoop earrings and stylish black wayfarer sunglasses\"}.",
+    "title": "Netflix Style Cinematic Portrait",
+    "description": "A cinematic portrait prompt designed for high face consistency using reference images, perfect for vertical video or social media frames.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418035705_g3tq71_HRINoyVaoAAU9Lk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33188,
     "content": "A studio portrait of a {argument name=\"subject\" default=\"young East Asian woman with long wavy dark brown hair\"} styled naturally with fine loose flyaway strands framing her face. She is looking directly into the camera with big, expressive dark eyes and a neutral expression. Wearing a {argument name=\"clothing\" default=\"teal-blue ribbed knit turtleneck sweater and blue denim overalls\"}. {argument name=\"background\" default=\"Solid monochrome deep cyan-teal studio background\"}. Soft cinematic studio lighting, shallow depth of field, shot on 85mm lens, high-detail skin texture, soft matte makeup, color-coordinated teal tones",
     "title": "Teal Studio Overalls Portrait",
     "description": "A studio portrait prompt focusing on color coordination with teal tones, high-detail skin texture, and a shallow depth of field.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788332546627_r8e1d5_HRGjbEiaAAAn5xm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33084,
+    "content": "A close-up portrait of a serene young woman with closed eyes and a peaceful expression. She has pale skin with soft rosy cheeks, fine freckles across her nose and cheeks, and subtle pink lips. Her long, flowing hair is a vibrant, {argument name=\"hair color\" default=\"rich teal-blue\"} with soft waves framing her face. She is wearing a {argument name=\"accessory\" default=\"cozy, chunky knit mustard-yellow beanie pulled low and a matching thick, textured mustard-yellow woolen scarf\"} wrapped warmly around her neck. {argument name=\"style\" default=\"Dreamy, painterly illustration style\"} with soft colored pencil textures, pastel shading, and fine grain on a dark teal background with delicate specks and flecks of gold and white paint splatter.",
+    "title": "Painterly Portrait with Teal Hair and Mustard Beanie",
+    "description": "A charming, dreamy illustration prompt for a close-up portrait of a woman with vibrant teal-blue hair and a chunky mustard-yellow beanie. The style uses soft colored pencil textures and painterly details on a dark teal background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788418044189_yy95wd_HRDqKJFbIAAPeWw.jpg"
     ],
     "needReferenceImages": false
   },
