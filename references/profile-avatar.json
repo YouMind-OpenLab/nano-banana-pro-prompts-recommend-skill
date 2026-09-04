@@ -10,22 +10,85 @@
     "needReferenceImages": false
   },
   {
-    "id": 33282,
-    "content": "Pearls in the light. Mind somewhere else [A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a {argument name=\"setting\" default=\"cozy study room\"}. He has textured brownish hair, wearing a {argument name=\"outfit\" default=\"loose-fit, relaxed white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
-    "title": "Study Room Sunset Portrait",
-    "description": "A cinematic close-up film portrait of a man in a cozy study room during golden hour.",
+    "id": 33386,
+    "content": "Close-up portrait of an {argument name=\"subject\" default=\"ethereal young woman\"} with porcelain skin and expressive hazel-brown eyes, parted lips, cascading wavy {argument name=\"hair color\" default=\"midnight-blue and cobalt\"} hair intricately intertwined with large blooming {argument name=\"flowers\" default=\"white peonies\"} and deep blue floral vines, organic botanical dress blending seamlessly into blue leaves and white blossoms, dark minimalist background, dramatic chiaroscuro lighting, smooth digital concept art, soft cinematic shadows, photorealistic details, fine line art, trending on ArtStation, 8k resolution, aspect ratio 9:16",
+    "title": "Ethereal Woman Floral Hair Portrait",
+    "description": "A stunning digital art prompt for a portrait of an ethereal woman with cobalt hair intertwined with white peonies, using dramatic chiaroscuro lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788418041487_8sendd_HRRVwlybUAAiiFc.jpg"
+      "https://cms-assets.youmind.com/media/1788504570629_82rmr6_HRVdVBJbIAA-NbX.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 33281,
-    "content": "A close-up cinematic portrait of a {argument name=\"subject\" default=\"young woman with natural beauty, hazel eyes\"}, and slightly parted lips. Her {argument name=\"hair\" default=\"wavy, warm-brown hair\"} is loosely tied back with soft, messy tendrils framing her face. She is wearing a {argument name=\"outfit\" default=\"fitted black ribbed knit mock-neck top\"}. Golden hour sunlight streams through a window, casting sharp, dramatic slatted shadow patterns diagonally across her face and neck. High-contrast chiaroscuro lighting, warm golden tones with deep shadows, visible skin texture and subtle freckles, shot on 85mm f/1.4 lens, shallow depth of field, soft muted background, moody editorial photography.",
-    "title": "Golden Hour Slatted Shadows",
-    "description": "A moody cinematic portrait featuring dramatic window shadow patterns and golden hour lighting.",
+    "id": 33374,
+    "content": "An anime-style digital illustration of a vibrant young woman with a bold, punk-inspired look, based on {argument name=\"reference image\" default=\"image_0.png\"}. Her long, flowing hair is split-dyed, with the right side {argument name=\"right hair color\" default=\"bright teal-blue\"} and the left side {argument name=\"left hair color\" default=\"vivid red\"}, tied into a messy pigtail bun. She has a confident, open-mouthed grin, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+    "title": "Anime Punk Woman Illustration",
+    "description": "An anime-style digital illustration of a woman with a bold punk aesthetic. This prompt features detailed character design including split-dyed hair, colorful tattoos, and dynamic studio lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788418041131_tzw1om_HROk6DfbcAANuUX.jpg"
+      "https://cms-assets.youmind.com/media/1788504563546_7gc71j_HRVdSThbkAA-5ar.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33392,
+    "content": "A portrait of a beautiful {argument name=\"ethnicity\" default=\"Slavic/russian\"} woman with caucasian skin, naturally luminous with a soft sheen, visible pores, fine texture, very subtle freckles and NO faint hyperpigmentation around the eyes and lips, realistic skin variation across face, neck, shoulders, and chest. She has an oblong face shape, high cheekbones, a smooth yet defined jawline, a straight medium-width nose with gentle highlights, full well- heart shaped pink plum lips with natural lines, and large almond-shaped {argument name=\"eye color\" default=\"whitish grey\"} eyes framed by long natural lashes and neatly groomed sharp arched full brows. Her hair is styled in natural, detailed long-length glossy and {argument name=\"hair color\" default=\"black\"} thick hair with clean but slightly imperfect parts, and brushed hair edges. and flowing over her shoulders. Slim–curvy build, elegant neck, defined collarbones, relaxed confident posture. Studio photography, flash lit, plain white background, 50mm lens, shallow depth of field, ultra high-realism, 8K, sharp focus capturing every skin pore, texture, and natural imperfection.",
+    "title": "Realistic Slavic Woman Studio Portrait",
+    "description": "A highly detailed studio photography prompt for creating an ultra-realistic portrait of a Slavic woman with intricate skin textures and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504572756_fqmv9r_HRSwRwBXAAEru2Q.jpg",
+      "https://cms-assets.youmind.com/media/1788504572701_8b16bt_HRSwRwgbEAAoCer.jpg",
+      "https://cms-assets.youmind.com/media/1788504572777_cnsa1o_HRSwRv_WcAIvUcX.jpg",
+      "https://cms-assets.youmind.com/media/1788504573893_8h2ou1_HRSwRwbaAAA_haV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33376,
+    "content": "A retro-modern anime digital painting of a chic young woman in a dramatic low-angle perspective. Tousled dark {argument name=\"hair style\" default=\"shoulder-length wavy\"} hair, straight wispy micro-bangs, silver hoop earrings, subtle warm makeup, looking down toward the camera with a calm, aloof gaze. Wearing a {argument name=\"outfit\" default=\"loose, baggy black oversized turtleneck\"} with draped sleeves tucked into high-waisted black casual trousers, hands in pockets. Atmospheric {argument name=\"lighting color\" default=\"neon split-lighting\"}, warm pink rim light contrasting against deep purple and midnight-blue ambient shadows, clean graphic vector edges, cel-shaded anime style, smooth cobalt blue to hot pink gradient backdrop, synthwave color palette, cinematic lighting, masterpiece.",
+    "title": "Retro-Modern Neon Anime Painting",
+    "description": "A chic, low-angle anime portrait with a synthwave color palette. Features split-lighting with neon pink and purple tones, cel-shaded details, and a cinematic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504564937_2xhpe4_HRRmQM_aoAAvQF4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33382,
+    "content": "masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Jujutsu Kaisen, close-up face shot from slightly low angle looking upward, beautiful young woman with fair smooth skin, soft pink blush on cheeks and nose, glossy plump lips with subtle pink gloss, sharp defined jawline, delicate features, long black hair with soft brown highlights, straight bangs covering forehead, hair parted slightly, two small high buns or half-up style with loose strands framing the face, silky shiny hair texture with individual strands visible, piercing bright cyan-blue eyes with detailed irises and catchlights, looking directly at viewer with calm intense expression, slightly narrowed eyes, long dark eyelashes, thin silver rimless glasses resting on the bridge of the nose, glowing neon purple-blue light reflections and soft wavy light trails across both lenses creating a cybernetic or magical effect, soft lens flare and light bloom on the glasses, wearing a black lace choker with delicate ruffled edges, black top with white collar or lace trim visible at the neckline, subtle gothic or elegant details, soft volumetric lighting, cool purple and blue ambient light from the left, warm pink rim light on the right side of the face, gentle subsurface scattering on skin, cinematic soft focus background with abstract purple and white light streaks and bokeh, dreamy ethereal atmosphere, highly detailed face, perfect anatomy, sharp focus on eyes and glasses, intricate hair strands, realistic skin texture mixed with anime style, vibrant yet soft color palette, 8k, ultra high resolution, ar 9:16, 4K, anime style, illustration, digital painting, soft shading, cel shading mixed with realistic lighting, negative prompt: blurry, low quality, deformed eyes, extra fingers, bad anatomy, text, watermark, oversaturated, ugly, duplicate",
+    "title": "Detailed Maki Zenin Anime Portrait",
+    "description": "A production-ready prompt for generating a highly detailed anime portrait of Maki Zenin, featuring glowing glasses effects and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504568015_4m3g64_HRMnUAMaYAAAiMI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33387,
+    "content": "Digital painting of a stunning young {argument name=\"subject\" default=\"East Asian woman\"} with voluminous, wavy black hair windswept around her face, looking directly forward with a calm, ethereal expression. She wears a modern traditional {argument name=\"outfit\" default=\"white robe dress\"} with loose three-quarter sleeves and a deep crossover neckline, tightly cinched at the waist by a wide black sash tied into a ribbon belt. In the background, a large luminous full moon forms a halo behind her head, set against a dramatic backdrop of {argument name=\"background\" default=\"rugged, snow-dusted mountains\"}, autumn-colored trees with red foliage, and drifting clouds. Elegant anime-fine-art hybrid style, cinematic soft lighting, dynamic wind motion, highly detailed fabric folds, masterpiece quality.",
+    "title": "Anime Fine Art Moonlight Mountains",
+    "description": "A digital painting prompt of an East Asian woman in traditional dress, set against a backdrop of snow-dusted mountains and a full moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504571141_kjdigh_HRRmJV4b0AAPlQx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33282,
+    "content": "Pearls in the light. Mind somewhere else\n[A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a cozy study room. He has textured brownish hair, wearing a loose-fit, relaxed {argument name=\"outfit\" default=\"white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
+    "title": "Cinematic Thoughtful Man Portrait",
+    "description": "A cinematic film portrait of a young man in a cozy study, captured during golden hour with warm, natural sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504569364_b77hz5_HRRVwlybUAAiiFc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33385,
+    "content": "A stylized digital anime illustration of a young {argument name=\"ethnicity\" default=\"East Asian\"} girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized {argument name=\"outfit color\" default=\"dark forest-green\"} martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking {argument name=\"pattern\" default=\"yellow-gold lightning bolt\"} patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+    "title": "Anime Martial Arts Girl Illustration",
+    "description": "A stylized digital anime illustration of a determined young martial arts girl with lightning patterns and an ink splatter background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504569982_vatc0q_HROk9azbUAEhsEM.jpg"
     ],
     "needReferenceImages": false
   },

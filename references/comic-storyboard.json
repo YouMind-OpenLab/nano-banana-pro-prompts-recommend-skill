@@ -1,5 +1,65 @@
 [
   {
+    "id": 33374,
+    "content": "An anime-style digital illustration of a vibrant young woman with a bold, punk-inspired look, based on {argument name=\"reference image\" default=\"image_0.png\"}. Her long, flowing hair is split-dyed, with the right side {argument name=\"right hair color\" default=\"bright teal-blue\"} and the left side {argument name=\"left hair color\" default=\"vivid red\"}, tied into a messy pigtail bun. She has a confident, open-mouthed grin, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+    "title": "Anime Punk Woman Illustration",
+    "description": "An anime-style digital illustration of a woman with a bold punk aesthetic. This prompt features detailed character design including split-dyed hair, colorful tattoos, and dynamic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504563546_7gc71j_HRVdSThbkAA-5ar.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33388,
+    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young girl\"} with messy vibrant ginger hair tied in a loose bun and subtle freckles across her nose, gazing upward with a wistful, thoughtful expression. She wears {argument name=\"accessory\" default=\"cracked vintage welding goggles\"} pushed up onto her forehead with fractured blue circular lenses. Wearing a heavily distressed, oversized {argument name=\"clothing\" default=\"mustard-yellow hoodie\"} covered in paint splatters, frayed seams, patched denim fabric on the sleeves, and a faded embroidered skull patch on the forearm, along with rugged, dusty work gloves. Background is a weathered, peeling wall with chipped turquoise and faded yellow paint. Soft dramatic directional lighting, gritty post-apocalyptic aesthetic, 85mm lens, shallow depth of field, hyper-detailed fabric textures.",
+    "title": "Post-Apocalyptic Girl Welding Goggles",
+    "description": "A cinematic portrait prompt of a young girl in a post-apocalyptic setting, featuring detailed distressed clothing and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504571148_eeqzwb_HRVdPplaUAApurE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33377,
+    "content": "Whimsical digital anthropomorphic friendly insect standing on the ground with fallen leaves and dried plants. The large head is covered with {argument name=\"fur color\" default=\"white fluffy\"} fur. The eyes are {argument name=\"eye color\" default=\"large orange\"} with black pupils. Charming expression and friendly smile. Creature is dressed in a {argument name=\"jacket color\" default=\"bright red-orange\"} jacket with a turquoise hood over a yellow shirt, colorful stripes. The character on thin legs, wears glossy red boots with laces. Small translucent wings with visible vein patterns extend from his back. Creature holds a {argument name=\"item held\" default=\"chamomile\"}. Forest setting with blurred vegetation, playful mood.",
+    "title": "Whimsical Anthropomorphic Friendly Insect",
+    "description": "A charming digital illustration of a friendly fur-covered insect wearing a colorful jacket and boots in a forest setting. Great for storybooks or playful character designs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504565102_p3f2dx_HRT-AZ_XsAIPRPT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33394,
+    "content": "{\n  \"title\": \"Warm Family Dinner Cinematic Contact Sheet\",\n  \"format\": \"3x3 contact sheet collage\",\n  \"subject\": \"{argument name=\"subject\" default=\"A young woman with natural wavy dark hair\"}, wearing a {argument name=\"clothing\" default=\"loose brown linen button-up shirt\"}, sitting at a wooden dining table during a cozy family dinner\",\n  \"environment\": \"{argument name=\"setting\" default=\"Traditional family dining room\"}, vintage wallpaper, wooden china cabinet filled with plates and glassware, warm tungsten household lighting, realistic home atmosphere\",\n  \"composition\": {\n    \"grid\": \"3x3 storyboard frames\",\n    \"shots\": [\n      \"medium shot talking with expressive hands\",\n      \"close-up laughing naturally\",\n      \"side view serving lasagna from casserole dish\",\n      \"close-up listening with chin resting on hand\",\n      \"medium shot eating dinner while looking down\",\n      \"close-up tasting food with playful expression\",\n      \"medium shot telling an animated story\",\n      \"close-up smiling softly while holding a fork\",\n      \"wide shot alone at dining table after conversation\"\n    ]\n  },\n  \"camera\": {\n    \"lens\": \"50mm and 85mm prime lenses\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp focus on subject, creamy background bokeh\",\n    \"framing\": \"cinematic coverage from multiple angles\"\n  },\n  \"lighting\": {\n    \"type\": \"warm practical household lighting\",\n    \"color_temperature\": \"3200K\",\n    \"mood\": \"cozy, intimate, nostalgic\",\n    \"shadows\": \"soft natural shadows\"\n  },\n  \"style\": {\n    \"photorealistic\": true,\n    \"cinematic\": true,\n    \"natural_expressions\": true,\n    \"slice_of_life\": true,\n    \"authentic_human_moments\": true,\n    \"award_winning_film_still\": true\n  },\n  \"color_grading\": {\n    \"palette\": \"warm amber, brown, cream, beige\",\n    \"contrast\": \"soft cinematic contrast\",\n    \"look\": \"Kodak Vision3 film emulation\"\n  },\n  \"details\": [\n    \"genuine laughter\",\n    \"natural eye contact\",\n    \"subtle facial expressions\",\n    \"realistic skin texture\",\n    \"wooden dining furniture\",\n    \"home-cooked meal\",\n    \"candid documentary photography\",\n    \"family gathering atmosphere\"\n  ],\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"ultra detailed\",\n    \"realism\": \"hyper realistic\"\n  },\n  \"negative_prompt\": [\n    \"anime\",\n    \"cartoon\",\n    \"cgi\",\n    \"plastic skin\",\n    \"overprocessed face\",\n    \"low resolution\",\n    \"extra fingers\",\n    \"distorted anatomy\",\n    \"text\",\n    \"watermark\",\n    \"logo\"\n  ]\n}",
+    "title": "Family Dinner Cinematic Contact Sheet",
+    "description": "A complex JSON-formatted prompt for creating a 3x3 storyboard collage of a cozy family dinner with nostalgic film aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504575625_vc18kl_HRSXTZHa0AAQsou.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33393,
+    "content": "TITLE:\nPremium Italian Spaghetti Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium packaged food campaign\n• 8 cinematic product-focused scenes\n• Product remains the central visual hero\n• Luxury advertising presentation\n\nHEADER:\n• Refined serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Authentic Italian Food Commercial\n  - Product: Premium Spaghetti Pasta\n  - Audio: Pasta Cooking + Italian Kitchen ASMR\n• Why This Style Works section\n• Cream, wheat gold and deep green aesthetic\n• Minimal Italian-inspired decorative elements\n\nSTORYBOARD:\n1. Premium spaghetti package standing vertically beside uncooked pasta strands\n2. Package opening with long spaghetti strands being pulled out\n3. Spaghetti dropping into a pot of boiling water\n4. Pasta swirling underwater with bubbles and realistic movement\n5. Cooked spaghetti lifted from the pot with steam rising\n6. Long strands being twirled elegantly around a fork\n7. Extreme macro showing silky pasta texture coated with sauce\n8. Final hero product shot with pasta package beside a beautifully plated spaghetti dish\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nTop-down composition, underwater macro, steam close-up, slow-motion pasta lift, fork rotation shot, extreme texture detail, cinematic packshot.\n\nSTYLE:\nUltra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.",
+    "title": "Premium Italian Spaghetti Commercial Storyboard",
+    "description": "A comprehensive multi-scene storyboard prompt for a high-end food commercial featuring authentic Italian pasta textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504574944_rhawok_HRRlezKbQAAQ8BS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33385,
+    "content": "A stylized digital anime illustration of a young {argument name=\"ethnicity\" default=\"East Asian\"} girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized {argument name=\"outfit color\" default=\"dark forest-green\"} martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking {argument name=\"pattern\" default=\"yellow-gold lightning bolt\"} patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+    "title": "Anime Martial Arts Girl Illustration",
+    "description": "A stylized digital anime illustration of a determined young martial arts girl with lightning patterns and an ink splatter background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504569982_vatc0q_HROk9azbUAEhsEM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33268,
     "content": "Create a cinematic 3D animated-film still for an original animated series called BOTU Universe. {argument name=\"character\" default=\"BOTU\"} is the main character: a small child-like AI Bureau archivist with a cream-colored bald head, large expressive brown eyes, a silver circular Memory Aperture centered on his forehead, glowing blue circular Listening Orbit rings around his ears, and a black leather-textured Bureau coat with gold piping and a gold BOTU Bureau emblem. Keep this character design consistent and clearly recognizable. SCENE: {argument name=\"scene\" default=\"Inside the mysterious BOTU Bureau Archive, BOTU suddenly discovers that it is raining indoors\"}. BOTU stands alone on a polished dark marble floor surrounded by enormous archive shelves, mysterious files, brass lamps and floating blue Memory Threads. Rain falls directly over BOTU in a small concentrated patch. BOTU looks upward in complete confusion. The floor around him is mostly dry, making the impossible indoor rain immediately obvious. His expression should communicate: \"What is happening?\" The silver Memory Aperture on BOTU's forehead must be clearly visible. COMPOSITION: Wide cinematic shot with BOTU clearly visible in the center. Strong visual storytelling. Rain clearly visible. Large mysterious Bureau Archive surrounding him. Dynamic perspective and depth. No empty areas. STYLE: {argument name=\"style\" default=\"High-quality stylized 3D animated feature-film aesthetic\"}. Expressive character acting. Cinematic lighting. Detailed environment. Polished materials. Warm gold Bureau lighting contrasted with cool blue Memory Thread glow. Family-friendly mystery-comedy tone. IMPORTANT: BOTU's character design must remain unchanged. Do not remove or alter the forehead Memory Aperture. Do not change his clothing, proportions, face, eyes, colors or Bureau emblem. No other characters. No text. No watermark. Aspect ratio: 16:9. Story Boarding",
     "title": "Cinematic Animated AI Archivist",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 33381,
+    "content": "the middle fret mid-dressing, bright {argument name=\"fret material\" default=\"raw nickel silver\"} where the file has cut, the neighboring fret ends still square and unfinished for contrast",
+    "title": "Macro Guitar Fret Dressing",
+    "description": "A macro shot of a guitar fret during the dressing process. This prompt captures technical details like metal filings, razor-thin depth of field, and the contrast between finished and unfinished frets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504566871_n6yb2d_HRS2IXGW8AQIgVE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32582,
     "content": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
     "title": "Premium Beverage Advertising Photography",

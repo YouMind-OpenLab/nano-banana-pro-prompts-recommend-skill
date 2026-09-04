@@ -20,6 +20,69 @@
     "needReferenceImages": false
   },
   {
+    "id": 33397,
+    "content": "Bold graphic 2D illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, thick black outlines, saturated colors, {argument name=\"trousers\" default=\"wide-leg checkered trousers in red and white\"}, {argument name=\"blouse\" default=\"embroidered blouse with sun motifs\"}, poster-style flat shading, simple mauve background, confident hip pose, 3:4",
+    "title": "2D Graphic Fashion Illustration",
+    "description": "A prompt for creating bold 2D fashion illustrations featuring Middle Eastern subjects with saturated colors and checkered patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504576651_37f5r6_HRTOgOkW0AEi28G.jpg",
+      "https://cms-assets.youmind.com/media/1788504576685_fxtm9y_HRTOgPMbwAAWYz3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33396,
+    "content": "Watercolor fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, expressive brush strokes, {argument name=\"trousers\" default=\"wide-leg palka dot trousers in terracotta\"}, {argument name=\"blouse\" default=\"hand-embroidered blouse with tiny mirrors\"}, loose ink outlines, paper texture, off-white background, elegant standing pose, 3:4",
+    "title": "Watercolor Fashion Sketch",
+    "description": "Creates an artistic watercolor fashion illustration with expressive brush strokes, ink outlines, and rich paper textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504577127_m1oi48_HRTN7G8aYAAU72x.jpg",
+      "https://cms-assets.youmind.com/media/1788504577155_3rbg6p_HRTN7D0acAANaZt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33390,
+    "content": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
+    "title": "Cinematic Macro Fluid Art Portrait",
+    "description": "An artistic prompt combining high-fashion portraiture with dynamic liquid art elements, creating a wearable sculpture effect with paint and resin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504572521_bo5p7k_HRTOGOUa4AAa_2K.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33398,
+    "content": "Modern fashion line art illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, single-weight black linework, flat color blocks in ochre and sage green, {argument name=\"trousers\" default=\"wide-leg patterned trousers\"}, {argument name=\"blouse\" default=\"embroidered off-shoulder blouse\"}, negative space composition, soft cream background, walking pose, 3:4",
+    "title": "Modern Fashion Line Art",
+    "description": "A clean line art prompt for modern fashion illustrations using flat color blocks and negative space compositions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504577643_nlngf1_HRTM3bka4AAkD64.jpg",
+      "https://cms-assets.youmind.com/media/1788504577620_3oqffs_HRTM3bpa4AA-dDj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33391,
+    "content": "Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy {argument name=\"lip color\" default=\"bright crimson red\"} lips, subtle freckles, sculpted jawline, smokey eye makeup, striking {argument name=\"eye color\" default=\"blue-grey\"} eyes peering through the shadow. Vivid {argument name=\"background color\" default=\"solid red\"} background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.",
+    "title": "Avant-Garde Chiaroscuro Red Portrait",
+    "description": "A high-fashion magazine cover style prompt using strong chiaroscuro lighting and a bold red background for a striking editorial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504573456_3es8ig_HRTHuaxagAAUrdF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33380,
+    "content": "Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, hair texture, and facial proportions. Keep her instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter her facial features. Recreate the overall visual concept of the reference image as a luxury contemporary fashion campaign, featuring a striking red monochromatic aesthetic. Main composition: Create a sophisticated editorial layout with three photographic panels: * Large upper panel: the female model in a dramatic low-angle fashion pose, looking confidently toward the camera, wearing an elegant flowing {argument name=\"dress color\" default=\"deep crimson/red\"} couture dress with sculptural draping and long sleeves. Dynamic fabric folds and movement, powerful fashion-editorial attitude. * Lower-left panel: the same model in a graceful full-body movement pose, with the red dress dramatically flowing through the air, creating elegant fabric motion. * Lower-right panel: the model standing confidently in a sophisticated red fashion outfit, strong posture, cinematic lighting, luxury styling. Use different poses and compositions in each panel while maintaining the exact same model identity. Art direction: Bold red-on-red color palette, rich crimson background, vivid scarlet highlights, deep burgundy shadows, glossy fashion-magazine finish, dramatic studio lighting, subtle rim lighting, high contrast, luxurious atmosphere. The overall design should feel like a premium fashion-tech startup campaign / magazine advertisement, modern, sophisticated, minimal, artistic and highly polished. Add tasteful editorial typography integrated into the composition: “SEE WHAT’S COMING”. Large central headline: “{argument name=\"brand name\" default=\"FRILANZE\"}”. Small subtitle beneath: “{argument name=\"subtitle\" default=\"NOUN: FREELANCE\"}”. Bottom headline: “{argument name=\"bottom text\" default=\"RED AWAKENING\"}”. Bottom copy: “Where creativity becomes content.” “Waitlist Now Live!” Typography should be clean, modern, elegant and fashion-editorial, with excellent spacing and hierarchy.",
+    "title": "Luxury Red Monochromatic Fashion Campaign",
+    "description": "A multi-panel editorial fashion layout using a specific model identity. This prompt creates a red-on-red monochromatic aesthetic with couture dresses, dynamic poses, and integrated editorial typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504566816_fk6z8v_HRQTW6zbUAATZ6S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33269,
     "content": "High-fashion studio portrait of a {argument name=\"subject\" default=\"stylish young East Asian woman\"} posing dynamically with one hand touching her hair. She is wearing {argument name=\"clothing\" default=\"an oversized beige crewneck sweatshirt tucked into high-waisted olive green cargo joggers with a drawstring waistband and large flap pockets\"}. Accessorized with a black buckled choker necklace, silver hoop earrings, and subtle rings. Her hair is styled in a messy half-up bun with wavy strands framing her face, featuring soft, sultry makeup and glossy lips. {argument name=\"lighting\" default=\"Dramatic monochromatic deep red and crimson studio lighting\"} casting soft shadows and vibrant red rim highlights, solid warm red backdrop, 85mm portrait photography, editorial lookbook style, high detail, photorealistic, 8k resolution.",
     "title": "Monochromatic Red Studio Portrait",

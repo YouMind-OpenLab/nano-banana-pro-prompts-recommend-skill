@@ -21,12 +21,103 @@
     "needReferenceImages": true
   },
   {
-    "id": 33279,
-    "content": "Preserve 100% face ID and expressions, create an ultra-realistic, high-resolution vertical lifestyle fashion photograph matching the reference image as closely as possible in composition, framing, pose, styling, environment, lighting, colors, and photographic realism. A {argument name=\"subject\" default=\"young adult South Asian woman\"} with a naturally feminine, curvy physique is seated elegantly outdoors on a {argument name=\"surface\" default=\"dark charcoal/black stone-tiled ledge\"} in a {argument name=\"setting\" default=\"luxurious modern garden\"}.",
-    "title": "Luxury Garden Lifestyle Portrait",
-    "description": "A high-resolution lifestyle photograph of a South Asian woman in a modern garden, focusing on facial preservation and photorealism.",
+    "id": 33378,
+    "content": "A close-up stylized fashion portrait of a young woman with a short, wavy {argument name=\"hair color\" default=\"platinum blonde\"} bob slightly tousled by the wind. She has heavy sun-kissed freckles across her cheeks and nose, glowing porcelain skin, and plump {argument name=\"lip color\" default=\"glossy red\"} lips, tilting her head slightly upward. She wears round vintage metal-frame sunglasses with warm amber-tinted lenses, delicate drop earrings, and a {argument name=\"outfit style\" default=\"vintage ruffled high-collar blouse\"} featuring a vibrant red and cream floral print, adorned with a large, glossy crimson satin pussy-bow ribbon tied at the neck. Moody studio lighting with soft, warm directional sunlight, dark muted background, retro editorial aesthetic, highly detailed digital painting, 8k resolution.",
+    "title": "Vintage Glamour Fashion Portrait",
+    "description": "A stylized fashion portrait of a platinum blonde woman with a retro editorial aesthetic. Includes details like amber-tinted sunglasses, a floral pussy-bow blouse, and moody studio lighting for an 8k digital painting finish.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788418039764_j3iil0_HRQnEOXb0AASizV.jpg"
+      "https://cms-assets.youmind.com/media/1788504565111_nnsfed_HRTU48xbgAArDD2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33384,
+    "content": "Extreme low-angle, POV shot looking straight up from inside the bottom of a transparent {argument name=\"brand\" default=\"Starbucks\"} plastic cup. In the immediate foreground, vibrant {argument name=\"drink texture\" default=\"red crushed strawberry puree and slushy ice\"} fill the bottom edge with glossy, detailed texture. Whipped cream and strawberry sauce drip down the clear inner walls of the cup, with the green Starbucks siren logo visible on the sides. Looking up through the circular opening of the cup against a vivid clear blue summer sky, a young {argument name=\"subject\" default=\"East Asian man\"} with short dark parted hair looks directly down into the camera with wide, expressive eyes, drinking from a classic green straw that extends straight down into the cup. Bright, direct sunlight, sharp focus, vibrant summery aesthetic, shot on wide-angle lens, mobile photography perspective, high resolution.",
+    "title": "POV Perspective from Starbucks Cup",
+    "description": "An extreme low-angle POV shot looking up from inside a coffee cup, creating a unique mobile photography perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504570019_bo74df_HRTZ76CbQAEmKPU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33390,
+    "content": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
+    "title": "Cinematic Macro Fluid Art Portrait",
+    "description": "An artistic prompt combining high-fashion portraiture with dynamic liquid art elements, creating a wearable sculpture effect with paint and resin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504572521_bo5p7k_HRTOGOUa4AAa_2K.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33400,
+    "content": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
+    "title": "2D Flat Vector Fashion Illustration",
+    "description": "Generates clean, 2D flat vector illustrations of Middle Eastern fashion with geometric prints and bold outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504578464_m2g14w_HRTNkZxa8AA_NVq.jpg",
+      "https://cms-assets.youmind.com/media/1788504578316_lujm1f_HRTNkZwbcAAZTqx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33391,
+    "content": "Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy {argument name=\"lip color\" default=\"bright crimson red\"} lips, subtle freckles, sculpted jawline, smokey eye makeup, striking {argument name=\"eye color\" default=\"blue-grey\"} eyes peering through the shadow. Vivid {argument name=\"background color\" default=\"solid red\"} background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.",
+    "title": "Avant-Garde Chiaroscuro Red Portrait",
+    "description": "A high-fashion magazine cover style prompt using strong chiaroscuro lighting and a bold red background for a striking editorial look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504573456_3es8ig_HRTHuaxagAAUrdF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33389,
+    "content": "Use the attached photo as an identity reference only. Keep the person's recognizable facial structure, eye shape, nose, lips, jawline, skin tone, hairline and hair characteristics, and their apparent adult age. Do not copy the clothing, background, pose or lighting from the reference. A night photograph of a {argument name=\"setting\" default=\"city square\"}. The flat side wall of a {argument name=\"building type\" default=\"six storey brick building\"} fills most of the frame. A projector on a rooftop opposite throws an enormous portrait of the adult woman onto that wall: head and shoulders, roughly four storeys tall, three quarter view, calm expression, eyes looking slightly down and to the left as if she is watching the square below. The projected portrait behaves like light on brick, not like a printed poster. It dims and warps where it crosses window recesses, a drainpipe and a fire escape. It breaks and skips across the mortar lines. Its edges fall off softly at the corners of the wall. There is a slight keystone distortion because the projector is not level with the wall. Down on the pavement at the bottom of the frame, small, the same adult woman stands with her back three quarters to the camera, hands in the pockets of a {argument name=\"outfit\" default=\"long dark coat\"}, head tilted up, looking at her own projected face. She is about one fifteenth the height of the projected head. Environment: wet paving stones, a bicycle chained to a post, a closed kiosk, one other pedestrian walking out of frame, a bus stop sign, the glow of a street lamp. Camera: standing on the pavement about twenty five metres back, phone at chest height tilted slightly up, vertical 9:16 frame, the building filling the top three quarters and the small figure placed low and left of centre. Light: the projector is the brightest thing in the scene. Cold street lamps and a red traffic signal reflecting in the wet stone. Her small figure is lit only by projector spill and street lamp, so her face is barely readable and that is correct. Realism: dust and haze visible in the projector beam high above, brick texture showing through the projected image, slight flicker banding, a soft blue night sky with no stars, grain in the shadows. The projection must read as light thrown onto a rough wall, not as a poster stuck to it. The large projected face must clearly be the same person as the small figure below. Do not add a second projected image. Do not clean the wall.",
+    "title": "Building Projection Night Portrait",
+    "description": "A complex identity-reference prompt creating an enormous projected portrait on a brick building with realistic lighting and environment details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504572066_guehuj_HRTBdtRXIAEavB9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33375,
+    "content": "A young man in a {argument name=\"suit color\" default=\"dark navy-black\"}, relaxed-fit suit with a wide-collar striped shirt left unbuttoned leans with shifted weight and relaxed shoulders, facing the camera with his hands resting out of sight in his jacket pockets. His hair is cut short above the ears in a relaxed push-back style, displaying a natural wavy texture, matte finish, visible flyaways, a deep natural part, and organic growth patterns. His serious, deliberately posed expression features relaxed eyebrows and a neutral mouth as he casts a quiet, melancholic gaze away from the viewer. He stands in a deep, historic indoor space, positioned off-center left against a {argument name=\"wall texture\" default=\"weathered, warm gray plaster wall\"} characterized by a matte, slightly textured painted finish, patchy faded reddish and greenish faux-paneling borders, and visible scuffs. In the foreground to his left, a worn dark wood staircase banister with wrought iron balusters leads the eye, while a striking, heavily worn black and white checkered tile landing dominates the bottom right, counterbalancing his visual weight. In the upper right background, a large vintage mirror reflects a deep stone staircase extending upward. The mysterious, reflective atmosphere is shaped by warm, golden, soft mixed lighting diffused smoothly from overhead ambient sources and a weak frontal fill, casting short, soft-edged gray shadows onto the wall behind him and beneath the banister rails. Preserved highlights gently illuminate his face, his white shirt collar, and the brighter floor tiles, accentuating a high-contrast but heavily desaturated palette of aged beige, faded red, off-white, and dark navy. Captured from a high-angle perspective using a 35mm lens at f/4.0, 1/125s, and ISO 800, this realistic editorial photograph evokes European cinema and moody romanticism through a deep depth of field, slightly soft sharpness, and authentic film grain, finalized with lifted blacks, a warm shadow tint, and reduced clarity for a faded historic grandeur, ultimately framed in a 4:5 aspect ratio.",
+    "title": "Moody Cinematic Suit Portrait",
+    "description": "A detailed editorial photograph of a young man in a historic interior setting. The prompt focuses on technical camera settings, textured plaster walls, and melancholic lighting to create a European cinema aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504563565_jy47ty_HQ_dcBiXcAAkEKT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33393,
+    "content": "TITLE:\nPremium Italian Spaghetti Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium packaged food campaign\n• 8 cinematic product-focused scenes\n• Product remains the central visual hero\n• Luxury advertising presentation\n\nHEADER:\n• Refined serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Authentic Italian Food Commercial\n  - Product: Premium Spaghetti Pasta\n  - Audio: Pasta Cooking + Italian Kitchen ASMR\n• Why This Style Works section\n• Cream, wheat gold and deep green aesthetic\n• Minimal Italian-inspired decorative elements\n\nSTORYBOARD:\n1. Premium spaghetti package standing vertically beside uncooked pasta strands\n2. Package opening with long spaghetti strands being pulled out\n3. Spaghetti dropping into a pot of boiling water\n4. Pasta swirling underwater with bubbles and realistic movement\n5. Cooked spaghetti lifted from the pot with steam rising\n6. Long strands being twirled elegantly around a fork\n7. Extreme macro showing silky pasta texture coated with sauce\n8. Final hero product shot with pasta package beside a beautifully plated spaghetti dish\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nTop-down composition, underwater macro, steam close-up, slow-motion pasta lift, fork rotation shot, extreme texture detail, cinematic packshot.\n\nSTYLE:\nUltra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.",
+    "title": "Premium Italian Spaghetti Commercial Storyboard",
+    "description": "A comprehensive multi-scene storyboard prompt for a high-end food commercial featuring authentic Italian pasta textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504574944_rhawok_HRRlezKbQAAQ8BS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33279,
+    "content": "Preserve 100% face ID and expressions, create an ultra-realistic, high-resolution vertical lifestyle fashion photograph matching the reference image as closely as possible in composition, framing, pose, styling, environment, lighting, colors, and photographic realism. A young adult {argument name=\"ethnicity\" default=\"South Asian\"} woman with a naturally feminine, curvy physique is seated elegantly outdoors on a {argument name=\"setting\" default=\"dark charcoal/black stone-tiled ledge\"} in a luxurious modern garden.",
+    "title": "Realistic South Asian Fashion Lifestyle",
+    "description": "A lifestyle fashion prompt for a South Asian woman in a modern garden, emphasizing face ID preservation from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504568428_24qmae_HRQnEOXb0AASizV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33380,
+    "content": "Create a premium, hyper-realistic high-fashion advertising campaign image using my uploaded female model as the ONLY identity reference for the main female subject. Preserve her exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, hair texture, and facial proportions. Keep her instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter her facial features. Recreate the overall visual concept of the reference image as a luxury contemporary fashion campaign, featuring a striking red monochromatic aesthetic. Main composition: Create a sophisticated editorial layout with three photographic panels: * Large upper panel: the female model in a dramatic low-angle fashion pose, looking confidently toward the camera, wearing an elegant flowing {argument name=\"dress color\" default=\"deep crimson/red\"} couture dress with sculptural draping and long sleeves. Dynamic fabric folds and movement, powerful fashion-editorial attitude. * Lower-left panel: the same model in a graceful full-body movement pose, with the red dress dramatically flowing through the air, creating elegant fabric motion. * Lower-right panel: the model standing confidently in a sophisticated red fashion outfit, strong posture, cinematic lighting, luxury styling. Use different poses and compositions in each panel while maintaining the exact same model identity. Art direction: Bold red-on-red color palette, rich crimson background, vivid scarlet highlights, deep burgundy shadows, glossy fashion-magazine finish, dramatic studio lighting, subtle rim lighting, high contrast, luxurious atmosphere. The overall design should feel like a premium fashion-tech startup campaign / magazine advertisement, modern, sophisticated, minimal, artistic and highly polished. Add tasteful editorial typography integrated into the composition: “SEE WHAT’S COMING”. Large central headline: “{argument name=\"brand name\" default=\"FRILANZE\"}”. Small subtitle beneath: “{argument name=\"subtitle\" default=\"NOUN: FREELANCE\"}”. Bottom headline: “{argument name=\"bottom text\" default=\"RED AWAKENING\"}”. Bottom copy: “Where creativity becomes content.” “Waitlist Now Live!” Typography should be clean, modern, elegant and fashion-editorial, with excellent spacing and hierarchy.",
+    "title": "Luxury Red Monochromatic Fashion Campaign",
+    "description": "A multi-panel editorial fashion layout using a specific model identity. This prompt creates a red-on-red monochromatic aesthetic with couture dresses, dynamic poses, and integrated editorial typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504566816_fk6z8v_HRQTW6zbUAATZ6S.jpg"
     ],
     "needReferenceImages": true
   },

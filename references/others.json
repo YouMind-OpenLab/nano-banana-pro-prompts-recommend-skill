@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 33379,
+    "content": "Impressionist oil painting of a graceful young woman standing in a sunlit {argument name=\"location\" default=\"lavender and wildflower meadow\"}. She is wearing an off-the-shoulder, ruffled {argument name=\"dress color\" default=\"cream-white\"} sun dress with delicate, flowing layered fabric catching dappled sunlight. She has wavy brown hair styled in a loose, elegant low updo, gentle facial features, closed or soft-lidded eyes, subtle rosy cheeks, and small floral stud earrings. She gently holds a bouquet of wildflowers and lavender across her chest. Soft pastel color palette, warm golden sunlight, visible textured brushstrokes, romantic aesthetic, cinematic lighting, {argument name=\"artist style\" default=\"John Singer Sargent and Claude Monet\"} style --ar 9:16 --v 6.1",
+    "title": "Impressionist Meadow Woman Portrait",
+    "description": "An impressionist oil painting of a woman in a sunlit wildflower meadow, inspired by the styles of Monet and Sargent. Uses soft pastel colors and textured brushstrokes for a romantic, cinematic feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504566341_8x3nlb_HRS_KwnasAESN0l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33190,
     "content": "Take from Image 2 only its medium, mark-making, texture, color treatment and surface finish. Take from Image 1 everything else",
     "title": "Image Texture and Style Transfer",

@@ -1,5 +1,27 @@
 [
   {
+    "id": 33400,
+    "content": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
+    "title": "2D Flat Vector Fashion Illustration",
+    "description": "Generates clean, 2D flat vector illustrations of Middle Eastern fashion with geometric prints and bold outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504578464_m2g14w_HRTNkZxa8AA_NVq.jpg",
+      "https://cms-assets.youmind.com/media/1788504578316_lujm1f_HRTNkZwbcAAZTqx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33398,
+    "content": "Modern fashion line art illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, single-weight black linework, flat color blocks in ochre and sage green, {argument name=\"trousers\" default=\"wide-leg patterned trousers\"}, {argument name=\"blouse\" default=\"embroidered off-shoulder blouse\"}, negative space composition, soft cream background, walking pose, 3:4",
+    "title": "Modern Fashion Line Art",
+    "description": "A clean line art prompt for modern fashion illustrations using flat color blocks and negative space compositions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788504577643_nlngf1_HRTM3bka4AAkD64.jpg",
+      "https://cms-assets.youmind.com/media/1788504577620_3oqffs_HRTM3bpa4AA-dDj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33270,
     "content": "{argument name=\"setting\" default=\"Glass studio\"}, {argument name=\"canvas\" default=\"holographic canvas\"}, {argument name=\"lighting\" default=\"mixed tungsten and cyan light\"}.",
     "title": "Holographic Canvas Glass Studio",
