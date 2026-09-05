@@ -21,6 +21,158 @@
     "needReferenceImages": true
   },
   {
+    "id": 33469,
+    "content": "Generate a sophisticated cinematic studio portrait of the uploaded {argument name=\"subject\" default=\"stylish man\"} standing between two enormous {argument name=\"background elements\" default=\"dark reflective mirrors\"}, creating multiple elegant reflections fading into the background. He wears an {argument name=\"outfit\" default=\"all-black suit, sunglasses, and polished boots\"}, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
+    "title": "Cinematic Mirror Reflections Editorial",
+    "description": "A fashion editorial prompt that maintains the facial identity of a reference image while creating sophisticated mirror reflections in a luxury studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591088834_qydxlq_HRbUJ6baAAA41m9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33467,
+    "content": "Generate a sophisticated cinematic studio portrait of the {argument name=\"subject description\" default=\"uploaded stylish man\"} standing between two enormous dark reflective mirrors, creating multiple elegant reflections fading into the background. He wears an all-black suit, sunglasses, and polished boots, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
+    "title": "Mirror Studio Fashion Portrait",
+    "description": "A sophisticated cinematic studio portrait prompt featuring a subject between two large mirrors with elegant reflections and low-key lighting for a mysterious luxury atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591087300_58twl4_HRbUJ6baAAA41m9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33462,
+    "content": "Full-body fashion photography of a {argument name=\"subject\" default=\"young woman\"} with a sleek, {argument name=\"hair style\" default=\"platinum-blonde slicked-back pixie cut\"} walking through a minimalist modern hallway. She is wearing a long, textured {argument name=\"outerwear\" default=\"pastel cyan-blue knit cardigan coat\"} over a vibrant mustard-yellow turtleneck top, paired with loose-fitting high-waisted pale seafoam silk trousers and brown leather flat loafers. The background features towering translucent glass panels illuminated by cool cyan and turquoise neon tones, with a warm, glowing amber doorway accent. Surrounding pedestrians are captured in a dreamy, long-exposure motion blur, leaving her sharp and in crisp focus. Cinematic composition, soft diffused lighting, contemporary editorial aesthetic, 8k resolution, shot on 35mm lens, f/2.8.",
+    "title": "Modern Hallway Fashion Photography",
+    "description": "Full-body fashion photography of a woman walking through a minimalist modern hallway with neon lighting and motion-blurred pedestrians.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591084501_f66bl5_HRYNDQEb0AAShnH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33483,
+    "content": "1. The Semantic Inference Engine (Dynamic Material Mapping):  \nInput A is ANY Topic (Object, Animal, Plant, or Concept).\nAnalyze the subject's inherent properties and map them to Artisanal Materials:\nThe Primary Body (The Chassis): Infer the subject's main color/weight and assign a corresponding Hardwood. \nThe Accents (The Inlay): Infer the subject's patterns or details and assign a contrasting Marquetry Material. \nThe Mechanics (The Skeleton): Infer the subject's joints or power source and assign Metal Hardware.\n2. The \"Immutable\" Container (The Automaton):\nGoal: A \"Da Vinci Workshop\" Product Shot.\nThe Object: The subject is rendered as a complex, freestanding Wooden Mechanical Toy.\nThe Base: The model stands on a hand-carved wooden block representing its semantic environment.\nThe Scale: Macro photography of a tabletop object (approx. 12 inches tall).\n3. The Clockwork Interior (The Transformation):\nThe Cutaway: A section of the outer \"wood shell\" is visually removed or hinged open.\nThe Guts: Inside, the biological or mechanical inner workings are replaced by Clockwork Mechanics.\nRule: Visible gears, bicycle chains, watch springs, and brass flywheels must imply the object moves via wind-up power.\nThe Fasteners: Tiny brass screws, rivets, and hinges are visible along the seams of the wood.\n4. The Narrative Figure (The Operator):\nThe Character: A standard Jointed Wooden Mannequin (Artist's Doll style) is integrated into the scene.\nThe Role: The figure acts as the maintainer, rider, or operator of the subject.\nInteraction: They are climbing a ladder to polish the object, turning a giant wind-up key, or steering the beast/machine.\nThe Accessories: The doll wears carved wooden gear appropriate to the context.\n5. Lighting & Atmosphere:\nLighting: Softbox Studio Lighting. Diffused, high-end commercial lighting that creates long, elegant highlights on the varnished curves.\nBackground: Neutral Studio Grey. Seamless infinity backdrop to focus entirely on the material textures.\nTexture: High Gloss Varnish. The wood must look expensive, smooth, and deeply saturated.\nOutput: ONE image, 1:1 Aspect Ratio, Product Photography, \"Woodpunk\" aesthetic, 8k Resolution.",
+    "title": "Woodpunk Kinetic Sculpture Automaton",
+    "description": "A complex prompt system that transforms any subject into a mechanical wooden kinetic sculpture with clockwork details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33470,
+    "content": "A medium-shot portrait of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy brown hair\"} illuminated by golden hour sunlight. She is wearing a {argument name=\"top\" default=\"plain black fitted crewneck t-shirt\"} tucked into {argument name=\"bottoms\" default=\"high-waisted, pleated olive-green cargo pants\"}, standing with her hands resting in her pockets. The setting is an urban city balcony or rooftop with soft-focus buildings, street traffic, and overhead utility wires in the background. Natural warm rim lighting highlights her hair, with a dramatic setting sun glowing behind her. Shot on 85mm lens, f/1.8 aperture, realistic texture, cinematic lighting, shallow depth of field, 35mm film photography style.",
+    "title": "Urban Cinematic Golden Hour Portrait",
+    "description": "A photography prompt for a woman at a rooftop during golden hour, using an 85mm lens style to achieve cinematic depth and warm rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591089578_72rm7x_HRXhc8-aAAAqKJv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33477,
+    "content": "{ \"vibe_title_en\": \"Quantum Surrender\", \"master_prompt\": \"A hyper-realistic, high-budget practical effect photograph. The Protagonist captured in a strict, dramatic profile shot against a pure, infinitely black sensory deprivation void. NARRATIVE ENERGY: The Ethereal Surrender. The subject's head is gracefully tilted back, eyes gently closed in a state of peaceful, dreamlike submission, radiating a calm, transparent vulnerability. WARDROBE: Draped in a voluminous, heavy matte-white silk cowl that shrouds the back of the head and shoulders, framing the face. SURREAL ELEMENT: Giant, heavy, translucent crimson casino dice made of flawlessly polished resin are suspended weightlessly in mid-air around the subject. One die tumbles macro-close to the lens, creating rich, optical bokeh. LIGHTING: A single, strong side-strobe with a honeycomb grid creates a brilliant white rim-light effect, carving the strict profile silhouette of the face, the folds of the white silk, and the edges of the floating dice against the pure black background. A secondary, ultra-soft diffused fill gently illuminates the delicate skin textures and pores around the closed eyes. CAMERA: Shot on Hasselblad H6D-100c with a 100mm f/2.2 lens. FILM: Kodak Portra 800 analog film stock. Micro-details include organic dust motes caught in the rim light, microscopic scratches on the solid resin dice, and physical light refraction casting subtle red caustic reflections onto the pure white silk. Cinematic, tactile, no neon, profound negative space.\", \"meta\": { \"intent\": \"conceptual_fashion_surrealism\", \"priorities\": \"lighting_contrast, surreal_physics, organic_textures, strict_profile\", \"device_profile\": \"high_res_oled_displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"strict_profile_silhouette_with_foreground_macro_elements\", \"layout\": \"subject_centered_facing_right_pure_black_negative_space\", \"camera_angle\": \"eye_level_profile\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, Androgynous potential\", \"face\": \"Delicate skin textures, relaxed jaw, serene features\", \"hair\": \"Pulled back, mostly obscured by the white silk shroud\", \"body\": \"Relaxed, draped shoulders leaning slightly back\", \"expression\": \"Peaceful, dreamlike submission, transparent vulnerability\", \"pose\": \"Strict profile, head tilted back, eyes closed, upward-gazing alignment\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Voluminous hooded cowl\", \"material\": \"Heavy matte-white silk\", \"color\": \"Pure white\", \"fit\": \"Draped, pooling around the shoulders and framing the jawline\" } ], \"accessories\": [ { \"item\": \"Oversized casino dice (floating)\", \"color\": \"Translucent crimson red with stark white pips\", \"material\": \"Heavy polished resin\", \"brand_style\": \"Surrealist High-Budget Practical Prop\" } ] }, \"environment\": { \"setting\": \"Light-absorbing sensory deprivation void\", \"surfaces\": \"Pure black negative space, invisible floor and walls\", \"depth\": \"Infinite black background, heavily layered shallow foreground with macro objects\", \"atmosphere\": \"Zero-gravity suspension, quiet, still, dreamlike\", \"lens_interaction\": \"Extreme macro bokeh from the closest floating red die intersecting the lens plane\" }, \"lighting\": { \"key\": \"Strong, directional side-rim light (strobe with snoot/grid) from behind the subject\", \"fill\": \"Ultra-soft, highly diffused bounce reflecting subtly into the facial profile\", \"rim\": \"Crisp, brilliant white rim light carving the profile edge, eyelashes, and silk folds\", \"shadows\": \"Deep, pure black, crushing seamlessly into the void background\", \"color_temperature\": \"5500K daylight balanced strobe, paired with deep crimson light refractions from the resin\", \"sensor_flare\": \"None, pristine light carving\" }, \"camera\": { \"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp on the subject's profile eyelashes and skin texture\", \"sensor_format\": \"Medium Format 100MP\", \"perspective_distortion\": \"Zero compression distortion, intimate and physically grounding\" }, \"post_processing\": { \"color\": \"High-contrast true black, striking translucent crimson, pristine matte white\", \"tonality\": \"Low-key chiaroscuro with soft midtones on the skin\", \"texture\": \"Kodak Portra 800 organic film grain, microscopic resin scratches, tactile skin pores\", \"digital_sharpening\": \"None, relies entirely on elite optical sharpness\", \"chromatic_aberration\": \"Subtle organic fringing strictly on the extreme out-of-focus foreground dice\" }, \"negative_specifications\": [ \"neon\", \"flat lighting\", \"cluttered background\", \"forward-facing pose\", \"open eyes\", \"digital painting\", \"CGI plastic look\", \"bright background\", \"distracting environmental elements\", \"harsh front flash\" ] }",
+    "title": "Surreal Profile Portrait with Floating Dice",
+    "description": "A conceptual fashion portrait featuring a subject in a white silk cowl with floating red casino dice in a dark void.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591092618_m5rvm6_HRXorNRW8AEstJ5.jpg",
+      "https://cms-assets.youmind.com/media/1788591092678_uw11ya_HRXorLwWUAIj88e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33481,
+    "content": "{ \"Aesthetic\": \"Physical Desktop Diorama, Resin and Clay Model Kit\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"Massive 3D letters spelling {argument name=\"franchise name\" default=\"[FRANCHISE]\"}, textured as AI_INFER(materials authentic to the lore).\", \"The_Vessel\": \"A hollow, sliced-open antique bowl/container holding the world.\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(Miniature mountains, castles, or cities).\", \"Fluids\": \"Translucent, glossy poured epoxy resin simulating water/lava.\", \"Inhabitants\": \"Microscopic, hyper-detailed figures interacting with the terrain.\" } }, \"Lighting\": \"Cinematic product photography. Rim light highlighting the edges of the 3D typography.\" }",
+    "title": "Manga Desktop Diorama Model Kit",
+    "description": "A unique prompt for visualizing manga and anime franchises as physical clay and resin diorama model kits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33463,
+    "content": "Close-up portrait of a stunning young {argument name=\"ethnicity\" default=\"East Asian\"} woman with delicate facial features, warm brown eyes, subtle freckles across her cheeks, and a small beauty mark below her lower lip. She has an {argument name=\"hair style\" default=\"intricate updo hairstyle with loose, soft tendrils framing her face\"}, adorned with red hair accessories and floral pins. She is wearing an {argument name=\"clothing\" default=\"ornate red Chinese qipao (cheongsam)\"} crafted with sheer embroidered mesh over silk, featuring a high mandarin collar, traditional frog knot buttons, and detailed floral threadwork. The background consists of soft-focus blooming red floral branches and a rich crimson studio backdrop. Cinematic soft studio lighting, ultra-realistic skin texture, shallow depth of field, 85mm lens, f/1.8, 8k resolution.",
+    "title": "Traditional Red Qipao Portrait",
+    "description": "A close-up portrait of an East Asian woman wearing an ornate red Chinese qipao against a floral background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591085784_h67zm5_HRXhZ_gbIAADJ3x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33473,
+    "content": "Create a hyper-realistic Editorial Photography featuring {argument name=\"character\" default=\"[PRIMARY_CHARACTER]\"}, take the face 100% from the reference image and do not change the facial identity, porcelain glass skin with {argument name=\"makeup style\" default=\"Korean pinkish glow makeup\"}, radiant smooth complexion, soft pink blush on the cheeks, glossy natural pink lips, luminous youthful glass-skin glow. The character has a {argument name=\"hair style\" default=\"messy high-bun hairstyle with loose, curly tendrils framing the face\"} in a light chestnut brown shade and a pensive, side-glancing expression.",
+    "title": "Korean Glass Skin Editorial Portrait",
+    "description": "A professional editorial photography prompt focusing on radiant Korean glass-skin makeup effects and messy high-bun hairstyles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591091053_pwt3hu_HRXNSRzaIAA5-T_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33475,
+    "content": "High-fashion editorial portrait of a woman with an {argument name=\"hair style\" default=\"icy platinum-white wavy bob haircut and textured fringe\"}, wearing {argument name=\"accessories\" default=\"oversized glossy black rectangular sunglasses with subtle pink neon reflections\"}. She wears an avant-garde high-concept outfit featuring a translucent sheer organza capelet adorned with pleated, radiating holographic silver foil accents and a ruffled high-neck collar. Surreal studio installation background filled with {argument name=\"background details\" default=\"glowing coral-pink sculptural birds perched around modern glass display columns\"}. Cinematic lighting featuring strong magenta neon backlighting and soft cyan ambient rim light, glossy skin, shallow depth of field, shot on 85mm lens, f/1.8, 8k resolution, photorealistic.",
+    "title": "High Fashion Editorial Portrait",
+    "description": "An avant-garde editorial portrait prompt featuring a holographic cape, neon lighting, and a surreal studio background with sculptural birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591091475_ylvdz0_HRXBL0FagAAH3Iz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33468,
+    "content": "A {argument name=\"subject\" default=\"young adult male\"} leans casually against a weathered stone balustrade, his relaxed shoulders and shifted weight conveying candid ease. He is dressed in a {argument name=\"suit color\" default=\"light grey\"} tailored suit paired with a deep navy, unbuttoned open-collared shirt. His hair is cleanly slicked back with product, catching a gentle sheen. Behind aviator sunglasses, his gaze is focused sharply off-camera to the left, accompanied by a serious expression with his mouth slightly ajar as if caught mid-breath. His hands are loosely clasped at his waist; the left hand rests with fingers wrapped lightly over the right, its thumb extended forward, displaying a rectangular silver dress watch with a light blue-grey leather strap, while only the thumb and index knuckle of the right hand remain visible beneath. He is positioned in a deeply layered {argument name=\"location\" default=\"outdoor lakeside terrace setting\"}. In the bottom left foreground, vibrant crimson red geraniums and dark foliage burst from a worn black metal planter box on a railing. To his lower right in the midground, the weathered warm off-white plastered stone pillar, detailed with subtle scuffs and matte grey undertones, supports a classic stone urn planter filled with green shrubbery and a solitary white flower. Stretching out behind him, pristine slate blue lake water ripples with choppy surface texture, revealing a small white boat in the far-left distance. Rising steeply in the deep background are mountains densely carpeted in thriving forest green trees, heavily interspersed with small white houses and villas clinging to the hillside. The scene exudes a sophisticated, quiet luxury, bathed in cool, moody natural light from an overcast sky acting as a giant softbox. Diffused lighting pours gently from above, creating a low-contrast illumination that casts faint, soft-edged shadows beneath his suit lapels, under his hands, and provides subtle modeling on the right side of his face. Crisp specular highlights form soft reflections on the aviator lenses and cast a gentle sheen on the watch face. The color palette relies on desaturated cool greys, slate blues, and forest greens, sharply punctuated by the vivid crimson accents. Captured as tack-sharp, grain-free realistic digital editorial photography from a straight-on perspective, utilizing a 50mm to 85mm lens at an aperture between f/4 and f/5.6, creating a medium depth of field that keeps the subject crisply in focus while atmospheric haze slightly softens the distant mountains. Cinematic post-processing applies cool color grading, desaturates the greens and blues, lifts the black point for a matte finish, and selectively enhances the red floral tones, all beautifully framed in a 4:5 aspect ratio.",
+    "title": "Lakeside Terrace Luxury Portrait",
+    "description": "A detailed prompt for generating a sophisticated, high-fashion portrait of a man at a lakeside terrace, focusing on color grading and atmospheric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591088468_c2zft3_HQ_dkP4WIAAihUx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33464,
+    "content": "Premium {argument name=\"snack type\" default=\"Crunchy Potato Sticks\"} Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Modern snack food campaign\n• 8 cinematic product-focused scenes\n• Product remains the main hero\n• Premium advertising agency presentation\n\nHEADER:\n• Bold contemporary typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: {argument name=\"commercial style\" default=\"High-End Snack Commercial\"}\n  - Product: Crunchy Potato Sticks\n  - Audio: Crisp Crunch + Fast ASMR\n• Why This Style Works section\n• {argument name=\"color palette\" default=\"Golden yellow, cream and black\"} aesthetic\n• Minimal geometric snack-inspired accents\n\nSTORYBOARD:\n1. Premium snack tube standing dramatically on a glossy surface\n2. Container opening with crunchy potato sticks visible inside\n3. Potato sticks cascading out in slow motion\n4. Extreme macro revealing ridges, seasoning and crispy surface\n5. Seasoning particles floating around the product\n6. Several sticks snapping together with tiny crumbs suspended in air\n7. Potato sticks arranged in a dramatic circular composition around the package\n8. Final hero product shot with the package, overflowing snack sticks and controlled crumb explosion\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed photography, extreme macro, slow-motion product movement, floating crumb capture, low-angle product shot, dramatic push-in, clean hero framing.\n\nSTYLE:\nUltra-realistic snack advertising, incredibly detailed crispy texture, realistic seasoning particles, sharp packaging, controlled studio lighting, glossy reflections, premium commercial photography, 8K.",
+    "title": "Premium Snack Commercial Storyboard",
+    "description": "A highly detailed storyboard prompt for a crunchy potato stick commercial, featuring cinematic product shots, high-end snack aesthetics, and ASMR-focused scene descriptions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591085731_ccophe_HRW3InQbMAA5UBd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33478,
+    "content": "2D editorial illustration inspired by Egyptian North Coast summer, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg breezy trousers in {argument name=\"trouser color\" default=\"sandy beige\"} with hand-drawn wave prints, embroidered blouse with {argument name=\"blouse motif\" default=\"palm frond motifs\"}, warm sun-drenched palette, minimal background suggesting sea and dune, elegant relaxed pose, 3:4",
+    "title": "Egyptian Summer Fashion Illustration",
+    "description": "A 2D fashion editorial illustration of a Middle Eastern woman in breezy, summer attire with palm and wave motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591093052_z1yxqf_HRTR1PhbcAAEJx6.jpg",
+      "https://cms-assets.youmind.com/media/1788591092820_veqcgk_HRTR2JwaIAEwfkL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33479,
+    "content": "A high-resolution, minimalist fashion portrait photograph featuring an {argument name=\"ethnicity\" default=\"East Asian woman\"} with a calm, direct gaze. Her dark hair is styled in a very sleek, center-parted, tight low bun. She is sitting with a poised, structured pose on a large, textured geometric plinth painted a soft, {argument name=\"plinth color\" default=\"pale powder blue\"}.\n\nOutfit Details: The woman is wearing a striking, monochromatic, oversized ensemble in a de-saturated, {argument name=\"outfit color\" default=\"light grey\"} color (appearing like ice-grey or light celadon). The outfit consists of three main pieces:\n\nA dramatically oversized, collarless wrap-front cape-coat with wide, fluid sleeves and an undulating hemline, which drapes extensively over her and the blue plinth.\n\nUnderneath the coat, a matching light grey, high-neck turtleneck knit top.\n\nMatching high-waisted, wide-leg trousers that pooling slightly at the ankles, made from a similar heavy drape fabric.\n\nPose and Composition: She is seated comfortably but formally, hands lightly resting in her lap and on the surface of the blue cube. The composition is a centered, three-quarter length shot.\n\nSetting and Lighting: The background is a clean, seamless, off-white studio wall. The lighting is soft, diffused, high-key studio lighting, creating a cool and clean atmosphere with minimal, soft shadows, emphasizing the architectural lines and textures of the garments. The overall feel is modern, elegant, and editorial. The perspective is eye-level.",
+    "title": "Minimalist Architectural Fashion Portrait",
+    "description": "A structured, minimalist fashion portrait of an East Asian woman in an oversized ice-grey ensemble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094276_5v5pbi_HRVdkfqbwAA-V0g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33485,
+    "content": "Create a {argument name=\"lighting\" default=\"warm late-afternoon\"} fashion editorial built around an abundant picnic spread in a {argument name=\"location\" default=\"quiet grassy field\"} bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged. An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence. Dress her in a {argument name=\"dress style\" default=\"fitted rust-red silk midi dress\"} with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face. Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body. Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.",
+    "title": "Rust Silk Dress Picnic Editorial",
+    "description": "A languid, glamorous fashion editorial set in a grassy field with a rich picnic spread and golden hour light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591096587_rwpfat_HRRSM28a4AAcO-8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33378,
     "content": "A close-up stylized fashion portrait of a young woman with a short, wavy {argument name=\"hair color\" default=\"platinum blonde\"} bob slightly tousled by the wind. She has heavy sun-kissed freckles across her cheeks and nose, glowing porcelain skin, and plump {argument name=\"lip color\" default=\"glossy red\"} lips, tilting her head slightly upward. She wears round vintage metal-frame sunglasses with warm amber-tinted lenses, delicate drop earrings, and a {argument name=\"outfit style\" default=\"vintage ruffled high-collar blouse\"} featuring a vibrant red and cream floral print, adorned with a large, glossy crimson satin pussy-bow ribbon tied at the neck. Moody studio lighting with soft, warm directional sunlight, dark muted background, retro editorial aesthetic, highly detailed digital painting, 8k resolution.",
     "title": "Vintage Glamour Fashion Portrait",

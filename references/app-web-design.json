@@ -1,5 +1,16 @@
 [
   {
+    "id": 33478,
+    "content": "2D editorial illustration inspired by Egyptian North Coast summer, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg breezy trousers in {argument name=\"trouser color\" default=\"sandy beige\"} with hand-drawn wave prints, embroidered blouse with {argument name=\"blouse motif\" default=\"palm frond motifs\"}, warm sun-drenched palette, minimal background suggesting sea and dune, elegant relaxed pose, 3:4",
+    "title": "Egyptian Summer Fashion Illustration",
+    "description": "A 2D fashion editorial illustration of a Middle Eastern woman in breezy, summer attire with palm and wave motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591093052_z1yxqf_HRTR1PhbcAAEJx6.jpg",
+      "https://cms-assets.youmind.com/media/1788591092820_veqcgk_HRTR2JwaIAEwfkL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33400,
     "content": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
     "title": "2D Flat Vector Fashion Illustration",

@@ -1,11 +1,64 @@
 [
   {
-    "id": 33388,
-    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young girl\"} with messy vibrant ginger hair tied in a loose bun and subtle freckles across her nose, gazing upward with a wistful, thoughtful expression. She wears {argument name=\"accessory\" default=\"cracked vintage welding goggles\"} pushed up onto her forehead with fractured blue circular lenses. Wearing a heavily distressed, oversized {argument name=\"clothing\" default=\"mustard-yellow hoodie\"} covered in paint splatters, frayed seams, patched denim fabric on the sleeves, and a faded embroidered skull patch on the forearm, along with rugged, dusty work gloves. Background is a weathered, peeling wall with chipped turquoise and faded yellow paint. Soft dramatic directional lighting, gritty post-apocalyptic aesthetic, 85mm lens, shallow depth of field, hyper-detailed fabric textures.",
-    "title": "Post-Apocalyptic Girl Welding Goggles",
-    "description": "A cinematic portrait prompt of a young girl in a post-apocalyptic setting, featuring detailed distressed clothing and dramatic lighting.",
+    "id": 33471,
+    "content": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
+    "title": "Artifact Diorama SQL Generation",
+    "description": "A unique SQL-style generation prompt for creating intricate architectural dioramas with carved stone and antique gold textures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788504571148_eeqzwb_HRVdPplaUAApurE.jpg"
+      "https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg",
+      "https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg",
+      "https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg",
+      "https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33483,
+    "content": "1. The Semantic Inference Engine (Dynamic Material Mapping):  \nInput A is ANY Topic (Object, Animal, Plant, or Concept).\nAnalyze the subject's inherent properties and map them to Artisanal Materials:\nThe Primary Body (The Chassis): Infer the subject's main color/weight and assign a corresponding Hardwood. \nThe Accents (The Inlay): Infer the subject's patterns or details and assign a contrasting Marquetry Material. \nThe Mechanics (The Skeleton): Infer the subject's joints or power source and assign Metal Hardware.\n2. The \"Immutable\" Container (The Automaton):\nGoal: A \"Da Vinci Workshop\" Product Shot.\nThe Object: The subject is rendered as a complex, freestanding Wooden Mechanical Toy.\nThe Base: The model stands on a hand-carved wooden block representing its semantic environment.\nThe Scale: Macro photography of a tabletop object (approx. 12 inches tall).\n3. The Clockwork Interior (The Transformation):\nThe Cutaway: A section of the outer \"wood shell\" is visually removed or hinged open.\nThe Guts: Inside, the biological or mechanical inner workings are replaced by Clockwork Mechanics.\nRule: Visible gears, bicycle chains, watch springs, and brass flywheels must imply the object moves via wind-up power.\nThe Fasteners: Tiny brass screws, rivets, and hinges are visible along the seams of the wood.\n4. The Narrative Figure (The Operator):\nThe Character: A standard Jointed Wooden Mannequin (Artist's Doll style) is integrated into the scene.\nThe Role: The figure acts as the maintainer, rider, or operator of the subject.\nInteraction: They are climbing a ladder to polish the object, turning a giant wind-up key, or steering the beast/machine.\nThe Accessories: The doll wears carved wooden gear appropriate to the context.\n5. Lighting & Atmosphere:\nLighting: Softbox Studio Lighting. Diffused, high-end commercial lighting that creates long, elegant highlights on the varnished curves.\nBackground: Neutral Studio Grey. Seamless infinity backdrop to focus entirely on the material textures.\nTexture: High Gloss Varnish. The wood must look expensive, smooth, and deeply saturated.\nOutput: ONE image, 1:1 Aspect Ratio, Product Photography, \"Woodpunk\" aesthetic, 8k Resolution.",
+    "title": "Woodpunk Kinetic Sculpture Automaton",
+    "description": "A complex prompt system that transforms any subject into a mechanical wooden kinetic sculpture with clockwork details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33481,
+    "content": "{ \"Aesthetic\": \"Physical Desktop Diorama, Resin and Clay Model Kit\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"Massive 3D letters spelling {argument name=\"franchise name\" default=\"[FRANCHISE]\"}, textured as AI_INFER(materials authentic to the lore).\", \"The_Vessel\": \"A hollow, sliced-open antique bowl/container holding the world.\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(Miniature mountains, castles, or cities).\", \"Fluids\": \"Translucent, glossy poured epoxy resin simulating water/lava.\", \"Inhabitants\": \"Microscopic, hyper-detailed figures interacting with the terrain.\" } }, \"Lighting\": \"Cinematic product photography. Rim light highlighting the edges of the 3D typography.\" }",
+    "title": "Manga Desktop Diorama Model Kit",
+    "description": "A unique prompt for visualizing manga and anime franchises as physical clay and resin diorama model kits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33386,
+    "content": "Close-up portrait of an ethereal {argument name=\"subject\" default=\"young woman\"} with porcelain skin and expressive hazel-brown eyes, parted lips, cascading wavy {argument name=\"hair color\" default=\"midnight-blue and cobalt\"} hair intricately intertwined with large blooming white peonies and deep blue floral vines, organic botanical dress blending seamlessly into blue leaves and white blossoms, dark minimalist background, dramatic chiaroscuro lighting, smooth digital concept art, soft cinematic shadows, photorealistic details, fine line art, trending on ArtStation, 8k resolution, aspect ratio 9:16",
+    "title": "Ethereal Floral Portrait",
+    "description": "A close-up portrait of a woman with midnight-blue hair intertwined with white peonies and floral vines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591084589_27rgsd_HRVdVBJbIAA-NbX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33374,
+    "content": "An anime-style digital illustration of a vibrant {argument name=\"subject\" default=\"young woman\"} with a bold, punk-inspired look, based on image_0.png. Her long, flowing hair is {argument name=\"hair style\" default=\"split-dyed, with the right side bright teal-blue and the left side vivid red, tied into a messy pigtail bun\"}. She has a {argument name=\"expression\" default=\"confident, open-mouthed grin\"}, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+    "title": "Punk Style Split-Dye Anime Woman",
+    "description": "An anime-style digital illustration of a punk-inspired woman with blue and red split-dyed hair and vibrant tattoos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33388,
+    "content": "Cinematic portrait of a young girl with messy {argument name=\"hair color\" default=\"vibrant ginger hair\"} tied in a loose bun and subtle freckles across her nose, gazing upward with a wistful, thoughtful expression. She wears cracked vintage welding goggles pushed up onto her forehead with fractured blue circular lenses. Wearing a heavily distressed, oversized {argument name=\"hoodie color\" default=\"mustard-yellow hoodie\"} covered in paint splatters, frayed seams, patched denim fabric on the sleeves, and a faded embroidered skull patch on the forearm, along with rugged, dusty work gloves. Background is a weathered, peeling wall with {argument name=\"wall color\" default=\"chipped turquoise and faded yellow paint\"}. Soft dramatic directional lighting, gritty post-apocalyptic aesthetic, 85mm lens, shallow depth of field, hyper-detailed fabric textures.",
+    "title": "Post-Apocalyptic Girl with Welding Goggles",
+    "description": "A cinematic and gritty portrait of a young girl in a distressed yellow hoodie and welding goggles against a weathered wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591093220_nk6sjr_HRVdPplaUAApurE.jpg"
     ],
     "needReferenceImages": false
   },

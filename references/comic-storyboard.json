@@ -1,21 +1,71 @@
 [
   {
-    "id": 33374,
-    "content": "An anime-style digital illustration of a vibrant young woman with a bold, punk-inspired look, based on {argument name=\"reference image\" default=\"image_0.png\"}. Her long, flowing hair is split-dyed, with the right side {argument name=\"right hair color\" default=\"bright teal-blue\"} and the left side {argument name=\"left hair color\" default=\"vivid red\"}, tied into a messy pigtail bun. She has a confident, open-mouthed grin, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
-    "title": "Anime Punk Woman Illustration",
-    "description": "An anime-style digital illustration of a woman with a bold punk aesthetic. This prompt features detailed character design including split-dyed hair, colorful tattoos, and dynamic studio lighting.",
+    "id": 33474,
+    "content": "{\n  \"title\": \"{argument name=\"story title\" default=\"The Lighthouse Keeper\"}\",\n\n  \"image_description\": \"A solitary lighthouse stands on a jagged cliff surrounded by a violent ocean storm. Towering waves crash against the rocks below. Lightning tears through dark clouds, briefly illuminating the ancient stone structure. Inside the lighthouse, an elderly keeper slowly climbs a spiral staircase carrying an old lantern. The walls are covered with faded photographs, letters and newspaper clippings spanning decades. Every ship route in the world was abandoned more than fifty years ago. No vessels pass here anymore. Yet every night, without fail, the keeper climbs to the top and turns on the light.\",\n\n  \"story_element\": {\n    \"twist\": \"{argument name=\"plot twist\" default=\"Nobody knows why he still does it.\"}\",\n    \"secret\": \"{argument name=\"the secret\" default=\"Tonight, for the first time in fifty years, a faint light appears on the horizon.\"}\"\n  },\n\n  \"environment\": {\n    \"weather\": \"Violent storm\",\n    \"time\": \"Midnight\",\n    \"atmosphere\": \"Lonely, mysterious, emotional\"\n  },\n\n  \"symbolism\": \"Faith and hope without proof.\",\n\n  \"cinematography\": {\n    \"camera_angle\": \"Low angle\",\n    \"lens\": \"85mm anamorphic\",\n    \"lighting\": \"Lightning flashes and warm lantern glow\"\n  },\n\n  \"mood\": [\n    \"Hope\",\n    \"Mystery\",\n    \"Loneliness\",\n    \"Determination\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Oscar-winning cinematic drama\",\n    \"resolution\": \"8K\",\n    \"realism\": \"Ultra photorealistic\"\n  }\n}",
+    "title": "The Lighthouse Keeper Storyboard",
+    "description": "A detailed cinematic prompt for a mysterious storm-weathered lighthouse scene with heavy emotional atmosphere.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788504563546_7gc71j_HRVdSThbkAA-5ar.jpg"
+      "https://cms-assets.youmind.com/media/1788591091473_7f611z_HRZCZUlaMAAu2-k.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33476,
+    "content": "a captivating digital illustration of a young woman with a {argument name=\"skin tone\" default=\"sun-kissed complexion and prominent freckles scattered across her nose and cheeks\"}. she has {argument name=\"eyes and expression\" default=\"warm brown eyes and a charming smile\"}. her voluminous, textured brown hair is casually styled in a messy, swept-up bun, with soft, face-framing strands catching the light. she is wearing a {argument name=\"outfit\" default=\"light-blue and white layered top, potentially a v-neck shirt or tunic\"}, with visible sketch-like brushstrokes. a thin gold chain necklace with a subtle pendant is visible around her neck, and she wears a single gold hoop earring. the background is a simple, neutral light grey, allowing the subject to stand out. the art style is a blend of painting and dynamic sketching, with clear lines and rich, warm tones.",
+    "title": "Sketch-Style Portrait Illustration",
+    "description": "A digital illustration prompt blending painting and sketching styles to create a sun-kissed portrait with prominent freckles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591092119_0ptcg9_HRXBRsVa8AASyER.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33466,
+    "content": "A cinematic portrait of a beautiful {argument name=\"ethnicity\" default=\"Asian\"} woman standing waist-deep in a clear misty river in front of a majestic cascading waterfall surrounded by dense green forest foliage. She wears an elegant {argument name=\"outfit material\" default=\"white satin\"} traditional robe with cross-over lapels and a tied sash paired with intricate gold arm cuffs and an ornate gold necklace Her long straight black hair sways dramatically as if caught in a mystical breeze. With an intense, focused expression, she holds her hands open as dynamic splashes and swirls of water magically curve upward around her, hyper-realistic volumetric sunbeams piercing through the forest canopy, highly detailed water droplets dramatic lighting, fantasy realism, 8k resolution.",
+    "title": "Mystical Waterfall Fantasy Portrait",
+    "description": "A breathtaking fantasy portrait prompt of an Asian woman in traditional robes at a misty waterfall, featuring magical swirling water effects and volumetric sunbeams.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33464,
+    "content": "Premium {argument name=\"snack type\" default=\"Crunchy Potato Sticks\"} Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Modern snack food campaign\n• 8 cinematic product-focused scenes\n• Product remains the main hero\n• Premium advertising agency presentation\n\nHEADER:\n• Bold contemporary typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: {argument name=\"commercial style\" default=\"High-End Snack Commercial\"}\n  - Product: Crunchy Potato Sticks\n  - Audio: Crisp Crunch + Fast ASMR\n• Why This Style Works section\n• {argument name=\"color palette\" default=\"Golden yellow, cream and black\"} aesthetic\n• Minimal geometric snack-inspired accents\n\nSTORYBOARD:\n1. Premium snack tube standing dramatically on a glossy surface\n2. Container opening with crunchy potato sticks visible inside\n3. Potato sticks cascading out in slow motion\n4. Extreme macro revealing ridges, seasoning and crispy surface\n5. Seasoning particles floating around the product\n6. Several sticks snapping together with tiny crumbs suspended in air\n7. Potato sticks arranged in a dramatic circular composition around the package\n8. Final hero product shot with the package, overflowing snack sticks and controlled crumb explosion\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed photography, extreme macro, slow-motion product movement, floating crumb capture, low-angle product shot, dramatic push-in, clean hero framing.\n\nSTYLE:\nUltra-realistic snack advertising, incredibly detailed crispy texture, realistic seasoning particles, sharp packaging, controlled studio lighting, glossy reflections, premium commercial photography, 8K.",
+    "title": "Premium Snack Commercial Storyboard",
+    "description": "A highly detailed storyboard prompt for a crunchy potato stick commercial, featuring cinematic product shots, high-end snack aesthetics, and ASMR-focused scene descriptions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591085731_ccophe_HRW3InQbMAA5UBd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33374,
+    "content": "An anime-style digital illustration of a vibrant {argument name=\"subject\" default=\"young woman\"} with a bold, punk-inspired look, based on image_0.png. Her long, flowing hair is {argument name=\"hair style\" default=\"split-dyed, with the right side bright teal-blue and the left side vivid red, tied into a messy pigtail bun\"}. She has a {argument name=\"expression\" default=\"confident, open-mouthed grin\"}, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+    "title": "Punk Style Split-Dye Anime Woman",
+    "description": "An anime-style digital illustration of a punk-inspired woman with blue and red split-dyed hair and vibrant tattoos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33388,
-    "content": "Cinematic portrait of a {argument name=\"subject\" default=\"young girl\"} with messy vibrant ginger hair tied in a loose bun and subtle freckles across her nose, gazing upward with a wistful, thoughtful expression. She wears {argument name=\"accessory\" default=\"cracked vintage welding goggles\"} pushed up onto her forehead with fractured blue circular lenses. Wearing a heavily distressed, oversized {argument name=\"clothing\" default=\"mustard-yellow hoodie\"} covered in paint splatters, frayed seams, patched denim fabric on the sleeves, and a faded embroidered skull patch on the forearm, along with rugged, dusty work gloves. Background is a weathered, peeling wall with chipped turquoise and faded yellow paint. Soft dramatic directional lighting, gritty post-apocalyptic aesthetic, 85mm lens, shallow depth of field, hyper-detailed fabric textures.",
-    "title": "Post-Apocalyptic Girl Welding Goggles",
-    "description": "A cinematic portrait prompt of a young girl in a post-apocalyptic setting, featuring detailed distressed clothing and dramatic lighting.",
+    "content": "Cinematic portrait of a young girl with messy {argument name=\"hair color\" default=\"vibrant ginger hair\"} tied in a loose bun and subtle freckles across her nose, gazing upward with a wistful, thoughtful expression. She wears cracked vintage welding goggles pushed up onto her forehead with fractured blue circular lenses. Wearing a heavily distressed, oversized {argument name=\"hoodie color\" default=\"mustard-yellow hoodie\"} covered in paint splatters, frayed seams, patched denim fabric on the sleeves, and a faded embroidered skull patch on the forearm, along with rugged, dusty work gloves. Background is a weathered, peeling wall with {argument name=\"wall color\" default=\"chipped turquoise and faded yellow paint\"}. Soft dramatic directional lighting, gritty post-apocalyptic aesthetic, 85mm lens, shallow depth of field, hyper-detailed fabric textures.",
+    "title": "Post-Apocalyptic Girl with Welding Goggles",
+    "description": "A cinematic and gritty portrait of a young girl in a distressed yellow hoodie and welding goggles against a weathered wall.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788504571148_eeqzwb_HRVdPplaUAApurE.jpg"
+      "https://cms-assets.youmind.com/media/1788591093220_nk6sjr_HRVdPplaUAApurE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33395,
+    "content": "Cinematic close-up portrait of a stunning {argument name=\"subject\" default=\"young woman\"} with {argument name=\"hair style\" default=\"tousled, wavy auburn-red hair\"}, layered shaggy cut, and soft fringe bangs. She is wearing a {argument name=\"outerwear\" default=\"glossy black waterproof nylon windbreaker jacket\"} with a high zipped collar and hood. Gentle rain falling in a night city, dramatic warm amber and red bokeh lights glowing in a heavily blurred background. Warm rim lighting catching her face and wet strands of hair, detailed expressive eyes, smooth skin with a dewy glow. Shot on 85mm f/1.4 lens, shallow depth of field, moody atmosphere, movie still aesthetic, photorealistic, 8k resolution.",
+    "title": "Cinematic Rainy City Portrait",
+    "description": "A cinematic close-up of a woman in a black windbreaker jacket during a rainy night in a city with amber and red bokeh lights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591085743_nqjjrl_HRVdNCUbEAANu4c.jpg"
     ],
     "needReferenceImages": false
   },

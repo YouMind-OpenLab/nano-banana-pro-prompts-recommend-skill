@@ -1,5 +1,25 @@
 [
   {
+    "id": 33479,
+    "content": "A high-resolution, minimalist fashion portrait photograph featuring an {argument name=\"ethnicity\" default=\"East Asian woman\"} with a calm, direct gaze. Her dark hair is styled in a very sleek, center-parted, tight low bun. She is sitting with a poised, structured pose on a large, textured geometric plinth painted a soft, {argument name=\"plinth color\" default=\"pale powder blue\"}.\n\nOutfit Details: The woman is wearing a striking, monochromatic, oversized ensemble in a de-saturated, {argument name=\"outfit color\" default=\"light grey\"} color (appearing like ice-grey or light celadon). The outfit consists of three main pieces:\n\nA dramatically oversized, collarless wrap-front cape-coat with wide, fluid sleeves and an undulating hemline, which drapes extensively over her and the blue plinth.\n\nUnderneath the coat, a matching light grey, high-neck turtleneck knit top.\n\nMatching high-waisted, wide-leg trousers that pooling slightly at the ankles, made from a similar heavy drape fabric.\n\nPose and Composition: She is seated comfortably but formally, hands lightly resting in her lap and on the surface of the blue cube. The composition is a centered, three-quarter length shot.\n\nSetting and Lighting: The background is a clean, seamless, off-white studio wall. The lighting is soft, diffused, high-key studio lighting, creating a cool and clean atmosphere with minimal, soft shadows, emphasizing the architectural lines and textures of the garments. The overall feel is modern, elegant, and editorial. The perspective is eye-level.",
+    "title": "Minimalist Architectural Fashion Portrait",
+    "description": "A structured, minimalist fashion portrait of an East Asian woman in an oversized ice-grey ensemble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094276_5v5pbi_HRVdkfqbwAA-V0g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33485,
+    "content": "Create a {argument name=\"lighting\" default=\"warm late-afternoon\"} fashion editorial built around an abundant picnic spread in a {argument name=\"location\" default=\"quiet grassy field\"} bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged. An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence. Dress her in a {argument name=\"dress style\" default=\"fitted rust-red silk midi dress\"} with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face. Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body. Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.",
+    "title": "Rust Silk Dress Picnic Editorial",
+    "description": "A languid, glamorous fashion editorial set in a grassy field with a rich picnic spread and golden hour light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591096587_rwpfat_HRRSM28a4AAcO-8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33381,
     "content": "the middle fret mid-dressing, bright {argument name=\"fret material\" default=\"raw nickel silver\"} where the file has cut, the neighboring fret ends still square and unfinished for contrast",
     "title": "Macro Guitar Fret Dressing",

@@ -20,6 +20,49 @@
     "needReferenceImages": false
   },
   {
+    "id": 33477,
+    "content": "{ \"vibe_title_en\": \"Quantum Surrender\", \"master_prompt\": \"A hyper-realistic, high-budget practical effect photograph. The Protagonist captured in a strict, dramatic profile shot against a pure, infinitely black sensory deprivation void. NARRATIVE ENERGY: The Ethereal Surrender. The subject's head is gracefully tilted back, eyes gently closed in a state of peaceful, dreamlike submission, radiating a calm, transparent vulnerability. WARDROBE: Draped in a voluminous, heavy matte-white silk cowl that shrouds the back of the head and shoulders, framing the face. SURREAL ELEMENT: Giant, heavy, translucent crimson casino dice made of flawlessly polished resin are suspended weightlessly in mid-air around the subject. One die tumbles macro-close to the lens, creating rich, optical bokeh. LIGHTING: A single, strong side-strobe with a honeycomb grid creates a brilliant white rim-light effect, carving the strict profile silhouette of the face, the folds of the white silk, and the edges of the floating dice against the pure black background. A secondary, ultra-soft diffused fill gently illuminates the delicate skin textures and pores around the closed eyes. CAMERA: Shot on Hasselblad H6D-100c with a 100mm f/2.2 lens. FILM: Kodak Portra 800 analog film stock. Micro-details include organic dust motes caught in the rim light, microscopic scratches on the solid resin dice, and physical light refraction casting subtle red caustic reflections onto the pure white silk. Cinematic, tactile, no neon, profound negative space.\", \"meta\": { \"intent\": \"conceptual_fashion_surrealism\", \"priorities\": \"lighting_contrast, surreal_physics, organic_textures, strict_profile\", \"device_profile\": \"high_res_oled_displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"strict_profile_silhouette_with_foreground_macro_elements\", \"layout\": \"subject_centered_facing_right_pure_black_negative_space\", \"camera_angle\": \"eye_level_profile\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, Androgynous potential\", \"face\": \"Delicate skin textures, relaxed jaw, serene features\", \"hair\": \"Pulled back, mostly obscured by the white silk shroud\", \"body\": \"Relaxed, draped shoulders leaning slightly back\", \"expression\": \"Peaceful, dreamlike submission, transparent vulnerability\", \"pose\": \"Strict profile, head tilted back, eyes closed, upward-gazing alignment\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Voluminous hooded cowl\", \"material\": \"Heavy matte-white silk\", \"color\": \"Pure white\", \"fit\": \"Draped, pooling around the shoulders and framing the jawline\" } ], \"accessories\": [ { \"item\": \"Oversized casino dice (floating)\", \"color\": \"Translucent crimson red with stark white pips\", \"material\": \"Heavy polished resin\", \"brand_style\": \"Surrealist High-Budget Practical Prop\" } ] }, \"environment\": { \"setting\": \"Light-absorbing sensory deprivation void\", \"surfaces\": \"Pure black negative space, invisible floor and walls\", \"depth\": \"Infinite black background, heavily layered shallow foreground with macro objects\", \"atmosphere\": \"Zero-gravity suspension, quiet, still, dreamlike\", \"lens_interaction\": \"Extreme macro bokeh from the closest floating red die intersecting the lens plane\" }, \"lighting\": { \"key\": \"Strong, directional side-rim light (strobe with snoot/grid) from behind the subject\", \"fill\": \"Ultra-soft, highly diffused bounce reflecting subtly into the facial profile\", \"rim\": \"Crisp, brilliant white rim light carving the profile edge, eyelashes, and silk folds\", \"shadows\": \"Deep, pure black, crushing seamlessly into the void background\", \"color_temperature\": \"5500K daylight balanced strobe, paired with deep crimson light refractions from the resin\", \"sensor_flare\": \"None, pristine light carving\" }, \"camera\": { \"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp on the subject's profile eyelashes and skin texture\", \"sensor_format\": \"Medium Format 100MP\", \"perspective_distortion\": \"Zero compression distortion, intimate and physically grounding\" }, \"post_processing\": { \"color\": \"High-contrast true black, striking translucent crimson, pristine matte white\", \"tonality\": \"Low-key chiaroscuro with soft midtones on the skin\", \"texture\": \"Kodak Portra 800 organic film grain, microscopic resin scratches, tactile skin pores\", \"digital_sharpening\": \"None, relies entirely on elite optical sharpness\", \"chromatic_aberration\": \"Subtle organic fringing strictly on the extreme out-of-focus foreground dice\" }, \"negative_specifications\": [ \"neon\", \"flat lighting\", \"cluttered background\", \"forward-facing pose\", \"open eyes\", \"digital painting\", \"CGI plastic look\", \"bright background\", \"distracting environmental elements\", \"harsh front flash\" ] }",
+    "title": "Surreal Profile Portrait with Floating Dice",
+    "description": "A conceptual fashion portrait featuring a subject in a white silk cowl with floating red casino dice in a dark void.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591092618_m5rvm6_HRXorNRW8AEstJ5.jpg",
+      "https://cms-assets.youmind.com/media/1788591092678_uw11ya_HRXorLwWUAIj88e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33480,
+    "content": "Portrait of a woman with {argument name=\"hair style\" default=\"long, wavy hair\"}, looking up and to the side. {argument name=\"color scheme\" default=\"Black and white\"} with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is {argument name=\"expression\" default=\"pensive\"}, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.",
+    "title": "Black and White Chiaroscuro Portrait",
+    "description": "A pensive black and white portrait featuring strong dramatic lighting and a fashion-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094436_qw3ty3_HRRcUdAaQAARRK8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33484,
+    "content": "Bright pop art summer illustration, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg trousers printed with {argument name=\"trouser print\" default=\"oversized watermelon and lemon slices\"}, embroidered blouse with {argument name=\"blouse motifs\" default=\"cherry and pineapple motifs\"}, thick black outlines, saturated juicy colors, flat aqua blue background with sun rays, playful pose, 3:4",
+    "title": "Pop Art Summer Fruit Fashion Illustration",
+    "description": "A bright, saturated pop art illustration of a Middle Eastern woman wearing fruit-themed fashion in a playful pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591095836_3lgzdi_HRTX0LtasAAcAjV.jpg",
+      "https://cms-assets.youmind.com/media/1788591095794_w764p7_HRTX0LKWkAEim2l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33478,
+    "content": "2D editorial illustration inspired by Egyptian North Coast summer, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg breezy trousers in {argument name=\"trouser color\" default=\"sandy beige\"} with hand-drawn wave prints, embroidered blouse with {argument name=\"blouse motif\" default=\"palm frond motifs\"}, warm sun-drenched palette, minimal background suggesting sea and dune, elegant relaxed pose, 3:4",
+    "title": "Egyptian Summer Fashion Illustration",
+    "description": "A 2D fashion editorial illustration of a Middle Eastern woman in breezy, summer attire with palm and wave motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591093052_z1yxqf_HRTR1PhbcAAEJx6.jpg",
+      "https://cms-assets.youmind.com/media/1788591092820_veqcgk_HRTR2JwaIAEwfkL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33397,
     "content": "Bold graphic 2D illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, thick black outlines, saturated colors, {argument name=\"trousers\" default=\"wide-leg checkered trousers in red and white\"}, {argument name=\"blouse\" default=\"embroidered blouse with sun motifs\"}, poster-style flat shading, simple mauve background, confident hip pose, 3:4",
     "title": "2D Graphic Fashion Illustration",

@@ -10,24 +10,45 @@
     "needReferenceImages": false
   },
   {
-    "id": 33386,
-    "content": "Close-up portrait of an {argument name=\"subject\" default=\"ethereal young woman\"} with porcelain skin and expressive hazel-brown eyes, parted lips, cascading wavy {argument name=\"hair color\" default=\"midnight-blue and cobalt\"} hair intricately intertwined with large blooming {argument name=\"flowers\" default=\"white peonies\"} and deep blue floral vines, organic botanical dress blending seamlessly into blue leaves and white blossoms, dark minimalist background, dramatic chiaroscuro lighting, smooth digital concept art, soft cinematic shadows, photorealistic details, fine line art, trending on ArtStation, 8k resolution, aspect ratio 9:16",
-    "title": "Ethereal Woman Floral Hair Portrait",
-    "description": "A stunning digital art prompt for a portrait of an ethereal woman with cobalt hair intertwined with white peonies, using dramatic chiaroscuro lighting.",
+    "id": 33465,
+    "content": "A close-up side profile portrait of a young {argument name=\"ethnicity\" default=\"South Asian\"} woman with fair skin, natural glowing makeup, winged black eyeliner, soft blush, and warm terracotta-tinted lips. Her {argument name=\"hair color\" default=\"jet-black\"} hair is styled in a high, relaxed messy bun with delicate framing strands falling soft around her face. She is looking slightly downward with eyes closed, gently placing one hand with black polished nails near her forehead. She is wearing a simple black scoop-neck long-sleeve top. Warm, soft indoor accent lighting in the background creates a cozy, moody ambience, depth of field, 85mm lens photo, hyper-realistic detail.",
+    "title": "Natural Beauty Studio Portrait",
+    "description": "A cinematic portrait prompt for a young woman featuring glowing makeup, soft bun hairstyle, and moody indoor accent lighting, captured with an 85mm lens aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788504570629_82rmr6_HRVdVBJbIAA-NbX.jpg"
+      "https://cms-assets.youmind.com/media/1788591086854_eh1i3b_HRaqkTvbMAApP2n.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 33374,
-    "content": "An anime-style digital illustration of a vibrant young woman with a bold, punk-inspired look, based on {argument name=\"reference image\" default=\"image_0.png\"}. Her long, flowing hair is split-dyed, with the right side {argument name=\"right hair color\" default=\"bright teal-blue\"} and the left side {argument name=\"left hair color\" default=\"vivid red\"}, tied into a messy pigtail bun. She has a confident, open-mouthed grin, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
-    "title": "Anime Punk Woman Illustration",
-    "description": "An anime-style digital illustration of a woman with a bold punk aesthetic. This prompt features detailed character design including split-dyed hair, colorful tattoos, and dynamic studio lighting.",
+    "id": 33482,
+    "content": "Photorealistic close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} with long straight dark brown hair and wispy bangs falling across her forehead, looking directly into the camera with large dark brown eyes, sharp winged eyeliner, and full lips painted in {argument name=\"lipstick color\" default=\"muted berry-red lipstick\"}. Warm golden-hour sunlight streams from the upper left, casting strong rim light and deep shadows across her face, highlighting the texture of her skin and creating a cinematic, sun-kissed glow. In the foreground, several {argument name=\"flowers\" default=\"vibrant red and orange gerbera daisies\"} (slightly out of focus) frame the lower half of her face, with green stems visible at the bottom. Soft bokeh, shallow depth of field, rich warm color grading, high detail, 8k, shot on 85mm lens.",
+    "title": "East Asian Woman with Gerbera Flowers",
+    "description": "A cinematic, sun-kissed portrait of a woman framed by vibrant gerbera daisies in golden hour light.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788504563546_7gc71j_HRVdSThbkAA-5ar.jpg"
+      "https://cms-assets.youmind.com/media/1788591095426_ypl72n_HRRETINakAALrQQ.jpg",
+      "https://cms-assets.youmind.com/media/1788591095421_ak15o1_HRRETIJaIAAhSJ_.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
+  },
+  {
+    "id": 33480,
+    "content": "Portrait of a woman with {argument name=\"hair style\" default=\"long, wavy hair\"}, looking up and to the side. {argument name=\"color scheme\" default=\"Black and white\"} with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is {argument name=\"expression\" default=\"pensive\"}, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.",
+    "title": "Black and White Chiaroscuro Portrait",
+    "description": "A pensive black and white portrait featuring strong dramatic lighting and a fashion-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591094436_qw3ty3_HRRcUdAaQAARRK8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33476,
+    "content": "a captivating digital illustration of a young woman with a {argument name=\"skin tone\" default=\"sun-kissed complexion and prominent freckles scattered across her nose and cheeks\"}. she has {argument name=\"eyes and expression\" default=\"warm brown eyes and a charming smile\"}. her voluminous, textured brown hair is casually styled in a messy, swept-up bun, with soft, face-framing strands catching the light. she is wearing a {argument name=\"outfit\" default=\"light-blue and white layered top, potentially a v-neck shirt or tunic\"}, with visible sketch-like brushstrokes. a thin gold chain necklace with a subtle pendant is visible around her neck, and she wears a single gold hoop earring. the background is a simple, neutral light grey, allowing the subject to stand out. the art style is a blend of painting and dynamic sketching, with clear lines and rich, warm tones.",
+    "title": "Sketch-Style Portrait Illustration",
+    "description": "A digital illustration prompt blending painting and sketching styles to create a sun-kissed portrait with prominent freckles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788591092119_0ptcg9_HRXBRsVa8AASyER.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 33392,
