@@ -21,6 +21,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 33564,
+    "content": "TITLE:\nPremium Greek Yogurt Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium dairy food campaign\n• 8 cinematic product-focused scenes\n• Product remains the visual hero\n• Luxury advertising agency presentation\n\nHEADER:\n• Elegant clean typography\n• Information cards:\n  - Duration: {argument name=\"duration\" default=\"20 Seconds\"}\n  - Style: Fresh Gourmet Food Commercial\n  - Product: {argument name=\"product name\" default=\"Greek Fruit Yogurt\"}\n  - Audio: Spoon + Creamy ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"White, soft pink and berry-red aesthetic\"}\n• Minimal fruit-inspired decorative elements\n\nSTORYBOARD:\n1. Premium yogurt cup standing on chilled marble with fresh berries\n2. Yogurt lid peeling back in an extreme macro shot\n3. Spoon entering the thick creamy yogurt\n4. Spoon lifting a smooth glossy portion\n5. Fresh strawberry pieces dropping into the yogurt\n6. Berry puree swirling through the creamy yogurt\n7. Extreme macro showing thick yogurt texture and fruit pieces\n8. Final hero product shot with yogurt cup, berries and elegant spoon composition\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion fruit drop, creamy texture close-up, overhead composition, smooth spoon movement, shallow depth of field, cinematic hero framing.\n\nSTYLE:\nUltra-realistic dairy food photography, thick creamy texture, realistic fruit pieces, glossy berry swirl, chilled condensation, soft premium lighting, clean packaging, luxury food advertising, 8K.",
+    "title": "Premium Yogurt Commercial Storyboard",
+    "description": "A cinematic storyboard prompt for luxury dairy advertising, focusing on macro product shots and elegant food photography aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676672422_cam0sq_HRc2tm_aQAEZ3wO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33568,
+    "content": "Full-face studio fashion portrait of a woman looking directly into the camera, one hand in a {argument name=\"glove style\" default=\"translucent red mesh glove\"} pressed to her face and partially covering one eye. The composition is symmetrical and centered, cropped to the shoulders. She wears a {argument name=\"clothing\" default=\"bright red structured jacket\"} with defined shoulders, pearl jewelry, and a pearl ring. Her makeup features a matte skin tone, defined eyelashes, and rich burgundy-red lips. The background is a plain, {argument name=\"background color\" default=\"monochromatic red\"}. Lighting is controlled studio soft frontal light with slight side shift. Highly detailed, photorealistic, 50mm lens style, clean digital processing.",
+    "title": "Red Mesh Glove Studio Portrait",
+    "description": "A symmetrical studio fashion portrait featuring monochromatic red elements and a distinctive translucent glove accessory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676675240_lvuth2_HRWjQOoa0AAgLo5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33469,
     "content": "Generate a sophisticated cinematic studio portrait of the uploaded {argument name=\"subject\" default=\"stylish man\"} standing between two enormous {argument name=\"background elements\" default=\"dark reflective mirrors\"}, creating multiple elegant reflections fading into the background. He wears an {argument name=\"outfit\" default=\"all-black suit, sunglasses, and polished boots\"}, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
     "title": "Cinematic Mirror Reflections Editorial",
@@ -32,11 +52,11 @@
   },
   {
     "id": 33467,
-    "content": "Generate a sophisticated cinematic studio portrait of the {argument name=\"subject description\" default=\"uploaded stylish man\"} standing between two enormous dark reflective mirrors, creating multiple elegant reflections fading into the background. He wears an all-black suit, sunglasses, and polished boots, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
-    "title": "Mirror Studio Fashion Portrait",
-    "description": "A sophisticated cinematic studio portrait prompt featuring a subject between two large mirrors with elegant reflections and low-key lighting for a mysterious luxury atmosphere.",
+    "content": "Generate a sophisticated cinematic studio portrait of the uploaded {argument name=\"subject\" default=\"stylish man\"} standing between {argument name=\"background element\" default=\"two enormous dark reflective mirrors\"}, creating multiple elegant reflections fading into the background. He wears an {argument name=\"outfit\" default=\"all-black suit\"}, sunglasses, and polished boots, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
+    "title": "Cinematic Mirror Reflection Portrait",
+    "description": "A sophisticated fashion editorial prompt for generating a studio portrait of a man between reflective mirrors, designed to maintain facial consistency from a reference photo.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788591087300_58twl4_HRbUJ6baAAA41m9.jpg"
+      "https://cms-assets.youmind.com/media/1788676669252_dmyg0k_HRbUJ6baAAA41m9.jpg"
     ],
     "needReferenceImages": true
   },

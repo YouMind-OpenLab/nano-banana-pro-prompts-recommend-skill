@@ -10,12 +10,66 @@
     "needReferenceImages": false
   },
   {
-    "id": 33465,
-    "content": "A close-up side profile portrait of a young {argument name=\"ethnicity\" default=\"South Asian\"} woman with fair skin, natural glowing makeup, winged black eyeliner, soft blush, and warm terracotta-tinted lips. Her {argument name=\"hair color\" default=\"jet-black\"} hair is styled in a high, relaxed messy bun with delicate framing strands falling soft around her face. She is looking slightly downward with eyes closed, gently placing one hand with black polished nails near her forehead. She is wearing a simple black scoop-neck long-sleeve top. Warm, soft indoor accent lighting in the background creates a cozy, moody ambience, depth of field, 85mm lens photo, hyper-realistic detail.",
-    "title": "Natural Beauty Studio Portrait",
-    "description": "A cinematic portrait prompt for a young woman featuring glowing makeup, soft bun hairstyle, and moody indoor accent lighting, captured with an 85mm lens aesthetic.",
+    "id": 33565,
+    "content": "Cinematic 2D digital illustration, {argument name=\"style aesthetic\" default=\"polished semi-realistic anime aesthetic\"}, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, {argument name=\"lighting\" default=\"warm rim lighting, moody teal-and-amber color grading\"}, muted vintage tones, soft ambient shadows, slightly grainy texture, {argument name=\"mood\" default=\"nostalgic 1990s/2000s editorial-poster vibe\"}, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.",
+    "title": "Cinematic 2D Anime Illustration",
+    "description": "Generates polished semi-realistic anime art with clean linework, soft painterly gradients, and a nostalgic 90s editorial poster aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788591086854_eh1i3b_HRaqkTvbMAApP2n.jpg"
+      "https://cms-assets.youmind.com/media/1788676673748_7fx1cv_HRgKek6a4AAUpiZ.jpg",
+      "https://cms-assets.youmind.com/media/1788676673786_jsny1r_HRgKekvaMAAphSy.jpg",
+      "https://cms-assets.youmind.com/media/1788676673799_j3jd67_HRgKelJbkAADZtU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33562,
+    "content": "Sophisticated contemporary oil portrait painting with expressive loose brushwork, combining refined semi-realistic portraiture, classical fine-art painting, and modern editorial painterly aesthetics. {argument name=\"subject description\" default=\"The subject is rendered with highly controlled yet visibly handcrafted oil strokes, layered pigments, soft impasto, delicate dry-brush marks, and expressive directional brushwork that follows the natural anatomy and volume of the face.\"} Facial features are detailed and semi-realistic, with luminous skin, natural texture, expressive eyes, carefully modeled nose and lips, and richly layered hair built from flowing individual brushstrokes. Use {argument name=\"color palette\" default=\"warm brown, deep umber, burnt sienna, ochre, muted peach, cream, ivory, soft gray-blue, charcoal, and subtle muted gold accents\"}, matching the reference palette precisely. Highlights are predominantly warm ivory and creamy white, while shadows remain deep but soft and painterly. The background uses the same desaturated blue-gray and warm ivory palette, appearing like an unfinished classical painted canvas. Broad vertical and horizontal brushstrokes, translucent paint layers, softly scraped areas, subtle dry-brush textures, and irregular painterly patches create an {argument name=\"background style\" default=\"atmospheric studio-like backdrop\"}. Keep the background simple, quiet, and organically integrated with the portrait rather than sharply separated. The lower portion of the figure intentionally becomes unfinished and gradually dissolves into loose white and ivory brushstrokes. Clothing, shoulders, chest, and lower contours progressively lose definition, breaking into scattered semi-transparent strokes and fading pigment. Edges become incomplete, soft, irregular, and partially disappear into the background, creating the unmistakable impression of an intentionally unfinished oil painting. Do not create a hard bottom edge. Maintain a refined balance between highly detailed facial realism and deliberately unfinished painterly abstraction. Visible brushwork, layered oil pigments, soft impasto, subtle canvas texture, natural imperfections, elegant tonal transitions, museum-quality portrait painting, cinematic atmosphere, timeless fine-art character. No photorealistic photography, no 3D CGI, no vector appearance, no hard digital outlines, no glossy rendering, no completely finished lower body, no sharp background separation. --ar 9:16",
+    "title": "Sophisticated Oil Portrait Painting",
+    "description": "A detailed prompt for creating expressive oil portraits with loose brushwork, semi-realistic features, and an intentionally unfinished fine-art aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676672009_qqhdu5_HRd-SxAawAE07jJ.jpg",
+      "https://cms-assets.youmind.com/media/1788676672096_ksercn_HRd-SxDakAEfGmZ.jpg",
+      "https://cms-assets.youmind.com/media/1788676672047_i81zxh_HRd-SxKaQAAULJ_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33561,
+    "content": "Professional photography style and Give a new angle and pose of our {argument name=\"subject\" default=\"model\"} hanging out in {argument name=\"setting\" default=\"her bedroom\"}. A playful pose giving the peace sign and sticking out her tongue, with her head tilted to the side being silly .",
+    "title": "Playful Bedroom Lifestyle Photography",
+    "description": "A prompt for capturing a playful, silly moment in a bedroom setting, focusing on a model's pose and expression for a professional photography look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33560,
+    "content": "A young {argument name=\"subject\" default=\"athletic man\"} sits casually in the center of the frame, leaning slightly forward with relaxed shoulders and elbows near his knees, projecting a calm, confident, and candidly observant aesthetic. His head is turned forty-five degrees to the right, his eyes completely concealed by dark black sunglasses above a neutral, slightly open mouth. His medium-length, dark layered hair flows to the top of his ears in a pushed-back style, parted slightly off-center with a distinctly realistic, matte texture that reveals a slight natural wave and visible, unpolished flyaways catching the breeze. He wears a {argument name=\"clothing\" default=\"crisp, warm white half-zip sweatshirt\"}, perfectly paired with matching white sweatpants. His relaxed right hand gently wraps around the tan grip tape and black base handle of a tennis racket resting against his inner right thigh, while his left hand rests gracefully on the racket's throat between his legs, fingers curving loosely over a yellow-green tennis ball. He is seated on a modestly worn black metal folding chair with a canvas seat, grounded on a {argument name=\"setting\" default=\"vibrant terracotta-red crushed clay tennis court\"} textured by crisp white painted lines, sweeping brush marks, and scattered footprints. The meticulously layered environment expands deeply behind him, beginning on the mid-left with a pristine white slatted park bench bearing folded white towels beside thriving, manicured evergreen boxwood bushes sculpted into perfectly smooth, round domes. On the mid-right, a pristine black mesh tennis net with a thick white top band stretches across the court, guiding the eye toward a distant, dark matte chainlink. while a weathered metal truss stadium light post rises in the upper left background near a distant pristine Alpine building with a red dormer roof beneath a light blue sky. The scene is enveloped in an energetic, sun-drenched summer atmosphere, illuminated by a single source of bright, hard natural sunlight blazing from the top-left. This highly directional, warm golden light creates dramatic, high-contrast illumination, casting deep black, harshly edged shadows under his chin, inside the folds of his clothing, and stretching intricate tree silhouettes across the foreground clay toward the lower right, while preserving brilliant highlights on his right shoulder, the crown of his hair, his upper thigh, and the bridge of his nose. Captured as a clean, structured editorial lifestyle photograph using a 35mm to 50mm lens straight-on at seated eye level, the image maintains tack-sharp focus on the subject with high clarity and a slightly softer but highly detailed background depth of field, enhanced by a warm color grade that enriches the triadic palette of vibrant reds, bright whites, and lush greens, ultimately framed in a 3:4 portrait aspect ratio.",
+    "title": "Athletic Man Tennis Court Editorial",
+    "description": "A highly detailed editorial lifestyle prompt featuring an athletic man in casual white sportswear seated on a tennis court, emphasizing natural lighting and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676670540_uyizsd_HQ_dstZWUAEY0Ov.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33467,
+    "content": "Generate a sophisticated cinematic studio portrait of the uploaded {argument name=\"subject\" default=\"stylish man\"} standing between {argument name=\"background element\" default=\"two enormous dark reflective mirrors\"}, creating multiple elegant reflections fading into the background. He wears an {argument name=\"outfit\" default=\"all-black suit\"}, sunglasses, and polished boots, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
+    "title": "Cinematic Mirror Reflection Portrait",
+    "description": "A sophisticated fashion editorial prompt for generating a studio portrait of a man between reflective mirrors, designed to maintain facial consistency from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676669252_dmyg0k_HRbUJ6baAAA41m9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33465,
+    "content": "A close-up side profile portrait of a {argument name=\"subject\" default=\"young South Asian woman with fair skin, natural glowing makeup, winged black eyeliner, soft blush, and warm terracotta-tinted lips\"}. Her jet-black hair is styled in a high, relaxed messy bun with delicate framing strands falling soft around her face. She is looking slightly downward with eyes closed, gently placing one hand with black polished nails near her forehead. She is wearing a simple black scoop-neck long-sleeve top. {argument name=\"lighting\" default=\"Warm, soft indoor accent lighting in the background\"} creates a cozy, moody ambience, depth of field, 85mm lens photo, hyper-realistic detail.",
+    "title": "South Asian Woman Side Profile",
+    "description": "A detailed hyper-realistic prompt for a side profile portrait featuring natural beauty, warm indoor lighting, and a peaceful mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788676674616_25yrq3_HRaqkTvbMAApP2n.jpg"
     ],
     "needReferenceImages": false
   },
