@@ -1,5 +1,41 @@
 [
   {
+    "id": 33663,
+    "content": "2D flat illustration, unveiled Middle Eastern woman, full body, long open kimono-style robe in {argument name=\"color\" default=\"deep lapis blue\"} with gold embroidered {argument name=\"symbols\" default=\"Egyptian scarab, eye of Horus, and geometric border patterns\"}, plain cream inner dress, minimal warm beige background with faint temple column motif, statuesque pose, 3:4",
+    "title": "Ancient Egyptian Print Illustration",
+    "description": "A 2D flat illustration prompt for a statuesque Middle Eastern woman in a lapis blue kimono-style robe featuring traditional Egyptian motifs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764291727_9tmu5d_HRTpOG5WUAAP29B.jpg",
+      "https://cms-assets.youmind.com/media/1788764293237_86z4s5_HRTpOGnWQAUImFo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33664,
+    "content": "Ar 9:16! Expressive loose watercolor illustration style, ultra-detailed watercolor portrait rendering, soft translucent paint layering, wet-on-wet watercolor diffusion, natural pigment bleeding effects, delicate brushstroke textures, airy hand-painted aesthetic, realistic anatomy blended with painterly abstraction, subtle ink-like edge definition, elegant unfinished watercolor splashes around the composition, soft feathered transitions between colors, luminous paper texture visible through transparent paint layers, warm natural skin tones with gentle blush highlights, cinematic soft lighting, flowing organic brush movement, refined watercolor realism with emotional fine art atmosphere, smooth facial rendering contrasted with loose expressive edges, handcrafted traditional painting aesthetic, watercolor bloom effects, fluid color gradients, lightly desaturated palette with {argument name=\"colors\" default=\"earthy warm neutrals and muted blues\"}, premium {argument name=\"medium\" default=\"sketchbook\"} illustration style, visible artistic spontaneity, delicate strand-like hair strokes, atmospheric white negative space, minimal background detail, soft focus depth, editorial fine art watercolor aesthetic, subtle accidental paint marks and organic imperfections, elegant composition balance, painter’s hand holding a {argument name=\"brush type\" default=\"thin paintbrush\"} visible in foreground, immersive artist-at-work perspective, realistic brush and hand rendering, museum-quality watercolor artwork, timeless classical painting mood, sophisticated contemporary watercolor portrait style, ultra refined paper-and-pigment texture, dreamy and poetic visual tone, handcrafted artistic realism, master-level watercolor detailing.",
+    "title": "Detailed Watercolor Portrait Illustration",
+    "description": "A highly detailed prompt for creating expressive, loose watercolor illustrations with realistic anatomy and hand-painted textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764291777_d7yul0_HRhngZ6bUAA3TJD.jpg",
+      "https://cms-assets.youmind.com/media/1788764293172_waf3i1_HRhngZ0a4AANTT2.jpg",
+      "https://cms-assets.youmind.com/media/1788764291722_37unmi_HRhngZ7akAA294l.jpg",
+      "https://cms-assets.youmind.com/media/1788764292289_hd49id_HRhngZpbsAAj2wJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33562,
+    "content": "{argument name=\"style\" default=\"Sophisticated contemporary oil portrait painting\"} with expressive loose brushwork, combining refined semi-realistic portraiture, classical fine-art painting, and modern editorial painterly aesthetics. The subject is rendered with highly controlled yet visibly handcrafted oil strokes, layered pigments, soft impasto, delicate dry-brush marks, and expressive directional brushwork that follows the natural anatomy and volume of the face.\nFacial features are detailed and semi-realistic, with luminous skin, natural texture, expressive eyes, carefully modeled nose and lips, and richly layered hair built from flowing individual brushstrokes. Use {argument name=\"color palette\" default=\"warm brown, deep umber, burnt sienna, ochre, muted peach, cream, ivory, soft gray-blue, charcoal, and subtle muted gold accents\"}, matching the reference palette precisely. Highlights are predominantly warm ivory and creamy white, while shadows remain deep but soft and painterly.\nThe background uses the same desaturated blue-gray and warm ivory palette, appearing like an unfinished classical painted canvas. Broad vertical and horizontal brushstrokes, translucent paint layers, softly scraped areas, subtle dry-brush textures, and irregular painterly patches create an atmospheric studio-like backdrop. Keep the background simple, quiet, and organically integrated with the portrait rather than sharply separated.\nThe lower portion of the figure intentionally becomes unfinished and gradually dissolves into loose white and ivory brushstrokes. Clothing, shoulders, chest, and lower contours progressively lose definition, breaking into scattered semi-transparent strokes and fading pigment. Edges become incomplete, soft, irregular, and partially disappear into the background, creating the unmistakable impression of an intentionally unfinished oil painting. Do not create a hard bottom edge.\nMaintain a refined balance between highly detailed facial realism and deliberately unfinished painterly abstraction. Visible brushwork, layered oil pigments, soft impasto, subtle canvas texture, natural imperfections, elegant tonal transitions, museum-quality portrait painting, cinematic atmosphere, timeless fine-art character.\nNo photorealistic photography, no 3D CGI, no vector appearance, no hard digital outlines, no glossy rendering, no completely finished lower body, no sharp background separation. --ar {argument name=\"aspect ratio\" default=\"9:16\"}",
+    "title": "Sophisticated Oil Portrait Painting",
+    "description": "An artistic prompt for creating contemporary oil paintings with expressive brushwork and an intentionally unfinished aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764293775_1uzw7b_HRd-SxAawAE07jJ.jpg",
+      "https://cms-assets.youmind.com/media/1788764293794_9r1lpl_HRd-SxDakAEfGmZ.jpg",
+      "https://cms-assets.youmind.com/media/1788764293782_s7q3hh_HRd-SxKaQAAULJ_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33478,
     "content": "2D editorial illustration inspired by Egyptian North Coast summer, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg breezy trousers in {argument name=\"trouser color\" default=\"sandy beige\"} with hand-drawn wave prints, embroidered blouse with {argument name=\"blouse motif\" default=\"palm frond motifs\"}, warm sun-drenched palette, minimal background suggesting sea and dune, elegant relaxed pose, 3:4",
     "title": "Egyptian Summer Fashion Illustration",

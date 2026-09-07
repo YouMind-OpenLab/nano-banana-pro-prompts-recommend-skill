@@ -20,14 +20,106 @@
     "needReferenceImages": false
   },
   {
-    "id": 33565,
-    "content": "Cinematic 2D digital illustration, {argument name=\"style aesthetic\" default=\"polished semi-realistic anime aesthetic\"}, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, {argument name=\"lighting\" default=\"warm rim lighting, moody teal-and-amber color grading\"}, muted vintage tones, soft ambient shadows, slightly grainy texture, {argument name=\"mood\" default=\"nostalgic 1990s/2000s editorial-poster vibe\"}, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.",
-    "title": "Cinematic 2D Anime Illustration",
-    "description": "Generates polished semi-realistic anime art with clean linework, soft painterly gradients, and a nostalgic 90s editorial poster aesthetic.",
+    "id": 33667,
+    "content": "Create a premium, hyper-realistic fashion editorial poster using my uploaded female face as the ONLY identity reference for the main female subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter my facial features. Create a stylish modern fashion campaign poster in a vertical editorial composition, inspired by contemporary fashion-school advertising. Subject & pose: A confident young woman standing in a relaxed fashion-model pose, slightly leaning with one hand casually placed near her trouser pocket. Full-body framing. She is looking confidently toward the camera with a natural, sophisticated expression. Outfit: Elegant minimalist fashion outfit: oversized lightweight {argument name=\"shirt color\" default=\"cream/off-white\"} button-down shirt worn open over a simple fitted neutral top, paired with high-waisted wide-leg {argument name=\"trouser color\" default=\"burnt-orange/rust brown\"} trousers. Clean white contemporary sneakers. Premium fabric texture, realistic folds and stitching. Background: Minimalist warm off-white textured plaster wall. Add large geometric terracotta/orange architectural shapes behind and beneath the subject, creating a sophisticated editorial graphic design. Soft natural studio lighting with subtle shadows. Typography: On the left side, add large bold uppercase dark terracotta text: “{argument name=\"main slogan\" default=\"GREAT FASHION IS NEVER SILENT, IT SAYS SOMETHING\"}” Below it, smaller dark charcoal text: “WHAT’S YOUR FAVOURITE ONES?” Then: “COMMENT BELOW” with a small downward arrow underneath. At the top, leave a clean space for a fashion/college brand logo. Keep typography sharp, correctly spelled, aligned, and professionally typeset. Overall aesthetic: Luxury fashion magazine × contemporary university fashion campaign × minimalist editorial advertising. Sophisticated, clean, premium, youthful, highly realistic photography, natural skin texture, realistic anatomy, detailed clothing, subtle filmic lighting, professional fashion photography, high-end art direction.",
+    "title": "Premium Fashion Editorial Poster",
+    "description": "A detailed prompt for generating high-end fashion campaign posters, emphasizing facial identity preservation and minimalist architectural aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788676673748_7fx1cv_HRgKek6a4AAUpiZ.jpg",
-      "https://cms-assets.youmind.com/media/1788676673786_jsny1r_HRgKekvaMAAphSy.jpg",
-      "https://cms-assets.youmind.com/media/1788676673799_j3jd67_HRgKelJbkAADZtU.jpg"
+      "https://cms-assets.youmind.com/media/1788764295887_kgxwwp_HRlcIU8bIAAccxN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33657,
+    "content": "Use facial feature of attached photo.\nA poised woman captured in a minimalist indoor studio with soft beige lighting and a clean, neutral background. She is dressed in a {argument name=\"suit color\" default=\"deep rust-colored\"} oversized suit with structured shoulders and wide-leg trousers made from a smooth, matte fabric that drapes naturally with subtle folds. The blazer is tailored yet loose, worn open at the front for a confident aesthetic. Her pose is dynamic, one leg bent and resting on a sleek chrome and black leather chair, with her body leaning slightly forward, conveying strength and elegance.\n\nHer hair is styled in a {argument name=\"hairstyle\" default=\"sleek, tight ponytail\"} cascading smoothly down her back, adding definition to her refined facial features. Her makeup is balanced, featuring soft matte skin, contoured cheekbones, deep beige lipstick, and dramatic eyeliner that highlights her almond-shaped eyes. She wears sculptural silver statement earrings that catch the studio light and subtly accent her profile.\n\nThe lighting setup emphasizes soft, diffused highlights on her face, suit, and the chrome elements of the chair, creating a refined and modern editorial atmosphere. The background is plain and evenly illuminated, ensuring full focus on the subject’s posture and styling.\n\nScale Ratio: 1:1.35\n\nCamera Angle: Eye-level, medium-full shot with the subject slightly off-center, straight-on composition\nLens: 85mm prime lens\nAperture: f/2.8 for moderate depth of field and soft background separation\nISO: 200\nShutter Speed: 1/160 sec\nWhite Balance: 5000K (neutral daylight tone)\nLighting Setup: One soft key light from front-left at 45°, fill light from right for smooth shadow balance, subtle rim light behind for depth\nFocus: Sharp focus on the subject’s face and upper body, gradual falloff across the lower frame\nColor Tone: Warm-neutral palette with deep rust tones and soft beige highlights\nEnvironment: {argument name=\"setting\" default=\"Indoor minimalist studio with smooth beige backdrop and polished chrome furniture\"}.",
+    "title": "Editorial Rust Suit Studio Portrait",
+    "description": "A professional fashion photography prompt for a woman in an oversized rust suit, utilizing specific camera settings and lighting for a modern studio look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764288870_cz5ef0_HRk_BjlbMAAim54.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33672,
+    "content": "[Event Information]\n- Event Name: {argument name=\"event name\" default=\"Margin and Structure\"}\n- Date and Time: {argument name=\"date\" default=\"October 12 – November 24, 2026\"}\n- Venue: {argument name=\"venue\" default=\"National Museum of Modern Art\"}\n\n[Quality, Direction, and Composition]\n- Style: A poster for a contemporary art exhibition or modern design event, featuring a clean and minimalist editorial layout.\n- Visual Elements: Beautifully composed photography featuring geometric, abstract art objects or concrete and glass architectural spaces, evoking a sense of silence and intelligence.\n- Typography Placement (for GPT-image / Nano Banana Pro): The event name \"{argument name=\"event name\" default=\"Margin and Structure\"}\", the date \"{argument name=\"date\" default=\"October 12 – November 24, 2026\"}\", and the venue information \"{argument name=\"venue\" default=\"National Museum of Modern Art\"}\" are beautifully laid out in the empty spaces using a sophisticated, modern sans-serif font. The text harmonizes with the image without detracting from its overall beauty.\n- Lighting and Colors: A clean white-based space, cool natural light with soft light gradients, and neutral tones with accent colors (e.g., navy or dark gray).\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished design itself, filling the entire canvas. Scene descriptions inside the design (walls, spaces, shadows, etc.) may follow the main instructions.\n- Prohibitions: Photos of the finished poster in a frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4",
+    "title": "Modern Art Event Flyer",
+    "description": "A clean, minimalist prompt for designing art event posters that merge geometric abstract objects with architectural photography and modern typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764299692_gg2vkc_HRkDeDnacAAQ8aU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33661,
+    "content": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A {argument name=\"background color\" default=\"deep emerald green\"} minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.\n\nIn the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded.\n\nBottom center tagline: “Time, perfected. Presence, defined.”\n\nMoody luxury lighting, rich tones, cinematic reflections.\nAspect ratio: 3:4.",
+    "title": "Surrealist Rolex Brand Poster",
+    "description": "A high-fashion surrealist poster prompt for a luxury watch brand, set in a minimalist emerald green studio with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764290843_ytb9z3_HRj5FPAaAAAE1Sa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33671,
+    "content": "This poster illustration, created using the attached subject, adheres entirely to the aesthetic of modern cinematic concept art. It features a highly dynamic composition, a dramatic low-angle perspective, detailed and realistic clothing rendering, and a weathered texture achieved through semi-realistic, layered brushstrokes combined with sharp, ink-like contours. The illustration employs a limited earthy color palette dominated by {argument name=\"primary colors\" default=\"warm burnt orange, deep navy blue, soft cream\"}, sepia brown, charcoal black, and faded steel gray. The background incorporates abstract geometric blocks, distressed poster textures, rough paper grain, ink stains, paint splatters, and partially erased graphic elements. Key features include high-contrast lighting, moody shadows, subtle vintage print effects, a textured matte finish, and a highly detailed editorial poster 9:16!",
+    "title": "Cinematic Concept Art Illustration",
+    "description": "A detailed prompt for generating cinematic concept art with a textured, ink-splatter editorial poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764298222_7duwfi_HRjS2X_XMAQMs32.jpg",
+      "https://cms-assets.youmind.com/media/1788764298243_uxhzxe_HRjS2Yma0AA7fKD.jpg",
+      "https://cms-assets.youmind.com/media/1788764298326_5ms5lg_HRjS2Yma8AE66tS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33673,
+    "content": "[Subject Information]\n- Name/Character: {argument name=\"name\" default=\"Kotone Tanaka\"}\n- Interview Theme: {argument name=\"theme\" default=\"Waves of Japan's Next-Gen Creation\"}\n\n[Text and Graphic Placement]\n- Catchphrase to place: {argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"}\n\n[Quality, Direction, and Composition]\n- Style: Editorial portrait for the cover or feature page of a sophisticated Japanese culture magazine (such as BRUTUS, POPEYE, or &Premium).\n- Composition: Bust-up or medium shot of the subject. A natural expression that reveals the subject's personality and intelligence.\n- Background: A minimal yet deep space, such as a clay wall with fine texture or concrete where natural light and shadows intersect.\n- Lighting: Soft natural light (window light) from the side, with nuanced tones and suppressed contrast.\n- Colors: Calm earth tones, slightly desaturated cinematic color palette.\n- Text Placement (for GPT-image / Nano Banana Pro): The text \"{argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"}\" is arranged as typography in the empty space (e.g., left side or bottom) in a font and size that harmonizes beautifully with the design.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished design itself, filling the entire canvas. Scene descriptions inside the design (walls, spaces, shadows, etc.) may follow the main instructions.\n- Prohibitions: Photos of the finished poster in a frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4",
+    "title": "Culture Magazine Editorial Portrait",
+    "description": "A sophisticated prompt for creating editorial portraits in the style of high-end Japanese culture magazines like BRUTUS or POPEYE, focusing on natural lighting and integrated typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764300916_n85l6s_HRiZzZcaMAAWGPU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33670,
+    "content": "2x2 grid, 16:9, do this for {argument name=\"topic\" default=\"4 famous anime\"} in all their glory: PAPER_RELIEF(TOPIC) ::= layer_00 = flat backing sheet layer_01 = broad silhouette cutout layer_02 = major facial / object planes layer_03 = internal contour lines layer_04 = symbolic objects and diagrams layer_05 = flowing scrolls and ribbons layer_06 = dimensional title typography layer_07 = tiny embossed micro-details Rules: - every layer casts a soft visible shadow - edges should look physically cut, stacked, folded, or curled - detail density increases near focal zones - background remains quiet and paper-based - all depth comes from real material layering, not digital gradients",
+    "title": "Paper Relief Anime Style",
+    "description": "A creative prompt template for generating 3D paper-cut relief artwork for anime and manga subjects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764297548_pgmox4_HRQap7yXEAMjqNn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33660,
+    "content": "Create a premium, hyper-realistic high-fashion editorial magazine cover using my uploaded male face as the ONLY identity reference for the main male subject.\n\nPreserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and facial hair. Keep me instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter my facial features.\n\nCreate a sophisticated {argument name=\"magazine type\" default=\"VOGUE-inspired\"} luxury fashion magazine cover with a cinematic black-and-white editorial aesthetic.\n\nPose & styling:\nA confident, stylish man standing in a relaxed three-quarter pose, wearing a {argument name=\"clothing\" default=\"premium white linen/cotton shirt\"} with the top buttons naturally open, sleeves slightly rolled up, paired with tailored black trousers and a sleek black leather belt. Add elegant black sunglasses and a luxury metal wristwatch. One hand is casually raised near the collar/face while the other rests naturally near the trouser pocket. Expression should be calm, confident, masculine, and sophisticated.\n\nPhotography:\nUltra-realistic professional fashion photography, dramatic studio lighting, soft shadows, high contrast, detailed skin texture, realistic fabric folds, cinematic depth, premium editorial composition, subtle film grain, sophisticated monochrome tones, 8K detail.\n\nMagazine design:\nLarge elegant “{argument name=\"masthead\" default=\"VOGUE\"}” masthead across the top in a classic high-fashion serif typeface.\nSmall text: “FASHION & STYLE” on the upper left and “EDITION 2025” on the upper right.\n\nAdd tasteful editorial headlines such as:\n\nTHE CLASSY\nDRESSY\nELEGANCE IS AN ATTITUDE\n\nOn the right:\n\nTHE ART OF\nConfidence\n\nAdd a refined “LIMITED EDITION” section with small text:\nFASHION • FITNESS • PERSONALITY\n\nBottom-left:\n8K\nCINEMATIC PORTRAIT\n\nBottom-right:\nSTYLE.\nATTITUDE.\nELEGANCE.\n\nUse a luxurious {argument name=\"background\" default=\"dark gray/charcoal gradient\"} background, elegant typography, subtle gold accents, clean spacing, and an authentic premium fashion-editorial layout.\n\nComposition: vertical magazine-cover framing, subject centered and dominant, realistic proportions, sharp facial details, sophisticated masculine luxury aesthetic, no distorted hands, no extra fingers, no warped text, no artificial-looking skin.",
+    "title": "Luxury Vogue Magazine Cover",
+    "description": "A high-fashion editorial prompt for creating a black-and-white Vogue-style magazine cover with specific typography and styling details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764290242_zo397h_HRh0QzVbIAAM3aT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33666,
+    "content": "A {argument name=\"subject\" default=\"young male model\"} is captured mid-stride with a confident, energetic swagger in a 90s minimalist streetwear editorial style. His slicked-back hair features a distinct wet look with subtle highlights catching the texture, while narrow, dark rectangular 90s sunglasses obscure his eyes, which gaze slightly to the viewer's left beneath neutral eyebrows. His mouth is caught slightly open with relaxed lips, suggesting mid-speech or purposeful motion. He wears a {argument name=\"clothing\" default=\"heavy, long black wool overcoat over a starkly contrasting crisp white t-shirt\"}. His body is angled slightly to his right with his weight shifted forward, shoulders hunched inward as both hands, clad in matte black gloves, are raised symmetrically to his upper chest. His hands tense with engaged muscles, tightly gripping and adjusting the thick fabric of the overcoat's wide collar. He walks along a light concrete grey sidewalk that transitions into a dark grey asphalt road in the foreground, where slightly faded, worn painted double yellow parallel lines ground the bottom right of the frame. The background falls into a medium spatial depth, slightly blurred to isolate the subject in an asymmetric composition. To the right, a {argument name=\"background\" default=\"weathered, exposed brick building exterior\"} dominates, characterized by dark warm brown and deep red tones with charcoal variations, a rough matte finish, patchy soot weathering, uneven brick alignment, and prominent dark mortar lines. To the left, a worn metal-framed doorway creates a deep, shadow-filled recess. The scene is bathed in a cool, moody, and mysterious atmosphere under natural overcast outdoor lighting acting as a large diffused softbox from above and the front. Subtle highlights graze his cheekbones and forehead, while short, gray, soft-edged shadows fall beneath his chin, under the thick collar, and cast gently onto the concrete. The split-complementary color palette relies on desaturated cool neutral greys and stark blacks and whites, contrasting against the warm earthy red-browns of the background masonry. Shot on a 50mm lens at f/2.8, 1/500s, and ISO 400, this candid digital street fashion photograph embraces a cinematic Matrix aesthetic with a slightly soft focus, medium depth of field, straight-on perspective, and visible digital noise grain, finalized with cooled shadow tones and lifted blacks for a flat matte finish that preserves the dynamic range in the dark coat, all beautifully framed in a 4:5 vertical format.",
+    "title": "90s Streetwear Editorial Portrait",
+    "description": "A cinematic fashion photography prompt capturing a male model in 90s minimalist streetwear with a Matrix-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764295000_camlms_HQ_d14eWUAA-OF6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33565,
+    "content": "Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, warm rim lighting, {argument name=\"color grade\" default=\"moody teal-and-amber\"} color grading, muted vintage tones, soft ambient shadows, slightly grainy texture, {argument name=\"vibe\" default=\"nostalgic 1990s/2000s editorial-poster\"} vibe, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.",
+    "title": "Cinematic 2D Anime Illustration",
+    "description": "A prompt for generating polished semi-realistic anime art with a nostalgic 90s/00s vibe and moody teal-and-amber color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764290453_lr2l02_HRgKek6a4AAUpiZ.jpg",
+      "https://cms-assets.youmind.com/media/1788764290363_bj37w2_HRgKekvaMAAphSy.jpg",
+      "https://cms-assets.youmind.com/media/1788764290433_pq8pdb_HRgKelJbkAADZtU.jpg"
     ],
     "needReferenceImages": false
   },

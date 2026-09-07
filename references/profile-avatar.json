@@ -10,28 +10,34 @@
     "needReferenceImages": false
   },
   {
-    "id": 33565,
-    "content": "Cinematic 2D digital illustration, {argument name=\"style aesthetic\" default=\"polished semi-realistic anime aesthetic\"}, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, {argument name=\"lighting\" default=\"warm rim lighting, moody teal-and-amber color grading\"}, muted vintage tones, soft ambient shadows, slightly grainy texture, {argument name=\"mood\" default=\"nostalgic 1990s/2000s editorial-poster vibe\"}, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.",
-    "title": "Cinematic 2D Anime Illustration",
-    "description": "Generates polished semi-realistic anime art with clean linework, soft painterly gradients, and a nostalgic 90s editorial poster aesthetic.",
+    "id": 33662,
+    "content": "Use the face from the reference photo and preserve the exact identity, facial structure, face shape, eyes, nose, lips, jawline, skin tone, proportions, and natural expression. Do not beautify, slim, reshape, or change the face. Keep realistic skin texture, visible pores, subtle peach fuzz, and authentic details.\n\nCreate an ultra-realistic close-up beauty portrait in a cinematic {argument name=\"color grade\" default=\"teal-and-orange\"} Korean editorial style. Tight shoulder-up composition, soft three-quarter angle, slightly tilted head, calm magnetic eyes, softly parted lips, and a quiet confident expression.\n\nUse a deep teal studio background with cinematic lighting: cool teal light on one side and warm amber-orange highlights on the cheekbones, nose, lips, collarbone, and wet-look hair. Create glossy highlights, soft shadows, subtle halation, and a dreamy luxury beauty-campaign mood.\n\nWear a {argument name=\"clothing\" default=\"dark chocolate brown or black satin thin-strap top\"} with small gold earrings, delicate rings, and a thin gold necklace. Hair is long, dark, glossy, and wet-look, pushed back with a few soft damp strands framing the face without covering the eyes.\n\nMakeup: fresh Korean dewy glam with luminous realistic glass skin, feathered brows, champagne-peach shimmer eyeshadow, soft brown eyeliner, lifted lashes, subtle aegyo-sal highlight, coral-peach blush, and glossy coral-rose gradient lips.\n\nOne hand rests gently near the hair or side of the face without covering features. Show elegant long almond nails with {argument name=\"nail style\" default=\"translucent aqua jelly polish, gold chrome wave details, tiny crystals, pearl droplets\"}, and a glossy water-like finish.\n\nUltra-realistic DSLR beauty photography, 85mm lens, shallow depth of field, sharp facial details, soft background blur, cinematic teal-orange grading, subtle 35mm film grain, gentle bloom, high-definition Korean editorial style.\n\nAspect ratio: 1:1 square profile picture or 3:4.\n\nNegative prompt: changed identity, different face, beautified face, plastic or over-smoothed skin, distorted features, bad anatomy, extra fingers, deformed hands, hair covering eyes, harsh neon lighting, low quality, cartoon, anime, text, logo, watermark.",
+    "title": "Korean Editorial Beauty Portrait",
+    "description": "An ultra-realistic beauty portrait prompt using a cinematic teal-and-orange Korean editorial style, emphasizing glass skin and specific lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788676673748_7fx1cv_HRgKek6a4AAUpiZ.jpg",
-      "https://cms-assets.youmind.com/media/1788676673786_jsny1r_HRgKekvaMAAphSy.jpg",
-      "https://cms-assets.youmind.com/media/1788676673799_j3jd67_HRgKelJbkAADZtU.jpg"
+      "https://cms-assets.youmind.com/media/1788764292371_uv7wha_HRiuKW5bcAEUSrT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33665,
+    "content": "A {argument name=\"subject\" default=\"beautiful young Indian woman\"} with soft natural makeup, hair tied up in messy bun with loose strands framing face, wearing a {argument name=\"outfit\" default=\"pastel lavender sleeveless maxi dress with tie-up bows on shoulders and pearl bead embellishments on bodice\"}, sweetheart neckline, sitting on a chair with arms crossed gently hugging her own arms, soft smile looking at camera, pearl necklace with small pendant, silver metal wrist watch on left wrist, delicate pearl bracelets on right wrist, {argument name=\"setting\" default=\"indoor setting near a window\"}",
+    "title": "Indian Woman Window Portrait",
+    "description": "A delicate and detailed portrait of a young Indian woman in a lavender dress, set by a window with soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788764294500_6nekrh_HRik2nObcAAdh4t.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 33562,
-    "content": "Sophisticated contemporary oil portrait painting with expressive loose brushwork, combining refined semi-realistic portraiture, classical fine-art painting, and modern editorial painterly aesthetics. {argument name=\"subject description\" default=\"The subject is rendered with highly controlled yet visibly handcrafted oil strokes, layered pigments, soft impasto, delicate dry-brush marks, and expressive directional brushwork that follows the natural anatomy and volume of the face.\"} Facial features are detailed and semi-realistic, with luminous skin, natural texture, expressive eyes, carefully modeled nose and lips, and richly layered hair built from flowing individual brushstrokes. Use {argument name=\"color palette\" default=\"warm brown, deep umber, burnt sienna, ochre, muted peach, cream, ivory, soft gray-blue, charcoal, and subtle muted gold accents\"}, matching the reference palette precisely. Highlights are predominantly warm ivory and creamy white, while shadows remain deep but soft and painterly. The background uses the same desaturated blue-gray and warm ivory palette, appearing like an unfinished classical painted canvas. Broad vertical and horizontal brushstrokes, translucent paint layers, softly scraped areas, subtle dry-brush textures, and irregular painterly patches create an {argument name=\"background style\" default=\"atmospheric studio-like backdrop\"}. Keep the background simple, quiet, and organically integrated with the portrait rather than sharply separated. The lower portion of the figure intentionally becomes unfinished and gradually dissolves into loose white and ivory brushstrokes. Clothing, shoulders, chest, and lower contours progressively lose definition, breaking into scattered semi-transparent strokes and fading pigment. Edges become incomplete, soft, irregular, and partially disappear into the background, creating the unmistakable impression of an intentionally unfinished oil painting. Do not create a hard bottom edge. Maintain a refined balance between highly detailed facial realism and deliberately unfinished painterly abstraction. Visible brushwork, layered oil pigments, soft impasto, subtle canvas texture, natural imperfections, elegant tonal transitions, museum-quality portrait painting, cinematic atmosphere, timeless fine-art character. No photorealistic photography, no 3D CGI, no vector appearance, no hard digital outlines, no glossy rendering, no completely finished lower body, no sharp background separation. --ar 9:16",
-    "title": "Sophisticated Oil Portrait Painting",
-    "description": "A detailed prompt for creating expressive oil portraits with loose brushwork, semi-realistic features, and an intentionally unfinished fine-art aesthetic.",
+    "id": 33567,
+    "content": "Create a dark, intense cinematic close-up portrait of the {argument name=\"subject\" default=\"uploaded man\"} with messy, styled hair with loose strands, staring over his shoulder into the camera with a deep, serious, intense sad look. His body turned to the side, left arm is raised accross the face to the ear with elbow extending upward and forward covering his face only one eye visible, creating a strong layered pose. He wears a {argument name=\"clothing\" default=\"dark teal-blue rolled up sleeve open silk shirt\"}, clean chest slightly visible. DSLR quality, shot taken from side while he is looking. Keep the face mostly desaturated with natural skin tones while the shirt remains rich deep teal-blue, creating a selective-color cinematic look. Dramatic low-key side lighting, deep black shadows, subtle film grain, high contrast, moody black background with lower foreground, slight vignette, realistic skin texture, shallow depth of field, editorial fashion photography, 85mm lens, ultra-realistic, atmospheric, 4:5 portrait. Maintain the face same as the uploaded photo.",
+    "title": "Cinematic Selective Color Portrait",
+    "description": "An image-to-image restoration and transformation prompt that creates a dark, intense cinematic portrait with selective color effects based on an uploaded photo.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788676672009_qqhdu5_HRd-SxAawAE07jJ.jpg",
-      "https://cms-assets.youmind.com/media/1788676672096_ksercn_HRd-SxDakAEfGmZ.jpg",
-      "https://cms-assets.youmind.com/media/1788676672047_i81zxh_HRd-SxKaQAAULJ_.jpg"
+      "https://cms-assets.youmind.com/media/1788764294501_pvx9xq_HRfyOzraYAAF_lo.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 33561,
