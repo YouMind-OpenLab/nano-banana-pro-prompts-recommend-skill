@@ -21,6 +21,61 @@
     "needReferenceImages": true
   },
   {
+    "id": 33919,
+    "content": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in {argument name=\"outfit\" default=\"premium modern streetwear with an oversized layered outfit, subtle accessories\"}, and a confident relaxed pose in an {argument name=\"urban setting\" default=\"urban setting with concrete architecture, textured walls, and understated city details\"}. Use {argument name=\"lighting\" default=\"dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain\"}, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens. I've attached my image here.",
+    "title": "Streetwear Editorial Portrait Identity Retention",
+    "description": "A high-detail prompt designed to generate a luxury streetwear campaign portrait while maintaining the user's specific facial features and identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936825467_7uxuyh_HRwL9VRa8AAFdZ1.jpg",
+      "https://cms-assets.youmind.com/media/1788936825443_mr1w5u_HRwL90LbIAEs-6k.jpg",
+      "https://cms-assets.youmind.com/media/1788936825448_ke9cz6_HRwL-Tna4AEThPF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33923,
+    "content": "Create a premium, hyper-realistic cinematic travel editorial poster in 9:16 vertical format.\n\nScene: A breathtaking alpine mountain lake with crystal-clear turquoise water, surrounded by dramatic snow-capped mountains, dense evergreen pine forests, and steep rocky cliffs. The lake perfectly reflects the mountains and sky. A small rustic wooden cabin sits near the right shoreline, while a traditional wooden rowboat is tied beside a wooden dock in the foreground.\n\nIn the center foreground, show a solo traveler sitting on the wooden dock with their back facing the camera, looking peacefully toward the mountains. The traveler wears a {argument name=\"traveler outfit\" default=\"brown wide-brimmed hat, burnt-orange outdoor jacket, beige/brown hiking backpack, and neutral outdoor clothing\"}. Natural, realistic proportions and subtle clothing texture.\n\nComposition: Cinematic wide-angle photography, traveler positioned in the lower center, boat on the lower right, expansive lake and mountains dominating the background. Strong depth, natural perspective, layered landscape, peaceful adventurous atmosphere.\n\nLighting: Soft golden morning light, bright blue sky with scattered fluffy clouds, subtle atmospheric haze around the mountains, realistic sunlight and natural shadows. Rich but authentic colors, turquoise water, earthy brown foreground, lush green forest, cool blue mountains.\n\nTypography: Add elegant travel-poster typography over the upper portion of the image:\n\nSmall uppercase text: “COLLECT”\nLarge stylish handwritten/script text: “{argument name=\"script text\" default=\"Moments\"}”\nMedium uppercase text below: “{argument name=\"tagline\" default=\"NOT THINGS\"}”\nMinimal decorative horizontal lines with a small heart symbol\nSmall uppercase tagline: “TRAVEL • EXPLORE • LIVE”\n\nUse sophisticated dark teal typography, clean spacing, premium editorial design, balanced hierarchy, highly legible text, and tasteful minimal decoration.\n\nStyle: Luxury travel magazine, cinematic photography, ultra-detailed, photorealistic, professional DSLR photography, HDR, realistic water reflections, natural skin/clothing textures, subtle filmic color grading, atmospheric depth, premium Pinterest travel aesthetic, inspirational and peaceful mood.\n\nAvoid: distorted people, extra limbs, unrealistic architecture, excessive saturation, blurry details, cartoon appearance, fake-looking water, cluttered typography, logos, watermarks.",
+    "title": "Alpine Lake Travel Editorial Poster",
+    "description": "A comprehensive prompt for creating a luxury travel magazine poster, including specific layout, lighting, and typography instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936827174_eiidn3_HRv-cZJboAA5i66.jpg",
+      "https://cms-assets.youmind.com/media/1788936827175_rb6fc8_HRv-cX5bEAAOj-1.jpg",
+      "https://cms-assets.youmind.com/media/1788936827191_sil37d_HRv-cZzbkAA3EOV.jpg",
+      "https://cms-assets.youmind.com/media/1788936827890_dyl6ac_HRv-cajbQAAKa-k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33924,
+    "content": "[Ad Message]\n- Main Copy: {argument name=\"headline\" default=\"Our Workplace\"}\n- Sub-copy: {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"}\n- Company Name/Logo: {argument name=\"company\" default=\"Future Lab Inc.\"}\n\n[Image Quality/Direction/Composition]\n- Style: Minimalist and intelligent Japanese corporate visual, like those in major newspapers or on the back covers of economic magazines.\n- Visual Elements: Futuristic city skyline (glass and steel architecture), clear early morning light, or abstract clean light lines, representing trust and innovation simultaneously.\n- Layout & Typography (for GPT-image / Nano Banana Pro): In the wide negative space (top or bottom), the headline {argument name=\"headline\" default=\"Our Workplace\"}, the sub-copy {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"}, and the company name {argument name=\"company\" default=\"Future Lab Inc.\"} are orderly arranged in a refined Gothic or beautiful font.\n- Color/Lighting: A refreshing and reliable color palette based on blue and white, with beautiful lighting contrasts and no excessive decoration.\n\n[Strict Layout Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n- Aspect Ratio: --ar 16:9",
+    "title": "Minimalist B2B Corporate Advertisement",
+    "description": "A professional prompt for generating clean and trustworthy corporate visuals suitable for newspaper ads or landing pages, featuring urban skylines and elegant typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936828864_61osmz_HRs5Dv9WEAANFUl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33915,
+    "content": "Ultra-realistic high-fashion beauty portrait of an elegant woman in a glamorous vintage-inspired look, wearing an oversized wide-brim {argument name=\"hat color\" default=\"white\"} hat casting a soft shadow over her face. Striking {argument name=\"eye color\" default=\"light green\"} eyes, perfectly shaped dark brows, dramatic winged eyeliner, soft rosy blush, flawless glowing skin, and bold vibrant {argument name=\"lipstick color\" default=\"red\"} lipstick. Large thin gold hoop earrings with pearl studs. She wears long satin red gloves, posing gracefully with both hands delicately framing her chin and face. Luxurious white faux-fur coat with a high-neck white outfit underneath. Soft neutral beige background, dreamy diffused studio lighting, smooth cinematic shadows, sophisticated editorial fashion photography, luxurious old-Hollywood aesthetic, high detail, sharp facial features, realistic skin texture, elegant composition, shallow depth of field, 4K, HD, vertical portrait, 9:16.",
+    "title": "Vintage Old Hollywood Beauty Portrait",
+    "description": "An ultra-realistic close-up portrait layout featuring high-fashion accessories and studio dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936824153_1xbasw_HRs4eM2bUAAqEXS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33795,
+    "content": "[Campaign Information]\n- Campaign Name: {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"}\n- Prize List: {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"}\n- Participation Steps: {argument name=\"entry steps\" default=\"Follow & Repost\"}\n\n[Image Quality/Direction/Composition]\n- Style: Pop, bright, and friendly SNS promotional banner. Eye-catching design.\n- Subject: Illustrations or realistic product photos of {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"} popping out of a gift box, surrounded by festive ribbons and star decorations, centered.\n- Color/Tone: Pastel tones of bright pink, yellow, and light blue to create a sense of excitement.\n- Text Info (for GPT-image / Nano Banana Pro): The text {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"} at the top and the simple steps {argument name=\"entry steps\" default=\"Follow & Repost\"} at the bottom, laid out clearly in a thick, cute, rounded font.\n- Lighting: Flat, uniform bright lighting with soft shadows.\n\n[Strict Layout Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n- Aspect Ratio: --ar 1:1 or --ar 16:9",
+    "title": "SNS Giveaway Campaign Banner",
+    "description": "A detailed prompt for creating eye-catching, flat 2D promotional banners for social media giveaway campaigns, featuring a pop and friendly style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936828650_efmimm_HRqxQLYakAE3uBb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33785,
     "content": "High-fashion studio portrait of a stylish young East Asian woman posing dynamically with one hand touching her hair. She is wearing an oversized beige crewneck sweatshirt tucked into high-waisted olive green cargo joggers with a drawstring waistband and large flap pockets. Accessorized with a black buckled choker necklace, silver hoop earrings, and subtle rings. Her hair is styled in a messy half-up bun with wavy strands framing her face, featuring soft, sultry makeup and glossy lips. Dramatic monochromatic deep red and crimson studio lighting casting soft shadows and vibrant red rim highlights, solid warm red backdrop, 85mm portrait photography, editorial lookbook style, high detail, photorealistic, 8k resolution.",
     "title": "East Asian Lookbook Crimson Studio Portrait",

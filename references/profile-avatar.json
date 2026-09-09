@@ -10,6 +10,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 33919,
+    "content": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in {argument name=\"outfit\" default=\"premium modern streetwear with an oversized layered outfit, subtle accessories\"}, and a confident relaxed pose in an {argument name=\"urban setting\" default=\"urban setting with concrete architecture, textured walls, and understated city details\"}. Use {argument name=\"lighting\" default=\"dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain\"}, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens. I've attached my image here.",
+    "title": "Streetwear Editorial Portrait Identity Retention",
+    "description": "A high-detail prompt designed to generate a luxury streetwear campaign portrait while maintaining the user's specific facial features and identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936825467_7uxuyh_HRwL9VRa8AAFdZ1.jpg",
+      "https://cms-assets.youmind.com/media/1788936825443_mr1w5u_HRwL90LbIAEs-6k.jpg",
+      "https://cms-assets.youmind.com/media/1788936825448_ke9cz6_HRwL-Tna4AEThPF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33915,
+    "content": "Ultra-realistic high-fashion beauty portrait of an elegant woman in a glamorous vintage-inspired look, wearing an oversized wide-brim {argument name=\"hat color\" default=\"white\"} hat casting a soft shadow over her face. Striking {argument name=\"eye color\" default=\"light green\"} eyes, perfectly shaped dark brows, dramatic winged eyeliner, soft rosy blush, flawless glowing skin, and bold vibrant {argument name=\"lipstick color\" default=\"red\"} lipstick. Large thin gold hoop earrings with pearl studs. She wears long satin red gloves, posing gracefully with both hands delicately framing her chin and face. Luxurious white faux-fur coat with a high-neck white outfit underneath. Soft neutral beige background, dreamy diffused studio lighting, smooth cinematic shadows, sophisticated editorial fashion photography, luxurious old-Hollywood aesthetic, high detail, sharp facial features, realistic skin texture, elegant composition, shallow depth of field, 4K, HD, vertical portrait, 9:16.",
+    "title": "Vintage Old Hollywood Beauty Portrait",
+    "description": "An ultra-realistic close-up portrait layout featuring high-fashion accessories and studio dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936824153_1xbasw_HRs4eM2bUAAqEXS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33920,
+    "content": "Using my picture can you create a woman with long, dark hair styled in a half-up ponytail with face-framing strands sits angled in a modern textured armchair. She leans forward slightly, looking off-camera to her left with a subtle, closed-mouth smile. She wears a {argument name=\"dress style\" default=\"black sleeveless mini dress featuring spaghetti straps, a fitted corset-style bodice with subtle lace embroidery, and a ruffled, layered lace skirt\"}. Her accessories include {argument name=\"accessories\" default=\"a delicate gold chain necklace, small hoop earrings, thin bracelets on both wrists, and simple rings\"}.\nLighting & Composition\nShot Style: Medium full-length portrait shot outdoors at night using direct flash.\nLighting: Direct camera flash, casting bold, high-contrast light on the subject while creating deep dark shadows in the foliage directly behind her.\nColor Palette: Dominated by deep greens and rich blacks, with warm skin tones highlighted by the flash.\nSetting & Background\nForeground/Seating: A contemporary cream or off-white upholstered accent chair with a textured fabric finish.\nBackground: {argument name=\"background\" default=\"A dense wall of lush green climbing ivy leaves covering a white fence or wall behind her\"}. Don’t change the face",
+    "title": "Outdoor Direct Flash Lace Dress Portrait",
+    "description": "A prompt focused on high-contrast night photography using a direct flash effect, featuring a subject in a detailed lace corset dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936825769_5xwrnj_HRrw2TDbIAANz7n.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33784,
     "content": "A woman with long, curly hair sits elegantly against a soft beige background. She wears a loose-fitting, off-the-shoulder, cream-colored sweater that adds a cozy vibe to the scene. Her skin has a warm tone, and she has a subtle, natural makeup look that highlights her features. She's seated with one knee bent and her arms resting casually on her legs, projecting a relaxed and inviting demeanor. The lighting is soft and warm, creating an intimate atmosphere.",
     "title": "Elegant Portrait in Off-the-Shoulder Sweater",

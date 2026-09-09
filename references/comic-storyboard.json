@@ -1,5 +1,28 @@
 [
   {
+    "id": 33917,
+    "content": "Where the Wing Remembers Both Shores\n\nThe dragon does not choose a century.\nIt is the century choosing itself\nthrough a body made of postponement and afterglow.\nOne wing trails the last unburned page of a library\nthat fell before paper learned its own name.\nThe other combs holographic rain\nfrom towers that have not yet decided\nwhether they will stand or become rumor.\nBetween them the air keeps two calendars\nand forgets which one is running.\nIts scales are older than the word for scale.\nThey remember the heat of forges\nthat have not been lit,\nand the cold of stars\nthat have already gone out\nin some other telling.\nRunes surface and sink like thoughts\na city has not earned the right to think.\nEach pulse of light is both relic and prototype.\nBelow, the streets are wet with what has happened\nand what is still negotiating its arrival.\nNeon writes on water that was once a glacier’s patience\nand will be, later, only a rumor of thirst.\nFoundations rest on the quiet of forests\nthat still dream they are standing.\nBillboards advertise tomorrows\nalready homesick for the dusk that has not come.\nThe creature’s eyes hold the only honest weather:\none the green of a memory\nthat does not yet know it is finished,\nthe other the blue of a question\nthat has not found the mouth that will ask it.\nThey look at us the way time looks at itself\nwhen no one is watching\nwithout pity, without verdict,\nonly the long courtesy of attention.\nWe live in the brief downdraft of its passing,\nthat strange, merciful interval\nwhere the past is still unfinished with us\nand the future has already begun\nto miss what we have not yet lost.\nNothing is promised except the turning:\the slow, luminous hinge of a wing\nthat belongs to every hour at once\nand to none of them completely.\nThe mist it leaves is neither ending nor beginning.\nIt is the place they briefly recognize each other\nbefore the next uncertainty\nopens its quiet, necessary hand.",
+    "title": "Intricate Poetic Dragon Fantasy Text",
+    "description": "An intricate artistic abstract poem describing a timeless dragon with cinematic spatial/temporal elements used for generation testing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936822673_fm4qn8_HRvAzvJbYAAcVxt.jpg",
+      "https://cms-assets.youmind.com/media/1788936824125_8cm8ho_HRvAzulXMAApGME.jpg",
+      "https://cms-assets.youmind.com/media/1788936824166_larp9c_HRvAzulWsAAqsTa.jpg",
+      "https://cms-assets.youmind.com/media/1788936823617_93iemw_HRvAzumXoAAIfws.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33918,
+    "content": "{\n  \"scene\": \"{argument name=\"scene\" default=\"A damaged spacecraft drifting through deep space with Earth visible in the distance, partially destroyed\"}\",\n  \"subject\": \"{argument name=\"subject\" default=\"A lonely astronaut sitting inside the spacecraft\"}\",\n  \"action\": \"The astronaut hesitates to answer an incoming holographic call from Earth\",\n  \"detail\": \"{argument name=\"detail\" default=\"The holographic screen shows an incoming call labeled 'MOM'\"}\",\n  \"style\": \"cinematic masterpiece, emotional storytelling, photorealistic\",\n  \"atmosphere\": \"heartbreaking mood, deep space silence, blue ambient glow\",\n  \"camera\": \"ARRI Alexa 65, 35mm anamorphic lens, cinematic framing\",\n  \"quality\": [\n    \"film grain\",\n    \"volumetric lighting\",\n    \"IMAX quality\",\n    \"8K resolution\",\n    \"award-winning cinematography\"\n  ]\n}",
+    "title": "Cinematic Astronaut on Damaged Spacecraft",
+    "description": "A structured prompt for generating a poignant scene of a lonely astronaut inside a decaying spacecraft, overlooking a partially destroyed Earth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936825426_kcpj97_HRtoEddbUAA6nJP.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33793,
     "content": "A vintage British caricature depicts a woman with an elaborate hairstyle adorned with a sailing ship, flowers, and feathers. She is seated in an ornate chair, wearing a richly decorated dress and holding a fan. The background shows a lavish interior with a fireplace, clock, and a window overlooking a harbor scene. A small dog sits on a cushion to her right. The overall style is that of a 18th-century satirical print.",
     "title": "Vintage British Caricature Satire",

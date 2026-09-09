@@ -1,5 +1,25 @@
 [
   {
+    "id": 33922,
+    "content": "Ultra-realistic cinematic 4K image of a {argument name=\"locomotive\" default=\"colossal vintage steam locomotive racing across an enormous collapsing railway bridge\"} above a violent ocean during a {argument name=\"weather\" default=\"supernatural-looking but physically grounded thunderstorm\"}. The train is captured at the exact moment a massive wave crashes against the bridge far below, while lightning illuminates the entire scene. Hundreds of rain droplets freeze sharply in the foreground, reflecting tiny fragments of light. The locomotive is incredibly detailed: weathered black steel, polished brass components, glowing furnace light, realistic steam escaping from valves, wet metallic surfaces, spinning wheels throwing water and sparks against the rails.\n\nThe environment is breathtaking and immense: towering dark cliffs disappearing into storm clouds, a distant lighthouse barely visible through heavy rain, enormous waves exploding against rocks, dramatic clouds spiraling across the sky, mist flowing beneath the bridge, broken sections of railway disappearing into the distance. A {argument name=\"mystery detail\" default=\"lone passenger silhouette is visible through one warmly illuminated train window\"}, creating mystery and emotional storytelling.\n\nComposition uses an extreme low-angle perspective from beside the railway tracks, making the locomotive feel enormous and powerful. Strong leading lines from the rails pull the eye directly toward the train. Lightning provides dramatic backlighting and creates a brilliant rim around the locomotive and steam. Warm interior light contrasts naturally against the cold storm atmosphere. Photorealistic materials, physically accurate reflections, realistic rain behavior, atmospheric perspective, volumetric mist, cinematic depth of field, subtle motion blur on the wheels while the locomotive remains razor sharp, HDR lighting, natural film grain, incredible micro-details, realistic scale, professional Hollywood cinematography, 35mm anamorphic lens aesthetic, high dynamic range, breathtaking visual storytelling, crystal-clear 4K Ultra HD, no text, no logo, no watermark, no artificial-looking CGI, no cartoon style.\n\nThe key visual: gigantic train + collapsing bridge + ocean storm + lightning + tiny human silhouette = scale, danger, mystery, and cinematic storytelling in one frame.",
+    "title": "Steam Locomotive Collapsing Bridge Storm",
+    "description": "An epic, high-stakes cinematic prompt featuring a vintage steam train crossing a collapsing bridge during a violent ocean storm.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936827490_f9cp94_HRtrkUNa8AAqt_Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33918,
+    "content": "{\n  \"scene\": \"{argument name=\"scene\" default=\"A damaged spacecraft drifting through deep space with Earth visible in the distance, partially destroyed\"}\",\n  \"subject\": \"{argument name=\"subject\" default=\"A lonely astronaut sitting inside the spacecraft\"}\",\n  \"action\": \"The astronaut hesitates to answer an incoming holographic call from Earth\",\n  \"detail\": \"{argument name=\"detail\" default=\"The holographic screen shows an incoming call labeled 'MOM'\"}\",\n  \"style\": \"cinematic masterpiece, emotional storytelling, photorealistic\",\n  \"atmosphere\": \"heartbreaking mood, deep space silence, blue ambient glow\",\n  \"camera\": \"ARRI Alexa 65, 35mm anamorphic lens, cinematic framing\",\n  \"quality\": [\n    \"film grain\",\n    \"volumetric lighting\",\n    \"IMAX quality\",\n    \"8K resolution\",\n    \"award-winning cinematography\"\n  ]\n}",
+    "title": "Cinematic Astronaut on Damaged Spacecraft",
+    "description": "A structured prompt for generating a poignant scene of a lonely astronaut inside a decaying spacecraft, overlooking a partially destroyed Earth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788936825426_kcpj97_HRtoEddbUAA6nJP.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33787,
     "content": "A realistic photorealistic 3D image of a stylish young man posing next to a modern Yamaha MT-15 motorcycle on a wet reflective ground. He is wearing a blue and orange red mints green white sweater with the name \"{argument name=\"name\" default=\"Humraaz\"}\" written on it and white pants. In the dramatic sunset sky background, there is a large, translucent double-exposure portrait of a beautiful woman wearing a blue veil, surrounded by soft wisps of smoke. Cinematic lighting, highly detailed.",
     "title": "Double Exposure Motorcycle Sunset Portrait",
