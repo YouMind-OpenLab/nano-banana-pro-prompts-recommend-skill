@@ -10,6 +10,88 @@
     "needReferenceImages": false
   },
   {
+    "id": 33784,
+    "content": "A woman with long, curly hair sits elegantly against a soft beige background. She wears a loose-fitting, off-the-shoulder, cream-colored sweater that adds a cozy vibe to the scene. Her skin has a warm tone, and she has a subtle, natural makeup look that highlights her features. She's seated with one knee bent and her arms resting casually on her legs, projecting a relaxed and inviting demeanor. The lighting is soft and warm, creating an intimate atmosphere.",
+    "title": "Elegant Portrait in Off-the-Shoulder Sweater",
+    "description": "An intimate studio portrait of a curly-haired woman wearing a cozy cream-colored knit sweater resting against a neutral beige background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849674697_ghsq7f_HRl02lTb0AAJ-Jv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33779,
+    "content": "Create m A young woman posing outdoors at night against a dark street background.\n\n​Subject: She has long, wavy light brown or blonde hair styled over one shoulder, light-colored eyes, and makeup with defined eyebrows and reddish-toned lipstick. She is wearing an off-the-shoulder, cream-colored ribbed knit sweater and leaning against a vehicle.",
+    "title": "Young Woman Night Street Portrait",
+    "description": "Generates a realistic outdoor night portrait of a young woman leaning against a vehicle wearing a cozy cream ribbed sweater.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849670238_bbluj5_HRqaj8zaMAA6DRm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33781,
+    "content": "Ultra-realistic luxury resort portrait of a young woman standing beside an infinity pool overlooking the Maldives ocean at golden hour, vertical 4:5 composition. She wears a sophisticated flowing {argument name=\"dress style\" default=\"emerald-green silk maxi dress with thin straps, elegant draping, a softly fitted waist, and a long flowing skirt\"}. The silk fabric catches the sunset light with realistic highlights and subtle folds. She wears minimal gold jewelry and delicate sandals.",
+    "title": "Maldives Resort Silk Dress Portrait",
+    "description": "Ultra-realistic resort portrait prompt depicting a young woman standing beside an infinity pool during golden hour in a flowing silk dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849673080_zbhcsa_HRnsQFraUAA0YOC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33783,
+    "content": "A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, and slightly parted lips. Her wavy, warm-brown hair is loosely tied back with soft, messy tendrils framing her face. She is wearing a fitted black ribbed knit mock-neck top. Golden hour sunlight streams through a window, casting sharp, dramatic slatted shadow patterns diagonally across her face and neck. High-contrast chiaroscuro lighting, warm golden tones with deep shadows, visible skin texture and subtle freckles, shot on 85mm f/1.4 lens, shallow depth of field, soft muted background, moody editorial photography.",
+    "title": "Chiaroscuro Golden Hour Cinematic Portrait",
+    "description": "A close-up moody editorial portrait of a woman with warm-brown hair and hazel eyes, featuring dramatic slatted shadow patterns from golden hour streaming windows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849674328_edasvn_HRnhMopacAAmz58.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33777,
+    "content": "An adorable tabby cat floats in the center of a black space background, its body outline glowing with a warm amber halo. Large, glossy black eyes, a tiny curved smile, and soft pink round cheeks create a kawaii expression, while translucent edges and subtle internal gradients suggest glowing gel or polished resin with gentle scattering below the surface. Dozens of tiny golden particles surround the figure at varying depths, including sharp four-point starbursts and soft defocused sparks that define atmospheric depth. A bright front key light creates smooth highlights on the upper points and lower edges, with a concentrated glow radiating outward into the surrounding darkness. * Style: Disney style, polished CGI * Key Elements: Venus personality, glossy eyes, pink cheeks, glittering particles, dark space background * Lighting: Warm golden front glow, radial backlighting, approx 3000 K * Camera: Center close-up, normal lens, straight angle",
+    "title": "Cute Floating Glossy Space Tabby Cat",
+    "description": "A CGI Disney-style illustration of an adorable floating tabby cat with an amber glow in deep space.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849664452_ebmusr_HRng7dnbMAEkq0L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33791,
+    "content": "Ultra realistic DSLR-style selfie portrait of a girl with similar facial features and body proportion, and same skin tone  standing indoors during golden hour sunlight, camera held slightly above eye level with natural arm extension visible in foreground, centered composition, soft confident smile, direct eye contact with camera, delicate feminine facial structure, oval face shape, smooth glowing skin with visible natural texture and pores, subtle rosy cheeks, natural glossy lips, expressive",
+    "title": "Golden Hour DSLR Selfie Portrait",
+    "description": "An ultra-realistic close-up selfie portrait capturing subtle skin textures during the warm golden hour indoors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849679855_9jzun6_HRngJ8MbgAAt54T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33778,
+    "content": "Using the attached object, recreate it as identically as possible. Create a sophisticated hybrid portrait blending expressive painterly realism with polished cinematic digital illustration.\n\nPreserve the exact facial structure, expression, pose, hairstyle, clothing, proportions, and overall composition. Use visible, confident brushstrokes, subtle dry-brush textures, delicate sketch lines, soft glazing, natural pigment variation, and handcrafted imperfections—avoid an overly smooth or airbrushed look.\n\nUse warm peach, coral, terracotta, amber, and soft-pink skin tones with rich shadows in mauve, plum, charcoal, espresso, and slate. Add realistic luminous highlights to the forehead, nose, cheekbones, and lips.\n\nMake the eyes highly expressive and cinematic, with detailed irises, realistic reflections, fine lashes, and controlled catchlights. Keep facial anatomy convincing, elegant, and mature.\n\nHair and clothing should have fluid painterly strokes, natural folds, selective sharp details, and loose expressive edges. Use dramatic directional cinematic lighting, subtle rim light, atmospheric shadows, and soft background blending.\n\nOverall style: premium contemporary concept art combining traditional hand-painted texture, impressionistic realism, elegant linework, cinematic polish, and refined character illustration.\n\nMinimal atmospheric background, sophisticated warm-neutral palette, strong focus on the face and gaze.\n\nAspect ratio: 9:16 vertical.",
+    "title": "Expressive Painterly Realistic Hybrid Portrait",
+    "description": "A sophisticated concept art design prompt that blends classic painterly realism with polished cinematic character illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg",
+      "https://cms-assets.youmind.com/media/1788849667246_iadpt9_HRnd81IaAAEjoKG.jpg",
+      "https://cms-assets.youmind.com/media/1788849667335_j624s1_HRnd80-bIAIRaA0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33792,
+    "content": "Edit my uploaded photo to create a luxury lifestyle look similar to a high end fashion editorial shoot, placing me leaning casually against a black luxury SUV similar to a Range Rover Sport on a paved road with soft green trees in the background slightly blurred for depth of field; adjust my outfit to a fitted black button down shirt slightly unbuttoned at the top, slim black tailored trousers, and clean white low top sneakers, and add modern black sunglasses while ensuring the clothing fits sharply and enhances an athletic, confident appearance; adjust my posture so I am leaning against the front side of the SUV with one leg slightly crossed and arms positioned naturally, projecting relaxed confidence, with my gaze directed slightly to the side instead of at the camera; apply natural golden hour lighting with soft shadows and subtle highlights on my face and the car, increase clarity and contrast slightly for a premium editorial look without over sharpening and maintain realistic skin texture; use a cinematic, slightly warm color grade with deep blacks, rich contrast, controlled highlights, and subtle environmental reflections on the SUV paint for realism; ensure the overall mood communicates wealth, success, composure, and modern masculinity, looks professionally shot for Instagram, and maintains 100 percent facial identity accuracy without altering my core facial features.",
+    "title": "Luxury Fashion Editorial SUV Shoot",
+    "description": "An upscale lifestyle modification prompt transforming user photos into luxury fashion editorial images with a sleek black SUV background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849679932_spbyr0_HRmm3RlaQAAH5v_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33662,
     "content": "Use the face from the reference photo and preserve the exact identity, facial structure, face shape, eyes, nose, lips, jawline, skin tone, proportions, and natural expression. Do not beautify, slim, reshape, or change the face. Keep realistic skin texture, visible pores, subtle peach fuzz, and authentic details.\n\nCreate an ultra-realistic close-up beauty portrait in a cinematic {argument name=\"color grade\" default=\"teal-and-orange\"} Korean editorial style. Tight shoulder-up composition, soft three-quarter angle, slightly tilted head, calm magnetic eyes, softly parted lips, and a quiet confident expression.\n\nUse a deep teal studio background with cinematic lighting: cool teal light on one side and warm amber-orange highlights on the cheekbones, nose, lips, collarbone, and wet-look hair. Create glossy highlights, soft shadows, subtle halation, and a dreamy luxury beauty-campaign mood.\n\nWear a {argument name=\"clothing\" default=\"dark chocolate brown or black satin thin-strap top\"} with small gold earrings, delicate rings, and a thin gold necklace. Hair is long, dark, glossy, and wet-look, pushed back with a few soft damp strands framing the face without covering the eyes.\n\nMakeup: fresh Korean dewy glam with luminous realistic glass skin, feathered brows, champagne-peach shimmer eyeshadow, soft brown eyeliner, lifted lashes, subtle aegyo-sal highlight, coral-peach blush, and glossy coral-rose gradient lips.\n\nOne hand rests gently near the hair or side of the face without covering features. Show elegant long almond nails with {argument name=\"nail style\" default=\"translucent aqua jelly polish, gold chrome wave details, tiny crystals, pearl droplets\"}, and a glossy water-like finish.\n\nUltra-realistic DSLR beauty photography, 85mm lens, shallow depth of field, sharp facial details, soft background blur, cinematic teal-orange grading, subtle 35mm film grain, gentle bloom, high-definition Korean editorial style.\n\nAspect ratio: 1:1 square profile picture or 3:4.\n\nNegative prompt: changed identity, different face, beautified face, plastic or over-smoothed skin, distorted features, bad anatomy, extra fingers, deformed hands, hair covering eyes, harsh neon lighting, low quality, cartoon, anime, text, logo, watermark.",
     "title": "Korean Editorial Beauty Portrait",

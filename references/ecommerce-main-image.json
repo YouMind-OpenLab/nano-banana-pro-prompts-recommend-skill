@@ -1,5 +1,15 @@
 [
   {
+    "id": 33789,
+    "content": "Ultra-realistic fashion beauty crop of a female model wearing the reference {argument name=\"headwear\" default=\"red baseball cap\"} and matching {argument name=\"apparel\" default=\"red hoodie\"}. Framing: Tight portrait crop from nose to forehead, cap and eyes filling the frame. Focus: The embroidered logo perfectly centered above the model’s eyes, stitching detail and thread depth clearly visible. Pose: Model gripping the hoodie collar softly with both hands, creating subtle fabric folds. Lighting: Soft frontal studio light with faint shadow sculpting on cheekbones and under the cap. Background: Minimal warm studio backdrop, ivory-to-beige gradient. Mood: Bold, confident, fashion-house campaign energy. Finish: Ultra-sharp fabric detail, cinematic realism, shallow depth of field, no text, no branding overlays.",
+    "title": "Tight Red Cap Fashion CloseUp",
+    "description": "An ultra-realistic macro portrait close-up of a female model wearing a red baseball cap and hoodie, perfect for high-end campaigns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849678329_xvvdbc_HRngPrWbMAESRUW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33479,
     "content": "A high-resolution, minimalist fashion portrait photograph featuring an {argument name=\"ethnicity\" default=\"East Asian woman\"} with a calm, direct gaze. Her dark hair is styled in a very sleek, center-parted, tight low bun. She is sitting with a poised, structured pose on a large, textured geometric plinth painted a soft, {argument name=\"plinth color\" default=\"pale powder blue\"}.\n\nOutfit Details: The woman is wearing a striking, monochromatic, oversized ensemble in a de-saturated, {argument name=\"outfit color\" default=\"light grey\"} color (appearing like ice-grey or light celadon). The outfit consists of three main pieces:\n\nA dramatically oversized, collarless wrap-front cape-coat with wide, fluid sleeves and an undulating hemline, which drapes extensively over her and the blue plinth.\n\nUnderneath the coat, a matching light grey, high-neck turtleneck knit top.\n\nMatching high-waisted, wide-leg trousers that pooling slightly at the ankles, made from a similar heavy drape fabric.\n\nPose and Composition: She is seated comfortably but formally, hands lightly resting in her lap and on the surface of the blue cube. The composition is a centered, three-quarter length shot.\n\nSetting and Lighting: The background is a clean, seamless, off-white studio wall. The lighting is soft, diffused, high-key studio lighting, creating a cool and clean atmosphere with minimal, soft shadows, emphasizing the architectural lines and textures of the garments. The overall feel is modern, elegant, and editorial. The perspective is eye-level.",
     "title": "Minimalist Architectural Fashion Portrait",

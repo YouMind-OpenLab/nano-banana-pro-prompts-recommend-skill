@@ -13,16 +13,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 33669,
-    "content": "A vibrant, whimsical claymation scene depicts a colorful {argument name=\"subject\" default=\"chameleon\"} perched on a moss-covered branch in a lush, fantastical forest. The chameleon, with its intricate patterns of green, blue, orange, and yellow scales, gazes intently to the left. Surrounding it are an array of fantastical flora and fauna, also rendered in clay. These include glowing mushrooms, peculiar flowers with eyeball centers, whimsical insects with googly eyes, and strange, bulbous fruits. The background is a soft blur of more trees and foliage, creating a sense of depth and enchantment. The overall impression is one of a magical, miniature world brought to life.",
-    "title": "Claymation Chameleon Forest",
-    "description": "A whimsical prompt for a claymation-style scene featuring a colorful chameleon in a fantastical forest.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788764297646_3ix0ae_HRNJwHoXYAI7TvZ.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 33379,
     "content": "Impressionist oil painting of a graceful young woman standing in a sunlit {argument name=\"location\" default=\"lavender and wildflower meadow\"}. She is wearing an off-the-shoulder, ruffled {argument name=\"dress color\" default=\"cream-white\"} sun dress with delicate, flowing layered fabric catching dappled sunlight. She has wavy brown hair styled in a loose, elegant low updo, gentle facial features, closed or soft-lidded eyes, subtle rosy cheeks, and small floral stud earrings. She gently holds a bouquet of wildflowers and lavender across her chest. Soft pastel color palette, warm golden sunlight, visible textured brushstrokes, romantic aesthetic, cinematic lighting, {argument name=\"artist style\" default=\"John Singer Sargent and Claude Monet\"} style --ar 9:16 --v 6.1",
     "title": "Impressionist Meadow Woman Portrait",

@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 33793,
+    "content": "A vintage British caricature depicts a woman with an elaborate hairstyle adorned with a sailing ship, flowers, and feathers. She is seated in an ornate chair, wearing a richly decorated dress and holding a fan. The background shows a lavish interior with a fireplace, clock, and a window overlooking a harbor scene. A small dog sits on a cushion to her right. The overall style is that of a 18th-century satirical print.",
+    "title": "Vintage British Caricature Satire",
+    "description": "An 18th-century satirical style drawing of a woman with an elaborate hairstyle incorporating a sailing ship.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849680107_zum17n_HRNLLI_WsAMl_sU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33285,
     "content": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" default=\"chart showing annual growth\"}.",
     "title": "Corporate Revenue Report Infographic",

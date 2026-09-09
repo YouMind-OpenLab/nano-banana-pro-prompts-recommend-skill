@@ -1,5 +1,37 @@
 [
   {
+    "id": 33776,
+    "content": "A stylized digital anime illustration of a young East Asian girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized dark forest-green martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking yellow-gold lightning bolt patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+    "title": "Stylized Martial Arts Anime Girl",
+    "description": "A digital anime-style illustration of a determined young girl in a martial arts kimono robe with ink splatter effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849664398_fdmvog_HRnhR89bsAAhqzB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33778,
+    "content": "Using the attached object, recreate it as identically as possible. Create a sophisticated hybrid portrait blending expressive painterly realism with polished cinematic digital illustration.\n\nPreserve the exact facial structure, expression, pose, hairstyle, clothing, proportions, and overall composition. Use visible, confident brushstrokes, subtle dry-brush textures, delicate sketch lines, soft glazing, natural pigment variation, and handcrafted imperfections—avoid an overly smooth or airbrushed look.\n\nUse warm peach, coral, terracotta, amber, and soft-pink skin tones with rich shadows in mauve, plum, charcoal, espresso, and slate. Add realistic luminous highlights to the forehead, nose, cheekbones, and lips.\n\nMake the eyes highly expressive and cinematic, with detailed irises, realistic reflections, fine lashes, and controlled catchlights. Keep facial anatomy convincing, elegant, and mature.\n\nHair and clothing should have fluid painterly strokes, natural folds, selective sharp details, and loose expressive edges. Use dramatic directional cinematic lighting, subtle rim light, atmospheric shadows, and soft background blending.\n\nOverall style: premium contemporary concept art combining traditional hand-painted texture, impressionistic realism, elegant linework, cinematic polish, and refined character illustration.\n\nMinimal atmospheric background, sophisticated warm-neutral palette, strong focus on the face and gaze.\n\nAspect ratio: 9:16 vertical.",
+    "title": "Expressive Painterly Realistic Hybrid Portrait",
+    "description": "A sophisticated concept art design prompt that blends classic painterly realism with polished cinematic character illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg",
+      "https://cms-assets.youmind.com/media/1788849667246_iadpt9_HRnd81IaAAEjoKG.jpg",
+      "https://cms-assets.youmind.com/media/1788849667335_j624s1_HRnd80-bIAIRaA0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33669,
+    "content": "A vibrant, whimsical claymation scene depicts a colorful {argument name=\"animal\" default=\"chameleon\"} perched on a moss-covered branch in a lush, {argument name=\"setting\" default=\"fantastical forest\"}. The chameleon, with its intricate patterns of green, blue, orange, and yellow scales, gazes intently to the left. Surrounding it are an array of fantastical flora and fauna, also rendered in clay. These include {argument name=\"plant life\" default=\"glowing mushrooms, peculiar flowers with eyeball centers\"}, whimsical insects with googly eyes, and strange, bulbous fruits. The background is a soft blur of more trees and foliage, creating a sense of depth and enchantment. The overall impression is one of a magical, miniature world brought to life.",
+    "title": "Whimsical Claymation Chameleon Scene",
+    "description": "A detailed prompt for creating a vibrant claymation-style image of a chameleon in a fantastical forest, featuring intricate clay textures, glowing mushrooms, and depth-of-field effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849669864_ao80hc_HRNJwHoXYAI7TvZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33471,
     "content": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
     "title": "Artifact Diorama SQL Generation",

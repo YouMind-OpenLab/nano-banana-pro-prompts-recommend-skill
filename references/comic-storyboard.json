@@ -1,11 +1,41 @@
 [
   {
-    "id": 33659,
-    "content": "TITLE:\nPremium Maple Syrup Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury food product advertising\n• 8 cinematic product-focused scenes\n• Product remains the main hero\n• High-end advertising agency presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: {argument name=\"duration\" default=\"20 Seconds\"}\n  - Style: Cinematic Gourmet Food Commercial\n  - Product: {argument name=\"product name\" default=\"Pure Maple Syrup\"}\n  - Audio: Slow Pour + Soft Food ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"Warm amber, cream and dark brown\"} aesthetic\n• Minimal maple leaf decorative accents\n\nSTORYBOARD:\n1. Premium maple syrup bottle standing on polished dark wood\n2. Bottle cap opening in extreme macro\n3. Golden syrup slowly flowing from the bottle\n4. Syrup forming a glossy ribbon in mid-air\n5. Syrup cascading over fluffy pancakes\n6. Extreme macro showing rich syrup texture and tiny reflections\n7. Pancake stack surrounded by the hero bottle and maple leaves\n8. Final luxury product packshot with dramatic syrup pour\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion liquid photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.\n\nSTYLE:\nUltra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.",
-    "title": "Maple Syrup Commercial Storyboard",
-    "description": "A comprehensive storyboard prompt for a luxury food commercial, focusing on cinematic product shots of maple syrup with a warm aesthetic.",
+    "id": 33793,
+    "content": "A vintage British caricature depicts a woman with an elaborate hairstyle adorned with a sailing ship, flowers, and feathers. She is seated in an ornate chair, wearing a richly decorated dress and holding a fan. The background shows a lavish interior with a fireplace, clock, and a window overlooking a harbor scene. A small dog sits on a cushion to her right. The overall style is that of a 18th-century satirical print.",
+    "title": "Vintage British Caricature Satire",
+    "description": "An 18th-century satirical style drawing of a woman with an elaborate hairstyle incorporating a sailing ship.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788764289093_1rdo4n_HRlyjBWaIAER5_L.jpg"
+      "https://cms-assets.youmind.com/media/1788849680107_zum17n_HRNLLI_WsAMl_sU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33776,
+    "content": "A stylized digital anime illustration of a young East Asian girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized dark forest-green martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking yellow-gold lightning bolt patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+    "title": "Stylized Martial Arts Anime Girl",
+    "description": "A digital anime-style illustration of a determined young girl in a martial arts kimono robe with ink splatter effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849664398_fdmvog_HRnhR89bsAAhqzB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33659,
+    "content": "TITLE:\nPremium Maple Syrup Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury food product advertising\n• 8 cinematic product-focused scenes\n• Product remains the main hero\n• High-end advertising agency presentation\n\nHEADER:\n• Elegant serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Cinematic Gourmet Food Commercial\n  - Product: Pure Maple Syrup\n  - Audio: Slow Pour + Soft Food ASMR\n• Why This Style Works section\n• Warm amber, cream and dark brown aesthetic\n• Minimal maple leaf decorative accents\n\nSTORYBOARD:\n1. Premium maple syrup bottle standing on polished dark wood\n2. Bottle cap opening in extreme macro\n3. Golden syrup slowly flowing from the bottle\n4. Syrup forming a glossy ribbon in mid-air\n5. Syrup cascading over fluffy pancakes\n6. Extreme macro showing rich syrup texture and tiny reflections\n7. Pancake stack surrounded by the hero bottle and maple leaves\n8. Final luxury product packshot with dramatic syrup pour\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow-motion liquid photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.\n\nSTYLE:\nUltra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.",
+    "title": "Maple Syrup Commercial Storyboard",
+    "description": "A complex framework script to generate an 8-panel product storyboard sheet layout for a premium gourmet commercial setup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849672027_lytnc6_HRlyjBWaIAER5_L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33669,
+    "content": "A vibrant, whimsical claymation scene depicts a colorful {argument name=\"animal\" default=\"chameleon\"} perched on a moss-covered branch in a lush, {argument name=\"setting\" default=\"fantastical forest\"}. The chameleon, with its intricate patterns of green, blue, orange, and yellow scales, gazes intently to the left. Surrounding it are an array of fantastical flora and fauna, also rendered in clay. These include {argument name=\"plant life\" default=\"glowing mushrooms, peculiar flowers with eyeball centers\"}, whimsical insects with googly eyes, and strange, bulbous fruits. The background is a soft blur of more trees and foliage, creating a sense of depth and enchantment. The overall impression is one of a magical, miniature world brought to life.",
+    "title": "Whimsical Claymation Chameleon Scene",
+    "description": "A detailed prompt for creating a vibrant claymation-style image of a chameleon in a fantastical forest, featuring intricate clay textures, glowing mushrooms, and depth-of-field effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849669864_ao80hc_HRNJwHoXYAI7TvZ.jpg"
     ],
     "needReferenceImages": false
   },

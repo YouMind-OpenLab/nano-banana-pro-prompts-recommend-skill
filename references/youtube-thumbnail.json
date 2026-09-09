@@ -1,5 +1,15 @@
 [
   {
+    "id": 33787,
+    "content": "A realistic photorealistic 3D image of a stylish young man posing next to a modern Yamaha MT-15 motorcycle on a wet reflective ground. He is wearing a blue and orange red mints green white sweater with the name \"{argument name=\"name\" default=\"Humraaz\"}\" written on it and white pants. In the dramatic sunset sky background, there is a large, translucent double-exposure portrait of a beautiful woman wearing a blue veil, surrounded by soft wisps of smoke. Cinematic lighting, highly detailed.",
+    "title": "Double Exposure Motorcycle Sunset Portrait",
+    "description": "A photorealistic instruction to generate a young man standing next to a modern Yamaha MT-15 motorcycle with a translucent double exposure background of a woman.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788849676187_sa571z_HRqfmVuaoAAi1IB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33271,
     "content": "Turn this image into a: Ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"confident man\"}, with {same} expressions on his face & he must watching straightly towards the camera,his body, face & eyes also must be exactly straightly towards the camera. Image must look Premium studio-quality facial details, highly realistic skin texture with visible pores, natural forehead lines, subtle wrinkles, fine facial imperfections, realistic subsurface scattering, detailed beard follicles, sharp beard edges, natural lip texture, realistic eyelashes, and high-definition eyebrows. Warm brown eyes with bright catchlights and crystal-clear iris detail. Cinematic YouTube thumbnail style, extremely sharp focus on face, shallow depth of field, professional key light from front-left, soft rim light around head and shoulders, subtle contrast enhancement, dramatic but clean lighting, premium camera quality, hyper-detailed skin rendering, photorealistic facial anatomy, 8K detail, ultra-clean image quality. (Remove the mic & chain) Preserve the exact facial identity, facial structure, proportions, eye shape, nose shape, beard pattern, hairline, skin tone, and all unique facial features from the reference image. Do not alter the person's face in any way. Maintain 100% likeness and identity accuracy. Show his body from up of his hairs to slightly up from the navel. Bg: {argument name=\"background\" default=\"Pure white\"}.",
     "title": "High Definition Portrait Transformation",
