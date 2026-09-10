@@ -1,5 +1,25 @@
 [
   {
+    "id": 34127,
+    "content": "{\n\"title\": \"{argument name=\"title\" default=\"HARRY POTTER AT 80\"}\",\n\n\"scene\": \"A quiet winter evening inside a small countryside cottage. Snow falls gently outside the frosted windows while a warm fireplace softly illuminates the room.\",\n\n\"subject\": \"An 80-year-old Harry Potter sits alone in a worn leather chair, reading a stack of faded letters collected throughout his life. His face shows wisdom, loss, and peace after a lifetime of adventure.\",\n\n\"detail\": \"His famous wand hangs untouched above the fireplace, covered in dust. Old photographs of Ron, Hermione, Hagrid, and the Hogwarts years decorate the room. A pair of round glasses rests beside a cup of tea. On a nearby shelf sits a weathered photo album labeled 'Hogwarts'.\",\n\n\"atmosphere\": \"deeply nostalgic, emotional, bittersweet, peaceful, reflective\",\n\n\"lighting\": \"warm firelight, soft shadows, golden glow, cinematic winter ambience\",\n\n\"composition\": \"intimate cinematic shot, Harry positioned beside the fireplace, snow-covered window visible in the background\",\n\n\"style\": \"photorealistic, cinematic masterpiece, Hollywood movie ending scene, ultra detailed, film grain, shallow depth of field, 8K\",\n\n\"mood\": \"The boy who lived has become the man who remembers.\",\n\"image_text\": \"Some magic never leaves.\"\n}",
+    "title": "Elderly Harry Potter Winter Scene",
+    "description": "A cinematic and emotional prompt imagining an 80-year-old Harry Potter reflecting on his past in a cozy winter cottage environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789022274242_rv1obo_HRyWMdrasAALKTi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34128,
+    "content": "A vibrant, cartoonish illustration depicts a {argument name=\"creature\" default=\"monstrous green creature with bulging eyes and sharp teeth\"} driving a souped-up {argument name=\"car type\" default=\"pink Volkswagen Beetle\"}. The car is adorned with flames and the words \"BEETLE BOMBER\" and \"RAT ROD.\" The creature wears a racing helmet and is shown mid-air, with smoke and flames billowing from the rear tires and exhaust pipes. In the background, a crowd of equally bizarre characters cheers from behind a \"DRAG STRIP\" sign. Neon signs for \"BEETLE JUICE,\" \"COLD BEER,\" and \"NITRO\" add to the chaotic, high-energy atmosphere of a drag race. The art style is reminiscent of comic books and graffiti, with bold outlines and saturated colors.",
+    "title": "Cartoon Monster Rat Rod Drag Race",
+    "description": "A high-energy, comic-book style illustration of a green monster driving a pink Volkswagen Beetle in a chaotic neon drag strip environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789022275168_2wlw14_HRUR494W8AYxjfK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33917,
     "content": "Where the Wing Remembers Both Shores\n\nThe dragon does not choose a century.\nIt is the century choosing itself\nthrough a body made of postponement and afterglow.\nOne wing trails the last unburned page of a library\nthat fell before paper learned its own name.\nThe other combs holographic rain\nfrom towers that have not yet decided\nwhether they will stand or become rumor.\nBetween them the air keeps two calendars\nand forgets which one is running.\nIts scales are older than the word for scale.\nThey remember the heat of forges\nthat have not been lit,\nand the cold of stars\nthat have already gone out\nin some other telling.\nRunes surface and sink like thoughts\na city has not earned the right to think.\nEach pulse of light is both relic and prototype.\nBelow, the streets are wet with what has happened\nand what is still negotiating its arrival.\nNeon writes on water that was once a glacier’s patience\nand will be, later, only a rumor of thirst.\nFoundations rest on the quiet of forests\nthat still dream they are standing.\nBillboards advertise tomorrows\nalready homesick for the dusk that has not come.\nThe creature’s eyes hold the only honest weather:\none the green of a memory\nthat does not yet know it is finished,\nthe other the blue of a question\nthat has not found the mouth that will ask it.\nThey look at us the way time looks at itself\nwhen no one is watching\nwithout pity, without verdict,\nonly the long courtesy of attention.\nWe live in the brief downdraft of its passing,\nthat strange, merciful interval\nwhere the past is still unfinished with us\nand the future has already begun\nto miss what we have not yet lost.\nNothing is promised except the turning:\the slow, luminous hinge of a wing\nthat belongs to every hour at once\nand to none of them completely.\nThe mist it leaves is neither ending nor beginning.\nIt is the place they briefly recognize each other\nbefore the next uncertainty\nopens its quiet, necessary hand.",
     "title": "Intricate Poetic Dragon Fantasy Text",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 34132,
+    "content": "[Product and Campaign Info]\n- Appeal Text: {argument name=\"appeal copy\" default=\"Exquisite & Selected\"}\n- Brand Copy: {argument name=\"brand copy\" default=\"Lifelong leather goods created by skilled craftsmanship\"}\n- Target Product: {argument name=\"products\" default=\"Genuine leather wallet and wristwatch\"}\n\n[Quality, Effects, and Composition]\n- Style: Still-life product photography for high-end luxury brand catalogs or luxury magazine spreads.\n- Subject: {argument name=\"products\" default=\"Genuine leather wallet and wristwatch\"} placed on deep vintage leather or high-quality dark-toned textures. Details that evoke artisanal craftsmanship (such as stitching or metal hairline finishing) are beautifully and richly depicted.\n- Lighting and Color: A color palette based on deep dark brown, black, and brass gold. Warm amber-toned sidelighting with classic, heavy shadows.\n- Text Placement (for GPT-image / Nano Banana Pro): Using a thin gold-colored font, the text \"{argument name=\"appeal copy\" default=\"Exquisite & Selected\"}\" and \"{argument name=\"brand copy\" default=\"Lifelong leather goods created by skilled craftsmanship\"}\" are subtly placed as typography in a calm position on the screen.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4",
+    "title": "Luxury Product Still Life Campaign",
+    "description": "A sophisticated prompt for high-end products like leather goods or watches, emphasizing craftsmanship, warm side lighting, and elegant typography for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789022277328_vvwa7o_HRxBYM_XsAATlYx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33789,
     "content": "Ultra-realistic fashion beauty crop of a female model wearing the reference {argument name=\"headwear\" default=\"red baseball cap\"} and matching {argument name=\"apparel\" default=\"red hoodie\"}. Framing: Tight portrait crop from nose to forehead, cap and eyes filling the frame. Focus: The embroidered logo perfectly centered above the model’s eyes, stitching detail and thread depth clearly visible. Pose: Model gripping the hoodie collar softly with both hands, creating subtle fabric folds. Lighting: Soft frontal studio light with faint shadow sculpting on cheekbones and under the cap. Background: Minimal warm studio backdrop, ivory-to-beige gradient. Mood: Bold, confident, fashion-house campaign energy. Finish: Ultra-sharp fabric detail, cinematic realism, shallow depth of field, no text, no branding overlays.",
     "title": "Tight Red Cap Fashion CloseUp",
