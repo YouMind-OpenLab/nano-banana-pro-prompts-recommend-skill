@@ -20,22 +20,55 @@
     "needReferenceImages": false
   },
   {
-    "id": 34130,
-    "content": "[Product and Copy]\n- Main Copy: {argument name=\"main copy\" default=\"Ultra-lightweight, high volume! The latest portable speaker\"}\n- SFX/Onomatopoeia: {argument name=\"sfx\" default=\"BOOM!!\"}\n- Speech Bubble Text: {argument name=\"bubble text\" default=\"Awesome!\"}\n\n[Quality, Effects, and Composition]\n- Style: Vintage pop art illustration featuring halftone dot textures and strong black outlines, reminiscent of Roy Lichtenstein or American comic styles.\n- Subject: The product is drawn jumping out vigorously from the center. Radial lines (focus lines) spread from behind the product, enhancing the sense of dynamism.\n- Typography and Speech Bubbles (for GPT-image / Nano Banana Pro): The onomatopoeia \"{argument name=\"sfx\" default=\"BOOM!!\"}\" is drawn in large, colorful, 3D comic-style letters, and the text \"{argument name=\"bubble text\" default=\"Awesome!\"}\" is placed inside a classic speech balloon. A banner for the \"{argument name=\"main copy\" default=\"Ultra-lightweight, high volume! The latest portable speaker\"}\" is designed at the top of the screen.\n- Colors and Tone: Bright, high-contrast pop art colors such as yellow, red, blue, and black.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: \"--ar 1:1\" or \"--ar 4:3\"",
-    "title": "Comic Pop Art Product Advertisement",
-    "description": "A vibrant prompt for creating American comic and pop art style product ads, featuring halftone textures, bold outlines, and dynamic typography suitable for Nano Banana Pro.",
+    "id": 34303,
+    "content": "Created to match the attached photo 100%! Transformed into a highly detailed mixed-media digital illustration style with a semi-realistic aesthetic and bold graphic composition; background of deep black and dark charcoal gray featuring a dominant color palette of {argument name=\"color theme\" default=\"burnt orange, amber, golden ochre, and metallic copper\"}; subtle blue-teal accents for contrast; dramatic high-contrast lighting; cinematic sheen; layered abstract geometric elements; expressive paint splatters; ink textures; halftone patterns; intricate line work; decorative vector layers; premium editorial illustration aesthetic; semi-realistic painterly rendering; glossy metallic luster; luxurious warm color gradients; dynamic visual rhythm; deep shadows; highly detailed textures; sharp edges; museum-quality digital artwork; razor-sharp focus; volumetric lighting; sophisticated artistic composition; premium concept art; high-end illustration; HDR; 8K; masterpiece; vibrant warm tones; elegant visual storytelling; incredible depth; refined brushstrokes; immersive visual experience; professional gallery-quality finish. _ _ar 9:16!",
+    "title": "Mixed-Media Digital Illustration with Metallic Sheen",
+    "description": "A high-end editorial concept art prompt transforming reference inputs into a stylized mixed-media illustration featuring expressive paint splatters, abstract shapes, and luxurious warm color gradients.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789022276990_t7zky5_HR1FrarbwAA4R0x.jpg"
+      "https://cms-assets.youmind.com/media/1789108570867_f1bw67_HR6JUKOaQAAcMGI.jpg",
+      "https://cms-assets.youmind.com/media/1789108570823_tzwrdh_HR6JUKLbgAAsVP5.jpg",
+      "https://cms-assets.youmind.com/media/1789108570822_foulvw_HR6JUKUbwAABypV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34305,
+    "content": "A hyper-realistic close-up studio photograph: a life-sized sculpture of a tiger made entirely from genuine wooden matches. Dense red match heads form the fur texture, with black and white matches arranged into tiger stripes; the eyes, teeth, and whiskers are also finely crafted from matches.",
+    "title": "Matchstick Tiger Sculpture Photography",
+    "description": "A descriptive prompt for generating a studio photo of a tiger sculpture crafted entirely from matchsticks, featuring intricate match head details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108572490_k27nzo_HR50kifb0AAUnZZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34302,
+    "content": "Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over {argument name=\"background color\" default=\"bold red background\"}, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750.",
+    "title": "Monochrome Ink Ballpoint Pen Zine Poster",
+    "description": "An experimental graphic design prompt that creates an ultra-detailed monochrome black ink ballpoint sketch over a striking solid bold red background featuring typographic annotations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108570135_pbl2mk_HR3nnAIXYAYSAvd.jpg",
+      "https://cms-assets.youmind.com/media/1789108570082_pnb0ez_HR3nnAlawAEwyt2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34130,
+    "content": "[Product and Copy]\n- Main Copy: {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"}\n- Onomatopoeia: {argument name=\"onomatopoeia\" default=\"BOOM!!\"}\n- Text inside Speech Bubble: {argument name=\"speech bubble\" default=\"Awesome!\"}\n\n[Quality, Production, Composition]\n- Style: Vintage pop art illustration characterized by dot (halftone) textures and strong black outlines, like the style of Roy Lichtenstein or American comics.\n- Subject: A product drawn as if it were jumping out vigorously in the center. Radial lines (focus lines) spread from behind the product, enhancing the sense of dynamism.\n- Typography and Speech Bubbles (for GPT-image / Nano Banana Pro): The onomatopoeia {argument name=\"onomatopoeia\" default=\"BOOM!!\"} is drawn in large, powerful, 3D colorful comic-style letters, and the text {argument name=\"speech bubble\" default=\"Awesome!\"} is placed inside a classic speech balloon. A banner for {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"} is designed at the top of the screen.\n- Color/Tone: Vivid and high-contrast pop art colors such as yellow, red, blue, and black.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text.\n- Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: \"--ar 1:1\" or \"--ar 4:3\"",
+    "title": "Pop Art Style Product Advertisement",
+    "description": "An energetic pop art prompt inspired by Roy Lichtenstein, featuring comic-style halftone dots, bold outlines, and dynamic onomatopoeia for product ads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108573958_nmghj4_HR1FrarbwAA4R0x.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 34131,
-    "content": "[Brand Concept]\n- Image Concept: {argument name=\"concept\" default=\"Quiet Days\"}\n- Shooting Location: {argument name=\"location\" default=\"KOMOREBI | TOKYO\"}\n\n[Styling]\n- Coordination/Outfit: {argument name=\"outfit style\" default=\"Linen shirt and denim\"}\n\n[Quality, Effects, and Composition]\n- Style: Hero image for a lookbook of a minimal, high-quality Japanese fashion and lifestyle brand.\n- Subject: A model standing quietly in natural light, wearing {argument name=\"outfit style\" default=\"Linen shirt and denim\"}. Hair swaying in the wind, wrinkles in clothes, and a quiet, natural expression.\n- Background: A hallway of an old Japanese house with swaying sunlight through leaves, or a spot in {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} where concrete and greenery are beautifully integrated.\n- Lighting and Color: Soft and transparent sunlight in the morning or evening, with low-contrast, beautiful earth tones (nuance gray, olive, natural beige).\n- Typography (for GPT-image / Nano Banana Pro): The words for {argument name=\"concept\" default=\"Quiet Days\"} and {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} are quietly arranged in the white space of the screen in an ultra-fine, modern sans-serif font.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 16:9",
-    "title": "Minimalist Fashion Lookbook KV",
-    "description": "A prompt designed for high-end Japanese fashion brand lookbooks, focusing on natural light, earth tones, and editorial portraits with modern typography for Nano Banana Pro.",
+    "content": "[Brand Concept]\n- Image Concept: {argument name=\"concept\" default=\"Quiet Days\"}\n- Shooting Location: {argument name=\"location\" default=\"KOMOREBI | TOKYO\"}\n\n[Styling]\n- Coordination/Outfit: {argument name=\"outfit\" default=\"Linen shirt and denim\"}\n\n[Quality, Production, Composition]\n- Style: Hero image for a lookbook of a minimalist, high-quality Japanese fashion and lifestyle brand.\n- Subject: A model standing quietly in natural light, wearing {argument name=\"outfit\" default=\"Linen shirt and denim\"}. Hair swaying in the wind, wrinkles in clothing, and a quiet, natural expression.\n- Background: A corridor of an old Japanese house with flickering sunlight filtering through trees, or a spot in {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} where concrete and greenery blend beautifully.\n- Lighting/Color: Soft and transparent sunlight in the morning or evening, faint and beautiful earth tones with low contrast (nuance gray, olive, natural beige).\n- Typography (for GPT-image / Nano Banana Pro): The words {argument name=\"concept\" default=\"Quiet Days\"} and {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} are quietly arranged in the white space of the screen in an ultra-fine, modern sans-serif font.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text.\n- Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 16:9",
+    "title": "Fashion Brand Lookbook Editorial Portrait",
+    "description": "A sophisticated prompt for generating high-end fashion brand hero images with a minimalist Japanese lookbook aesthetic, focusing on natural lighting and soft earth tones.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789022277236_ocy2t8_HRzk39caoAEXPlw.jpg"
+      "https://cms-assets.youmind.com/media/1789108572933_i4z8hn_HRzk39caoAEXPlw.jpg"
     ],
     "needReferenceImages": false
   },

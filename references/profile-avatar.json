@@ -10,6 +10,31 @@
     "needReferenceImages": false
   },
   {
+    "id": 34304,
+    "content": "The woman is positioned indoors by a window, her body turned in profile to the camera, her shoulder jutting forward, her chin slightly raised and resting on the back of her hand, her head turned to the right, her gaze directed toward the light source. The portrait is close-up, from chest to crown, with an eye-level angle. The composition is shifted to the left, the right side of the frame is filled with a softly lit background. Diagonal stripes of light from the window frame or blinds fall across her face and shoulder.\n\nShe has even skin with a distinct warm, bronze-golden undertone, warm, brown-terracotta eyeshadow with a smooth blend, long lashes, and a rich, warm, {argument name=\"lipstick color\" default=\"reddish-brown\"} lipstick with a soft sheen.\n\nHair is pulled back into a sleek low bun, the texture is neatly smoothed, the hairline is defined, fine natural strands are visible at the temples, and the hair surface is shiny and smooth.\n\nShe's wearing a {argument name=\"top style\" default=\"black top with thin straps\"} made of a smooth matte fabric, a thin silver chain with a {argument name=\"jewelry\" default=\"small heart-shaped pendant\"} around her neck, and large, silver-gray, matte-finish over-ear headphones with smooth, rounded shapes.\n\nThe location is a minimalist interior with a neutral gray-beige wall. The light source is positioned to the right of the side. Sunlight streams through a window frame or blinds, creating distinct stripes of light and shadow on her face and shoulder. The background remains softly illuminated without harsh details. The lighting is hard, directional, and natural, creating distinct stripes of contrast, deep shadows with sharp edges, high contrast, bright and controlled highlights on her skin, and a warm overall atmosphere thanks to the sunlight. Highly detailed, photorealistic photography, shot with an 85mm portrait lens, uses a shallow depth of field with sharp focus on the eyes and profile lines. The background is softly blurred, and the texture of the skin and metal of the headphones is detailed.\n\nwarm sunlit editorial mood,\n\nstrong golden amber highlights,\n\nhigh contrast directional lighting,\n\ndeep defined shadow bands,\n\nrich warm skin tones,\n\nmoderate saturation with bronze emphasis,\n\nclean dark background separation,\n\nsharp specular highlights on skin,\n\nsubtle cinematic grain,\n\ndramatic sunlight color grading.",
+    "title": "Sunlit Window Editorial Portrait",
+    "description": "A sophisticated portrait prompt capturing a woman by a window with dramatic diagonal light stripes, warm golden skin tones, and detailed textures of hair and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108571330_4g9s3q_HR1czXlacAAHI9h.jpg",
+      "https://cms-assets.youmind.com/media/1789108571302_c3ol5u_HR1czXwaUAAoSAg.jpg",
+      "https://cms-assets.youmind.com/media/1789108571310_79x4vj_HR1czXsaYAA17-A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34301,
+    "content": "Use my uploaded face photo as the ONLY identity reference for the main subject.\n\nCreate an ultra-realistic, premium fashion portrait of me wearing an elegant formal outfit. Preserve my exact facial identity without alteration — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, and natural skin texture. Keep me instantly recognizable.\n\nOutfit: sophisticated luxury formal wear, perfectly tailored {argument name=\"suit piece\" default=\"black blazer\"} with a crisp white shirt, elegant trousers, polished formal shoes, minimal premium accessories, refined and timeless styling. The clothing should look realistic, perfectly fitted, high-quality, and appropriate for a formal professional occasion.\n\nPose: standing confidently with natural posture, relaxed shoulders, one hand subtly positioned near the blazer, the other naturally at the side, looking directly into the camera with a calm, confident expression.\n\nSetting: luxurious modern interior with an elegant minimalist background, subtle architectural details, soft depth of field.\n\nLighting: professional studio-quality lighting, soft directional light on the face, realistic shadows, natural skin texture, subtle cinematic highlights.\n\nPhotography: high-end fashion editorial photography, realistic DSLR/mirrorless camera look, 85mm portrait lens, shallow depth of field, sharp eyes, realistic fabric texture, natural skin pores, detailed hair strands, physically accurate lighting.\n\nStyle: sophisticated, classy, elegant, modern, premium, timeless, photorealistic.\n\nAspect ratio: 4:5 vertical.\n\nDo not alter my face, facial proportions, age, skin tone, or identity. Identity accuracy is the highest priority.",
+    "title": "Premium Formal Wear Portrait with Identity Preservation",
+    "description": "An image generation instruction designed to take an uploaded portrait and place the user in a sophisticated tailored formal outfit within a luxury modern interior while protecting exact facial identity features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108568958_qk6k6s_HR22TxYagAA9-fx.jpg",
+      "https://cms-assets.youmind.com/media/1789108568921_zpwjdf_HR22TxWbUAAbbFQ.jpg",
+      "https://cms-assets.youmind.com/media/1789108568938_4d1o28_HR22TxTbIAAHbnN.jpg",
+      "https://cms-assets.youmind.com/media/1789108569784_zmut9d_HR22TxnaEAAMZqb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34124,
     "content": "Soft {argument name=\"painting style\" default=\"semi-realistic digital painting\"} blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance. Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background. Background uses a {argument name=\"background material\" default=\"textured brown cardboard\"} surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics. High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!",
     "title": "Engraved Digital Painting Style",
@@ -22,36 +47,16 @@
     "needReferenceImages": false
   },
   {
-    "id": 34125,
-    "content": "A medium portrait of a {argument name=\"subject\" default=\"young South Asian woman\"} posing candidly, looking slightly off-camera with a gentle smile. She has dark hair tied back in a low ponytail with loose strands framing her face, refined features, and {argument name=\"lip color\" default=\"bright pink\"} lips. She is wearing a modern designer outfit featuring a sleeveless black top layered under a beige-and-black abstract typography/patterned collared dress with thin shoulder straps. Accessorized with a delicate gold chain necklace, small stud earrings, and a slim gold bracelet on her wrist. Her hand rests gently under her chin. Warm indoor studio lighting highlighting soft skin tones, set against a smooth dark wood panel background. Photographed with a prime 85mm lens, sharp focus, shallow depth of field, 8K resolution, elegant fashion portrait aesthetic.9.16\nsame face as reference image.",
-    "title": "Elegant Studio Fashion Portrait",
-    "description": "A sophisticated portrait prompt for a young South Asian woman in a designer outfit, focusing on warm studio lighting and fashion aesthetics.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789022273191_7xil6a_HR1CtX0aoAA0IXs.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 34121,
-    "content": "Medium full shot of a seated {argument name=\"subject\" default=\"young woman\"} on an ornate, {argument name=\"armchair style\" default=\"light-blue French-style armchair\"} with visible gold paint and patina. She is draped in a voluminous, {argument name=\"fabric\" default=\"cream-colored fabric\"} that acts as a gown or cover, with soft, rendered folds. She is barefoot, legs crossed and drawn up, hands clasped, resting her head pensively on one hand. Her gaze is off-frame to the right. Dark, loosely pinned hair. Visible soft, pensive, melancholic expression. Warm, golden natural light, as if from a window, bathes her face, the fabric, and the chair, contrasting with the dark, textured, almost charcoal-blue background. Fine art oil painting, traditional technique, realistic detail, soft light, deep shadow, evocative atmosphere. Masters style, perhaps Rembrandt or Sargent. Highly detailed. Fine resolution.",
-    "title": "Seated Woman Oil Painting",
-    "description": "Generates a fine art oil painting of a pensive woman on a French armchair.",
+    "content": "Medium full shot of a seated young woman on an {argument name=\"furniture\" default=\"ornate, light-blue French-style armchair\"} with visible gold paint and patina. She is draped in a {argument name=\"clothing\" default=\"voluminous, cream-colored fabric\"} that acts as a gown or cover, with soft, rendered folds. She is barefoot, legs crossed and drawn up, hands clasped, resting her head pensively on one hand. Her gaze is off-frame to the right. Dark, loosely pinned hair. Visible soft, pensive, melancholic expression. Warm, golden natural light, as if from a window, bathes her face, the fabric, and the chair, contrasting with the {argument name=\"background\" default=\"dark, textured, almost charcoal-blue background\"}. Fine art oil painting, traditional technique, realistic detail, soft light, deep shadow, evocative atmosphere. Masters style, perhaps Rembrandt or Sargent. Highly detailed. Fine resolution.",
+    "title": "Melancholic Fine Art Oil Portrait",
+    "description": "A classical oil painting style prompt depicting a pensive woman on an ornate French armchair with dramatic natural lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789022270695_l12ghw_HR0-araagAAyQK_.jpg",
-      "https://cms-assets.youmind.com/media/1789022270409_p9eika_HR0-arZboAAlCC2.jpg",
-      "https://cms-assets.youmind.com/media/1789022269224_fviflv_HR0-arcaQAAPqtr.jpg"
+      "https://cms-assets.youmind.com/media/1789108567344_ojz6wq_HR0-araagAAyQK_.jpg",
+      "https://cms-assets.youmind.com/media/1789108565830_jhz003_HR0-arZboAAlCC2.jpg",
+      "https://cms-assets.youmind.com/media/1789108567330_jreae0_HR0-arcaQAAPqtr.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 34119,
-    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A medium shot of a young {argument name=\"subject\" default=\"South Asian couple\"} posing together, leaning against a silver metal railing at night. On the left, a man with a neatly groomed beard, dark hair, and a lean build wears a {argument name=\"clothing\" default=\"dark maroon button-up shirt\"} and a wristwatch, resting his chin on his right hand. Beside him, a young woman with a slender build, soft facial features, and long dark hair, wears a {argument name=\"outfit\" default=\"beige floral-patterned traditional tunic\"}, also resting her chin on her hands. Both are looking directly at the viewer with gentle smiles. They are centered in the frame against a blurred background of vibrant green foliage illuminated by colorful, bokeh-style neon lights in pink, blue, and yellow hues. The lighting is soft and warm, highlighting their faces and creating a romantic, inviting atmosphere. The composition is well-balanced, utilizing the railing as a foreground element to create depth. The style is that of a professional portrait, characterized by clear focus on the subjects and a creamy, out-of-focus background.",
-    "title": "Professional Night Portrait of a Couple",
-    "description": "A comprehensive prompt designed to create a professional-grade night portrait of a couple, focusing on high-fidelity facial preservation and atmospheric bokeh lighting.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789022268948_hzhctp_HR0WkAdb0AAajmd.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 33919,

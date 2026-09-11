@@ -1,5 +1,16 @@
 [
   {
+    "id": 34302,
+    "content": "Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over {argument name=\"background color\" default=\"bold red background\"}, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750.",
+    "title": "Monochrome Ink Ballpoint Pen Zine Poster",
+    "description": "An experimental graphic design prompt that creates an ultra-detailed monochrome black ink ballpoint sketch over a striking solid bold red background featuring typographic annotations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108570135_pbl2mk_HR3nnAIXYAYSAvd.jpg",
+      "https://cms-assets.youmind.com/media/1789108570082_pnb0ez_HR3nnAlawAEwyt2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34127,
     "content": "{\n\"title\": \"{argument name=\"title\" default=\"HARRY POTTER AT 80\"}\",\n\n\"scene\": \"A quiet winter evening inside a small countryside cottage. Snow falls gently outside the frosted windows while a warm fireplace softly illuminates the room.\",\n\n\"subject\": \"An 80-year-old Harry Potter sits alone in a worn leather chair, reading a stack of faded letters collected throughout his life. His face shows wisdom, loss, and peace after a lifetime of adventure.\",\n\n\"detail\": \"His famous wand hangs untouched above the fireplace, covered in dust. Old photographs of Ron, Hermione, Hagrid, and the Hogwarts years decorate the room. A pair of round glasses rests beside a cup of tea. On a nearby shelf sits a weathered photo album labeled 'Hogwarts'.\",\n\n\"atmosphere\": \"deeply nostalgic, emotional, bittersweet, peaceful, reflective\",\n\n\"lighting\": \"warm firelight, soft shadows, golden glow, cinematic winter ambience\",\n\n\"composition\": \"intimate cinematic shot, Harry positioned beside the fireplace, snow-covered window visible in the background\",\n\n\"style\": \"photorealistic, cinematic masterpiece, Hollywood movie ending scene, ultra detailed, film grain, shallow depth of field, 8K\",\n\n\"mood\": \"The boy who lived has become the man who remembers.\",\n\"image_text\": \"Some magic never leaves.\"\n}",
     "title": "Elderly Harry Potter Winter Scene",

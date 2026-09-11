@@ -1,5 +1,18 @@
 [
   {
+    "id": 34120,
+    "content": "Editorial fashion photograph of a young man with {argument name=\"hair style\" default=\"tousled dark wavy hair\"}, tan olive skin, defined jawline, short stubble beard and mustache, thick dark eyebrows, brown eyes, wearing dark sunglasses pushed slightly down. He wears a {argument name=\"shirt color\" default=\"maroon\"} short-sleeve polo shirt tucked into wide-leg cream/off-white trousers with a brown braided leather belt, and brown tassel loafers. He stands in profile, leaning forward with one hand resting on the seat of a wooden bar stool, head tilted downward. Plain soft neutral gray studio background, soft even studio lighting, minimalist high-end fashion campaign aesthetic, shot on medium format camera, shallow depth of field, clean commercial look.",
+    "title": "Editorial Fashion Portrait of a Young Man",
+    "description": "A high-end editorial fashion portrait prompt depicting a young man in profile leaning on a bar stool, styled in a maroon polo shirt and cream trousers with a minimalist commercial studio aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789108568718_6msls5_HR1PnBZbQAALpe8.jpg",
+      "https://cms-assets.youmind.com/media/1789108568739_8m1wcr_HR1PnBYbgAAPBB7.jpg",
+      "https://cms-assets.youmind.com/media/1789108568724_3k0zly_HR1PnBXbcAAOBjH.jpg",
+      "https://cms-assets.youmind.com/media/1789108569778_newsxq_HR1PnBZaYAApXM-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34132,
     "content": "[Product and Campaign Info]\n- Appeal Text: {argument name=\"appeal copy\" default=\"Exquisite & Selected\"}\n- Brand Copy: {argument name=\"brand copy\" default=\"Lifelong leather goods created by skilled craftsmanship\"}\n- Target Product: {argument name=\"products\" default=\"Genuine leather wallet and wristwatch\"}\n\n[Quality, Effects, and Composition]\n- Style: Still-life product photography for high-end luxury brand catalogs or luxury magazine spreads.\n- Subject: {argument name=\"products\" default=\"Genuine leather wallet and wristwatch\"} placed on deep vintage leather or high-quality dark-toned textures. Details that evoke artisanal craftsmanship (such as stitching or metal hairline finishing) are beautifully and richly depicted.\n- Lighting and Color: A color palette based on deep dark brown, black, and brass gold. Warm amber-toned sidelighting with classic, heavy shadows.\n- Text Placement (for GPT-image / Nano Banana Pro): Using a thin gold-colored font, the text \"{argument name=\"appeal copy\" default=\"Exquisite & Selected\"}\" and \"{argument name=\"brand copy\" default=\"Lifelong leather goods created by skilled craftsmanship\"}\" are subtly placed as typography in a calm position on the screen.\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4",
     "title": "Luxury Product Still Life Campaign",
