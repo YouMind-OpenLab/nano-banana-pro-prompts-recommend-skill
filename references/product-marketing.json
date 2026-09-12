@@ -21,12 +21,65 @@
     "needReferenceImages": true
   },
   {
-    "id": 34299,
-    "content": "Create an ultra-realistic editorial fashion portrait of a young woman standing casually against a wall completely covered with vintage newspaper pages. She has {argument name=\"hair color\" default=\"long, voluminous wavy dark-brown\"} hair, subtle natural makeup, defined brows, soft skin texture, and {argument name=\"lipstick color\" default=\"deep red\"} lipstick. She wears silver hoop earrings, a {argument name=\"top style\" default=\"strapless denim corset-style\"} top, high-waisted light-blue denim jeans, and an oversized blue denim jacket draped loosely off her shoulders.\n\nShe holds an open vintage newspaper naturally in both hands, looking slightly to the side with a calm, confident expression. Full-body composition, relaxed pose, realistic hands and anatomy, detailed denim texture, natural skin pores, soft facial features.\n\nThe background is a collage of aged newspapers in warm beige and brown tones, with visible motivational headlines and vintage photographs. Warm soft studio lighting, subtle film grain, nostalgic editorial aesthetic, realistic shadows, shallow depth of field, premium fashion photography, highly detailed, photorealistic, 8K, vertical 2:3 composition, no watermark.",
-    "title": "Vintage Newspaper Fashion Editorial",
-    "description": "An ultra-realistic fashion portrait of a woman in denim posed against a wall covered in vintage newspapers, featuring detailed textures and warm studio lighting.",
+    "id": 34448,
+    "content": "Create an ultra-realistic {argument name=\"style\" default=\"luxury fashion editorial portrait\"} based on the uploaded reference image. Face: Preserve the exact facial identity from the provided reference — same face shape, eyes, eyebrows, nose, lips, cheekbones, jawline, proportions, and natural skin texture. Face remains 100% unchanged. No beautification or facial reshaping. Hair: {argument name=\"hair style\" default=\"Long, thick, glossy dark-brown/black hair with soft voluminous waves\"}, swept elegantly over one shoulder. Makeup: Sophisticated glam makeup — defined brows, soft brown smoky eyes, precise eyeliner, luminous skin, subtle blush and contour, and muted coral-rose glossy lipstick. Pose: Elegant seated fashion pose on a modern black chair, legs crossed naturally. One hand holds stylish thin-framed eyeglasses beside her face, while the other rests casually across her crossed knee holding a modern smartphone. Confident direct gaze toward the camera. Outfit: Chic monochromatic {argument name=\"outfit color\" default=\"ivory/cream\"} luxury ensemble — fitted satin mini dress with thin straps, structured cream-white blazer draped over the shoulders, and tall cream knee-high boots with a sleek fitted silhouette. Accessories: Layered delicate silver/diamond necklaces, small sparkling stud earrings, wide metallic silver cuff bracelets on both wrists, elegant luxury wristwatch, and minimal rings. Smartphone in hand. Background: Dark charcoal-black seamless studio backdrop with subtle gradient falloff, creating a dramatic luxury atmosphere. Lighting: Professional studio beauty lighting from the front-left, soft key light illuminating the face and body, gentle rim light around the hair and blazer, controlled shadows, subtle glossy highlights on the satin and jewelry. Composition: Vertical 9:16 full-body fashion portrait, camera at slightly above waist level, centered subject, sophisticated editorial framing, realistic proportions. Photography style: High-end fashion magazine campaign, luxury advertising photography, cinematic depth, 85mm lens, shallow depth of field, ultra-detailed realistic skin pores, individual hair strands, realistic fabric texture, physically accurate jewelry reflections, natural hands and fingers, subtle film grain, photorealistic, 8K. Negative prompt: changed face, different identity, altered facial features, face reshaping, excessive beauty filter, plastic skin, unrealistic body proportions, deformed hands, extra fingers, malformed legs, warped glasses, distorted phone, floating objects, fake hair, CGI, cartoon, oversmoothing, blurry face, watermark, text, logo.",
+    "title": "Luxury Fashion Editorial Portrait",
+    "description": "A high-end editorial fashion prompt for Nano Banana Pro designed to preserve facial identity from a reference image while adding sophisticated styling.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789108567233_93c6e3_HR3W2YLboAABozh.jpg"
+      "https://cms-assets.youmind.com/media/1789195062208_3ev7w9_HR_hUZKbwAEhpHr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34444,
+    "content": "Portrait preserving skin texture, hair color and length. A stylish woman wearing a {argument name=\"blazer style\" default=\"structured beige blazer\"} with wavy long hair, paired with a {argument name=\"top\" default=\"white top\"} tucked into {argument name=\"pants\" default=\"light blue high-waisted jeans\"}. Minimalistic and contemporary look, carrying a black crossbody bag with a thick gold strap. Accessories include layered gold necklaces and stacked rings. Hair is pulled back in a low relaxed bun. Background is a light beige tone with soft diffused photorealistic lighting. 50mm lens, f/2.0, focusing on fabric texture and warm tones. Urban elegance and contemporary fashion style.",
+    "title": "Urban Elegance Portrait",
+    "description": "A sophisticated fashion portrait prompt focusing on realistic skin textures and contemporary urban styling, featuring a woman in a blazer and jeans.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195057824_f9cjts_HR6jmoda0AA0HSL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34457,
+    "content": "streetwear portrait on a {argument name=\"color\" default=\"red\"} background, {argument name=\"clothing\" default=\"black puffer jacket, white cargo pants\"}, red studio background, black-white contrast on saturated red, {argument name=\"pose\" default=\"hands in pockets pose\"}",
+    "title": "Streetwear Portrait on Red Background",
+    "description": "A striking streetwear portrait prompt featuring high-contrast clothing against a saturated red studio background, characterized by a hands-in-pockets pose and a clean studio aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195068579_0b2fqg_HC7UKlHaMAA9U-a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34447,
+    "content": "Subject: A beautiful 23-year-old Mediterranean woman with an elegant, slender silhouette, graceful proportions, and a confident yet gentle presence. She has a sophisticated contemporary summer-fashion aesthetic. Appearance: Fair sun-kissed complexion, refined oval face, natural facial features, bright expressive eyes, soft coral lips, and long black hair styled in loose, slightly damp waves cascading over her shoulders. A few delicate strands naturally frame her face. Fashion styling: She wears an elegant coral-orange knee-length summer wrap dress with a refined silhouette, flowing lightweight fabric, and a beautifully tailored waist. The dress moves naturally with the ocean breeze. She wears a delicate shell-bead bracelet and small gold hoop earrings. Pose & expression: She stands barefoot in shallow seawater, pausing naturally between steps. Her weight shifts slightly forward as though she is about to continue walking. Her right hand gently moves a damp strand of hair away from her face. Her body is angled slightly sideways while her face turns toward the camera. She has a relaxed, confident expression with a subtle natural smile. Environment: A pristine white-sand Mediterranean beach extends into the distance. Gentle waves roll toward the shoreline in soft layers. Clear turquoise water surrounds her feet, with sunlight sparkling across the surface. The scene feels vibrant, peaceful, carefree, and luxurious. Lighting: Bright midday Mediterranean sunlight illuminates the scene. Natural reflections from the water create delicate highlights across her face, hair, and coral-orange dress. Realistic shadows, natural contrast, and luminous summer atmosphere. Composition & camera: 50mm professional fashion photography, natural perspective, three-quarter-body composition. The woman is the clear focal point while the beach and ocean remain recognizable in the background. Large aperture, shallow photographic depth of field, creamy natural bokeh, precise focus on her eyes and face. Style & quality: Premium Mediterranean summer lifestyle editorial photography. Photorealistic live-action appearance, authentic skin texture, naturally detailed hair, realistic fabric movement, physically accurate sunlight and water reflections, sophisticated color rendering, cinematic photographic depth, subtle film grain, elegant luxury-magazine aesthetic, ultra-detailed, professional photography, 4K.",
+    "title": "Mediterranean Summer Editorial",
+    "description": "A high-end lifestyle photography prompt for a Mediterranean beach setting, featuring a woman in a coral dress with realistic water reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195060571_j7rycn_HR_DSfKbIAAbPJZ.jpg",
+      "https://cms-assets.youmind.com/media/1789195060532_jw3fvg_HR_DSfQagAALN8r.jpg",
+      "https://cms-assets.youmind.com/media/1789195060517_wzjplb_HR_DSfKbgAAoxjA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34451,
+    "content": "Use my uploaded face as the ONLY identity reference for the main subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or alter my facial features.\n\nCreate a {argument name=\"style\" default=\"premium hyper-realistic luxury fashion editorial portrait\"} of me in a sophisticated {argument name=\"setting\" default=\"dark studio setting\"}. I have naturally styled hair with subtle movement and a refined, polished appearance. I am wearing a {argument name=\"outfit\" default=\"tailored dark charcoal textured blazer over a sleek black turtleneck\"}, creating an elegant high-fashion aesthetic.\n\nPose: centered close-up portrait, facing directly toward the camera with a calm, confident, slightly mysterious expression. One hand is naturally raised near the opposite shoulder/neck, while the other arm rests elegantly across the body. Add a luxury silver metal wristwatch with a black dial on my wrist, clearly visible and naturally integrated.\n\nLighting: dramatic cinematic studio lighting, soft directional key light illuminating my face, subtle rim light separating my hair and shoulders from the background, deep shadows, refined highlights, low-key lighting.\n\nBackground: pure deep black, seamless and minimal, with no distractions.\n\nPhotography: high-end luxury campaign aesthetic, sophisticated fashion magazine editorial, Canon EOS R5, 85mm portrait lens, f/1.8, shallow depth of field, precise facial focus, realistic skin texture, natural pores, rich neutral tones, deep blacks, subtle contrast, soft highlights, photorealistic, premium color grading.\n\nComposition: vertical fashion portrait, centered framing, head-and-torso visible, elegant negative space, sophisticated masculine luxury aesthetic, ultra-detailed, realistic proportions, no text, no logos, no watermark.",
+    "title": "Luxury Fashion Editorial Self Portrait",
+    "description": "A precise Nano Banana 2 prompt for creating a luxury fashion editorial portrait using an uploaded face as a reference for identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195064009_q7bsq1_HR8g2TmawAA_ZUD.jpg",
+      "https://cms-assets.youmind.com/media/1789195064003_cszc0k_HR8g2TkbcAAyce0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34299,
+    "content": "Create an ultra-realistic editorial fashion portrait of a young woman standing casually against a wall completely covered with {argument name=\"background wall\" default=\"vintage newspaper pages\"}. She has {argument name=\"hair style\" default=\"long, voluminous wavy dark-brown hair\"}, subtle natural makeup, defined brows, soft skin texture, and deep red lipstick. She wears silver hoop earrings, a {argument name=\"top wear\" default=\"strapless denim corset-style top\"}, high-waisted light-blue denim jeans, and an oversized blue denim jacket draped loosely off her shoulders.\n\nShe holds an open vintage newspaper naturally in both hands, looking slightly to the side with a calm, confident expression. Full-body composition, relaxed pose, realistic hands and anatomy, detailed denim texture, natural skin pores, soft facial features.\n\nThe background is a collage of aged newspapers in warm beige and brown tones, with visible motivational headlines and vintage photographs. Warm soft studio lighting, subtle film grain, nostalgic editorial aesthetic, realistic shadows, shallow depth of field, premium fashion photography, highly detailed, photorealistic, 8K, vertical 2:3 composition, no watermark.",
+    "title": "Editorial Denim Fashion Portrait",
+    "description": "An ultra-realistic fashion portrait of a young woman in denim attire set against a unique background of vintage newspaper pages, featuring soft studio lighting and editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195066526_rgvydp_HR3W2YLboAABozh.jpg"
     ],
     "needReferenceImages": false
   },

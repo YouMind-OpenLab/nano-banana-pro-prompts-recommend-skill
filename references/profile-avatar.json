@@ -10,14 +10,65 @@
     "needReferenceImages": false
   },
   {
-    "id": 34304,
-    "content": "The woman is positioned indoors by a window, her body turned in profile to the camera, her shoulder jutting forward, her chin slightly raised and resting on the back of her hand, her head turned to the right, her gaze directed toward the light source. The portrait is close-up, from chest to crown, with an eye-level angle. The composition is shifted to the left, the right side of the frame is filled with a softly lit background. Diagonal stripes of light from the window frame or blinds fall across her face and shoulder.\n\nShe has even skin with a distinct warm, bronze-golden undertone, warm, brown-terracotta eyeshadow with a smooth blend, long lashes, and a rich, warm, {argument name=\"lipstick color\" default=\"reddish-brown\"} lipstick with a soft sheen.\n\nHair is pulled back into a sleek low bun, the texture is neatly smoothed, the hairline is defined, fine natural strands are visible at the temples, and the hair surface is shiny and smooth.\n\nShe's wearing a {argument name=\"top style\" default=\"black top with thin straps\"} made of a smooth matte fabric, a thin silver chain with a {argument name=\"jewelry\" default=\"small heart-shaped pendant\"} around her neck, and large, silver-gray, matte-finish over-ear headphones with smooth, rounded shapes.\n\nThe location is a minimalist interior with a neutral gray-beige wall. The light source is positioned to the right of the side. Sunlight streams through a window frame or blinds, creating distinct stripes of light and shadow on her face and shoulder. The background remains softly illuminated without harsh details. The lighting is hard, directional, and natural, creating distinct stripes of contrast, deep shadows with sharp edges, high contrast, bright and controlled highlights on her skin, and a warm overall atmosphere thanks to the sunlight. Highly detailed, photorealistic photography, shot with an 85mm portrait lens, uses a shallow depth of field with sharp focus on the eyes and profile lines. The background is softly blurred, and the texture of the skin and metal of the headphones is detailed.\n\nwarm sunlit editorial mood,\n\nstrong golden amber highlights,\n\nhigh contrast directional lighting,\n\ndeep defined shadow bands,\n\nrich warm skin tones,\n\nmoderate saturation with bronze emphasis,\n\nclean dark background separation,\n\nsharp specular highlights on skin,\n\nsubtle cinematic grain,\n\ndramatic sunlight color grading.",
-    "title": "Sunlit Window Editorial Portrait",
-    "description": "A sophisticated portrait prompt capturing a woman by a window with dramatic diagonal light stripes, warm golden skin tones, and detailed textures of hair and accessories.",
+    "id": 34457,
+    "content": "streetwear portrait on a {argument name=\"color\" default=\"red\"} background, {argument name=\"clothing\" default=\"black puffer jacket, white cargo pants\"}, red studio background, black-white contrast on saturated red, {argument name=\"pose\" default=\"hands in pockets pose\"}",
+    "title": "Streetwear Portrait on Red Background",
+    "description": "A striking streetwear portrait prompt featuring high-contrast clothing against a saturated red studio background, characterized by a hands-in-pockets pose and a clean studio aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789108571330_4g9s3q_HR1czXlacAAHI9h.jpg",
-      "https://cms-assets.youmind.com/media/1789108571302_c3ol5u_HR1czXwaUAAoSAg.jpg",
-      "https://cms-assets.youmind.com/media/1789108571310_79x4vj_HR1czXsaYAA17-A.jpg"
+      "https://cms-assets.youmind.com/media/1789195068579_0b2fqg_HC7UKlHaMAA9U-a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34450,
+    "content": "A cinematic photo of the uploaded {argument name=\"nationality\" default=\"German\"} woman on a {argument name=\"setting\" default=\"stormy, gray concrete pier\"} by the ocean. She is wearing an {argument name=\"clothing\" default=\"oversized blue knit sweater\"}, and her hair is blowing dramatically in the wind. The moody atmosphere is created by a cloudy, overcast sky and dark, choppy water. The woman pulls her sweater up around her chin as if to, warm up. Professional cinematic photography, wide shot. she is smiling",
+    "title": "Cinematic Stormy Ocean Pier Portrait",
+    "description": "A professional cinematic photo prompt featuring a woman on a stormy concrete pier with a moody atmosphere and dramatic wind effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195059035_7u5vdf_HR1gCEybIAAooRW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34451,
+    "content": "Use my uploaded face as the ONLY identity reference for the main subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or alter my facial features.\n\nCreate a {argument name=\"style\" default=\"premium hyper-realistic luxury fashion editorial portrait\"} of me in a sophisticated {argument name=\"setting\" default=\"dark studio setting\"}. I have naturally styled hair with subtle movement and a refined, polished appearance. I am wearing a {argument name=\"outfit\" default=\"tailored dark charcoal textured blazer over a sleek black turtleneck\"}, creating an elegant high-fashion aesthetic.\n\nPose: centered close-up portrait, facing directly toward the camera with a calm, confident, slightly mysterious expression. One hand is naturally raised near the opposite shoulder/neck, while the other arm rests elegantly across the body. Add a luxury silver metal wristwatch with a black dial on my wrist, clearly visible and naturally integrated.\n\nLighting: dramatic cinematic studio lighting, soft directional key light illuminating my face, subtle rim light separating my hair and shoulders from the background, deep shadows, refined highlights, low-key lighting.\n\nBackground: pure deep black, seamless and minimal, with no distractions.\n\nPhotography: high-end luxury campaign aesthetic, sophisticated fashion magazine editorial, Canon EOS R5, 85mm portrait lens, f/1.8, shallow depth of field, precise facial focus, realistic skin texture, natural pores, rich neutral tones, deep blacks, subtle contrast, soft highlights, photorealistic, premium color grading.\n\nComposition: vertical fashion portrait, centered framing, head-and-torso visible, elegant negative space, sophisticated masculine luxury aesthetic, ultra-detailed, realistic proportions, no text, no logos, no watermark.",
+    "title": "Luxury Fashion Editorial Self Portrait",
+    "description": "A precise Nano Banana 2 prompt for creating a luxury fashion editorial portrait using an uploaded face as a reference for identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195064009_q7bsq1_HR8g2TmawAA_ZUD.jpg",
+      "https://cms-assets.youmind.com/media/1789195064003_cszc0k_HR8g2TkbcAAyce0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34458,
+    "content": "Night portrait with flash featuring {argument name=\"animal\" default=\"a cat\"}, {argument name=\"clothing\" default=\"black hoodie\"}, {argument name=\"details\" default=\"fluffy white cat, wire fence, night\"}, smartphone front flash separating the duo from the black background",
+    "title": "Night Portrait with Cat and Flash",
+    "description": "A nighttime flash photography prompt that captures a person and their cat, using a smartphone flash effect to create a sharp contrast against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195070020_d5qz1c_G-Op_Fca0AA_1bf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34445,
+    "content": "Scene: Selfie in front of a mirror inside a gym with a wooden floor and workout equipment visible in the background. Atmosphere: Sporty, focused on strength and fitness, with a sense of confidence and a training routine. Style and Aesthetics Visual Style: Minimalist, sporty, realistic, fitness editorial; clean and direct aesthetic. Color Palette: Predominantly black and white in the clothing, warm tones in the wooden floor, and metallic grays in the equipment; moderate contrast between subject and background. Clothing and Accessories Clothing: Black sports bra; black shorts with visible white text that reads DREAMY DIGITAL ARTS. Footwear and Socks: White sneakers with white socks. Accessories: Smartphone in hand for the selfie; no jewelry or other flashy accessories are visible. Setting and Background Elements Setting: Indoor gym with a wooden floor. Visible Equipment: Weight racks, dumbbells, weight stacks, and resistance bands. Depth: Equipment distributed in the background that provides functional context without distracting from the subject. Pose and Body Language Pose: Confident stance, one hand on the hip and the other holding the phone in front of the face for the selfie. Body Language: Torso slightly turned toward the mirror, weight shifted to one leg, gaze directed at the mirror through the phone; confident and focused demeanor. Lighting Type of light: Gym ambient light, likely a mix of cool artificial lighting and soft ambient light; soft shadows and moderate contrast that define the musculature without being dramatic. Direction: Primarily overhead and frontal light reflected by the mirror, illuminating the face and torso evenly. Angle and Lens Camera angle: Frontal selfie at torso level, slightly above the center of the body for a three-quarter view. Lens type: Short wide-angle smartphone lens appearance, approximately equivalent to 24–35 mm in full-frame, with minimal peripheral distortion and a wide depth of field that keeps the background recognizable. Composition and Technical Details Framing: Subject centered in the mirror, cropped from thigh level to head; Negative space surrounding the gym. Focus: sharp on the subject; background with sufficient detail for context. Texture: the wood of the floor and the metal of the equipment contrast with the matte fabric of the workout clothes. Don't alter my face or my hairstyle",
+    "title": "Gym Selfie Fitness Editorial",
+    "description": "A highly detailed prompt for generating a realistic gym mirror selfie with specific focus on athletic clothing, gym equipment, and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195059028_8sagdq_HR1deVxbIAAAdom.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34304,
+    "content": "The woman is positioned indoors by a window, her body turned in profile to the camera, her shoulder jutting forward, her chin slightly raised and resting on the back of her hand, her head turned to the right, her gaze directed toward the light source. The portrait is close-up, from chest to crown, with an eye-level angle. The composition is shifted to the left, the right side of the frame is filled with a softly lit background. Diagonal stripes of light from the window frame or blinds fall across her face and shoulder. She has even skin with a distinct warm, bronze-golden undertone, warm, brown-terracotta eyeshadow with a smooth blend, long lashes, and a rich, warm, reddish-brown lipstick with a soft sheen. Hair is pulled back into a sleek low bun, the texture is neatly smoothed, the hairline is defined, fine natural strands are visible at the temples, and the hair surface is shiny and smooth. She's wearing a black top with thin straps made of a smooth matte fabric, a thin silver chain with a small heart-shaped pendant around her neck, and large, silver-gray, matte-finish over-ear headphones with smooth, rounded shapes. The location is a minimalist interior with a neutral gray-beige wall. The light source is positioned to the right of the side. Sunlight streams through a window frame or blinds, creating distinct stripes of light and shadow on her face and shoulder. The background remains softly illuminated without harsh details. The lighting is hard, directional, and natural, creating distinct stripes of contrast, deep shadows with sharp edges, high contrast, bright and controlled highlights on her skin, and a warm overall atmosphere thanks to the sunlight. Highly detailed, photorealistic photography, shot with an 85mm portrait lens, uses a shallow depth of field with sharp focus on the eyes and profile lines. The background is softly blurred, and the texture of the skin and metal of the headphones is detailed. warm sunlit editorial mood, strong golden amber highlights, high contrast directional lighting, deep defined shadow bands, rich warm skin tones, moderate saturation with bronze emphasis, clean dark background separation, sharp specular highlights on skin, subtle cinematic grain, dramatic sunlight color grading.",
+    "title": "Sunlit Portrait with Headphones",
+    "description": "An editorial portrait prompt featuring dramatic window lighting, warm bronze skin tones, and high-quality headphone textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195059476_62zgld_HR1czXlacAAHI9h.jpg",
+      "https://cms-assets.youmind.com/media/1789195059440_46hv4c_HR1czXwaUAAoSAg.jpg",
+      "https://cms-assets.youmind.com/media/1789195059445_9ow8vn_HR1czXsaYAA17-A.jpg"
     ],
     "needReferenceImages": false
   },

@@ -20,24 +20,47 @@
     "needReferenceImages": false
   },
   {
-    "id": 34303,
-    "content": "Created to match the attached photo 100%! Transformed into a highly detailed mixed-media digital illustration style with a semi-realistic aesthetic and bold graphic composition; background of deep black and dark charcoal gray featuring a dominant color palette of {argument name=\"color theme\" default=\"burnt orange, amber, golden ochre, and metallic copper\"}; subtle blue-teal accents for contrast; dramatic high-contrast lighting; cinematic sheen; layered abstract geometric elements; expressive paint splatters; ink textures; halftone patterns; intricate line work; decorative vector layers; premium editorial illustration aesthetic; semi-realistic painterly rendering; glossy metallic luster; luxurious warm color gradients; dynamic visual rhythm; deep shadows; highly detailed textures; sharp edges; museum-quality digital artwork; razor-sharp focus; volumetric lighting; sophisticated artistic composition; premium concept art; high-end illustration; HDR; 8K; masterpiece; vibrant warm tones; elegant visual storytelling; incredible depth; refined brushstrokes; immersive visual experience; professional gallery-quality finish. _ _ar 9:16!",
-    "title": "Mixed-Media Digital Illustration with Metallic Sheen",
-    "description": "A high-end editorial concept art prompt transforming reference inputs into a stylized mixed-media illustration featuring expressive paint splatters, abstract shapes, and luxurious warm color gradients.",
+    "id": 34454,
+    "content": "Create a charming handcrafted miniature travel scene with {argument name=\"city name\" default=\"London\"}'s iconic landmark as the main focus. Show the landmark as a beautifully carved tiny 3D model with soft rounded details, handcrafted texture, exquisite imperfections, and a whimsical picture-book feel. Surround it with a few subtle elements representing its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without crowding the scene. Place everything on a clean warm white textured paper background, leaving plenty of elegant negative space. Add {argument name=\"city name\" default=\"London\"} stylized text at the bottom. Use soft natural lighting, gentle shadows, muted yet realistic colors, miniature depth of field, handcrafted clay/paper texture, and a premium cute travel journal aesthetic. Centered composition, highly detailed landmarks, cute yet sophisticated, clean and collectible travel card design, no realistic people, no clutter. Vertical poster composition, 9:16 aspect ratio.",
+    "title": "Handcrafted Miniature City Travel Poster",
+    "description": "A detailed prompt for creating charming 3D miniature models of city landmarks with a handcrafted paper or clay aesthetic, featuring soft lighting and clean minimalist backgrounds.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789108570867_f1bw67_HR6JUKOaQAAcMGI.jpg",
-      "https://cms-assets.youmind.com/media/1789108570823_tzwrdh_HR6JUKLbgAAsVP5.jpg",
-      "https://cms-assets.youmind.com/media/1789108570822_foulvw_HR6JUKUbwAABypV.jpg"
+      "https://cms-assets.youmind.com/media/1789195066773_tvtcrk_HR8xTjCbkAA8nma.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34449,
+    "content": "{argument name=\"art style\" default=\"Hand-drawn editorial portrait illustration\"}, semi-realistic sketch style, fine ink linework, cross-hatching shading, textured pencil strokes, subtle watercolor wash, {argument name=\"colors\" default=\"muted earthy color palette\"}, warm tones, soft paper grain texture, vintage magazine illustration aesthetic, clean centered composition, minimal background with {argument name=\"background element\" default=\"bold geometric color block\"}, rough brush edges, natural skin texture rendering, soft shadow gradients, high detail facial features, artistic sketch-paint hybrid, modern retro illustration style, matte finish.",
+    "title": "Editorial Sketch Portrait Illustration",
+    "description": "An artistic editorial illustration prompt combining ink linework, watercolor wash, and geometric color blocks for a modern retro aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195062158_k02ndk_HR_bO1sboAAr712.jpg",
+      "https://cms-assets.youmind.com/media/1789195062132_k8rd0d_HR_bO1zbEAAU3Fv.jpg",
+      "https://cms-assets.youmind.com/media/1789195062157_9m4rf1_HR_bO1qaQAA2qHS.jpg",
+      "https://cms-assets.youmind.com/media/1789195062763_0i5tx3_HR_bO1jakAAyc54.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34303,
+    "content": "Created to match the attached photo 100%! Transformed into a {argument name=\"style\" default=\"highly detailed mixed-media digital illustration style\"} with a semi-realistic aesthetic and bold graphic composition; background of {argument name=\"background\" default=\"deep black and dark charcoal gray\"} featuring a dominant color palette of {argument name=\"colors\" default=\"burnt orange, amber, golden ochre, and metallic copper\"}; subtle blue-teal accents for contrast; dramatic high-contrast lighting; cinematic sheen; layered abstract geometric elements; expressive paint splatters; ink textures; halftone patterns; intricate line work; decorative vector layers; premium editorial illustration aesthetic; semi-realistic painterly rendering; glossy metallic luster; luxurious warm color gradients; dynamic visual rhythm; deep shadows; highly detailed textures; sharp edges; museum-quality digital artwork; razor-sharp focus; volumetric lighting; sophisticated artistic composition; premium concept art; high-end illustration; HDR; 8K; masterpiece; vibrant warm tones; elegant visual storytelling; incredible depth; refined brushstrokes; immersive visual experience; professional gallery-quality finish. _ _ar 9:16!",
+    "title": "Mixed-Media Digital Illustration Style",
+    "description": "A style transformation prompt for Nano Banana Pro that converts a reference photo into a detailed mixed-media illustration with metallic copper and amber tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789195065438_0f7756_HR6JUKOaQAAcMGI.jpg",
+      "https://cms-assets.youmind.com/media/1789195065381_90knud_HR6JUKLbgAAsVP5.jpg",
+      "https://cms-assets.youmind.com/media/1789195065433_yyu2d8_HR6JUKUbwAABypV.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 34305,
-    "content": "A hyper-realistic close-up studio photograph: a life-sized sculpture of a tiger made entirely from genuine wooden matches. Dense red match heads form the fur texture, with black and white matches arranged into tiger stripes; the eyes, teeth, and whiskers are also finely crafted from matches.",
-    "title": "Matchstick Tiger Sculpture Photography",
-    "description": "A descriptive prompt for generating a studio photo of a tiger sculpture crafted entirely from matchsticks, featuring intricate match head details.",
+    "content": "A hyper-realistic close-up studio photograph: a life-sized sculpture of a {argument name=\"subject\" default=\"tiger\"} constructed entirely from real {argument name=\"material\" default=\"wooden matches\"}. Densely packed red match heads form the fur texture, while black and white matches are arranged to create the tiger stripes; the eyes, teeth, and whiskers are also intricately crafted from matches.",
+    "title": "Realistic Matchstick Tiger Sculpture",
+    "description": "A detailed prompt for generating a life-sized tiger sculpture meticulously crafted from red, black, and white matches, focusing on realistic textures and studio lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789108572490_k27nzo_HR50kifb0AAUnZZ.jpg"
+      "https://cms-assets.youmind.com/media/1789195067084_07410h_HR50kifb0AAUnZZ.jpg"
     ],
     "needReferenceImages": false
   },
