@@ -13,6 +13,31 @@
     "needReferenceImages": true
   },
   {
+    "id": 34665,
+    "content": "Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones ({argument name=\"color_palette\" default=\"ochre, sienna, umber\"}), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!",
+    "title": "Oil Painting Style Portrait",
+    "description": "A prompt for an expressive oil painting style portrait with loose brushwork and warm earthy tones, created with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390905100_48hoat_HSK6UW5XYAM-KP7.jpg",
+      "https://cms-assets.youmind.com/media/1789390905112_sw9a51_HSK6UUnbQAAoFoF.jpg",
+      "https://cms-assets.youmind.com/media/1789390905095_7whmpu_HSK6UW0WkAAUNif.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34667,
+    "content": "Create a completely new visual style by synthesizing two contrasting visual languages:\n\nSTYLE FOUNDATION:\nA cinematic architectural illustration with the clean composition, strong perspective, elegant architectural forms, crisp selective linework, luminous tropical colors, dramatic blue sky, and polished environmental storytelling of a high-end anime-inspired background painting.\n\nPAINT HANDLING:\nFuse this with expressive traditional watercolor and ink techniques: loose gestural brush strokes, dry-brush texture, translucent watercolor washes, pigment blooms, irregular ink contours, spontaneous splatters, visible paper grain, partially unfinished edges, atmospheric paint bleeding, and subtle abstract fragmentation.\n\nNEW HYBRID STYLE:\nDo NOT simply imitate either reference. Develop an original visual language that sits between polished digital illustration and expressive architectural watercolor sketching.\n\nKeep the major architectural structures highly readable and beautifully designed, but allow secondary details, vegetation, reflections, clouds, distant objects, and peripheral elements to dissolve into loose watercolor marks and ink gestures.\n\nUse selective precision:\nsharp, deliberate linework around important architectural silhouettes, windows, domes, roofs, bridges, lamps, boats, and foreground structures;\nlooser broken lines and painterly abstraction toward the edges and background.\n\nCombine luminous cinematic lighting with watercolor transparency.\nUse layered washes of turquoise, cyan, deep blue, warm ochre, coral, terracotta, muted green, and soft cream.\nLet colors subtly bleed into one another rather than appearing as perfectly flat digital fills.\n\nAtmosphere should feel tropical, poetic, nostalgic, peaceful, slightly dreamlike, and cinematic.\n\nInclude strong foreground / middle-ground / background depth.\nUse reflections on water as loose, broken watercolor reflections rather than perfectly mirrored digital reflections.\nClouds should be volumetric and luminous but painted with soft watercolor masses and irregular edges.\nVegetation should alternate between identifiable tropical foliage and expressive abstract brushwork.\n\nSURFACE:\nfine cold-pressed watercolor paper texture,\nsubtle grain,\ntransparent pigment layers,\nink-and-wash marks,\ndry brush,\nsoft granulation,\noccasional paint splashes,\nslightly imperfect handmade edges.\n\nCOMPOSITION:\nvertical cinematic composition,\nstrong leading lines,\narchitectural focal point,\ndeep perspective,\ngenerous atmospheric space,\nbalanced negative space,\nbeautiful visual hierarchy,\nhigh-end editorial travel illustration.\n\nIMPORTANT:\nThe final result must look like a coherent NEW ART STYLE, not a collage and not a literal combination of the two references.\nAvoid photorealism.\nAvoid generic watercolor clip-art.\nAvoid overly clean vector art.\nAvoid excessive anime facial features.\nAvoid uniform line thickness.\nAvoid making every object equally detailed.",
+    "title": "Hybrid Architectural Watercolor Style",
+    "description": "A detailed prompt for generating a new visual style that fuses cinematic architectural illustration with expressive traditional watercolor and ink techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390905360_gnfbne_HSGfLicbAAAinOg.jpg",
+      "https://cms-assets.youmind.com/media/1789390905373_1syaka_HSGfLh7WsAQ4L8V.jpg",
+      "https://cms-assets.youmind.com/media/1789390905442_1yaqkx_HSGfLh3XAAgd9mc.jpg",
+      "https://cms-assets.youmind.com/media/1789390906130_k7skcj_HSGfLihaIAAo3MW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33379,
     "content": "Impressionist oil painting of a graceful young woman standing in a sunlit {argument name=\"location\" default=\"lavender and wildflower meadow\"}. She is wearing an off-the-shoulder, ruffled {argument name=\"dress color\" default=\"cream-white\"} sun dress with delicate, flowing layered fabric catching dappled sunlight. She has wavy brown hair styled in a loose, elegant low updo, gentle facial features, closed or soft-lidded eyes, subtle rosy cheeks, and small floral stud earrings. She gently holds a bouquet of wildflowers and lavender across her chest. Soft pastel color palette, warm golden sunlight, visible textured brushstrokes, romantic aesthetic, cinematic lighting, {argument name=\"artist style\" default=\"John Singer Sargent and Claude Monet\"} style --ar 9:16 --v 6.1",
     "title": "Impressionist Meadow Woman Portrait",

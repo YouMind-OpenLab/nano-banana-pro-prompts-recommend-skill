@@ -10,6 +10,48 @@
     "needReferenceImages": false
   },
   {
+    "id": 34662,
+    "content": "A high resolution photorealistic portrait of an elegant young woman with brunette hair styled in a high ponytail and soft front bangs posing in a modern art gallery She is wearing a tailored deep red blazer over a cream satin blouse looking at the camera with a subtle confident smile Her hand is delicately resting near her neck The background features a softly blurred, brightly lit luxury gallery hallway with abstract paintings on the wall and high end warm ambient studio lighting shallow depth of field 8k resolution, shot on 85mm lens photorealistic.",
+    "title": "Elegant Portrait in Art Gallery",
+    "description": "A prompt for generating a high-resolution photorealistic portrait of an elegant woman in a modern art gallery setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390903742_197zi1_HSJf2ouasAAwyBK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34664,
+    "content": "Create an ultra-photorealistic cinematic editorial portrait in vertical 9:16 using the uploaded photo as the exact identity reference. Preserve 100% facial features, proportions, age, skin tone, and natural details. No face swap, morphing, beautification, or artificial retouching.\n\nWoman standing in a slight three-quarter pose, chin gently raised, looking upward/sideways with a confident, thoughtful expression. Bare shoulders and collarbones visible, both hands softly touching the neck.\n\nLong, straight, glossy hair blown naturally by strong airflow, with a few strands across the face and realistic motion blur. Large sparkling chandelier earrings, with one earring showing subtle motion blur.\n\nEditorial soft-glam makeup: black eyeliner, long fox-eye lashes, natural contour, glowing realistic skin, peach-beige blush, beige-brown lipstick with a dusty pink undertone.\n\nWarm earthy studio atmosphere with deep browns, cream and golden tones. Dramatic cinematic low-key lighting combined with direct flash, realistic shadows and highlights.\n\nCamera: Canon EOS R6, 50mm, f/1.4, ISO 640, 1/125s, shallow depth of field, soft bokeh, RAW photography aesthetic, authentic analog film grain.\n\nNegative: plastic/porcelain skin, excessive smoothing, CGI, 3D render, cartoon, anime, distorted hands, extra fingers, blurry eyes, unnatural motion blur, overexposure, excessive HDR, AI artifacts",
+    "title": "Cinematic Editorial Portrait",
+    "description": "A prompt for creating an ultra-photorealistic cinematic editorial portrait preserving facial identity from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390903960_1uzb8x_HSGe6YmbMAAVlYq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34668,
+    "content": "A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16.",
+    "title": "South Asian Woman Shalwar Kameez",
+    "description": "A prompt for generating a photorealistic portrait of a young South Asian woman in traditional attire with golden embroidery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390906447_5axzft_HSEaEHEbsAE_sLw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34659,
+    "content": "Create a dreamy, cinematic autumn portrait of the girl from the reference image, preserving her facial identity, natural features, skin tone, and recognizable appearance. She is walking along a beautiful European-style tree-lined street in peak fall, surrounded by golden, burnt-orange and deep amber foliage. She wears a cozy oversized chocolate-brown knit sweater over a soft cream flowing mini dress, with subtle ankle boots and a small leather shoulder bag.\n\nShe holds a large, romantic bouquet of autumn flowers—burnt-orange roses, chrysanthemums, dried wildflowers, eucalyptus, and maple leaves—partially covering the lower half of her face. A few loose strands of hair move naturally in the cool breeze.\n\nWarm café lights glow softly behind her, fallen leaves cover the pavement, vintage street lamps line the sidewalk, and the background fades into beautiful creamy bokeh. Golden-hour autumn light, warm muted earthy tones, soft film grain, editorial fashion photography, natural skin texture, realistic fabric details, shallow depth of field, intimate romantic atmosphere, candid luxury travel-magazine aesthetic.\n\nComposition: full-body vertical portrait, girl slightly off-center, bouquet as a strong foreground element, natural walking pose, cinematic depth, elegant but effortless.\n\nAspect ratio: 4:5\nMood: cozy • romantic • nostalgic • dreamy • effortlessly beautiful\nNo text, no watermark, no exaggerated makeup, no plastic skin, no distorted hands.",
+    "title": "Autumn Flower Walk Portrait",
+    "description": "A detailed prompt for generating a cinematic autumn portrait of a girl walking through a tree-lined street, preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789390901607_qyzmn6_HSEGagDbQAAnULj.jpg",
+      "https://cms-assets.youmind.com/media/1789390901619_5y94yj_HSEGaf_bsAAiWfk.jpg",
+      "https://cms-assets.youmind.com/media/1789390900150_wisxh9_HSEGagGa8AAnaC_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34457,
     "content": "streetwear portrait on a {argument name=\"color\" default=\"red\"} background, {argument name=\"clothing\" default=\"black puffer jacket, white cargo pants\"}, red studio background, black-white contrast on saturated red, {argument name=\"pose\" default=\"hands in pockets pose\"}",
     "title": "Streetwear Portrait on Red Background",
