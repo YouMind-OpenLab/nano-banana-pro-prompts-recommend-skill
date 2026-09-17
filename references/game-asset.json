@@ -1,5 +1,18 @@
 [
   {
+    "id": 34749,
+    "content": "Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.\nar 9:16!",
+    "title": "Modern Comic Book Illustration Style",
+    "description": "A prompt for generating modern comic-book illustrations with bold lines, cel-shading, and heroic proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789626884271_6g72k5_HSUOklcXQAACy5l.jpg",
+      "https://cms-assets.youmind.com/media/1789626884289_u0tdbx_HSUOklWWAAEI8_e.jpg",
+      "https://cms-assets.youmind.com/media/1789626884276_vdt1q5_HSUOklbWQAAnTUD.jpg",
+      "https://cms-assets.youmind.com/media/1789626885256_sp1srg_HSUOkleWsAAtaYI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34452,
     "content": "{\n  \"title\": \"{argument name=\"title\" default=\"Cyberpunk Detective\"}\",\n\n  \"image_description\": \"{argument name=\"description\" default=\"A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.\"}\",\n\n  \"characters\": [\n    {\n      \"role\": \"Futuristic Detective\",\n      \"position\": \"Driver's Seat\",\n      \"appearance\": \"Handsome, serious expression, heavy dark coat\",\n      \"focus\": \"Sharp Focus\"\n    },\n    {\n      \"role\": \"Mysterious Woman\",\n      \"position\": \"Passenger Seat\",\n      \"appearance\": \"Dark hair, glowing translucent yellow jacket\",\n      \"expression\": \"Quietly observing the detective\",\n      \"focus\": \"Slightly softer focus\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"Futuristic Vehicle Interior\",\n    \"cityscape\": \"Foggy cyberpunk megacity\",\n    \"background_elements\": [\n      \"Flying vehicles\",\n      \"Neon billboards\",\n      \"Rain-covered glass\",\n      \"Holographic lights\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"Medium Close-Up\",\n    \"camera_angle\": \"Eye Level\",\n    \"lens\": \"50mm Anamorphic Lens\",\n    \"depth_of_field\": \"Shallow\",\n    \"composition\": \"Movie Still\"\n  },\n\n  \"lighting\": {\n    \"type\": \"Cinematic Lighting\",\n    \"effects\": [\n      \"Neon Reflections\",\n      \"Volumetric Lighting\",\n      \"Rain Refractions\",\n      \"Soft Ambient Glow\"\n    ]\n  },\n\n  \"mood\": [\n    \"Moody\",\n    \"Mysterious\",\n    \"Futuristic\",\n    \"Emotional\"\n  ],\n\n  \"color_palette\": [\n    \"Blue\",\n    \"Cyan\",\n    \"Yellow\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Hollywood Blockbuster\",\n    \"realism\": \"Ultra Photorealistic\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"Perfect Reflections\",\n      \"Photorealistic Faces\",\n      \"Film Grain\",\n      \"Volumetric Fog\",\n      \"Realistic Depth of Field\",\n      \"Award-Winning Cinematography\",\n      \"IMAX Quality\",\n      \"Cinematic Storytelling\",\n      \"Masterpiece\"\n    ]\n  }\n}",
     "title": "Cyberpunk Detective Movie Still",
