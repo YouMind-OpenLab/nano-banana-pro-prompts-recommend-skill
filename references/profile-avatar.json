@@ -10,12 +10,22 @@
     "needReferenceImages": false
   },
   {
-    "id": 34921,
-    "content": "A boy (first reference image), is the main subject. He is wearing a white blue strap hoodie, sunglasses, He is positioned slightly off-center to the left, with his head tilted down, gazing thoughtfully. right hand is raised, with his index finger touching his eye. The background is softly blueish blurred, showing an out-of-focus outdoor setting with warm same as this reference image real face 100% original.",
-    "title": "Boy in Hoodie Reference Image Prompt",
-    "description": "A prompt instructing the model to generate an image of a boy wearing a white blue strap hoodie and sunglasses, based on a provided reference image, maintaining original facial features.",
+    "id": 35001,
+    "content": "Cinematic portrait restoration. Strictly preserve original pose, expression, and composition. Add warm golden-hour side lighting casting a defined, dramatic shadow on the wall behind. Upscale to Ultra-HD: sharpen details, enhance realistic skin texture, and reduce noise. Mood: Mysterious, high-contrast, warm highlights, deep shadows, photorealistic.",
+    "title": "Cinematic Portrait Restoration Prompt",
+    "description": "A prompt for restoring old or damaged portraits into high-definition cinematic images with warm lighting and realistic skin textures using Nano Banana Pro.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789713174987_6z4mtn_HSeB3nCaAAAN7ig.jpg"
+      "https://cms-assets.youmind.com/media/1789799323277_u9t7fy_HSfFbJpaYAA7Iok.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34921,
+    "content": "A boy (first reference image), is the main subject. He is wearing a {argument name=\"clothing\" default=\"white blue strap hoodie\"}, {argument name=\"accessories\" default=\"sunglasses\"}. He is positioned slightly off-center to the left, with his head tilted down, gazing thoughtfully. right hand is raised, with his index finger touching his eye. The background is softly {argument name=\"background_color\" default=\"blueish blurred\"}, showing an out-of-focus outdoor setting with warm same as this reference image real face 100% original.",
+    "title": "Boy in Hoodie Portrait Prompt for Image Models",
+    "description": "A specific image generation prompt for creating a portrait of a boy wearing a white-blue strap hoodie and sunglasses, positioned off-center with a thoughtful gaze, based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789799324473_cop5ao_HSeB3nCaAAAN7ig.jpg"
     ],
     "needReferenceImages": true
   },
@@ -28,6 +38,16 @@
       "https://cms-assets.youmind.com/media/1789713175117_kyriuj_HSdrviFboAEjhC4.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34923,
+    "content": "URE Ultra-realistic collage portrait of a stylish young Indian woman, brown satin shirt, beige wide-leg pants, white platform sandals, long straight black hair, soft smile, standing full-body pose with monochrome candid close-ups wearing sunglasses",
+    "title": "Ultra-realistic Indian Woman Collage Portrait",
+    "description": "Generates a stylish collage portrait of an Indian woman in specific attire with monochrome close-ups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789799324737_qp2t2r_HSaZYoLbEAAQ72o.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 34837,
