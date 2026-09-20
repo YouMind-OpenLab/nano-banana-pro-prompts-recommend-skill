@@ -10,6 +10,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 35053,
+    "content": "Create a stylish modern portrait of an {argument name=\"age\" default=\"18year old\"} {argument name=\"gender\" default=\"boy\"}. With 100% Same face as in reference. Hair is voluminous. Wearing A {argument name=\"shirt_color\" default=\"Red\"} shirt black paint. With Silver Smartwatch, A black golden framing, and Silver chain necklace bracelets. Background is urban Soft, Minimal, and subtly blurred to contemporary fashion-forward vibe. Cinematic lighting, ultra-detailed, Realistic textures, sitting look (full photo) walking past and turning back to look. He wears white shirt",
+    "title": "Stylish Modern Portrait Prompt",
+    "description": "A detailed prompt for creating a stylish modern portrait of an 18-year-old boy with specific clothing and background instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885865583_xcnnu4_HSjlEl3b0AAngVs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35050,
+    "content": "A highly detailed, photorealistic portrait of a young woman relaxing outdoors. She has a youthful face with light skin and a natural dusting of freckles across her nose and cheeks. She has warm brown eyes, natural minimal makeup, and a gentle, genuine smile showing her upper teeth. Her hair is straight, fine, light brown, neatly parted down the middle, and falls just below her collarbone. She is wearing a deep teal-blue, form-fitting one-piece swimsuit with a V-neckline and thin spaghetti straps. She is sitting in a relaxed, slightly reclined pose on a beige mesh outdoor patio lounge chair. The background features a modern patio with smooth, light grey concrete flooring and a plain white wall lined with assorted potted plants, including succulents and a small cactus. The lighting is bright, soft, natural daylight, creating a candid, everyday lifestyle photography aesthetic. 9:16 vertical aspect ratio.",
+    "title": "Swimsuit Portrait Model Comparison",
+    "description": "A comparison of ChatGPT Image 2, Grok Imagine, and Gemini Nano Banana 2 using a detailed swimsuit portrait prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885863844_swrhic_HSi-CzPa0AACVp9.jpg",
+      "https://cms-assets.youmind.com/media/1789885863848_xdptsc_HSi-CzNa4AEXgQi.jpg",
+      "https://cms-assets.youmind.com/media/1789885863942_fwp4rv_HSi-CzObUAEkw-W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35052,
+    "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.  \nFace: keep the exact same person as the reference picture. Format:\nCreate a highly realistic full-body to three-quarter portrait of a 17-year-old boy using the uploaded reference image as the exact facial identity reference. Keep the face 100% unchanged, including facial features, face shape, hairstyle, skin tone, and natural appearance. He is wearing a premium deep red full-sleeve button-up shirt with the sleeves slightly rolled up, paired with black trousers. Add a simple silver chain and stylish rectangular black/silver-frame sunglasses. His hair is thick, voluminous dark brown-black hair, neatly styled with a clean side sweep, lifted front, and naturally tapered sides. He is standing in a relaxed, confident attitude pose with one hand in his pocket and his body slightly turned toward the camera. Background is a dark rustic outdoor/indoor setting with a wooden doorway and subtle blurred details. Warm cinematic lighting focused naturally on the subject, realistic shadows, detailed shirt texture and folds, natural skin texture, sharp face, shallow depth of field, profession",
+    "title": "Realistic Full-Body Portrait Prompt",
+    "description": "A prompt for generating a realistic full-body or three-quarter portrait of a teenage boy based on a reference photo, specifying clothing (red shirt, black trousers), accessories, pose, and lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885865299_fmzaxd_HSiyhEkaAAAtgMU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35001,
     "content": "Cinematic portrait restoration. Strictly preserve original pose, expression, and composition. Add warm golden-hour side lighting casting a defined, dramatic shadow on the wall behind. Upscale to Ultra-HD: sharpen details, enhance realistic skin texture, and reduce noise. Mood: Mysterious, high-contrast, warm highlights, deep shadows, photorealistic.",
     "title": "Cinematic Portrait Restoration Prompt",

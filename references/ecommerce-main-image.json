@@ -1,5 +1,15 @@
 [
   {
+    "id": 35049,
+    "content": "Analyze the product and create a high-resolution, photorealistic, professional advertising reference sheet containing these four sections, on a clean white/neutral studio background, premium commercial product photography, soft controlled lighting, realistic materials, sharp details, subtle shadows, and a professional editorial grid.\n1. PRODUCT OVERVIEW; name, category, materials, dimensions/size, key features, and brand colors.\n2. PRODUCT USAGE/HERO VIEWS - front, back, side, 3/4, and functional/use view where relevant.\n3. PRODUCT CLOSE-UPS - logo/label, texture/material, key components, packaging details, and other important identifying features.\n4. PACKAGING / CONSTRUCTION - relevant packaging or structural views where applicable. \nThe entire sheet must function as a visual continuity bible for AI image/video production. Every product view must depict the exact same physical product with absolute consistency. Do not redesign, add variants, alter branding, or change proportions. Use cean typography, clear section labels, thin dividers, balanced spacing, sophisticated production-design aesthetic.",
+    "title": "Product Reference Sheet Workflow",
+    "description": "A detailed prompt and workflow for creating professional advertising reference sheets for products using Nano Banana.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885863707_jbcusb_HSmZa1AWsAEcqd1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34120,
     "content": "Editorial fashion photograph of a young man with {argument name=\"hair style\" default=\"tousled dark wavy hair\"}, tan olive skin, defined jawline, short stubble beard and mustache, thick dark eyebrows, brown eyes, wearing dark sunglasses pushed slightly down. He wears a {argument name=\"shirt color\" default=\"maroon\"} short-sleeve polo shirt tucked into wide-leg cream/off-white trousers with a brown braided leather belt, and brown tassel loafers. He stands in profile, leaning forward with one hand resting on the seat of a wooden bar stool, head tilted downward. Plain soft neutral gray studio background, soft even studio lighting, minimalist high-end fashion campaign aesthetic, shot on medium format camera, shallow depth of field, clean commercial look.",
     "title": "Editorial Fashion Portrait of a Young Man",

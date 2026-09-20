@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 35048,
+    "content": "Photorealistic cinematic Indian male fashion collage, stylish middle-aged man with salt-and-pepper hair and light stubble, wearing a light blue linen shirt, beige trousers and white sneakers, sunglasses. Full-body central pose with two large close-up portraits behind him, dramatic splashing water waves and droplets surrounding the subject, dark gray studio background, glossy wet floor reflections, cool cinematic lighting, premium commercial photography, ultra-detailed, 4K, vertical 4:5.",
+    "title": "Cinematic Indian Male Fashion Collage Prompt",
+    "description": "A prompt for generating a photorealistic cinematic fashion collage of an Indian male model with dramatic water effects and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885862478_2ts90e_HSoauRaaIAAcCHi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34842,
     "content": "An illustration of a wedding on the streets of Hong Kong — a candid in-between moment, not a posed key visual.\n\n[PEOPLE]\nUse the uploaded character image(s) as reference. Keep each character's hair, eyes and face exactly. Match the art style of the upload and apply it to the whole picture — people, buildings, vehicles, signage. Same linework, same shading, same colour. Never photographic.\n\n[STYLING]\nBride — black cat-eye sunglasses, white tiered ruffle organza dress with sheer puff sleeves, a short tulle veil lifting in the wind, chunky black boots. Laughing. She holds a loose bunch of long-stem magenta lilies.\nGroom — black rectangular sunglasses, dark brown leather jacket, black wide-leg trousers, black boots. Not smiling.\n\n[SCENE]\nThey cross a downtown intersection hand in hand, the groom half a step ahead, her veil blown sideways. Behind them: pink, mint and yellow tong lau blocks, window grilles, aircon units, Chinese shop signs, tram wires. A red taxi passes. Thick yellow road markings.\n\n[LOOK]\nHarsh early-afternoon sun. Lit and shadowed areas split with a crisp edge — no soft even glow, no airbrushed gradients. Draw the background in full detail, crisp all the way back, no blur or haze.\nKeep them small and off-centre, and leave the street messy: passersby, scooters, shop signs, hanging laundry.\nVertical 3:4, no watermark. A drawing, not a photograph.\n\n[LETTERING]\nAcross the lower third, centred: \"{argument name=\"text input\" default=\"Text Input\"}\" in a thin, wide-tracked white sans-serif, spelled exactly. Below it two centred lines of very small white serif text. Flat and clean, no shadow or box.",
     "title": "Hong Kong Wedding Snap Prompt",

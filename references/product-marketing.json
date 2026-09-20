@@ -21,6 +21,56 @@
     "needReferenceImages": true
   },
   {
+    "id": 35048,
+    "content": "Photorealistic cinematic Indian male fashion collage, stylish middle-aged man with salt-and-pepper hair and light stubble, wearing a light blue linen shirt, beige trousers and white sneakers, sunglasses. Full-body central pose with two large close-up portraits behind him, dramatic splashing water waves and droplets surrounding the subject, dark gray studio background, glossy wet floor reflections, cool cinematic lighting, premium commercial photography, ultra-detailed, 4K, vertical 4:5.",
+    "title": "Cinematic Indian Male Fashion Collage Prompt",
+    "description": "A prompt for generating a photorealistic cinematic fashion collage of an Indian male model with dramatic water effects and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885862478_2ts90e_HSoauRaaIAAcCHi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35049,
+    "content": "Analyze the product and create a high-resolution, photorealistic, professional advertising reference sheet containing these four sections, on a clean white/neutral studio background, premium commercial product photography, soft controlled lighting, realistic materials, sharp details, subtle shadows, and a professional editorial grid.\n1. PRODUCT OVERVIEW; name, category, materials, dimensions/size, key features, and brand colors.\n2. PRODUCT USAGE/HERO VIEWS - front, back, side, 3/4, and functional/use view where relevant.\n3. PRODUCT CLOSE-UPS - logo/label, texture/material, key components, packaging details, and other important identifying features.\n4. PACKAGING / CONSTRUCTION - relevant packaging or structural views where applicable. \nThe entire sheet must function as a visual continuity bible for AI image/video production. Every product view must depict the exact same physical product with absolute consistency. Do not redesign, add variants, alter branding, or change proportions. Use cean typography, clear section labels, thin dividers, balanced spacing, sophisticated production-design aesthetic.",
+    "title": "Product Reference Sheet Workflow",
+    "description": "A detailed prompt and workflow for creating professional advertising reference sheets for products using Nano Banana.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885863707_jbcusb_HSmZa1AWsAEcqd1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35047,
+    "content": "Ultra-realistic lifestyle fashion portrait of a young woman sitting casually on a white rectangular cube against a soft dusty-pink studio background. She has naturally tousled dark brown hair loosely tied up, with a few soft strands framing her face, subtle natural makeup, small hoop earrings and delicate layered gold necklaces. She wears an oversized washed-black cropped sweatshirt, relaxed dusty-pink cargo pants, and clean white low-top sneakers. She sits cross-legged with both arms raised, hands gently resting behind her head, looking slightly to the side with a soft natural smile and relaxed expression. Warm sunlight enters from the side, creating realistic window-frame shadows on the pink wall and subtle shadows on the floor. Editorial streetwear aesthetic, soft warm lighting, natural skin texture, realistic fabric details, candid pose, 4K photorealism, shallow depth of field, clean minimalist composition, vertical portrait.",
+    "title": "Ultra-realistic Lifestyle Fashion Portrait",
+    "description": "A detailed prompt for creating an ultra-realistic lifestyle fashion portrait of a young woman in streetwear attire using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885860900_z8xeji_HSlcnuqbYAAfRJT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35051,
+    "content": "Use the uploaded image as the exact visual reference. Recreate the same woman with maximum identity and composition consistency.\n\nA highly photorealistic luxury fashion editorial portrait of an elegant young adult woman with light green-gray eyes, refined facial features, sculpted cheekbones, natural warm fair skin, defined eyebrows, and full deep burgundy lips. Preserve the exact facial proportions and overall appearance from the reference.\n\nHer hair is deep burgundy/wine brown, styled in polished vintage Hollywood waves, with glossy sculpted curls framing both sides of her face. She wears a sophisticated deep burgundy tailored blazer with structured shoulders, wide lapels, and subtle puffed sleeves, paired with delicate gold hoop earrings and a thin gold necklace.\n\nPose & composition: close-up fashion portrait, head and shoulders visible, body slightly angled, face turned toward the camera, confident calm expression, direct eye contact. Keep the same framing and proportions as the reference.\n\nBackground: clean minimal warm-white/off-white studio backdrop.\n\nLighting: soft luxury beauty lighting, gentle directional highlights on the face and hair, subtle natural shadows, dimensional skin, polished editorial atmosphere.\n\nCamera: professional 85mm portrait lens, shallow depth of field, sharp eyes, realistic skin pores, individual hair strands, physically accurate fabric texture, high dynamic range, premium fashion magazine photography, ultra-realistic, cinematic detail, 8K quality.\n\nNegative Prompt: distorted face, changed facial proportions, asymmetrical eyes, plastic skin, excessive retouching, blurry eyes, extra fingers, extra jewelry, text, logo, watermark, CGI appearance, artificial skin, oversaturated colors.",
+    "title": "Luxury Fashion Editorial Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic luxury fashion editorial portrait using an uploaded reference image, focusing on identity consistency and specific styling details like burgundy waves and tailored blazer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885864408_i2nv7u_HSlb7DUbUAAJQhw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35046,
+    "content": "Dramatic waist-up portrait of a pensive girl in the dim light of a studio. She's wearing a simple black turtleneck made of fine cashmere. Hairstyle: smooth high pony, heavily slicked back. Makeup is bold: graphic eyeliner with liquid liner, smoky shadows with silver glitter in the inner corner of the eye, pale matte lipstick. A narrow beam of hard light catches only half of her face, creating deep contrast shadows. Black and white photography, graininess, atmosphere of a 90s film portrait.",
+    "title": "Dramatic Black and White Portrait Prompt",
+    "description": "A prompt for creating a dramatic waist-up portrait of a girl with bold makeup and hard lighting in black and white.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789885862336_rc1oyy_HSekZ7ZagAAsGN-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34927,
     "content": "{\n  \"camera\": {\n    \"shot_type\": \"Raw photo\",\n    \"shutter_speed\": \"1/250 sec\",\n    \"aperture\": \"f/11\",\n    \"iso\": 400,\n    \"focal_length\": \"35mm\",\n    \"sensor_type\": \"Full-frame\",\n    \"color_profile\": \"Linear RAW\"\n  },\n  \"scene_setup\": {\n    \"lighting\": \"Neutral overhead LED strip lighting, high CRI, no softboxes, no diffusion\",\n    \"depth_of_field\": \"Deep depth of field, all elements sharp from foreground to background\",\n    \"environment\": \"Industrial machine shop and engineering workspace, high clarity, no atmospheric haze\"\n  },\n  \"subject_details\": {\n    \"subject\": \"{argument name=\"subject\" default=\"Female technician\"}\",\n    \"appearance\": \"Natural skin texture, high detail, no skin smoothing filter\",\n    \"attire\": \"{argument name=\"attire\" default=\"Dark denim work jacket, texture and weave clearly visible, US flag patch, Aero-Form logo\"}\",\n    \"action\": \"{argument name=\"action\" default=\"Measuring complex mechanical assembly with digital caliper, high detail on tools and hands\"}\"\n  },\n  \"background_elements\": {\n    \"tools\": \"Snap-on tool chest with organized socket set, crisp focus on all tools\",\n    \"machinery\": \"CNC lathe, sharp text and branding on machine body\",\n    \"documents\": \"Corkboard with sharp, legible blueprint details and notes; stack of binders with clear text on covers\",\n    \"safety\": \"Fire extinguisher with clear, legible text on label\"\n  },\n  \"technical_aesthetics\": {\n    \"focus\": \"Critical focus across the entire frame, edge-to-edge sharpness\",\n    \"texture\": \"Pronounced metal grain, fabric texture, and wood grain without aggressive noise reduction\",\n    \"colors\": \"Natural, unprocessed color balance, full dynamic range, accurate skin tones\"\n  }\n}",
     "title": "Hyper-Realistic Industrial Technician Photo Prompt",
