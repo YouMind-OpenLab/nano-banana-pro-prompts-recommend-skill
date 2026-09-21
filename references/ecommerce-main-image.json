@@ -1,5 +1,17 @@
 [
   {
+    "id": 35099,
+    "content": "Use the facial features from the uploaded reference image. A full-body portrait of a young woman ({argument name=\"age_range\" default=\"23–27 years old\"}, European appearance, lightly tanned skin with soft bronze undertones, expressive eyes, natural facial expression), sitting in a minimalist photo studio with a seamless light gray cyclorama background. Soft, even lighting from a large softbox upper-left (45°) with fill light lower-right, creating gentle shadows under the chin and legs. Medium-full framing (from knees to top of head), slightly low eye-level perspective (~100 cm), 85 mm lens at f/2.0, shallow depth of field — face and body in sharp focus, softly blurred background. Camera angle 30° to the left-front, chair turned sideways toward the camera. Pose: sitting on a metallic folding chair with red seat and backrest, torso slightly leaning forward, left hip on chair edge, right leg extended forward, left knee bent, right hand raised to touch hair near temple, left hand resting naturally on thigh, head turned toward camera, calm confident look, faint natural smile. Wardrobe: glossy red cropped leather bomber jacket with white sporty appliqués (including “3”), unzipped, worn loosely; white cotton bodysuit with bold red DIESEL logo band at waist; white mid-calf socks with red stripe; red high-heeled sandals with thin ankle straps (~12 cm). Fashion editorial style, confident and modern. Ultra-realistic studio photo, 8K RAW quality, sharp focus on eyes and skin texture, natural pores and micro-details, subtle highlights on skin from studio lights, metallic reflections on chair and jacket, warm skin tone, high-contrast red accents.",
+    "title": "Nano Banana Pro Studio Portrait Prompt",
+    "description": "A detailed prompt for generating a realistic studio portrait of a woman in red fashion attire using Nano Banana Pro (GPT Image 2), focusing on lighting, pose, and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973008045_1a6l1t_HSkm3_0aIAAknFX.jpg",
+      "https://cms-assets.youmind.com/media/1789973006635_3yt4bu_HSkm5YCaIAAZvk4.jpg",
+      "https://cms-assets.youmind.com/media/1789973008025_2xgo4b_HSkm6_5agAAMdtm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35049,
     "content": "Analyze the product and create a high-resolution, photorealistic, professional advertising reference sheet containing these four sections, on a clean white/neutral studio background, premium commercial product photography, soft controlled lighting, realistic materials, sharp details, subtle shadows, and a professional editorial grid.\n1. PRODUCT OVERVIEW; name, category, materials, dimensions/size, key features, and brand colors.\n2. PRODUCT USAGE/HERO VIEWS - front, back, side, 3/4, and functional/use view where relevant.\n3. PRODUCT CLOSE-UPS - logo/label, texture/material, key components, packaging details, and other important identifying features.\n4. PACKAGING / CONSTRUCTION - relevant packaging or structural views where applicable. \nThe entire sheet must function as a visual continuity bible for AI image/video production. Every product view must depict the exact same physical product with absolute consistency. Do not redesign, add variants, alter branding, or change proportions. Use cean typography, clear section labels, thin dividers, balanced spacing, sophisticated production-design aesthetic.",
     "title": "Product Reference Sheet Workflow",

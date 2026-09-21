@@ -10,6 +10,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 35100,
+    "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent. Face: keep the exact same person as the reference picture. Format: The image promt A photorealistic portrait of a handsome 17-year-old man with thick, voluminous styled dark hair and a gentle, confident smile, looking directly at the camera. He is wearing a tailored, light beige three-piece suit consisting of an open jacket, a matching waistcoat with brown buttons, and a crisp white collared shirt with the top button undone. He is sitting relaxed on a luxurious deep red tufted velvet sofa, with one hand resting gracefully on the armrest and the other on his lap. To his side are brightly colored, patterned throw pillows featuring purple and blue accents. The background is a softly blurred, elegant indoor setting with warm, cinematic lighting, hinting at rich drapery and golden architectural details with a beautiful bokeh effect. 8k resolution, professional portrait photography, hyper-realistic, sharp focus on the subject's face, vibrant and rich colors. KEEP ORIGINAL FACE AND HAIRSTYLE 100% REFERENCE",
+    "title": "Face Swap/Portrait Prompt for Nano Banana Pro",
+    "description": "A step-by-step guide and prompt for keeping original facial features while generating a new portrait scenario using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973009449_6h3000_HStFQvUaQAA9U-S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35104,
+    "content": "Create a hyper-realistic luxury beauty portrait using the uploaded reference image as the exact facial identity reference. Preserve the same face, facial proportions, eye shape and color, eyebrows, nose, lips, jawline, freckles, skin tone, and distinctive facial characteristics. Do not change or beautify the identity.\n\nA striking woman wears bold silver hoop earrings, natural hair a layered silver neck ring, multiple sculptural silver rings, long metallic chrome almond-shaped nails, and a black leather fingerless glove with silver studs. Her hands are elegantly crossed over her upper chest.\n\nDramatic high-fashion beauty editorial, straight-on close-up portrait, direct eye contact with the camera, confident calm expression. Smoky black eye makeup, long defined eyelashes, precisely shaped eyebrows, glossy deep brown-plum lips, natural visible freckles across the nose and cheeks. Smooth but realistic skin texture with visible pores and fine details.\n\nClean pure-white studio background, soft diffused frontal beauty lighting with subtle shadows, perfectly balanced exposure, crisp facial details, luxurious monochrome black-and-silver styling, sophisticated avant-garde fashion magazine aesthetic, photorealistic professional studio photography, 85mm portrait lens, shallow depth of field, ultra-detailed, high resolution, vertical 4:5 composition.\n\nIDENTITY LOCK: The uploaded reference image controls the face. Keep the exact same person throughout. Preserve facial geometry and recognizable features precisely. No face swapping artifacts, no identity drift, no facial redesign.\n\nNegative prompt: different face, altered identity, changed eye color, changed facial proportions, different nose, different lips, different jawline, missing freckles, excessive skin smoothing, beauty filter, plastic skin, asymmetrical face, distorted hands, extra fingers, missing fingers, malformed nails, duplicate jewelry, warped accessories, blurry face, CGI, cartoon, anime, illustration, low resolution, text, watermark, logo.",
+    "title": "Luxury Beauty Portrait Prompt for Nano Banana Pro",
+    "description": "A prompt for generating a hyper-realistic luxury beauty portrait with identity lock instructions, suitable for image-to-image generation in Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973011717_vealsa_HSqkUYnagAA8dO2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35101,
+    "content": "Ultra-photorealistic luxury portrait of the reference woman wearing a beige gathered halter blouse, striped black-and-white satin headscarf, round tortoiseshell glasses, and gold hoop earrings. Long silky dark-brown hair, glowing model-like skin, natural makeup, calm confident expression, soft gray studio background, diffused beauty lighting, realistic skin texture, 85mm lens, high-end fashion photography, 4:5. FACE LOCK — preserve exact facial identity, no distortion or identity drift.",
+    "title": "Luxury Portrait Prompt for Nano Banana Pro",
+    "description": "A high-quality prompt for generating an ultra-photorealistic luxury portrait of a woman wearing specific clothing and accessories, emphasizing face lock and realistic skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973010020_qjczds_HSldfHDakAAqKeB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35053,
     "content": "Create a stylish modern portrait of an {argument name=\"age\" default=\"18year old\"} {argument name=\"gender\" default=\"boy\"}. With 100% Same face as in reference. Hair is voluminous. Wearing A {argument name=\"shirt_color\" default=\"Red\"} shirt black paint. With Silver Smartwatch, A black golden framing, and Silver chain necklace bracelets. Background is urban Soft, Minimal, and subtly blurred to contemporary fashion-forward vibe. Cinematic lighting, ultra-detailed, Realistic textures, sitting look (full photo) walking past and turning back to look. He wears white shirt",
     "title": "Stylish Modern Portrait Prompt",
@@ -759,11 +789,12 @@
   },
   {
     "id": 32843,
-    "content": "A candid, high-resolution raw film photograph, based on image_1.png, featuring the young woman with dark hair curled playfully in the vintage brown leather armchair. The scene retains her core pose and pastel pink sweatsuit, but all background elements are rendered in sharp focus. ONLY change: the outfit color is modified to a {argument name=\"outfit color\" default=\"pastel pink\"} sweatsuit, while preserving the exact same fabric texture, folds, stitching, shading, and fit with no redesign or alteration of style. The detailed leather chair, with its ornate starburst-patterned stitching, shows clear grain and texture. The adjacent wooden side desk with the vintage analog camera and stack of film negative strips is perfectly sharp, revealing intricate details on the lens and paper edges. The curtains are distinct. On the right-hand wall, replace the previous detailed data plaque entirely with a clean, precise, legible metallic plaque that simply reads '{argument name=\"plaque text\" default=\"NOAH\"}' in sharp engraved lettering with realistic metallic reflections. Subtle natural film grain is present throughout the entire deep-focus scene, emphasizing a raw, archival photograph aesthetic without any visual blur.",
-    "title": "Vintage Character Film Restoration",
-    "description": "An image transformation prompt that modifies outfit color to pink while maintaining raw film grain and detailed background textures.",
+    "content": "A candid, high-resolution raw film photograph, based on image_1.png, featuring the young woman with dark hair curled playfully in the vintage brown leather armchair. The scene retains her core pose and pastel pink sweatsuit, but all background elements are rendered in sharp focus. ONLY change: the outfit color is modified to a pastel pink sweatsuit, while preserving the exact same fabric texture, folds, stitching, shading, and fit with no redesign or alteration of style. The detailed leather chair, with its ornate starburst-patterned stitching, shows clear grain and texture. The adjacent wooden side desk with the vintage analog camera and stack of film negative strips is perfectly sharp, revealing intricate details on the lens and paper edges. The curtains are distinct. On the right-hand wall, replace the previous detailed data plaque entirely with a clean, precise, legible metallic plaque that simply reads '{argument name=\"plaque_text\" default=\"NOAH\"}' in sharp engraved lettering with realistic metallic reflections. Subtle natural film grain is present throughout the entire deep-focus scene, emphasizing a raw, archival photograph aesthetic without any visual blur.",
+    "title": "Pink Sweats Portrait with Metallic Plaque",
+    "description": "A prompt for generating a high-resolution film photograph of a woman in pink sweats sitting in a vintage leather armchair, featuring a specific metallic plaque text.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787985291840_lhw55b_HQ0XP7QaMAAnLgu.jpg"
+      "https://cms-assets.youmind.com/media/1789973012293_n8k01a_HQ0XP7QaMAAnLgu.jpg",
+      "https://cms-assets.youmind.com/media/1789973012281_fjbp9m_HQ0XQiAbQAMHM1X.jpg"
     ],
     "needReferenceImages": true
   },

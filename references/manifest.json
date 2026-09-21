@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-21T04:24:12.029Z",
-  "totalPrompts": 15670,
+  "updatedAt": "2026-09-21T18:07:53.697Z",
+  "totalPrompts": 15678,
   "categories": [
     {
       "slug": "profile-avatar",
       "title": "Profile / Avatar",
       "file": "profile-avatar.json",
-      "count": 2099
+      "count": 2102
     },
     {
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9737
+      "count": 9746
     },
     {
       "slug": "infographic-edu-visual",
@@ -36,13 +36,13 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5712
+      "count": 5716
     },
     {
       "slug": "ecommerce-main-image",
       "title": "E-commerce Main Image",
       "file": "ecommerce-main-image.json",
-      "count": 576
+      "count": 577
     },
     {
       "slug": "game-asset",

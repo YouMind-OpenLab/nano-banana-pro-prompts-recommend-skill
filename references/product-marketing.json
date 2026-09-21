@@ -21,12 +21,55 @@
     "needReferenceImages": true
   },
   {
+    "id": 35102,
+    "content": "Ultra-realistic lifestyle fashion portrait of a young woman sitting casually on a white rectangular cube against a soft dusty-pink studio background. She has naturally tousled dark brown hair loosely tied up, with a few soft strands framing her face, subtle natural makeup, small hoop earrings and delicate layered gold necklaces. She wears an oversized washed-black cropped sweatshirt, relaxed dusty-pink cargo pants, and clean white low-top sneakers.\n\nShe sits cross-legged with both arms raised, hands gently resting behind her head, looking slightly to the side with a soft natural smile and relaxed expression. Warm sunlight enters from the side, creating realistic window-frame shadows on the pink wall and subtle shadows on the floor. Editorial streetwear aesthetic, soft warm lighting, natural skin texture, realistic fabric details, candid pose, 4K photorealism, shallow depth of field, clean minimalist composition, vertical portrait.",
+    "title": "Lifestyle Fashion Portrait Prompt",
+    "description": "A detailed prompt for creating an ultra-realistic lifestyle fashion portrait of a young woman in streetwear against a pink studio background with window shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35097,
+    "content": "A hyper-realistic studio photo of a stylish woman standing on one leg in a graceful, balanced pose, holding a festive bouquet of fir branches decorated with red berries and small red bows. She wears a black oversized blazer, red opaque tights, and black high heels. Her long hair is sleek and straight, with elegant makeup that preserves all facial details from the reference: natural skin texture, precise contouring, expressive eyes, and defined features. Lighting: dramatic studio spotlight from above and slightly to the side, creating a soft shadow behind her on a neutral grey background, with realistic falloff and natural reflections on fabric and skin. The bouquet has rich texture — detailed needles, matte paper wrap, vivid red accents. Ultra-realistic details, crisp textures, natural fabric folds, accurate cast shadows, smooth gradients, high-end fashion editorial style. Camera: 85mm lens, f/2.8, ISO 100, studio photography, sharp focus on the model and bouquet, shallow depth of field.",
+    "title": "Fashion Editorial Bouquet Photo Prompt",
+    "description": "A prompt for generating a hyper-realistic studio photo of a stylish woman holding a festive bouquet, emphasizing fabric textures and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973008017_tj8yd8_HSkkqOpaUAAcObB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35103,
+    "content": "{\n  \"vibe_title_en\": \"Ruby Resolve\",\n  \"master_prompt\": \"A hyper-realistic, avant-garde fashion shot of The Protagonist striding forward with intense, warrior-like resolve. The setting is a raw, brutalist concrete wind tunnel with slick, wet floors reflecting the scene. The camera is tilted at a severe 25-degree Dutch Angle, creating a sense of vertigo and instability. To the subject's left, a surreal companion walks in stride: a life-sized panther formed entirely from shimmering red sequins, ruby shards, and velvet textures—it must look like a physical, high-budget practical effect, not CGI. The lighting is a dramatic split: harsh Crimson Red gel lights blast from the key side, highlighting the subject's sharp cheekbones and the texture of the 'crystal panther,' while a cold Cyan Blue rim light outlines their silhouette from the back. Shot on a Hasselblad H6D-100c with an 80mm lens to compress the depth. Focus on the tactile reality of skin pores, the weave of the red suit, and the individual facets of the ruby companion. Cinematic, high-tension atmosphere. NO NEON SIGNS.\",\n  \"meta\": {\n    \"intent\": \"Editorial Fashion / Surreal Art\",\n    \"priorities\": \"Texture Reality, Unstable Composition, Intense Gaze\",\n    \"device_profile\": \"High-End Desktop / Art Gallery Display\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Dynamic Asymmetry\",\n    \"layout\": \"Diagonal Flow due to Dutch Angle\",\n    \"camera_angle\": \"Low Angle, looking up\",\n    \"tilt_roll_degrees\": \"25 degrees counter-clockwise (Dutch Tilt)\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, High-Fashion Archetype\",\n    \"face\": \"Sharp features, intense unwavering stare directly into the lens\",\n    \"hair\": \"Sleeked back, wet-look texture, tightly controlled\",\n    \"body\": \"Tall, commanding posture, mid-stride movement\",\n    \"expression\": \"Fierce, confrontational, The Warrior's Resolve\",\n    \"pose\": \"Walking forward aggressively, hands relaxed but ready\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Structured Power Suit\",\n        \"material\": \"Deep Red Velvet with Silk Lapels\",\n        \"color\": \"Crimson / Oxblood\",\n        \"fit\": \"Tailored, sharp architectural shoulders\"\n      },\n      {\n        \"item\": \"Trousers\",\n        \"material\": \"Matching Red Velvet\",\n        \"color\": \"Crimson\",\n        \"fit\": \"Straight leg, breaking slightly at the shoe\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Surreal Companion (Panther)\",\n        \"color\": \"Ruby Red / Glittering\",\n        \"material\": \"Sequins, Crystals, Velvet (Practical Effect Prop)\",\n        \"brand_style\": \"Avant-Garde Sculpture\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Brutalist Concrete Wind Tunnel\",\n    \"surfaces\": \"Rough concrete walls, polished wet floor reflections\",\n    \"depth\": \"Deep tunnel perspective distorted by tilt\",\n    \"atmosphere\": \"Hazy, pressurized, industrial\"\n  }\n}",
+    "title": "Anya Taylor Joy Avant-Garde Fashion Prompt for Nano Banana Pro",
+    "description": "A detailed JSON prompt for generating an avant-garde fashion shot of Anya Taylor Joy with a surreal ruby panther companion using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973010849_cjsvdj_HSqxfXjWIAAUPHs.jpg",
+      "https://cms-assets.youmind.com/media/1789973010862_0uslv7_HSqxfXwWAAAjKQD.jpg",
+      "https://cms-assets.youmind.com/media/1789973010921_upklh1_HSqxfVYX0AE3u8W.jpg",
+      "https://cms-assets.youmind.com/media/1789973012014_v0em93_HSqxfVAXsAAoz2l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35048,
     "content": "Photorealistic cinematic Indian male fashion collage, stylish middle-aged man with salt-and-pepper hair and light stubble, wearing a light blue linen shirt, beige trousers and white sneakers, sunglasses. Full-body central pose with two large close-up portraits behind him, dramatic splashing water waves and droplets surrounding the subject, dark gray studio background, glossy wet floor reflections, cool cinematic lighting, premium commercial photography, ultra-detailed, 4K, vertical 4:5.",
     "title": "Cinematic Indian Male Fashion Collage Prompt",
     "description": "A prompt for generating a photorealistic cinematic fashion collage of an Indian male model with dramatic water effects and studio lighting.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1789885862478_2ts90e_HSoauRaaIAAcCHi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35098,
+    "content": "Photorealistic cinematic Indian male fashion collage, stylish middle-aged man with salt-and-pepper hair and light stubble, wearing a light blue linen shirt, beige trousers and white sneakers, sunglasses. Full-body central pose with two large close-up portraits behind him, dramatic splashing water waves and droplets surrounding the subject, dark gray studio background, glossy wet floor reflections, cool cinematic lighting, premium commercial photography, ultra-detailed, 4K, vertical 4:5.",
+    "title": "Indian Male Fashion Collage Prompt",
+    "description": "A detailed prompt for creating a photorealistic cinematic Indian male fashion collage with specific styling, lighting, and composition instructions, suitable for models like Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789973007992_ug83r6_HSoauRaaIAAcCHi.jpg"
     ],
     "needReferenceImages": false
   },
