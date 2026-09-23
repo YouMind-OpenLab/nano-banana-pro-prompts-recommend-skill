@@ -10,6 +10,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 35225,
+    "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.\nFace: keep the exact same person as the reference picture. Format:\nA stylish young man standing outdoors beside a black street lamp, holding a smartphone with both hands and looking confidently to the side. He wears a navy blue button-up shirt with bright yellow inner collar and sleeve accents, beige slim-fit trousers, a smartwatch, and brown leather loafers. His pose is relaxed with crossed legs, creating a modern fashion-portrait look. Behind him is a massive artistic black-and-white close-up portrait of the same man’s face, filling the frame.",
+    "title": "Street Lamp Fashion Portrait",
+    "description": "A prompt for creating a stylish fashion portrait of a man holding a smartphone next to a street lamp, requiring facial consistency with a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790145229180_q1rg9t_HS3p6iuaQAAW-yC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35229,
+    "content": "Create a high-end cinematic black-and-white studio portrait of a sophisticated man seated in a relaxed, thoughtful pose. He has thick, naturally textured short hair styled upward, light-to-medium stubble with a defined beard line, and refined round/oval black eyeglasses. Preserve realistic masculine facial structure, natural skin texture, subtle asymmetry, and authentic expression.\n\nHe wears a premium fitted black ribbed crew-neck sweater and a luxury stainless-steel chronograph wristwatch. His right hand is raised naturally to his chin, fingers gently resting beneath the jaw, creating an intellectual, contemplative pose. Body angled slightly away from camera while the face turns toward the viewer with a calm, confident expression.\n\nLIGHTING:\nDramatic Rembrandt-style studio lighting from the upper-left, soft directional key light sculpting the forehead, cheekbones, nose and hand, with deep controlled shadows across the opposite side. Subtle rim separation around the hair and shoulders.\n\nBACKGROUND:\nMinimal seamless near-black studio background with a very subtle atmospheric gradient, cinematic falloff, no objects, no distractions.\n\nPHOTOGRAPHY:\nLuxury editorial portrait photography, medium close-to-medium framing, eye-level camera, 85mm portrait lens, f/1.8, shallow depth of field, precise facial focus, realistic optical compression, rich monochrome tonal range, deep blacks, luminous highlights, extremely detailed hair and skin texture, natural pores, realistic fabric texture, crisp watch details.\n\nMOOD & FINISH:\nSophisticated, intellectual, timeless, mysterious, premium fashion-editorial aesthetic, museum-quality monochrome photography, cinematic contrast, authentic photographic realism, subtle film grain, impeccable tonal separation, ultra-detailed, 16K/32K quality.\n\nNEGATIVE PROMPT:\ncartoon, CGI, 3D render, plastic skin, beauty filter, excessive retouching, face distortion, identity drift, altered facial proportions, extra fingers, malformed hands, duplicate watch, distorted glasses, unrealistic eyes, oversharpening, blown highlights, crushed facial detail, noisy background, props, text, logo, watermark, low resolution, artificial skin, generic AI face.",
+    "title": "Cinematic B&W Man Portrait",
+    "description": "A detailed prompt for creating a high-end cinematic black-and-white studio portrait of a man with glasses and a sweater, suitable for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790145230940_y1huxw_HSz_hFPagAAiOLe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35226,
+    "content": "Ultra-photorealistic luxury beauty portrait using the uploaded image as an exact facial reference, strict FACE LOCK. Sleek dark low bun, glowing natural model skin, winged eyeliner, deep burgundy lips, black floral lace gloves, gold rings and chunky gold bracelet, strapless black outfit, elegant pose with hands framing the face, soft white studio background, cinematic beauty lighting, 85mm lens, shallow depth of field, realistic skin texture, high-end fashion editorial.",
+    "title": "Luxury Beauty Portrait with Face Lock",
+    "description": "A prompt for generating a luxury beauty portrait that strictly locks the face from an uploaded reference image, specifying clothing, makeup, and lighting details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790145229324_ylriwf_HSvsrbpaIAEm8JT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35100,
     "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent. Face: keep the exact same person as the reference picture. Format: The image promt A photorealistic portrait of a handsome 17-year-old man with thick, voluminous styled dark hair and a gentle, confident smile, looking directly at the camera. He is wearing a tailored, light beige three-piece suit consisting of an open jacket, a matching waistcoat with brown buttons, and a crisp white collared shirt with the top button undone. He is sitting relaxed on a luxurious deep red tufted velvet sofa, with one hand resting gracefully on the armrest and the other on his lap. To his side are brightly colored, patterned throw pillows featuring purple and blue accents. The background is a softly blurred, elegant indoor setting with warm, cinematic lighting, hinting at rich drapery and golden architectural details with a beautiful bokeh effect. 8k resolution, professional portrait photography, hyper-realistic, sharp focus on the subject's face, vibrant and rich colors. KEEP ORIGINAL FACE AND HAIRSTYLE 100% REFERENCE",
     "title": "Face Swap/Portrait Prompt for Nano Banana Pro",
