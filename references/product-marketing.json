@@ -21,6 +21,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 35311,
+    "content": "Color street photography in lifestyle style, shot on iPhone 17, 24 mm wide-angle lens, realistic style, high detail, natural lighting, light grain, 3:4 format. Composition: I, a man, sitting on a folding camping chair in the foreground, back to the camera but with my head turned over my shoulder looking straight into the camera, a slight smile on my face. One hand holds a glass of champagne, the other rests on my knee. The chair and torso are slightly turned toward the table. I am wearing a light oversized cotton or linen shirt, light loose trousers, light sneakers, thin-framed sunglasses.\n\nBehind me, across the table, opposite me, stands a white BMW 3 Series sport sedan (in M-package style). The car is positioned on the other side of the table, front facing me, headlights on and shining onto the table and me, creating warm light. Black kidney grille, LED headlights, black multi-spoke wheels, glossy white body.\n\nLocation: endless field of dry yellow grass, in the background — hills and mountains in haze, evening sky with warm orange clouds, sunset. Between me and the car stands a table covered with a white tablecloth: a gold candelabra with three candles, champagne glasses, a bottle of champagne, plates with burgers and snacks, white flowers in a vase, and next to the champagne bottle a bottle of motor oil. Lighting: natural sunset light, warm reflections from the headlights and candles, soft shadows, realistic color rendering. Angle: view from behind-side, as if the photo was taken from table level. Color palette: white, yellow, golden, orange, gray.\n\nThe shot looks like an amateur photo taken on a mobile phone: natural lighting, slight motion blur, digital noise and grain, camera imperfections. The frame is spontaneous and documentary. No staged photoshoot look and no artificial processing. Do not allow visual AI artifacts and do not change the person’s appearance.",
+    "title": "Sunset Burger Scene Prompt",
+    "description": "A detailed prompt for creating a realistic lifestyle photo of a man with burgers and a car at sunset, specifically noting 'Nano banana Pro' at the end.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790231558336_cfmmzk_HS6TVz5acAAS20f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35312,
+    "content": "Use the uploaded reference image as the exact face and identity reference. Preserve the woman’s facial identity, facial structure, eyes, nose, lips, jawline, skin tone, and natural facial proportions consistently — same reference face, identity locked, no face alteration.\n\nCreate a photorealistic cinematic portrait of the same woman sitting at an elegant outdoor afternoon tea in a lush sunlit garden. Keep her face identical to the reference while giving her long softly curled brown hair styled half-up with a delicate pale pink ribbon. She wears a dreamy pastel powder-blue vintage dress with tiny floral embroidery, puff sleeves, intricate white lace trim and a romantic square neckline, with pearl necklace, elegant earrings, and delicate white lace gloves.\n\nShe rests her cheek gently against her gloved hand with a calm, graceful expression. A vintage white porcelain teapot, fine china, pastries and delicate blush-pink roses decorate the table. Warm golden-hour sunlight filters through the trees, creating soft highlights, natural shadows and creamy background bokeh.\n\n85mm portrait lens, shallow depth of field, cinematic composition, realistic skin pores and texture, natural facial details, realistic hands, fine fabric and lace detail, soft film photography aesthetic, elegant romantic garden atmosphere, premium editorial photography, photorealistic, ultra-detailed, vertical 9:16.\n\nNegative prompt: same exact face as reference, preserve facial proportions and recognizable features, no face swap distortion, no beautification that changes identity, no different person.\nNegative: altered face, different identity, facial distortion, plastic skin, over-smoothed skin, extra fingers, deformed hands, CGI, cartoon, text, logo, watermark.",
+    "title": "Cinematic Tea Party Portrait Prompt",
+    "description": "A prompt for creating a photorealistic cinematic portrait of a woman at an outdoor tea party, preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790231558229_mthu7x_HS6ApM2asAANKg-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35314,
+    "content": "Luxury vintage Parisian fashion editorial, full-body vertical 2:3 portrait. Elegant young adult woman standing on an ornate Parisian balcony beside a black wrought-iron railing, Eiffel Tower clearly visible in the left background. Calm, confident expression, porcelain-fair realistic skin, burgundy lipstick, subtle smoky vintage makeup, defined brows and lashes.\n\nShort-to-medium dark brunette hair styled in sculpted 1940s–50s Hollywood waves, wearing a structured black wide-brimmed felt hat. Black-and-cream houndstooth couture suit with sharp tailoring, fitted waist, realistic wool texture and a black silk oversized bow scarf. Slim belt with vintage black-and-gold buckle, ornate chandelier earrings.\n\nHistoric cream Parisian architecture, rooftops and distant trees, soft natural daylight, subtle atmospheric haze. Muted cinematic colors: ivory, deep black, burgundy, champagne gold, dusty blue and warm skin tones. Authentic medium-format film aesthetic, realistic texture, gentle grain, crisp subject, soft background, timeless 1940s–50s French couture glamour.\n\nNegative: black-and-white, oversaturated colors, modern clothing, CGI, plastic skin, distorted anatomy, extra fingers, warped architecture, messy clothing, harsh flash, excessive HDR, watermark, text, logo.",
+    "title": "Vintage Parisian Fashion Editorial with Eiffel Tower",
+    "description": "Creates a 1940s-50s style fashion editorial portrait of a woman on a balcony with the Eiffel Tower in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790231559993_m1iqfs_HS5_wCnaoAAKxcn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35224,
     "content": "Imagine an advertisement poster for Google Flow. It features a mixed race (half black, half white) woman in her 20s. She smiles while sporting a custom shirt with Google Flow across the chest area. She is short, slightly curvy and very pretty.",
     "title": "Google Flow Ad Poster: Nano Banana Pro vs Grok",
@@ -28,6 +58,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1790145229301_lrtkul_HS4J7woWAAA5OnW.jpg",
       "https://cms-assets.youmind.com/media/1790145227704_1t5zdc_HS4J7woXYAAAH9G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35227,
+    "content": "A high-resolution photorealistic eye level medium portrait of a stunning woman smiling at the camera standing beside an open car door She is wearing a chic {argument name=\"outfit color\" default=\"terracotta brown\"} monochrome business suit including a tailored blazer top and matching high waisted trousers with a leather belt. Her dark hair is styled in an elegant messy updo with loose strands framing her face She is wearing delicate golden hoop earrings and a thin gold necklace The background features a picturesque European Mediterranean cobblestone street with rustic stone buildings and vibrant blooming pink bougainvillea flowers Soft natural sunlight warm color palette sharp focus high fashion aesthetic, 8k resolution.",
+    "title": "Terracotta Outfit Portrait on Cobblestone Street",
+    "description": "Generates a photorealistic portrait of a woman in a terracotta suit standing by a car door on a European street with bougainvillea.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790231558193_8eum56_HS31zrjaIAAsyQS.jpg"
     ],
     "needReferenceImages": false
   },

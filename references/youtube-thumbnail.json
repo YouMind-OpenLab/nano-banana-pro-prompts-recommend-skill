@@ -1,5 +1,15 @@
 [
   {
+    "id": 35313,
+    "content": "Ultra-detailed 4K cinematic fantasy artwork of a mysterious hooded assassin crouching on the edge of an ancient Japanese-inspired temple rooftop, overlooking a breathtaking mountain city floating above the clouds. He wears an elegant black tactical-ronin outfit with intricate silver embroidery, layered armor, flowing cloak and subtle crimson accents.\nHe holds an extraordinary katana in one hand, the blade partially drawn and glowing with a subtle electric-blue energy, intricate runes etched along the steel, razor-sharp edge reflecting the moonlight. His face remains mostly hidden beneath the hood, with only faintly visible intense eyes. His cloak and hair flow dramatically in the wind.\nBehind him: a gigantic luminous full moon, deep midnight-blue sky filled with stars and dramatic clouds, floating mountains, waterfalls cascading through the clouds, ancient pagodas and glowing lanterns scattered across the valley. Cherry-blossom petals drift through the air, some close to the camera creating beautiful cinematic depth of field.\nEpic composition, low-angle perspective, dramatic silhouette, volumetric moonlight, subtle blue and crimson highlights, atmospheric fog, realistic fabric and metal textures, intricate weapon details, cinematic depth of field, soft background bokeh, breathtaking scale, dark fantasy atmosphere, elegant rather than violent, photorealistic, ultra-sharp details, HDR, 4K Ultra HD, masterpiece, premium cinematic concept art, no text, no watermark.",
+    "title": "Hooded Assassin on Temple Rooftop Fantasy Art",
+    "description": "Generates ultra-detailed fantasy artwork of an assassin with a glowing katana overlooking a floating mountain city under a full moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790231559594_lzlwak_HS4r_xnaQAAS9hw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34926,
     "content": "Acting as a professional graphics designer and a thumbnail designer, use the attached image to create a high-quality cinematic, attractive and bold Montserrat font text style for the caption. \n\nThe caption of the thumbnail is  [\"{argument name=\"caption_text\" default=\"You Don't Need To Edit Anymore... AI is Here Now\"}\"]. Make sure to use nice images for the blended background effects. My aspect ratio is 16:9",
     "title": "YouTube Thumbnail Design Prompt with Text Overlay",
