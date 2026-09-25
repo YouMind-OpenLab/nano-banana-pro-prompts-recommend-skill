@@ -10,6 +10,18 @@
     "needReferenceImages": false
   },
   {
+    "id": 35390,
+    "content": "Morning Shirarahama Beach navy swimming suit, done diving, only head above water, mouth opens to breathe, both hands sweep hair backwards, show upper body sequence, clear blue sky, extreme close up, 1x3, 16:9",
+    "title": "Morning Beach Dive Scene",
+    "description": "A detailed prompt for generating a hyper-realistic close-up of a woman emerging from water at Shirarahama Beach, focusing on lighting and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790318023320_5eh33l_HS_4ynta4AA4jmc.jpg",
+      "https://cms-assets.youmind.com/media/1790318023319_p2q7ds_HS_4yntbMAA-jfM.jpg",
+      "https://cms-assets.youmind.com/media/1790318023296_fkt31v_HS_4ynqaUAAw8a8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35312,
     "content": "Use the uploaded reference image as the exact face and identity reference. Preserve the woman’s facial identity, facial structure, eyes, nose, lips, jawline, skin tone, and natural facial proportions consistently — same reference face, identity locked, no face alteration.\n\nCreate a photorealistic cinematic portrait of the same woman sitting at an elegant outdoor afternoon tea in a lush sunlit garden. Keep her face identical to the reference while giving her long softly curled brown hair styled half-up with a delicate pale pink ribbon. She wears a dreamy pastel powder-blue vintage dress with tiny floral embroidery, puff sleeves, intricate white lace trim and a romantic square neckline, with pearl necklace, elegant earrings, and delicate white lace gloves.\n\nShe rests her cheek gently against her gloved hand with a calm, graceful expression. A vintage white porcelain teapot, fine china, pastries and delicate blush-pink roses decorate the table. Warm golden-hour sunlight filters through the trees, creating soft highlights, natural shadows and creamy background bokeh.\n\n85mm portrait lens, shallow depth of field, cinematic composition, realistic skin pores and texture, natural facial details, realistic hands, fine fabric and lace detail, soft film photography aesthetic, elegant romantic garden atmosphere, premium editorial photography, photorealistic, ultra-detailed, vertical 9:16.\n\nNegative prompt: same exact face as reference, preserve facial proportions and recognizable features, no face swap distortion, no beautification that changes identity, no different person.\nNegative: altered face, different identity, facial distortion, plastic skin, over-smoothed skin, extra fingers, deformed hands, CGI, cartoon, text, logo, watermark.",
     "title": "Cinematic Tea Party Portrait Prompt",
