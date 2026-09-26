@@ -10,6 +10,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 35454,
+    "content": "{\n  \"type\": \"retro fashion photo collage\",\n  \"aspect_ratio\": \"1:1\",\n  \"composition\": \"two overlapping photographic frames with different zoom levels\",\n  \"subject\": \"young freckled woman, long messy wavy dark-brown hair, soft bangs, spontaneous playful mood\",\n  \"outfit\": \"oversized black and off-white rugby pullover with lime panels, loose khaki bermuda cargos, olive socks, brown chunky sneakers, orange graphic baseball cap, colorful clip accessories\",\n  \"action\": \"holding a waffle cone while squeezing whipped cream onto it; second frame captures her licking the cream with an amused expression\",\n  \"setting\": \"simple warm-gray studio floor and backdrop\",\n  \"lighting\": \"soft overhead diffused light with gentle shadows\",\n  \"style\": \"90s-inspired Japanese youth editorial, candid snapshot aesthetic, muted colors, subtle analog grain, imperfect natural poses\",\n  \"negative\": \"perfect commercial photography, plastic skin, cinematic lighting, anatomy errors, extra fingers, malformed hands, duplicate objects, face distortion, clothing glitches, text, watermark, logos\"\n}",
+    "title": "Retro Waffle Photo Collage Prompt",
+    "description": "A JSON prompt for creating a retro fashion photo collage featuring a woman eating a waffle, styled like 90s Japanese youth editorials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790404267109_ghu9wo_HTHZUA7aEAAS3PS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35452,
+    "content": "A photorealistic portrait of a handsome young South Asian man looking directly at the camera with a gentle, confident smile. He is wearing a light pastel pink traditional Indian kurta adorned with intricate silver embroidery and shimmering mirror work. He is standing at a festive, elegant event. The background is softly blurred with a beautiful depth of field (bokeh), showing a lively, celebratory gathering, likely an Indian wedding or sangeet. In the background, softly out of focus, are happy guests in traditional pastel Indian attire, including a woman laughing joyfully on the left and a man in a patterned kurta on the right. The scene features a bright, airy, and soft pastel color palette with cinematic lighting, highly detailed fashion photography style, 85mm lens. keep original face and hairstyle 100% reference #wedding",
+    "title": "South Asian Wedding Portrait",
+    "description": "A prompt for creating a photorealistic portrait of a man in traditional Indian attire at a wedding event, preserving facial features from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790404266753_w8haai_HTG40PXacAA1T24.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35453,
+    "content": "Use the uploaded image as the exact visual reference. Create a photorealistic luxury lifestyle portrait of the same woman sitting inside a premium modern car with deep burgundy/red leather interior. Preserve her exact facial identity, facial structure, hairstyle, skin tone, body proportions, and natural features. She is wearing an elegant dusty-rose/mauve embroidered corset-style dress with delicate floral detailing. She holds a fluffy cream-colored Pomeranian puppy gently in one arm, looking playfully toward the puppy while making a cute claw-like gesture with her other hand near her face. Natural playful expression with slightly open mouth and tongue visible. Long dark hair tied into a neat high ponytail with soft front strands framing her face. Elegant gold wristwatch, subtle jewelry, natural manicured nails.\n\nCapture the scene from inside the car at a slightly low, candid angle. Visible luxury burgundy leather seats, door panel, center console, window, ceiling handle and realistic car details. City architecture and soft evening lights visible through the window in the background, naturally blurred with shallow depth of field. Realistic flash photography mixed with ambient evening light, soft highlights on skin and hair, detailed fabric embroidery, realistic puppy fur, authentic skin texture and pores, physically accurate hands and fingers, natural body posture.\n\nHigh-end editorial photography, candid celebrity lifestyle aesthetic, ultra-photorealistic, realistic proportions, cinematic depth of field, 50mm lens, f/2.0, subtle flash, crisp subject detail, soft background bokeh, premium fashion magazine quality, natural color grading, realistic reflections, detailed textures, 4K, vertical 4:5 composition.\n\nNegative Prompt\n\ncartoon, anime, CGI, 3D render, plastic skin, over-smoothed face, altered identity, different person, face distortion, asymmetrical eyes, deformed hands, extra fingers, missing fingers, fused fingers, malformed arms, unnatural pose, bad anatomy, distorted legs, duplicated puppy, extra limbs, unrealistic fur, blurry face, low resolution, oversharpening, excessive makeup, artificial skin, warped car interior, floating objects, distorted clothing, messy embroidery, unnatural lighting, excessive HDR, oversaturated colors, text, logo, watermark, captions, frame, AI artifacts",
+    "title": "Luxury Car Puppy Portrait Prompt",
+    "description": "A detailed prompt for creating a photorealistic luxury lifestyle portrait of a woman with a puppy inside a car, preserving identity from an uploaded image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790404266745_rcn2l4_HTEl6NOaEAARGK5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35390,
     "content": "Morning Shirarahama Beach navy swimming suit, done diving, only head above water, mouth opens to breathe, both hands sweep hair backwards, show upper body sequence, clear blue sky, extreme close up, 1x3, 16:9",
     "title": "Morning Beach Dive Scene",

@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 35451,
+    "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.\nFace: keep the exact same person as the reference picture. Format:\nCreate a high-quality ultra-photorealistic fashion poster using the same composition:\nfeaturing a young South Asian man with green eyes and a well-groomed beard. In the foreground, he is shown full-body, dressed in a green linen casual suit, leaning casually against a stone ledge, with a gold necklace and a watch. His eyes are green. Overlaid in the background is a large, close-up portrait of his face, with his striking green eyes as a focus. The entire composition has a dreamlike, brushstroke texture, set against a backdrop of a blurred mountain valley at dusk, creating a artistic and nostalgic atmosphere.",
+    "title": "Ultra-Photorealistic Fashion Poster with Reference Image",
+    "description": "A prompt for generating a high-quality ultra-photorealistic fashion poster featuring a young South Asian man, maintaining facial features from a reference image. The composition includes a full-body shot leaning against a stone ledge and a large close-up portrait overlay, set against a blurred mountain valley at dusk with a dreamlike brushstroke texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790404265322_7yk8e0_HTG0sAfaYAAZAgJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35224,
     "content": "Imagine an advertisement poster for Google Flow. It features a mixed race (half black, half white) woman in her 20s. She smiles while sporting a custom shirt with Google Flow across the chest area. She is short, slightly curvy and very pretty.",
     "title": "Google Flow Ad Poster: Nano Banana Pro vs Grok",
