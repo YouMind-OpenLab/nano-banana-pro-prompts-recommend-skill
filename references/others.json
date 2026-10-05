@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 35972,
+    "content": "A massive Victorian library viewed from a high balcony. Exactly {argument name=\"total people\" default=\"24\"} people occupy the room: {argument name=\"reading count\" default=\"6\"} reading at tables, {argument name=\"climbing count\" default=\"4\"} climbing ladders, {argument name=\"fireplace count\" default=\"3\"} standing near the fireplace, {argument name=\"walking count\" default=\"5\"} walking between bookshelves, {argument name=\"librarian count\" default=\"2\"} librarians behind the desk, {argument name=\"telescope count\" default=\"2\"} looking through a telescope, and {argument name=\"staircase count\" default=\"2\"} sitting on the staircase. Every person must have a unique pose, outfit, hairstyle, and position. Three spiral staircases connect different levels. Hundreds of bookshelves form symmetrical geometric patterns. Maintain accurate perspective and consistent architecture throughout the entire image.",
+    "title": "Victorian Library Headcount Challenge",
+    "description": "A complex prompt testing spatial reasoning and counting capabilities in GPT Image 2.5 vs Gemini Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791182788564_va1hb4_HTxpXUlbUAAF7Ob.jpg",
+      "https://cms-assets.youmind.com/media/1791182789972_hiyy8j_HTxpYEEaMAA32Or.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35802,
     "content": "Generate a sophisticated, typography on black background with white lettering. It should say \"{argument name=\"text\" default=\"Beauty and the Beach\"}\" . Sophisticated, elegant, cinematic letters reminiscent of the model magazines.",
     "title": "Elegant Typography on Black Background",
