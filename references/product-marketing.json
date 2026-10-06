@@ -21,12 +21,32 @@
     "needReferenceImages": true
   },
   {
+    "id": 36027,
+    "content": "Use the uploaded reference image as the exact facial identity reference. Preserve her face, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and identity exactly — no identity drift or facial alteration.\n\nCreate an ultra-photorealistic colorful luxury fashion portrait of the same woman reclining elegantly inside a luxurious white freestanding bathtub. She wears a deep emerald-green satin floor-length gown with elegant draping and long black opera gloves. Add layered diamond necklaces, sparkling earrings, and refined luxury jewelry.\n\nShe holds a crystal wine glass filled with rich red wine in one hand, while her other gloved hand rests gracefully near her head. Her hair is sleek and polished, with a confident, mysterious expression and direct eye contact with the camera.\n\nLuxurious cream-and-gold marble bathroom, warm champagne lighting, subtle reflections, rich emerald, burgundy and gold color palette, cinematic shadows, glowing highlights, realistic satin texture, natural skin pores, realistic jewelry sparkle, high-fashion editorial photography, sophisticated Hollywood cinematography, 85mm lens, shallow depth of field, ultra-detailed, photorealistic, elegant and glamorous.\n\nVertical 4:5, full-body composition, cinematic luxury editorial, realistic colors, no AI look.\n\nNegative prompt: different face, identity drift, altered facial features, plastic skin, over-retouching, distorted hands, extra fingers, bad anatomy, CGI, cartoon, blurry, low quality, watermark, text, logo.",
+    "title": "Luxury Bathtub Fashion Portrait",
+    "description": "A prompt for generating an ultra-photorealistic luxury fashion portrait of a woman in a bathtub, emphasizing identity preservation from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36026,
+    "content": "Create a photorealistic luxury fashion editorial of an elegant young woman standing confidently in front of a glossy brown luxury sports sedan, parked on a sophisticated European-style city street. She wears a tailored chocolate-brown blazer, matching high-waisted trousers, a silky brown blouse, and pointed brown heels. Long softly wavy brown hair, natural flawless skin, subtle luxury makeup, confident expression. Warm beige historic architecture with tall arched windows and boutique entrance in the background, cinematic golden-hour lighting, shallow depth of field, realistic reflections on the car, premium fashion campaign aesthetic, full-body composition, vertical 4:5, ultra-detailed, realistic photography, no text, no watermark, no distorted hands or face.",
+    "title": "Luxury Fashion Editorial with Sports Sedan",
+    "description": "A prompt for generating a photorealistic luxury fashion editorial featuring an elegant woman and a sports car, optimized for Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35974,
     "content": "Use the uploaded image as the exact visual and facial reference. Preserve the woman’s facial identity, facial proportions, hairstyle, and overall appearance with zero identity drift.\n\nCreate a photorealistic cinematic luxury evening portrait of the same woman standing beside a calm infinity pool overlooking a modern waterfront city skyline at blue hour/night. She wears an elegant floor-length silver-white couture gown with delicate crystal embellishments, thin straps, a fitted embellished bodice, flowing pleated skirt, and a subtle train. Add matching sparkling silver high heels.\n\nKeep the same graceful side-profile pose as the reference: body slightly turned sideways toward the camera, shoulders relaxed, one arm naturally resting beside her body, elegant posture, soft confident gaze directly toward the camera.\n\nThe pool should reflect the surrounding city lights naturally. In the background, show a sophisticated modern skyline with tall illuminated towers, softly blurred for cinematic depth of field. Include a realistic, naturally sized full moon in the upper sky — not oversized — with subtle moonlight illuminating the scene. Gentle evening breeze moves a few strands of her hair and the gown slightly.\n\nLighting: realistic moonlight mixed with soft ambient architectural lighting, subtle highlights on the silver dress, natural skin tones, realistic shadows, cinematic contrast, soft atmospheric haze.\n\nCamera: full-body composition, eye-level camera, 85mm portrait lens, shallow depth of field, realistic bokeh, sharp subject, detailed fabric texture, natural skin pores.\n\nStyle: high-end luxury fashion editorial, cinematic photography, ultra-photorealistic, sophisticated, elegant, realistic proportions, natural skin texture, no artificial AI appearance.\n\nNegative prompt: identity change, face drift, different person, altered facial features, oversized moon, plastic skin, excessive retouching, distorted hands, extra fingers, warped body, unnatural pose, cartoon, CGI look, oversaturated colors, excessive glow, duplicate person, blurry face, watermark, text, logo.",
-    "title": "Cinematic Luxury Evening Portrait with Reference Image",
-    "description": "A detailed prompt for generating a photorealistic cinematic portrait of a woman beside an infinity pool, emphasizing identity preservation from an uploaded reference image.",
+    "title": "Cinematic Luxury Evening Portrait by Infinity Pool",
+    "description": "Generates a photorealistic cinematic portrait of a woman in a silver gown by an infinity pool at night, preserving facial identity from a reference image.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1791182791357_o25pg1_HTysDgUa8AAx58V.jpg"
+      "https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg"
     ],
     "needReferenceImages": true
   },

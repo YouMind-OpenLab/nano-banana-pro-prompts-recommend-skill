@@ -20,6 +20,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 36028,
+    "content": "Generate image of 3d golden text \"{argument name=\"text\" default=\"Mahalakshmi\"}\" and golden goddess Mahalakshmi is sitting and adjusted over that text. Black background. 1:1 ratio 8k resolution",
+    "title": "Golden Goddess Mahalakshmi Image",
+    "description": "A prompt for creating a 3D golden text and goddess image, explicitly mentioning Nano Banana Pro as the tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791268438100_gyjbu9_HT6TWwlbgAAY-zQ.jpg",
+      "https://cms-assets.youmind.com/media/1791268437949_wpm8br_HT6TXgSb0AAizLP.jpg",
+      "https://cms-assets.youmind.com/media/1791268437981_pivtm1_HT6TYK-bMAA5Qks.jpg",
+      "https://cms-assets.youmind.com/media/1791268439129_9qgcag_HT6TYvoa0AA9SsR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35799,
     "content": "CONCEPT — EXACT: A layered composite — a massive faded close-up ghost portrait fills the upper background blending into a dark marble-textured backdrop, and a smaller sharp full-color standing portrait of the same man stands in the foreground beside a giant oversized black chess king piece, strategic power-and-leadership theme.\n\nBACKGROUND GHOST PORTRAIT — EXACT: Large faded close-up portrait, head turned slightly, calm intense composed gaze, short neat hair, light beard, blending into the dark grey-black marble texture so it reads as a subtle tonal overlay.\n\nMAIN SUBJECT — FOREGROUND — EXACT: Standing pose beside a giant black marble chess king piece taller than himself, one hand resting on top of the chess piece's crown, other hand tucked into the trouser pocket, calm confident composed gaze toward camera.\n\nMAIN SUBJECT IDENTITY LOCK: Foreground face must match the ghost portrait exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion.\n\nBODY: Medium-tan skin tone, lean build, confident composed standing posture.\n\nOUTFIT: Black tailored double-breasted overcoat over a black turtleneck, black tailored trousers, black leather dress shoes, silver wristwatch.\n\nPROP DETAIL — EXACT: An oversized black marble chess king piece with intricate carved detailing standing beside the subject, smaller white and black chess pieces scattered across a checkered marble floor in the foreground.\n\nBACKGROUND — EXACT: Dark grey-black marble hall with soft veining texture, subtle checkered marble floor pattern, dramatic empty space suggesting scale and power.\n\nLIGHTING — EXACT: Single dramatic side-key light, deep shadow across half the marble hall, crisp highlight along the chess piece's carved edges and the subject's jawline.\n\nCOLOR GRADE — EXACT: Deep charcoal-and-black dominant palette throughout, cool marble-grey undertones, natural warm skin tone providing the only contrast, dramatic high-end editorial power-portrait color grading with ultra-detailed 8K sharpness.\n\nShot on Sony A7R IV, 50mm f/1.8 — foreground subject and chess piece tack sharp with fabric and stone detail crisp, background ghost portrait softly blended. Ultra photorealistic — zero AI artifacts, no watermark.\n\nIMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in BOTH the ghosted background portrait AND the full-color foreground standing figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, beard density, moustache style, jawline, skin tone, facial texture, masculine proportions, and all natural imperfections exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, feminize, or replace my face with a random celebrity or model",
     "title": "Chess King Strategic Power Portrait Prompt",
