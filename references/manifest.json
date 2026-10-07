@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T05:23:03.371Z",
-  "totalPrompts": 15752,
+  "updatedAt": "2026-10-07T18:43:29.757Z",
+  "totalPrompts": 15755,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -24,13 +24,13 @@
       "slug": "youtube-thumbnail",
       "title": "YouTube Thumbnail",
       "file": "youtube-thumbnail.json",
-      "count": 226
+      "count": 227
     },
     {
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
-      "count": 701
+      "count": 702
     },
     {
       "slug": "product-marketing",
@@ -54,7 +54,7 @@
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
-      "count": 1035
+      "count": 1036
     },
     {
       "slug": "app-web-design",
@@ -66,7 +66,7 @@
       "slug": "others",
       "title": "Uncategorized",
       "file": "others.json",
-      "count": 1101
+      "count": 1102
     }
   ]
 }

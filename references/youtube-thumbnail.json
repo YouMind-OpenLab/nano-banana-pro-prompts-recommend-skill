@@ -1,5 +1,15 @@
 [
   {
+    "id": 36075,
+    "content": "Still from a Hollywood sci-fi movie. Over-the-shoulder shot of the man in image 1. He is on the left side of the frame in the foreground. The woman from image 2 is on the right side of the frame in focus. The setting is a different angle of image 3. Use image 4 as the influence for the color grade, lighting, style, and film stock type.",
+    "title": "Sci-Fi Movie Still with Reference Images",
+    "description": "A prompt for generating a cinematic sci-fi movie still using multiple reference images for character positioning and style transfer. Useful for creating consistent scenes from existing photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35664,
     "content": "Raw archival black and white photograph from a 1923 Antarctic expedition, grain, scratches, flash illumination. Weary explorers bundled in vintage heavy winter coats staring in shock at a massive, intricate glowing metallic monolith partially frozen inside a sheer ice cavern, photorealistic, historical documentary photography, hyper-detailed textures.",
     "title": "Antarctic Expedition Historical Realism Comparison",

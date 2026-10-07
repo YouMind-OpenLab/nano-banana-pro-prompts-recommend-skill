@@ -20,6 +20,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 36077,
+    "content": "Create a key visual for a magical girl anime. Finish it as an attractive poster design that includes the title logo.",
+    "title": "Magic Girl Anime Key Visual Prompt for Nano Banana Pro",
+    "description": "A prompt designed to generate a compelling magic girl anime key visual and poster design, including title logo elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg",
+      "https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg",
+      "https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg",
+      "https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36028,
     "content": "Generate image of 3d golden text \"{argument name=\"text\" default=\"Mahalakshmi\"}\" and golden goddess Mahalakshmi is sitting and adjusted over that text. Black background. 1:1 ratio 8k resolution",
     "title": "Golden Goddess Mahalakshmi Image",
