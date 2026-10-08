@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 36101,
+    "content": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
+    "title": "Misty Lake Rowboat with Text Caption",
+    "description": "A prompt for generating a serene scene of a tiny wooden rowboat on a misty lake at blue hour, featuring muted grey-green tones and a specific serif text caption 'stillness is a place'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36077,
     "content": "Create a key visual for a magical girl anime. Finish it as an attractive poster design that includes the title logo.",
     "title": "Magic Girl Anime Key Visual Prompt for Nano Banana Pro",
