@@ -20,6 +20,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 36157,
+    "content": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster.\nScene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric.\nBackground: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus.\nLighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality.\nTypography:\nTop center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\"\n\nCenter, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me\nImmediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted\nDo not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks.\nStyle: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
+    "title": "Magazine Cover Prompt for Nano Banana 2.1",
+    "description": "A detailed tutorial and prompt for creating magazine-style portrait covers using Nano Banana 2.1. It involves uploading a selfie and a reference poster, then applying specific constraints for identity lock, scene, background, lighting, and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791527773564_edesgg_HUBNCJ7bkAAiE_T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36101,
     "content": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
     "title": "Misty Lake Rowboat with Text Caption",

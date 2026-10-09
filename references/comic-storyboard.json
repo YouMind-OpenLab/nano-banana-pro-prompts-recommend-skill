@@ -1,5 +1,15 @@
 [
   {
+    "id": 36151,
+    "content": "The scene: I’m working by a stream. Birds are singing. My wife joins me, and we walk to the water, swim to a small island and rest. For me, that mix of project work, technology and ordinary life together is the dream.\n\nCreate a sequence of images showing: working by the stream, walking, water, the island and resting. Ensure the person in the frames looks consistent (like the user). Maintain natural lighting and perspective across all shots.",
+    "title": "Streamside Dream Scene with Audio and Image Carousel",
+    "description": "A prompt for generating a realistic sequence of images depicting a person working by a stream, walking to water, swimming to an island, and resting, integrated into a narrative story.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791527771086_0hbhb9_HUHfP2eXUAEWiEk.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36077,
     "content": "Create a key visual for a magical girl anime. Finish it as an attractive poster design that includes the title logo.",
     "title": "Magic Girl Anime Key Visual Prompt for Nano Banana Pro",
