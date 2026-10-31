@@ -1,5 +1,17 @@
 [
   {
+    "id": 37110,
+    "content": "Afternoon sunlight transparent material still life test: Three transparent objects placed side by side on a wooden table—a stemmed glass cup filled with sparkling water with ice cubes suspended in it; a thick-walled glass vase holding a white flower, the body refracting distorted light spots; a crystal ball standing by the window, reflecting an inverted street scene outside. Sunlight passes through the glass casting bright caustic patterns on the table, bubbles rise densely along the cup wall, ice cube edges have fine cracks and bubbles. Lighting: Natural afternoon light slanting from the left window, color temperature approx 4500K, creating real refraction and highlights through the glass. Camera: 50mm prime lens, f/2.8, shallow depth of field, focus on the bubbles in the glass cup, background softly blurred, natural bokeh. Color grading: Clean and bright natural colors, slight film grain. Ultra detailed, photorealistic product photography. No oil painting, No anime, No 3D render, No deformed glass, No extra objects, No text, No watermark.",
+    "title": "Transparent Material Still Life Comparison",
+    "description": "A prompt comparing GPT-image-2.5, Nano Banana 2 (nano-banana-pro), and Grok-imagine2 on rendering transparent materials like glass, water, and light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793427570743_5elogf_HV7d1sGaMAAB8dt.jpg",
+      "https://cms-assets.youmind.com/media/1793427570997_nq7osl_HV7d3I8a0AA4znU.jpg",
+      "https://cms-assets.youmind.com/media/1793427570842_p8jamr_HV7d4QtaYAAJAJA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36790,
     "content": "Use the master reference image for face identity only. Create the same woman wearing a sculptural silver metallic gown that looks like flowing liquid metal, with realistic reflective folds and a fitted silhouette. She poses against a simple light-gray studio background, one hand resting at her waist, chin slightly raised, confident expression. Natural facial details, visible pores, accurate hands, realistic metallic reflections, luxury magazine photography, head-to-toe composition, both feet visible\n\nNegative prompt: no CGI appearance, no plastic skin, different face, identity drift, face morphing, altered facial structure, asymmetrical eyes caused by errors, plastic skin, excessive retouching, doll-like face, blurry face, unnatural body proportions, extra fingers, missing fingers, fused hands, deformed feet, missing shoes, cropped legs, cropped head, floating accessories, unrealistic fabric, oversaturated colors, CGI, cartoon, artificial skin, duplicate person, text, logo, watermark, low resolution, motion blur.",
     "title": "Liquid Metal Gown Portrait Prompt",
