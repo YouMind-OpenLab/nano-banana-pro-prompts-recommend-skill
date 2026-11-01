@@ -1,13 +1,13 @@
 [
   {
     "id": 37110,
-    "content": "Afternoon sunlight transparent material still life test: Three transparent objects placed side by side on a wooden table—a stemmed glass cup filled with sparkling water with ice cubes suspended in it; a thick-walled glass vase holding a white flower, the body refracting distorted light spots; a crystal ball standing by the window, reflecting an inverted street scene outside. Sunlight passes through the glass casting bright caustic patterns on the table, bubbles rise densely along the cup wall, ice cube edges have fine cracks and bubbles. Lighting: Natural afternoon light slanting from the left window, color temperature approx 4500K, creating real refraction and highlights through the glass. Camera: 50mm prime lens, f/2.8, shallow depth of field, focus on the bubbles in the glass cup, background softly blurred, natural bokeh. Color grading: Clean and bright natural colors, slight film grain. Ultra detailed, photorealistic product photography. No oil painting, No anime, No 3D render, No deformed glass, No extra objects, No text, No watermark.",
-    "title": "Transparent Material Still Life Comparison",
-    "description": "A prompt comparing GPT-image-2.5, Nano Banana 2 (nano-banana-pro), and Grok-imagine2 on rendering transparent materials like glass, water, and light.",
+    "content": "Still life test of transparent materials under afternoon sunlight: On a wooden table sit three transparent objects—a stemmed glass filled with sparkling water and floating ice cubes; a thick-walled glass vase holding a single white flower, refracting distorted light patterns; a crystal ball standing by the window, reflecting an inverted street scene outside. Sunlight passes through the glass, casting bright caustic light patterns on the table surface. Bubbles rise densely along the cup walls, and ice cube edges show fine cracks and bubbles. Lighting: Afternoon natural light slants in from the left window, color temperature approx 4500K, creating realistic refraction and highlights through the glass. Camera: 50mm prime lens, f/2.8, shallow depth of field, focus on the bubbles in the glass, soft background blur, natural bokeh. Color grading: Clean, bright natural colors, slight film grain. Ultra detailed, photorealistic product photography. No oil painting, No anime, No 3D render, No deformed glass, No extra objects, No text, No watermark.",
+    "title": "Transparent Materials Still Life Comparison",
+    "description": "A detailed prompt comparing GPT-image-2.5, Nano Banana 2, and Grok-imagine2 on rendering transparent materials like glass, water, and light caustics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1793427570743_5elogf_HV7d1sGaMAAB8dt.jpg",
-      "https://cms-assets.youmind.com/media/1793427570997_nq7osl_HV7d3I8a0AA4znU.jpg",
-      "https://cms-assets.youmind.com/media/1793427570842_p8jamr_HV7d4QtaYAAJAJA.jpg"
+      "https://cms-assets.youmind.com/media/1793514064803_ui48ut_HV7d1sGaMAAB8dt.jpg",
+      "https://cms-assets.youmind.com/media/1793514064808_fgwxqo_HV7d3I8a0AA4znU.jpg",
+      "https://cms-assets.youmind.com/media/1793514065160_k7q7s3_HV7d4QtaYAAJAJA.jpg"
     ],
     "needReferenceImages": false
   },
