@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T06:08:58.356Z",
-  "totalPrompts": 15828,
+  "updatedAt": "2026-11-03T19:21:57.429Z",
+  "totalPrompts": 15831,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -12,7 +12,7 @@
       "slug": "social-media-post",
       "title": "Social Media Post",
       "file": "social-media-post.json",
-      "count": 9863
+      "count": 9865
     },
     {
       "slug": "infographic-edu-visual",
@@ -48,7 +48,7 @@
       "slug": "game-asset",
       "title": "Game Asset",
       "file": "game-asset.json",
-      "count": 729
+      "count": 730
     },
     {
       "slug": "poster-flyer",

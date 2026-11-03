@@ -41,6 +41,30 @@
     "needReferenceImages": false
   },
   {
+    "id": 37232,
+    "content": "Abstract watercolor wash of a red fox curled up asleep, loose oversized brushstrokes, broad flowing color shapes, minimal detail, soft pigment bleeding, expressive wet-on-wet texture, simplified forms, airy composition, no linework, no outlines, white background, square 1:1 composition.",
+    "title": "Abstract Watercolor Fox Illustration",
+    "description": "A prompt for creating a loose, abstract watercolor painting of a sleeping red fox, focusing on pigment bleeding and wet-on-wet texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793686930073_osllyw_HWH857_bUAA9P18.jpg",
+      "https://cms-assets.youmind.com/media/1793686931483_sr9ewt_HWH88GSaQAE-nR6.jpg",
+      "https://cms-assets.youmind.com/media/1793686930074_rvuuo7_HWH89ufb0AAKU78.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37234,
+    "content": "A polite British gentleman in a bowler hat, charcoal pinstripe suit and rolled umbrella stands perfectly upright in a long orderly queue outside a New York deli at golden hour, impatient New Yorkers in puffer jackets crowding around him, yellow taxi and street steam behind, candid 35mm street photography, shallow depth of field, a hand-lettered window sign reading \"WAIT YOUR TURN\", square 1:1 composition.",
+    "title": "Polite Brit Queue Image Comparison",
+    "description": "Comparison of GPT Image and Nano Banana generations of a British man in a New York queue, sharing the full prompt used.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793686931555_21b7t7_HWH8ZZVbUAAjMEs.jpg",
+      "https://cms-assets.youmind.com/media/1793686931529_i87aey_HWH8kCebkAAU25m.jpg",
+      "https://cms-assets.youmind.com/media/1793686930255_akruyj_HWH8mUzbMAAtH7W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37205,
     "content": "Create a vertical high-fashion editorial at an outdoor formal dining table beside a calm lake or reflecting water, photographed in clear directional daylight with dense red flowers surrounding the subject at multiple depths. Frame an adult woman seated beside a long ivory-covered table, approximately from the knees to above the head. Keep the composition asymmetrical: let a large mass of deep crimson flowers dominate the left side and additional blurred red blooms enter very close to camera across the lower foreground, partially interrupting the table and lower body. Preserve enough open background behind the woman to reveal softly defocused water, dark green foliage and muted autumnal trees without turning the location into a scenic landscape portrait. Build the pose around stillness rather than active dining. Let one elbow rest naturally on the table edge while the corresponding hand supports the side of the face near the cheek and jaw. Keep the wrist relaxed rather than posed delicately. Let the opposite arm fall low beside the body or rest loosely across the lap. The torso remains upright but slightly settled into one hip, with the shoulders uneven and relaxed. Turn the face only slightly toward camera while the gaze drifts just past it. Keep the expression composed, detached and faintly impatient rather than romantic, smiling or dreamy. The mouth should stay relaxed but defined by a strong deep-crimson lip. Dress her in a long oversized emerald-green coat with broad lapels, substantial shoulders and dense matte wool or cashmere texture. Let the coat hang open and wrap heavily around the arms and sides without appearing tailored too tightly to the body. Underneath, reveal a fluid ivory silk-satin dress with a softly draped neckline and long skirt falling in broad luminous folds over the seated legs. The coat should absorb light while the dress catches long soft highlights, creating a clear material contrast. Style the hair sleek, dark and close to the head with a precise deep side part, pulled into a compact low bun or smooth gathered shape so the face, neck and earrings remain unobstructed. Add oversized crystal or pavé drop earrings built from two stacked oval or teardrop forms, substantial enough to remain visible against the dark coat and hair. Keep other jewelry minimal or absent so the earrings remain the only sharp metallic sparkle near the face. Construct the flowers as dense arrangements of dark-red roses, carnations, ranunculus and similarly ruffled blooms rather than one repeated flower type. Use varying scales, imperfect petal shapes and occasional dark green stems or leaves. Keep the red masses rich and dimensional rather than bright scarlet or bridal pastel. Include only restrained table details: an ivory textured cloth, one or two clear cut-crystal glasses, subtle silverware and perhaps a few understated plates partially obscured by flowers.",
     "title": "High-Fashion Editorial Prompt",

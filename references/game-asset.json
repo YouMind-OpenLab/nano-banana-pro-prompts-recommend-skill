@@ -1,5 +1,15 @@
 [
   {
+    "id": 37233,
+    "content": "Isometric 3D pixel-art voxel game screenshot of a tiny floating island city at dusk, blocky cubic buildings with glowing windows, a pixel dragon circling a tower, game HUD with the text \"LEVEL 3\" top left and \"SCORE 004200\" top right, crisp voxel shading, vibrant retro colors, square 1:1 composition.",
+    "title": "Voxel Game Art Model Comparison",
+    "description": "Comparison of GPT Image, Nano Banana, and Grok generating voxel game art screenshots with HUD elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793686931610_vylnfn_HWCD15IbgAAkqBm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36908,
     "content": "Photorealistic Rogue One/Andor film still. Exact ref face: same structure, skin tone, pores/freckles/moles/scars. Gritty desaturated military sci-fi: industrial grey, dirty orange, olive drab, cold hangar light, canvas/metal textures, film grain.",
     "title": "Rogue One Style Film Still Prompt",
