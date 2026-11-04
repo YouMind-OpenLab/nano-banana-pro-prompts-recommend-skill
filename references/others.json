@@ -13,6 +13,17 @@
     "needReferenceImages": true
   },
   {
+    "id": 37292,
+    "content": "The Colosseum rising, 70-80 AD. Foundations to the inaugural games, all in one batch. Style: cinematic documentary, warm Mediterranean light.",
+    "title": "Colosseum Construction Cinematic Batch",
+    "description": "A prompt for generating a batch of cinematic documentary-style images depicting the construction of the Colosseum from foundations to inaugural games.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793773314007_qhf1bp_HWOQ2nsW0AAkijv.jpg",
+      "https://cms-assets.youmind.com/media/1793773314120_yvilvj_HWOQ2npW8AAY5N5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 36633,
     "content": "Tattoo flash: a snarling wolf head, half rotted to bone, wreathed in black thorns.",
     "title": "Snarling Wolf Bone and Thorns Tattoo Flash",
