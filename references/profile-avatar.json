@@ -10,6 +10,31 @@
     "needReferenceImages": false
   },
   {
+    "id": 37333,
+    "content": "Candid phone-flash mirror selfie of a fictional 24-year-old Tokyo it-girl in a tiny Shibuya hotel bathroom at night, oversized vintage brown leather jacket over a white baby tee, low-rise cargo skirt, silver hoop earrings, messy bob with bangs, sticker-covered phone held up partly covering her face, harsh direct flash, real skin texture, neon signs glowing through a small window behind her, slight film grain, Instagram fashion influencer aesthetic, vertical 4:5 composition.",
+    "title": "Tokyo It-Girl Mirror Selfie Prompt",
+    "description": "A detailed prompt for generating a candid, flash-lit mirror selfie of a Tokyo fashion influencer in a hotel bathroom, featuring neon lighting and realistic skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859752917_h971j8_HWUpVCxboAApQvJ.jpg",
+      "https://cms-assets.youmind.com/media/1793859753321_d2pijq_HWUpgzyawAA7WTK.jpg",
+      "https://cms-assets.youmind.com/media/1793859753238_07ju6t_HWUpiqZbYAA8AAF.jpg",
+      "https://cms-assets.youmind.com/media/1793859754244_y7l75x_HWUpkgNbkAAYw6p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37336,
+    "content": "Candid close-up photo of a woman holding a cold brew coffee up to the camera with both hands, fingers clearly visible with five fingers each, a wristwatch showing exactly 10:10 on her left wrist, a mirror behind her showing her back correctly, morning cafe light, natural skin texture, 35mm photo, square 1:1 composition.",
+    "title": "Nano Banana vs GPT Image Comparison Prompt",
+    "description": "A comparative test prompt used on both Nano Banana and GPT Image to evaluate consistency in complex physical interactions like hands, mirrors, and watch time.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859752934_39j9u1_HWQlPr2bwAA7bv-.jpg",
+      "https://cms-assets.youmind.com/media/1793859753159_7dxrts_HWQlRYYaQAEqGsJ.jpg",
+      "https://cms-assets.youmind.com/media/1793859753684_e1z1ai_HWQlTbCaIAElh3d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37080,
     "content": "Realistic iPhone photo style, portrait of an Asian woman reading by a library window, natural light handheld shot, slight noise, realistic skin texture. Subject: Asian woman around 26 years old, black long hair in a low ponytail, light makeup, skin retaining pores and natural texture, no excessive smoothing, no plastic look. Expression: Head down focused on reading, slight smile. Clothing: Off-white knit cardigan, light gray short-sleeve inner shirt, dark straight-leg trousers, black flat shoes. Pose: Sitting at a wooden table by the library window, one hand turning pages, one hand resting on chin, body slightly turned towards the camera. Props: An open book on the table, a paper cup coffee, thin-framed glasses. Environment: Foreground is blurred corner of bookshelf and green tree bokeh outside window, midground is person and wooden table, background is rows of library shelves and sunlight outside floor-to-ceiling windows. Lighting: Natural window light as main source, coming from left side of subject, color temp approx 5000K, indoor warm lights as fill. Camera: iPhone 15 Pro main camera 24mm, f/1.78, handheld shot, vertical composition, medium shot from upper body to above knees, shallow depth of field, background bokeh. Color grading: Natural white balance, slight warm tone, film grain, details preserved in shadows. Mood: Quiet focus, literary atmosphere. Style: Realistic photo, not illustration or rendering. Quality tags: highly detailed, photorealistic, natural skin texture, candid photography. Negative constraints: No oil painting, No anime, No 3D render, No deformed hands, No plastic skin, No over-smoothing, No text watermark.",
     "title": "Photorealistic Library Portrait Prompt for GPT Image 2.5 and Nano Banana",

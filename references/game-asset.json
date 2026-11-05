@@ -1,5 +1,15 @@
 [
   {
+    "id": 37331,
+    "content": "Unpainted grey resin garage kit of {argument name=\"character type\" default=\"a street racer girl\"}, {argument name=\"scale\" default=\"1/7 scale\"}, round base, loose parts laid out beside it, hard top light",
+    "title": "Unpainted Resin Garage Kit of Street Racer Girl",
+    "description": "Generates a photorealistic unpainted grey resin garage kit figure of a street racer girl, showing loose parts and hard top lighting for sculpting reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859751424_79mng7_HWSrYGwXUAAKqyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37233,
     "content": "Isometric 3D pixel-art voxel game screenshot of a tiny floating island city at dusk, blocky cubic buildings with glowing windows, a pixel dragon circling a tower, game HUD with the text \"LEVEL 3\" top left and \"SCORE 004200\" top right, crisp voxel shading, vibrant retro colors, square 1:1 composition.",
     "title": "Voxel Game Art Model Comparison",

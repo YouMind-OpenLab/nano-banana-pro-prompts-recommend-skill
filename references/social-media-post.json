@@ -41,6 +41,65 @@
     "needReferenceImages": false
   },
   {
+    "id": 37334,
+    "content": "Frieren from Frieren: Beyond Journey's End sitting at the window counter of a modern Tokyo convenience store at night, eating a melon pan, silver twin tails, pointed elf ears, white and gold mage cloak, her staff leaning beside her, rain on the glass, neon street outside, warm fluorescent light, official anime key visual style, clean line art, vertical 4:5 composition.",
+    "title": "Frieren Anime Style Comparison Prompt",
+    "description": "A prompt comparing Nano Banana, GPT Image, and Grok on generating a specific anime character (Frieren) in a modern convenience store setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859753102_x26jy0_HWUqJjtbcAAmwxh.jpg",
+      "https://cms-assets.youmind.com/media/1793859753605_41clec_HWUqMytaIAA_uBg.jpg",
+      "https://cms-assets.youmind.com/media/1793859753338_yknigg_HWUqOFoboAAfkTw.jpg",
+      "https://cms-assets.youmind.com/media/1793859754481_69dmac_HWUqPUkbUAAD8AJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37333,
+    "content": "Candid phone-flash mirror selfie of a fictional 24-year-old Tokyo it-girl in a tiny Shibuya hotel bathroom at night, oversized vintage brown leather jacket over a white baby tee, low-rise cargo skirt, silver hoop earrings, messy bob with bangs, sticker-covered phone held up partly covering her face, harsh direct flash, real skin texture, neon signs glowing through a small window behind her, slight film grain, Instagram fashion influencer aesthetic, vertical 4:5 composition.",
+    "title": "Tokyo It-Girl Mirror Selfie Prompt",
+    "description": "A detailed prompt for generating a candid, flash-lit mirror selfie of a Tokyo fashion influencer in a hotel bathroom, featuring neon lighting and realistic skin texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859752917_h971j8_HWUpVCxboAApQvJ.jpg",
+      "https://cms-assets.youmind.com/media/1793859753321_d2pijq_HWUpgzyawAA7WTK.jpg",
+      "https://cms-assets.youmind.com/media/1793859753238_07ju6t_HWUpiqZbYAA8AAF.jpg",
+      "https://cms-assets.youmind.com/media/1793859754244_y7l75x_HWUpkgNbkAAYw6p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37337,
+    "content": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
+    "title": "Macro Galaxy Water Droplet Prompt",
+    "description": "A shared prompt used to compare Grok and Nano Banana outputs for a macro photography scene featuring a water droplet containing a spiral galaxy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg",
+      "https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37336,
+    "content": "Candid close-up photo of a woman holding a cold brew coffee up to the camera with both hands, fingers clearly visible with five fingers each, a wristwatch showing exactly 10:10 on her left wrist, a mirror behind her showing her back correctly, morning cafe light, natural skin texture, 35mm photo, square 1:1 composition.",
+    "title": "Nano Banana vs GPT Image Comparison Prompt",
+    "description": "A comparative test prompt used on both Nano Banana and GPT Image to evaluate consistency in complex physical interactions like hands, mirrors, and watch time.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859752934_39j9u1_HWQlPr2bwAA7bv-.jpg",
+      "https://cms-assets.youmind.com/media/1793859753159_7dxrts_HWQlRYYaQAEqGsJ.jpg",
+      "https://cms-assets.youmind.com/media/1793859753684_e1z1ai_HWQlTbCaIAElh3d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37332,
+    "content": "Night street fashion editorial: a model in an oversized red trench coat mid-stride on a wet city sidewalk. Direct on-camera flash combined with a slow 1/8s shutter and a slight camera pan, so the model is sharp while the background streaks with motion blur.",
+    "title": "Dragged-Shutter Flash Night Fashion",
+    "description": "A prompt for creating a night street fashion editorial with specific camera effects like dragged shutter flash.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859751116_7cuvai_HWRdGOpXkAAvdwU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37232,
     "content": "Abstract watercolor wash of a red fox curled up asleep, loose oversized brushstrokes, broad flowing color shapes, minimal detail, soft pigment bleeding, expressive wet-on-wet texture, simplified forms, airy composition, no linework, no outlines, white background, square 1:1 composition.",
     "title": "Abstract Watercolor Fox Illustration",

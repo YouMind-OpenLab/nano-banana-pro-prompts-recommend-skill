@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 37330,
+    "content": "{argument name=\"number of scenes\" default=\"12\"} scenes. The Taj Mahal rising, {argument name=\"time period\" default=\"1632-1653\"}. Style: {argument name=\"style\" default=\"cinematic documentary\"}, {argument name=\"lighting\" default=\"warm light\"}, {argument name=\"material focus\" default=\"white marble\"}.",
+    "title": "Taj Mahal Construction Cinematic Documentary Scenes",
+    "description": "Creates a series of cinematic documentary-style images depicting the construction of the Taj Mahal from 1632 to 1653, featuring warm light and white marble aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859751430_p6j9id_HWPjAjqacAA6t5S.jpg",
+      "https://cms-assets.youmind.com/media/1793859751296_82pbgi_HWPjAj6bgAAlCtO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35743,
     "content": "Turning random objects into buildings.\n\n2x2 grid, do this for 4 different random objects. Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\n\nMass: (Monolithic/Fragmented/Stacked/Spindly)\n\nSurface: (Reflective/Porous/Layered/Patterned)\n\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\n\nIF Monolithic + Stone-like → Museum\n\nIF Reflective + Aerodynamic → Skyscraper\n\nIF Modular + Stacked → Housing complex\n\nIF Porous + Organic → Botanical conservatory\n\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens.",
     "title": "Object-to-Building Transformation Prompt",

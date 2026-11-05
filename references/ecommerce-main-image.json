@@ -1,5 +1,15 @@
 [
   {
+    "id": 37331,
+    "content": "Unpainted grey resin garage kit of {argument name=\"character type\" default=\"a street racer girl\"}, {argument name=\"scale\" default=\"1/7 scale\"}, round base, loose parts laid out beside it, hard top light",
+    "title": "Unpainted Resin Garage Kit of Street Racer Girl",
+    "description": "Generates a photorealistic unpainted grey resin garage kit figure of a street racer girl, showing loose parts and hard top lighting for sculpting reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859751424_79mng7_HWSrYGwXUAAKqyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37110,
     "content": "Still life test of transparent materials under afternoon sunlight: On a wooden table sit three transparent objects—a stemmed glass filled with sparkling water and floating ice cubes; a thick-walled glass vase holding a single white flower, refracting distorted light patterns; a crystal ball standing by the window, reflecting an inverted street scene outside. Sunlight passes through the glass, casting bright caustic light patterns on the table surface. Bubbles rise densely along the cup walls, and ice cube edges show fine cracks and bubbles. Lighting: Afternoon natural light slants in from the left window, color temperature approx 4500K, creating realistic refraction and highlights through the glass. Camera: 50mm prime lens, f/2.8, shallow depth of field, focus on the bubbles in the glass, soft background blur, natural bokeh. Color grading: Clean, bright natural colors, slight film grain. Ultra detailed, photorealistic product photography. No oil painting, No anime, No 3D render, No deformed glass, No extra objects, No text, No watermark.",
     "title": "Transparent Materials Still Life Comparison",

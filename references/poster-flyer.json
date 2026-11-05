@@ -20,6 +20,42 @@
     "needReferenceImages": false
   },
   {
+    "id": 37334,
+    "content": "Frieren from Frieren: Beyond Journey's End sitting at the window counter of a modern Tokyo convenience store at night, eating a melon pan, silver twin tails, pointed elf ears, white and gold mage cloak, her staff leaning beside her, rain on the glass, neon street outside, warm fluorescent light, official anime key visual style, clean line art, vertical 4:5 composition.",
+    "title": "Frieren Anime Style Comparison Prompt",
+    "description": "A prompt comparing Nano Banana, GPT Image, and Grok on generating a specific anime character (Frieren) in a modern convenience store setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859753102_x26jy0_HWUqJjtbcAAmwxh.jpg",
+      "https://cms-assets.youmind.com/media/1793859753605_41clec_HWUqMytaIAA_uBg.jpg",
+      "https://cms-assets.youmind.com/media/1793859753338_yknigg_HWUqOFoboAAfkTw.jpg",
+      "https://cms-assets.youmind.com/media/1793859754481_69dmac_HWUqPUkbUAAD8AJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37330,
+    "content": "{argument name=\"number of scenes\" default=\"12\"} scenes. The Taj Mahal rising, {argument name=\"time period\" default=\"1632-1653\"}. Style: {argument name=\"style\" default=\"cinematic documentary\"}, {argument name=\"lighting\" default=\"warm light\"}, {argument name=\"material focus\" default=\"white marble\"}.",
+    "title": "Taj Mahal Construction Cinematic Documentary Scenes",
+    "description": "Creates a series of cinematic documentary-style images depicting the construction of the Taj Mahal from 1632 to 1653, featuring warm light and white marble aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859751430_p6j9id_HWPjAjqacAA6t5S.jpg",
+      "https://cms-assets.youmind.com/media/1793859751296_82pbgi_HWPjAj6bgAAlCtO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37335,
+    "content": "Dynamic luxury commercial advertising poster featuring a surreal 3D-rendered vibrant young woman. She wears premium bright orange designer apparel, luxurious accessories and stylish gold sunglasses, bursting confidently out from a giant golden smartphone screen. Her pose is powerful and fashionable; one sneaker dramatically breaks through the digital display with strong forced perspective, stepping into reality.\n\nThe composition highlights her white luxury sneakers with textured gum rubber soles in the foreground, enhanced by cinematic wide-angle lens distortion and shallow depth of field. Floating glossy 3D social media icons, golden geometric elements and luxury brand graphics surround her, creating a high-end influencer marketing aesthetic.\n\nBright studio lighting builds an energetic premium promotional mood. Rich reflections along the metallic golden phone edges contrast with matte fabric textures. The dominant orange, white and gold color palette delivers an ultra-modern luxury X / Twitter advertising vibe. A clean white background holds bold editorial typography, premium software brand elements, elegant UI graphics, floating interactive icons and a stylish QR code section.\n\nSurreal 8K quality, cinematic shadows, refined commercial art direction, luxurious feminine energy, fashion marketing aesthetic, modern social media branding, glossy reflections and high-end digital advertising style.\n\nAspect ratio: 3:4.",
+    "title": "Nano Banana vs GPT Image Luxury Poster Comparison",
+    "description": "Comparison between Nano Banana and GPT Image for a luxury commercial poster. Includes the full prompt used for both models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1793859756262_nrjw74_HWMMVt_bMAABsOy.jpg",
+      "https://cms-assets.youmind.com/media/1793859756293_ccu726_HWMMWYaasAAXe_8.jpg",
+      "https://cms-assets.youmind.com/media/1793859756289_rz4a3h_HWMMZ0sa8AAmBxr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37043,
     "content": "Cinematic realistic photography, a steampunk airship above a sea of clouds at dusk: The subject is a massive copper airship, with oval canvas gasbags pieced together in antique bronze and dark brown, featuring visible stitching and repair marks on the surface. The hull is made of riveted brass and dark wood, with a four-blade propeller spinning at the stern. White steam vents from chimneys on the side, and warm yellow light glows from the cabin windows, with ropes and cables hanging taut. Atmospheric particles: Low-altitude swirling mist, fine dust, and steam particles floating in the golden light. Lighting: Low-angle backlighting from the setting sun, color temperature approx. 3200K, golden rim light outlining the gasbags, one side of the hull brightly lit while the other sinks into blue-purple shadows. Background layers: Foreground features rolling cloud sea and a silhouette of a distant small airship; midground is the main airship; background is sunset sky and distant mountain cloud lines. Camera: Low-angle shot looking up, 35mm lens, f/8, vertical composition, subject centered slightly upwards, deep depth of field, film grain. Color grading: Eastmancolor film simulation, contrasting warm gold and cool blue, slight vignette. Composition: Rule of thirds, airship occupies the upper two-thirds of the frame, leaving white clouds below. Mood: Grand and romantic old-industrial fantasy. Style: Realistic photography, not illustration. Quality tags: ultra detailed, photorealistic, high dynamic range, sharp focus. Negative constraints: No oil painting, No anime, No 3D render look, No deformed structure, No text, No watermark, No people",
     "title": "Steampunk Airship Cinematic Prompt",
