@@ -69,11 +69,11 @@
   {
     "id": 37337,
     "content": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
-    "title": "Macro Galaxy Water Droplet Prompt",
-    "description": "A shared prompt used to compare Grok and Nano Banana outputs for a macro photography scene featuring a water droplet containing a spiral galaxy.",
+    "title": "Crystal Droplet Galaxy Macro Prompt",
+    "description": "A prompt for a hyper-realistic macro shot of a crystal-clear water droplet containing a spiral galaxy, used to compare Grok and Nano Banana.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1793859755901_oimr7m_HWUFj5bWcAIX3Gd.jpg",
-      "https://cms-assets.youmind.com/media/1793859755892_uab8ml_HWUFj5jWYAAl6LQ.jpg"
+      "https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg",
+      "https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg"
     ],
     "needReferenceImages": false
   },
