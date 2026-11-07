@@ -21,6 +21,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 37381,
+    "content": "Theme: Madrid golden hour high-fashion editorial. Subject: 22-year-old Asian female with a statuesque presence, leaning back against an urban structure in a sun-drenched Madrid street. Clothing · Pose: White ribbed cotton cropped tank top with visible fabric tension; structured dark washed denim jacket worn open and draped off the shoulders; delicate gold necklace; close-up bust shot with shoulders pulled back. Background · Light: Madrid urban boulevard with historic stone architecture in creamy bokeh; late afternoon golden hour atmosphere with hard, warm side-lighting and deep soft-edged shadows. Composition · Camera: Strict bust-shot framing, low-angle Dutch tilt, simulated 80mm telephoto lens at f/2.8, razor-sharp focus on eyes and facial features. Texture · Style: High-end editorial aesthetic, tactile detail on ribbed knit and denim textures, natural skin grain with subsurface scattering and warm climate moisture sheen.",
+    "title": "Madrid Golden Hour Fashion Editorial",
+    "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg",
+      "https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg",
+      "https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg",
+      "https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37332,
     "content": "Night street fashion editorial: a model in an oversized red trench coat mid-stride on a wet city sidewalk. Direct on-camera flash combined with a slow 1/8s shutter and a slight camera pan, so the model is sharp while the background streaks with motion blur.",
     "title": "Dragged-Shutter Flash Night Fashion",

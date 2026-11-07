@@ -1,5 +1,18 @@
 [
   {
+    "id": 37379,
+    "content": "Dramatic high-angle shot, exact same pose and camera angle: ballerina in a white classical tutu with black embroidery, body arched, one leg extended high behind her in arabesque, both arms raised gracefully overhead, head tilted upward.\nDark empty stage, pure black background, single harsh overhead spotlight cutting through the darkness and illuminating only her body, deep cinematic shadows pooling on the stage floor, high contrast, moody atmospheric haze, volumetric light rays, ultra-photorealistic, intense and powerful, 2:3 vertical composition.",
+    "title": "Ballerina High-Angle Spotlight Shot",
+    "description": "A multi-model comparison prompt for a dramatic high-angle shot of a ballerina in arabesque pose under harsh overhead spotlight against a dark stage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032634828_tx3jz7_HWZ0Hs3bEAA8Wuo.jpg",
+      "https://cms-assets.youmind.com/media/1794032634832_i64l0o_HWZ0LT3aUAAkowj.jpg",
+      "https://cms-assets.youmind.com/media/1794032634953_knf9bw_HWZ0PDAaYAAZDgb.jpg",
+      "https://cms-assets.youmind.com/media/1794032635574_b1oec7_HWZ0T5lbkAA6e7w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37337,
     "content": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
     "title": "Crystal Droplet Galaxy Macro Prompt",

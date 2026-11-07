@@ -41,6 +41,54 @@
     "needReferenceImages": false
   },
   {
+    "id": 37378,
+    "content": "Photorealistic portrait of a young woman ({argument name=\"face_reference\" default=\"Face Reference\"}) wearing this outfit ({argument name=\"outfit_reference\" default=\"Outfit Reference\"}) sitting on a wooden bench in a traditional Chinese-style interior. She is posed with one hand raised behind her head, elbow bent, legs elegantly positioned with one knee raised. Soft natural light enters from the side, illuminating her figure. Background features wooden lattice windows and classic porcelain decor. Realistic skin texture, natural shadows, sharp detail, high-resolution photography, warm and refined atmosphere.",
+    "title": "Outfit Reference Portrait",
+    "description": "A comparison tweet featuring Nano Pro (nano-banana-pro) alongside Grok and Seedream. The prompt describes a photorealistic portrait using face and outfit references.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032633499_v8h701_HWb797aacAA7gkV.jpg",
+      "https://cms-assets.youmind.com/media/1794032632961_bc59ob_HWb8E-rasAA5IN9.jpg",
+      "https://cms-assets.youmind.com/media/1794032633300_829ocl_HWb8I7dbUAACAjP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 37377,
+    "content": "A close-up vertical aesthetic portrait of a young couple indoors during golden hour. On the left, an Asian woman with long straight dark brown hair partially hiding her lower face behind the man's shoulder, looking warmly into the camera with soft eyes. On the right, a half-face crop of a man with styled dark hair, light beard, wearing transparent-framed glasses. Both are wearing black hoodies. Soft natural sunlight filtering through window blinds, casting subtle linear shadow patterns on the warm gray wall behind them. Cozy, realistic candid photography, 85mm lens, f/1.8, cinematic soft lighting.",
+    "title": "Golden Hour Couple Portrait",
+    "description": "A prompt for generating a realistic close-up portrait of a couple indoors during golden hour with soft lighting and cinematic details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032633640_q65umc_HWaBanFbsAAVgI1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37381,
+    "content": "Theme: Madrid golden hour high-fashion editorial. Subject: 22-year-old Asian female with a statuesque presence, leaning back against an urban structure in a sun-drenched Madrid street. Clothing · Pose: White ribbed cotton cropped tank top with visible fabric tension; structured dark washed denim jacket worn open and draped off the shoulders; delicate gold necklace; close-up bust shot with shoulders pulled back. Background · Light: Madrid urban boulevard with historic stone architecture in creamy bokeh; late afternoon golden hour atmosphere with hard, warm side-lighting and deep soft-edged shadows. Composition · Camera: Strict bust-shot framing, low-angle Dutch tilt, simulated 80mm telephoto lens at f/2.8, razor-sharp focus on eyes and facial features. Texture · Style: High-end editorial aesthetic, tactile detail on ribbed knit and denim textures, natural skin grain with subsurface scattering and warm climate moisture sheen.",
+    "title": "Madrid Golden Hour Fashion Editorial",
+    "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg",
+      "https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg",
+      "https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg",
+      "https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37380,
+    "content": "Fun and cheeky extreme close-up portrait of a woman in her twenties holding a chocolate-frosted donut covered in colorful rainbow sprinkles over one eye, looking straight through the hole at the camera. Her face fills most of the frame. Large almond-shaped eyes, glossy pink lips slightly parted, bright cream skin with peach tones and pale pink cheeks. White Singlet with thin straps. Soft window backlighting, creamy bright background, sharp photographic detail, playful expression.",
+    "title": "Woman Holding Donut Over Eye",
+    "description": "A playful extreme close-up portrait prompt of a woman holding a chocolate donut with sprinkles over one eye, shared as a comparison across four different AI image models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794032635223_qqktb4_HWZV1pybYAAp90N.jpg",
+      "https://cms-assets.youmind.com/media/1794032635278_oey2p1_HWZV8LdbYAAd0zD.jpg",
+      "https://cms-assets.youmind.com/media/1794032635280_6bfn5x_HWZWAWzbUAAYa8l.jpg",
+      "https://cms-assets.youmind.com/media/1794032636233_132ue5_HWZWGYCaEAEKkx7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37334,
     "content": "Frieren from Frieren: Beyond Journey's End sitting at the window counter of a modern Tokyo convenience store at night, eating a melon pan, silver twin tails, pointed elf ears, white and gold mage cloak, her staff leaning beside her, rain on the glass, neon street outside, warm fluorescent light, official anime key visual style, clean line art, vertical 4:5 composition.",
     "title": "Frieren Anime Style Comparison Prompt",
