@@ -41,6 +41,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 37408,
+    "content": "Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.",
+    "title": "Editorial Archery Fashion Photography Prompt",
+    "description": "A prompt for creating an editorial-style close-up portrait of a woman holding a bow and arrow, focusing on dramatic lighting and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37378,
     "content": "Photorealistic portrait of a young woman ({argument name=\"face_reference\" default=\"Face Reference\"}) wearing this outfit ({argument name=\"outfit_reference\" default=\"Outfit Reference\"}) sitting on a wooden bench in a traditional Chinese-style interior. She is posed with one hand raised behind her head, elbow bent, legs elegantly positioned with one knee raised. Soft natural light enters from the side, illuminating her figure. Background features wooden lattice windows and classic porcelain decor. Realistic skin texture, natural shadows, sharp detail, high-resolution photography, warm and refined atmosphere.",
     "title": "Outfit Reference Portrait",
