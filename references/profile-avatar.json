@@ -22811,16 +22811,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 482,
-    "content": "Make the character in the image hold their passport while sitting in front of a computer, showing the ID clearly to the camera to prove they are a real person. The ID information should be clearly visible, with the name {argument name=\"name_en\" default=\"[NAME]\"}, the affiliation {argument name=\"affiliation_en\" default=\"[YOUR DATA]\"}, and the birthday {argument name=\"birthday_en\" default=\"[YOUR DATE]\"}. All other details can be random and fictional.",
-    "title": "ID verification character with visible passport",
-    "description": "A prompt for creating a character image where the subject clearly displays their passport to the camera for identity verification, with customizable name, affiliation, and birthday on the ID.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 473,
     "content": "Ultra-realistic Roronoa Zoro portrait.",
     "title": "Ultra-realistic Roronoa Zoro portrait",

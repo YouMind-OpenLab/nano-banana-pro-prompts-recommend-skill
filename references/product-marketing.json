@@ -21,6 +21,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 37428,
+    "content": "Photorealistic cinematic fashion editorial portrait of a young woman [Face Reference] seated on a glossy dark studio floor, body angled in three-quarter view, torso slightly turned toward the camera, one arm extended behind her with her hand planted on the floor supporting her weight, other arm relaxed, shoulders softly tilted, legs relaxed and gracefully crossed to one side. Head tilted slightly, chin lowered, calm confident gaze directly into the lens with a soft, composed expression.\n\nWearing the outfit from the reference image. [Outfit Reference]\n\nCamera at a slightly low angle, three-quarter body framing from head to mid-thigh, vertical composition. Moody dark navy-blue seamless studio backdrop with deep midnight-blue gradient, volumetric blue haze, cool cobalt and cyan rim lighting tracing her shoulders, arms and hair, soft blue key light with gentle fill, subtle reflections on the polished floor, a few delicate scattered blue petals and scatter of blue crystals of different sizes and tone of blue as minimal props, faint bokeh of blue light orbs in the background. Natural skin texture with visible pores and soft sheen, realistic fabric texture, shallow depth of field, cinematic teal-blue color grading with a subtle warm skin tone contrast, high-end editorial retouching with texture preserved. Shot on Sony A7R V, 85mm f/1.4, ultra-detailed, 8k, RAW photo.",
+    "title": "QT Outfit Try-On Comparison",
+    "description": "Comparison of outfit try-ons across Grok, Seedream, and Nano Pro (Nano Banana Pro), with a shared photorealistic cinematic fashion editorial prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794207468966_w89dsv_HWpdibVakAEKncp.jpg",
+      "https://cms-assets.youmind.com/media/1794207468441_patgbf_HWpdvlLb0AAQYCm.jpg",
+      "https://cms-assets.youmind.com/media/1794207469095_mhmuq4_HWpd8TwaEAAIbFq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 37427,
+    "content": "Premium coffee bag on a warm stone counter, soft morning window light, clean empty space top-left for a headline.",
+    "title": "Coffee Bag Product Shot Comparison",
+    "description": "A side-by-side comparison of GPT Image 2.6 and Nano Banana 2.1 generating a premium coffee bag product shot, with the shared prompt provided.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794207468914_s6iqvy_HWmJh2nbcAA9lZC.jpg",
+      "https://cms-assets.youmind.com/media/1794207468998_kvo9tc_HWmJjO4bIAAzb5z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37408,
     "content": "Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.",
     "title": "Editorial Archery Fashion Photography Prompt",
@@ -11086,16 +11109,6 @@
       "https://cms-assets.youmind.com/media/1777705640066_9s1kjc_HHRSHKdWoAAqhFW.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 17488,
-    "content": "A highly realistic, photorealistic close-up macro photography of a used, physically weathered {argument name=\"bank name\" default=\"JP Morgan Chase\"} bank check resting on a scratched wooden desk. The check is completely filled out with a blue ballpoint pen. The handwriting is distinctly human, messy, slightly slanted, and uniquely stylized with inconsistent ink pressure and minor skips, completely avoiding any uniform or computerized script-font appearance. The date written is '{argument name=\"date\" default=\"May 1, 2026\"}'. The signature on the bottom right clearly reads '{argument name=\"signature\" default=\"iqrasaifiii\"}' in a fast, authentic, slightly erratic cursive scrawl. The paper of the check shows significant physical wear and tear: noticeable horizontal and vertical folding creases, bent and frayed corners, faint dirt smudges, and subtle, faded coffee spots. A cheap black ballpoint pen lies slightly out of focus in the background. Shot on DSLR, 50mm lens, natural daylight casting soft, realistic shadows, 8k resolution.",
-    "title": "Photorealistic Bank Check Macro",
-    "description": "A hyper-realistic macro photography prompt for a weathered, used JP Morgan Chase bank check with authentic human handwriting.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777705635773_3m09um_HHPk2sRaEAEjJxv.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 17508,

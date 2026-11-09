@@ -8458,16 +8458,6 @@
     "needReferenceImages": false
   },
   {
-    "id": 2161,
-    "content": "Change the amount to {argument name=\"amount\" default=\"550,000 yen\"}",
-    "title": "Editing an Invoice Image Amount",
-    "description": "A prompt used to edit an existing image (an invoice) by changing the specified amount to 550,000 yen, demonstrating Nano Banana Pro's image manipulation capabilities when provided with a reference image.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1765991067947_ywtmky_G79PcOCagAAi9Zp.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 2043,
     "content": "Imagine yourself as a jungle explorer surviving a massive storm, without any of the danger or drenched clothes.",
     "title": "Jungle Explorer Scene Prompt",
@@ -10749,16 +10739,6 @@
     "description": "A rich, historically detailed prompt to recreate an authentic 1915 Bengali newspaper page with accurate typography, illustrations, and paper texture.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1763887052897_m925px_G6N4D8IacAMgX8i.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 191,
-    "content": "Generate a bank statement for Elon Musk, with all detailed information included.",
-    "title": "Elon Musk bank statement mockup",
-    "description": "A Chinese prompt to generate a realistic-looking Elon Musk bank account statement with full detailed information, useful for testing document realism (not for fraud).",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1763886793327_3vman6_G6N3MUaacAYkVVp.jpg"
     ],
     "needReferenceImages": false
   },

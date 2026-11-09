@@ -1,5 +1,16 @@
 [
   {
+    "id": 37427,
+    "content": "Premium coffee bag on a warm stone counter, soft morning window light, clean empty space top-left for a headline.",
+    "title": "Coffee Bag Product Shot Comparison",
+    "description": "A side-by-side comparison of GPT Image 2.6 and Nano Banana 2.1 generating a premium coffee bag product shot, with the shared prompt provided.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794207468914_s6iqvy_HWmJh2nbcAA9lZC.jpg",
+      "https://cms-assets.youmind.com/media/1794207468998_kvo9tc_HWmJjO4bIAAzb5z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37331,
     "content": "Unpainted grey resin garage kit of {argument name=\"character type\" default=\"a street racer girl\"}, {argument name=\"scale\" default=\"1/7 scale\"}, round base, loose parts laid out beside it, hard top light",
     "title": "Unpainted Resin Garage Kit of Street Racer Girl",
