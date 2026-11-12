@@ -13,6 +13,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 37465,
+    "content": "Create an image of a WDM/2 locomotive flying through the clouds, and spewing smoke",
+    "title": "Flying Locomotive Image",
+    "description": "A simple prompt asking Nano Banana to create an image of a WDM/2 locomotive flying through clouds and spewing smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794464486651_cc311g_HW5wPyZawAAA4hu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37292,
     "content": "The Colosseum rising, 70-80 AD. Foundations to the inaugural games, all in one batch. Style: cinematic documentary, warm Mediterranean light.",
     "title": "Colosseum Construction Cinematic Batch",

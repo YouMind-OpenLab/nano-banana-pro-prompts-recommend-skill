@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T19:29:13.395Z",
-  "totalPrompts": 15846,
+  "updatedAt": "2026-11-12T06:46:41.095Z",
+  "totalPrompts": 15847,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -66,7 +66,7 @@
       "slug": "others",
       "title": "Uncategorized",
       "file": "others.json",
-      "count": 1106
+      "count": 1107
     }
   ]
 }
