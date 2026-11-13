@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T06:03:18.798Z",
-  "totalPrompts": 15847,
+  "updatedAt": "2026-11-13T19:27:04.243Z",
+  "totalPrompts": 15848,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -30,7 +30,7 @@
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
-      "count": 704
+      "count": 705
     },
     {
       "slug": "product-marketing",
@@ -48,7 +48,7 @@
       "slug": "game-asset",
       "title": "Game Asset",
       "file": "game-asset.json",
-      "count": 731
+      "count": 732
     },
     {
       "slug": "poster-flyer",

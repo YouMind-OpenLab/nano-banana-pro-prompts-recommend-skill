@@ -1,5 +1,17 @@
 [
   {
+    "id": 37478,
+    "content": "Background studies for {argument name=\"character names\" default=\"Raven and Tiffany\"}'s second story, set in a fictional American suburb with hints of the {argument name=\"era\" default=\"'80s and '90s\"}. Realistic settings.",
+    "title": "Raven and Tiffany Background Studies",
+    "description": "A prompt for generating realistic background studies of a fictional American suburb with 80s/90s hints, suitable for narrative art projects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg",
+      "https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg",
+      "https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37376,
     "content": "1980 anime freeze frame in chalk pastel, boxer mid punch, sweat, rough paper grain",
     "title": "Anime Freeze Frame Pastel Art",
