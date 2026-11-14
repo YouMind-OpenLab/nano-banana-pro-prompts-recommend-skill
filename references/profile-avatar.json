@@ -10,6 +10,28 @@
     "needReferenceImages": false
   },
   {
+    "id": 37489,
+    "content": "Use the uploaded reference photo as the exact face and identity reference. Create a stunning, ultra-realistic winter fashion portrait of the same woman.\n\nIdentity preservation is the highest priority: Keep her exact original face, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, and natural features 100% unchanged. Do not beautify, reshape, or replace her face.\n\nOutfit: A luxurious white fluffy fur jacket, cream knitted high-neck sweater, soft white wool scarf, and elegant winter gloves.\n\nHair: Beautiful naturally flowing dark brown hair, with a few delicate snowflakes resting on it.\n\nPose: Standing in a magical snow-covered forest, gently holding a small bouquet of white flowers, looking directly into the camera with a soft natural smile.\n\nBackground: Snow-covered pine trees, gentle falling snow, dreamy winter mist, subtle warm golden lights in the distance.\n\nPhotography: Luxury winter editorial, professional DSLR, realistic skin texture, natural soft lighting, crisp facial details, cinematic depth of field, photorealistic 8K.\n\nComposition: Beautiful waist-up portrait, natural proportions, perfectly sharp face, elegant winter Pinterest aesthetic.\n\nStrictly avoid: Changing facial identity, face swapping, artificial skin, excessive makeup, face smoothing, CGI appearance, distorted hands, text, watermark.",
+    "title": "Ultra-Realistic Winter Fashion Portrait with Identity Preservation",
+    "description": "Generates a stunning winter fashion portrait using an uploaded reference photo to maintain exact facial identity while creating a luxurious snowy scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794637199468_f9prvu_HXAsAeGa8AAhek0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 37491,
+    "content": "Ultra-photorealistic selfie-style portrait of a young woman [Face Reference] with heavy glamorous makeup with long lashes and glossy pink lips. She is wearing [Outfit Reference]\n\nShe looks directly at the camera with a soft expression. She stands inside a luxurious modern high-rise apartment with floor-to-ceiling windows. Behind her is a bright daytime waterfront city skyline with tall glass buildings, a marina, and blue water under a clear sky with soft clouds. Bright natural sunlight fills the room, clean light floors, modern minimal furniture visible in the background. Highly detailed skin texture, realistic fabric stretch, sharp focus, cinematic lighting, high-resolution photographic quality.",
+    "title": "Ultra-photorealistic selfie portrait with outfit reference",
+    "description": "A prompt for generating an ultra-photorealistic selfie-style portrait of a young woman in a luxurious apartment, using specific face and outfit references. The tweet compares results from Grok, Seedream, and Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794637199557_wso39e_HXAEyG8bAAAcEj-.jpg",
+      "https://cms-assets.youmind.com/media/1794637199375_h3afdx_HXAE72lbIAAUGQP.jpg",
+      "https://cms-assets.youmind.com/media/1794637199405_e4cvcg_HXAE98CbsAE0rmw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 37378,
     "content": "Photorealistic portrait of a young woman ({argument name=\"face_reference\" default=\"Face Reference\"}) wearing this outfit ({argument name=\"outfit_reference\" default=\"Outfit Reference\"}) sitting on a wooden bench in a traditional Chinese-style interior. She is posed with one hand raised behind her head, elbow bent, legs elegantly positioned with one knee raised. Soft natural light enters from the side, illuminating her figure. Background features wooden lattice windows and classic porcelain decor. Realistic skin texture, natural shadows, sharp detail, high-resolution photography, warm and refined atmosphere.",
     "title": "Outfit Reference Portrait",
