@@ -10,6 +10,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 37690,
+    "content": "A raw-style photo with a vintage film effect and added grain. The woman stands relaxed, leaning her back against a wall during golden hour. In both hands, she holds a bouquet of huge white roses, more than 30 flowers. She presses it against her chest. Her long, wavy hair falls slightly over her face, creating a natural, unposed look. Part of her face is illuminated by sunbeams, giving the image the warm and soft lighting characteristic of golden hour. The woman looks at the camera. She is wearing a short dark denim shirt dress with long, wide sleeves; the buttons on the chest are fastened all the way to the hem of the dress; black nylon tights and high black boots. The background is minimalist, helping focus attention on her appearance and the atmosphere. Y2K style. Format 9:16.",
+    "title": "Vintage Film Portrait Prompt",
+    "description": "A detailed prompt for generating a raw-style vintage film portrait using Nano Banana 2 (Pro). Features a woman with white roses during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1795328440179_sfp84l_HXl2rZkaIAAIUJo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 37658,
     "content": "Create an ultra-realistic, high-quality portrait of a beautiful European young adult woman at a seaside beach. She has fair skin, long naturally wavy light-brown hair blowing gently in the ocean breeze, blue eyes, delicate facial features, and a soft natural smile. She is wearing an elegant white floral embroidered dress with sheer sleeves, delicate jewelry, and subtle makeup. She is sitting on the sandy beach, resting her cheek gently on one hand, looking directly at the camera. Beautiful turquoise ocean waves, clear blue sky, warm golden sunlight, soft wind in her hair, peaceful summer atmosphere, natural skin texture, realistic details, cinematic photography, DSLR, 85mm lens, shallow depth of field, luxury fashion photoshoot, soft natural lighting, photorealistic, 4K, vertical portrait, 9:16.",
     "title": "Realistic Beach Portrait Prompt",
