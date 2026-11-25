@@ -10,6 +10,32 @@
     "needReferenceImages": false
   },
   {
+    "id": 37723,
+    "content": "Macro photography of an artisanal stop-motion puppet of an {argument name=\"subject\" default=\"elderly man with a large papier-mâché head and very thin neck\"}. 2D features drawn in black ink: huge tired eyes and painted round glasses. He has a messy beard made of grey thread and wears a mustard wool vest over a dark shirt. Background of a miniature workshop, heavily blurred with soft side lighting, 1:1 aspect ratio.",
+    "title": "Stop-Motion Clay Puppet Portrait",
+    "description": "A prompt for generating macro photography of a stop-motion style clay puppet character with 2D ink-drawn facial features and matte textures, suitable for creating stylized character portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1795587717648_cqk74o_HX2FlkhWsAEZyi4.jpg",
+      "https://cms-assets.youmind.com/media/1795587719079_y4sygh_HX2FlklXkAAtW8b.jpg",
+      "https://cms-assets.youmind.com/media/1795587718129_yvz8ss_HX2FlkcXUAA1-pg.jpg",
+      "https://cms-assets.youmind.com/media/1795587718955_c6jqh0_HX2FlkhWMAAuu44.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 37722,
+    "content": "Please attach photos of your face and clothes.\n\nAttached images: Image 1 = Face reference, Image 2 = Clothing reference.\nFace/Hair: Make it the same person as in Image 1 (same face, hairstyle, hair color). Do not use the clothing, pose, or background from that image.\nClothing: Dress them in the exact clothes from Image 2. Do not use the face, hair, body type, or pose from that image.\nReference Priority: Even if the lines below mention different clothes or hairstyles than the attached images, follow the attached images for face, hair, and clothing.\n[Instruction] Create a new photo as if taken with a real camera. Smartphone vertical aspect ratio 9:16.\n\n[Scene]\nLocation: A hilltop overlook with a view of the sea at sunset\nScenario: She notices you\nScene Type: Sunset hilltop overlook by the sea. She was walking while gazing at the scenery. Noticing a voice calling her, she turns back mid-step, showing a relieved smile (she notices you).\nRelationship with You: Classmate sitting next to you\nLighting: Sunset light from upper left, left side of face bright, right side soft shadow, rim light on hair, sparkling sea surface becomes bokeh in background\nAtmosphere: Wide sea and sky, feeling of relief upon being noticed\nBackground is clean and orderly.\n\n[Subject]\nAdult Japanese woman.\nHairstyle: Bob\nPose: Turning back over right shoulder mid-stride while walking. Body remains facing the sea, both arms lowered naturally, hair and skirt hem swaying in the sea breeze and turning motion.\nExpression: Relieved smile upon noticing, turning face from scenery, natural eyebrows, catchlights in pupils.\nGaze: Looking at camera over right shoulder.\n\n[Details]\nComposition: Medium shot up to thighs, slightly looking up from one step below, aligned to right of frame. Large bokeh of overlook railing at bottom foreground, empty space of sky and sea spreading to left.\nDistance: Right-aligned medium shot up to thighs, slightly looking up from one step below.\nLens: 85mm lens\nCamera: Full-size camera\nColor Tone: Blue of sea and sky with warm sunset colors\nRatio: Smartphone vertical 9:16\nStyle: Photo taken with a real camera. Skin, hair, and fabric textures remain natural.\n\n[Constraints]\nThe camera is the eyes of a classmate of the same age (you) who is present there. Do not show the viewer's hands or body.\nIt is okay if a female classmate appears small in the background (only back or profile, heavily blurred). She should not look at the camera, approach her, or stand out more than her. No one else in foreground or in front of her.\nCamera above chest height. Focus on face and gestures.\nDo not change skin tone from reference image. Express shyness or joy through eyes, mouth, hands, posture.\nNo men appearing. Healthy and natural portrait.\nNo readable text, logos, or watermarks.\nDo not make it anime, illustration, or CG.",
+    "title": "Realistic Portrait Prompt for Nano Banana 2",
+    "description": "A detailed prompt for generating a realistic photograph of a woman turning around at a seaside overlook during sunset, using reference images for face and clothing consistency. The tweet compares outputs from ChatGPT, Muse, Seedream, and Gemini (Nano Banana 2).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1795587719196_bom6he_HX2PjYta8AEfBBs.jpg",
+      "https://cms-assets.youmind.com/media/1795587717731_tzs5mx_HX2PnKtawAAle8W.jpg",
+      "https://cms-assets.youmind.com/media/1795587718919_0hro1x_HX2Pp3VboAAQ7Xh.jpg",
+      "https://cms-assets.youmind.com/media/1795587719146_2brv51_HX2PsTTbIAA4TXk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 37690,
     "content": "A raw-style photo with a vintage film effect and added grain. The woman stands relaxed, leaning her back against a wall during golden hour. In both hands, she holds a bouquet of huge white roses, more than 30 flowers. She presses it against her chest. Her long, wavy hair falls slightly over her face, creating a natural, unposed look. Part of her face is illuminated by sunbeams, giving the image the warm and soft lighting characteristic of golden hour. The woman looks at the camera. She is wearing a short dark denim shirt dress with long, wide sleeves; the buttons on the chest are fastened all the way to the hem of the dress; black nylon tights and high black boots. The background is minimalist, helping focus attention on her appearance and the atmosphere. Y2K style. Format 9:16.",
     "title": "Vintage Film Portrait Prompt",
