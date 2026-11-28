@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T20:54:55.108Z",
-  "totalPrompts": 15865,
+  "updatedAt": "2026-11-28T07:14:32.513Z",
+  "totalPrompts": 15866,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -48,7 +48,7 @@
       "slug": "game-asset",
       "title": "Game Asset",
       "file": "game-asset.json",
-      "count": 732
+      "count": 733
     },
     {
       "slug": "poster-flyer",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 37772,
+    "content": "Image 2 is a wooden artist's mannequin that shows only this body pose: copy it exactly (head, torso, arms, hands, legs, feet, which hand does what, the camera angle), but do not copy the mannequin itself: no wooden skin, no joints, no blank face.",
+    "title": "Lock Face and Pose with Mannequin Reference",
+    "description": "A technique using a wooden mannequin image as a pose reference while keeping the original face, compatible with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1795846751294_d8z4er_HYIsaFAXUAAEBLb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 37478,
     "content": "Background studies for {argument name=\"character names\" default=\"Raven and Tiffany\"}'s second story, set in a fictional American suburb with hints of the {argument name=\"era\" default=\"'80s and '90s\"}. Realistic settings.",
     "title": "Raven and Tiffany Background Studies",
